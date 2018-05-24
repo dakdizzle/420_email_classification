@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+boat		1
+m		1
+assume		1
+know		1
+show		1
+today		1
+work		1
+going		1
+tonight		1

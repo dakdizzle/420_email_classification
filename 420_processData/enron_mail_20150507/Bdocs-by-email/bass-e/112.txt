@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+terrell		1
+blow		1
+knee		1
+offer		1
+out		1
+davis		1
+fault		1
+torry		1
+want		1
+knew		1
+going		1
+jamal		1
+didn		1

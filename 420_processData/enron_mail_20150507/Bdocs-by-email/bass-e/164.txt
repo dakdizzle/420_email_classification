@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+texas		2
+time		1
+know		1
+gave		1
+round		1
+cu		1
+never		1
+bet		1
+second		1
+figured		1
+go		1
+nothing		1
+line		1
+double		1
+last		1
+chance		1
+think		1
+give		1

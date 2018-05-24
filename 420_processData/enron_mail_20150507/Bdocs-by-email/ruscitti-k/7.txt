@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+around		1
+takes		1
+mapquest	1
+hrs		1
+houston		1
+corpusdickhead	1
+didn		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+circulate	1
+people		1
+ask		1
+comments	1
+thanks		1
+presentation	1

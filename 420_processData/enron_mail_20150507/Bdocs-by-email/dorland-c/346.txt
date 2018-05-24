@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ok		1
+reimbursement	1
+except		1
+car		1
+thanx		1
+chris		1
+looks		1
+include		1
+doesn		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+whatever	1
+embarrasment	1
+understand	1
+caught		1
+getting		1

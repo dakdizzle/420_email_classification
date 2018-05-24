@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+people		2
+together	1
+officerenron	1
+fax		1
+operating	1
+up		1
+thankslouise	1
+kitchenchief	1
+orig		1
+east		1
+getting		1
+really		1
+americastel	1
+ideas		1
+staff		1
+dessimated	1
+quickly		1
+need		1
+dave		1
+costs		1

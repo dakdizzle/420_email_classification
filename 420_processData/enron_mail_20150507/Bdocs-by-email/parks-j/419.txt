@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+response	1
+gotten		1

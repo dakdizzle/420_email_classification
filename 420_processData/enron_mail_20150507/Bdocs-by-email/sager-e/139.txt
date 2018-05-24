@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+soonelizabeth	1
+talk		1
+wed		1
+trying		1
+sager		1
+lunch		1
+hit		1
+thurs		1
+hi		1
+afternoon	1

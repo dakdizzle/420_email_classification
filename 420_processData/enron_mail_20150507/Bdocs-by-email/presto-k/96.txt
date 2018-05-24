@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+group		1
+respect		1
+fair		1
+requests	1
+dip		1
+understand	1
+peer		1
+reasonable	1
+individual	1
+money		1
+think		1

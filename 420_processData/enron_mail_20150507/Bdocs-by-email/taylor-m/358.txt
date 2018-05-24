@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+one		2
+out		1
+group		1
+send		1
+entire		1
+please		1
+go		1
+schedules	1
+future		1
+d		1
+reference	1

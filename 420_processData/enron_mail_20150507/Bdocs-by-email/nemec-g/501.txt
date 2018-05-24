@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+janette		1
+cle		1
+plan		1
+attending	1
+doubletree	1
+august		1
+thanks		1

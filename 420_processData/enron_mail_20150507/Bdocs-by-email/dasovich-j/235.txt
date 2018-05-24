@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+shortly		1
+aleck		1
+yeah		1
+oops		1
+fine		1
+bad		1
+pat		1
+sue		1
+call		1
+talked		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+coola		1
+mean		1
+jmf		1
+tu		1
+aiento		1
+inches		1

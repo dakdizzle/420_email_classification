@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+quarter		2
+end		2
+close		1
+know		1
+deals		1
+fyi		1
+help		1
+closer		1
+done		1
+team		1
+sally		1
+pending		1
+dpr		1

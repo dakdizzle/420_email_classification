@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+anything	1
+know		1
+things		1
+change		1
+want		1
+highlight	1
+add		1
+technologies	1

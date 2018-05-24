@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+jones		1
+useful		1
+interested	1
+hourly		1
+well		1
+discovery	1
+price		1
+etc		1
+really		1
+dow		1
+positions	1
+index		1
+financial	1
+very		1
+think		1

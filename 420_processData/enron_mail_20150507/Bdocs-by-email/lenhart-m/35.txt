@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+gonna		2
+watch		2
+time		1
+try		1
+series		1
+watched		1
+hockey		1
+haven		1
+play		1
+next		1

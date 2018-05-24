@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+officerenron	1
+fax		1
+americastel	1
+operating	1
+sign		1
+louise		1
+kitchenchief	1

@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+numbers		2
+mentioned	1
+steve		1
+alan		1
+previously	1
+names		1
+worked		1
+canceled	1
+both		1
+home		1
+merriss		1
+two		1
+cell		1
+respectively	1
+bill		1
+phones		1
+eric		1
+want		1
+linder		1
+pass		1
+months		1

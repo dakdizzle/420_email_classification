@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+sent		1
+frank		1

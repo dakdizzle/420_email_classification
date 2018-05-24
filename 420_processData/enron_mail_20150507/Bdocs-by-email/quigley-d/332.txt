@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+stay		1
+nice		1
+look		1
+complement	1
+time		1
+mighty		1
+keep		1
+todaydq		1
+testy		1
+silentbut	1
+next		1

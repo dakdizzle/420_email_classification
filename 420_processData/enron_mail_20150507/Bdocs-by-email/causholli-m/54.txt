@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+followed	1
+procedure	1
+hello		1
+causholli	1
+thank		1
+exact		1
+youmonika	1
+bobbi		1

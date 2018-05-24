@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kids		1
+kh		1
+look		1
+back		1
+grade		1
+sizes		1
+call		1
+ll		1

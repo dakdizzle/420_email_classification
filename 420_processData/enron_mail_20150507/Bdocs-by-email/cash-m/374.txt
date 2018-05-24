@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+assign		1
+people		1
+employment	1
+agreements	1
+ena		1
+michelle	1
+need		1
+d		1
+transfer	1
+effective	1

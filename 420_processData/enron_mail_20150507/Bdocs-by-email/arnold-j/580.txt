@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+meeting		1
+panel		1
+john		1
+gas		1
+today		1
+advisory	1
+nymex		1
+include		1
+arnoldenron	1
+nat		1
+daniel		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+confusion	1
+guys		1
+work		1
+already		1
+susan		1
+paying		1
+think		1
+thanks		1
+ll		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+bike		1
+heather		1
+come		1
+count		1
+buy		1
+here		1
+ll		1

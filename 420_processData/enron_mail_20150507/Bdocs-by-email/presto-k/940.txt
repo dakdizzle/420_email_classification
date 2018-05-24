@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+presto		2
+kevin		2
+cn		2
+info		1
+screened	1
+kpresto		1
+recipients	1
+fine		1
+related		1
+filename	1
+na		1
+pstrika		1
+privileged	1
+non		1
+enron		1
+genco		1
+ou		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+put		1
+block		1
+available	1
+pls		1
+calender	1
+bt		1

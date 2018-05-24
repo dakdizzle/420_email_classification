@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+mark		1
+pm		1
+cash		1
+time		1
+position	1
+talk		1
+contingency	1
+today		1
+central		1
+haedicke	1
+team		1
+tomorrow	1
+need		1
+through		1

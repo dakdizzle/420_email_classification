@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+day		1
+shoot		1
+well		1
+oh		1
+today		1
+now		1
+punk		1
+guess		1
+see		1
+eric		1
+ya		1
+happy		1
+line		1
+work		1
+old		1
+don		1
+think		1
+tonight		1

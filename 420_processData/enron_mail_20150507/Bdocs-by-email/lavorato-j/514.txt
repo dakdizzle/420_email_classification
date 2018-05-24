@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+others		1
+room		1
+lavop		1
+well		1
+memo		1
+old		1
+already		1
+known		1
+chris		1
+play		1
+didn		1
+always		1

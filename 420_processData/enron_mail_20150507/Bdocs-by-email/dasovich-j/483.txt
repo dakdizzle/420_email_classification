@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+everything	1
+hesitate	1
+jeff		1
+best		1
+update		1
+need		1
+don		1
+give		1
+call		1

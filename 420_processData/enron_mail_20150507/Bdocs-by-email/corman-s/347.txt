@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+party		1
+rsvp		1
+list		1
+copy		1
+thursday	1
+alma		1

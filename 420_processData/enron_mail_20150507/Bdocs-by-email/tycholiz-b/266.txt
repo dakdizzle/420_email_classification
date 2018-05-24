@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+info		1
+something	1
+assume		1
+need		1
+bt		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+generate	1
+ava		1
+please		1
+world		1
+envelope	1
+adoptions	1
+thanks		1

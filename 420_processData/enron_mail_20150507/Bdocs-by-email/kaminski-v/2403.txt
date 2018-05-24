@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+shall		2
+greg		1
+attach		1
+company		1
+steve		1
+prediction	1
+problem		1
+outline		1
+confused	1
+vince		1
+memo		1
+minutes		1
+memory		1

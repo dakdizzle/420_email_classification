@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+etc		3
+ones		1
+deals		1
+following	1
+four		1
+phillip		1
+misleading	1
+list		1
+mid		1
+need		1
+nbpl		1
+rest		1
+new		1

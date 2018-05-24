@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+vkamins		2
+cn		2
+interview	1
+up		1
+pstshirley	1
+recipients	1
+vk		1
+phone		1
+filename	1
+na		1
+zl		1
+privileged	1
+vince		1
+vsvince		1
+non		1
+enron		1
+ou		1
+set		1
+kaminski	1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+interview	1
+up		1
+johnny		1
+bring		1
+palmer		1
+set		1

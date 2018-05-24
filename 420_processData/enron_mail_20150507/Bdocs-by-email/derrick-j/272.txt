@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+jderric		2
+cn		2
+williams	1
+contact		1
+recipients	1
+matters		1
+litigation	1
+bob		1
+derrick		1
+filename	1
+na		1
+pstplease	1
+privileged	1
+jim		1
+non		1
+enron		1
+jr		1
+james		1
+ou		1
+manager		1
+ext		1

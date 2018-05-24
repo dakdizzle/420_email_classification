@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+looks		3
+load		2
+good		2
+information	1
+overall		1
+few		1
+temperature	1
+graphs		1
+thanks		1
+anything	1
+whatever	1
+really		1
+sensitive	1
+outliers	1
+linepack	1
+go		1
+ahead		1
+jay		1
+pretty		1
+very		1
+think		1

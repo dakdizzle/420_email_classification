@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+send		1
+possible	1
+electronically	1
+absolutely	1
+thanks		1

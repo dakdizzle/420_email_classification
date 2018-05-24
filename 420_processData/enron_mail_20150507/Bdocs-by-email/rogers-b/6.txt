@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+make		1
+carefull	1
+sex		1
+deny		1
+don		1

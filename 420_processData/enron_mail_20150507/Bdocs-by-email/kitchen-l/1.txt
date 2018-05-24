@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+cn		2
+officerenron	1
+fax		1
+operating	1
+louise		1
+recipients	1
+kitchenchief	1
+tammie		1
+na		1
+americastel	1
+enron		1
+tstaggs		1
+ou		1
+schoppe		1

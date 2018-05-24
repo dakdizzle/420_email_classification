@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+parents		1
+good		1
+mom		1
+talk		1
+condo		1
+staying		1
+luck		1
+ll		1

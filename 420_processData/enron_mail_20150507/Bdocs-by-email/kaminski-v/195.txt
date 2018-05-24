@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+aol		1
+vince		1
+vkaminski	1
+kaminski	1
+com		1

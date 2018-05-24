@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+mondya		1
+tele		1
+tuesdaycell	1
+commutes	1
+bernard		1
+erlichwork	1

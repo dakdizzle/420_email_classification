@@ -1,0 +1,14 @@
+NumWords	14
+NumTerms	11
+
+worried		2
+rates		2
+zone		2
+care		1
+starts		1
+competitive	1
+f		1
+having		1
+move		1
+area		1
+market		1

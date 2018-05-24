@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+version		1
+please		1
+final		1
+cob		1
+tommorow	1
+tammie		1
+thanks		1

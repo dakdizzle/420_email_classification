@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+amalgamation	2
+heard		1
+credit		1
+comx		1
+marie		1
+response	1
+filename	1
+never		1
+thanks		1
+privileged	1
+respect		1
+issues		1
+gordon		1
+psti		1
+non		1
+mx		1
+enron		1
+heaney		1
+received	1
+origin		1
+mail		1
+mheard		1

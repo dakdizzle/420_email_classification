@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+clam		1
+cabin		1
+back		1
+stabbin		1
+gonna		1
+thought		1

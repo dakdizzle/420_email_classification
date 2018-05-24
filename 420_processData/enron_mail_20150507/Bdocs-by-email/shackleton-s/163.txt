@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+fuller		1
+jeff		1
+sara		1
+stewart		1
+address		1

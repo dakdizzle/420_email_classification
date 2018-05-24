@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+situation	1
+down		1
+ok		1
+clean		1
+enron		1
+go		1
+forward		1
+slowed		1
+process		1
+sec		1

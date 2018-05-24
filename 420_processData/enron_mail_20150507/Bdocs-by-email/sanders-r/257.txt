@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+dept		1
+service		1
+yes		1
+pr		1
+thanks		1

@@ -1,0 +1,27 @@
+NumWords	44
+NumTerms	24
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+elizabeth	2
+ibrahim		1
+web		1
+meet		1
+site		1
+jim		1
+snord		1
+please		1
+update		1
+aibrahi		1
+amr		1
+hkingers	1
+harry		1
+linnell		1
+kingerski	1
+elinnell	1
+week		1
+sue		1
+nord		1

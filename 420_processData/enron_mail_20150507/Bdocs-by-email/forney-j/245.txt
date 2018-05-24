@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+please		2
+list		1
+questions	1
+attached	1
+jmf		1
+see		1
+thanks		1
+call		1

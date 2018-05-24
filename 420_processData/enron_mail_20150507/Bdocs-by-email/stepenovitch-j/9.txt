@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+morning		1
+good		1
+cell		1
+decide		1
+jolyn		1
+number		1

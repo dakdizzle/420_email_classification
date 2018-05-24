@@ -1,0 +1,26 @@
+NumWords	30
+NumTerms	23
+
+guy		3
+sister		2
+married		2
+houston		2
+carol		2
+named		2
+events		1
+recent		1
+know		1
+steve		1
+friend		1
+complicated	1
+sounds		1
+sounded		1
+faring		1
+andy		1
+hope		1
+mimi		1
+best		1
+work		1
+woman		1
+okay		1
+here		1

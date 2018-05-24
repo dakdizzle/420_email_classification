@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+stuff		1
+really		1
+boy		1
+man		1
+know		1
+save		1
+author		1
+wit		1
+don		1

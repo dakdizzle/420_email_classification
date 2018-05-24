@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+producers	1
+transportation	1
+m		1
+bankruptcy	1
+appalachain	1
+gas		1
+structuring	1
+keeping		1
+folder		1
+file		1
+here		1

@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+mark		2
+repayment	1
+full		1
+stated		1
+mentioned	1
+end		1
+payment		1
+leaves		1
+late		1
+repaid		1
+enron		1
+handle		1
+received	1
+sally		1
+february	1
+before		1
+november	1

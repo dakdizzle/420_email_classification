@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+group		1
+together	1
+card		1
+time		1
+up		1
+visit		1
+shows		1
+jackson		1
+moon		1
+getting		1
+thanks		1
+downstairs	1
+jesse		1
+vd		1
+cute		1
+enjoying	1
+hope		1
+one		1
+more		1
+going		1
+parent		1
+here		1

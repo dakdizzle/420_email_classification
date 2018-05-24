@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+tjones		2
+cn		2
+jones		1
+guaranty	1
+final		1
+transmitting	1
+draft		1
+koehler		1
+recipients	1
+tana		1
+referenced	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+anne		1
+ou		1
+pstat		1
+request		1

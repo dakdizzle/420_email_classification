@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+susan		2
+cn		2
+sbaile		1
+email		1
+recipients	1
+left		1
+bailey		1
+na		1
+message		1
+enron		1
+bill		1
+sara		1
+another		1
+ou		1
+here		1

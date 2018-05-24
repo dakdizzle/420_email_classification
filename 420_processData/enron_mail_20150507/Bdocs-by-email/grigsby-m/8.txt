@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+privileged	2
+non		2
+mgrigsb		2
+expansionsummary	1
+filename	1
+folder		1
+fw		1
+pst		1
+sent		1
+mx		1
+origin		1
+itemsx		1
+subject		1
+grigsby		1

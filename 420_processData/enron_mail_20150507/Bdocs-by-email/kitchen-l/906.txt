@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ve		1
+somewhere	1
+copy		1
+websites	1
+itss		1
+want		1
+probably	1
+read		1
+crap		1

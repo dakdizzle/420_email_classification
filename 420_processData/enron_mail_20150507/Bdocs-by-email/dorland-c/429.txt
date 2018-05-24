@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+order		1
+tires		1
+those		1
+much		1
+pictures	1
+stock		1
+thank		1
+chris		1
+wheels		1
+very		1
+dorland		1

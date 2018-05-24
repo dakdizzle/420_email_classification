@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+cn		2
+joe		2
+parks		2
+talking		1
+enron		1
+guys		1
+jparks		1
+recipients	1
+ou		1
+pstwhat		1
+filename	1
+na		1

@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+ikea		2
+april		1
+sent		1
+friday		1
+amsubject	1
+mpeg		1

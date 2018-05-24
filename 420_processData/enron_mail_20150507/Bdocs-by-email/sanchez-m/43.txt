@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+sanchez		2
+monique		2
+lamprecht	2
+jennifer	2
+pm		1
+western		1
+ect		1
+see		1
+apb		1
+fw		1
+oxy		1
+hou		1
+itenerary	1
+forwarded	1
+itineraryfyi	1
+pmto		1
+enron		1
+best		1
+subject		1
+comcc		1
+com		1

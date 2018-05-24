@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+early		1
+sun		1
+flet		1
+amerex		1
+pickles		1
+houstonian	1
+golf		1
+frank		1

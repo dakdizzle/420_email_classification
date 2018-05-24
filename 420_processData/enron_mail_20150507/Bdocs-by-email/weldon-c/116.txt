@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+charlie		1
+starting	1
+quot		1
+sheet		1
+august		1
+thanks		1
+here		1
+dutch		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+account		1
+open		1
+wil		1
+refco		1
+ready		1
+think		1

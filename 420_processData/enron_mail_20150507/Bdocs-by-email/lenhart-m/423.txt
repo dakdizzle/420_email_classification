@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+party		1
+up		1
+doubt		1
+go		1
+again		1
+want		1
+going		1
+gi		1
+halloween	1
+afterwards	1
+joe		1
+dress		1

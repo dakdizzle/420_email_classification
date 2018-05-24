@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+plan		1
+greg		1
+counter		1
+rick		1
+know		1
+discount	1
+disagree	1
+indicated	1

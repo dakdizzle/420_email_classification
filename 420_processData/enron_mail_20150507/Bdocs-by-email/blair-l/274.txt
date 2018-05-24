@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lynn		1
+sending		1
+michelle	1
+before		1
+going		1
+mike		1
+wait		1
+input		1
+thanks		1

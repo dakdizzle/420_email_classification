@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+marie		1
+netting		1
+thanks		1
+master		1
+bp		1
+received	1
+signed		1
+agreements	1
+amoco		1
+original	1
+package		1
+sharon		1
+hi		1

@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+pm		1
+time		1
+california	1
+talk		1
+know		1
+arrange		1
+million		1
+thanks		1
+call		1
+jim		1
+good		1
+great		1
+around		1
+possible	1
+jeff		1
+best		1
+rick		1
+back		1
+minutes		1
+break		1
+need		1
+don		1
+very		1

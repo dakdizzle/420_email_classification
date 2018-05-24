@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+duds		1
+soon		1
+see		1

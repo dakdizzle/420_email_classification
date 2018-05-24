@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vs		1
+credit		1
+ratings		1
+competitors	1
+here		1

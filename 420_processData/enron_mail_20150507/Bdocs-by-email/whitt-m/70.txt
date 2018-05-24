@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+presentation	2
+info		1
+together	1
+spark		1
+th		1
+nov		1
+help		1
+running		1
+good		1
+probably	1
+need		1
+putting		1
+spreads		1

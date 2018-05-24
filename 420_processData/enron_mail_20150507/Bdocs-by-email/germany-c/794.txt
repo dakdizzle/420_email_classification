@@ -1,0 +1,10 @@
+NumWords	10
+NumTerms	7
+
+capacity	2
+iroq		2
+bids		2
+ask		1
+tenn		1
+zone		1
+later		1

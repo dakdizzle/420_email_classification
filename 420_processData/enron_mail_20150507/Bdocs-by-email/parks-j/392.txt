@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+market		2
+holdings	1
+statement	1
+treasury	1
+corporate	1
+interest	1
+assets		1
+hold		1
+equity		1
+bonds		1
+want		1
+already		1
+foreigners	1
+add		1

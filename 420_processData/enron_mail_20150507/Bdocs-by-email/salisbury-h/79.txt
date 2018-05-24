@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+run		2
+thank		1
+know		1
+portland	1
+report		1
+foster		1
+transmission	1
+help		1
+scheduler	1
+shot		1
+enclosed	1
+sql		1
+holden		1
+error		1
+office		1
+please		1
+screen		1
+batch		1
+using		1

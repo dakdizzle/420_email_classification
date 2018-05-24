@@ -1,0 +1,23 @@
+NumWords	30
+NumTerms	20
+
+canada		4
+energy		3
+inc		2
+paso		2
+know		2
+merchant	2
+el		2
+dynegy		1
+morris		1
+ones		1
+marie		1
+far		1
+p		1
+anything	1
+bp		1
+enron		1
+involve		1
+companylet	1
+need		1
+corp		1

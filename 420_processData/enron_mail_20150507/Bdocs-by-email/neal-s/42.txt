@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+plan		1
+people		1
+floor		1
+fill		1
+please		1
+attached	1

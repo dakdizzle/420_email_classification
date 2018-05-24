@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+make		2
+sure		2
+thing		1
+starting	1
+river		1
+quite		1
+covered		1
+ready		1
+especially	1
+involved	1
+huber		1
+out		1
+powder		1
+purchases	1
+need		1
+dec		1

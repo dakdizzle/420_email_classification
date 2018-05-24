@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+care		1
+sara		1
+marie		1
+documents	1
+take		1
+thanks		1
+expecting	1
+ll		1

@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+ok		2
+look		1
+organization	1
+looks		1
+nat		1

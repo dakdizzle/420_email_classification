@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+list		1
+adding		1
+fine		1

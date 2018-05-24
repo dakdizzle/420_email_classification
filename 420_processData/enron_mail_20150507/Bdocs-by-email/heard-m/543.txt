@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+send		1
+office		1
+bear		1
+location	1
+sheila		1
+marie		1
+documents	1
+copies		1
+stearns		1
+hi		1
+thanks		1

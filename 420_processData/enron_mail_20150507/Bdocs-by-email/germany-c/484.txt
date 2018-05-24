@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+left		2
+voicemail	2
+burlingtonjulie	1
+leave		1
+maternity	1
+russell		1
+robert		1
+capacity	1
+posted		1
+bp		1
+april		1
+eason		1
+reames		1
+amoco		1
+weeks		1
+williamson	1
+tw		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+manicure	1
+please		1

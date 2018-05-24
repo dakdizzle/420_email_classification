@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+paralegal	1
+today		1
+lunch		1
+wish		1

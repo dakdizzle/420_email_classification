@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+email		2
+earlier		2
+send		1
+support		1
+up		1
+west		1
+suggested	1
+carol		1
+thanks		1
+out		1
+follow		1
+team		1
+another		1
+break		1

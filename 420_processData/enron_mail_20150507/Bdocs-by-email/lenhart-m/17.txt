@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+highschool	1
+heard		1
+nickname	1
+surgeon		1
+virgin		1

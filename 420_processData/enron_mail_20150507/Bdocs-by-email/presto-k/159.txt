@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+presto		2
+kevin		2
+cn		2
+counterparty	1
+kpresto		1
+recipients	1
+filename	1
+na		1
+remove		1
+list		1
+non		1
+upon		1
+wabash		1
+confirmation	1
+pstsee		1
+enron		1
+please		1
+portz		1
+ou		1
+below		1
+note		1
+termination	1

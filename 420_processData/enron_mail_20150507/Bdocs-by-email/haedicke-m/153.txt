@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+play		2
+mark		1
+together	1
+plan		1
+up		1
+well		1
+golf		1
+regards		1
+great		1
+look		1
+forward		1
+doing		1
+catching	1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+little		1
+supervisors	1
+pan		1
+simplify	1
+enough		1
+clear		1
+thankslavo	1
+more		1
+pass		1
+summary		1
+nat		1

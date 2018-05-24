@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+know		2
+whatever	1
+later		1
+doing		1
+tonight		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+much		1
+something	1
+janel		1
+media		1
+pri		1
+sure		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+boat		1
+wave		1
+wooohoooo	1
+bay		1
+woooooooooohoooooooooooooooo	1
+blue		1
+daddy		1
+new		1
+getting		1

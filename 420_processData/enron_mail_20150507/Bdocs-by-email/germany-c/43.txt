@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+stuff		1
+drug		1
+babies		1
+counter		1
+store		1
+check		1
+medicine	1
+gas		1
+over		1
+getting		1

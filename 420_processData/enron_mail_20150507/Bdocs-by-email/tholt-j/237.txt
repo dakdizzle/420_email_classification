@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+monday		1
+cute		1
+football	1
+manly		1
+guy		1
+night		1
+watch		1
+probably	1
+year		1
+lawyers		1
+bet		1

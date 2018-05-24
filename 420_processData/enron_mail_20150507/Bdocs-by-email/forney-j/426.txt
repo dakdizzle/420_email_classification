@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+smooth		1
+move		1
+very		1

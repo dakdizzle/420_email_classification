@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+order		1
+return		1
+send		1
+good		1
+wedding		1
+well		1
+today		1
+stephanie	1
+lunch		1
+think		1
+gift		1
+talked		1

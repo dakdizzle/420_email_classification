@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+debt		1
+borrow		1
+week		1
+assumes		1
+otherwise	1
+next		1
+calcualtion	1

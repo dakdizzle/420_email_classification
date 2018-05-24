@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+really		1
+thinking	1
+evening		1
+talk		1
+prep		1
+sat		1
+needed		1
+work		1
+watering	1
+tonight		1
+hole		1

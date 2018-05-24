@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+day		2
+cash		1
+hub		1

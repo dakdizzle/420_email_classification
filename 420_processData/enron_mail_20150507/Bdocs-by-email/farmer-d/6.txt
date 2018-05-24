@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+top		2
+blue		2
+put		2
+pirate		2
+icing		1
+partyperfection	1
+bunch		1
+http		1
+find		1
+cake		1
+ocean		1
+ships		1
+yimg		1
+seas		1
+around		1
+store		1
+ship		1
+balloons	1
+rough		1
+com		1

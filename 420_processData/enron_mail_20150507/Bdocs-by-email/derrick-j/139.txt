@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+john		2
+jim		1
+haedicke	1
+mark		1
+novak		1
+respond		1
+question	1
+asked		1

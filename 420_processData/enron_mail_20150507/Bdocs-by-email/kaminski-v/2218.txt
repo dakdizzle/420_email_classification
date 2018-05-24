@@ -1,0 +1,11 @@
+NumWords	11
+NumTerms	8
+
+specific	2
+information	2
+country		2
+http		1
+housingfinance	1
+www		1
+org		1
+htm		1

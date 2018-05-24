@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+know		2
+full		1
+updated		1
+value		1
+under		1
+glad		1
+keep		1
+problem		1
+getting		1
+phil		1
+please		1
+control		1
+plate		1
+effort		1
+eott		1
+brought		1
+assisting	1

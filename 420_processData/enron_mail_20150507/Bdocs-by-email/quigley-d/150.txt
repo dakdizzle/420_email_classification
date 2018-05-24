@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+thinkilydq	1
+alter		1
+spread		1
+upgrades	1
+prices		1
+kaywhen		1
+time		1
+sheet		1
+please		1
+go		1
+add		1
+through		1

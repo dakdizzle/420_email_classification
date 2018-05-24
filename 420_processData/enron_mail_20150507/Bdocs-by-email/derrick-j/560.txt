@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+mark		1
+matter		1
+handling	1
+attorney	1

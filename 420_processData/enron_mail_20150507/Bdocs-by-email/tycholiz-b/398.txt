@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+monday		1
+up		1
+jessica		1
+bt		1
+getting		1
+second		1
+space		1
+room		1
+look		1
+check		1
+please		1
+conference	1
+set		1
+booking		1
+pre		1

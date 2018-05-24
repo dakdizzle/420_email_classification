@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+both		1
+agreements	1
+attached	1
+draft		1
+entities	1

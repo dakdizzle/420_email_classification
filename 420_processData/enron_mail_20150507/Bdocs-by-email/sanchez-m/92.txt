@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+look		1
+somewhere	1
+up		1
+time		1
+finish		1
+range		1
+idea		1
+website		1
+thanks		1

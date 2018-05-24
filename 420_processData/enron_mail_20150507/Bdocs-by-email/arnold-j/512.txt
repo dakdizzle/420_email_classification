@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+orders		1
+limit		1
+introduce	1
+savita		1
+chance		1
+spreads		1

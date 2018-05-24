@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+cid		1
+cera		1
+html		1
+client		1
+http		1
+report		1
+wopec		1
+www		1
+wopcirano	1
+uk		1
+papers		1
+mcc		1
+kid		1
+netec		1
+typrpt		1
+data		1
+htmlhttp	1
+ac		1
+knowledgearea	1
+com		1

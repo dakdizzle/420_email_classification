@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+send		1
+hope		1
+ok		1
+copy		1
+lora		1
+thanks		1

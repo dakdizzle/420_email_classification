@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+change		1
+enpower		1
+ll		1

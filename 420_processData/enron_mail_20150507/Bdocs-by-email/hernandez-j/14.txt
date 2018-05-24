@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+las		1
+agenda		1
+steve		1
+vegas		1
+here		1

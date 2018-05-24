@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+write		1
+m		1
+job		1
+giving		1
+ups		1
+description	1
+fine		1
+website		1
+charts		1

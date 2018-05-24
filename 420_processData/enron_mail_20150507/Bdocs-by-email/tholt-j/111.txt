@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+others		1
+maintenance	1
+cornudas	1
+free		1
+window		1
+helpful		1
+periods		1
+absent		1
+thank		1
+ask		1
+rocks		1
+contraints	1
+times		1
+looks		1
+good		1
+many		1
+exsited		1
+pools		1
+feel		1
+within		1
+upstream	1
+think		1
+add		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+make		1
+cycle		1
+value		1
+ny		1
+combined	1
+sense		1
+project		1
+eastern		1

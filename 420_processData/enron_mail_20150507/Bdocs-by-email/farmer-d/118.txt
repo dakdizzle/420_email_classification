@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+know		2
+ed		1
+day		1
+continue	1
+building	1
+concerns	1
+training	1
+questions	1
+spoke		1
+hpl		1
+mike		1
+move		1
+new		1

@@ -1,0 +1,7 @@
+NumWords	6
+NumTerms	4
+
+fishing		2
+fly		2
+net		1
+book		1

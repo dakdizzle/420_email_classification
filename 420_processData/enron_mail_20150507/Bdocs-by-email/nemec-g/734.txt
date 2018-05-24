@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+haedicke	1
+sitting		1
+up		1
+bring		1
+desk		1
+signature	1
+pick		1
+going		1
+eva		1

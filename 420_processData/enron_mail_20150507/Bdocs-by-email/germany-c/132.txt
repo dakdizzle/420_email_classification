@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+fundyplasma	1
+enron		1
+http		1
+jsp		1
+financial	1
+site		1
+com		1
+hotcs		1

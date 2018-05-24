@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+veronica	1
+credit		1
+gonzales	1
+moran		1
+hagelmann	1
+bjorn		1
+tom		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+fun		1
+go		1
+going		1
+sounds		1
+lunch		1
+dancing		1
+think		1

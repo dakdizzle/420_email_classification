@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+long		1
+johngreg	1
+position	1
+looking		1
+portland	1
+apparently	1
+slightly	1
+commodity	1

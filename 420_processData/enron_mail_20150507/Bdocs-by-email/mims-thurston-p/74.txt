@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+crestar		1
+seems		1
+under		1
+everything	1
+hyvl		1
+dan		1
+hold		1
+tight		1
+done		1
+check		1
+back		1
+trader		1
+double		1
+original	1
+went		1
+pretty		1
+needs		1

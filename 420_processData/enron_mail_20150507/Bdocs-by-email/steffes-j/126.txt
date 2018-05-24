@@ -1,0 +1,22 @@
+NumWords	32
+NumTerms	19
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+ok		1
+nicolay		1
+time		1
+keep		1
+christi		1
+minimal		1
+shapiro		1
+jim		1
+cnicola		1
+snovose		1
+novosel		1
+sarah		1
+rshapiro	1
+richard		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+gives		1
+much		1
+paul		1
+enron		1
+pay		1
+breakdown	1
+soccer		1

@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+paul		1
+job		1
+free		1
+man		1
+time		1
+well		1
+now		1
+av		1
+screwing	1
+getting		1
+ve		1
+m		1
+office		1
+night		1
+drinks		1
+lay		1
+maybe		1
+last		1
+went		1
+week		1
+game		1
+love		1
+next		1

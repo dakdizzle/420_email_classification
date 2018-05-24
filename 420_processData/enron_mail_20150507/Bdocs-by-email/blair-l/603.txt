@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+promotion	1
+ly		1
+deserved	1
+well		1
+congratulations	1
+rachel		1
+nn		1
+thanks		1

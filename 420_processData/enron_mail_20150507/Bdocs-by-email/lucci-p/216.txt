@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jerry		1
+time		1
+padilla		1
+go		1
+yes		1

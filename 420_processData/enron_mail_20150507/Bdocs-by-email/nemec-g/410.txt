@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+forward		2
+shortly		1
+transaction	1
+create		1
+attached	1
+review		1
+terms		1
+firm		1
+master		1
+colorado	1
+utilities	1
+need		1
+springs		1
+contain		1
+agreement	1
+deal		1
+still		1

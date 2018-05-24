@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+fax		2
+notebook	1
+together	1
+sitting		1
+eb		1
+wonder		1
+ph		1
+keep		1
+street		1
+phone		1
+wholesale	1
+room		1
+services	1
+shackletonenron	1
+sara		1
+ahouston	1
+myself		1
+tx		1
+smith		1
+conference	1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+trader		1
+deals		1

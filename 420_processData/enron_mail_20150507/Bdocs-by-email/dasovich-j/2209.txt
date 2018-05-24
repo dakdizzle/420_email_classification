@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+meeting		1
+strategy	1
+know		1
+land		1
+bids		1
+won		1
+sorry		1
+urban		1
+morning		1
+ptsif		1
+real		1
+josh		1
+jeff		1
+best		1
+global		1
+estate		1
+mixup		1
+work		1
+missed		1
+bidding		1
+ptse		1
+think		1
+here		1

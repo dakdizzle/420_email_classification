@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+msn		2
+asp		1
+articles	1
+style		1
+http		1
+retire		1
+moneycentral	1
+special		1
+com		1

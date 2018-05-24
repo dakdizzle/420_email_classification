@@ -1,0 +1,19 @@
+NumWords	21
+NumTerms	16
+
+little		2
+furry		2
+those		2
+dogs		2
+one		2
+dog		1
+place		1
+carry		1
+everywhere	1
+personality	1
+cats		1
+act		1
+stay		1
+type		1
+bulldog		1
+depends		1

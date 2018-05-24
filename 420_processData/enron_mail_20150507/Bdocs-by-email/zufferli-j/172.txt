@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+details		1
+start		1
+sure		1
+new		1

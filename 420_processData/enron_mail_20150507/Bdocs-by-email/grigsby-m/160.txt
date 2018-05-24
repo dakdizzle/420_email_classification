@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+monitors	1
+resigned	1
+leaving		1
+please		1
+october		1
+one		1
+mike		1
+mog		1
+monique		1
+give		1
+take		1
+thanks		1

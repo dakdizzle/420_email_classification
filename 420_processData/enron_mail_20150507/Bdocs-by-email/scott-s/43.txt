@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+encrypted	2
+key		1
+migrated	1
+exchange	1
+messages	1
+public		1
+security	1
+microsoft	1
+message		1
+lotus		1
+notes		1
+original	1
+private		1
+using		1
+server		1

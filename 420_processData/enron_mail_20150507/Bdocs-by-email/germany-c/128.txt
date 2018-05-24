@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+changed		1
+keyspan		1
+iroquios	1
+know		1
+name		1
+morgan		1
+robin		1
+people		1
+almond		1
+need		1
+last		1
+sure		1
+joan		1
+ext		1

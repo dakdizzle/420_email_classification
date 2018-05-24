@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+depressing	1
+under		1
+talk		1
+things		1
+sorry		1
+jim		1
+out		1
+way		1
+enron		1
+best		1
+go		1
+forward		1
+going		1
+replied		1
+figure		1
+pat		1
+tonight		1
+very		1

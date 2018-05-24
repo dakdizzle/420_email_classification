@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+higher		1
+office		1
+rick		1
+rating		1
+prc		1
+needs		1

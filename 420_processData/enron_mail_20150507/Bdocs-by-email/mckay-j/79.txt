@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+problems	1
+email		1
+thing		1
+prices		1
+job		1
+fixed		1
+know		1
+today		1
+sorry		1
+getting		1
+regards		1
+good		1
+jon		1
+finally		1
+needed		1
+need		1
+having		1
+think		1

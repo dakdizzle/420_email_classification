@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+plans		3
+looking		1
+afternoon	1
+food		1
+downtown	1
+italian		1
+available	1
+drinks		1
+weekend		1
+forward		1
+festival	1
+sure		1
+saturday	1
+tonight		1

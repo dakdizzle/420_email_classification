@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+copy		2
+send		1
+enfolio		1
+legal		1
+letter		1
+t		1
+planning	1
+master		1
+kim		1
+regarding	1
+recommendations	1
+hesco		1
+contract	1
+comments	1
+agreement	1

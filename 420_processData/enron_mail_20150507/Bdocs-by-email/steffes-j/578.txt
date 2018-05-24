@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+make		2
+sure		2
+info		1
+ed		1
+much		1
+organize	1
+submitted	1
+efforts		1
+looks		1
+thanks		1
+jim		1
+deploy		1
+states		1
+good		1
+type		1
+duplicate	1
+please		1
+resources	1
+proper		1
+more		1
+d		1
+don		1
+rcr		1

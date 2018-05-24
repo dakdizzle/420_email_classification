@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+cn		2
+board		1
+offend		1
+recipients	1
+someone		1
+related		1
+na		1
+wish		1
+fhayden		1
+enron		1
+hayden		1
+directors	1
+ou		1
+didn		1
+frank		1

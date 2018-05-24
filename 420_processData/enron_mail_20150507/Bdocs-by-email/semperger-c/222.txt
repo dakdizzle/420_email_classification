@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+plan		1
+possible	1
+during		1
+interested	1
+try		1
+please		1
+mid		1
+going		1
+month		1
+personally	1

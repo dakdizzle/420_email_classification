@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+peak		2
+ecp		2
+demand		1
+forecast	1
+hour		1
+iso		1
+kevin		1
+actual		1

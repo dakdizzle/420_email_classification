@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+m		1
+ok		1
+being		1
+third		1
+dg		1
+shipped		1

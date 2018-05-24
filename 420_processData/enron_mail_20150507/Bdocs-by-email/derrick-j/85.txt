@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+ut		1
+carrin		1
+debbie		1
+connection	1
+john		1
+austin		1
+school		1
+jim		1
+hope		1
+check		1
+best		1
+unfortunately	1
+business	1
+law		1
+rain		1
+give		1
+date		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+situation	1
+saying		1
+know		1
+steve		1
+response	1
+christian	1
+earlier		1
+tried		1
+thanks		1
+sent		1
+message		1
+secretarty	1
+delivery	1
+hi		1

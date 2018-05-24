@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+davies		1
+derek		1

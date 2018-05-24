@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+kim		1
+eb		1
+pm		1
+meet		1
+kevin		1
+thanks		1

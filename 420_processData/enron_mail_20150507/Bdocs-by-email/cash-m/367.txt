@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+opportunity	1
+michelle	1
+review		1
+subject		1
+having		1
+thanks		1

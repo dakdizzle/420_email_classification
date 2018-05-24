@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+first		1
+email		1
+version		1
+few		1
+want		1
+attorney	1
+review		1
+forward		1
+comments	1
+think		1

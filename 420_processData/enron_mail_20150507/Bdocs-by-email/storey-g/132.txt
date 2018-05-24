@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+dynegy		2
+m		2
+going		2
+stuff		1
+primary		1
+make		1
+stand		1
+suggestions	1
+counterparty	1
+unless		1
+money		1
+wanted		1
+rings		1
+holding		1
+talked		1
+mirant		1
+pattern		1
+use		1
+phys		1
+geof		1
+sure		1
+deal		1
+trading		1

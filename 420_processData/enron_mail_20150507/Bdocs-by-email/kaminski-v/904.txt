@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+vince		2
+both		1
+jx		1
+filename	1
+treat		1
+pstanne		1
+vkamins		1
+st		1
+kaminski	1

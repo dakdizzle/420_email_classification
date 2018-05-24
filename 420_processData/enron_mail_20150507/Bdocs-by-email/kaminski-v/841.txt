@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+way		1
+vince		1
+christie	1
+june		1
+graduating	1
+see		1
+hi		1
+recommendedto	1
+movies		1
+thanks		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+risk		1
+corporation	1
+delaware	1
+management	1
+corp		1
+trading		1

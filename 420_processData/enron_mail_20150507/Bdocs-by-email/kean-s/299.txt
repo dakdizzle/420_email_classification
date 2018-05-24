@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+little		1
+sensitive	1
+wouldn		1
+well		1
+lose		1
+more		1
+guess		1
+hassling	1
+merciless	1
+ad		1
+revenue		1
+berated		1

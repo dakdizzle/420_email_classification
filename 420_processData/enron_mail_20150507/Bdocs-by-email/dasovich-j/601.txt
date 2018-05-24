@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+wayne		2
+john		2
+ve		1
+seen		1
+first		1
+being		1
+time		1
+mean		1
+movie		1
+wait		1
+spooky		1

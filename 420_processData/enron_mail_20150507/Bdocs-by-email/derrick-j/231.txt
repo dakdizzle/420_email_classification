@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+harder		1
+thank		1
+efforts		1
+worked		1
+better		1
+jim		1
+matter		1
+team		1
+enron		1
+serve		1
+best		1
+effort		1
+bring		1
+mary		1
+one		1
+decision	1
+nell		1
+proud		1
+tireless	1

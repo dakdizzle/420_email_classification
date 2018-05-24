@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+kim		1
+mark		1
+lorraine	1
+marketers	1
+paul		1
+tk		1
+minutes		1
+need		1
+schedule	1
+thanks		1

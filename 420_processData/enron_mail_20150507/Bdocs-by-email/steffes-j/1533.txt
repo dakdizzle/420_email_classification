@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+jim		1
+care		1
+take		1

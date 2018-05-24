@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+ed		1
+those		1
+credit		1
+respond		1
+attached	1
+marie		1
+draft		1
+isda		1
+related		1
+thanks		1
+aes		1
+please		1
+comments	1

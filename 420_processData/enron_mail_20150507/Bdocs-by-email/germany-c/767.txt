@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+info		1
+suppossed	1
+things		1
+understand	1
+work		1
+beck		1
+don		1
+still		1
+call		1
+always		1

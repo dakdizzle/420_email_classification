@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+dasovich	2
+cn		2
+jeff		2
+jdasovic	1
+recipients	1
+filename	1
+na		1
+pstcheck	1
+privileged	1
+out		1
+around		1
+sent		1
+non		1
+enron		1
+want		1
+ou		1
+before		1
+comments	1

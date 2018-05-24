@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+morning		1
+wufbr		1
+bring		1
+refreshments	1
+need		1
+forget		1
+smatb		1
+sunday		1
+help		1

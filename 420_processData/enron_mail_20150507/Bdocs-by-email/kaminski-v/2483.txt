@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+problems	1
+vince		1
+m		1
+meeting		1
+join		1
+martin		1
+kishkil		1
+brazil		1
+tom		1
+hydro		1
+joe		1
+thu		1

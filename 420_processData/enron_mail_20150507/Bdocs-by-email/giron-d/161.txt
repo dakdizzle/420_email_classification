@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+signed		1
+dg		1
+thanks		1

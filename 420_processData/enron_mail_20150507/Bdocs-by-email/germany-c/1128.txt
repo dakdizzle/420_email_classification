@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+monday		1
+women		1
+gri		1
+aca		1
+brother		1
+send		1
+grab		1
+jerry		1
+ones		1
+following	1
+plains		1
+motorcycle	1
+offer		1
+releases	1
+great		1
+riding		1
+lets		1
+please		1
+go		1
+rates		1
+including	1
+commodity	1
+didn		1

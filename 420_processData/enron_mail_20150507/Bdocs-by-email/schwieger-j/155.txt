@@ -1,0 +1,26 @@
+NumWords	54
+NumTerms	23
+
+cn		12
+recipients	6
+na		6
+enron		6
+ou		6
+baumbach	1
+hull		1
+david		1
+thomas		1
+farmer		1
+bhull		1
+ebass		1
+martin		1
+sandra		1
+bass		1
+daren		1
+tmartin		1
+dfarmer		1
+dbaumba		1
+bryan		1
+brawner		1
+sbrawne		1
+eric		1

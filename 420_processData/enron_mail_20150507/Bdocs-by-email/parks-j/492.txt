@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+write		1
+yrs		1
+passed		1
+hard		1
+know		1
+short		1
+keep		1
+sunday		1
+morning		1
+wonderful	1
+weller		1
+want		1
+thought		1
+away		1

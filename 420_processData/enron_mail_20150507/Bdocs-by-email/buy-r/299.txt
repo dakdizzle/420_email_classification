@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+day		2
+th		1
+ees		1
+delegate	1
+coordination	1
+spec		1
+rick		1
+bill		1
+janet		1
+attend		1
+joint		1
+mtg		1
+prc		1
+tech		1
+ews		1

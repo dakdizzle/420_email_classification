@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+basis		1
+index		1
+price		1

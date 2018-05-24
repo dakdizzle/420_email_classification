@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+pulp		1
+specifically	1
+gas		1
+gtc		1
+paper		1
+deal		1
+help		1
+note		1
+referring	1
+thanks		1
+didn		1

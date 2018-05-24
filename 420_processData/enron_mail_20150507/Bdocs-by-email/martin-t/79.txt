@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+s		2
+rates		2
+agua		1
+bidweek		1
+hsc		1
+know		1
+attached	1
+daily		1
+tom		1
+thanks		1
+ranch		1
+point		1
+april		1
+basis		1
+needless	1
+during		1
+mute		1
+dulce		1
+line		1
+work		1
+south		1
+king		1
+seller		1

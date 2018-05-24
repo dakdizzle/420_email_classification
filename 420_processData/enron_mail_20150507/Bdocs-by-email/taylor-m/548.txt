@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+little		1
+taking		1
+emissions	1
+day		1
+drive		1
+time		1
+john		1
+analyst		1
+spend		1
+hour		1
+thinking	1
+objections	1
+mom		1
+tomorrow	1
+more		1
+half		1
+six		1

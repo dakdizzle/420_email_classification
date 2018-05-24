@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+heyhave		1
+john		1
+folks		1
+spoke		1
+think		1

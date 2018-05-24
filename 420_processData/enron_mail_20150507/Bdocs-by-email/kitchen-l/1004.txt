@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+friday		1
+lost		1
+last		1
+deal		1
+smurfitt	1

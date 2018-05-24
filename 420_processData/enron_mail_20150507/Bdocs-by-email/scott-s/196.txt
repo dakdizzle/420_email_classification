@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+closes		1
+eventually	1
+back		1
+go		1
+won		1
+work		1
+museum		1
+later		1

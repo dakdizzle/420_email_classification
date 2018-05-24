@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+live		1
+much		1
+tow		1
+course		1
+festivities	1
+phone		1
+fix		1
+music		1
+looks		1
+actually	1
+call		1
+dinner		1
+around		1
+cell		1
+start		1
+want		1
+needed		1
+work		1
+maybe		1
+probably	1
+tonight		1
+ll		1

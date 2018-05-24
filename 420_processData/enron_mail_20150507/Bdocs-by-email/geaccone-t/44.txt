@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+monday		1
+first		1
+entity		1
+thing		1
+detail		1
+passed		1
+know		1
+friday		1
+legal		1
+out		1
+please		1
+format		1
+last		1
+corp		1

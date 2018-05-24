@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+coordination	1
+language	1
+change		1
+service		1
+transmission	1
+operations	1
+planning	1
+include		1
+thanks		1

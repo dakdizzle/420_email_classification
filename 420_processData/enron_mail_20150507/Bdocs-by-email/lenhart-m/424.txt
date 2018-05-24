@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+go		1
+excited		1
+means		1

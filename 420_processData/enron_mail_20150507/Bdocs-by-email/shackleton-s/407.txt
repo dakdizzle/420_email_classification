@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+eb		1
+fax		1
+ph		1
+weather		1
+street		1
+wholesale	1
+trade		1
+call		1
+services	1
+shackletonenron	1
+union		1
+dominic		1
+please		1
+rick		1
+sara		1
+ahouston	1
+tx		1
+smith		1
+called		1
+marshall	1
+southern	1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+liz		1
+john		1
+thanks		1
+ve		1
+wondering	1
+available	1
+securing	1
+luck		1
+jun		1
+game		1
+saturday	1
+tix		1
+diamonds	1

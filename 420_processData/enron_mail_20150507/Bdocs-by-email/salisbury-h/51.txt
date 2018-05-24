@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+updated		1
+day		1
+forecast	1
+thank		1
+days		1
+seven		1
+several		1
+noticed		1

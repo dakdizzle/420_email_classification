@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+meeting		1
+call		1
+didn		1

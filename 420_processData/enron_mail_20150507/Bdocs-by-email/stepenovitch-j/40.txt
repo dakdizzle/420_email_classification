@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+call		2
+las		1
+day		1
+directly	1
+know		1
+beth		1
+sorry		1
+answer		1
+mother		1
+morning		1
+nice		1
+good		1
+decide		1
+please		1
+touch		1
+back		1
+questions	1
+want		1
+vegas		1
+last		1
+week		1
+joe		1
+didn		1

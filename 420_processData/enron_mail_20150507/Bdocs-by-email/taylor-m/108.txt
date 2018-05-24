@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+mtaylo		2
+cn		2
+mark		1
+legal		1
+recipients	1
+filename	1
+na		1
+privileged	1
+pstok		1
+non		1
+enron		1
+ou		1
+taylor		1

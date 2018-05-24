@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+make		1
+row		1
+up		1
+john		1
+draft		1
+today		1
+call		1
+jim		1
+handy		1
+ducks		1
+m		1
+tomorrow	1
+barton		1
+need		1
+heading		1
+sure		1
+don		1
+still		1

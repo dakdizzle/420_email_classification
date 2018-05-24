@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+m		2
+floor		2
+building	1
+fletch		1
+mike		1
+th		1
+meet		1
+new		1
+trading		1

@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+special		2
+committee	2
+care		1
+taking		1
+quot		1
+today		1
+future		1
+attraction	1
+announcing	1
+suggested	1
+formation	1
+additional	1
+securing	1
+past		1
+release		1
+lay		1
+capital		1
+here		1

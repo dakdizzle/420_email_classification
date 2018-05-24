@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+tjones		2
+cn		2
+jones		1
+conflicts	1
+recipients	1
+tana		1
+filename	1
+na		1
+pstany		1
+privileged	1
+non		1
+enron		1
+ou		1

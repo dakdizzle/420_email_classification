@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+pm		1
+yesi		1
+friday		1
+start		1
+weekend		1
+want		1
+fine		1
+move		1
+next		1

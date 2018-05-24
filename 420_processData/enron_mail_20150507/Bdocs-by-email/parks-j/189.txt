@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+interested	1
+details		1
+know		1
+more		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+vince		1
+definedproject	1
+bond		1
+claudio		1
+well		1
+project		1
+weather		1
+termpaper	1
+interesting	1
+looks		1
+result		1

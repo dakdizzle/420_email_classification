@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+alsdfj		1
+lasjkdfakl	1
+sdal		1
+sdj		1
+asdjf		1
+kl		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+position	1
+consider	1
+please		1
+candidate	1

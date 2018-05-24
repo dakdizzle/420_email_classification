@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+thanxchris	1
+guys		1
+numbers		1
+phone		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+whats		1
+new		1

@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+messenger	2
+msn		2
+energy		1
+risk		1
+try		1
+doc		1
+analyst		1
+http		1
+online		1
+chat		1
+management	1
+friends		1
+analysis	1
+fundamental	1
+com		1

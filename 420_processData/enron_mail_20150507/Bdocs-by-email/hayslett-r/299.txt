@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+much		1
+estimating	1
+begin		1
+stan		1
+spending	1
+out		1
+look		1
+explained	1
+enron		1
+dollars		1
+back		1
+portion		1
+effectively	1
+saved		1
+need		1
+called		1
+figure		1
+process		1
+benefits	1
+reduce		1

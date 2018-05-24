@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+info		1
+anyway		1
+those		1
+fill		1
+hope		1
+details		1
+hr		1
+know		1
+guys		1
+more		1
+never		1
+ll		1

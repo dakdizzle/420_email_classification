@@ -1,0 +1,8 @@
+NumWords	8
+NumTerms	5
+
+ect		2
+dorland		2
+dan		2
+tor		1
+address		1

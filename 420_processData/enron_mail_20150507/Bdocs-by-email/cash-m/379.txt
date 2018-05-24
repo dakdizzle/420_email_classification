@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+open		1
+fax		1
+suspicious	1
+looked		1
+didn		1

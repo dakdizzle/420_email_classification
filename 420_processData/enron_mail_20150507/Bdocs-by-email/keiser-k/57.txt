@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+people		1
+many		1
+want		1
+testing		1
+tested		1
+recruit		1
+more		1
+need		1
+thoroughly	1
+very		1
+help		1
+thanks		1

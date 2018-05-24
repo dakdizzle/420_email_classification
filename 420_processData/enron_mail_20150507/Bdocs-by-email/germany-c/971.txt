@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+email		1
+hey		1
+sweet		1
+hug		1
+friday		1
+plans		1
+person		1
+later		1
+thanks		1
+dan		1
+out		1
+sent		1
+thinking	1
+great		1
+good		1
+told		1
+gator		1
+sure		1
+woman		1
+big		1
+give		1

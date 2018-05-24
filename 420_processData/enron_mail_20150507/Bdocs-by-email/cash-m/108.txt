@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+alan		2
+cn		2
+personnel	1
+recipients	1
+na		1
+approved	1
+thanks		1
+enron		1
+understand	1
+wra		1
+aronowitz	1
+michelle	1
+ou		1
+below		1
+aaronow		1
+request		1

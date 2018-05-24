@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lizzette	1
+lawyer		1
+invite		1
+involve		1
+agree		1
+assistant	1
+palmer		1
+michelle	1
+twanda		1
+new		1
+thanks		1
+valeria		1

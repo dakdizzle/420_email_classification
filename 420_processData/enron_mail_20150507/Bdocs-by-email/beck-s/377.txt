@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+copy		1
+sally		1
+color		1
+printed		1
+thanks		1

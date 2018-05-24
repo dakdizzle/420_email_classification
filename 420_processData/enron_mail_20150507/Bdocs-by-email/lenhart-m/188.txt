@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+room		1
+dog		1
+leave		1
+hawaii		1

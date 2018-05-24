@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+yesterday	2
+puc		1
+hectic		1
+make		1
+intend		1
+day		1
+california	1
+missing		1
+calls		1
+extremely	1
+result		1
+aware		1
+call		1
+weekly		1
+apologies	1
+m		1
+jeff		1
+best		1
+acces		1
+voted		1
+direct		1
+electric	1
+sure		1
+suspend		1

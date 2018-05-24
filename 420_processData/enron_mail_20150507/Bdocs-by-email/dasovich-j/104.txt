@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+info		1
+day		1
+ok		1
+up		1
+meetings	1
+knight		1
+shining		1
+armor		1
+ees		1
+getting		1
+m		1
+jeff		1
+best		1
+want		1
+need		1
+pilot		1
+set		1
+over		1

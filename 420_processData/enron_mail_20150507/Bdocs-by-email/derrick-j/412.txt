@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+ve		1
+regarding	1
+mark		1
+matter		1
+left		1
+mail		1
+voice		1

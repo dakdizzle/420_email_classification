@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+long		1
+conversations	1
+lavo		1
+accounting	1
+stacey		1
+share		1
+tim		1
+documentation	1
+fine		1
+adequate	1

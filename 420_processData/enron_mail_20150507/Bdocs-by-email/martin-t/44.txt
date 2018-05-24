@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+good		1
+free		1
+favor		1
+sounds		1
+tom		1
+deal		1
+pretty		1
+always		1

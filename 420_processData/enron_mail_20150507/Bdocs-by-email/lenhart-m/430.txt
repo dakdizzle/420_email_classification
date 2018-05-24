@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+party		1
+regardless	1
+shout		1
+up		1
+need		1
+later		1
+dress		1
+give		1

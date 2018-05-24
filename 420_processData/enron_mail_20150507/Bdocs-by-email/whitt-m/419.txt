@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+www		2
+com		2
+those		1
+right		1
+russianbrides	1
+lucci		1
+matchmaker	1
+sure		1
+reccomends	1
+actually	1

@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+skean		2
+cn		2
+revisions	1
+recipients	1
+kean		1
+steven		1
+filename	1
+na		1
+see		1
+pstplease	1
+privileged	1
+non		1
+enron		1
+ou		1

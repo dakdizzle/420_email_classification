@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+good		2
+trash		1
+fun		1
+boat		1
+place		1
+fish		1
+weekend		1
+bait		1
+looks		1
+caught		1

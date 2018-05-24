@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+terminated	2
+letter		2
+eb		1
+fax		1
+ph		1
+parties		1
+attached	1
+street		1
+tweak		1
+bob		1
+wholesale	1
+non		1
+services	1
+shackletonenron	1
+used		1
+sara		1
+ahouston	1
+tx		1
+smith		1

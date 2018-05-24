@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+number		2
+info		1
+ed		1
+fax		1
+sempra		1
+hello		1
+lisa		1
+tim		1
+cannon		1
+contact		1
+person		1
+phone		1

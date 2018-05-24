@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+ve		2
+key		1
+send		1
+pstdavei	1
+talk		1
+orlando		1
+john		1
+contact		1
+deals		1
+keep		1
+person		1
+outsourcing	1
+filename	1
+lavorato	1
+done		1
+list		1
+feel		1
+jlavora		1
+structures	1
+thanksjohn	1
+weeks		1
+couple		1
+tasking		1
+joe		1

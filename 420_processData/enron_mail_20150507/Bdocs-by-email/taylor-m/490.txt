@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+know		3
+those		2
+efforts		2
+lawyer		1
+heard		1
+try		1
+involved	1
+companies	1
+expect		1
+never		1
+list		1
+suggest		1
+enron		1
+signed		1
+another		1
+part		1
+need		1
+honestly	1
+don		1

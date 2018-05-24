@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+eb		1
+fax		1
+files		1
+short		1
+ph		1
+street		1
+csfbi		1
+left		1
+morgan		1
+chairsara	1
+wholesale	1
+trade		1
+file		1
+issues		1
+list		1
+services	1
+shackletonenron	1
+ahouston	1
+elfi		1
+tx		1
+smith		1
+joanne		1

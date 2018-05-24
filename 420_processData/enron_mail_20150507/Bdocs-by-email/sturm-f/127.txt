@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+latest		1
+send		1
+included	1
+sent		1
+dude		1
+list		1
+distribution	1
+edition		1
+fletch		1
+amanda		1
+request		1
+hubble		1

@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+thing		2
+m		2
+seems		1
+win		1
+know		1
+same		1
+son		1
+talked		1
+call		1
+shoes		1
+right		1
+lose		1
+dad		1
+reaction	1
+sure		1
+read		1
+don		1
+doing		1
+think		1
+mind		1

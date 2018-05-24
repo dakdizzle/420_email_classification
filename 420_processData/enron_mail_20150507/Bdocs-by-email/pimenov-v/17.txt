@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+printout	1
+john		1
+working		1
+sending		1
+desk		1
+asks		1
+file		1
+chris		1
+lavorato	1
+ve		1
+put		1
+dentist		1
+around		1
+back		1
+another		1
+gonna		1
+vladi		1
+otherwise	1

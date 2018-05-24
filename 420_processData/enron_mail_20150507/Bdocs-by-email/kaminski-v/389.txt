@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+vince		1
+al		1
+thursday	1
+wednesday	1
+anytime		1
+work		1

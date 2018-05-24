@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+la		2
+right		1
+oo		1

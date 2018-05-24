@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+originators	1
+heads		1

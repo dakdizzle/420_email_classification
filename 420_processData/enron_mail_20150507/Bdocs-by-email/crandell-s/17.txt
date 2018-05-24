@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+cob		2
+ve		2
+february	2
+concerned	2
+congestions	1
+know		1
+keep		1
+money		1
+out		1
+march		1
+m		1
+whole		1
+length		1
+want		1
+contract	1
+probably	1
+going		1
+keeping		1
+deal		1
+reason		1
+thru		1

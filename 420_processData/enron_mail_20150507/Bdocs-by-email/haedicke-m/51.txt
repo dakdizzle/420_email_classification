@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+haedicke	1
+mark		1
+attending	1

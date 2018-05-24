@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+know		2
+var		2
+hunter		1
+position	1
+short		1
+answer		1
+million		1
+thanks		1
+psossible	1
+soon		1
+please		1
+need		1
+large		1

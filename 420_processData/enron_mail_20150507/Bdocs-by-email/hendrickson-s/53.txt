@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+much		1
+scott		1
+eaten		1
+le		1
+fyi		1
+peep		1
+burrito		1
+world		1
+jealous		1
+freebird	1
+ve		1
+opening		1
+diner		1
+next		1
+here		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+drew		1
+day		1
+elsewhere	1
+bradley		1
+straw		1
+place		1
+jeff		1
+best		1
+short		1
+true		1
+rob		1
+participate	1

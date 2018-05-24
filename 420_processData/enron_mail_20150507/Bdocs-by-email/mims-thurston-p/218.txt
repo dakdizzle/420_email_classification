@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+good		1
+looks		1
+help		1
+thanks		1
+richard		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hope		1
+doc		1
+one		1
+needed		1
+found		1

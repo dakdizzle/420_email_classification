@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+rhaysle		2
+cn		2
+divestiture	1
+mariella	1
+pstcan		1
+recipients	1
+rac		1
+hayslett	1
+later		1
+filename	1
+na		1
+help		1
+privileged	1
+non		1
+enron		1
+jeff		1
+go		1
+ou		1
+rod		1
+probably	1
+need		1
+sonner		1
+here		1

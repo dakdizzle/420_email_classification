@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+monday		1
+kim		1
+time		1
+please		1
+gaylen		1
+conference	1
+read		1
+schedule	1
+call		1

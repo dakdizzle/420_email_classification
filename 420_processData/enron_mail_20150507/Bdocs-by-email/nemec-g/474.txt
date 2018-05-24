@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+agreement	2
+shortly		1
+exhibit		1
+redlined	1
+know		1
+attached	1
+review		1
+referenced	1
+version		1
+clean		1
+please		1
+questions	1
+forward		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+updated		1
+list		1
+hot		1
+thankspaul	1
+using		1
+ll		1
+mara		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+thinks		1
+hottie		1
+tori		1
+bonnie		1
+here		1
+over		1

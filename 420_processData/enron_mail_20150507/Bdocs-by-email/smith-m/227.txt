@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+id		1
+up		1
+information	1
+know		1
+additional	1
+need		1
+karen		1
+eol		1
+set		1
+mat		1
+thanks		1

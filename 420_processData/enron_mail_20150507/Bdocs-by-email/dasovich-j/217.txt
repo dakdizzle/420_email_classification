@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+ca		1
+sen		1
+up		1
+fyi		1
+confirming	1
+kip		1
+suspicions	1
+market		1
+cleanpower	1
+turns		1
+gov		1
+lipper		1
+jeff		1
+best		1
+org		1
+evidence	1
+pretty		1
+vjw		1
+explosive	1

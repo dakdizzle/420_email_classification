@@ -1,0 +1,17 @@
+NumWords	18
+NumTerms	14
+
+giron		2
+privileged	2
+non		2
+dgiron		2
+dx		1
+filename	1
+folder		1
+pst		1
+sent		1
+darron		1
+version		1
+origin		1
+itemsx		1
+mime		1

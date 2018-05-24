@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+revised		1
+share		1
+policies	1
+wait		1
+don		1

@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+time		2
+great		2
+safely		1
+theresa		1
+evening		1
+talk		1
+thank		1
+guess		1
+meet		1
+superbowl	1
+see		1
+soon		1
+back		1
+finally		1
+again		1
+made		1
+ruth		1
+ll		1
+next		1

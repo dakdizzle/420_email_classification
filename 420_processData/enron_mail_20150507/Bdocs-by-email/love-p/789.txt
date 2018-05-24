@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+plove		1
+todaypl		1
+filename	1
+transfer	1
+call		1
+privileged	1
+content		1
+pstfyi		1
+non		1
+encoding	1
+px		1
+origin		1
+bitx		1
+conference	1
+notes		1
+love		1

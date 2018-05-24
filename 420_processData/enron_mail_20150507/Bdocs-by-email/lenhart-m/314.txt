@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+out		2
+early		1
+around		1
+packed		1
+up		1
+memorial	1
+try		1
+hopefully	1
+go		1
+maybe		1
+names		1

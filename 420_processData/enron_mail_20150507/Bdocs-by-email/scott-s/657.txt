@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+activities	1
+work		1
+post		1
+deal		1

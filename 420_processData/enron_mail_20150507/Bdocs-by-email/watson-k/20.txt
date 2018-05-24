@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+kim		1
+ava		1
+respond		1
+please		1
+michelle	1
+attend		1
+thanks		1

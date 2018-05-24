@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+know		1
+sitara		1
+now		1
+sorry		1
+probably	1
+delay		1
+november	1
+number		1

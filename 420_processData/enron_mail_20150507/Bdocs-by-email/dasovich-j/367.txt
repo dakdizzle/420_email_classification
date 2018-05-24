@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+wine		1
+vahl		1
+pizza		1
+knowwwww	1
+see		1
+mushrooms	1
+greens		1
+loves		1
+yes		1
+prentice	1
+fontina		1
+kay		1
+garlic		1
+ll		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+want		1
+king		1
+refer		1

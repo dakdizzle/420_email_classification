@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+traders		2
+cash		1
+good		1
+term		1
+more		1
+data		1
+traditional	1
+measurment	1
+relevant	1
+better		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+home		1
+cell		1
+amy		1
+eric		1
+questions	1
+numbers		1
+letter		1
+bass		1
+hi		1
+offer		1
+call		1

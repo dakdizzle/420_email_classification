@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+fun		1
+much		1
+time		1
+know		1
+glad		1
+songs		1
+good		1
+m		1
+dm		1
+don		1
+cd		1
+rain		1
+think		1

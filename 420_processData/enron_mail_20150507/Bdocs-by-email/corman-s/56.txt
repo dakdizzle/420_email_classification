@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+take		2
+transport	2
+care		1
+those		1
+up		1
+invites		1
+fantastic	1
+planning	1
+two		1
+seats		1
+list		1
+enron		1
+please		1
+back		1
+sheila		1
+need		1
+already		1
+attend		1
+tickets		1
+committed	1
+give		1
+ll		1
+cancel		1

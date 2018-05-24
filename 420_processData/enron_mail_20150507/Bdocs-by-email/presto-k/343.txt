@@ -1,0 +1,12 @@
+NumWords	14
+NumTerms	9
+
+mmbtu		3
+cal		2
+spread		2
+day		2
+arnold		1
+paid		1
+today		1
+bought		1
+sold		1

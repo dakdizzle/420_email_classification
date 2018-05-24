@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+issues		2
+puc		1
+hand		1
+calger		1
+paul		1
+power		1
+tim		1
+west		1
+belden		1
+origination	1
+related		1
+s		1
+chris		1
+bt		1
+kaufman		1
+morning		1
+good		1
+already		1
+charge		1
+think		1
+trading		1

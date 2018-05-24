@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+estate		1
+staying		1

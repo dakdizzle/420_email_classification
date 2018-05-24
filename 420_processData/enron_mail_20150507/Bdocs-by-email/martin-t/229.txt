@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+together	1
+gas		1
+stats		1
+tom		1
+getting		1
+talked		1
+texas		1
+ytd		1
+ago		1
+maybe		1
+mail		1
+traders		1
+chance		1
+weeks		1
+don		1
+couple		1
+mind		1

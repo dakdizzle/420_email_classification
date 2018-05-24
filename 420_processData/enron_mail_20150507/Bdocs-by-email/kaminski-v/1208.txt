@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+atlanta		1
+brian		1
+thursday	1
+weekend		1

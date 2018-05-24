@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+form		2
+guaranty	1
+send		1
+collateralize	1
+until		1
+sending		1
+marie		1
+ect		1
+fyi		1
+schedule	1
+investments	1
+enron		1
+trades		1
+corp		1
+csfb		1
+deal		1
+big		1

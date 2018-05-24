@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+tlokey		2
+cn		2
+veatch		1
+reporting	1
+steve		1
+lokey		1
+recipients	1
+filename	1
+na		1
+privileged	1
+teb		1
+anyway		1
+instead		1
+psti		1
+non		1
+enron		1
+go		1
+questions	1
+ou		1
+probably	1
+frazier		1
+over		1

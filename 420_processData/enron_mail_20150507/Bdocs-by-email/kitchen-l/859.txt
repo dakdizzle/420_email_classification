@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+mpr		1
+louise		1
+origination	1
+shows		1
+rest		1
+new		1
+ats		1
+small		1
+through		1

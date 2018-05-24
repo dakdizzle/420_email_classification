@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+nite		1
+going		1
+game		1

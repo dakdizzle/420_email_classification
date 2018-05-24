@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+great		2
+job		1
+team		1
+rick		1
+stick		1
+forward		1
+going		1
+guns		1

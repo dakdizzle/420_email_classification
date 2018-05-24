@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+power		2
+group		1
+represented	1
+know		1
+parties		1
+west		1
+gas		1
+once		1
+oil		1
+east		1
+relevant	1
+confirmation	1
+please		1
+whole		1
+attend		1

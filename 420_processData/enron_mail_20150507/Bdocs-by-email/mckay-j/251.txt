@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+tool		1
+fun		1
+supply		1
+endless		1
+mock		1
+jon		1
+use		1
+entertainment	1
+associates	1
+hours		1
+love		1

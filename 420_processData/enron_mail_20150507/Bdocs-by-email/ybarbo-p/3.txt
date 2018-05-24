@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+discuss		1
+tushar		1
+paul		1
+please		1
+doc		1
+attached	1
+see		1
+thanks		1
+call		1

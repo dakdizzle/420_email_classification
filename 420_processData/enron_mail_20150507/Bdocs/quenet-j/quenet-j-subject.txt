@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+reminder	3
+enron		2
+tipped		1
+downgrads	1
+service		1
+moody		1
+shell		1
+target		1
+investors	1
+possible	1
+bi		1
+takeover	1
+daycare		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+updated		1
+list		1
+attached	1
+marie		1
+morgan		1
+deleting	1

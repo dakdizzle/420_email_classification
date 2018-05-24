@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+won		2
+those		1
+meeting		1
+forgot		1
+know		1
+til		1
+search		1
+mails		1
+ve		1
+back		1
+want		1
+marygood	1
+forward		1
+luck		1
+lunch		1
+think		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+both		1
+together	1
+look		1
+yes		1
+loveme		1
+bunda		1
+tonight		1

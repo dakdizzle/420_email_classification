@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+krishna		1
+fyi		1

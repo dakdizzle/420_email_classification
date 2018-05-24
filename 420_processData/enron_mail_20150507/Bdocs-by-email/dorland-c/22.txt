@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+know		2
+going		2
+coming		1
+bunch		1
+up		1
+talk		1
+try		1
+anyone		1
+chris		1
+dan		1
+out		1
+around		1
+people		1
+go		1
+weekend		1
+lesliewhat	1
+thanx		1
+town		1
+saturday	1

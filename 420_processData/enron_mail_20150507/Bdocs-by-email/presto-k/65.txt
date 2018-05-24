@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+presto		2
+kevin		2
+cn		2
+ercot		1
+attention	1
+kpresto		1
+recipients	1
+pstmake		1
+filename	1
+na		1
+capability	1
+retail		1
+done		1
+gets		1
+right		1
+enron		1
+ou		1
+need		1
+sure		1
+think		1

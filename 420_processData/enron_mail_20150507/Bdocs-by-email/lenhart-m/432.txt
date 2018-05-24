@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+understand	1
+double		1
+here		1
+standard	1

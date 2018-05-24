@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+desk		2
+each		1
+list		1
+please		1
+trader		1
+daily		1
+continue	1
+everyone	1
+eol		1
+lunch		1
+east		1
+include		1

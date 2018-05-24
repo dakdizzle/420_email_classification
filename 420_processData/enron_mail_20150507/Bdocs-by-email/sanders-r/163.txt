@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+each		1
+forwarded	1
+gail		1
+copy		1
+please		1
+wrongful	1
+claim		1
+letter		1
+involves	1
+death		1
+coordinate	1

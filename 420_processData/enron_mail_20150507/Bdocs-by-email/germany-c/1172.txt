@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+right		1
+lady		1
+wearing		1
+skirt		1
+cleaning	1
+over		1
+ll		1

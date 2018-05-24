@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+guinn		1
+report		1
+recipients	1
+na		1
+thanks		1
+linda		1
+enron		1
+please		1
+back		1
+bottom		1
+ou		1
+lguinn		1

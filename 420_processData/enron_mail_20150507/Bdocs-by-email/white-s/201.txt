@@ -1,0 +1,23 @@
+NumWords	27
+NumTerms	20
+
+cn		4
+recipients	2
+na		2
+enron		2
+ou		2
+discuss		1
+together	1
+meeting		1
+postlethwaite	1
+stacey		1
+john		1
+investigation	1
+later		1
+file		1
+evans		1
+put		1
+run		1
+casey		1
+jpostle		1
+cevans		1

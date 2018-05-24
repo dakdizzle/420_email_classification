@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+ask		2
+cn		2
+sacks		1
+between		1
+reserve		1
+effect		1
+deals		1
+anyone		1
+recipients	1
+portfolio	1
+split		1
+na		1
+enron		1
+rick		1
+reduced		1
+edward		1
+ou		1
+curious		1
+esacks		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+case		1
+talking		1
+ray		1
+information	1
+claims		1
+fyi		1
+bankrupcty	1

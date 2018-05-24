@@ -1,0 +1,27 @@
+NumWords	45
+NumTerms	24
+
+cn		4
+enron		4
+greg		2
+gmtsubject	2
+december	2
+friday		2
+recipients	2
+attachment	2
+inline		2
+jmckay		2
+na		2
+jonathan	2
+follows		2
+ou		2
+mckay		2
+date		2
+com		2
+xls		1
+quot		1
+holtgrave	1
+tfsbrokers	1
+apbenergy	1
+es		1
+scasey		1

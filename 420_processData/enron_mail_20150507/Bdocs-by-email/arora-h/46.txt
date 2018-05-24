@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+rob		2
+option		1
+group		1
+interview	1
+analyst		1
+associate	1
+check		1
+program		1
+thursday	1
+trader		1
+harry		1
+work		1
+stalford	1
+manager		1
+d		1
+karensince	1
+saturday	1
+interviewing	1

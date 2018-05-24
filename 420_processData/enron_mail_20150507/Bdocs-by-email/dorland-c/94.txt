@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+bloor		1
+co		1
+tiffany		1
+westtoronto	1
+s		1
+simon		1
+kwont		1
+st		1

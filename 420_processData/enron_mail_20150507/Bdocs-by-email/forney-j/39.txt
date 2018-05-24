@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+expense		1
+time		1
+tax		1
+know		1
+go		1
+sat		1
+coupon		1
+jmf		1
+windrose	1
+pp		1
+reduce		1

@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+payment		2
+clip		1
+paypal		1
+pl		1
+luxor		1
+know		1
+shipping	1
+paying		1
+money		1
+total		1
+thanks		1
+soon		1
+insure		1
+please		1
+contratulations	1
+quickest	1
+ship		1
+winning		1
+cost		1
+receive		1

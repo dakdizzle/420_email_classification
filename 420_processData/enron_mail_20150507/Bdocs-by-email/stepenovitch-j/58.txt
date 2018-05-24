@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+morning		1
+good		1
+brian		1
+advice		1
+resume		1
+thanks		1

@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+breaking	1
+enjoyed		1
+hollar		1
+leaving		1
+sho		1
+gotto		1
+nuff		1
+yesterday	1
+girl		1
+come		1
+back		1
+go		1
+mo		1
+bread		1
+give		1
+ll		1

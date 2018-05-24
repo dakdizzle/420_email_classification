@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jane		1
+memo		1
+mary		1
+one		1
+smith		1
+rumours		1

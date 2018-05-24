@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+confirms	1
+probably	1
+locate		1
+theriot		1

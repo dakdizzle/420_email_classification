@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+m		1
+finished	1
+facundo		1
+anybody		1
+sure		1

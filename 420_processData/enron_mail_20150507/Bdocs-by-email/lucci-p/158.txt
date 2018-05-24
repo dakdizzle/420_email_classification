@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+mark		1
+make		1
+theresa		1
+paul		1
+everything	1
+up		1
+information	1
+well		1
+asked		1
+thanks		1
+hope		1
+follow		1
+received	1
+again		1
+forward		1
+sure		1

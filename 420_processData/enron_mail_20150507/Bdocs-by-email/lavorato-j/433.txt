@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+second		1
+list		1
+distribution	1
+binder		1
+coverless	1
+created		1
+goes		1

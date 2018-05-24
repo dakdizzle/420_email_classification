@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+specific	1
+non		1
+counterparty	1
+trades		1
+names		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+morning		1
+dq		1
+woundering	1
+letting		1
+know		1
+thnx		1
+going		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+building	1
+enron		1
+eric		1
+one		1
+old		1
+bass		1
+new		1

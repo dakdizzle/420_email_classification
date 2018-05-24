@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+enron		2
+com		2
+mark		1
+greg		1
+mcconnelltranswestern	1
+hello		1
+company		1
+well		1
+reached		1
+pipeline	1
+mcconnell	1
+cell		1
+office		1
+phillips	1
+faxmark		1
+spoke		1
+love		1
+here		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+care		1
+taking		1
+invoice		1
+jeff		1
+best		1
+again		1
+need		1
+thanks		1

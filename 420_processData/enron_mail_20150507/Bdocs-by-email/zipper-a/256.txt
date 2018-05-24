@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+those		1
+happens		1
+spelled		1
+count		1
+guys		1
+gaetien		1
+see		1
+think		1

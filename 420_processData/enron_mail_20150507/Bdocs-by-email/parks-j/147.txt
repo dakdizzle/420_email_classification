@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+guide		1
+suppose		1
+hey		1
+go		1
+joe		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+list		1
+center		1
+cirect		1
+corporate	1
+listed		1
+charge		1
+cost		1

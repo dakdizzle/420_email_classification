@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+call		2
+janie		2
+patti		2
+conflict	1
+know		1
+phone		1
+arranged	1
+chris		1
+cdt		1
+thanks		1
+kim		1
+available	1
+conference	1
+pdt		1

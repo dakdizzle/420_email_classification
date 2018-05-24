@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+sally		2
+susie		2
+aol		1
+email		1
+thing		1
+send		1
+stacy		1
+up		1
+well		1
+name		1
+messed		1
+thanks		1
+relog		1
+im		1
+addresses	1

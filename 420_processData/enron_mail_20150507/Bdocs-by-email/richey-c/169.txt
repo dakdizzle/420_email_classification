@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+local		1
+around		1
+under		1
+up		1
+admin		1
+install		1
+need		1
+software	1
+chance		1
+hook		1
+think		1
+drop		1

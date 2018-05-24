@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+merry		1
+heard		1
+christmas	1
+good		1
+touch		1
+keep		1
+excited		1
+judy		1
+news		1

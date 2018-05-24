@@ -1,0 +1,5 @@
+NumWords	3
+NumTerms	2
+
+gowans		2
+mcbride		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+moron		1
+feel		1

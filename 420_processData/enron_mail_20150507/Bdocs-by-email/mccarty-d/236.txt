@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+plan		1
+john		1
+well		1
+interest	1
+fine		1
+month		1
+current		1
+see		1
+dan		1
+particular	1
+year		1
+d		1
+next		1

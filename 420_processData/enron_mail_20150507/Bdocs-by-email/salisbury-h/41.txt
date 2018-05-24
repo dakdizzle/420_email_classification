@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+holden		1
+put		1
+each		1
+trades		1
+offset		1
+system		1
+never		1
+thanks		1

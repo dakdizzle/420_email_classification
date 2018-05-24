@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+week		2
+day		1
+time		1
+know		1
+today		1
+busy		1
+fletch		1
+phone		1
+hour		1
+manage		1
+m		1
+check		1
+fairly		1
+mail		1
+half		1
+rest		1
+sometime	1
+over		1
+next		1
+ll		1
+otherwise	1

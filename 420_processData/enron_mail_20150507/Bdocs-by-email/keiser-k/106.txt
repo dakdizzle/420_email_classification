@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+kristen		2
+think		2
+ok		1
+scott		1
+keep		1
+central		1
+east		1
+take		1
+better		1
+really		1
+storey		1
+handle		1
+melissa		1
+kk		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+greg		1
+list		1
+details		1
+sally		1
+back		1
+add		1
+thanks		1

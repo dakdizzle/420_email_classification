@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+consolidate	2
+onto		1
+forwarded	1
+list		1
+fitch		1
+one		1
+compare		1
+gary		1

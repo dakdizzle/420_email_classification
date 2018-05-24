@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+long		1
+great		1
+go		1
+cruise		1
+mall		1
+happy		1
+later		1
+see		1
+halloween	1
+don		1
+afternoon	1

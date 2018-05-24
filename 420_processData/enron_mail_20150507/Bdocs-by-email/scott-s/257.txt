@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+pay		1
+fee		1
+yes		1
+going		1
+late		1

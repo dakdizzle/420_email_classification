@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+ds		1
+home		1
+much		1
+look		1
+equity		1
+anymore		1
+premierpumpcompany	1
+invest		1
+fund		1
+need		1
+com		1

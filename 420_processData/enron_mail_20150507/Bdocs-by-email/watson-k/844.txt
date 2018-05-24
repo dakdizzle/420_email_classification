@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+thanks		2
+mark		1
+know		1
+tk		1
+four		1
+tiny		1
+along		1
+wheeler		1
+money		1
+lot		1
+miss		1
+kim		1
+many		1
+rich		1
+note		1
+ll		1

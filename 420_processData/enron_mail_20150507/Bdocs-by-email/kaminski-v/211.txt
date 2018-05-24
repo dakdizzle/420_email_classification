@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+home		1
+cell		1
+almeda		1
+chonawee	1
+houston		1
+tx		1
+rd		1

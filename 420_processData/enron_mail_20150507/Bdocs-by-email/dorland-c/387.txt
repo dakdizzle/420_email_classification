@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+miles		1
+one		1
+half		1

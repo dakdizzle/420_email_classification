@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+up		1
+bill		1
+sign		1
+josie		1
+thanks		1

@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+apps		1
+prestomike	1
+zipperhunter	1
+martinjim	1
+weather		1
+maggiandy	1
+roberts		1
+schweigerjohn	1
+tom		1
+sturmkevin	1
+davisfletch	1
+lots		1
+nealdana	1
+storeyscott	1
+shivelygeof	1
+non		1
+list		1
+enough		1
+grigsbyis	1
+want		1
+mike		1
+traders		1
+arnoldmike	1
+trading		1

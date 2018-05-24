@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+recommended	1
+highly		1
+paul		1
+please		1
+redeployment	1
+comes		1
+ebs		1
+part		1
+review		1
+racicot		1
+resume		1

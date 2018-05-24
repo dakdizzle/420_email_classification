@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+lynn		2
+lblair		2
+cn		2
+group		1
+send		1
+chart		1
+updated		1
+blair		1
+recipients	1
+filename	1
+na		1
+thanks		1
+pst		1
+privileged	1
+measurement	1
+non		1
+enron		1
+fran		1
+ou		1
+org		1

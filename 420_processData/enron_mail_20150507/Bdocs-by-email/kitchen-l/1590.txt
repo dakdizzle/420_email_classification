@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+those		1
+people		1
+two		1
+please		1
+back		1

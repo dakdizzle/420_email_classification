@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+going		3
+up		1
+try		1
+friday		1
+guess		1
+take		1
+out		1
+definately	1
+easy		1
+anymore		1
+tell		1
+broke		1
+recover		1
+c		1
+saturday	1
+think		1

@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+need		2
+others		1
+nthwst		1
+value		1
+maria		1
+know		1
+sumas		1
+nymex		1
+canbrthis	1
+anything	1
+basis		1
+index		1
+correct		1
+mat		1
+add		1

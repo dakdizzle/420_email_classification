@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+ready		2
+up		1
+know		1
+report		1
+go		1
+var		1
+risktrac	1
+set		1
+books		1
+kk		1

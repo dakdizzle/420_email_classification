@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+august		3
+july		2
+stuff		1
+info		1
+pendergrass	1
+pl		1
+copy		1
+invoice		1
+gave		1
+guys		1
+cora		1
+nicor		1
+see		1
+thanks		1
+volumes		1
+numbers		1
+according	1
+need		1

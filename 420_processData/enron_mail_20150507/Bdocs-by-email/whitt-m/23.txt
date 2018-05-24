@@ -1,0 +1,23 @@
+NumWords	45
+NumTerms	20
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+jreitme		1
+jhorne		1
+harrison	1
+reitmeyer	1
+horne		1
+tycholiz	1
+gnemec		1
+jonathan	1
+nemec		1
+tyrell		1
+barry		1
+tharri		1
+btychol		1
+jay		1
+gerald		1

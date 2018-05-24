@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+greatly		1
+word		1
+meeting		1
+up		1
+unlucky		1
+calling		1
+appreciate	1
+efforts		1
+setting		1
+greetings	1
+jeff		1
+best		1
+again		1
+ms		1
+doll		1

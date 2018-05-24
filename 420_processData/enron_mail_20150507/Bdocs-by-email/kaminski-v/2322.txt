@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+vkamins		2
+vince		2
+cn		2
+eb		1
+today		1
+recipients	1
+hour		1
+meet		1
+filename	1
+na		1
+privileged	1
+associate	1
+willwork	1
+non		1
+enron		1
+project		1
+shall		1
+pstmichael	1
+introduce	1
+ou		1
+half		1
+works		1
+kaminski	1

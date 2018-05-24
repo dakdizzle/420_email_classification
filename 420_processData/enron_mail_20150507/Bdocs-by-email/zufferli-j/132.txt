@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+jzufferli	2
+home		1
+changed		1
+ca		1
+shaw		1
+com		1

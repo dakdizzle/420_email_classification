@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+going		2
+skippered	1
+wondered	1
+mark		1
+open		1
+day		1
+near		1
+up		1
+kingston	1
+hour		1
+labor		1
+m		1
+rent		1
+bareboat	1
+weekend		1
+taylor		1
+sailboats	1

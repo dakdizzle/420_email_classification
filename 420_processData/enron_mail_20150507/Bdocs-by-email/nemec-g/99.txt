@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+please		1
+attached	1
+review		1

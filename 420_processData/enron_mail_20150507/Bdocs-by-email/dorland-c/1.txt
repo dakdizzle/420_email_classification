@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+www		2
+com		2
+frame		1
+segalmotorcar	1
+shttp		1
+htmlthis	1
+silver		1
+http		1
+broad		1
+earth		1
+htmlcheck	1
+car		1
+s		1
+pages		1
+out		1
+heaven		1
+black		1
+reach		1
+jlund		1
+porsche		1

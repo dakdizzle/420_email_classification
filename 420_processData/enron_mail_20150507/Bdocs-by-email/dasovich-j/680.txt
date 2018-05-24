@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+dasovich	2
+jeff		2
+details		1
+comx		1
+schwartz	1
+filename	1
+help		1
+thanks		1
+privileged	1
+laura		1
+jx		1
+non		1
+enron		1
+best		1
+back		1
+pstsuper	1
+origin		1
+dave		1

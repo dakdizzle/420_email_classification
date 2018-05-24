@@ -1,0 +1,16 @@
+NumWords	18
+NumTerms	13
+
+need		3
+up		2
+machine		2
+set		2
+updated		1
+under		1
+desk		1
+pc		1
+daniel		1
+already		1
+asapthankspaul	1
+eol		1
+keyboard	1

@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+ene		1
+time		1
+latter		1
+talk		1
+wood		1
+holds		1
+swig		1
+month		1
+looks		1
+yesterday	1
+settlement	1
+really		1
+down		1
+right		1
+whole		1
+tired		1
+scare		1
+mummy		1
+movie		1
+week		1
+knock		1
+think		1
+thru		1

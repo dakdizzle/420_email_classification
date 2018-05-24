@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+sshackl		2
+cn		2
+sara		2
+shackleton	1
+response	1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+ou		1
+pstchristian	1
+pat		1
+think		1

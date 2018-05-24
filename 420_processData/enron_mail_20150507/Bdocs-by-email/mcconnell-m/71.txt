@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+adorable	1
+mark		1
+pics		1
+watch		1
+see		1
+getting		1
+thanks		1
+norman		1
+good		1
+m		1
+ksu		1
+enjoy		1
+finally		1
+ou		1
+heading		1
+game		1
+always		1

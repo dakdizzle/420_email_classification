@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+word		1
+changing	1
+carla		1
+canterra	1
+ernst		1
+young		1
+chris		1
+parking		1

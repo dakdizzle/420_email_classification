@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+calgary		1
+kim		1
+plan		1
+happens		1
+word		1
+savings		1
+know		1
+back		1
+thanx		1
+chris		1
+transfer	1

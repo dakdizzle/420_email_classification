@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+discuss		1
+congrats	1
+brad		1
+track		1
+free		1
+program		1
+please		1
+feel		1
+trading		1
+call		1

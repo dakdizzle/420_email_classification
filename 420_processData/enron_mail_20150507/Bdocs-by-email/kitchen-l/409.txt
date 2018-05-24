@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+someone		2
+coming		1
+initially	1
+assuming	1
+bob		1
+later		1
+comes		1
+one		1
+need		1
+beginning	1
+don		1
+think		1
+mind		1

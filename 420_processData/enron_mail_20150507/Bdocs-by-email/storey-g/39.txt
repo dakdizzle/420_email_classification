@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+week		3
+next		2
+bed		2
+know		1
+stuck		1
+th		1
+daddy		1
+take		1
+out		1
+come		1
+medication	1
+geof		1
+before		1
+going		1
+efirst		1
+still		1
+rest		1
+ll		1
+news		1
+doesn		1

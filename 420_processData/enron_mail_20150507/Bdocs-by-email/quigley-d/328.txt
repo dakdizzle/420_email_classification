@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+todq		1
+chase		1
+greg		1
+confirmation	1
+person		1
+conference	1
+talked		1
+call		1

@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+tomorrow	2
+together	1
+stand		1
+evening		1
+leaving		1
+time		1
+letting		1
+know		1
+things		1
+leave		1
+ma		1
+schedule	1
+hoping		1
+done		1
+bit		1
+best		1
+go		1
+swapco		1
+work		1
+mail		1
+voice		1
+needs		1
+over		1

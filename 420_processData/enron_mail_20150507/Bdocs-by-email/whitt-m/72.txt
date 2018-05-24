@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+up		1
+pull		1

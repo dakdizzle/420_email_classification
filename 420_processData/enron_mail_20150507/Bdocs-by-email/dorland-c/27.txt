@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+send		1
+please		1
+thanx		1
+data		1
+chris		1

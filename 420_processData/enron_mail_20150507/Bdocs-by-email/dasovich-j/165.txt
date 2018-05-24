@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+dasovich	2
+cn		2
+jeff		2
+jdasovic	1
+recipients	1
+filename	1
+na		1
+pst		1
+privileged	1
+non		1
+enron		1
+ou		1
+code		1

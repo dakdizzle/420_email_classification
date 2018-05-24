@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+nda		1
+conflicts	1
+chematch	1

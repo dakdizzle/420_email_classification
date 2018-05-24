@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ds		1
+freeland	1
+information	1
+know		1
+estate		1
+ms		1
+someone		1
+updating	1
+don		1
+needs		1

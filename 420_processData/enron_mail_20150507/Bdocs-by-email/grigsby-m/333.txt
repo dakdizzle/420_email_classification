@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+long		1
+treating	1
+trick		1
+know		1
+spent		1
+wed		1
+town		1
+grigsby		1

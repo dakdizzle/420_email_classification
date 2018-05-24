@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+good		1
+approve		1
+need		1
+system		1
+looks		1

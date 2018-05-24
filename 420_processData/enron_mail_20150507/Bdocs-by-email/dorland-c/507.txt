@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+moving		1
+cow		1
+back		1
+town		1
+later		1
+call		1
+ll		1

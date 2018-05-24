@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+upward		1
+look		1
+eyes		1
+make		1
+time		1
+roll		1
+beady		1
+cannnot		1
+help		1
+eye		1

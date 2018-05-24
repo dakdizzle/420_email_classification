@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+travis		1
+hopefully	1
+few		1
+attached	1
+see		1
+changes		1
+document	1
+made		1
+insignificant	1
+minor		1
+comments	1
+read		1
+very		1
+through		1

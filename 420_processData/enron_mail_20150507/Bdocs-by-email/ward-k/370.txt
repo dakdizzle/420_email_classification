@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+wspp		1
+go		1
+beneficial	1
+think		1

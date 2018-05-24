@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+covers		1
+sent		1
+check		1
+best		1
+know		1
+barry		1
+guys		1
+prentice	1
+jeffgo		1
+saturday	1
+gold		1
+yesterday	1

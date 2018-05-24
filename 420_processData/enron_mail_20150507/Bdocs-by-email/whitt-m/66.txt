@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+please		1
+attached	1
+find		1
+resume		1
+call		1
+thanks		1

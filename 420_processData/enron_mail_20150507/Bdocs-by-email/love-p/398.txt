@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+see		2
+sitting		1
+coming		1
+day		1
+pl		1
+zoo		1
+days		1
+few		1
+today		1
+currently	1
+looks		1
+building	1
+around		1
+good		1
+back		1
+idea		1
+move		1
+new		1
+here		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+monday		1
+m		1
+up		1
+harry		1
+work		1
+far		1
+broke		1
+don		1

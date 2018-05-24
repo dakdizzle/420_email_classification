@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+events		2
+external	2
+control		2
+thankful	2
+much		1
+those		1
+family		1
+truly		1
+responses	1
+fine		1
+especially	1
+teb		1
+merry		1
+christmas	1
+ourselves	1
+m		1
+jobs		1
+blessings	1
+still		1
+doing		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+issues		1
+tim		1
+west		1
+belden		1
+ls		1

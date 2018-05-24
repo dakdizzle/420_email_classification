@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+mail		2
+mark		1
+event		1
+files		1
+srs		1
+perhaps		1
+out		1
+home		1
+m		1
+house		1
+sent		1
+retrieved	1
+jeff		1
+pass		1
+d		1
+thought		1
+last		1
+week		1
+cleaning	1

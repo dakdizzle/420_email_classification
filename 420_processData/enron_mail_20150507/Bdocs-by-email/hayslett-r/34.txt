@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+performed	1
+debt		1
+know		1
+answers		1
+tests		1
+lenders		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+fax		1
+ignore		1
+hour		1
+out		1
+wrong		1
+version		1
+jeff		1
+language	1
+bill		1
+changes		1
+expected	1
+made		1
+new		1
+didn		1

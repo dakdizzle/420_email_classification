@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+gregg		2
+cn		2
+meeting		1
+information	1
+recipients	1
+appreciate	1
+noon		1
+na		1
+call		1
+room		1
+gpenman		1
+enron		1
+jeff		1
+ou		1
+mail		1
+conference	1
+here		1
+penman		1

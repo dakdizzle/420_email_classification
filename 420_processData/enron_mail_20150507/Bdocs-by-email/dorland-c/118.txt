@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lampshade	1
+go		1
+cleaners	1
+sure		1
+ll		1

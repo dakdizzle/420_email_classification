@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+little		1
+tushar		1
+paul		1
+press		1
+time		1
+know		1
+govt		1
+sounds		1
+come		1
+want		1
+more		1
+senses		1
+read		1
+give		1

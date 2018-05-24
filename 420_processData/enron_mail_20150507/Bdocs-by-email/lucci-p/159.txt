@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+theresa		1
+paul		1
+spreadsheet	1
+forward		1
+asked		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+group		1
+ercot		1
+many		1
+october		1
+lv		1
+spots		1
+tj		1
+trip		1
+jmf		1
+rt		1

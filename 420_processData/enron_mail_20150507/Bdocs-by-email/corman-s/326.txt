@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+notice		1
+written		1
+please		1
+bill		1
+tell		1
+postponement	1
+provide		1

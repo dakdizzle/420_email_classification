@@ -1,0 +1,22 @@
+NumWords	31
+NumTerms	19
+
+signed		4
+up		3
+adm		3
+give		3
+fax		2
+goldman		2
+sachs		2
+gsi		1
+international	1
+until		1
+working		1
+marie		1
+won		1
+carr		1
+co		1
+futures		1
+sara		1
+agreement	1
+aneela		1

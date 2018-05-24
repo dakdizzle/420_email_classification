@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+whatever	1
+meeting		1
+plan		1
+done		1
+fundies		1
+office		1
+location	1
+positions	1
+works		1
+nrg		1
+skilling	1
+mtg		1

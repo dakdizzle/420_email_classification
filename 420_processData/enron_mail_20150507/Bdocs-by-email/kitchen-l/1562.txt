@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+bowen		1
+talk		1
+moved		1
+payments	1
+loop		1
+need		1
+stopped		1

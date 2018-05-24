@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+little		1
+m		1
+thing		1
+serious		1
+um		1
+now		1
+cat		1
+disgusted	1

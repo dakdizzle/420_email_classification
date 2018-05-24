@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+story		1
+party		1
+heard		1
+pajama		1
+houston		1
+society		1
+high		1
+circulating	1
+eeks		1
+weekend		1
+last		1
+skilling	1
+attended	1
+eeegads		1

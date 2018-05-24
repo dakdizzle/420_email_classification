@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+power		1
+today		1
+hartman		1
+tom		1
+call		1
+joaquin		1
+put		1
+message		1
+going		1
+below		1
+natural		1
+imagine		1
+original	1
+san		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+group		1
+out		1
+look		1
+rick		1
+know		1
+back		1
+now		1
+tx		1
+asked		1
+town		1
+note		1
+apprise		1

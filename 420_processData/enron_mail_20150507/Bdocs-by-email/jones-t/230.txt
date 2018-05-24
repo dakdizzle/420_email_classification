@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+counterparties	1
+enron		1
+agreements	1
+know		1
+confidentiality	1
+whether		1
+below		1
+corp		1
+thanks		1

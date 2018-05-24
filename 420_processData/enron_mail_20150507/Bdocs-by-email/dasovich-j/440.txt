@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+puc		1
+email		1
+jeff		1
+today		1
+edison		1
+kidding		1
+bailed		1
+see		1

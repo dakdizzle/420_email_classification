@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+lynn		1
+goodies		1
+bath		1
+bunch		1
+tag		1
+handle		1
+bag		1
+gave		1
+tree		1
+away		1
+threw		1

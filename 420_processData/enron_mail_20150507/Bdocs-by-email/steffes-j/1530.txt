@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+wade		1
+jeff		1
+eesi		1
+another		1
+need		1
+checking	1

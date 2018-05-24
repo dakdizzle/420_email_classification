@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+juice		1
+games		1
+won		1
+went		1
+total		1
+took		1

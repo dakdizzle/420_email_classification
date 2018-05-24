@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+m		1
+sweet		1
+know		1
+pay		1
+happy		1
+prentice	1
+sounds		1
+tickets		1

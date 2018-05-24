@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+sat		2
+make		1
+up		1
+following	1
+head		1
+out		1
+both		1
+weekend		1
+told		1
+last		1
+town		1
+think		1
+didn		1

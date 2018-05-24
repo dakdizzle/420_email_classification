@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+minutes		1
+couple		1
+give		1

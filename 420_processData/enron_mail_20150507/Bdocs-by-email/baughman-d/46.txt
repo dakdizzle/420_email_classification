@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+thing		1
+ya		1
+cool		1
+trav		1
+see		1
+ll		1

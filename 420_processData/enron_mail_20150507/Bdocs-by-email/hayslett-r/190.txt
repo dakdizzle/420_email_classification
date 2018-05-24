@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+closer		1
+time		1
+stan		1
+probably	1
+call		1

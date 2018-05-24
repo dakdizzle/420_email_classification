@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+bmw		1
+buy		1
+gonna		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+remove		1
+gascontrol	1
+list		1
+distribution	1
+enron		1
+please		1
+control		1
+gas		1
+aglresources	1
+com		1

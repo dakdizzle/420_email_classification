@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+drafted		2
+copy		2
+agreement	2
+send		1
+perry		1
+wayne		1
+up		1
+time		1
+pick		1
+form		1
+submitted	1
+dan		1
+issues		1
+want		1
+michelle	1
+past		1
+use		1
+consulting	1
+asking		1
+twanda		1

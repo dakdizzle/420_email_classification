@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+fsp		2
+much		1
+acccounted	1
+know		1
+now		1
+healthy		1
+sorted		1
+never		1
+properly	1
+out		1
+exactly		1
+yeah		1
+bill		1
+trades		1
+need		1
+though		1
+correct		1
+eol		1
+deal		1
+don		1
+stress		1
+think		1

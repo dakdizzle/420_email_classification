@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+thanksgiving	2
+soon		2
+send		1
+copy		1
+stepenovitch	1
+talk		1
+vacation	1
+updating	1
+via		1
+morning		1
+nice		1
+done		1
+m		1
+good		1
+hope		1
+back		1
+mail		1
+rosanna		1
+process		1
+joe		1
+ll		1
+resume		1

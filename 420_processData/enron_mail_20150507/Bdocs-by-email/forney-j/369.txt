@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+thanks		2
+day		1
+detail		1
+interested	1
+attached	1
+today		1
+calling		1
+review		1
+phone		1
+victor		1
+talking		1
+enron		1
+convenience	1
+best		1
+obviously	1
+again		1
+hasnt		1
+more		1
+year		1
+career		1
+jforneycell	1
+resume		1

@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+sorry		2
+together	1
+hear		1
+family		1
+up		1
+catch		1
+talk		1
+create		1
+members		1
+oddly		1
+funerals	1
+catalyst	1
+bringing	1
+see		1
+seem		1
+soon		1
+nice		1
+opportunities	1
+enough		1
+sally		1
+grandmother	1
+everyone	1

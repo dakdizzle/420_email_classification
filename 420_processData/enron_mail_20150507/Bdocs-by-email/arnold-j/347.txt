@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+budget		1
+ve		1
+more		1
+made		1
+yes		1
+need		1
+year		1
+income		1

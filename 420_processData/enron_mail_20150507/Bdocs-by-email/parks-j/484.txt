@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+monday		1
+wedsday		1
+run		1
+back		1
+driver		1
+tuesday		1
+seat		1
+over		1

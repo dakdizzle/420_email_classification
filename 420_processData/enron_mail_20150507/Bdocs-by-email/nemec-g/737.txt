@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+fla		1
+letter		1
+fyi		1
+comments	1
+counsel		1

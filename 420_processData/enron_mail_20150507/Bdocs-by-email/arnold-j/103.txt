@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+views		1
+john		1
+ng		1
+ect		1
+fraserenron	1
+markets		1
+hou		1
+pmto		1
+enron		1
+global		1
+arnold		1
+fraser		1
+ectcc		1
+wagernew	1
+subject		1
+jennifer	1
+fundamentals	1
+oddsjen		1
+enronxgate	1

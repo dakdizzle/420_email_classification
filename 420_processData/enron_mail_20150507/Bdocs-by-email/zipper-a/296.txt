@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+morning		1
+really		1
+thing		1
+right		1
+received	1
+know		1
+things		1
+now		1
+busy		1
+stop		1

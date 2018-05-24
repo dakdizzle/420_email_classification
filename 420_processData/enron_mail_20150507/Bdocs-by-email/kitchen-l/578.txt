@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+wrap		1
+ok		1
+lisa		1
+lc		1
+doing		1

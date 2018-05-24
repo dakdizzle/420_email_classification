@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+blackberry	2
+around		2
+net		1
+join		1
+wireless	1
+handheld	1
+know		1
+www		1
+leave		1
+call		1
+anything	1
+miss		1
+sent		1

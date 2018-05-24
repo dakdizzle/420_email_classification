@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+harder		1
+sry		1
+direct		1
+more		1
+future		1
+work		1
+youi		1

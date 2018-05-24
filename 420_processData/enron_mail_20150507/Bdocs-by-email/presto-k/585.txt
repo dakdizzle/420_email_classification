@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+monday		1
+discuss		1
+seems		1
+meeting		1
+reasonable	1
+approa		1
+ch		1
+though		1
+general		1

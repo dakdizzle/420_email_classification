@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+slate		1
+id		1
+msn		1
+http		1
+com		1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+pm		2
+gmt		1
+monday		1
+floor		1
+enron		1
+time		1
+south		1
+th		1
+canada		1
+central		1
+november	1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+aquired		1
+dynegy		1
+inked		1
+deal		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+chonawee	1
+letter		1
+another		1
+shirley		1

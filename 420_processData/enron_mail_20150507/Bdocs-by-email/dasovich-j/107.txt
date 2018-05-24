@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jeff		1
+best		1
+numbers		1
+change		1
+phone		1
+companies	1
+thanks		1

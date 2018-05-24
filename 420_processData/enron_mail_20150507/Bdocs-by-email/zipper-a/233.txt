@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+mar		2
+jan		2
+nov		2
+dec		2
+feb		2
+sep		1
+rally		1
+steve		1
+vols		1
+today		1
+month		1
+aug		1
+vol		1
+andy		1
+advised		1
+jun		1
+apr		1
+big		1
+oct		1
+jul		1

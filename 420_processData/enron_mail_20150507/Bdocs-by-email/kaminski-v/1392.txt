@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+vince		2
+aol		1
+plz		1
+send		1
+vkaminski	1
+zimin		1
+left		1
+already		1
+kaminski	1
+com		1

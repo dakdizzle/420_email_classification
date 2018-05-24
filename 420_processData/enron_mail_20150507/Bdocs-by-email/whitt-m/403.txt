@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+good		1
+make		1
+know		1
+count		1
+snow		1
+even		1
+head		1
+love		1

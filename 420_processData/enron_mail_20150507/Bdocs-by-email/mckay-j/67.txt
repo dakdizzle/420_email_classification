@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+jmckay		2
+cn		2
+pstempress	1
+recipients	1
+filename	1
+na		1
+mmbtu		1
+privileged	1
+regards		1
+non		1
+enron		1
+jonathan	1
+jon		1
+usd		1
+traded		1
+ou		1
+purposed	1
+mckay		1

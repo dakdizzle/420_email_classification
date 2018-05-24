@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+relating	2
+retention	1
+send		1
+thing		1
+cash		1
+time		1
+david		1
+predict		1
+whether		1
+mich		1
+vesting		1
+anything	1
+way		1
+remove		1
+more		1
+e		1
+comments	1
+components	1
+rs		1
+think		1
+ll		1

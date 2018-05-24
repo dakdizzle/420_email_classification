@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+situation	1
+plan		1
+metals		1
+document	1
+draft		1
+michelle	1
+prepared	1
+here		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+seconded	1
+sent		1
+wireless	1
+ttrade		1
+handheld	1
+ubs		1
+awaiting	1
+visa		1
+blackberry	1

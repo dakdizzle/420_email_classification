@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+make		1
+floor		1
+job		1
+information	1
+know		1
+broad		1
+karen		1
+tried		1
+fit		1
+possible	1
+please		1
+groups		1
+description	1
+additional	1
+another		1
+need		1
+move		1
+vladi		1
+trading		1
+here		1

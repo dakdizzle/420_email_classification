@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+cn		2
+together	1
+name		1
+letter		1
+recipients	1
+once		1
+wynn		1
+gsa		1
+na		1
+thanks		1
+fit		1
+pieces		1
+without		1
+done		1
+awynn		1
+enron		1
+understand	1
+forward		1
+ou		1
+address		1
+kay		1
+tasking		1
+adriana		1

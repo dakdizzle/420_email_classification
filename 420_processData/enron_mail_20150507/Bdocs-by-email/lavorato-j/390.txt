@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+up		1
+again		1
+work		1
+shows		1
+call		1

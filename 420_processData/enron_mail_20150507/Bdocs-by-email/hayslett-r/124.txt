@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+meetings	1
+tomorrow	1
+haysletteb	1
+rod		1
+lunch		1
+cancel		1

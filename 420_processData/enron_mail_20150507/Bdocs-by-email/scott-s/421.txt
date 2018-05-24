@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+dc		1
+between		1
+possibility	1
+thinking	1
+diego		1
+please		1
+well		1
+safe		1
+flying		1
+tell		1
+la		1
+san		1

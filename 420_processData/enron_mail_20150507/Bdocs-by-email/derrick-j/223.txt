@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+scott		1
+forwarding	1
+best		1
+thank		1
+report		1

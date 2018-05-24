@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+officially	1
+send		1
+jodi		1
+chat		1
+service		1
+form		1
+thanks		1
+formal		1
+morning		1
+kim		1
+language	1
+need		1
+agreement	1
+request		1
+tender		1
+here		1

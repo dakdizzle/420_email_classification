@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+lynn		2
+lblair		2
+cn		2
+customer	1
+relations	1
+blair		1
+recipients	1
+appreciate	1
+sounds		1
+filename	1
+na		1
+help		1
+pst		1
+privileged	1
+tlhis		1
+good		1
+non		1
+enron		1
+ou		1
+issue		1
+richard		1

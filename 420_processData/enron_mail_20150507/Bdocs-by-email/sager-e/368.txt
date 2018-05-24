@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+soon		1
+tennis		1
+up		1
+talk		1
+sore		1
+wed		1
+still		1
+thurs		1
+play		1

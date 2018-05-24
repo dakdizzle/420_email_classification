@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+sshackl		2
+cn		2
+sara		2
+transaction	1
+shackleton	1
+bear		1
+ena		1
+confirms	1
+recipients	1
+copies		1
+filename	1
+na		1
+derivatives	1
+thanks		1
+pstgil		1
+privileged	1
+non		1
+enron		1
+executed	1
+please		1
+forward		1
+ou		1

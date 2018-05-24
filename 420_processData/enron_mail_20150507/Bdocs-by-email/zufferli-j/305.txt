@@ -1,0 +1,16 @@
+NumWords	20
+NumTerms	13
+
+july		5
+order		2
+nd		2
+june		2
+john		1
+options		1
+following	1
+lost		1
+prior		1
+total		1
+canadian	1
+book		1
+largest		1

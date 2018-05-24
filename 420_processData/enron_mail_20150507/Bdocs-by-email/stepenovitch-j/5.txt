@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+surprised	1
+m		1

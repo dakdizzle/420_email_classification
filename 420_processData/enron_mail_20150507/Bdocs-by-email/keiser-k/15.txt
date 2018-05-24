@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+curves		2
+taking		1
+list		1
+history		1
+ubs		1
+kam		1
+continue	1
+load		1
+new		1
+over		1

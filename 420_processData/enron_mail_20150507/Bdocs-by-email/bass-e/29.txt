@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+finance		1
+hebert		1
+more		1
+bob		1
+committee	1
+important	1

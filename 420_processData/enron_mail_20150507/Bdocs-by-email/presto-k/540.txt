@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+friday		2
+curves		2
+much		1
+vs		1
+thursday	1
+lower		1
+use		1
+florida		1

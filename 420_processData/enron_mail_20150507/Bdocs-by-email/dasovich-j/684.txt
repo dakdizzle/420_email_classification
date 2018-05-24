@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+morning		1
+monday		1
+eldon		1
+interested	1
+time		1

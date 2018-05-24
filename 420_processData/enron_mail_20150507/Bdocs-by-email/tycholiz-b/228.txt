@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+time		1
+weds		1
+tues		1
+pls		1
+town		1
+bt		1
+thurs		1
+schedule	1

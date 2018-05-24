@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+class		2
+ok		1
+know		1
+understanding	1
+options		1
+nov		1
+karen		1
+monika		1
+thanks		1

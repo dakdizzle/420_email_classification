@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+post		1
+square		1
+midtown		1

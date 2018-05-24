@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+three		1
+back		1
+injuries	1
+concerned	1
+weeks		1
+organs		1
+internal	1
+bledaoe		1
+think		1

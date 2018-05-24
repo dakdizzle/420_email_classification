@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+cell		1
+night		1
+last		1
+call		1

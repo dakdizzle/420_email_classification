@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+halloween	2
+party		1
+thing		1
+ok		1
+up		1
+guys		1
+guess		1
+watch		1
+later		1
+see		1
+r		1
+out		1
+lsu		1
+thinking	1
+knwow		1
+go		1
+going		1
+having		1
+game		1
+doing		1
+boone		1

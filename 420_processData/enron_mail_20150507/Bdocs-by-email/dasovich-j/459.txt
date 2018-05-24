@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+gas		2
+out		1
+ca		1
+contracts	1
+right		1
+perspective	1
+reading		1
+deals		1
+money		1
+straight	1

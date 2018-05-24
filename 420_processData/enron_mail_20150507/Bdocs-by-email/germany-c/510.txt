@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+capacity	1
+april		1
+under		1
+believe		1
+happy		1
+release		1
+think		1
+offer		1

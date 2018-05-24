@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+state		1
+texas		1
+techfresno	1
+wastanfordla	1

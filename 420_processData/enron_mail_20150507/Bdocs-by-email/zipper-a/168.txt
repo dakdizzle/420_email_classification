@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+front		1
+contract	1

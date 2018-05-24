@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+onto		1
+walk		1
+thinking	1
+matter		1
+memorial	1
+herman		1
+want		1
+nothing		1
+coarse		1
+trying		1
+set		1
+play		1

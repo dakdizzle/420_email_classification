@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+morning		1
+hear		1
+day		1
+good		1
+larry		1
+lighter		1
+back		1
+trading		1
+thoughout	1

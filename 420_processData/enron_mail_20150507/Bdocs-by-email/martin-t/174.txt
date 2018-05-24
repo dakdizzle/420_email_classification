@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+jim		2
+write		1
+send		1
+john		1
+jeanie		1
+ask		1
+today		1
+review		1
+form		1
+tom		1
+feedback	1
+evaluation	1
+out		1
+midyear		1

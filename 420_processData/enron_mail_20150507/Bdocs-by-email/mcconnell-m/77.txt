@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+pretty		2
+way		1
+bored		1
+page		1
+impressive	1
+interesting	1
+ncaa		1
+records		1
+schools		1
+site		1
+pop		1
+thanks		1

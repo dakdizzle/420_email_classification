@@ -1,0 +1,20 @@
+NumWords	25
+NumTerms	17
+
+cn		5
+recipients	2
+na		2
+enron		2
+ou		2
+ed		1
+ale		1
+john		1
+fyi		1
+rwalls		1
+walls		1
+cdba		1
+notesaddr	1
+jr		1
+fec		1
+rob		1
+dec		1

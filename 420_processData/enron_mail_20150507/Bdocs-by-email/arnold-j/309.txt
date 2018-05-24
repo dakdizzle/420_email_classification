@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+opinion		1
+real		1
+except		1
+short		1
+vol		1

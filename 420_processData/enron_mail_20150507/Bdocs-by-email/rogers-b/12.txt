@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ben		1
+rumors		1
+everywhere	1
+dad		1
+give		1
+call		1

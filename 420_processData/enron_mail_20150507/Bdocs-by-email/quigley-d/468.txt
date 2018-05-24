@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+changed		2
+want		2
+thing		1
+forever		1
+everything	1
+know		1
+phone		1
+sorry		1
+kayi		1
+workon		1
+number		1
+talked		1
+done		1
+cell		1
+husband		1
+work		1
+ilydutchps	1
+last		1
+called		1
+having		1
+love		1

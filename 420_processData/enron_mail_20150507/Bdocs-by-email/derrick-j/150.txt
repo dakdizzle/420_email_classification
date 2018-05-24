@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+matter		1
+media		1
+questions	1
+fyi		1

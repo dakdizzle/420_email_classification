@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+stick		1
+today		1
+fyi		1
+head		1

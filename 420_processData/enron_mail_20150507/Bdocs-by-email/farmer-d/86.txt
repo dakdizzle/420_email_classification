@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+changed		1
+those		1
+quot		1
+know		1
+dropboxfolder	1
+eexbids		1
+fyi		1
+price		1
+earlier		1
+listed		1
+file		1
+see		1
+excel		1
+es		1
+sent		1
+please		1
+questions	1
+mail		1

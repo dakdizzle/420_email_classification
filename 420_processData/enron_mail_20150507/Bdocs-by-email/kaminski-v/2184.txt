@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+cn		2
+com		2
+aol		1
+rowe		1
+meeting		1
+crenshaw	1
+david		1
+risk		1
+recipients	1
+tuesday		1
+na		1
+scrensh		1
+thanks		1
+vince		1
+confirmed	1
+message		1
+vkaminski	1
+enron		1
+sungard		1
+ou		1
+mike		1
+shirley		1

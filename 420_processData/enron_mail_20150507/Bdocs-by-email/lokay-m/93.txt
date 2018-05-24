@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+discuss		1
+those		1
+showing		1
+facility	1
+centilli	1
+spreadsheet	1
+attached	1
+meet		1
+economics	1
+planning	1
+thanks		1
+running		1
+soon		1
+additional	1
+james		1
+forward		1
+receive		1
+costs		1

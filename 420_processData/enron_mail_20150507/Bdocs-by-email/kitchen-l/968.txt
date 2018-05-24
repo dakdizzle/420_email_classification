@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ratio		1
+each		1
+investment	1
+price		1
+earnings	1

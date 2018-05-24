@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+pls		2
+discuss		1
+mark		1
+meeting		1
+up		1
+john		1
+advise		1
+denver		1
+tycholiz	1
+minute		1
+blowdown	1
+storage		1
+basin		1
+barry		1
+whitt		1
+set		1
+williston	1

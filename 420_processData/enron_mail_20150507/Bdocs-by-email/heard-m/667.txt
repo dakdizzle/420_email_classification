@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+group		1
+updated		1
+list		1
+back		1
+added		1
+awhile		1
+here		1

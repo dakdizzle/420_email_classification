@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+enron		1
+unsubscribe	1
+don		1
+com		1
+baughman	1

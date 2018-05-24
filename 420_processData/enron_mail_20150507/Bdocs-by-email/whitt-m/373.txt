@@ -1,0 +1,16 @@
+NumWords	20
+NumTerms	13
+
+cn		4
+recipients	2
+na		2
+enron		2
+ou		2
+paul		1
+talk		1
+today		1
+plucci		1
+fuller		1
+lucci		1
+dave		1
+dfuller		1

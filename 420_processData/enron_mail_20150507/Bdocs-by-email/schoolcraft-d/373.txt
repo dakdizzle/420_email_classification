@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+enron		2
+comx		1
+mcpherson	1
+steve		1
+schoolcraft	1
+january		1
+dx		1
+filename	1
+pstworks	1
+privileged	1
+ds		1
+non		1
+dschool		1
+origin		1
+cliff		1
+com		1

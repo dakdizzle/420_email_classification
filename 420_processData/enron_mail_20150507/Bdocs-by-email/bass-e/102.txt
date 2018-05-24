@@ -1,0 +1,23 @@
+NumWords	26
+NumTerms	20
+
+mail		3
+net		2
+bass		2
+alltel		2
+cn		2
+stdauto		1
+kathy		1
+jason		1
+recipients	1
+na		1
+shanna		1
+enron		1
+jbass		1
+dad		1
+shusser		1
+ou		1
+daphneco	1
+husser		1
+com		1
+lwbthemarine	1

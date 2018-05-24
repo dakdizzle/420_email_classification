@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+cn		3
+enron		1
+notesaddr	1
+draft		1
+recipients	1
+ou		1
+mike		1
+smith		1
+na		1
+ff		1
+ee		1

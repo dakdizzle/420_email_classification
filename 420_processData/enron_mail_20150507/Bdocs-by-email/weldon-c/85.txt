@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+m		2
+family		1
+now		1
+fork		1
+take		1
+out		1
+versus		1
+less		1
+being		1
+yeah		1
+crowded		1
+going		1
+sure		1

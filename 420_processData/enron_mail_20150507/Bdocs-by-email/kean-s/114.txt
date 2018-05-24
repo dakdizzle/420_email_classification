@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sent		1
+approval	1
+joann		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+marcus		1
+together	1
+talk		1
+pulling		1
+nettleson	1
+appropriate	1

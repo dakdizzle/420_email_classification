@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+ene		1
+half		1
+sold		1

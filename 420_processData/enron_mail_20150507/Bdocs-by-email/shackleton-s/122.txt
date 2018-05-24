@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+mark		1
+reassign	1
+ss		1
+thanks		1

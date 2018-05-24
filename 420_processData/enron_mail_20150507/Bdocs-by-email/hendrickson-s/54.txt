@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+heaven		1
+come		1
+don		1
+reward		1
+worry		1

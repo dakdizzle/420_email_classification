@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+morning		1
+sent		1
+yeah		1

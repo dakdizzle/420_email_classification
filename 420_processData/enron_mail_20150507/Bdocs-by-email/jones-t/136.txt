@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+trans		1
+guaranty	1
+alta		1
+here		1

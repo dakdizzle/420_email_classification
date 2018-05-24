@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+going		2
+jaycreekhouston	1
+scott		1
+bradley		1
+up		1
+catch		1
+try		1
+things		1
+walking		1
+see		1
+planning	1
+call		1
+giving		1
+sally		1
+charles		1
+tx		1
+sue		1
+tonight		1
+ll		1

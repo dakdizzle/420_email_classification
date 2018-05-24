@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+civilization	2
+anyway		1
+western		1
+create		1
+old		1
+new		1
+improved	1
+ll		1
+getting		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+hear		1
+long		1
+hey		1
+family		1
+everything	1
+time		1
+eric		1
+going		1
+doing		1

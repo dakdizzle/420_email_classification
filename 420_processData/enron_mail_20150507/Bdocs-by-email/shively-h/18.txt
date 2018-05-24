@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+storage		3
+fields		2
+tariffs		1
+much		1
+regardless	1
+gas		1
+price		1
+major		1
+someone		1
+pipeline	1
+require		1
+roll		1
+withdrawn	1
+determine	1
+study		1

@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+ena		2
+claim		2
+long		1
+directly	1
+accounting	1
+yes		1
+fine		1
+willie		1
+million		1
+ees		1
+deal		1
+agrees		1

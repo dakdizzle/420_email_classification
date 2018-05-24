@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+plan		2
+mcash		2
+cn		2
+michelle	2
+cash		1
+hate		1
+until		1
+know		1
+recipients	1
+guess		1
+delay		1
+filename	1
+na		1
+current		1
+responding	1
+privileged	1
+look		1
+changing	1
+psti		1
+non		1
+enron		1
+direct		1
+one		1
+ou		1

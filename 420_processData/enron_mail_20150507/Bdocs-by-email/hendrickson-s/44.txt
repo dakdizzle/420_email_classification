@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+gdpa		1
+point		1
+yes		1
+south		1
+dominion	1
+sorryscott	1

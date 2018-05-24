@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+report		3
+trades		2
+eol		2
+randy		2
+group		1
+discuss		1
+together	1
+cash		1
+generate	1
+complete	1
+working		1
+jason		1
+daily		1
+thanks		1
+analysis	1
+non		1
+please		1
+sitara		1
+mike		1
+activity	1
+give		1
+include		1

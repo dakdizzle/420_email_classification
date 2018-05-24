@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+make		1
+up		1
+try		1
+scalp		1
+going		1
+sorry		1
+tickets		1
+don		1

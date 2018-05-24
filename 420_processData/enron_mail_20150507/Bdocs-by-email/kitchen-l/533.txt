@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+merry		1
+christmas	1
+screen		1
+white		1

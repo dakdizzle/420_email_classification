@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+minutes		1
+already		1
+twice		1
+tried		1

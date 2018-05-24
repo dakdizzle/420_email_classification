@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+garage		1
+elevators	1
+fine		1
+meet		1
+parking		1

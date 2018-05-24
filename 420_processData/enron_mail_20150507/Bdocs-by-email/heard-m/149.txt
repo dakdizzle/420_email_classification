@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+meeting		1
+seems		1
+available	1
+scheduling	1
+marie		1
+quickly		1
+week		1
+dianne		1
+responding	1
+hi		1
+next		1
+thanks		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+belgium		1
+fuck		1
+spell		1

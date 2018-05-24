@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+rang		1
+cable		1
+great		1
+try		1
+busy		1
+calling		1
+later		1
+tried		1
+comp		1

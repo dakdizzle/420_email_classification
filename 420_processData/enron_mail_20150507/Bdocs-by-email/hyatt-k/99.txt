@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+nova		1
+fun		1
+minturn		1
+contact		1
+guides		1
+colo		1

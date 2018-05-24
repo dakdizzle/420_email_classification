@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+anything	1
+cgnn		1
+know		1
+signed		1
+document	1
+netco		1
+don		1
+give		1

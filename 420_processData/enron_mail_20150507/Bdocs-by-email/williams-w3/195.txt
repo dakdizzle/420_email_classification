@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+ads		2
+greg		1
+ford		1
+ideas		1
+bill		1
+work		1
+chance		1
+chip		1
+new		1
+thanks		1
+ii		1
+phase		1

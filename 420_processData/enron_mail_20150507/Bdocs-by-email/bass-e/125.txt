@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+put		1
+waiver		1
+transactions	1
+thursday	1
+league		1
+need		1
+noon		1
+system		1
+process		1

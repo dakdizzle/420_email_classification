@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+end		1
+closed		1
+need		1
+month		1
+deal		1

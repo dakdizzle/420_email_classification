@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+issues		1
+nepco		1
+fyi		1
+picketing	1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+women		1
+card		1
+dated		1
+one		1
+fast		1
+don		1
+think		1
+take		1

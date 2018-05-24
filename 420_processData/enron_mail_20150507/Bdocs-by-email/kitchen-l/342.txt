@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+each		1
+thankslouise	1
+adding		1
+bobsuperbwould	1
+responsibility	1
+names		1
+mind		1

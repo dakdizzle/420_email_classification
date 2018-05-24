@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+surprised	1
+thing		1
+meeting		1
+up		1
+leave		1
+unless		1
+somber		1
+planning	1
+anything	1
+people		1
+layoffs		1
+office		1
+going		1
+need		1
+whalley		1
+don		1
+think		1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+care		1
+expenses	1
+account		1
+send		1
+reimbursement	1
+handling	1
+company		1
+outside		1
+take		1
+thanks		1
+kim		1
+cammi		1
+mursch		1
+spoke		1
+relo		1
+jmf		1
+think		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+lynn		1
+fyi		1
+thanks		1

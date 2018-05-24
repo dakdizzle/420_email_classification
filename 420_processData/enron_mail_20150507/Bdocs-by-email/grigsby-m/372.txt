@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+clicking	1
+mirant		1
+positions	1
+exposure	1
+reduce		1

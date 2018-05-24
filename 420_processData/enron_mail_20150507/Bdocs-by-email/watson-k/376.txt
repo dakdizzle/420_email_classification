@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+visit		2
+training	2
+available	2
+monday		1
+pm		1
+invite		1
+folks		1
+know		1
+phone		1
+hour		1
+thanks		1
+kim		1
+vince		1
+list		1
+noticed		1
+works		1
+half		1
+shop		1

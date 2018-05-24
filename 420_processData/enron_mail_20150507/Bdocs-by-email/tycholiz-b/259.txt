@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+kids		1
+pictures	1
+great		1

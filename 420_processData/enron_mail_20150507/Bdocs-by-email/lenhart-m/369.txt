@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+make		2
+put		1
+definately	1
+wont		1
+lakers		1

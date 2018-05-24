@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+make		1
+ok		1
+changes		1
+want		1
+fyi		1
+thanks		1

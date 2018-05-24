@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+l		1
+preliminary	1
+oct		1

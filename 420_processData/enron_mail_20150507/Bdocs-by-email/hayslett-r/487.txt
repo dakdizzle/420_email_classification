@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+cn		2
+monday		1
+gmtsubject	1
+working		1
+recipients	1
+interest	1
+attachment	1
+inline		1
+sounds		1
+na		1
+sale		1
+pipeline	1
+trailblazer	1
+enron		1
+follows		1
+one		1
+ou		1
+reasonable	1
+kcampos		1
+attend		1
+deal		1
+november	1
+date		1

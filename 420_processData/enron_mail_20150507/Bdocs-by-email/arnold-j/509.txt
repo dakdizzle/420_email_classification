@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+brian		1
+name		1
+last		1

@@ -1,0 +1,19 @@
+NumWords	21
+NumTerms	16
+
+customer	2
+copies		2
+executable	2
+sent		2
+contract	2
+send		1
+stacy		1
+know		1
+requested	1
+thanks		1
+kim		1
+down		1
+signed		1
+questions	1
+prepared	1
+signature	1

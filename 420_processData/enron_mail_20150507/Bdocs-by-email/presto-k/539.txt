@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+business	1
+called		1
+new		1

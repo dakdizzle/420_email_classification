@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+paul		1
+resend		1
+anyone		1
+attachment	1
+thanks		1

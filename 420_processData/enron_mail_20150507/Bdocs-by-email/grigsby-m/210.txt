@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+story		1
+email		1
+ene		1
+hunter		1
+writer		1
+well		1
+thank		1
+simms		1
+ghost		1
+chris		1
+see		1
+hack		1
+market		1
+soon		1
+boy		1
+good		1
+tate		1
+book		1
+one		1
+debacle		1
+grigsby		1
+doing		1

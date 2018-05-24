@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+rhaysle		2
+cn		2
+know		1
+bids		1
+recipients	1
+hayslett	1
+filename	1
+na		1
+michael		1
+offer		1
+privileged	1
+non		1
+enron		1
+pstthey		1
+one		1
+ou		1
+rod		1
+think		1
+took		1
+mm		1

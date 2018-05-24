@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+send		1
+list		1
+right		1
+guys		1
+mike		1
+tom		1

@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+rotate		2
+make		1
+probably	1
+going		1
+months		1

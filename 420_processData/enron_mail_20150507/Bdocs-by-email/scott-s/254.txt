@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+sscott		2
+cn		2
+ll		2
+fun		1
+scott		1
+catch		1
+guys		1
+recipients	1
+due		1
+susan		1
+filename	1
+na		1
+privileged	1
+out		1
+dinner		1
+broker		1
+non		1
+enron		1
+one		1
+pstyou		1
+ou		1
+sure		1
+sadly		1
+next		1

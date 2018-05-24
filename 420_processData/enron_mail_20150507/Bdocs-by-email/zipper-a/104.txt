@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+cn		2
+enron		1
+lcanno		1
+cannon		1
+recipients	1
+ou		1
+interest	1
+lydia		1
+na		1

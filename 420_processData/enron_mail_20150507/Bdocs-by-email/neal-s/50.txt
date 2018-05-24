@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+products	2
+manage		1
+brad		1
+assigned	1
+jon		1
+mckay		1
+pete		1

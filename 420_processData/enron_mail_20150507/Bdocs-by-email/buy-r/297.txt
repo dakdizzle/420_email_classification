@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+think		2
+others		1
+worthwhile	1
+rick		1
+guys		1
+interesting	1
+doing		1
+see		1

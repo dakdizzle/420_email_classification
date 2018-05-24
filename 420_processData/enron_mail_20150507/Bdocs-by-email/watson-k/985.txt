@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+yes		1
+ll		1

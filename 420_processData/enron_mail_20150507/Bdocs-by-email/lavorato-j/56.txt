@@ -1,0 +1,11 @@
+NumWords	15
+NumTerms	8
+
+tease		4
+under		2
+colts		2
+miami		2
+over		2
+louis		1
+minus		1
+st		1

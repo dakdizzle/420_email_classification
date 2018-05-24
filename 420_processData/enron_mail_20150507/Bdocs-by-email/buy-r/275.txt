@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+involved	2
+cn		2
+rick		2
+rbuy		2
+transaction	1
+meeting		1
+recipients	1
+corporate	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+run		1
+numbers		1
+buy		1
+ou		1
+pstwere		1
+development	1
+skilling	1

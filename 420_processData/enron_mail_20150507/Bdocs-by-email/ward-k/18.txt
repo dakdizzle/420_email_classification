@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+know		2
+info		1
+physical	1
+legal		1
+gas		1
+attached	1
+price		1
+answer		1
+sale		1
+standing	1
+firm		1
+thanks		1
+master		1
+kim		1
+transactions	1
+ward		1
+team		1
+questions	1
+purchase	1
+need		1
+natural		1
+wes		1
+agreement	1

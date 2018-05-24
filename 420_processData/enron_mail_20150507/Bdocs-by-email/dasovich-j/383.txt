@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+really		1
+day		1
+go		1
+guys		1
+peachy		1

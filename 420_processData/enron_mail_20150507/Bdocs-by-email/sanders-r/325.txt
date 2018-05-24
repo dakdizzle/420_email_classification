@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+judge		1
+sacramento	1

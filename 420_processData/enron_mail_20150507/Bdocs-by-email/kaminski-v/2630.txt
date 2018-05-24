@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+th		2
+vince		1
+cathy		1
+use		1
+tickets		1
+thanks		1

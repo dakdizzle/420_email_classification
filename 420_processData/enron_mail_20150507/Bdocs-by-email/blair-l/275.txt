@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+lynn		1
+response	1
+raetta		1
+thanks		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+great		1
+agree		1
+absolutely	1

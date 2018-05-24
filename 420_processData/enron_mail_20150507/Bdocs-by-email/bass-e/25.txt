@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+two		1
+know		1
+e		1
+thought		1
+sunday		1

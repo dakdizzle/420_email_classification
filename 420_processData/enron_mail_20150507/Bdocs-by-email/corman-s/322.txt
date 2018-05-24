@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+board		1
+send		1
+rep		1
+up		1
+heads		1
+john		1
+attached	1
+stan		1
+letter		1
+rae		1
+form		1
+asked		1
+pipeline	1
+office		1
+somerhalder	1
+pending		1
+approval	1
+gisb		1
+prepare		1
+appropriate	1

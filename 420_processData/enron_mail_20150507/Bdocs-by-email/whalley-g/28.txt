@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+send		1
+know		1
+recipients	1
+na		1
+heath		1
+hschiess	1
+schiesser	1
+enron		1
+ou		1
+d		1
+thought		1
+don		1

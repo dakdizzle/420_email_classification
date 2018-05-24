@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+going		2
+sitting		1
+make		1
+repercussion	1
+time		1
+conroe		1
+underwear	1
+even		1
+heck		1
+money		1
+world		1
+trip		1
+spending	1
+special		1
+without		1
+around		1
+best		1
+fishing		1
+ryan		1
+ryans		1
+woooooooooooooooohoooooooooooooooooooooooooofreedom	1
+buffffeeeet	1

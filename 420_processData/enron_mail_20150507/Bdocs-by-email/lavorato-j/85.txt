@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+lavo		1
+follow		1
+up		1
+yes		1

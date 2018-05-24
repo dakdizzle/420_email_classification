@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+events		1
+itinary		1

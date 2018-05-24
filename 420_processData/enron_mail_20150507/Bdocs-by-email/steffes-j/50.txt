@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+out		1
+much		1
+put		1
+please		1
+vacation	1
+find		1
+calendar	1

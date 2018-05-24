@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+drink		1
+vince		1
+two		1
+brian		1
+weekend		1
+stop		1

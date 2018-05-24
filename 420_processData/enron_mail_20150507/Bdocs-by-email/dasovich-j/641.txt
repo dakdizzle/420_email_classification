@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+confidential	1
+everything	1
+check		1
+know		1
+sweat		1
+cool		1
+cut		1
+don		1

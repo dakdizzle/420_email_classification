@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+list		1
+customers	1
+try		1
+please		1
+back		1
+know		1
+today		1
+contact		1
+mike		1
+ashley		1

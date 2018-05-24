@@ -1,0 +1,21 @@
+NumWords	32
+NumTerms	18
+
+cn		7
+recipients	3
+na		3
+enron		3
+ou		3
+timothy		1
+blanchard	1
+house		1
+clandry		1
+notesaddr	1
+lenhart		1
+landry		1
+chad		1
+mlenhar		1
+cards		1
+matthew		1
+ee		1
+ff		1

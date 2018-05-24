@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+title		2
+policy		1
+copy		1
+company		1
+warranty	1
+today		1
+find		1
+phillip		1
+bob		1
+found		1
+call		1
+deed		1
+used		1

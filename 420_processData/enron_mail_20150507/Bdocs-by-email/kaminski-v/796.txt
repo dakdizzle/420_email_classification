@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+vince		2
+kaminski	2
+days		1
+dueto		1
+decline		1
+prior		1
+same		1
+filename	1
+pstclare	1
+vkamins		1
+invitation	1
+regret		1
+inform		1
+commitments	1

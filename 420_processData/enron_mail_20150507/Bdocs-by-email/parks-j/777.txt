@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+make		1
+rice		1
+menu		1
+weekend		1
+beans		1
+reguest		1
+red		1

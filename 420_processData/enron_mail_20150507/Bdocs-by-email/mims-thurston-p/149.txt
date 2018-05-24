@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+heartland	1
+john		1
+thankspatrice	1
+july		1
+involved	1
+deal		1
+still		1
+sold		1
+steel		1

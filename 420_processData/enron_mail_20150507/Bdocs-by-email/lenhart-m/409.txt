@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+night		1
+last		1
+pissed		1
+still		1
+mad		1

@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+see		2
+out		2
+love		2
+info		1
+hey		1
+october		1
+contact		1
+wanted		1
+tom		1
+sundays		1
+both		1
+house		1
+good		1
+nicole		1
+come		1
+touch		1
+again		1
+cathy		1
+looked		1
+d		1
+sometime	1
+checking	1

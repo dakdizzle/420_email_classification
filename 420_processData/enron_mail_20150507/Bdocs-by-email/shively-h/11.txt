@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+meeting		1
+power		1
+friday		1
+jumped		1
+moved		1
+ubs		1
+ahead		1
+lawyers		1
+pipeline	1

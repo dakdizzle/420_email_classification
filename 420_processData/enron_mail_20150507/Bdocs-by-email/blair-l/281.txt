@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lynn		1
+info		1
+explanation	1
+being		1
+complaining	1
+well		1
+one		1
+person		1
+anyone		1
+fine		1
+view		1
+thanks		1

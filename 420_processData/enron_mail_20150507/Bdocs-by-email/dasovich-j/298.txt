@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+dimare		2
+dominic		2
+see		1
+thanks		1
+calchamber	1
+roundtable	1
+al		1
+check		1
+jeff		1
+best		1
+sign		1
+ot		1
+com		1

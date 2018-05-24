@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+projdata	1
+wc		1
+nwd		1
+http		1
+report		1
+www		1
+usace		1
+mil		1
+htm		1
+army		1

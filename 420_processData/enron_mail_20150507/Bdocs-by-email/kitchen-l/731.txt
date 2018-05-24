@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+yesterday	2
+note		2
+apart		1
+monday		1
+meeting		1
+thankslouise	1
+zipper		1
+forster		1
+misunderstanding	1
+interest	1
+major		1
+see		1
+candidates	1
+losing		1
+expertise	1
+error		1
+organisation	1
+assistant	1
+savita		1
+going		1
+away		1
+having		1
+think		1
+amita		1

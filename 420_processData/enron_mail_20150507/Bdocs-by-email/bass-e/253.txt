@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+up		1
+msn		1
+messenger	1
+set		1

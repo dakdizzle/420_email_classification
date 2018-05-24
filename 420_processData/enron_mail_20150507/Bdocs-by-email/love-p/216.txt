@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+good		1
+pl		1
+math		1
+looks		1
+expect		1

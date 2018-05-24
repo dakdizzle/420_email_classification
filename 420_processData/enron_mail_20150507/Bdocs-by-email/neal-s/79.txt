@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+scott		2
+neal		2
+cn		2
+first		1
+plan		1
+sneal		1
+recipients	1
+filename	1
+na		1
+east		1
+seating		1
+psthere		1
+enron		1
+ou		1
+pass		1

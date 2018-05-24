@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+drift		1
+group		1
+send		1
+talk		1
+unless		1
+staff		1
+mail		1
+traders		1
+lawyers		1
+tonight		1
+actual		1
+ll		1
+meant		1
+trading		1

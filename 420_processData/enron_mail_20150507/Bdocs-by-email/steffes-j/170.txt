@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+customer	1
+key		1
+rep		1
+legal		1
+fine		1
+industrial	1
+jim		1
+list		1
+munis		1
+including	1
+coops		1
+thoughts	1
+think		1
+area		1

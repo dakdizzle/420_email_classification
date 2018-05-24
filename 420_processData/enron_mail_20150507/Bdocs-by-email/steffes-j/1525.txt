@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+cancelled	1
+bonds		1
+know		1
+mary		1
+aren		1
+more		1
+need		1

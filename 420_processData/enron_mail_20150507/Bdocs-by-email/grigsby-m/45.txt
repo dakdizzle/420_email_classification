@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+privileged	2
+non		2
+mgrigsb		2
+meetingx	1
+strategy	1
+portland	1
+filename	1
+folder		1
+fw		1
+pst		1
+sent		1
+analysis	1
+mx		1
+fundamental	1
+origin		1
+itemsx		1
+subject		1
+reminder	1
+grigsby		1

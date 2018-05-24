@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+matthew		2
+sore		1
+until		1
+nurse		1
+lenhartx	1
+filename	1
+home		1
+hold		1
+psti		1
+lenhart		1
+go		1
+night		1
+weekend		1
+past		1
+liver		1
+vegas		1

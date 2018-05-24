@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hand		1
+little		1
+bit		1
+agree		1
+part		1
+sometimes	1
+plays		1
+fate		1

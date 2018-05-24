@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+irving		1
+early		1
+pm		1
+try		1
+hotel		1
+guys		1
+keep		1
+find		1
+see		1
+posted		1
+house		1
+around		1
+good		1
+right		1
+come		1
+moved		1
+town		1
+dg		1
+game		1
+new		1
+ll		1

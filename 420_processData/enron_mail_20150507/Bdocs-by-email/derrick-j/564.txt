@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+received	1
+please		1
+letter		1
+response	1
+ken		1
+proposed	1
+see		1

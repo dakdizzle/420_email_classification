@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+linda		1
+pls		1
+thx		1
+print		1

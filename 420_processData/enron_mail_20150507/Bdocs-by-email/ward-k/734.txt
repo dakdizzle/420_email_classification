@@ -1,0 +1,18 @@
+NumWords	19
+NumTerms	15
+
+kward		2
+privileged	2
+non		2
+ward		2
+houston		1
+filename	1
+folder		1
+pst		1
+kim		1
+kx		1
+sent		1
+version		1
+origin		1
+itemsx		1
+mime		1

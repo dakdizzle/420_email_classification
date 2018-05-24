@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+really		1
+easy		1
+many		1
+assume		1
+positions	1
+trades		1
+closing		1
+companies	1

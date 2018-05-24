@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+vince		1
+aruna		1
+except		1
+friday		1
+shall		1
+available	1
+week		1
+next		1

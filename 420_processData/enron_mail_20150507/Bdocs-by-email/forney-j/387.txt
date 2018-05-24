@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+thanks		2
+again		2
+possibly	1
+operation	1
+meeting		1
+catch		1
+up		1
+john		1
+ground		1
+wasnt		1
+longer		1
+specs		1
+yesterday	1
+stay		1
+soon		1
+building	1
+m		1
+people		1
+talking		1
+impressed	1
+forney		1
+regret		1
+sure		1
+frank		1

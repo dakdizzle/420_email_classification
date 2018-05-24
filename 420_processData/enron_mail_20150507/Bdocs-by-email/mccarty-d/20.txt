@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+respond		1
+handle		1
+cindy		1
+attached	1
+dan		1

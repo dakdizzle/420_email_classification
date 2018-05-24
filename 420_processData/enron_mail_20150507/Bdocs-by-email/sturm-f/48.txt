@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+thing		1
+id		1
+know		1
+tj		1
+fletch		1
+password	1
+don		1
+help		1
+thanks		1

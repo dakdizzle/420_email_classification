@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+heard		1
+thing		1
+up		1
+hard		1
+time		1
+cooper		1
+steve		1
+tk		1
+ve		1
+long		1
+seen		1
+scream		1
+funniest	1
+laughed		1
+mail		1
+hang		1
+voice		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+each		1
+day		1
+sent		1
+sally		1
+fyi		1
+daily		1
+won		1
+treasury	1
+providing	1

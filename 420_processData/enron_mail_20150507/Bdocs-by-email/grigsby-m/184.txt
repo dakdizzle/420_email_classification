@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+comx		1
+filename	1
+riordan		1
+pstplease	1
+thanks		1
+privileged	1
+look		1
+non		1
+mx		1
+enron		1
+sean		1
+mgrigsb		1
+origin		1
+mike		1
+grigsby		1
+deal		1

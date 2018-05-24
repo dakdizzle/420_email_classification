@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+call		2
+noonwhen	1
+mark		1
+vince		1
+message		1
+fri		1
+expected	1
+left		1
+mail		1
+koening		1
+dave		1
+voice		1

@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+processing	2
+mcash		2
+cn		2
+pstwe		1
+cash		1
+speak		1
+transfers	1
+recipients	1
+amounts		1
+checks		1
+filename	1
+na		1
+wire		1
+privileged	1
+confirmed	1
+contracts	1
+non		1
+enron		1
+ou		1
+michelle	1
+relates		1

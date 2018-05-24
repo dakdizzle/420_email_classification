@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+soon		1
+make		1
+talk		1
+understand	1
+want		1
+decision	1
+implications	1
+sure		1
+melinda		1

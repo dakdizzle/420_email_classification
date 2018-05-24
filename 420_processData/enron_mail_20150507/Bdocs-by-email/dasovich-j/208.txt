@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+enron		1
+shall		1
+steve		1
+hall		1
+legal		1
+recipients	1
+ou		1
+na		1
+thanks		1

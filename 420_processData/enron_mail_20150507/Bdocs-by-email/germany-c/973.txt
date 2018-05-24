@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+buddy		1
+man		1
+somerset	1
+lulling		1
+heck		1
+bbq		1
+market		1
+anyway		1
+without		1
+hope		1
+best		1
+doubt		1
+weekend		1
+happy		1
+city		1
+year		1
+indrid		1
+went		1
+cares		1
+de		1
+new		1
+over		1

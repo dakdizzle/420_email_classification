@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+status		1
+samantha	1
+ca		1
+know		1
+banu		1
+marie		1
+thanks		1

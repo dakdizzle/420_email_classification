@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+bblair		1
+fyi		1
+houston		1
+thanks		1
+com		1
+rr		1

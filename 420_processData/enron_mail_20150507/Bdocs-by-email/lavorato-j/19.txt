@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+deal		2
+heard		1
+bretthave	1
+correa		1
+origination	1
+probability	1
+million		1
+listed		1
+camargo		1
+called		1
+high		1

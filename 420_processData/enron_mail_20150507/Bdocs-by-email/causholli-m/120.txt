@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+correlations	1
+send		1
+start		1
+spreadsheet	1
+monika		1
+using		1
+eugenio		1
+thanks		1

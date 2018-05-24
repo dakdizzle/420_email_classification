@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+write		1
+met		1
+recall		1
+asked		1
+done		1
+down		1
+requests	1
+rick		1
+jeff		1
+update		1
+several		1
+tx		1
+give		1

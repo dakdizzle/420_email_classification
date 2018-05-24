@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+avs		1
+happened	1
+again		1
+year		1
+shit		1
+going		1
+pants		1

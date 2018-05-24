@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+room		1
+ina		1
+team		1
+up		1
+tues		1
+accenture	1
+thnxdq		1
+meet		1
+set		1

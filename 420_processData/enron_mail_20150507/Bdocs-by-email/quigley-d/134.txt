@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+talking		1
+trickycan	1
+response	1
+forward		1
+everyone	1
+isthnxdq	1
+see		1
+kevin		1
+result		1
+here		1

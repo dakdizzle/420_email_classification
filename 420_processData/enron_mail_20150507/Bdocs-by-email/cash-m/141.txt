@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+look		1
+please		1
+michelle	1
+provide		1
+comments	1
+pat		1
+give		1
+thanks		1

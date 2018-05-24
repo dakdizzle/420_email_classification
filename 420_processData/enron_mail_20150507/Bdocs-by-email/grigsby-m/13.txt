@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+return		1
+until		1
+york		1
+babysitter	1
+sunday		1
+call		1
+getting		1
+morning		1
+boys		1
+tomorrow	1
+work		1
+wife		1
+keeping		1
+grigsby		1
+new		1

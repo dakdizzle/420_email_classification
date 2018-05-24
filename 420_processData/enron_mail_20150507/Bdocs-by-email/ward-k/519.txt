@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+home		1
+kim		1
+soon		1
+email		1
+talk		1
+garrett		1
+emainzer	1
+attbi		1
+thought		1
+address		1
+com		1

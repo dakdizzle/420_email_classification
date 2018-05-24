@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+fear		1
+morello		1
+hopefully	1
+well		1
+flying		1
+calling		1
+anyway		1
+tennis		1
+hope		1
+bill		1
+nielsen		1
+cellilyp	1
+went		1
+atlantis	1
+think		1
+hi		1
+frank		1

@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+need		2
+wrapi		1
+priority	1
+resources	1
+lisa		1
+wednesday	1
+lc		1
+tuesday		1
+high		1
+given		1

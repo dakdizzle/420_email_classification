@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+day		1
+meeting		1
+october		1
+staff		1
+sally		1
+thursday	1
+th		1
+here		1
+next		1

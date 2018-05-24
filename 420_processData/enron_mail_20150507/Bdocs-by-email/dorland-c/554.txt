@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+age		1
+under		1
+well		1
+find		1
+blondes		1
+chris		1
+alike		1
+trail		1
+wish		1
+getting		1
+out		1
+britney		1
+look		1
+ideally		1
+cougar		1
+spears		1
+dumb		1
+back		1
+myself		1
+old		1
+year		1
+scouting	1
+chance		1
+devoted		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+sent		1
+good		1
+basis		1
+arrangements	1
+wireless	1
+handheld	1
+comparative	1
+more		1
+justify		1
+blackberry	1
+year		1
+hasn		1

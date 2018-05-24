@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+out		2
+couldn		1
+room		1
+up		1
+idea		1
+even		1
+wake		1
+figure		1
+murphy		1
+didn		1

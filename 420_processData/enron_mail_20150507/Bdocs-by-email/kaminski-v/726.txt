@@ -1,0 +1,21 @@
+NumWords	22
+NumTerms	18
+
+ect		2
+hou		2
+vince		2
+kaminski	2
+hull		1
+pricingfyi	1
+white		1
+cds		1
+fw		1
+mack		1
+forwarded	1
+papers		1
+enron		1
+amto		1
+ectcc		1
+subject		1
+iris		1
+enronxgate	1

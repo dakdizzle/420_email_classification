@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+depreciation	1
+included	1
+lease		1
+know		1
+kisses		1
+things		1
+port		1
+left		1
+exercises	1
+take		1
+prepay		1
+peek		1
+benefit		1
+gains		1
+abm		1
+expense		1
+jeff		1
+sells		1
+need		1
+capital		1
+think		1
+here		1

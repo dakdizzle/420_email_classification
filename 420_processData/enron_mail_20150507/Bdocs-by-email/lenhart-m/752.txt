@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+morning		1
+house		1
+around		1
+people		1
+meeting		1
+up		1
+tourney		1
+go		1
+pick		1
+meet		1
+golf		1
+sunday		1

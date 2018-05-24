@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+well		1
+emailing	1
+thnx		1
+need		1
+c		1
+print		1

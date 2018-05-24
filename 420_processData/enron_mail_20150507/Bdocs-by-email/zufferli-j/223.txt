@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+interviews	1
+cowan		1
+sit		1
+disturnal	1
+down		1
+informal	1
+john		1
+mike		1
+lambie		1
+chris		1

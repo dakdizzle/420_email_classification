@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+info		1
+kim		1
+good		1
+audrey		1
+looks		1
+thanks		1

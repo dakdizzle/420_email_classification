@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+cn		2
+mlenhar		2
+email		1
+pstgreatest	1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+lenhart		1
+ou		1
+matthew		1

@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+week		2
+nasty		1
+know		1
+working		1
+due		1
+richter		1
+market		1
+opening		1
+come		1
+want		1
+wife		1
+jmf		1
+hours		1
+new		1
+expecting	1

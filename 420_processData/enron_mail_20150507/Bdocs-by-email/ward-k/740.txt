@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+kward		1
+frady		1
+cat		1

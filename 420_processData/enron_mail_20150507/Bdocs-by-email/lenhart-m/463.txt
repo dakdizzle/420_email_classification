@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+full		1
+taco		1
+ok		1
+place		1
+folks		1
+weekend		1
+now		1
+night		1
+old		1
+went		1
+thurs		1
+milagro		1

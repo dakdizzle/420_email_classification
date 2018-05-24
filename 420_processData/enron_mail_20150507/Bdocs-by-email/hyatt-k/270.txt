@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+khyatt		2
+cn		2
+math		1
+annual		1
+recipients	1
+filename	1
+na		1
+kevin		1
+pst		1
+privileged	1
+non		1
+storage		1
+enron		1
+estimated	1
+ou		1
+correct		1
+hyatt		1
+costs		1
+mm		1

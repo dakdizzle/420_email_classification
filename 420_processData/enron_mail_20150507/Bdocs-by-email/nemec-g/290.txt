@@ -1,0 +1,27 @@
+NumWords	33
+NumTerms	24
+
+contract	4
+marlene		3
+status		2
+hilliard	2
+midwestern	2
+ect		2
+shortly		1
+pm		1
+mentioned	1
+know		1
+above		1
+gas		1
+transmission	1
+hou		1
+soon		1
+possible	1
+please		1
+nemec		1
+back		1
+inquiring	1
+subject		1
+dominion	1
+gerald		1
+don		1

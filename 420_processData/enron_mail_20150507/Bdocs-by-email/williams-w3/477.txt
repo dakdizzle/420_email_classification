@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+good		1
+ray		1
+summarized	1
+bill		1
+looks		1
+nicely		1

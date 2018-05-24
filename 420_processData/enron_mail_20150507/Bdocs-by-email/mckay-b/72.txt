@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+dry		2
+kids		1
+forgot		1
+pay		1
+cleaned		1
+idea		1
+pot		1
+trip		1
+kidding		1
+using		1
+next		1

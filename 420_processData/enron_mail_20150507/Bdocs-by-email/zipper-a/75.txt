@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+underlying	1
+processing	1
+deals		1
+allowed		1
+work		1
+sure		1
+deal		1
+through		1
+straight	1
+needs		1

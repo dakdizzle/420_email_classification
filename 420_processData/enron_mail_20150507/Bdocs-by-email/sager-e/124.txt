@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+enron		1
+recipients	1
+ou		1
+sager		1
+harlan		1
+na		1
+elizabeth	1
+hmurphy		1
+murphy		1

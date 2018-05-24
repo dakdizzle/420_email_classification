@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+early		1
+tomorrow	1
+work		1
+thanks		1
+afternoon	1

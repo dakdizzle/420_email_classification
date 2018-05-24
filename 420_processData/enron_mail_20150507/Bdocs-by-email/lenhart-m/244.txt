@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+fri		2
+out		1
+party		1
+tim		1
+sat		1
+night		1
+going		1
+engagement	1
+think		1
+here		1

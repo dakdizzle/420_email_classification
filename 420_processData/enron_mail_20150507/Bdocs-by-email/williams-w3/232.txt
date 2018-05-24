@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+purported	1
+workers		1
+logic		1
+philosophical	1
+blue		1
+suburban	1
+superior	1
+feeling		1
+jargon		1
+drones		1
+collar		1
+art		1
+liberalism	1
+through		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+night		1
+already		1
+although	1
+sure		1
+babysitter	1
+think		1
+cancel		1

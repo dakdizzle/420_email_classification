@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+shout		1
+hr		1
+back		1
+mc		1
+form		1
+called		1
+lunch		1
+give		1

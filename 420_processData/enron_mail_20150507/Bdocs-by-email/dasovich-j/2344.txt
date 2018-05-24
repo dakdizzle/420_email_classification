@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+jdasovic	2
+cn		2
+jeff		2
+much		1
+pstthanks	1
+recipients	1
+appreciate	1
+filename	1
+na		1
+dasovich	1
+help		1
+privileged	1
+nice		1
+soon		1
+really		1
+despite		1
+non		1
+enron		1
+best		1
+weekend		1
+ou		1
+submit		1
+very		1
+ll		1

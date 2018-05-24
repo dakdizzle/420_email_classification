@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+subject		1
+mike		1
+thoughts	1

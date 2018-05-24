@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+both		1
+day		1
+options		1
+prepays		1
+lc		1
+discussed	1
+thought		1

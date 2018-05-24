@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+anything	1
+status		1
+heard		1
+kr		1
+chris		1
+product		1
+haven		1

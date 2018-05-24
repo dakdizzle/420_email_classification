@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+tab		2
+thankskk	1
+cb		1
+try		1
+fixed		1
+know		1
+today		1
+once		1
+ref		1
+curves		1
+path		1
+morning		1
+trailblazer	1
+description	1
+roll		1
+go		1
+match		1
+contract	1
+curve		1
+works		1
+away		1
+think		1
+didn		1

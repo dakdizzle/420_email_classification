@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+sent		1
+respond		1
+hayden		1
+sally		1
+copying		1
+suggestion	1
+asked		1
+sheri		1
+note		1
+frank		1
+thanks		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+under		1
+working		1
+pleasure	1
+circumstances	1
+better		1
+wish		1
+thanks		1

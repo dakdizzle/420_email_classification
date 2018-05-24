@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+meeting		1
+per		1
+council		1
+refer		1
+fine		1
+twice		1
+looks		1
+second		1
+change		1
+year		1
+committee	1
+opposed		1
+sentence	1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+anything	1
+master		1
+updated		1
+counterparties	1
+list		1
+know		1
+need		1
+netting		1
+mariex		1
+here		1

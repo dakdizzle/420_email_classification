@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+different	1
+time		1
+location	1
+locations	1
+blanco		1
+gas		1
+price		1
+idea		1
+looks		1
+give		1
+trading		1

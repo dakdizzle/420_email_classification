@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+finance		1
+really		1
+used		1
+guy		1
+structuring	1
+work		1
+strong		1
+analytics	1

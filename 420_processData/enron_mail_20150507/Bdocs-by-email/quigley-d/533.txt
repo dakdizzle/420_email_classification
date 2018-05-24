@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+one		2
+group		1
+sent		1
+whole		1
+weekend		1
+last		1
+week		1
+over		1

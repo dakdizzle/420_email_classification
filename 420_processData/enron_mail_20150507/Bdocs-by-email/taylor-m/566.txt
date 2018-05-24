@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+out		1
+mailed		1
+league		1
+leading		1
+worries		1
+fantasy		1

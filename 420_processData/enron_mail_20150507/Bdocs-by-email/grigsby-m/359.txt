@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+selct		1
+erequest	1
+directory	1
+go		1

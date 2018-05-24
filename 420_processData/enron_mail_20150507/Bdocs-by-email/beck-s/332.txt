@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+enw		1
+mark		1
+greg		1
+many		1
+sally		1
+glad		1
+within		1
+cost		1
+split		1
+certainly	1
+assistants	1

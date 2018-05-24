@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+superty		1
+lisa		1
+kinsey		1
+bob		1

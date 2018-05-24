@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+plus		1
+please		1
+mhc		1
+attachments	1
+print		1

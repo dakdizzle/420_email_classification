@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+aol		1
+fyi		1
+ourternrbb	1
+com		1

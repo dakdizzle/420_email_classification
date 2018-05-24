@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+points		1
+sent		1
+hey		1
+obviously	1
+martin		1
+bidding		1
+request		1
+zero		1
+drop		1
+add		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+miamipaul	1
+brewer		1
+paul		1
+york		1
+giants		1
+bob		1
+way		1
+picks		1
+lucci		1
+joey		1
+going		1
+week		1
+new		1
+here		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+changes		1
+made		1
+sorry		1
+necessary	1
+help		1
+thanks		1

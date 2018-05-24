@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+utility		2
+hand		1
+compared	1
+seems		1
+focused		1
+guys		1
+supplies	1
+sumas		1
+s		1
+never		1
+out		1
+guy		1
+trader		1
+want		1
+think		1
+very		1
+big		1

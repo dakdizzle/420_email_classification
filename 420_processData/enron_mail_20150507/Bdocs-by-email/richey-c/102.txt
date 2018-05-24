@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+work		2
+live		1
+walk		1
+house		1
+pm		1
+takes		1
+mom		1
+minutes		1
+basement	1
+unhappily	1

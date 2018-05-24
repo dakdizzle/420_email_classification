@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+really		1
+starting	1
+list		1
+clarification	1
+one		1
+mean		1
+challenged	1
+sentence	1
+thanks		1

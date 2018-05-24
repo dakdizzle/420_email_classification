@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+point		1
+fill		1
+bidgood		1
+midcont		1
+ngpl		1
+transfer	1
+nbpl		1
+vent		1
+volume		1
+harper		1

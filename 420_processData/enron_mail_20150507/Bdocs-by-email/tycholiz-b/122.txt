@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+morning		1
+monday		1
+fine		1
+bt		1
+news		1

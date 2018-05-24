@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ellen		1
+position	1
+determine	1
+margin		1
+carr		1

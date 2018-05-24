@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+make		1
+word		1
+page		1
+leave		1
+fine		1
+outline		1
+itself		1
+two		1
+suggest		1
+format		1
+one		1
+converting	1
+lends		1
+behind		1
+think		1

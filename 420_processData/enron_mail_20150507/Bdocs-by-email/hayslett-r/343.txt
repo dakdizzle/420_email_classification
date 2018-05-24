@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+rhaysle		2
+cn		2
+footnotes	1
+helpful		1
+pstcan		1
+recipients	1
+hayslett	1
+filename	1
+na		1
+help		1
+cover		1
+privileged	1
+out		1
+non		1
+believe		1
+enron		1
+more		1
+ou		1
+rod		1
+probably	1
+extent		1
+here		1

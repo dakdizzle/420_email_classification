@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+aep		1
+night		1
+celebrates	1
+goes		1

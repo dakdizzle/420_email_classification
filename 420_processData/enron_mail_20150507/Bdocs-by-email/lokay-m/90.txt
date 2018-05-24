@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+fax		1
+statements	1
+again		1
+daily		1
+receive		1
+thanks		1
+volume		1

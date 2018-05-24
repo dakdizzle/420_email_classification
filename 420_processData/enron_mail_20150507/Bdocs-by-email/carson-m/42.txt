@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+needs		2
+cinepmi		1
+peak		1
+ent		1
+cin		1
+epmi		1
+sell		1
+comed		1
+buy		1

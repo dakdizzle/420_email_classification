@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+news		2
+univrel		1
+html		1
+archive		1
+http		1
+edu		1
+administration	1
+auburn		1
+www		1
+suspend		1

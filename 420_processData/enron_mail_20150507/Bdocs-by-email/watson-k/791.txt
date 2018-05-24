@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+everyone	2
+attend		2
+responded	1
+group		1
+kim		1
+training	1
+tw		1
+alma		1
+marketing	1
+date		1
+thanks		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+peak		1
+position	1
+agree		1
+night		1
+errol		1
+last		1
+tom		1
+thanks		1

@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+pstwe		1
+first		1
+early		1
+thing		1
+send		1
+friday		1
+steve		1
+comx		1
+geaccone	1
+filename	1
+approved	1
+tgeacco		1
+henry		1
+privileged	1
+non		1
+enron		1
+baker		1
+harris		1
+origin		1
+probably	1
+tx		1

@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+mark		2
+mtaylo		2
+cn		2
+care		1
+pstthanks	1
+legal		1
+recipients	1
+filename	1
+na		1
+take		1
+call		1
+privileged	1
+non		1
+enron		1
+tomorrow	1
+ou		1
+suzanne		1
+rbs		1
+taylor		1
+give		1
+ll		1

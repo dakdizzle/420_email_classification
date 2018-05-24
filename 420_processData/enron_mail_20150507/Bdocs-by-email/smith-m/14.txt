@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+hey		1
+error		1
+stick		1
+files		1
+back		1
+called		1
+dropbox		1
+scheadul	1
+folder		1
+mat		1
+big		1
+ll		1

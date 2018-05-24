@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+retires		1
+rick		1
+george		1
+application	1
+here		1

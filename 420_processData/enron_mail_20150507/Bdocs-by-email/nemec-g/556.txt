@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+documents	2
+psa		1
+status		1
+those		1
+handling	1
+assumption	1
+napoleonville	1
+steve		1
+know		1
+parish		1
+hooser		1
+respect		1
+warehouse	1
+check		1
+last		1
+question	1
+previous	1
+week		1
+went		1
+van		1
+don		1
+crawfish	1

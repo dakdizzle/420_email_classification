@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+accomplishment	1
+those		1
+mplimented	1
+invite		1
+involved	1
+tom		1
+uge		1
+getting		1
+thanks		1
+done		1
+co		1
+during		1
+come		1
+h		1
+hours		1
+trading		1

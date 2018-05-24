@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+people		2
+estate		2
+thankskk	1
+ed		1
+risk		1
+assist		1
+files		1
+longer		1
+help		1
+around		1
+list		1
+questions	1
+weekend		1
+needed		1
+access		1
+still		1
+here		1

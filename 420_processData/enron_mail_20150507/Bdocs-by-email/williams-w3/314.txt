@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+epe		2
+lisa		1
+ask		1
+scheduling	1
+thanks		1
+please		1
+bill		1
+questions	1
+fee		1
+sw		1
+lending		1
+charge		1
+st		1
+parking		1

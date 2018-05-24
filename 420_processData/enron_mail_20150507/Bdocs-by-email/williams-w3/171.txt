@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+position	1
+short		1
+bw		1
+cali		1
+piece		1
+kate		1
+pieces		1
+out		1
+pnm		1
+long		1
+index		1
+mws		1
+tomorrow	1
+pv		1
+manager		1
+hours		1
+deal		1
+parked		1
+st		1
+through		1

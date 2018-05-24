@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+thanxchris	1
+made		1

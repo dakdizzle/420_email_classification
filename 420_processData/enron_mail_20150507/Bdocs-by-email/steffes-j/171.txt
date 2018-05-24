@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+support		1
+good		1
+liberals	1
+devries		1
+someone		1
+sounds		1
+milnthorp	1
+conservative	1
+thoughts	1

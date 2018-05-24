@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+plan		1
+up		1
+competitive	1
+payment		1
+rates		1
+cool		1
+set		1
+wish		1
+ll		1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+matthew		2
+group		1
+lenhartx	1
+contact		1
+charity		1
+philanthropist	1
+filename	1
+see		1
+pstenron	1
+such		1
+something	1
+good		1
+team		1
+lenhart		1
+already		1
+need		1
+probably	1
+think		1

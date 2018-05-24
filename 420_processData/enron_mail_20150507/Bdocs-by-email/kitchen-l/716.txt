@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+originated	1
+mpr		1
+groups		1
+year		1
+need		1
+include		1
+think		1

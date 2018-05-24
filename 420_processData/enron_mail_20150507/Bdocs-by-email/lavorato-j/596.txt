@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+long		1
+check		1
+time		1
+signed		1
+rogers		1
+ago		1
+thought		1
+oxley		1

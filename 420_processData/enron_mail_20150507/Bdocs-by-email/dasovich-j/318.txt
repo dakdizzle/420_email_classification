@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+anything	1
+signing		1
+concerns	1
+jeff		1
+best		1
+peruse		1
+want		1
+raises		1
+fyi		1
+thought		1
+don		1
+think		1

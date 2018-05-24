@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+form		2
+twanda		2
+revisions	1
+vp		1
+revise		1
+japanese	1
+thanks		1
+ve		1
+non		1
+please		1
+michelle	1
+made		1
+use		1
+given		1
+diane		1
+template	1

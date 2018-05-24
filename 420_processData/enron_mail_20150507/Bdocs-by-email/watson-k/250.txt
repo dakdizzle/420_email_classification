@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+anything	1
+kim		1
+point		1
+heard		1
+know		1
+gas		1
+shippers	1
+guys		1
+wanting		1
+thanks		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+further		1
+know		1
+help		1

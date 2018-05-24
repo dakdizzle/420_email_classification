@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jeff		1
+best		1
+try		1
+again		1
+afraid		1
+resend		1
+sorry		1
+ll		1

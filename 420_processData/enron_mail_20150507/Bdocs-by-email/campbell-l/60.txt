@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+settlement	1
+report		1
+go		1
+forward		1
+going		1

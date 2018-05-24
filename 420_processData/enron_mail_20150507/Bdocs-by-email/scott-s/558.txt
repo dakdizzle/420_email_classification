@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+hey		1
+time		1
+tasters		1
+try		1
+location	1
+lisa		1
+susan		1
+even		1
+see		1
+soon		1
+drink		1
+come		1
+gang		1
+scoop		1
+quick		1
+think		1
+tonight		1
+ll		1

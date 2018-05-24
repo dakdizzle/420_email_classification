@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+stree		1
+location	1
+current		1
+elliott		1
+long		1
+enron		1
+center		1
+work		1
+remain		1
+south		1
+smith		1
+address		1
+sure		1
+richard		1

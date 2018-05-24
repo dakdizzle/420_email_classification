@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+health		1
+friend		1
+advice		1
+private		1
+insurance	1

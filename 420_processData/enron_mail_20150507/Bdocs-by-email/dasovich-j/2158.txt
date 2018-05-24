@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+thanks		3
+hesitate	1
+assist		1
+trying		1
+efforts		1
+anything	1
+jeff		1
+best		1
+decency		1
+sense		1
+don		1
+strong		1
+whatsoever	1

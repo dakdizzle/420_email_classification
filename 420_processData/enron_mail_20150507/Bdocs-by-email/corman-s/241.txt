@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+budget		1
+overall		1
+gas		1
+attached	1
+submitted	1
+vi		1
+see		1
+wasn		1
+gary		1
+list		1
+logistics	1
+part		1
+upgrade		1
+projects	1
+capital		1
+always		1
+worry		1
+phase		1

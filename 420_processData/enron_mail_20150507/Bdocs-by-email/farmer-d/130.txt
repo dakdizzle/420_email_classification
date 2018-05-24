@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+list		1
+liz		1
+george		1
+earl		1
+smith		1
+winfee		1
+neal		1
+gary		1
+take		1
+add		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+reimbursing	1
+attendance	1
+company		1
+year		1
+forget		1

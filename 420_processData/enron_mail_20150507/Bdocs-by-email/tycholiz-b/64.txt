@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+discuss		1
+steps		1
+paul		1
+time		1
+try		1
+friday		1
+find		1
+bt		1
+next		1

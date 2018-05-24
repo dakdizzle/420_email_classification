@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+think		2
+order		1
+lloyd		1
+hey		1
+time		1
+steve		1
+know		1
+etc		1
+due		1
+considerable	1
+flood		1
+best		1
+personal	1
+certificate	1
+recognition	1
+weekend		1
+spent		1
+last		1
+jmf		1
+amount		1
+joe		1
+gift		1
+here		1

@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+marie		2
+cn		2
+mheard		2
+pstattached	1
+transaction	1
+annex		1
+heard		1
+further		1
+handling	1
+know		1
+recipients	1
+related		1
+filename	1
+na		1
+privileged	1
+anything	1
+non		1
+enron		1
+questions	1
+ou		1
+need		1

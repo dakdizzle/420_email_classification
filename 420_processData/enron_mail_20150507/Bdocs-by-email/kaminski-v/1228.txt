@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+friday		2
+aol		1
+atlanta		1
+polish		1
+brian		1
+join		1
+youare		1
+later		1
+welcomed	1
+vince		1
+vkaminski	1
+please		1
+center		1
+drinks		1
+festival	1
+work		1
+movie		1
+angelica	1
+tonight		1
+films		1
+com		1

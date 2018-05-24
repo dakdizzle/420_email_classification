@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+kim		1
+familiar	1
+believe		1
+enron		1
+company		1
+recipients	1
+ou		1
+pryor		1
+tpryor		1
+na		1
+tony		1

@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+white		2
+stacy		1
+up		1
+stacey		1
+comx		1
+ask		1
+common		1
+filename	1
+norman		1
+lee		1
+enron		1
+sense		1
+makes		1
+origin		1
+sx		1
+pstwho		1
+set		1

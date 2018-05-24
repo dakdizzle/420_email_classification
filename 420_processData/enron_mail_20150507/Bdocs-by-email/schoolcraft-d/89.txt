@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ds		1
+recent		1
+list		1
+team		1
+please		1
+numbers		1
+attached	1
+foward		1
+operators	1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+anything	1
+pstdo		1
+until		1
+arcor		1
+jlavora		1
+book		1
+related		1
+johnx		1
+filename	1
+lavorato	1

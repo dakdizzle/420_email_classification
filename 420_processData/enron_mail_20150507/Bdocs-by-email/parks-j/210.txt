@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+send		2
+call		2
+hey		1
+fax		1
+smiron		1
+invoice		1
+jeff		1
+want		1
+apparently	1
+give		1
+thanks		1
+needs		1

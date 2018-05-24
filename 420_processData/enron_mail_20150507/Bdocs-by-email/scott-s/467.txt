@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+know		2
+mucky		1
+thrilled	1
+duck		1
+response	1
+susan		1
+late		1
+extremely	1
+hit		1
+help		1
+anything	1
+m		1
+outthx		1
+d		1

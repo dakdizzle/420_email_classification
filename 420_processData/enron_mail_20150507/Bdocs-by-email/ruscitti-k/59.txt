@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+physical	1
+id		1
+ruscittix	1
+s		1
+trade		1
+kevin		1
+thanks		1
+products	1
+adm		1
+please		1
+canadian	1
+stephanie	1
+eol		1
+access		1
+give		1

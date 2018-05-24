@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+service		2
+default		2
+deal		2
+policymakers	1
+coming		1
+make		1
+friday		1
+provider	1
+federico	1
+ui		1
+thanks		1
+presentation	1
+jim		1
+states		1
+please		1
+italian		1
+jeff		1
+thursday	1
+understand	1
+manager		1
+issue		1
+next		1

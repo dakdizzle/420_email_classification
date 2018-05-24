@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+file		1
+here		1

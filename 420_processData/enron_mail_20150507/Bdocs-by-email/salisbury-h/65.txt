@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+sites		1
+epmipower	1
+use		1
+same		1
+password	1
+oasis		1

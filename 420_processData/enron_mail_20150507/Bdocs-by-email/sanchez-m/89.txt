@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+make		1
+meeting		1
+hey		1
+interested	1
+bunch		1
+state		1
+jojo		1
+know		1
+guys		1
+west		1
+hacks		1
+wanted		1
+see		1
+bar		1
+industry	1
+hr		1
+tomorrow	1
+happy		1
+having		1
+mo		1
+nats		1
+ll		1

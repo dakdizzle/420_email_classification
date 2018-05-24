@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+m		2
+here		2
+hurt		1
+feelings	1
+make		1
+time		1
+glad		1
+things		1
+ready		1
+guess		1
+todays		1
+nice		1
+reading		1
+one		1
+players		1
+young		1
+comments	1
+very		1
+prime		1

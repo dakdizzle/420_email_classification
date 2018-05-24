@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+agreed		1
+extending	1
+precluded	1
+contract	1
+current		1
+bs		1
+never		1

@@ -1,0 +1,17 @@
+NumWords	19
+NumTerms	14
+
+enron		3
+darrell		2
+schoolcraft	2
+et		2
+first		1
+tk		1
+fw		1
+forwarded	1
+enroncc		1
+lohman		1
+amto		1
+subject		1
+read		1
+enronxgate	1

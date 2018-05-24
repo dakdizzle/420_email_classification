@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+kerri		1
+cummings	1
+jean		1
+gift		1

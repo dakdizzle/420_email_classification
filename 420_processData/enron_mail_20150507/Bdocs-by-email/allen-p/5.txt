@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+plan		2
+sets		2
+full		1
+send		1
+floor		1
+thompson	1
+thank		1
+homes		1
+today		1
+roberts		1
+phone		1
+phillip		1
+earlier		1
+dyal		1
+plus		1
+house		1
+please		1
+kerrville	1
+drivesuite	1
+custom		1
+discussed	1
+tx		1
+allen		1

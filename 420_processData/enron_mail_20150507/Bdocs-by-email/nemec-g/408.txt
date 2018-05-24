@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+energy		1
+services	1
+enron		1
+indicate	1
+memo		1
+mistake		1
+cover		1

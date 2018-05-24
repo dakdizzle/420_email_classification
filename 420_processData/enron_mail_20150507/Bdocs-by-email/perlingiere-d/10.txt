@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+debra		2
+contacts	1
+eb		1
+fax		1
+credit		1
+analyst		1
+ng		1
+tim		1
+legal		1
+houston		1
+street		1
+senior		1
+america		1
+kelly		1
+enron		1
+texas		1
+dept		1
+north		1
+neuman		1
+knowlton	1
+smith		1
+perlingiereenron	1
+perlingiere	1
+com		1

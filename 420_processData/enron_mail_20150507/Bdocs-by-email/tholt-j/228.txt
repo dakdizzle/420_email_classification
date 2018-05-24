@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sasme		1
+felicity	1
+night		1

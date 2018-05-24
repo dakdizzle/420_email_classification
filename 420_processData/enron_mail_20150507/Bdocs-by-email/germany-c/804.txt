@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+requires	1
+credit		1
+per		1
+essentially	1
+keyspan		1
+lc		1
+zone		1
+tennessee	1
+total		1
+pepayment	1
+point		1
+each		1
+sa		1
+pool		1
+need		1
+deal		1
+amount		1
+means		1

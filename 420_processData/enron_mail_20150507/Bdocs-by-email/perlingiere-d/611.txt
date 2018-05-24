@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+credit		3
+agreement	2
+discuss		1
+veronica	1
+departments	1
+information	1
+receipt		1
+draft		1
+contact		1
+ready		1
+terms		1
+concerning	1
+espinoza	1
+master		1
+regards		1
+upon		1
+dept		1
+respective	1
+prepared	1
+need		1
+gisb		1
+debra		1
+negotiate	1
+here		1

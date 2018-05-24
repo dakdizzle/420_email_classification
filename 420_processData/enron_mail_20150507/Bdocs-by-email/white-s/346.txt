@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+flow		1
+cash		1
+stacey		1
+forward		1
+reminder	1
+martha		1
+request		1
+thanks		1

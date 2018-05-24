@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+options		1
+swap		1

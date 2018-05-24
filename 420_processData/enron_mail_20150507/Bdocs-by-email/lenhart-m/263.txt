@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+crocket		1
+suit		1
+wear		1
+sonny		1
+t		1
+shirt		1
+think		1

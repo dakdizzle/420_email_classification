@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+nevermind	1
+book		1
+use		1
+going		1
+dg		1
+existing	1
+thanks		1

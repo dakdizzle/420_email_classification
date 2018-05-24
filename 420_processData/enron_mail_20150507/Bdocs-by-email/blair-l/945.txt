@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lynn		1
+put		1
+thel		1
+ist		1
+please		1
+attend		1
+alma		1
+thanks		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+m		1
+working		1
+worry		1

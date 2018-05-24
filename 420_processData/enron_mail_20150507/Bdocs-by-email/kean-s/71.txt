@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+job		1
+communicating	1
+statement	1
+seen		1
+investors	1
+good		1
+done		1
+believe		1
+agree		1
+section		1
+ir		1
+koenig		1
+accurate	1
+don		1
+think		1
+analysts	1

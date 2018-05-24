@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+clay		1
+wanna		1
+walker		1
+friday		1
+go		1
+february	1
+awarded		1
+th		1
+tickets		1

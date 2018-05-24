@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+day		1
+garvey		1
+recognize	1
+jason		1
+fine		1
+last		1
+aug		1
+date		1

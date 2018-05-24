@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lynn		1
+great		1
+back		1
+sending		1
+sorry		1
+mike		1
+late		1
+looks		1
+thanks		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+received	1
+language	1
+information	1
+michelle	1
+lit		1
+tler		1
+severance	1
+here		1

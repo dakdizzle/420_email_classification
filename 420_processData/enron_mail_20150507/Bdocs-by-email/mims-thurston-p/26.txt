@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+home		1
+life		1
+begin		1
+know		1
+go		1
+wait		1
+certainly	1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+enskilda	1
+skandinaviska	1
+ab		1
+banken		1

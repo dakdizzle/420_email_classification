@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+gov		1
+eia		1
+cfm		1
+doe		1
+http		1
+tonto		1
+whatsnew	1
+newwhatsnew	1

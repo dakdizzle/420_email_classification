@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+johnson		1
+paul		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+haedicke	1
+mark		1
+regards		1
+unfortunately	1
+attend		1
+inviting	1
+thanks		1

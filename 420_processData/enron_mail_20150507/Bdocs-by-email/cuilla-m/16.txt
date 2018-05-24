@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+little		1
+years		1
+rules		1
+change		1
+last		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+home		1
+those		1
+chicks		1
+up		1
+come		1
+contract	1
+knew		1
+weekend		1
+service		1
+going		1
+set		1

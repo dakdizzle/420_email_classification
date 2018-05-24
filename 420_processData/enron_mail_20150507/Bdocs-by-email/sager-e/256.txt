@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+day		1
+wed		1
+horrible	1
+yes		1
+positively	1
+call		1
+ll		1

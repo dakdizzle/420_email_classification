@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+first		1
+counterparties	1
+power		1
+working		1
+gas		1
+confirms	1
+now		1
+form		1
+turn		1
+agreements	1
+mary		1
+sara		1
+changes		1
+made		1
+more		1
+already		1
+francisco	1
+here		1

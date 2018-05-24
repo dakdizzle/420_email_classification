@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+anymore		1
+totally		1
+stacey		1
+liquidated	1
+go		1
+one		1
+worry		1
+here		1

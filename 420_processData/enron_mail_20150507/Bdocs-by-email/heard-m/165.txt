@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+people		1
+beef		1
+copies		1

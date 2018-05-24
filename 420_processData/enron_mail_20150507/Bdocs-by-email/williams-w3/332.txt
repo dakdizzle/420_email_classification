@@ -1,0 +1,4 @@
+NumWords	2
+NumTerms	1
+
+chuckle		2

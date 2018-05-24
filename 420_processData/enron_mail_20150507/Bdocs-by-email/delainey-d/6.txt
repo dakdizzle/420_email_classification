@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+dsm		1
+wip		1
+oz		1
+thxs		1
+buckets		1
+dave		1

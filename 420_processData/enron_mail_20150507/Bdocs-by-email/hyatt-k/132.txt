@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+job		1
+go		1
+maybe		1
+exposure	1
+public		1
+offers		1

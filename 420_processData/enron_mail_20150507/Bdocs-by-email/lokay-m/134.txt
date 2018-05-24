@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+morning		1
+coming		1
+great		1
+certain		1
+customers	1
+time		1
+moved		1
+scheduled	1
+rest		1
+thanks		1
+afternoon	1
+boxes		1

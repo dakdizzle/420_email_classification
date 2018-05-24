@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+need		2
+deal		2
+pricing		1
+postpone	1
+meeting		1
+time		1
+claims		1
+spend		1
+trying		1
+problem		1
+schedule	1
+morning		1
+out		1
+oz		1
+more		1
+going		1
+figure		1
+extension	1
+trading		1

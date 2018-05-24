@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+way		1
+vs		1
+thing		1
+index		1
+gas		1
+daily		1
+one		1
+bought		1
+more		1
+knowing		1

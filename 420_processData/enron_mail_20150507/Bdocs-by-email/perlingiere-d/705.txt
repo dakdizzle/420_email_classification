@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+company		1
+gas		1
+gulf		1
+name		1
+confirms	1
+future		1
+oil		1
+contracts	1
+adm		1
+global		1
+contract	1
+notified	1
+gg		1

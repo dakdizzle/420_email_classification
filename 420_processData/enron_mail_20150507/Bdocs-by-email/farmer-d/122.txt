@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+send		1
+liz		1
+things		1
+desk		1
+old		1

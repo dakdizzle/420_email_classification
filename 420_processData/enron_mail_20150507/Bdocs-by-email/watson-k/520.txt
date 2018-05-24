@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+sam		1
+up		1
+catch		1
+wanted		1
+doing		1
+see		1

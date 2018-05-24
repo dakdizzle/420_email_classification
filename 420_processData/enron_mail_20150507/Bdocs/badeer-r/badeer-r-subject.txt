@@ -1,0 +1,13 @@
+NumWords	14
+NumTerms	10
+
+badge		3
+up		2
+whats		2
+long		1
+expense		1
+hello		1
+friend		1
+lost		1
+access		1
+receipts	1

@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+cn		2
+dl		2
+revised		1
+controllers	1
+gas		1
+recipients	1
+na		1
+schedule	1
+ds		1
+enron		1
+etsgascontrollers	1
+ou		1
+ets		1

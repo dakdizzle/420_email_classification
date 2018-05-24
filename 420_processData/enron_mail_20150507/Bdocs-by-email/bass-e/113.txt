@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+holt		1
+torry		1

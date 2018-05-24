@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+mark		1
+great		1
+congratulations	1
+sounds		1
+result		1

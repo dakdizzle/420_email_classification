@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+end		2
+simply		1
+open		1
+please		1
+ended		1
+contract	1
+one		1
+review		1
+discretion	1
+read		1
+date		1

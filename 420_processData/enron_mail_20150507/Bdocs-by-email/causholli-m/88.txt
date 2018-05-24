@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+possibly	1
+monday		1
+plan		1
+ok		1
+wednesday	1
+sound		1
+won		1
+yes		1
+monika		1
+tuesday		1
+sure		1
+here		1

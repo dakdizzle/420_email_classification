@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+finanical	1
+pl		1
+saved		1
+dropbox		1
+file		1
+transprt	1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+both		1
+soon		1
+together	1
+suggest		1
+try		1
+back		1
+boxing		1
+busy		1
+ring		1
+build		1
+sounds		1
+yard		1

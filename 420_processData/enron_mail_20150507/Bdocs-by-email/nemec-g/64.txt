@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+capacity	1
+mark		1
+attached	1
+draft		1
+discussed	1
+release		1
+review		1
+agreement	1

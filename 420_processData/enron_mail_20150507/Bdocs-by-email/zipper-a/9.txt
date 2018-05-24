@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+gear		1
+crab		1
+seconds		1
+hong		1
+second		1
+out		1
+airport		1
+kong		1
+ve		1
+seen		1
+riping		1
+possible	1
+guy		1
+kicked		1
+before		1
+last		1

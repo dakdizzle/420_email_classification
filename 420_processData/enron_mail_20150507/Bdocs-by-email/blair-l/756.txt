@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+billing		2
+lynn		1
+much		1
+helps		1
+know		1
+fyi		1
+month		1
+wanted		1
+thanks		1
+each		1
+put		1
+hope		1
+list		1
+mary		1
+pass		1

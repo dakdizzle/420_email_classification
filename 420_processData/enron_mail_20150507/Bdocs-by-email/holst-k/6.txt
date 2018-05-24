@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+people		1
+forgot		1
+things		1
+earth		1
+going		1
+sorry		1
+lives		1

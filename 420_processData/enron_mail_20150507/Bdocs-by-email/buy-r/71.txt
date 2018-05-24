@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+discuss		1
+info		1
+coordination	1
+meeting		1
+tight		1
+rick		1
+feel		1
+guys		1
+fyi		1
+scheduled	1
+xfer		1
+don		1

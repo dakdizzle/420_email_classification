@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+language	2
+discuss		1
+day		1
+review		1
+mariner		1
+judy		1
+put		1
+lets		1
+please		1
+threshold	1
+discussed	1
+release		1
+added		1

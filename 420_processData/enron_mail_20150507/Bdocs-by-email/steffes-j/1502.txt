@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+uc		1
+list		1
+interested	1
+load		1
+buyers		1
+csu		1
+see		1

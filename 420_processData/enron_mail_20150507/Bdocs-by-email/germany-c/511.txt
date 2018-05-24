@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+email		1
+nasty		1
+send		1
+forgot		1
+up		1
+working		1
+month		1
+worked		1
+looks		1
+icon		1
+another		1
+use		1
+already		1
+probably	1
+thx		1
+set		1
+next		1
+ll		1

@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+charlie		1
+meeting		1
+ok		1
+hopefully	1
+form		1
+tuesday		1
+wish		1
+evaluation	1
+accept		1
+out		1
+nice		1
+good		1
+fill		1
+admissions	1
+mail		1
+submit		1
+luck		1
+process		1
+suzette		1
+sincerely	1

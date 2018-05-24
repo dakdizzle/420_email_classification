@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+dutch		2
+email		1
+yahoo		1
+hour		1
+look		1
+great		1
+howard		1
+happy		1
+forward		1
+idea		1
+address		1
+quigley		1
+com		1
+add		1

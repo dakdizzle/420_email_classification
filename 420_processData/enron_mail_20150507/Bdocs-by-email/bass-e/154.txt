@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+long		1
+brady		1
+time		1
+ago		1
+bishop		1
+cut		1
+tom		1

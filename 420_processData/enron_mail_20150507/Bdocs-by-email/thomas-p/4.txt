@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+fighting	1
+interesting	1
+legend		1
+urban		1
+think		1
+osama		1

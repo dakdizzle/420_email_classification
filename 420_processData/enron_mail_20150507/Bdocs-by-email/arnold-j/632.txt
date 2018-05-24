@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+open		1
+years		1
+right		1
+still		1
+new		1

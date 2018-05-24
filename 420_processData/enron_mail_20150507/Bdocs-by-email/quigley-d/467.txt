@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+meeting		1
+time		1
+monica		1
+need		1
+week		1
+dutch		1
+next		1
+reschedule	1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+cng		1
+buddy		1
+hey		1
+assume		1
+contact		1
+help		1
+thanks		1
+exist		1
+out		1
+sabine		1
+center		1
+need		1
+still		1

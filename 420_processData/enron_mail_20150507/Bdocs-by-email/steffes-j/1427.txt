@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+customers	2
+info		1
+load		1
+dasr		1
+forget		1
+cover		1
+jim		1
+remaining	1
+good		1
+please		1
+jeff		1
+probably	1
+don		1
+de		1

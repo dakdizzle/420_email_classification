@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+health		2
+dc		1
+html		1
+http		1
+yahoo		1
+maybe		1
+com		1

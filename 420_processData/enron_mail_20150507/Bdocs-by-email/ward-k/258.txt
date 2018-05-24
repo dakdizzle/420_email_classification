@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+kim		1
+know		1
+jason		1
+need		1
+help		1
+thanks		1

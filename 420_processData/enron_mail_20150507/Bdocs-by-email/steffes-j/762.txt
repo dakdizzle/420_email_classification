@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+meeting		1
+up		1
+finish		1
+fine		1
+comm		1
+ees		1
+op		1

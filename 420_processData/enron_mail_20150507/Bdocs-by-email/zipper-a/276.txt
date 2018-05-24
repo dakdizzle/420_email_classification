@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+andy		1
+really		1
+events		1
+regarding	1
+please		1
+jeff		1
+appreciate	1
+last		1
+weeks		1
+give		1
+thanks		1
+call		1

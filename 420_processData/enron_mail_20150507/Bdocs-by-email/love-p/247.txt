@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+hear		1
+wall		1
+pl		1
+job		1
+options		1
+now		1
+keep		1
+street		1
+toilet		1
+worthless	1
+hope		1
+going		1
+new		1

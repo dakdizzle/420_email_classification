@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+tgeacco		2
+cn		2
+recipients	1
+geaccone	1
+filename	1
+na		1
+privileged	1
+tracy		1
+gets		1
+psti		1
+non		1
+believe		1
+check		1
+enron		1
+thursday	1
+back		1
+mary		1
+part		1
+ou		1
+allocation	1

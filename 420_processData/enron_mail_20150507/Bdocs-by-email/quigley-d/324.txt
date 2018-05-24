@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+talk		1
+later		1
+love		1

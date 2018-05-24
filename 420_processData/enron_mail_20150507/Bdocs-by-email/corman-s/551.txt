@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+take		2
+ll		2
+company		1
+know		1
+children	1
+call		1
+thanks		1
+easter		1
+talking		1
+church		1
+preference	1
+ange		1
+shelley		1
+think		1
+tonight		1
+give		1

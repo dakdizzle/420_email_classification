@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+day		1
+send		1
+during		1
+time		1
+thanx		1
+chris		1
+dorland		1

@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+enron		2
+com		2
+clickathome	1
+mcconnelltranswestern	1
+aspmark		1
+https		1
+company		1
+pipeline	1
+mcconnell	1
+signup		1
+cell		1
+office		1
+faxmark		1

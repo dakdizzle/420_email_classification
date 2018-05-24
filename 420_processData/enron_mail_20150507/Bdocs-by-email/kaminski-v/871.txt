@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+andy		1
+fyivince	1

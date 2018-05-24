@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+around		1
+please		1
+back		1
+need		1
+tab		1
+burn		1
+help		1
+egs		1

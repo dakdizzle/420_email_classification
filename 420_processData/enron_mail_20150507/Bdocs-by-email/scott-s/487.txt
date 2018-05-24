@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+make		1
+ok		1
+talk		1
+emailing	1
+today		1
+phone		1
+wanted		1
+later		1
+m		1
+cell		1
+feeling		1
+bill		1
+want		1
+minutes		1
+sure		1
+add		1
+didn		1

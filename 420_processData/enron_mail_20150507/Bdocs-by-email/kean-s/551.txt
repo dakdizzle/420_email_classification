@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+cn		3
+enron		1
+notesaddr	1
+tilney		1
+recipients	1
+ou		1
+d		1
+na		1
+ce		1
+elizabeth	1

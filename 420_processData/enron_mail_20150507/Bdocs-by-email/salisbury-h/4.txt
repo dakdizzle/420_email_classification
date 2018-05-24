@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+january		1
+purchases	1
+balance		1
+making		1
+here		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+yeh		1
+talking		1
+try		1
+johnny		1
+find		1
+sept		1
+sub		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+details		1
+reviewed	1
+find		1
+loop		1
+christi		1
+meet		1
+hoping		1
+jim		1
+out		1
+hold		1
+pge		1
+something	1
+imprudent	1
+ll		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+article		1
+jeff		1
+gas		1
+daily		1
+forward		1
+thanks		1

@@ -1,0 +1,18 @@
+NumWords	31
+NumTerms	15
+
+et		4
+enron		4
+january		3
+steven		3
+lynn		2
+objectives	2
+blair		2
+forwarded	2
+enroncc		2
+subject		2
+steve		1
+fyi		1
+brown		1
+amto		1
+sharon		1

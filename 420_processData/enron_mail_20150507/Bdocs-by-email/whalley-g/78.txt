@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+wow		1
+back		1
+complicated	1
+looks		1
+help		1

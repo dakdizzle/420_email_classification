@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+merger		1
+views		1
+well		1
+now		1
+mean		1
+refer		1
+finds		1
+journal		1
+inquiries	1
+talked		1
+regarding	1
+hope		1
+shouldn		1
+seriously	1
+jeff		1
+best		1
+circumstances	1
+ooops		1
+given		1
+ll		1

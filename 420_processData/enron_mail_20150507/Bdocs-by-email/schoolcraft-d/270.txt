@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+nng		2
+here		2
+customer	1
+pipes		1
+meeting		1
+therefore	1
+steve		1
+kc		1
+gary		1
+thanks		1
+ds		1
+both		1
+handle		1
+attend		1
+having		1

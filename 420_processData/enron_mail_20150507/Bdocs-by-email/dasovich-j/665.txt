@@ -1,0 +1,27 @@
+NumWords	29
+NumTerms	24
+
+diving		3
+question	3
+good		2
+travel		1
+killer		1
+place		1
+dive		1
+certified	1
+supposed	1
+following	1
+far		1
+beliz		1
+really		1
+down		1
+cheap		1
+hot		1
+please		1
+another		1
+interesting	1
+line		1
+going		1
+need		1
+note		1
+explain		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+gty		1
+completed	1
+jeff		1
+know		1
+counterparty	1
+questions	1
+legal		1
+review		1
+use		1
+referenced	1
+same		1

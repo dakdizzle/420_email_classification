@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+info		1
+pass		1
+along		1
+sure		1
+doing		1
+ll		1
+thanks		1

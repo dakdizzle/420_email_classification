@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+table		1
+seats		1
+entire		1
+share		1
+use		1
+need		1
+don		1

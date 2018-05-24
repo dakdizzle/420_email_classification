@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+cn		2
+jarnold		2
+assume		1
+john		1
+working		1
+now		1
+recipients	1
+filename	1
+na		1
+wire		1
+pstplease	1
+privileged	1
+soon		1
+notify		1
+sent		1
+non		1
+right		1
+enron		1
+arnold		1
+ou		1

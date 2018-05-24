@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+jdasovic	2
+cn		2
+jeff		2
+information	1
+recipients	1
+filename	1
+na		1
+dasovich	1
+pstplease	1
+privileged	1
+non		1
+enron		1
+want		1
+ou		1
+everyone	1
+hang		1
+overreact	1

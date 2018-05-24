@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+email		1
+regarding	1
+please		1
+name		1
+attached	1
+contact		1
+phone		1
+provide		1
+address		1
+thanks		1

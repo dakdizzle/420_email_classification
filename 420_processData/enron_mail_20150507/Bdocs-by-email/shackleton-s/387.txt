@@ -1,0 +1,18 @@
+NumWords	19
+NumTerms	15
+
+enron		4
+corp		2
+efet		1
+energy		1
+chart		1
+subsidiaries	1
+owned		1
+consolidated	1
+ultimately	1
+sara		1
+financial	1
+org		1
+llc		1
+financials	1
+trading		1

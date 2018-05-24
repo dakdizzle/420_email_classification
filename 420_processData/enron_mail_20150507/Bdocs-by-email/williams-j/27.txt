@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+both		1
+fixed		1
+know		1
+questions	1
+tickets		1

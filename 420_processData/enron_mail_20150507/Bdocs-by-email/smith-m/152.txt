@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+selling		1
+back		1
+gas		1
+guys		1
+jan		1
+still		1
+mat		1
+planning	1

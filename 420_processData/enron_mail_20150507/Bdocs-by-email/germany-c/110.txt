@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+buddy		1
+kiss		1
+hug		1
+working		1
+allwein		1
+big		1
+give		1
+robert		1

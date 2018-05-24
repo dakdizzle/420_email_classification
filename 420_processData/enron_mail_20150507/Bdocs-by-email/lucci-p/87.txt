@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+picks		1
+draft		1
+mean		1

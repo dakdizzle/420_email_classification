@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+email		1
+hear		1
+alot		1
+desk		1
+petes		1
+trade		1
+comlaters	1
+addresspeter	1
+keavey		1
+good		1
+enron		1
+learning	1
+grasshopper	1
+doing		1
+geat		1
+here		1

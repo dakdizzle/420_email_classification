@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+morning		1
+deliver		1
+tomorrow	1
+shirt		1
+thanks		1

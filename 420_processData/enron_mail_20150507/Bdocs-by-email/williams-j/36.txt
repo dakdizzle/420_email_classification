@@ -1,0 +1,23 @@
+NumWords	26
+NumTerms	20
+
+enron		3
+com		3
+williams	2
+jason		2
+xls		1
+day		1
+pm		1
+gc		1
+george		1
+boyce		1
+ect		1
+robert		1
+hou		1
+forwarded	1
+superty		1
+amto		1
+subject		1
+comcc		1
+smith		1
+pecorp		1

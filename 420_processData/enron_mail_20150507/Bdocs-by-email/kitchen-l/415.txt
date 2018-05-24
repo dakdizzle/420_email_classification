@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+eta		2
+pa		2
+discuss		1
+page		1
+up		1
+essentially	1
+online		1
+out		1
+long		1
+contracts	1
+agreements	1
+tomorrow	1
+several		1
+one		1
+awarded		1
+bidder		1
+before		1
+set		1
+standard	1
+trading		1

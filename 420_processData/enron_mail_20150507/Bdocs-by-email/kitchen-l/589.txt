@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+lkitchen	2
+cn		2
+kitchen		1
+fred		1
+until		1
+louise		1
+find		1
+recipients	1
+filename	1
+na		1
+privileged	1
+out		1
+anything	1
+psti		1
+non		1
+enron		1
+idea		1
+ou		1
+don		1

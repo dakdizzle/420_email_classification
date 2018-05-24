@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+notice		1
+meeting		1
+further		1
+until		1
+plans		1
+pls		1
+bt		1
+defer		1
+thanks		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+sluts		1
+memorial	1
+weekend		1
+booze		1
+golf		1

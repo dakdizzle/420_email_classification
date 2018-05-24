@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+m		1
+starting	1
+course		1
+kitties		1
+cool		1
+expand		1
+big		1
+ingrid		1

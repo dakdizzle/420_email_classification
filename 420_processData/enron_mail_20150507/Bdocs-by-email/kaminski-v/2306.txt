@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+case		1
+vince		1
+krishna		1
+rusty		1
+review		1
+resending	1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+mail		1
+love		1
+thanks		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+confidential	1
+keep		1
+material	1
+internally	1
+discussing	1
+thanks		1

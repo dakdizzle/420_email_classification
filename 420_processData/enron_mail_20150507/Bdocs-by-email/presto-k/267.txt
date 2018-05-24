@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+send		1
+floor		1
+customers	1
+know		1
+far		1
+screens		1
+longer		1
+thanks		1
+tours		1
+matter		1
+experience	1
+possible	1
+enron		1
+please		1
+conducted	1
+want		1
+minutes		1
+limited		1
+need		1
+mail		1
+visible		1
+away		1
+don		1
+trading		1

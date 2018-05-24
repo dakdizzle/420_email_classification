@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+jim		2
+group		1
+required	1
+attendance	1
+met		1
+welcome		1
+already		1
+derrick		1
+attend		1
+still		1
+certainly	1
+paula		1

@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+days		2
+notice		1
+seems		1
+make		1
+scott		1
+checked		1
+supposed	1
+docs		1
+closing		1
+take		1
+filing		1
+rodino		1
+long		1
+matter		1
+hart		1
+believe		1
+delta		1
+regulatory	1
+approval	1
+subject		1
+need		1
+business	1
+kay		1
+very		1

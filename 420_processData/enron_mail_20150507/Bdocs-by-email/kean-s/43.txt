@@ -1,0 +1,27 @@
+NumWords	47
+NumTerms	24
+
+cn		10
+recipients	5
+na		4
+enron		4
+ou		4
+jr		2
+fully		1
+traci		1
+sherriff	1
+wlemmon		1
+communicating	1
+john		1
+bland		1
+throughout	1
+organization	1
+lemmons		1
+ted		1
+eu		1
+tbland		1
+warner		1
+consistent	1
+twarner		1
+jsherrif	1
+billy		1

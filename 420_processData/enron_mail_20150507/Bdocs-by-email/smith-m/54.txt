@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+questar		1
+email		1
+flow		1
+free		1
+per		1
+indication	1
+jerry		1
+thank		1
+mathew		1
+contact		1
+following	1
+referenced	1
+appreciate	1
+requested	1
+number		1
+feel		1
+historicals	1
+questions	1
+provided	1
+below		1
+need		1
+smith		1
+data		1
+still		1

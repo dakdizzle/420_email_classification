@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+sun		1
+admission	1
+go		1
+sat		1
+want		1
+assignments	1
+general		1
+seat		1

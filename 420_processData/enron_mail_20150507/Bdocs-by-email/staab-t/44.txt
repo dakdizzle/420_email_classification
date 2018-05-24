@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+back		1
+gas		1
+daily		1
+fuel		1
+price		1
+purchases	1
+avg		1
+september	1
+sale		1

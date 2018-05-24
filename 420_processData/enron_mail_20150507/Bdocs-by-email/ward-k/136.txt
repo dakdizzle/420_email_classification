@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+look		2
+cogan		1
+soon		1
+send		1
+take		1

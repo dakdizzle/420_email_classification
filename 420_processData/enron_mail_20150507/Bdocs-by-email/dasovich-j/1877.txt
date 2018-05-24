@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+write		1
+jeff		1
+figured		1
+letter		1
+want		1
+fyi		1
+personally	1

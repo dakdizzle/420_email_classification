@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+refunds		1
+want		1
+provide		1
+iso		1
+don		1
+entitled	1

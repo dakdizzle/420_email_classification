@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+meeting		1
+follow		1
+up		1
+rogers		1
+concept		1
+sell		1
+janet		1
+necessary	1

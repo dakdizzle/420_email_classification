@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+problems	1
+email		1
+griff		1
+id		1
+information	1
+hopefully	1
+now		1
+january		1
+phillip		1
+gray		1
+password	1
+call		1
+good		1
+sent		1
+please		1
+dexter		1
+through		1

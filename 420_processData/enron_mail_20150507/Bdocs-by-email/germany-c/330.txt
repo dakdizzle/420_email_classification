@@ -1,0 +1,20 @@
+NumWords	23
+NumTerms	17
+
+massachusetts	4
+primary		2
+volume		2
+point		2
+leominster	1
+revere		1
+receipt		1
+total		1
+tie		1
+mendon		1
+wright		1
+clinton		1
+mass		1
+sma		1
+spencer		1
+delivery	1
+over		1

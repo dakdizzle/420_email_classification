@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+accountants	1
+wow		1
+talk		1
+well		1
+glad		1
+etc		1
+carrier		1
+soon		1
+long		1
+happened	1
+really		1
+suing		1
+everyone	1
+distance	1
+lawyers		1
+clarified	1
+sue		1

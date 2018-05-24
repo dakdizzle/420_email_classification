@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+ball		2
+taking		1
+day		1
+forever		1
+absolutely	1
+ug		1
+jeffrey		1
+jeff		1
+nothing		1
+going		1
+csfb		1
+here		1
+com		1

@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+school		2
+mba		2
+going		2
+thing		1
+visit		1
+management	1
+chris		1
+actually	1
+congratulate	1
+call		1
+really		1
+definately	1
+good		1
+program		1
+holland		1
+perfect		1
+rotterdam	1
+mo		1

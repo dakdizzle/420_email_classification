@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+ok		1
+everything	1
+nicolay		1
+cnicola		1
+enron		1
+recipients	1
+ou		1
+christi		1
+na		1

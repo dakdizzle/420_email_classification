@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+sherry		2
+lynn		1
+visit		1
+end		1
+review		1
+reviews		1
+chris		1
+input		1
+thanks		1
+mcdaniel	1
+change		1
+year		1
+janet		1
+still		1

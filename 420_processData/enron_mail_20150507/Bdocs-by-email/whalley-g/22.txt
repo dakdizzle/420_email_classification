@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+fallon		1
+guaranteed	1
+go		1
+bonus		1
+ahead		1
+proposal	1

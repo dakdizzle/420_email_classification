@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+write		1
+adhoc		1
+calc		1
+stacey		1
+information	1
+please		1
+testing		1
+need		1
+pull		1
+over		1

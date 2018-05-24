@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+home		1
+vince		1
+send		1
+thinking	1
+shall		1
+mail		1
+addresses	1
+julie		1
+thanks		1

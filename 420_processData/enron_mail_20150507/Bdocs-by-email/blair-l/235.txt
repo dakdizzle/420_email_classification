@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+available	1
+meet		1
+lunch		1
+shelley		1
+thanks		1
+through		1

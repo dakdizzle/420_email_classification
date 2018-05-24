@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+david		1
+location	1
+information	1
+farm		1
+tandk		1
+station		1
+asks		1
+activities	1
+etc		1
+provide		1
+way		1
+matrix		1
+right		1
+box		1
+please		1
+yousend		1
+yard		1
+next		1

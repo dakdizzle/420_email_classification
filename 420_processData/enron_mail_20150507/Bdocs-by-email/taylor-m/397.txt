@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+one		1
+next		1
+here		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+meeting		1
+jeff		1
+best		1
+back		1
+going		1
+craver		1
+edison		1
+getting		1
+talked		1

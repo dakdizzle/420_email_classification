@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+home		1
+scott		1
+cell		1
+lavo		1
+anytime		1
+numbers		1
+following	1
+one		1
+reached		1
+weekend		1
+town		1

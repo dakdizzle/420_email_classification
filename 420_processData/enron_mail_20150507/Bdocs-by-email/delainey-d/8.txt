@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cn		2
+ddelain		2
+david		1
+selling		1
+recipients	1
+filename	1
+na		1
+delainey	1
+privileged	1
+buyer		1
+non		1
+nepool		1
+possible	1
+enron		1
+book		1
+pstjeff		1
+ou		1
+regardsdelainey	1
+doing		1

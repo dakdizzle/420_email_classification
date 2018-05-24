@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+office		2
+week		2
+hear		1
+great		1
+thinking	1
+constantly	1
+back		1
+last		1
+anxious		1
+voice		1
+call		1

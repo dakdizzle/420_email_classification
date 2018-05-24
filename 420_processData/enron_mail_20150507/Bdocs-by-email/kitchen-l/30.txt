@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+know		1
+legal		1
+contractors	1
+people		1
+want		1
+need		1
+agency		1
+hire		1
+headcount	1
+commercial	1
+assistants	1
+through		1
+ll		1

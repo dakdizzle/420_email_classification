@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+moscoso		1
+gave		1
+work		1
+address		1
+didn		1
+emails		1
+getting		1

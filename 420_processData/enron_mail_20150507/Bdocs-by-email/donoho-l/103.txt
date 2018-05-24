@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+slide		2
+published	2
+numbers		2
+need		2
+ferc		1
+throughput	1
+aren		1
+form		1
+revenue		1
+number		1
+presentation	1
+yesterday	1
+without		1
+update		1
+bottom		1
+discussed	1
+note		1
+think		1
+here		1
+ll		1

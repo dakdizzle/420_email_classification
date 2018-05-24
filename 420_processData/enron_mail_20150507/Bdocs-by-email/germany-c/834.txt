@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+nice		1
+talk		1
+gas		1
+buying		1
+today		1
+zone		1
+florida		1
+see		1
+very		1
+over		1

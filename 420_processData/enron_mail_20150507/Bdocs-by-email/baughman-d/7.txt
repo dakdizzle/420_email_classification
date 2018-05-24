@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+care		1
+beer		1
+fantastic	1
+congratulations	1
+buy		1
+town		1
+don		1
+celebration	1
+take		1
+ll		1
+next		1
+date		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+one		1
+testimony	1
+yes		1
+fine		1
+spoke		1
+peter		1
+went		1

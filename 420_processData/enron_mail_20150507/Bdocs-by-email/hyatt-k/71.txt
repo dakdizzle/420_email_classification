@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+mark		1
+kh		1
+twist		1
+arm		1
+brand		1
+fri		1
+join		1
+talk		1
+pipe		1
+trying		1
+m		1
+enron		1
+project		1
+go		1
+invited		1
+want		1
+staying		1
+work		1

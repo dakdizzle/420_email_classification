@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+roy		1
+hanging		1
+legal		1
+now		1
+spend		1
+bite		1
+left		1
+th		1
+jim		1
+oughts		1
+analysis	1
+check		1
+thorough	1
+come		1
+run		1
+back		1
+want		1
+more		1
+need		1
+d		1
+don		1
+trust		1

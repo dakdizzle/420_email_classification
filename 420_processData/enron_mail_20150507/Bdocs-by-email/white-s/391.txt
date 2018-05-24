@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+meeting		3
+sorry		2
+employee	2
+discuss		1
+addition	1
+stacey		1
+today		1
+bob		1
+asked		1
+definitely	1
+later		1
+without		1
+fill		1
+headed		1
+sally		1
+difficult	1
+again		1
+work		1
+lunch		1

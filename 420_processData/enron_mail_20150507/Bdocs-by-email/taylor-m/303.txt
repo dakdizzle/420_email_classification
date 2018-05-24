@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+president	1
+mark		1
+interview	1
+counselenron	1
+services	1
+wednesday	1
+isda		1
+taylorvice	1
+wholesale	1
+general		1
+afternoon	1

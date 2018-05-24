@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+throughly	1
+close		1
+final		1
+guys		1
+answer		1
+closing		1
+call		1
+getting		1
+morning		1
+both		1
+look		1
+giving		1
+please		1
+questions	1
+thankspaul	1
+deal		1
+very		1
+over		1

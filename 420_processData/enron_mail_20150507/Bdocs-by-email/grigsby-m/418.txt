@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+available	1
+classes		1
+mike		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kim		1
+meeting		1
+believe		1
+centilli	1
+cindy		1
+attending	1
+james		1
+thanks		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+great		1
+technology	1
+thanksaint	1

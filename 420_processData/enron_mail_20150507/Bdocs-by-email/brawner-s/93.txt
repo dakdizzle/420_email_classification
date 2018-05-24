@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+thank		1
+comfortable	1
+service		1
+advise		1
+brawner		1
+feeling		1
+used		1
+received	1
+please		1
+yousandra	1
+interesting	1
+package		1
+give		1
+didn		1

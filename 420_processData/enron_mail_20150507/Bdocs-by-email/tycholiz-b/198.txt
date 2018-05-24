@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+screeen		1
+save		1
+want		1
+saver		1
+cool		1
+bt		1
+here		1

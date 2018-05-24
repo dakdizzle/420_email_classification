@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+retail		1
+competitive	1
+importantly	1
+knew		1
+more		1
+already		1
+thought		1
+d		1
+market		1
+extend		1

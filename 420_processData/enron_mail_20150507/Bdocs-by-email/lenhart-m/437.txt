@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+taking		1
+bath		1
+stock		1

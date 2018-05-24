@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+redlined	1
+know		1
+questions	1
+attached	1
+letter		1
+comments	1

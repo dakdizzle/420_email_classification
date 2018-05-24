@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+file		2
+charlie		1
+april		1
+prices		1
+attached	1
+correct		1
+month		1
+months		1
+see		1
+longer		1
+curves		1
+valid		1

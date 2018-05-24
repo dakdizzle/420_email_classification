@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+phillip		2
+cn		2
+love		2
+plove		1
+email		1
+pl		1
+ids		1
+recipients	1
+post		1
+books		1
+filename	1
+na		1
+asap		1
+psti		1
+enron		1
+please		1
+official	1
+old		1
+ou		1
+need		1
+date		1

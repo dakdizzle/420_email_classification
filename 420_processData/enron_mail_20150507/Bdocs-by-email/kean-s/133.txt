@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+make		1
+list		1
+assume		1
+sure		1

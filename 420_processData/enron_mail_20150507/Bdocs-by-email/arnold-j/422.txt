@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+sit		1
+minute		1
+down		1
+brad		1
+today		1

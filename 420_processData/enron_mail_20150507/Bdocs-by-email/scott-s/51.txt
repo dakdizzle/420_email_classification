@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+scott		1
+ect		1
+susan		1
+schlesinger	1
+help		1
+thanks		1
+hou		1
+pmto		1
+utilityhere	1
+enron		1
+elec		1
+utility		1
+go		1
+ectcc		1
+electric	1
+subject		1
+lauren		1
+enronxgate	1

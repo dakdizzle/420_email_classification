@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+info		1
+day		1
+basic		1
+discussed	1
+phone		1
+projects	1
+here		1

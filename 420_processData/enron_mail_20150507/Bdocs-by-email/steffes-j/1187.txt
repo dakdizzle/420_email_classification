@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cn		2
+jsteffe		2
+make		1
+pstlara		1
+recipients	1
+alan		1
+filename	1
+na		1
+privileged	1
+jim		1
+steffes		1
+good		1
+non		1
+enron		1
+go		1
+james		1
+ou		1
+comnes		1
+think		1

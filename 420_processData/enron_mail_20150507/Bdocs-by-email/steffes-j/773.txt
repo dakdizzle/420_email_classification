@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+d		2
+jim		1
+stay		1
+close		1
+meeting		1
+reception	1
+come		1
+happy		1
+bldg		1
+sept		1

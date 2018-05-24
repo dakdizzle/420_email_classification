@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+send		1
+m		1
+know		1
+another		1
+regard		1
+sorry		1
+smith		1
+mat		1
+meant		1

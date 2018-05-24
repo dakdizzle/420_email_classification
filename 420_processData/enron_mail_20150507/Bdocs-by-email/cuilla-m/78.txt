@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+done		1
+annuity		1
+yeah		1
+want		1

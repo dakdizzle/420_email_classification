@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+shorton		2
+cn		2
+meeting		1
+helpful		1
+time		1
+up		1
+stanley		1
+cindy		1
+gladly		1
+chat		1
+recipients	1
+phone		1
+filename	1
+na		1
+pstplease	1
+call		1
+privileged	1
+non		1
+enron		1
+direct		1
+ou		1
+set		1
+reports		1
+horton		1

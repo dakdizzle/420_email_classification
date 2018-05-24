@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+gnemec		2
+cn		2
+pstattached	1
+guaranty	1
+revised		1
+know		1
+recipients	1
+form		1
+filename	1
+na		1
+privileged	1
+anything	1
+non		1
+enron		1
+nemec		1
+ou		1
+need		1
+gerald		1
+execution	1

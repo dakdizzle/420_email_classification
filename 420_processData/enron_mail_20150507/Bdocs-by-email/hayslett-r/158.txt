@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+blackberry	2
+board		1
+sent		1
+meeting		1
+net		1
+wireless	1
+handheld	1
+www		1
+before		1
+need		1

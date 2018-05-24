@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+right		1
+well		1
+pay		1
+fee		1
+now		1
+prepared	1
+million		1
+development	1

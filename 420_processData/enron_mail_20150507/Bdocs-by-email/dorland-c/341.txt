@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+make		2
+thanx		2
+sure		2
+happens		1
+brian		1
+end		1
+few		1
+sending		1
+report		1
+deals		1
+pos		1
+chris		1
+talked		1
+out		1
+morning		1
+each		1
+look		1
+done		1
+book		1
+week		1
+transferred	1
+mind		1
+carlos		1

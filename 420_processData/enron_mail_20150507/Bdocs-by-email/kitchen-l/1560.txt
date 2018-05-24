@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+somewhere	1
+asap		1
+waitlist	1
+find		1
+cost		1

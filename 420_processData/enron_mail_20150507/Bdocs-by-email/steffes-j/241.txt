@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+employment	1
+active		1
+know		1
+contract	1
+jo		1
+staines		1
+dan		1
+ann		1

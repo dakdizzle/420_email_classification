@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+speak		2
+sounded		2
+grandpa		2
+little		1
+worried		1
+guys		1
+even		1
+grandma		1
+speaking	1
+see		1
+phoenix		1
+tried		1
+yesterday	1
+call		1
+out		1
+home		1
+soon		1
+really		1
+tired		1
+need		1
+bad		1
+think		1

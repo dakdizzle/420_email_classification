@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+power		1
+flat		1
+east		1

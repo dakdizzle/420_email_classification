@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+email		1
+sara		1
+nd		1

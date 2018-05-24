@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+distributions	1
+remove		1
+please		1
+future		1

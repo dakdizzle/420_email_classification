@@ -1,0 +1,9 @@
+NumWords	16
+NumTerms	6
+
+contracts	4
+nymex		4
+sell		3
+june		3
+july		1
+buy		1

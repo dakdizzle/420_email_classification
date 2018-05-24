@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+become		1
+group		1
+vs		1
+make		1
+assessing	1
+looking		1
+trying		1
+properly	1
+call		1
+way		1
+more		1
+efficient	1
+everyone	1
+cost		1
+sure		1
+benefits	1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+option		1
+day		1
+physical	1
+kelli		1
+up		1
+october		1
+know		1
+price		1
+money		1
+someone		1
+thanks		1
+malin		1
+call		1
+kim		1
+please		1
+july		1
+questions	1

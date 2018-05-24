@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+taking		2
+course		2
+added		2
+account		1
+vacation	1
+know		1
+tuesday		1
+looks		1
+ve		1
+m		1
+good		1
+greetings	1
+jeff		1
+best		1
+izio		1
+assignment	1
+hasn		1
+very		1

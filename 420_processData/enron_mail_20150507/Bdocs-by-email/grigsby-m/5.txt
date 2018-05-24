@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+position	2
+nov		2
+group		1
+fixed		1
+selling		1
+short		1
+nymex		1
+longer		1
+morning		1
+put		1
+priced		1
+hedge		1
+basis		1
+liquidity	1
+phys		1
+grigsby		1
+sold		1

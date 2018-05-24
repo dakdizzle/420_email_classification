@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+rush		1
+michelle	1
+fine		1
+late		1
+week		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+contacts	1
+please		1
+add		1

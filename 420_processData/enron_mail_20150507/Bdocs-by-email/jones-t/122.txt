@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+done		1
+signed		1
+already		1
+side		1

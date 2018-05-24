@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+coming		1
+rush		1
+check		1
+project		1
+mike		1
+wanted		1
+along		1
+thanks		1

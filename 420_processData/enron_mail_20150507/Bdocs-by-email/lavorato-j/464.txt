@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+dinner		1
+m		1
+know		1
+louise		1
+meet		1
+sure		1
+take		1
+love		1

@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+screens		2
+officerenron	1
+make		1
+fax		1
+operating	1
+thankslouise	1
+kitchenchief	1
+pc		1
+nettelton	1
+marcus		1
+two		1
+three		1
+americastel	1
+one		1
+sure		1

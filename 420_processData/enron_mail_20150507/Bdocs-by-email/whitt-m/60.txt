@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+invoice		2
+something	1
+day		1
+received	1
+paid		1
+automatically	1
+need		1
+worked		1
+corestaff	1
+christina	1

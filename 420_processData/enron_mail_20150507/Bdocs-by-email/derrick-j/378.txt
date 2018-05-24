@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+meeting		1
+october		1
+meetings	1
+thank		1
+houston		1
+derrick		1
+currently	1
+east		1
+coast		1
+ifaskianos	1
+jim		1
+cfr		1
+message		1
+enron		1
+scheduled	1
+org		1
+attend		1
+thus		1

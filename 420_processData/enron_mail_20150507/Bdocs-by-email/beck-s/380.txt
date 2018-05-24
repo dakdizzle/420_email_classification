@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+meeting		1
+asap		1
+please		1
+sally		1
+now		1
+occuring	1
+mike		1
+give		1
+christina	1
+thanks		1

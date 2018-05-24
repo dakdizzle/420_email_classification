@@ -1,0 +1,24 @@
+NumWords	30
+NumTerms	21
+
+com		3
+chris		2
+immer		2
+enron		2
+germany		2
+happy		2
+making		2
+ingrid		2
+stuff		1
+fwwhen		1
+williams	1
+buying		1
+kick		1
+amto		1
+one		1
+myself		1
+subject		1
+going		1
+last		1
+figure		1
+very		1

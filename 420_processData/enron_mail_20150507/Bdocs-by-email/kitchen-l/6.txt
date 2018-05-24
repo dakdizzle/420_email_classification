@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+cn		2
+ubsw		2
+com		2
+kari		1
+jenai		1
+maria		1
+recipients	1
+na		1
+koquinn		1
+oquinn		1
+lee		1
+enron		1
+bliss		1
+ou		1

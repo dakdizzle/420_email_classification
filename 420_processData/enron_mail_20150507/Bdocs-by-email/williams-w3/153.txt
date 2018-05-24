@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+begin		1
+mier		1
+bill		1
+know		1
+need		1
+definitely	1
+michael		1

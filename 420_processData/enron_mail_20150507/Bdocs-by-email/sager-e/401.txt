@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+phil		1
+house		1
+dinner		1
+confirmed	1
+great		1
+ill		1
+spoke		1
+sager		1
+elizabeth	1
+yesterday	1

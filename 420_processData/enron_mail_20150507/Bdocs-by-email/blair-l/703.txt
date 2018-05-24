@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+lynn		1
+porter		1
+diana		1
+know		1
+walden		1
+thanks		1
+reviewers	1
+concerns	1
+please		1
+one		1
+change		1
+shirley		1
+randy		1

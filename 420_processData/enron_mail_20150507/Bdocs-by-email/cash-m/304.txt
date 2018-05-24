@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+mcash		2
+cn		2
+michelle	2
+cash		1
+recipients	1
+filename	1
+na		1
+revocation	1
+offer		1
+privileged	1
+pstfyi		1
+non		1
+enron		1
+ou		1

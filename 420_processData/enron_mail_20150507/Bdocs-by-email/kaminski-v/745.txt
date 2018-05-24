@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+vince		2
+conferences	1
+haas		1
+http		1
+edu		1
+www		1
+interest	1
+berkeley	1
+filename	1
+pstany		1
+vkamins		1
+citm		1
+kaminskix	1
+conference	1

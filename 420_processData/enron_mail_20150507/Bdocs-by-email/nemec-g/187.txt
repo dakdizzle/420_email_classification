@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+inc		1
+lrci		1

@@ -1,0 +1,19 @@
+NumWords	25
+NumTerms	16
+
+days		3
+cal		3
+two		3
+day		2
+contracts	2
+past		2
+mwh		1
+roughly		1
+see		1
+look		1
+hedged		1
+ago		1
+swap		1
+increased	1
+period		1
+sold		1

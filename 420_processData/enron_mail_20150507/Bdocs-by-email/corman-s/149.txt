@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+time		2
+more		2
+discuss		1
+gives		1
+alj		1
+parties		1
+settlement	1
+positive	1
+expected	1
+need		1
+decision	1
+note		1
+think		1

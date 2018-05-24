@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+goin		1
+m		1
+cell		1
+dbext		1
+gym		1
+want		1
+plans		1
+meet		1
+min		1
+couple		1
+mave		1

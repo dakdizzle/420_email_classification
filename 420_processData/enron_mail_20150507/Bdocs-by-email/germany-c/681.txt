@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+capacity	1
+gas		1
+awared		1
+ebb		1
+still		1
+unable		1
+boston		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+vince		1
+ok		1
+talk		1
+marek		1
+weekend		1
+doing		1
+over		1

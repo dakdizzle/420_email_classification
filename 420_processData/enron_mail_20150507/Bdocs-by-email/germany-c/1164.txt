@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+stuff		2
+good		2
+hardware	1
+http		1
+www		1
+web		1
+reviews		1
+cnet		1
+site		1
+lots		1
+cameras		1
+lot		1
+click		1
+select		1
+digital		1
+com		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+titled		1
+lindberg	1
+project		1
+interconnection	1
+susan		1
+nopr		1
+add		1

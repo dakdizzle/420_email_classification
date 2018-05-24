@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+dinner		1
+agenda		1
+god		1
+instead		1
+thursday	1
+oh		1
+work		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+those		1
+sugarland	1
+several		1
+houston		1
+lasco		1
+rob		1
+works		1
+judy		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+tva		1
+try		1
+few		1
+changes		1
+again		1
+minor		1
+confirm		1
+here		1
+ll		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+andy		1
+send		1
+recieved	1
+please		1
+shuler		1
+lance		1
+edison		1
+never		1

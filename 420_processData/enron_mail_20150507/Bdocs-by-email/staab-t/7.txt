@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+try		1
+again		1
+thanks		1

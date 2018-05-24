@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+couldn		1
+hideous		1
+photo		1
+one		1
+given		1
+better		1

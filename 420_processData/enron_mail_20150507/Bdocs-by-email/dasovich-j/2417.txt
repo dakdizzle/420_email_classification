@@ -1,0 +1,24 @@
+NumWords	29
+NumTerms	21
+
+com		4
+dasovich	3
+pge		2
+enron		2
+jeff		2
+jdasovic	1
+jan		1
+filename	1
+folder		1
+fitzgerald	1
+thanks		1
+privileged	1
+jx		1
+sent		1
+non		1
+debrum		1
+origin		1
+itemsx		1
+pstappreciate	1
+djf		1
+add		1

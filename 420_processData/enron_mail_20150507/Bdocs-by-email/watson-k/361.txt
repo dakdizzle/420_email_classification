@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+friday		1
+vacation	1
+september	1
+thanks		1

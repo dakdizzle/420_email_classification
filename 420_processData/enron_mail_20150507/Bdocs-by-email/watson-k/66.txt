@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kim		1
+day		1
+july		1
+friday		1
+vacation	1
+audrey		1
+took		1
+thanks		1

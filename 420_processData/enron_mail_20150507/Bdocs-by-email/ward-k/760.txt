@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+california	1
+know		1
+december	1
+gas		1
+west		1
+attached	1
+origination	1
+plants		1
+thanks		1
+serving		1
+kim		1
+march		1
+wardmanager	1
+confirmation	1
+please		1
+questions	1
+smurfit		1
+southern	1
+brent		1
+through		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+monday		1
+time		1
+up		1
+talk		1
+friday		1
+phone		1
+sorry		1
+delay		1
+afternoon	1
+morning		1
+out		1
+thursday	1
+august		1
+town		1
+works		1
+set		1
+week		1
+otherwise	1

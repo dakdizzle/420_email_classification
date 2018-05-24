@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+gmt		1
+eb		1
+time		1
+wednesday	1
+canada		1
+august		1
+central		1

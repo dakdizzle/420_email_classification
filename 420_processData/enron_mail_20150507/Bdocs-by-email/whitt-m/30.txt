@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+friends		1
+unemployed	1
+drinks		1
+buy		1
+graduate	1

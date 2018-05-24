@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+paul		1
+many		1
+kill		1
+go		1
+want		1
+bottom		1
+federico	1
+mail		1
+times		1
+website		1
+osama		1
+noted		1

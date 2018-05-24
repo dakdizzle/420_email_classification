@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+ve		1
+kim		1
+confli		1
+meeting		1
+today		1
+jan		1
+attend		1
+cts		1
+couple		1
+schedule	1
+thanks		1
+afternoon	1

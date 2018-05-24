@@ -1,0 +1,9 @@
+NumWords	11
+NumTerms	6
+
+bid		2
+adjustment	2
+curve		2
+total		2
+volume		2
+settle		1

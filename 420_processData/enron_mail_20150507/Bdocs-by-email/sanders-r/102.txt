@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+seen		1
+credit		1
+taken		1

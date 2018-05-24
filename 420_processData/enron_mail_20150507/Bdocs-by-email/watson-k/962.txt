@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+friday		2
+early		1
+ily		1
+attending	1
+leave		1
+trying		1
+definitely	1
+swing		1
+sunday		1
+take		1
+m		1
+go		1
+start		1
+sure		1
+week		1
+game		1
+through		1
+next		1

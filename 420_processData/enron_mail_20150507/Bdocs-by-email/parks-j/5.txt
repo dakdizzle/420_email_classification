@@ -1,0 +1,26 @@
+NumWords	36
+NumTerms	23
+
+com		5
+mail		4
+story		2
+fenner		2
+nolan		2
+chet		2
+mike		2
+news		2
+brian		1
+wollam		1
+html		1
+http		1
+bmc		1
+yahoo		1
+admis		1
+brianc		1
+erwollam	1
+constantine	1
+tmpl		1
+saltgrass	1
+hotmail		1
+qq		1
+erik		1

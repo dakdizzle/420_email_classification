@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+transaction	1
+receipt		1
+complicated	1
+bt		1
+confirm		1
+call		1
+tycholiz	1
+way		1
+kim		1
+three		1
+upon		1
+require		1
+barry		1
+raised		1
+part		1
+mail		1

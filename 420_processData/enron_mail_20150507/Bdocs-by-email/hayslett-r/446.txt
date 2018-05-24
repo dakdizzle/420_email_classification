@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+equity		1
+thery		1
+term		1
+looking		1
+piece		1
+longer		1
+remember	1

@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+youalso		1
+vacation	1
+george		1
+money		1
+goingto		1
+golf		1
+bet		1
+better		1
+easy		1
+grady		1
+back		1
+go		1
+palm		1
+work		1
+year		1
+springs		1
+think		1
+joe		1
+next		1

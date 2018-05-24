@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+per		1
+please		1
+mail		1
+voice		1
+call		1

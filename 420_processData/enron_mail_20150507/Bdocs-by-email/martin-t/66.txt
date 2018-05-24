@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+open		1
+resend		1
+attachment	1
+tom		1

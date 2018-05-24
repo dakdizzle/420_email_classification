@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+certification	1
+sp		1
+louise		1
+issue		1
+concerning	1
+louthis		1
+encumbrency	1

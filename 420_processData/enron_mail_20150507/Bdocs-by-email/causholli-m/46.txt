@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+annually	1
+capacity	1
+main		1
+growth		1
+know		1
+attached	1
+wanted		1
+karen		1
+monika		1
+world		1
+regions		1
+compounded	1

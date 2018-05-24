@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+bid		1
+carmax		1
+sell		1
+showed		1
+ll		1

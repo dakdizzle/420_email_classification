@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+guess		2
+back		2
+heard		1
+hull		1
+talk		1
+now		1
+stop		1
+people		1
+mitch		1
+right		1
+want		1
+forward		1
+e		1
+mail		1
+town		1
+think		1
+didn		1
+val		1
+boone		1

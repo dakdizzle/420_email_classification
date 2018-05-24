@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+lisa		1
+mike		1
+jacobson	1

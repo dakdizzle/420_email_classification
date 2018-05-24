@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+stock		1
+grant		1
+missing		1
+now		1
+restricted	1
+portfolio	1
+times		1
+requested	1
+thanks		1
+significant	1
+please		1
+several		1
+manager		1
+still		1
+include		1
+grants		1

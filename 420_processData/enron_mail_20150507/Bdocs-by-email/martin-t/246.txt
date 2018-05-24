@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+group		1
+ina		1
+lunches		1
+talk		1
+know		1
+desk		1
+continue	1
+tom		1
+possible	1
+desks		1
+trades		1
+eol		1
+doing		1
+trading		1

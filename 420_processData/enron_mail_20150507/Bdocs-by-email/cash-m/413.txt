@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+grapes		1
+job		1
+ignore		1
+paid		1
+guess		1
+sour		1
+insults		1
+unfortunately	1
+michelle	1
+apply		1
+agreement	1
+contemplated	1
+unbelievable	1

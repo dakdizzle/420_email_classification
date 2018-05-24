@@ -1,0 +1,24 @@
+NumWords	30
+NumTerms	21
+
+transportation	3
+shipper		3
+service		2
+agreement	2
+receive		2
+request		2
+countersign	2
+begin		1
+send		1
+generate	1
+potential	1
+fine		1
+looks		1
+confirm		1
+linda		1
+instead		1
+executed	1
+want		1
+correct		1
+process		1
+execution	1

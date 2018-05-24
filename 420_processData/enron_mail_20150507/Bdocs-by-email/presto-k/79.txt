@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+make		1
+enough		1
+well		1
+know		1
+accurate	1
+capabilities	1
+don		1
+assessment	1

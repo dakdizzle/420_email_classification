@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+anything	1
+regarding	1
+bhp		1
+guarantee	1
+find		1

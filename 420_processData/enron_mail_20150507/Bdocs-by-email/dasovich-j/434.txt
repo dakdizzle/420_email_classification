@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+cn		2
+paul		1
+enron		1
+recipients	1
+ou		1
+pkaufma		1
+na		1
+kaufman		1
+engaged		1

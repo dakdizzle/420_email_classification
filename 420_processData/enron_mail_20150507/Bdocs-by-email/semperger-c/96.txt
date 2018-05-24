@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+ish		1
+party		1
+welcome		1
+pm		1
+nap		1
+leave		1
+take		1
+out		1
+home		1
+wanna		1
+around		1
+thinking	1
+bit		1
+come		1
+go		1
+till		1
+hang		1
+don		1
+here		1
+news		1

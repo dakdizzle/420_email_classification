@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+demand		2
+asset		1
+know		1
+report		1
+management	1
+charges		1
+out		1
+please		1
+unify		1
+charge		1
+works		1
+deal		1
+don		1
+give		1

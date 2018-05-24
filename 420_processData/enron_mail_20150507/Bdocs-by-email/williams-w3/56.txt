@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+bam		1
+hear		1
+know		1

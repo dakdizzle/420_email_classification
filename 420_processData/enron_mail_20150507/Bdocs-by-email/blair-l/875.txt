@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+thanks		2
+lynn		1
+each		1
+point		1
+good		1
+company		1
+hr		1
+thougt		1
+tell		1
+doing		1
+straight	1

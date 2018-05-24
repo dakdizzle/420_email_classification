@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+energy		2
+risk		2
+editionclewlow	1
+magazine	1
+managing	1
+nd		1
+price		1
+books		1
+derivatives	1
+strickland	1

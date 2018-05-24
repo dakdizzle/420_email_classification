@@ -1,0 +1,20 @@
+NumWords	36
+NumTerms	17
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+timothy		1
+hull		1
+bhull		1
+jcrook		1
+crook		1
+tblancha	1
+blanchard	1
+bryan		1
+crabon		1
+jody		1
+rabon		1
+chance		1

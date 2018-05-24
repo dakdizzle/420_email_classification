@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+check		1
+lady		1
+told		1
+call		1

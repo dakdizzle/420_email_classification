@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+those		1
+lrc		1
+mary		1
+entities	1
+fine		1

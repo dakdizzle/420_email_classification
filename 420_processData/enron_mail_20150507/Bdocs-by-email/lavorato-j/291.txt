@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+definately	1
+time		1
+front		1
+justify		1
+lay		1
+ontario		1
+need		1
+stakes		1
+size		1
+skilling	1
+given		1
+help		1

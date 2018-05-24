@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+home		1
+first		1
+yeah		1
+comin		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+please		1
+reset		1
+won		1
+work		1
+sager		1
+password	1
+elizabeth	1

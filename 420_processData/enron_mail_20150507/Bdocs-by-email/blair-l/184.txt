@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+lynn		1
+out		1
+monday		1
+stay		1
+ava		1
+check		1
+sheraton	1
+fyi		1
+sounds		1
+thanks		1

@@ -1,0 +1,27 @@
+NumWords	44
+NumTerms	24
+
+paper		4
+sokolov		3
+pm		3
+jason		3
+ect		3
+hou		3
+hamel		2
+doc		2
+stuart		2
+forwarded	2
+vince		2
+subject		2
+kaminski	2
+energy		1
+attached	1
+file		1
+see		1
+pmto		1
+enron		1
+ectcc		1
+comcc		1
+duke		1
+com		1
+srhamel		1

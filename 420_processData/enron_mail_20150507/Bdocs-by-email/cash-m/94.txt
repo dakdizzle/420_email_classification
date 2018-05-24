@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+couldn		1
+make		1
+availability	1
+jeff		1
+mhc		1
+reschedule	1
+ll		1

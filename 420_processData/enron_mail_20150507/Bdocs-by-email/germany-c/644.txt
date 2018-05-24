@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+friday		1
+next		1

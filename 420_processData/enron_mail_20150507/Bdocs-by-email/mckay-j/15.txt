@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+more		2
+duties		1
+included	1
+thing		1
+guess		1
+better		1
+example		1
+something	1
+suppose		1
+m		1
+jon		1
+words		1
+one		1
+another		1
+kind		1
+idea		1
+work		1
+probably	1
+sure		1

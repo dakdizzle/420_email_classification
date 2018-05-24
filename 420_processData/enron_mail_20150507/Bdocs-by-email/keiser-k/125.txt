@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+takes		1
+thankskamx	1
+id		1
+dump		1
+know		1
+attached	1
+ready		1
+appreciate	1
+post		1
+long		1
+possible	1
+run		1
+please		1
+tomorrow	1
+last		1
+data		1
+week		1
+lunch		1

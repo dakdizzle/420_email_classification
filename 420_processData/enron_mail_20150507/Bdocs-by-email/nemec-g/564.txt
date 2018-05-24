@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+anadarko	2
+written		1
+information	1
+csi		1
+attached	1
+draft		1
+review		1
+prior		1
+giving		1
+permission	1
+received	1
+need		1
+note		1

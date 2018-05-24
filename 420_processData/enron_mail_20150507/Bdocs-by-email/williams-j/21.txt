@@ -1,0 +1,27 @@
+NumWords	32
+NumTerms	24
+
+williams	3
+jason		3
+rachel		2
+enron		2
+cleave		2
+com		2
+hello		1
+speak		1
+today		1
+ect		1
+various		1
+uk		1
+fw		1
+gov		1
+hou		1
+forwarded	1
+hope		1
+laterrxxx	1
+amto		1
+work		1
+subject		1
+isn		1
+bad		1
+sra		1

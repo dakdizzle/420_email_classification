@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+rcr		2
+jim		1
+discuss		1
+meeting		1
+rto		1
+darran		1
+today		1
+epsa		1
+pls		1
+submit		1
+study		1
+se		1

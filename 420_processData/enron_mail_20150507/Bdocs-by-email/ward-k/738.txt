@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+rfp		1
+know		1
+gas		1
+west		1
+attached	1
+origination	1
+response	1
+thanks		1
+kim		1
+wardmanager	1
+please		1
+questions	1
+request		1
+brent		1

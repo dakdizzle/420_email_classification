@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+march		1
+ocs		1
+pm		1
+meeting		1
+sara		1
+held		1
+tuesday		1

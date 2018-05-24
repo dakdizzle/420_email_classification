@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+originators	1
+heard		1
+marketers	1
+people		1
+satellite	1
+offices		1
+probably	1
+middle		1
+mostly		1
+think		1

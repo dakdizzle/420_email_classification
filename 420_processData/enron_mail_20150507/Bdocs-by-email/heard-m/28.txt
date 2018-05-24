@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+location	1
+hopefully	1
+steve		1
+exact		1
+marie		1
+thanks		1
+house		1
+around		1
+float		1
+enron		1
+document	1
+reach		1
+hi		1

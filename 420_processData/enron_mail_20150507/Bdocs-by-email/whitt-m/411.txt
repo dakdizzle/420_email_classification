@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+few		1
+ago		1
+heidi		1
+discussed	1
+months		1

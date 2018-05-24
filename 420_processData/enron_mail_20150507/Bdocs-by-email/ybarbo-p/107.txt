@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+attached	1
+fyi		1
+see		1

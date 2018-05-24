@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+time		2
+together	1
+hug		1
+well		1
+baby		1
+seeing		1
+emma		1
+hold		1
+pictures	1
+look		1
+hope		1
+sally		1
+opportunity	1
+enjoy		1
+birth		1
+congratulations	1
+forward		1
+everyone	1
+doing		1
+new		1
+next		1

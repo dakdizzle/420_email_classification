@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+already		1
+sounds		1
+deal		1

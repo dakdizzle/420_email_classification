@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+mail		1
+copied		1
+original	1
+see		1

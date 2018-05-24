@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+thank		1
+focus		1
+lisa		1
+attorney	1
+asking		1
+appreciate	1
+appropriate	1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+send		1
+hey		1
+copy		1
+hearing		1
+stuart		1
+call		1
+without		1
+questions	1
+duke		1
+proceed		1
+joe		1
+give		1
+recommending	1

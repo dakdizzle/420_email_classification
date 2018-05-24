@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+kim		1
+plan		1
+team		1
+tk		1
+pnr		1
+activity	1
+tw		1
+transfer	1
+feb		1
+thanks		1

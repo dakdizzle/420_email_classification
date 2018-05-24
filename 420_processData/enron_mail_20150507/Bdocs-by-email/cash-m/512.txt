@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+david		1
+michelle	1
+proceed		1
+oxley		1
+approved	1
+thanks		1

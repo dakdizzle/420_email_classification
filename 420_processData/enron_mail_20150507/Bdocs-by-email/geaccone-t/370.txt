@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+sent		1
+fyi		1
+treasury	1
+request		1

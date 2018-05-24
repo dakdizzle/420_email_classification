@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+changed		1
+understand	1
+brakes		1
+clutch		1
+engine		1
+car		1
+last		1
+transmission	1
+km		1
+rebuilt		1

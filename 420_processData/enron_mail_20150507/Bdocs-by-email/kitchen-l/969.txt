@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+good		1
+another		1
+question	1

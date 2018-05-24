@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+make		1
+sending		1
+nyc		1
+reserve		1
+won		1
+put		1
+great		1
+hope		1
+jeff		1
+ideas		1
+feel		1
+carole		1
+weekend		1
+approval	1
+week		1
+hi		1

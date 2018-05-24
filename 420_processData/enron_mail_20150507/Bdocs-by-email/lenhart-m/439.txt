@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+make		1
+met		1
+scott		1
+sluts		1
+up		1
+stripper	1
+hooker		1
+speech		1
+shit		1
+throw		1
+good		1
+definately	1
+hooked		1
+need		1
+vegas		1

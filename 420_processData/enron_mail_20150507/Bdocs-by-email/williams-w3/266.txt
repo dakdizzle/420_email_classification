@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+way		1
+nice		1
+email		1
+good		1
+work		1
+kate		1

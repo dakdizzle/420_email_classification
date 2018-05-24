@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+auction		1
+picture		1
+weds		1
+think		1
+tonight		1

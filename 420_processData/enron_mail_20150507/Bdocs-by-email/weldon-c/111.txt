@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+physical	2
+mid		2
+charlie		1
+transcoz	1
+know		1
+steve		1
+premium		1
+curves		1
+yesterday	1
+anything	1
+summer		1
+winter		1
+index		1
+financial	1
+need		1

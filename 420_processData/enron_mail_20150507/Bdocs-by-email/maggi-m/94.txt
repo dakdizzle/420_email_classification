@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+thats		1
+present		1
+true		1
+withyour	1
+cmon		1
+going		1

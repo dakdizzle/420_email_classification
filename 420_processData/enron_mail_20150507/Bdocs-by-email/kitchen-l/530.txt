@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+kitchen		2
+louise		2
+cn		2
+option		1
+pstthis		1
+choice		1
+recipients	1
+slow		1
+route		1
+filename	1
+na		1
+lkitchen	1
+enron		1
+best		1
+difficult	1
+purchase	1
+go		1
+idea		1
+ou		1
+probably	1
+think		1

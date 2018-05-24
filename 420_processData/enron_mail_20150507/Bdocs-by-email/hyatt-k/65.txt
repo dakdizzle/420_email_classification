@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+clothes		1
+first		1
+people		1
+ones		1
+ugly		1
+take		1
+always		1

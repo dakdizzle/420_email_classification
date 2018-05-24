@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+ride		1
+support		1
+event		1
+best		1
+thank		1
+bill		1
+succesful	1
+congratulations	1
+adl		1
+ms		1
+completion	1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+between		1
+owe		1
+counterparties	1
+agreements	1
+forgotten	1
+more		1
+comments	1
+internal	1
+haven		1
+lots		1

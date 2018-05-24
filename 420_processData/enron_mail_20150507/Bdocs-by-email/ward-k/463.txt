@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+yours		1
+ok		1
+box		1
+thanksgiving	1
+garage		1
+weekend		1
+found		1
+better		1

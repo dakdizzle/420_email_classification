@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+group		1
+know		1
+tell		1
+d		1
+mo		1
+using		1
+dan		1

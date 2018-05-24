@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+make		1
+please		1
+genuity		1
+ebs		1
+folder		1
+file		1
+kay		1
+print		1
+thanks		1

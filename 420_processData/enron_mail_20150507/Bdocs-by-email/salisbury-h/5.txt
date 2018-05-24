@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+anything	1
+holden		1
+please		1
+valley		1
+delivered	1
+thank		1
+know		1
+need		1
+through		1

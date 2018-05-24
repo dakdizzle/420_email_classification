@@ -1,0 +1,22 @@
+NumWords	32
+NumTerms	19
+
+ene		3
+money		3
+out		3
+duke		3
+dec		3
+apr		3
+buys		2
+order		1
+create		1
+price		1
+exposure	1
+depending	1
+million		1
+bank		1
+america		1
+volumes		1
+swap		1
+sells		1
+set		1

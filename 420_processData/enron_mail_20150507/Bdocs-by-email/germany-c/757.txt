@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+hear		1
+department	1
+information	1
+know		1
+treasury	1
+ramona		1
+response	1
+wire		1
+call		1
+getting		1
+thankschris	1
+rodriquez	1
+finally		1
+don		1

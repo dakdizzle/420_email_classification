@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+work		2
+fri		1
+hard		1
+sounds		1
+money		1
+weird		1
+thurs		1
+better		1
+running		1
+nice		1
+banker		1
+right		1
+smanker		1
+going		1
+week		1
+works		1
+treat		1
+very		1

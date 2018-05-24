@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sticking	1
+motocross	1
+eh		1

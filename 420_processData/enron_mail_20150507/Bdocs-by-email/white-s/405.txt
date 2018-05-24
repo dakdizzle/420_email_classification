@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+hold		1
+officialized	1
+believe		1
+stacey		1
+kori		1
+before		1
+erol		1
+month		1
+last		1
+correctly	1
+actually	1

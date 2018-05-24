@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+certification	1
+retail		1
+day		1
+ok		1
+jeff		1
+work		1
+smith		1
+miller		1
+doug		1

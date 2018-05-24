@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+assistance	1
+know		1
+need		1
+alex		1
+richard		1

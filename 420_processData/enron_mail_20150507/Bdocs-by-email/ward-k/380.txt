@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+money		2
+out		1
+kim		1
+pnm		1
+instead		1
+physical	1
+price		1
+previously	1
+requested	1
+thanks		1
+call		1

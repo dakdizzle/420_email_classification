@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+invoice		2
+send		1
+owe		1
+know		1
+sending		1
+money		1
+month		1
+each		1
+hope		1
+back		1
+tomorrow	1
+more		1
+going		1
+enbridge	1
+deal		1
+making		1
+tonight		1
+ll		1

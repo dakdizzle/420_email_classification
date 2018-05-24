@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+bny		1
+change		1
+eh		1
+times		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+francis		1
+nyema		1
+reach		1
+unable		1
+feedback	1

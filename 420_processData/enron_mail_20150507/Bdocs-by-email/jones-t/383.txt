@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+meeting		1
+until		1
+thursday	1
+back		1
+thanksgiving	1
+want		1
+won		1
+sheri		1
+schedule	1

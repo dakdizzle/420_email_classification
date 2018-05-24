@@ -1,0 +1,20 @@
+NumWords	24
+NumTerms	17
+
+com		4
+email		2
+austin		2
+mccomb		2
+erik		2
+kmccomb		1
+wollam		1
+comhow		1
+cmccomb		1
+mertz		1
+brianc		1
+erwollam	1
+knipe		1
+msn		1
+address		1
+saltgrass	1
+hotmail		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+hope		1
+lisa		1
+well		1
+fee		1
+small		1
+ll		1

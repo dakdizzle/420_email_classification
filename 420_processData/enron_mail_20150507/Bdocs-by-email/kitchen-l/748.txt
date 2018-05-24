@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+mean		2
+lkitchen	2
+cn		2
+enrononline	2
+kitchen		1
+name		1
+louise		1
+www		1
+recipients	1
+once		1
+filename	1
+na		1
+privileged	1
+stay		1
+xxxxxxxxxxxx	1
+psti		1
+non		1
+enron		1
+domaine		1
+logon		1
+ou		1
+need		1
+don		1
+com		1

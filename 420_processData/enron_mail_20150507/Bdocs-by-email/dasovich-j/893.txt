@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+everything	2
+copy		1
+time		1
+mean		1
+houston		1
+deleted		1
+down		1
+immediately	1
+jeff		1
+best		1
+need		1
+last		1
+hunt		1
+tech		1

@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+lkitchen	2
+cn		2
+collateral	1
+kitchen		1
+further		1
+terminate	1
+louise		1
+recipients	1
+although	1
+filename	1
+na		1
+zero		1
+pstprepays	1
+privileged	1
+downgrade	1
+non		1
+enron		1
+ou		1
+drop		1

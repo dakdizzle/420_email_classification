@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+week		2
+jim		1
+first		1
+linda		1
+october		1
+vacation	1
+use		1
+d		1
+move		1

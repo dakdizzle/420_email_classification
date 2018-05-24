@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+analyst		1
+comx		1
+filename	1
+vkamins		1
+thanks		1
+privileged	1
+associate	1
+vince		1
+non		1
+program		1
+enron		1
+pstehud		1
+touch		1
+shall		1
+origin		1
+mike		1
+rosen		1
+vx		1
+kaminski	1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+soon		1
+good		1
+hope		1
+talk		1
+susan		1
+year		1
+new		1

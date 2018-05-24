@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+day		1
+tomorrow	1
+fine		1
+tom		1
+half		1
+forget		1
+don		1
+here		1

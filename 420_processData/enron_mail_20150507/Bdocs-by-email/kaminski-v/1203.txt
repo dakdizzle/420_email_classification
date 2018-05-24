@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+vince		1
+james		1
+sorry		1
+hiring		1
+months		1
+inform		1
+unlikely	1
+next		1

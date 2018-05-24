@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+friday		1
+won		1
+tommorow	1
+houston		1
+chris		1
+getting		1
+out		1
+thinking	1
+earliest	1
+count		1
+going		1
+untill		1
+saturday	1
+doing		1
+don		1
+here		1
+carlos		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+wacky		1
+hunter		1
+fyi		1
+awesome		1
+mrs		1
+something	1
+indeed		1
+jeff		1
+best		1
+received	1
+rick		1
+ain		1
+original	1
+note		1
+server		1

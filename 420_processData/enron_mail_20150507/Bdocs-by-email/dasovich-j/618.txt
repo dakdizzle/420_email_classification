@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+plan		1
+sounds		1

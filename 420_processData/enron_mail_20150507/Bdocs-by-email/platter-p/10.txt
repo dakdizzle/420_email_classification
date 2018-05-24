@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+oh		2
+baby		2
+mark		1
+mas		1
+know		1
+machine		1
+down		1
+look		1
+yeah		1
+dropped		1
+one		1
+another		1
+conceived	1
+hints		1
+half		1
+repeatedly	1
+don		1
+next		1

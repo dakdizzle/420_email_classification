@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ve		1
+screen		1
+ones		1
+define		1
+level		1
+need		1
+probably	1
+guess		1
+major		1
+high		1

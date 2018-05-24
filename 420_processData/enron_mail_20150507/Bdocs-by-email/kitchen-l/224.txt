@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+kitchen		2
+louise		2
+cn		2
+make		1
+pstunfortunately	1
+jeanie		1
+end		1
+dealt		1
+guys		1
+recipients	1
+filename	1
+na		1
+lkitchen	1
+enron		1
+please		1
+ou		1
+ensure		1
+week		1
+cut		1

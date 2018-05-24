@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+john		2
+sent		2
+asst		1
+make		1
+intend		1
+tammy		1
+monthly		1
+report		1
+louise		1
+earlier		1
+call		1
+jim		1
+questions	1
+forward		1
+going		1
+last		1
+week		1
+include		1
+similar		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+m		1
+reply		1
+text		1
+jason		1
+sorry		1
+receive		1
+didn		1

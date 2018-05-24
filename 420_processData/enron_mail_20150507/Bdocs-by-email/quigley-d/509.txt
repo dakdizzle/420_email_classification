@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+out		2
+time		1
+talk		1
+know		1
+jaron		1
+money		1
+dutch		1
+positions	1
+geoff		1
+want		1
+willing		1
+swap		1
+deal		1
+here		1

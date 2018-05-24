@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+gallery		1
+http		1
+www		1
+txmilmus	1
+kwanah		1
+htm		1
+div		1
+com		1

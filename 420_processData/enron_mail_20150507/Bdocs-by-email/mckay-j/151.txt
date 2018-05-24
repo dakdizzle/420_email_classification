@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+lawyer		1
+ngx		1
+talk		1
+today		1
+associated	1
+performance	1
+issues		1
+trades		1
+jon		1
+obligations	1
+contract	1
+yes		1
+waiting		1
+still		1
+similar		1
+outlines	1

@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+million		3
+nominal		2
+loss		2
+option		1
+mwh		1
+value		1
+job		1
+overall		1
+difference	1
+mc		1
+flat		1
+market		1
+worth		1
+numbers		1
+go		1
+mws		1
+probably	1
+last		1
+increased	1
+week		1
+think		1
+very		1
+delivery	1

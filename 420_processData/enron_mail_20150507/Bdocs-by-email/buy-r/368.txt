@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+limits		1
+except		1
+try		1
+vacation	1
+port		1
+see		1
+vlady		1
+decided		1
+talked		1
+removing	1
+way		1
+believe		1
+rick		1
+lets		1
+snuck		1
+finally		1
+var		1
+works		1
+whalley		1

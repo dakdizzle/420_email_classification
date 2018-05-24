@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+fax		2
+please		1
+courier		1
+original	1

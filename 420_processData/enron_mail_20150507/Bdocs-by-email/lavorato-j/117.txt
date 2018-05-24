@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+ocean		1
+view		1

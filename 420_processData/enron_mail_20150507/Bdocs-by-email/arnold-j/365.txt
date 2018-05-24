@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+m		1
+john		1
+looking		1
+doc		1
+today		1
+now		1
+work		1
+bob		1
+later		1
+comments	1

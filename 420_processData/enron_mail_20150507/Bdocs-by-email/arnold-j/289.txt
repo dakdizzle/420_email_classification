@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+interview	1
+reply		1
+doing		1
+thanks		1

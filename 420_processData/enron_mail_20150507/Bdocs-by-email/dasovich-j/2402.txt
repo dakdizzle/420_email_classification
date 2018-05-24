@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+puc		1
+jeff		1
+testimony	1
+inquiry		1
+fast		1
+move		1
+looks		1
+call		1

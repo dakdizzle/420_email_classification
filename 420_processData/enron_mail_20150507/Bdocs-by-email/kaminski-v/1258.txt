@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+vince		2
+soon		1
+coming		1
+sam		1
+kaminski	1

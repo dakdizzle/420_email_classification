@@ -1,0 +1,22 @@
+NumWords	24
+NumTerms	19
+
+customer	2
+component	2
+gen		2
+positions	2
+need		2
+tariff		1
+etc		1
+reg		1
+ancillaries	1
+thanks		1
+remember	1
+retail		1
+down		1
+l		1
+please		1
+update		1
+give		1
+broken		1
+drop		1

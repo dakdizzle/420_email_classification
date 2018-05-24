@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+deal		2
+easily		1
+above		1
+price		1
+waha		1
+trade		1
+confirm		1
+check		1
+conoco		1
+records		1
+correct		1
+eol		1
+cynthia		1

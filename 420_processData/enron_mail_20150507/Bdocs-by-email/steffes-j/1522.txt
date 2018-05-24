@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+cn		2
+jsteffe		2
+know		1
+recipients	1
+pstjim		1
+filename	1
+na		1
+privileged	1
+jim		1
+anything	1
+steffes		1
+non		1
+enron		1
+please		1
+james		1
+ou		1
+need		1
+quick		1
+overview	1
+dirty		1
+here		1

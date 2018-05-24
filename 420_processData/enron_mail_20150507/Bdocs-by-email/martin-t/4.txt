@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+coming		1
+come		1
+tomorrow	1
+guys		1
+use		1
+guess		1
+tom		1
+discretion	1
+telling		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+something	1
+davidson	1
+elo		1
+bitch		1
+harley		1
+think		1
+sings		1
+song		1

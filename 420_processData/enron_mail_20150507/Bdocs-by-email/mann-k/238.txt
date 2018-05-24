@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+cabinet		1
+near		1
+yourself	1
+plate		1
+name		1
+top		1
+docs		1
+closing		1
+kay		1
+help		1
+thanks		1

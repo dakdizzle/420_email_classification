@@ -1,0 +1,18 @@
+NumWords	19
+NumTerms	15
+
+scott		2
+thank		2
+neal		2
+membership	2
+order		1
+free		1
+id		1
+avoid		1
+time		1
+future		1
+billing		1
+trial		1
+enron		1
+com		1
+cancel		1

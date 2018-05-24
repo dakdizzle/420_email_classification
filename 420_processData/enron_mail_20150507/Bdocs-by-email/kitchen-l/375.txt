@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+etas		1
+assume		1
+go		1
+find		1
+revise		1
+th		1
+pas		1

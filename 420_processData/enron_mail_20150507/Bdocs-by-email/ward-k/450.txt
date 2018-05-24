@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+gate		1
+garden		1
+homes		1
+lost		1
+call		1
+doors		1
+kim		1
+inside		1
+real		1
+right		1
+double		1
+green		1
+big		1
+behind		1

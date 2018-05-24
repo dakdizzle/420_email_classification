@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+latersluv	1
+talk		1
+todayi		1
+nuts		1
+youdq		1
+market		1
+out		1
+great		1
+pay		1
+want		1
+buy		1
+work		1
+rug		1

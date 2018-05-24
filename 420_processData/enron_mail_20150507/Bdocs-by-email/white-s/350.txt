@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+russell		2
+food		2
+responded	1
+hectic		1
+place		1
+stacey		1
+looking		1
+eat		1
+things		1
+timely		1
+sorry		1
+seeing		1
+suggested	1
+around		1
+k		1
+mexican		1
+right		1
+tomorrow	1
+want		1
+kind		1
+forward		1
+work		1
+very		1
+haven		1

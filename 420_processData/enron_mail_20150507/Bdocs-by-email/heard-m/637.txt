@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+thanks		2
+monday		1
+insist		1
+sweet		1
+marie		1
+fine		1
+awfully		1
+don		1

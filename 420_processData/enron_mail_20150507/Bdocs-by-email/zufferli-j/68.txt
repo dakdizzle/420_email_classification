@@ -1,0 +1,20 @@
+NumWords	23
+NumTerms	17
+
+products	3
+under		2
+listed		2
+launched	2
+heading		2
+day		1
+physical	1
+assume		1
+nella		1
+netco		1
+later		1
+list		1
+launch		1
+financial	1
+eol		1
+date		1
+here		1

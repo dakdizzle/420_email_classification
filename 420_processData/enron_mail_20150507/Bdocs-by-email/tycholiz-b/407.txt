@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+room		2
+make		1
+meeting		1
+verify		1
+weather		1
+desk		1
+fine		1
+jessica		1
+bt		1
+grigsby		1
+sure		1
+booked		1
+using		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+kim		1
+up		1
+payment		1
+today		1
+calling		1
+assuming	1
+june		1
+set		1
+deal		1
+ann		1

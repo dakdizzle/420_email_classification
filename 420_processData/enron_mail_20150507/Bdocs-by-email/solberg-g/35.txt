@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+make		1
+flowed		1
+supposed	1
+geir		1
+pac		1
+transmission	1
+schedule	1
+out		1
+please		1
+bill		1
+pay		1
+buy		1
+wheel		1
+sure		1
+figure		1
+deal		1
+bc		1
+border		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kept		1
+up		1
+well		1
+touch		1
+guys		1
+problem		1
+doug		1
+likewise	1
+thanks		1

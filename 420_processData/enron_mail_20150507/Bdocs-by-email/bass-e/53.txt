@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kirby		1
+lil		1
+friends		1
+dinner		1
+friday		1
+papasitos	1
+go		1
+want		1

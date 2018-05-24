@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+locked		1
+stairwell	1
+sorry		1
+getting		1
+super		1

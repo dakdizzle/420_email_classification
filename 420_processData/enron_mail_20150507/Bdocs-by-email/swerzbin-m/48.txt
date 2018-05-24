@@ -1,0 +1,27 @@
+NumWords	43
+NumTerms	24
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+pricing		1
+kathy		1
+davidson	1
+tim		1
+belden		1
+tbelden		1
+kaxford		1
+jchatter	1
+curves		1
+responding	1
+jill		1
+driscoll	1
+mike		1
+chatterton	1
+eol		1
+axford		1
+doing		1
+ddavids		1
+debra		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+articles	1
+sample		1
+here		1

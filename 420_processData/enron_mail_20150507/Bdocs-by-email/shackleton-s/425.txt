@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+contracts	1
+global		1
+numbers		1
+contract	1
+financial	1
+obtain		1
+wayyou		1

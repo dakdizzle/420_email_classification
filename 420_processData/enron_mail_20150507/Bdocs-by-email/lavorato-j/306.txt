@@ -1,0 +1,27 @@
+NumWords	33
+NumTerms	24
+
+usd		4
+currency	3
+reserve		3
+adjust		2
+cad		2
+make		1
+lavo		1
+hard		1
+monthly		1
+now		1
+whether		1
+reserved	1
+decided		1
+objective	1
+weekly		1
+respect		1
+hedge		1
+need		1
+correct		1
+decision	1
+took		1
+based		1
+ppa		1
+weswith		1

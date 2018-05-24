@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+pm		1
+check		1
+time		1
+tues		1
+available	1
+wed		1
+ll		1

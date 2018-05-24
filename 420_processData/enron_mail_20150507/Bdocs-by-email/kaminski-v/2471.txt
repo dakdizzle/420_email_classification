@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+aol		1
+adres		1
+prywatny	1
+com		1
+testvkaminski	1

@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+cn		2
+mheard		2
+agreed		1
+heard		1
+guaranty	1
+marie		1
+recipients	1
+filename	1
+na		1
+pemex		1
+privileged	1
+non		1
+pstlooks	1
+enron		1
+ou		1

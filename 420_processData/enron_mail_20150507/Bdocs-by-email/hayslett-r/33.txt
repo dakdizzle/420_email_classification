@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+soon		2
+buzz		1
+begin		1
+locked		1
+know		1
+financing	1
+unless		1
+month		1
+expect		1
+out		1
+down		1
+run		1
+saw		1
+discussions	1
+another		1
+kind		1
+banks		1
+going		1
+ll		1
+phase		1

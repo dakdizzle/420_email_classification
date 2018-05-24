@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+everybody	2
+higher		1
+hear		1
+word		1
+thinks		1
+relatively	1
+short		1
+flat		1
+everywhere	1
+exaggerations	1
+market		1
+travels		1
+out		1
+doesnt		1
+m		1
+down		1
+cents		1
+fuckers		1
+go		1
+sell		1
+squeeze		1
+love		1

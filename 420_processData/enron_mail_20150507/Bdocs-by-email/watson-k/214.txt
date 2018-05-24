@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+told		2
+little		1
+make		1
+consider	1
+term		1
+russ		1
+wanted		1
+call		1
+talked		1
+morning		1
+kim		1
+really		1
+years		1
+extended	1
+run		1
+numbers		1
+lower		1
+work		1
+needed		1
+need		1
+going		1
+year		1

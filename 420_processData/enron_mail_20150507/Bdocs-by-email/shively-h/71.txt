@@ -1,0 +1,21 @@
+NumWords	23
+NumTerms	18
+
+shively		4
+hunter		3
+changethank	1
+make		1
+text		1
+plain		1
+filename	1
+folder		1
+pstplease	1
+hx		1
+youhunter	1
+asciix		1
+content		1
+sent		1
+type		1
+origin		1
+itemsx		1
+charset		1

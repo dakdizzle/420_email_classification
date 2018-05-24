@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+anyway		1
+congrats	1
+long		1
+announcements	1
+around		1
+takes		1
+time		1

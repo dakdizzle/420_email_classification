@@ -1,0 +1,26 @@
+NumWords	42
+NumTerms	23
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+llawner		1
+leslie		1
+nicolay		1
+activities	1
+christi		1
+current		1
+jim		1
+good		1
+rto		1
+cnicola		1
+snovose		1
+novosel		1
+sarah		1
+hkingers	1
+harry		1
+kingerski	1
+lawner		1
+summary		1

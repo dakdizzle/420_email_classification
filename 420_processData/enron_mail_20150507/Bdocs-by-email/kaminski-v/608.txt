@@ -1,0 +1,23 @@
+NumWords	28
+NumTerms	20
+
+vince		4
+ect		3
+hou		2
+shirley		2
+kaminski	2
+aol		1
+itineraryhi	1
+pm		1
+evening		1
+crenshaw	1
+ludkam		1
+forwarded	1
+itinerary	1
+amto		1
+thursday	1
+tomorrow	1
+subject		1
+comcc		1
+ludmilla	1
+here		1

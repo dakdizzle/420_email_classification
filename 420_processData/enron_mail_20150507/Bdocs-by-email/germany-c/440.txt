@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+sniff		2
+care		1
+bummer		1
+park		1
+day		1
+eirc		1
+today		1
+seeing		1
+see		1
+walked		1
+take		1
+such		1
+yesterday	1
+good		1
+last		1
+didn		1

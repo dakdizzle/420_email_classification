@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+slide		2
+cn		2
+ldonoho		2
+strategy	1
+except		1
+well		1
+friday		1
+final		1
+recipients	1
+contributions	1
+filename	1
+na		1
+call		1
+privileged	1
+non		1
+psthere		1
+enron		1
+insert		1
+questions	1
+donoho		1
+discussed	1
+ou		1
+lindy		1

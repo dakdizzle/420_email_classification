@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ca		1
+manufactura	1
+marie		1
+procter		1
+gamble		1
+here		1
+francisco	1

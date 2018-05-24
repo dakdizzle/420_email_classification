@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+bit		1
+refine		1
+thank		1
+risi		1
+questions	1
+youmonika	1
+karen		1
+see		1

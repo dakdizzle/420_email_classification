@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+please		1
+thank		1
+messages	1
+below		1
+print		1

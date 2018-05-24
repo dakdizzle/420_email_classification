@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+mark		1
+ramie		1
+m		1
+christmas	1
+thinks		1
+worried		1
+talk		1
+smaller		1
+don		1
+mind		1
+certainly	1
+tonight		1

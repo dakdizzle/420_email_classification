@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+paul		1
+relationship	1
+john		1
+know		1
+thanks		1
+anything	1
+great		1
+whole		1
+run		1
+personal	1
+update		1
+posoli		1
+need		1
+shop		1

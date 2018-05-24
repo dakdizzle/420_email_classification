@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+right		1
+looking		1
+geir		1
+night		1
+now		1
+tickets		1
+sunday		1
+call		1

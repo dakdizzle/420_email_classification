@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+html		1
+http		1
+interesting	1
+find		1
+marketfeatures	1
+yahoo		1
+www		1
+thought		1
+thestreet	1
+markets		1
+com		1

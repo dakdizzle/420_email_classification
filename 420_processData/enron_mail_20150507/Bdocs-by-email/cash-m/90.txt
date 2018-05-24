@@ -1,0 +1,21 @@
+NumWords	23
+NumTerms	18
+
+policies	3
+want		3
+unlawful	2
+others		1
+state		1
+wouldn		1
+leave		1
+conduct		1
+legality	1
+plus		1
+instead		1
+court		1
+matter		1
+admission	1
+believe		1
+michelle	1
+issue		1
+address		1

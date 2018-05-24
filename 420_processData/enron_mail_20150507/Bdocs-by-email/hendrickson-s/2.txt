@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+fitnessheaven	1
+resources	1
+http		1
+myworkout	1
+workouts	1
+www		1
+com		1

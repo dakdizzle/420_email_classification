@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+want		2
+going		2
+apartment	1
+early		1
+evening		1
+wednesday	1
+cat		1
+won		1
+leave		1
+even		1
+see		1
+sleep		1
+messy		1
+bond		1
+around		1
+m		1
+kill		1
+positive	1
+come		1
+go		1
+probably	1
+indrid		1
+chance		1
+over		1

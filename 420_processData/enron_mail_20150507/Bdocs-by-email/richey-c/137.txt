@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+call		2
+home		1
+m		1
+cell		1
+leaving		1
+finalize	1
+now		1
+don		1
+sunday		1
+ll		1

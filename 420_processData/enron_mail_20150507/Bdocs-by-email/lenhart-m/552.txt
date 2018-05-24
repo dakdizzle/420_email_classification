@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+great		1
+hot		1
+pic		1
+need		1
+isn		1
+gross		1
+tv		1
+see		1

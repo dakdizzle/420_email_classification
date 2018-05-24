@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+avs		1
+up		1
+again		1
+shit		1
+going		1
+pants		1

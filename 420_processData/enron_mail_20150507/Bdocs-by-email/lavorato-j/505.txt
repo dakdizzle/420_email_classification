@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+thanksdoes	1
+louise		1
+review		1
+year		1
+next		1

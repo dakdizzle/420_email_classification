@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+enron		2
+corp		2
+gas		1
+hodge		1
+owned		1
+marketing	1
+america		1
+subsidiary	1
+philip		1
+jeff		1
+north		1
+wholly		1
+natural		1

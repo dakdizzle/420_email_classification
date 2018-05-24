@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+ds		1
+hear		1
+pressuresdo	1
+until		1
+paso		1
+gas		1
+el		1
+myself		1
+work		1
+windowrock	1
+schedule	1
+gary		1

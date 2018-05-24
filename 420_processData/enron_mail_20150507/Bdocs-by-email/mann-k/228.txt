@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+pm		2
+need		2
+monday		1
+eb		1
+time		1
+location	1
+meet		1
+canada		1
+central		1
+schedule	1
+thanks		1
+gmt		1
+office		1
+change		1
+don		1
+mind		1
+elizabeth	1
+november	1
+crunch		1

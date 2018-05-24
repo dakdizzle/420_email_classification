@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+wrong		2
+talk		1
+action		1
+wrongyou	1
+actionme	1

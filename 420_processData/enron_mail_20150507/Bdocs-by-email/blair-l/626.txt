@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+lynn		1
+discuss		1
+morning		1
+together	1
+put		1
+meeting		1
+suppose		1
+john		1
+handout		1
+thanks		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+visa		1
+person		1
+guess		1
+differently	1
+offer		1
+obtaining	1
+look		1
+matter		1
+bit		1
+come		1
+accepted	1
+start		1
+work		1
+penalizing	1
+issue		1
+fact		1
+cost		1
+through		1

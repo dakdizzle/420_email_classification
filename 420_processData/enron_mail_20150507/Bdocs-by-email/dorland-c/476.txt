@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+presto		1
+coming		1
+make		1
+talk		1
+friday		1
+hopefully	1
+fletch		1
+chris		1
+office		1
+sense		1
+thursday	1
+makes		1
+probably	1
+town		1
+drop		1
+ll		1

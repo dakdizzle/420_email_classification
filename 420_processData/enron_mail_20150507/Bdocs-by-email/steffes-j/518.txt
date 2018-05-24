@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+out		1
+great		1
+improvement	1
+job		1
+back		1
+rates		1
+forward		1
+going		1
+ch		1
+market		1

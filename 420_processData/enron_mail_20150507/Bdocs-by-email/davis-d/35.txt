@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+being		1
+dropped		1
+grade		1
+due		1
+turned		1
+paper		1
+telling		1

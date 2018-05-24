@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+up		3
+man		1
+club		1
+tear		1
+hook		1
+hit		1
+around		1
+message		1
+sat		1
+weekend		1
+need		1
+uropa		1
+minor		1
+bad		1
+went		1
+tonight		1
+bed		1

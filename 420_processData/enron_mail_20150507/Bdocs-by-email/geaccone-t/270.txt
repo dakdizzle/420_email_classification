@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+tgeacco		2
+cn		2
+recipients	1
+geaccone	1
+filename	1
+na		1
+charges		1
+privileged	1
+eis		1
+tracy		1
+psti		1
+non		1
+enron		1
+ou		1
+asking		1
+thought		1

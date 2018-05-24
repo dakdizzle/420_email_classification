@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+message		1
+sick		1
+being		1
+friday		1
+rescheduling	1
+concerning	1

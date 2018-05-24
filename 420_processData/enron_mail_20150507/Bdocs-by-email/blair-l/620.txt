@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+message		1
+john		1
+resend		1
+original	1
+modify		1
+thanks		1

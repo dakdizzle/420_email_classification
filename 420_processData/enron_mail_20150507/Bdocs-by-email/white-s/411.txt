@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+region		1
+power		1
+position	1
+stacey		1
+represented	1
+company		1
+know		1
+month		1
+exposure	1
+thanks		1
+l		1
+please		1
+numbers		1
+need		1
+data		1
+new		1

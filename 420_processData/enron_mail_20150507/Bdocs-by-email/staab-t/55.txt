@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+gas		2
+please		2
+theresa		1
+make		1
+day		1
+lisa		1
+lost		1
+creek		1
+thanks		1
+call		1
+mmbtu		1
+deliveries	1
+northern	1
+deliver		1
+questions	1
+purchase	1
+additional	1
+original	1
+gid		1

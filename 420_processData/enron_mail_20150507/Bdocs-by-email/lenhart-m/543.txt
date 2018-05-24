@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+win		1
+mean		1
+even		1
+million		1
+didn		1

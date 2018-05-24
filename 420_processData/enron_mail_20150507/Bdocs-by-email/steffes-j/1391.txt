@@ -1,0 +1,15 @@
+NumWords	19
+NumTerms	12
+
+cn		4
+enron		2
+recipients	2
+ou		2
+na		2
+presto		1
+bradford	1
+kpresto		1
+fyi		1
+wbradfo		1
+william		1
+kevin		1

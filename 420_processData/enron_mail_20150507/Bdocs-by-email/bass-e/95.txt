@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+eric		2
+well		1
+wanted		1
+bass		1
+brett		1
+hope		1
+enron		1
+tell		1
+line		1
+mail		1
+address		1
+new		1
+com		1
+drop		1

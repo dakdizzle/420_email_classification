@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+saying		1
+thanksgiving	1
+go		1
+away		1
+over		1

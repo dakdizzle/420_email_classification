@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+hear		1
+today		1
+guess		1
+sounds		1
+announced	1
+people		1
+commerce	1
+less		1
+jeff		1
+best		1
+competition	1
+ugly		1
+laying		1
+means		1
+very		1

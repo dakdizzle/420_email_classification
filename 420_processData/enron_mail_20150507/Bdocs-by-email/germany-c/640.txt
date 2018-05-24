@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+ed		1
+mcmichael	1
+know		1
+parks		1
+both		1
+something	1
+forwarded	1
+monitoring	1
+believe		1
+questions	1
+more		1
+work		1
+joe		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+dynegy		1
+little		1
+really		1
+make		1
+being		1
+difference	1
+aren		1
+problem		1
+rough		1
+doesn		1

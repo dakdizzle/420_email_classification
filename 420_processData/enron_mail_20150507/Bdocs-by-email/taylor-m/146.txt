@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ve		1
+completed	1
+signed		1
+know		1
+far		1
+last		1
+negotiated	1
+week		1
+agreement	1
+actually	1

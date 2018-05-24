@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+presto		2
+kevin		2
+cn		2
+summaries	1
+meeting		1
+directly	1
+meetings	1
+kpresto		1
+rika		1
+recipients	1
+provide		1
+filename	1
+na		1
+pstplease	1
+thanks		1
+privileged	1
+distribution	1
+non		1
+enron		1
+ou		1
+attend		1
+internal	1

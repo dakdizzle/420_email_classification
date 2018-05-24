@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+together	1
+put		1
+pulp		1
+send		1
+forgot		1
+stacey		1
+recently	1
+monika		1
+presentation	1

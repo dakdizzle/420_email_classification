@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+energy		1
+warmer		1
+email		1
+send		1
+description	1
+see		1
+marketing	1
+brief		1
+getting		1

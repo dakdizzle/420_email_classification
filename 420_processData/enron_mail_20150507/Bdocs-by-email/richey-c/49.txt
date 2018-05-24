@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+option		1
+free		1
+consider	1
+call		1

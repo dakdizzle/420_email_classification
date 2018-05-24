@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+sshackl		2
+cn		2
+sara		2
+stacy		1
+redlined	1
+shackleton	1
+attached	1
+pstkim		1
+recipients	1
+sorry		1
+form		1
+filename	1
+na		1
+privileged	1
+crude		1
+version		1
+non		1
+enron		1
+mixup		1
+ou		1
+need		1
+references	1
+add		1

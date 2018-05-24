@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+cn		2
+up		1
+scholtes	1
+thank		1
+jjarnagi	1
+recipients	1
+na		1
+spouse		1
+youdiana	1
+enron		1
+please		1
+sign		1
+myself		1
+ou		1
+josie		1
+jarnagin	1

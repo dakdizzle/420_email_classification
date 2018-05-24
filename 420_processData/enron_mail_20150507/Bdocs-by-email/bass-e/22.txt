@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+send		1
+links		1
+know		1
+weather		1
+shanna		1
+fairfield	1
+issues		1
+virus		1
+enron		1
+quarantined	1
+eric		1
+looked		1
+mail		1
+c		1
+waco		1
+reason		1

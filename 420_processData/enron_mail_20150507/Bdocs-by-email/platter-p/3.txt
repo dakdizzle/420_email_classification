@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+look		1
+please		1
+attached	1
+forward		1
+kate		1
+workin		1
+see		1

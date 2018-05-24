@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+erec		1
+don		1
+azurix		1
+worry		1

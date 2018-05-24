@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+avs		1
+yours		1
+now		1
+lands		1
+series		1
+nd		1
+defense		1
+answer		1
+min		1
+worked		1
+good		1
+feeling		1
+night		1
+last		1
+don		1
+think		1
+plane		1

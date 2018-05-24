@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+monday		1
+discuss		1
+open		1
+plan		1
+bt		1

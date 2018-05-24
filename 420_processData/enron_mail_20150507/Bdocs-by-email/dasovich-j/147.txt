@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+time		2
+make		1
+jeff		1
+call		1

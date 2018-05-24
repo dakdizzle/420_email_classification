@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+stuff		1
+coming		1
+regardsjohnp	1
+kiskill		1
+meeting		1
+time		1
+orlando		1
+working		1
+paintings	1
+electro		1
+out		1
+m		1
+rebeccathe	1
+american	1
+south		1
+data		1
+week		1
+making		1
+deep		1
+still		1
+skilling	1
+ll		1
+next		1

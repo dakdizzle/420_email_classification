@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+america		1
+morning		1
+good		1
+power		1
+please		1
+scheduling	1
+north		1
+work		1
+sempergerwest	1
+cara		1
+supervisorenron	1
+call		1

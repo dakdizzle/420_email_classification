@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+terminated	1
+counterparties	1
+stacey		1
+tim		1
+today		1
+response	1
+clarifies	1
+merry		1
+prepayment	1
+regarding	1
+christmas	1
+hope		1
+transactions	1
+spoke		1
+mail		1
+constructed	1

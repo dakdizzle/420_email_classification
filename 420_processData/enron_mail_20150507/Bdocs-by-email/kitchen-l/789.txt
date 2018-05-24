@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+wrong		1
+liz		1
+persontrying	1
+abigail		1
+sorry		1
+taylor		1

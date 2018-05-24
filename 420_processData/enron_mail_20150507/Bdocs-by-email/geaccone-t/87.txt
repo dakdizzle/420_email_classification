@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+soon		1
+possible	1
+know		1
+comments	1
+thanks		1

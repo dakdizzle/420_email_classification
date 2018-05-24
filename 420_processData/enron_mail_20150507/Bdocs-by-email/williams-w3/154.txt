@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+starting	1
+magazine	1
+subscription	1
+bear		1

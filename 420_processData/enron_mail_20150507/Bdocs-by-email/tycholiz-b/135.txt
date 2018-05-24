@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+together	1
+report		1
+today		1
+pls		1
+proposed	1
+along		1
+bt		1
+pipeline	1
+mara		1
+put		1
+pacific		1
+discussion	1
+planned		1
+dates		1
+sites		1
+start		1
+sierra		1
+need		1
+kern		1
+generation	1
+summary		1

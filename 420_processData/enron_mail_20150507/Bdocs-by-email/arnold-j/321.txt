@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+hey		1
+evergreen	1
+up		1
+signed		1
+know		1
+jason		1
+one		1
+print		1
+stupid		1

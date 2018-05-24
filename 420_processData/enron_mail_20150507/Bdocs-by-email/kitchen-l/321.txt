@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+kitchen		2
+enron		2
+comx		1
+webb		1
+louise		1
+koehler		1
+filename	1
+psti		1
+lx		1
+sort		1
+please		1
+presumed	1
+origin		1
+wes		1
+jay		1
+transferred	1
+com		1

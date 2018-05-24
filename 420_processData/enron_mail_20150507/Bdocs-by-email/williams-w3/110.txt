@@ -1,0 +1,13 @@
+NumWords	13
+NumTerms	10
+
+williams	3
+bill		2
+enron		1
+comx		1
+go		1
+origin		1
+shane		1
+filename	1
+iiii		1
+yelverton	1

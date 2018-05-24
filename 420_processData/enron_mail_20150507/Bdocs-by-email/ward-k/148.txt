@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+vs		1
+look		1
+different	1
+socal		1
+volumes		1
+guys		1
+billed		1
+thanks		1

@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+married		1
+operation	1
+now		1
+mc		1
+enew		1
+th		1
+purchased	1
+see		1
+anyway		1
+life		1
+colorado	1
+gets		1
+around		1
+moved		1
+rollercoaster	1
+waiting		1
+still		1
+trading		1
+here		1

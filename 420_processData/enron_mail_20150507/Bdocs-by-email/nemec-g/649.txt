@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+cash		1
+ok		1
+bridgeline	1
+know		1
+property	1
+attached	1
+review		1
+form		1
+sale		1
+please		1
+rakhi		1
+questions	1
+forward		1
+crawfish	1

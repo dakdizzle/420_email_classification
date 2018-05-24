@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+vm		1
+inherited	1
+left		1
+file		1
+call		1
+right		1
+please		1
+carlossheila	1
+akshay		1
+told		1
+sager		1
+thankselizabeth	1
+hi		1

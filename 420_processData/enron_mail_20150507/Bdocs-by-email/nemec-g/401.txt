@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+mexicana	2
+cobre		1
+ok		1
+please		1
+attached	1
+forward		1
+review		1
+stephanie	1
+execution	1
+de		1
+amendment	1
+confirm		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+go		2
+put		1
+eric		1
+ahead		1
+noon		1
+website		1
+through		1
+drop		1
+add		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+limitations	1
+meeting		1
+mery		1
+work		1
+describing	1
+phillip		1
+sounds		1
+better		1

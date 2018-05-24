@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+pl		1
+exchange	1
+friday		1
+thursday	1
+closed		1
+know		1
+far		1
+books		1
+calcing		1
+next		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+pl		1
+further		1
+fixed		1
+know		1
+deals		1
+confirm		1
+something	1
+priced		1
+basis		1
+please		1
+nx		1
+need		1
+already		1
+deal		1

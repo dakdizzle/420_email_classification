@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+minute		1
+ve		1
+johngive	1
+bring		1
+chris		1
+tickets		1
+ll		1
+call		1

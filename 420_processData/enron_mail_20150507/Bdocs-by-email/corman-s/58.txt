@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+early		1
+great		1
+mentioned	1
+traveling	1
+dates		1
+december	1
+work		1
+late		1
+november	1

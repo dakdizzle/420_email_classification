@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+email		1
+await		1
+mike		1
+thanks		1
+ll		1

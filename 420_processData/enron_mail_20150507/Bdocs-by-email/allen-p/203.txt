@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+dwight		1
+camera		1
+shoot		1
+jean		1
+forster		1
+phillip		1
+music		1
+out		1
+video		1
+edit		1
+town		1
+using		1
+dave		1
+think		1
+add		1

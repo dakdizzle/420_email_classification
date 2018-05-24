@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+plz		1
+jeff		1
+covered		1
+whether		1
+renewal		1
+didn		1
+call		1

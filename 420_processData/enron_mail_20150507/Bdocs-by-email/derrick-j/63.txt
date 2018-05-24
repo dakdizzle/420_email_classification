@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+elaine		2
+derrick		2
+information	1
+comx		1
+pstfrank	1
+filename	1
+requested	1
+overturf	1
+jim		1
+jx		1
+enron		1
+jr		1
+james		1
+origin		1

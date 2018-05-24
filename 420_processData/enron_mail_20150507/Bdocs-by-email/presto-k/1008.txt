@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+book		2
+bradford	1
+retail		1
+confirmation	1
+bill		1
+sager		1
+issue		1
+wholesale	1
+elizabeth	1

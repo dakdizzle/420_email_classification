@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+both		1
+girl		1
+best		1
+wonderful	1
+fantastic	1
+congratulations	1
+very		1
+such		1
+think		1
+wish		1
+laura		1
+news		1

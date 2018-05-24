@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+message		1
+another		1
+yikes		1
+thanks		1

@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+m		2
+available	2
+pm		1
+time		1
+up		1
+wed		1
+today		1
+late		1
+wanted		1
+gray		1
+charges		1
+thanks		1
+capacity	1
+transportation	1
+kim		1
+soon		1
+halley		1
+follow		1
+telephone	1
+anytime		1
+tomorrow	1
+before		1
+jo		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+peck		1
+movie		1
+willow		1

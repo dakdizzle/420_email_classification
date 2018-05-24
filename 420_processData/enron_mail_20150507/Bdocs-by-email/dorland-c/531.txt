@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+home		2
+hear		1
+shout		1
+know		1
+tommorow	1
+yesterday	1
+talked		1
+minute		1
+anything	1
+cell		1
+exactly		1
+idea		1
+told		1
+embrace		1
+jl		1
+give		1
+think		1
+ll		1
+didn		1

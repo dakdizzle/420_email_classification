@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+latest		1
+regarding	1
+good		1
+greg		1
+compression	1
+services	1
+enron		1
+idea		1
+chance		1
+developments	1
+think		1
+brief		1

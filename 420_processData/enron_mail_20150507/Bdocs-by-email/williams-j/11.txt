@@ -1,0 +1,22 @@
+NumWords	35
+NumTerms	19
+
+jason		4
+happy		4
+birthday	4
+williams	3
+andrea		3
+hill		2
+enron		2
+com		2
+time		1
+ect		1
+uk		1
+hou		1
+forwarded	1
+good		1
+hope		1
+co		1
+bhs		1
+amto		1
+subject		1

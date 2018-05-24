@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ds		1
+updated		1
+hey		1
+revised		1
+spreadsheet	1
+use		1
+enpower		1
+th		1
+didn		1

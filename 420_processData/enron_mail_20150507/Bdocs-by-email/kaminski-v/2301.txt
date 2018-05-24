@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+italian		2
+suggesting	1
+studies		1
+bharati		1
+calling		1
+tuesday		1
+rakesh		1
+associate	1
+vince		1
+thinking	1
+introduce	1
+gina		1
+week		1
+lunch		1
+next		1

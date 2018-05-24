@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+shoot		1
+folks		1
+barely		1
+wanted		1
+proofed		1
+out		1
+something	1
+apologies	1
+holiday		1
+great		1
+jeff		1
+best		1
+sketchy		1
+very		1
+here		1

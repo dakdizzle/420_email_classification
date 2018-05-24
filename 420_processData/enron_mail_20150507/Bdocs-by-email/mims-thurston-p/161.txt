@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+someone		2
+thanks		2
+much		1
+fax		1
+copy		1
+know		1
+working		1
+once		1
+call		1
+morning		1
+way		1
+good		1
+please		1
+executed	1
+again		1
+document	1
+pleasure	1
+rob		1

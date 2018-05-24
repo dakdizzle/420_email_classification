@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+little		1
+changed		1
+party		1
+email		1
+chicks		1
+bear		1
+favor		1
+steven		1
+gone		1
+out		1
+hot		1
+opie		1
+voted		1
+numbers		1
+night		1
+jobs		1
+whitt		1
+bad		1
+saturday	1
+new		1

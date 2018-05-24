@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+list		2
+out		1
+down		1
+send		1
+distribution	1
+know		1
+now		1
+want		1
+added		1
+week		1
+process		1
+times		1

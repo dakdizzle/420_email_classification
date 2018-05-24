@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+reporting	1
+sitting		1
+ll		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+handle		1
+john		1
+want		1
+michelle	1

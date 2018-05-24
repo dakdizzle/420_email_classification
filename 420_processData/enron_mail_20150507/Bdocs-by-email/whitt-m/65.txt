@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+mark		1
+enjoyed		1
+fun		1
+stay		1
+great		1
+touch		1
+again		1
+father		1
+having		1
+proud		1
+love		1
+always		1
+play		1

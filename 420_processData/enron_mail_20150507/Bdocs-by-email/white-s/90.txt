@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+much		1
+owe		1
+stacey		1
+thank		1
+yes		1

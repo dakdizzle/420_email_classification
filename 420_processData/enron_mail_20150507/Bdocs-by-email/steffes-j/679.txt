@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+together	1
+consumer	1
+relationship	1
+true		1
+jim		1
+put		1
+buxton		1
+advocate	1
+mecc		1
+guy		1
+work		1
+thought		1
+magic		1

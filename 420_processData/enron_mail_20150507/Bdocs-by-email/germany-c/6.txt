@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+gave		2
+duff		1
+easy		1
+list		1
+litte		1
+black		1
+lost		1
+yes		1
+though		1
+see		1
+pretty		1
+nose		1

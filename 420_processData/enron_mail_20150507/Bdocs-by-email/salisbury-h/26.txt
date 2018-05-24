@@ -1,0 +1,11 @@
+NumWords	16
+NumTerms	8
+
+mw		8
+nov		2
+day		1
+available	1
+enpower		1
+hours		1
+oasis		1
+volume		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+theresa		1
+mix		1
+cheryl		1
+revised		1
+up		1
+attention	1
+thank		1
+ladies		1
+sorry		1
+bringing	1
+september	1
+thanks		1
+purchase	1
+here		1

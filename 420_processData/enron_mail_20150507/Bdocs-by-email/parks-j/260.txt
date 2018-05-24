@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+name		1
+book		1
+whats		1

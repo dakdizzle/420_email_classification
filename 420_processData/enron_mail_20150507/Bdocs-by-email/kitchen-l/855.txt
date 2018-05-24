@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+want		2
+liz		1
+registertalk	1
+please		1
+nicki		1
+attend		1
+see		1
+help		1

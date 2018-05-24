@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+coming		1
+different	1
+parts		1
+yahoo		1
+houston		1
+easiest		1
+hoping		1
+way		1
+dq		1
+people		1
+quandaryi	1
+several		1
+made		1
+onewhat		1
+pre		1
+think		1

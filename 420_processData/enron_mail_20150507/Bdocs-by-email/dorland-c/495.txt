@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+day		1
+power		1
+range		1
+next		1

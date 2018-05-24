@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+leslie		1
+reviewed	1
+left		1
+yesterday	1

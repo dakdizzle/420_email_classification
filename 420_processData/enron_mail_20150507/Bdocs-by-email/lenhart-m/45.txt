@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+matthew		2
+dame		1
+hate		1
+tim		1
+lenhartx	1
+today		1
+filename	1
+down		1
+psti		1
+office		1
+lenhart		1
+need		1
+notre		1

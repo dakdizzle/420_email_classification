@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+immullett	1
+msn		1
+internal	1

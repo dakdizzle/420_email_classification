@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+questions	1
+read		1
+richard		1

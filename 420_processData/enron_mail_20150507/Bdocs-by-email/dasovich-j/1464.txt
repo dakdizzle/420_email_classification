@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+soon		1
+jeff		1
+best		1
+work		1
+leave		1
+phone		1
+mail		1
+see		1
+number		1
+voice		1
+thanks		1

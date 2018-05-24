@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+invoice		2
+entered		2
+items		1
+demand		1
+credit		1
+up		1
+seperate	1
+show		1
+give		1
+dt		1

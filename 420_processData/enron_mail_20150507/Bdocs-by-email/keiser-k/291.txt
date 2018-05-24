@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+terminated	1
+done		1
+scott		1
+except		1
+deals		1
+pgl		1
+kk		1

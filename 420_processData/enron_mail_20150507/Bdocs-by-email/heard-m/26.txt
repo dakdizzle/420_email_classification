@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+send		1
+courier		1
+certificates	1
+gua		1
+ranty		1
+overnight	1
+via		1
+enron		1
+executed	1
+received	1
+corp		1
+include		1
+termination	1

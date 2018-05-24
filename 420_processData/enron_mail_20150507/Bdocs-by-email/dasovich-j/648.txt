@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+m		1
+doable		1
+particular	1
+edison		1
+view		1
+hoping		1
+reason		1
+informed	1
+ll		1

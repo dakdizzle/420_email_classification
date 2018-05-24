@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+vince		1
+john		1
+replace		1
+additional	1
+use		1
+material	1
+attachedor	1
+expand		1
+slides		1

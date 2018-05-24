@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+approximately	2
+highly		1
+customer	1
+energy		1
+order		1
+asset		1
+per		1
+vast		1
+majority	1
+december	1
+attached	1
+month		1
+recovered	1
+see		1
+worth		1
+ray		1
+prepaid		1
+book		1
+sell		1
+maintain	1
+line		1
+bottom		1
+need		1
+request		1

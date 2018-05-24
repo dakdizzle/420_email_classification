@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ds		1
+units		1
+control		1
+project		1
+know		1
+gas		1
+unavailable	1
+going		1
+proceed		1

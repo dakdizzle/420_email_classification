@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+home		1
+fun		1
+m		1
+talk		1
+tomorrow	1
+going		1
+tonight		1

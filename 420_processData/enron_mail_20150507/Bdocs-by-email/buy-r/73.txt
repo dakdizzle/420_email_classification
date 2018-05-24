@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+rick		1
+received	1
+john		1
+origin		1
+idea		1

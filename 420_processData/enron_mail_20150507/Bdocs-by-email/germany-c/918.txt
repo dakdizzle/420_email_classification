@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+colors		2
+photo		2
+pregnant	1
+different	1
+now		1
+ve		1
+home		1
+m		1
+good		1
+immer		1
+started		1
+work		1
+going		1
+though		1
+process		1
+note		1
+add		1

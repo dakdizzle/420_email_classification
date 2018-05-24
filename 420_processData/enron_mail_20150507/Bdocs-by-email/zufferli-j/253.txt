@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+nella		2
+cn		2
+directly	1
+ncappel		1
+recipients	1
+sorry		1
+milnthorp	1
+na		1
+enron		1
+cappelletto	1
+ago		1
+ou		1
+replied		1
+rob		1

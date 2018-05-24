@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+forgot		1
+mhc		1
+fyi		1
+forward		1
+earlier		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+tough		1
+good		1
+rick		1
+glad		1
+crowd		1
+seemed		1
+luck		1
+help		1

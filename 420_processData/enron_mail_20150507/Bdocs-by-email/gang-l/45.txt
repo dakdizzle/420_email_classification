@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+please		1
+lisa		1
+know		1
+faxed		1
+don		1
+receive		1

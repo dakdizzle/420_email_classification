@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+enjoyelizabeth	1
+sager		1

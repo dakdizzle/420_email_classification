@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+monday		1
+eb		1
+up		1
+george		1
+know		1
+marie		1
+consolidated	1
+thanks		1
+call		1
+something	1
+office		1
+please		1
+comes		1
+sara		1
+coned		1
+scheduled	1
+attend		1
+august		1
+edison		1
+inform		1
+conference	1
+diskin		1

@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+rhaysle		2
+cn		2
+pstdrew		1
+recipients	1
+money		1
+hayslett	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+want		1
+tell		1
+ou		1
+rod		1
+correct		1
+wired		1

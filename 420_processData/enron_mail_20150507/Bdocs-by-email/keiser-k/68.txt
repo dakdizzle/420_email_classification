@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+sanjeev		1
+dump		1
+friday		1
+thursday	1
+weekend		1
+again		1
+before		1
+need		1
+data		1
+help		1
+thanks		1
+here		1

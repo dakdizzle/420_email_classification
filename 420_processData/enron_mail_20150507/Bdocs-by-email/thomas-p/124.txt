@@ -1,0 +1,23 @@
+NumWords	45
+NumTerms	20
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+lcampbel	1
+larry		1
+patrick		1
+stepenovitch	1
+peter		1
+makkai		1
+benjamin	1
+phanse		1
+pmakkai		1
+jstepeno	1
+campbell	1
+brogers		1
+rogers		1
+joe		1
+hanse		1

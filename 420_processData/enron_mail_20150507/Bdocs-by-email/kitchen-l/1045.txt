@@ -1,0 +1,12 @@
+NumWords	24
+NumTerms	9
+
+metafile	6
+picture		6
+embedded	6
+mosquito	1
+houston		1
+below		1
+problem		1
+see		1
+note		1

@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+guys		2
+see		2
+going		2
+newest		1
+know		1
+xii		1
+championship	1
+especially	1
+wanted		1
+come		1
+edition		1
+night		1
+mike		1
+town		1
+dg		1
+saturday	1
+game		1
+big		1
+dallas		1

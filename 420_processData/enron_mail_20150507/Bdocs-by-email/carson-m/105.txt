@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+coming		1
+cjs		1
+stater		1
+mc		1
+world		1

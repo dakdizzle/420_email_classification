@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+copy		2
+ll		2
+send		1
+everything	1
+talk		1
+well		1
+guess		1
+kevin		1
+never		1
+soon		1
+hope		1
+believe		1
+please		1
+pay		1
+interviewwas	1
+going		1
+turned		1
+over		1

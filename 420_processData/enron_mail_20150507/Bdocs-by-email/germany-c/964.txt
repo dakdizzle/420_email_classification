@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+whatever	1
+illegal		1
+sent		1
+naughty		1

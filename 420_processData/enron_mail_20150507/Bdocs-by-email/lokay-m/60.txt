@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+tq		1
+increase	1
+days		1
+approved	1
+amendment	1

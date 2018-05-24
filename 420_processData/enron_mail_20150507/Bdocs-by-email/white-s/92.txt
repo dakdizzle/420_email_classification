@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+export		1
+stacey		1
+etc		1

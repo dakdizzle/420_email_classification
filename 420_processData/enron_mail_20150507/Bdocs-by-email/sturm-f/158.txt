@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+circle		1
+right		1
+gossip		1
+deep		1
+pretty		1

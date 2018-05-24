@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+look		1
+ice		1
+az		1
+thought		1

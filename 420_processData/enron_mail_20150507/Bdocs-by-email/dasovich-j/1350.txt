@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+nyj		1
+nyg		1
+atlanta		1
+gb		1
+louis		1
+oak		1
+miamia		1
+sf		1
+denver		1
+sd		1
+phil		1
+minn		1
+jack		1
+pitt		1
+balt		1
+st		1

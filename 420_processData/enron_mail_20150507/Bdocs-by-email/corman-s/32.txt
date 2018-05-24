@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+gift		2
+buyer		1
+first		1
+list		1
+please		1
+receipient	1
+name		1
+clarify		1

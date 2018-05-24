@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+right		1
+assuming	1
+spelling	1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+coming		1
+seems		1
+model		1
+alarm		1
+alan		1
+slow		1
+see		1
+out		1
+check		1
+ny		1
+please		1
+thanksben	1
+deal		1

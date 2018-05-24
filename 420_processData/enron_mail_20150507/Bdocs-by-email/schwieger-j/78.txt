@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+school		2
+taking		1
+party		1
+early		1
+interview	1
+day		1
+grade		1
+graduation	1
+karen		1
+son		1
+thanks		1
+jim		1
+available	1
+attend		1
+last		1

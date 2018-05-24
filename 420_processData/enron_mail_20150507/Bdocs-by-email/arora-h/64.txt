@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+zone		2
+pjm		2
+lmp		1
+ny		1
+location	1
+west		1
+exact		1
+terms		1
+hub		1
+east		1
+connected	1

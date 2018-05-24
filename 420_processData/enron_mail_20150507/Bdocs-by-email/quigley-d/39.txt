@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+change		2
+deal		2
+dquigle		1
+confirms	1
+gas		1
+daily		1
+nymex		1
+filename	1
+quigleyx	1
+pstwest		1
+privileged	1
+dutch		1
+juanplease	1
+non		1
+swap		1
+internal	1
+san		1

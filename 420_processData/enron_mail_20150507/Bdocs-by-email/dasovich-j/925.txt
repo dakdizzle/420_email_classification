@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+know		2
+barely		1
+pleased		1
+accomplished	1
+sf		1
+mission		1
+pie		1
+good		1
+ribbing		1
+people		1
+video		1
+office		1
+signed		1
+skin		1
+approaching	1
+expression	1
+alligator	1
+ll		1

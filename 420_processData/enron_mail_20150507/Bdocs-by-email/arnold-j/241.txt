@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+something	1
+wine		1
+easy		1
+m		1
+suggestion	1
+movie		1
+central		1
+market		1
+ll		1

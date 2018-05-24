@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+stuff		1
+early		1
+john		1
+really		1
+sent		1
+employee	1
+enron		1
+being		1
+signed		1
+year		1
+last		1
+stopped		1
+allow		1

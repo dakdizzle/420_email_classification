@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+kh		1
+copy		1
+lorna		1

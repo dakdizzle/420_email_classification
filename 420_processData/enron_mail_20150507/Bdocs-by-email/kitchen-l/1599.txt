@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+lkitchen	2
+cn		2
+kitchen		1
+end		1
+ups		1
+wrtie		1
+louise		1
+recipients	1
+fine		1
+etc		1
+world		1
+filename	1
+na		1
+privileged	1
+pstok		1
+non		1
+enron		1
+one		1
+ou		1
+issue		1
+eol		1
+think		1

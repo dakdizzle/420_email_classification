@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+eb		1
+fax		1
+company		1
+legal		1
+houston		1
+street		1
+person		1
+tracebel	1
+america		1
+enron		1
+texas		1
+dperlin		1
+thanksdebra	1
+trader		1
+north		1
+tell		1
+smith		1
+business	1
+perlingiereenron	1
+sub		1

@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+extreme		1
+stacey		1
+thank		1
+min		1
+excel		1
+regarding	1
+type		1
+less		1
+believe		1
+more		1
+forward		1
+work		1
+need		1
+going		1
+amount		1
+reports		1

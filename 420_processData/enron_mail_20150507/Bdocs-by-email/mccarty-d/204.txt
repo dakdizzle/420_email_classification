@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+need		2
+steve		1
+now		1
+extra		1
+performance	1
+looks		1
+help		1
+dan		1
+team		1
+numbers		1
+use		1
+bonus		1
+going		1
+based		1

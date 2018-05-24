@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+harass		1
+wont		1

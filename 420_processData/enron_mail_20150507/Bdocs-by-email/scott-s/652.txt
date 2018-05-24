@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+good		2
+cafeteria	1
+typing		1
+sounds		1
+luck		1
+hit		1
+here		1
+ll		1

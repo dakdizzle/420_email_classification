@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+internet	1
+regular		1
+cash		1
+supposed	1
+hadnt		1
+trying		1
+system		1
+security	1
+out		1
+weak		1
+issues		1
+two		1
+futures		1
+delayed		1
+come		1
+solved		1
+firewalls	1
+ago		1
+settle		1
+use		1
+weeks		1
+access		1
+very		1
+oct		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+notice		1
+email		1
+titled		1
+koebernick	1
+response	1
+detention	1
+yesterday	1
+morning		1
+sent		1
+regards		1
+agenda		1
+message		1
+wendy		1
+wrote		1
+below		1
+candis		1
+comments	1
+original	1

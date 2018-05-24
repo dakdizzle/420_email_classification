@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+weekend		3
+th		2
+make		1
+know		1
+course		1
+spend		1
+flexible	1
+letme		1
+alone		1
+anything	1
+thetime		1
+entire		1
+invited		1
+kr		1
+another		1
+dad		1
+works		1
+move		1
+onlyproblem	1
+consumed	1
+ll		1
+always		1

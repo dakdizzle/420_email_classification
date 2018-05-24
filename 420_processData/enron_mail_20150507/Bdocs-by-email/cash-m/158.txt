@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+comments	2
+issues		1
+today		1
+michelle	1
+review		1
+provide		1
+plane		1
+ll		1
+yesterday	1

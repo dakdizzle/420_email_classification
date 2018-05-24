@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+far		1
+probably	1
+truth		1

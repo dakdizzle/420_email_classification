@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+customer	1
+rsvp		1
+tracy		1
+schwieger	1
+extravaganza	1
+guest		1
+appreciation	1
+myself		1
+thanks		1

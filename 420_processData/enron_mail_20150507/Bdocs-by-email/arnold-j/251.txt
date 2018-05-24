@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+problems	1
+years		1
+finance		1
+good		1
+past		1
+lost		1
+influential	1
+phone		1
+world		1
+charger		1

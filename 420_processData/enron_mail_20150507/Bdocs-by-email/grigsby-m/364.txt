@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+docframe	1
+pl		1
+doc		1
+online		1
+http		1
+edgar		1
+bin		1
+www		1
+irsec		1
+nav		1
+nad		1
+com		1

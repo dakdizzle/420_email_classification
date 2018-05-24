@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+up		1
+know		1
+bubble		1
+appreciate	1
+routing		1
+input		1
+dan		1
+begins		1
+thanks		1
+anything	1
+specific	1
+pertaining	1
+line		1
+pat		1

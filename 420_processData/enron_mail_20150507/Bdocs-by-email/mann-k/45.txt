@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+pressroom	1
+enron		1
+http		1
+www		1
+corp		1
+chapter		1
+com		1

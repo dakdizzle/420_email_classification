@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+david		2
+cinergy		2
+avila		2
+aol		1
+send		1
+jackie		1
+id		1
+information	1
+gave		1
+spoken		1
+scheduling	1
+contact		1
+number		1
+txu		1
+call		1
+please		1
+downstream	1
+weekend		1
+upstream	1
+didn		1

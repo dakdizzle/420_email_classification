@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+queue		1
+email		1
+send		1
+dog		1
+invoice		1
+ciao		1
+john		1
+blue		1
+ct		1
+explanation	1
+want		1
+corp		1
+charge		1
+kay		1
+brief		1

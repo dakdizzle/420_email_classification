@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+klein		1
+agreed		1
+originals	1
+fax		1
+up		1
+finalize	1
+phone		1
+bob		1
+follow		1
+tomorrow	1
+changes		1
+going		1
+agreement	1

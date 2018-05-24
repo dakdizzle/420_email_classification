@@ -1,0 +1,25 @@
+NumWords	31
+NumTerms	22
+
+com		5
+fenner		2
+john		2
+chet		2
+knipe		2
+chambers	2
+net		1
+brian		1
+wollam		1
+bmc		1
+zander		1
+r		1
+bisys		1
+brianc		1
+erwollam	1
+constantine	1
+msn		1
+chad		1
+hotmail		1
+saltgrass	1
+att		1
+erik		1

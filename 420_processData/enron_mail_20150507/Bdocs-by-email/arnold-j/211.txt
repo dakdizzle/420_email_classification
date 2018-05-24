@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+leg		1
+thing		1
+until		1
+wednesday	1
+guarantee	1
+pulling		1
+again		1
+work		1
+don		1
+still		1

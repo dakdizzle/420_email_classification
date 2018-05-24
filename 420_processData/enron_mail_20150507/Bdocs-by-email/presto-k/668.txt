@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+risk		2
+management	2
+closest		1
+power		1
+more		1
+yes		1
+trading		1
+appropriate	1

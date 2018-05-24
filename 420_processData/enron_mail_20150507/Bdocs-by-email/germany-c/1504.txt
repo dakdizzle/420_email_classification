@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+care		1
+check		1
+know		1
+work		1
+everyone	1
+maybe		1
+individual	1
+don		1
+caring		1

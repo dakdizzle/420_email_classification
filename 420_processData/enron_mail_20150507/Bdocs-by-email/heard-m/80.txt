@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+time		1
+hard		1
+proper		1
+english		1
+following	1
+whew		1
+such		1

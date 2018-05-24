@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+andy		1
+riddle		1
+amy		1
+right		1
+received	1
+know		1
+nothing		1
+yueh		1
+answer		1

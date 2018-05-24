@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+anything	2
+sure		2
+heard		1
+stacey		1
+keep		1
+loop		1
+wanted		1
+enpower		1
+donnie		1
+ees		1
+wasn		1
+testing		1
+need		1

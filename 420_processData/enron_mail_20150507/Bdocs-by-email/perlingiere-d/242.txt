@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+use		2
+gisb		2
+customer	1
+interruptible	1
+know		1
+days		1
+indefinitely	1
+draft		1
+keep		1
+fine		1
+firm		1
+mind		1

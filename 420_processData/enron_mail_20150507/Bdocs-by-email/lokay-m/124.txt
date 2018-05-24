@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+room		1
+class		1
+still		1
+thanks		1

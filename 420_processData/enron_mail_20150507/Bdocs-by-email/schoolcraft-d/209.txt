@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+cn		2
+dschool		2
+darrell		1
+recipients	1
+schoolcraft	1
+web		1
+filename	1
+na		1
+site		1
+privileged	1
+posted		1
+non		1
+enron		1
+pstthe		1
+nng		1
+ou		1
+below		1

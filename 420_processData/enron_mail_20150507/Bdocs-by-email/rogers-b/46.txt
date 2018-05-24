@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+floor		2
+trading		2
+talk		1
+today		1
+origination	1
+mover		1
+later		1
+actually	1
+call		1
+used		1
+ben		1
+back		1
+work		1
+st		1

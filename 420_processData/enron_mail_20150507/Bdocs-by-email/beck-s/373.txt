@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+meeting		1
+sally		1
+paid		1
+one		1
+invitation	1
+attend		1
+associates	1
+analysts	1

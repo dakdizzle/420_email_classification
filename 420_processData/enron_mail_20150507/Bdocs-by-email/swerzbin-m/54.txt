@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+make		1
+please		1
+know		1
+returning	1
+mike		1
+sure		1
+aug		1
+ticketed	1
+checking	1
+thanks		1

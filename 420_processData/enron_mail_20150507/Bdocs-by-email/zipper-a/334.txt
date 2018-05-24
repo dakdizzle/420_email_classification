@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+azipper		2
+jv		2
+cn		2
+zipper		1
+recipients	1
+filename	1
+na		1
+privileged	1
+andy		1
+put		1
+psti		1
+non		1
+enron		1
+please		1
+book		1
+bot		1
+ou		1
+mine		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+verbally	1
+follow		1
+up		1

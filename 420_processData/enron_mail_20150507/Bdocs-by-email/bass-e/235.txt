@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+dynegy		1
+ruggles		1
+enron		1
+happy		1
+work		1
+interest	1
+going		1
+field		1
+hour		1

@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+today		2
+m		2
+sit		1
+free		1
+time		1
+current		1
+look		1
+down		1
+anytime		1
+trader		1
+work		1
+auto		1
+dave		1
+sometime	1
+trading		1

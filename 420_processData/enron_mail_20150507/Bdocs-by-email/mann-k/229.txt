@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+letter		2
+gsa		2
+tasking		2
+final		1
+approve		1
+terrific	1
+see		1
+thanks		1
+both		1
+really		1
+one		1
+approval	1
+initial		1
+need		1
+before		1
+kay		1
+deal		1
+give		1

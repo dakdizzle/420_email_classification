@@ -1,0 +1,10 @@
+NumWords	9
+NumTerms	7
+
+contact		2
+phone		2
+home		1
+natalie		1
+emergency	1
+name		1
+bondarevaemergency	1

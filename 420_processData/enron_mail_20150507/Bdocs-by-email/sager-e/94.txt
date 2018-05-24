@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+great		1
+thursday	1
+sager		1
+see		1
+elizabeth	1
+ll		1

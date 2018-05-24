@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+confusion	1
+m		1
+theresa		1
+paul		1
+asap		1
+talk		1
+back		1
+sorry		1
+gerald		1

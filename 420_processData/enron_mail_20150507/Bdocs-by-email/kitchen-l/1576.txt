@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+finance		1
+guys		1
+rogue		1
+meant		1

@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+please		2
+nancy		2
+pstattached	1
+mclaughlin	1
+hernandez	1
+emclaug		1
+comx		1
+response	1
+find		1
+filename	1
+ex		1
+thanks		1
+call		1
+privileged	1
+non		1
+enron		1
+questions	1
+book		1
+origin		1
+errol		1
+e		1
+mail		1
+request		1

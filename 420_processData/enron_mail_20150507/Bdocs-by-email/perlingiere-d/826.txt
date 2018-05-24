@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+cn		2
+dperlin		2
+pstattached	1
+industries	1
+draft		1
+recipients	1
+willamette	1
+filename	1
+na		1
+requested	1
+privileged	1
+master		1
+non		1
+enron		1
+ou		1
+agreement	1
+perlingiere	1
+debra		1

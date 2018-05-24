@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+value		1
+m		1
+hot		1
+bust		1
+leann		1
+rhymesbig	1
+wasabi		1
+rimesbecause	1

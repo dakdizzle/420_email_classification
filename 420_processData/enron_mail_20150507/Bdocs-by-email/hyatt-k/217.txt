@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+trial		1
+useful		1
+free		1
+cost		1
+period		1

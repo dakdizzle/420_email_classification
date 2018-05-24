@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+taking		1
+issues		1
+starting	1
+jeff		1
+memo		1
+before		1
+break		1

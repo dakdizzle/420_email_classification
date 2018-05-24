@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+thanks		2
+issues		1
+good		1
+being		1
+stacey		1
+personnel	1
+suggestions	1
+again		1
+sound		1
+top		1

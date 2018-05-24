@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+done		1
+conf		1
+experian	1
+transunion	1
+equifax		1

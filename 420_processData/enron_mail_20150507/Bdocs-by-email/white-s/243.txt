@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+send		2
+information	2
+please		2
+make		1
+credit		1
+stacey		1
+well		1
+sending		1
+phone		1
+etc		1
+thanks		1
+via		1
+out		1
+something	1
+giving		1
+requests	1
+var		1
+banks		1
+mail		1
+sure		1
+over		1

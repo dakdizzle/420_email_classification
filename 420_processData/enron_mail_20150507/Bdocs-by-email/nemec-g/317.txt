@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+revised		2
+nemec		2
+agency		2
+gerald		2
+redlined	1
+per		1
+attached	1
+ect		1
+fyi		1
+review		1
+tycholiz	1
+hou		1
+forwarded	1
+version		1
+clean		1
+discussion	1
+enron		1
+please		1
+barry		1
+provided	1
+subject		1
+notes		1
+agreement	1
+enronxgate	1

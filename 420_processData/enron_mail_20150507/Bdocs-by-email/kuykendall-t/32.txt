@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+tkuyken		2
+login		1
+pword		1

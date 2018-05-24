@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+attempt		1
+april		1
+louisei		1
+john		1
+go		1
+toronto		1
+lay		1
+th		1

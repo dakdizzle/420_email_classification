@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ve		1
+email		1
+ok		1
+forward		1
+added		1

@@ -1,0 +1,20 @@
+NumWords	21
+NumTerms	17
+
+nice		3
+wear		3
+slacks		1
+thing		1
+suit		1
+friday		1
+shirt		1
+see		1
+dinner		1
+jacket		1
+kind		1
+maybe		1
+necessary	1
+mo		1
+don		1
+think		1
+didn		1

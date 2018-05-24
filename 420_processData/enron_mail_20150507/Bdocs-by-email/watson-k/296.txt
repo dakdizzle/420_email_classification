@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+kwatson		2
+cn		2
+mark		1
+paul		1
+craig		1
+pstmr		1
+recipients	1
+watson		1
+filename	1
+na		1
+thanks		1
+privileged	1
+kim		1
+kimberly	1
+many		1
+list		1
+distribution	1
+non		1
+enron		1
+please		1
+ou		1
+add		1

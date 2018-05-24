@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+sciavonneh	1
+george		1
+yahoo		1
+fourknees	1
+gphillip	1
+williamsjeff	1
+forneyh		1
+freije		1
+compaul		1
+philiph		1
+msn		1
+comjohn		1
+kingbill	1
+ryan		1

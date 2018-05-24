@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+reminds		1
+joke		1
+drinks		1
+suzy		1
+everyone	1
+c		1
+lot		1

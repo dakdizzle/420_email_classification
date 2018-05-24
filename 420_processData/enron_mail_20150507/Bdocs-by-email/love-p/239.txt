@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+incase		1
+enough		1
+gotten		1
+read		1
+haven		1
+latelypl	1

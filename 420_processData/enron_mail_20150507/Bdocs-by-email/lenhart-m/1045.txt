@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+girlfriends	1
+fucking		1
+football	1
+girls		1
+hate		1
+ticket		1

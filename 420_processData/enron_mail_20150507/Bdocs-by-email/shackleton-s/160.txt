@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+heard		1
+shackleton	1
+sshackl		1
+comx		1
+legal		1
+marie		1
+filename	1
+psted		1
+privileged	1
+anything	1
+point		1
+non		1
+enron		1
+sara		1
+want		1
+origin		1
+sx		1

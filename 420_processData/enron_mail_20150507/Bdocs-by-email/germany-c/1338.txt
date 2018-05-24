@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+intelligentietest	1
+know		1
+htm		1

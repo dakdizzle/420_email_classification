@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+presto		2
+kevin		2
+cn		2
+officially	1
+terminated	1
+pstolgethorpe	1
+kpresto		1
+attached	1
+recipients	1
+filename	1
+na		1
+see		1
+enron		1
+please		1
+ou		1
+dec		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jest		1
+shirley		1
+don		1
+call		1

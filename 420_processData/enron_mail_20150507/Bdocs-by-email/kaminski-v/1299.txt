@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+home		1
+vince		1
+house		1
+send		1
+directionsto	1
+gina		1
+mail		1
+address		1
+tonight		1

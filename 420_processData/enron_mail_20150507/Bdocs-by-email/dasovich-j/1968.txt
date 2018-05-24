@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+cn		2
+puc		1
+plan		1
+valley		1
+company		1
+california	1
+doc		1
+gas		1
+slandweh	1
+recipients	1
+susan		1
+upgradepower	1
+system		1
+na		1
+pacific		1
+enron		1
+tri		1
+landwehr	1
+electric	1
+ou		1
+approves	1

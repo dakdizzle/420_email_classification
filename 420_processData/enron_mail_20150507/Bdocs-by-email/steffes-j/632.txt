@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+issues		1
+statue		1
+icc		1
+one		1

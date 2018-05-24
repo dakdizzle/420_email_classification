@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+monday		1
+pics		1
+day		1
+company		1
+prediction	1
+ready		1
+docs		1
+way		1
+during		1
+go		1
+work		1
+yes		1
+crappy		1
+sometime	1
+ll		1

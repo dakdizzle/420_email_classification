@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+andy		1
+send		1
+fax		1
+granger		1
+comments	1

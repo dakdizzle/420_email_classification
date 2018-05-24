@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+daily		2
+reports		2
+both		1
+simply		1
+look		1
+ok		1
+lavo		1
+comparing	1
+change		1
+already		1
+postions	1
+current		1

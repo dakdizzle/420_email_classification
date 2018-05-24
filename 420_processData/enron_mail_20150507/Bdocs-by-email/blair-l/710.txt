@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lynn		1
+prepayment	1
+bear		1
+know		1
+sending		1
+paw		1
+letter		1
+need		1
+thanks		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+mark		1
+hear		1
+nice		1
+hope		1
+stuck		1
+london		1
+sunday		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+individuals	1
+direct		1
+marie		1
+fine		1
+comments	1
+appropriate	1
+ll		1

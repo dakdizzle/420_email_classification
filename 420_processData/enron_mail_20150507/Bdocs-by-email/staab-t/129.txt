@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+kids		2
+time		2
+ll		2
+shopping	1
+fax		1
+talk		1
+finish		1
+drawing		1
+name		1
+outfit		1
+wasn		1
+see		1
+take		1
+soon		1
+done		1
+sent		1
+old		1
+sierra		1
+navy		1
+sure		1
+think		1
+didn		1

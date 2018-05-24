@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+respond		1
+know		1
+told		1
+sure		1
+don		1

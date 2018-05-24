@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+vkamins		2
+vince		2
+cn		2
+hard		1
+recipients	1
+copies		1
+filename	1
+na		1
+compiled	1
+privileged	1
+pstjan		1
+non		1
+procedure	1
+enron		1
+tomorrow	1
+yes		1
+ou		1
+documentsthat	1
+receive		1
+kaminski	1

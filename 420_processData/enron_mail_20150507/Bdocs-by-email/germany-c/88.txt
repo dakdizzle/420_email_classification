@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+heard		2
+ve		1
+inlet		1
+leaving		1
+yee		1
+cook		1
+michelle	1
+la		1
+lokay		1
+tw		1
+never		1

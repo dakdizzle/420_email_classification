@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+morning		1
+conversation	1
+mark		1
+per		1
+questions	1
+hyatt		1
+kevin		1
+call		1

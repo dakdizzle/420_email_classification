@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lynn		1
+status		1
+issue		1
+toby		1
+thanks		1

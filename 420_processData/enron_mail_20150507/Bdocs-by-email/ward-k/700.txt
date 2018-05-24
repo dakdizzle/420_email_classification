@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+coming		1
+cash		1
+ang		1
+days		1
+thanksgiving	1
+rare		1
+aould		1
+world		1
+call		1
+home		1
+miles		1
+both		1
+house		1
+cell		1
+kimmie		1
+talking		1
+come		1
+ya		1
+use		1
+chance		1
+think		1
+commodity	1
+mine		1
+ll		1

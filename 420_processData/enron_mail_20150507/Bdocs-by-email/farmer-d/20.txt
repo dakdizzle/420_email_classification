@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+contracts	1
+texas		1
+ship		1
+need		1
+below		1
+suzanne		1
+guadalupe	1
+pipeline	1

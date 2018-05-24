@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+williams	2
+new		2
+db		1
+sister		1
+family		1
+present		1
+katheryn	1
+baby		1
+morgan		1
+andrea		1
+baughman	1
+edition		1
+proud		1
+here		1

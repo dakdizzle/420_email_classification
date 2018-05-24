@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+master		1
+marie		1
+netting		1
+harlan		1
+agreement	1
+here		1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cal		2
+pricing		1
+fyi		1
+now		1
+posted		1
+basis		1
+suspect		1
+range		1
+more		1
+perm		1
+eol		1
+still		1
+falling		1

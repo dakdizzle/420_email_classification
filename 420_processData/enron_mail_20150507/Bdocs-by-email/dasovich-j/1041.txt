@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+baldwin		1
+up		1
+jeff		1
+best		1
+dates		1
+know		1
+want		1
+meet		1
+set		1
+ll		1

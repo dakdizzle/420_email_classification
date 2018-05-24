@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+heard		1
+naked		1
+hope		1
+man		1
+pic		1
+again		1
+old		1
+going		1
+isn		1
+haven		1

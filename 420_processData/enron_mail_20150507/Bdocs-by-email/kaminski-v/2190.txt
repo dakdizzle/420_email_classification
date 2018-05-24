@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+vkamins		2
+vince		2
+cn		2
+return		1
+plan		1
+contact		1
+recipients	1
+currently	1
+statesnext	1
+filename	1
+na		1
+pstlee		1
+thanks		1
+privileged	1
+message		1
+non		1
+enron		1
+shall		1
+ou		1
+attend		1
+conference	1
+week		1
+london		1
+kaminski	1

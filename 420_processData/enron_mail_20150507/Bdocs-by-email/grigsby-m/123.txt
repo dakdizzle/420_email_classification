@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+email		1
+send		1
+list		1
+please		1
+numbers		1
+west		1
+work		1
+mike		1
+traders		1
+thanks		1

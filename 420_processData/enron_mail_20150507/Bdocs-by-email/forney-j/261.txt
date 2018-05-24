@@ -1,0 +1,16 @@
+NumWords	18
+NumTerms	13
+
+th		4
+july		2
+available	2
+together	1
+tom		1
+schedule	1
+put		1
+anytime		1
+havent		1
+shift		1
+jmf		1
+augie		1
+st		1

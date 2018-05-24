@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+great		1
+hope		1
+angie		1
+time		1
+traveling	1
+everyone	1
+attend		1
+unable		1

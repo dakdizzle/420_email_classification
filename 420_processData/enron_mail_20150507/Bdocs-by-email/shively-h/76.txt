@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hunter		1
+houston		1
+jessica		1
+com		1
+rr		1

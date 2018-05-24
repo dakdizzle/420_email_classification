@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+tanya		2
+remember	1
+something	1
+sent		1
+cp		1
+message		1
+right		1
+reviewing	1
+sara		1
+discussed	1
+already		1
+having		1
+brent		1

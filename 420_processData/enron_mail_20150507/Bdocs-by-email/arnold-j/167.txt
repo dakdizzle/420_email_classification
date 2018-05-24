@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+fun		1
+beach		1
+person		1
+south		1
+definitely	1
+pretty		1
+boring		1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+ok		1
+interested	1
+talk		1
+things		1
+won		1
+today		1
+definitely	1
+around		1
+dinner		1
+m		1
+clock		1
+finally		1
+probably	1
+movie		1
+till		1
+couple		1
+mind		1

@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+matthew		2
+gay		1
+lenhart		1
+pstthat		1
+lenhartx	1
+sound		1
+filename	1

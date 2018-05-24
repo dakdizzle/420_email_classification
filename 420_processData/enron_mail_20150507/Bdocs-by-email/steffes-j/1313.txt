@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+make		1
+talk		1
+know		1
+gas		1
+desk		1
+sees		1
+ees		1
+thanks		1
+jim		1
+please		1
+black		1
+sure		1
+don		1

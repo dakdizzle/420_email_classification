@@ -1,0 +1,10 @@
+NumWords	9
+NumTerms	7
+
+luck		2
+birthday	2
+good		1
+rains		1
+happy		1
+bad		1
+kidding		1

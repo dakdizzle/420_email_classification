@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+holly		1
+much		1
+corby		1
+best		1
+thank		1
+jano		1
+now		1
+tanner		1
+bob		1
+always		1
+love		1

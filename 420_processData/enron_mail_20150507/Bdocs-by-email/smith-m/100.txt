@@ -1,0 +1,6 @@
+NumWords	6
+NumTerms	3
+
+dirty		3
+boy		2
+m		1

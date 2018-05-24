@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+mark		1
+vince		1
+prompt		1
+response	1
+depend		1
+always		1
+thanks		1

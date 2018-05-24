@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+yours		1
+real		1
+estate		1
+houston		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+lewiskevin	1
+plachymartin	1
+shivelyjason	1
+storeyjim	1
+hunter		1
+williams	1
+donohoedenver	1
+simpsonvirawan	1
+ruscittitom	1
+andy		1
+yawapongsiri	1
+cuillageof	1
+trading		1

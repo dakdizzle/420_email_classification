@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+confidential	1
+highly		1
+please		1
+sally		1
+discussed	1
+print		1
+thanks		1

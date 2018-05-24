@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+none		1
+box		1
+gave		1
+ones		1
+thanks		1

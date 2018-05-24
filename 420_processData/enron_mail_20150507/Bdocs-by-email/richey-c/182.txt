@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+use		1
+same		1
+yesterday	1

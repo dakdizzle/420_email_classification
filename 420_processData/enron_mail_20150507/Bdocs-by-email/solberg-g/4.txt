@@ -1,0 +1,24 @@
+NumWords	31
+NumTerms	21
+
+enron		3
+solberg		2
+epe		2
+genstat		2
+dotect		2
+ect		2
+geir		2
+cn		2
+com		2
+status		1
+recent		1
+http		1
+pstmost		1
+recipients	1
+filename	1
+na		1
+scrape		1
+todays		1
+gsolber		1
+directoryhttp	1
+ou		1

@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+ferc		1
+talk		1
+leave		1
+consultants	1
+reqd		1
+call		1
+thanks		1
+jim		1
+refunds		1
+push		1
+linda		1
+concerns	1
+many		1
+believe		1
+infirmities	1
+want		1
+work		1
+robertson	1
+away		1
+argument	1
+phase		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+mentioned	1
+wednesday	1
+review		1
+wessex		1
+azurix		1
+schedule	1
+something	1
+thankstracy	1
+rod		1
+need		1
+last		1
+week		1
+rest		1

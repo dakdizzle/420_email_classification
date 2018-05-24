@@ -1,0 +1,27 @@
+NumWords	29
+NumTerms	24
+
+kitchen		2
+louise		2
+sent		2
+cn		2
+numbers		2
+story		1
+admins		1
+those		1
+david		1
+wireless	1
+handheld	1
+recipients	1
+blackberry	1
+filename	1
+na		1
+boring		1
+lkitchen	1
+zeros		1
+enron		1
+back		1
+change		1
+ou		1
+pstlong		1
+doesn		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+wax		1
+case		1
+yours		1
+comes		1
+car		1
+turtle		1
+new		1

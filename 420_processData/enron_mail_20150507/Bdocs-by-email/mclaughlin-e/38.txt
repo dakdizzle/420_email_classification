@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+book		2
+mclaughlin	1
+please		1
+thank		1
+admin		1
+questions	1
+name		1
+errol		1
+corresponding	1
+christy		1
+placed		1
+call		1

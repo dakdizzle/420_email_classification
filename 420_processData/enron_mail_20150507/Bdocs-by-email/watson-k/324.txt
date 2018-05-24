@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+know		1
+watson		1
+september	1
+tuesday		1
+filename	1
+transfer	1
+pstplease	1
+thanks		1
+privileged	1
+kim		1
+palu		1
+content		1
+kx		1
+non		1
+encoding	1
+kwatson		1
+appreciation	1
+available	1
+origin		1
+work		1
+bitx		1
+attend		1
+tw		1
+lunch		1

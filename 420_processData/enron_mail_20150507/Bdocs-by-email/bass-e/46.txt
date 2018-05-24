@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+heard		1
+touch		1
+back		1
+going		1
+everyone	1
+form		1
+tom		1
+haven		1

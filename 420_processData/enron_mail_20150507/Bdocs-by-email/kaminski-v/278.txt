@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+vince		1
+thursday	1
+wednesday	1
+nyc		1
+shall		1
+shawn		1
+sorry		1
+tuesday		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+group		1
+reply		1
+earl		1
+managed		1
+thanks		1
+kim		1
+interconnect	1
+jeff		1
+project		1
+yes		1
+chanley		1
+coordinator	1
+c		1
+quick		1
+hi		1

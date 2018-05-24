@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+book		2
+care		1
+ed		1
+thankskamx	1
+up		1
+know		1
+go		1
+moved		1
+deals		1
+ready		1
+set		1
+take		1

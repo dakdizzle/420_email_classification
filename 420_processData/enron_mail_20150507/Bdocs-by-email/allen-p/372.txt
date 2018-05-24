@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+distribution	3
+cycle		2
+made		2
+notice		1
+email		1
+thank		1
+deposit		1
+sufficient	1
+phillip		1
+form		1
+something	1
+renee		1
+check		1
+thursday	1
+direct		1
+dropped		1
+wrote		1
+more		1
+need		1
+prefer		1
+thought		1
+last		1
+method		1
+allen		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+per		1
+redlined	1
+revised		1
+discussion	1
+know		1
+attached	1
+review		1
+mariner		1
+need		1
+docs		1
+counsel		1

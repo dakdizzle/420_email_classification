@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+time		1
+cant		1
+another		1
+today		1
+maybe		1
+sager		1
+problemps	1
+thankselizabeth	1
+play		1
+love		1

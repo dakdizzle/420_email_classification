@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hold		1
+lying		1
+staring		1
+guy		1
+against		1
+going		1
+im		1
+stop		1

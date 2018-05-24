@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+coming		1
+welcome		1
+training	1
+break		1
+systems		1
+definitely	1
+week		1
+spring		1
+next		1

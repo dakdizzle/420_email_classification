@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+email		1
+included	1
+correction	1
+power		1
+avista		1
+steve		1
+pnw		1
+form		1
+total		1
+water		1
+wa		1
+submit		1
+last		1
+mat		1

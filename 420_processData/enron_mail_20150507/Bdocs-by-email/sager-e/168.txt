@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+posted		1
+settlement	1
+pge		1
+joke		1
+communicated	1
+keep		1
+nothing		1
+sager		1
+elizabeth	1
+ll		1
+date		1

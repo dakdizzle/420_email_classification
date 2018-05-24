@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+good		1
+up		1
+majed		1
+sounds		1
+schedule	1

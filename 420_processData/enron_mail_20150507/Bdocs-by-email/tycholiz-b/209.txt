@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+put		1
+good		1
+down		1
+come		1
+know		1
+pls		1
+nov		1
+bt		1
+schedule	1
+fit		1

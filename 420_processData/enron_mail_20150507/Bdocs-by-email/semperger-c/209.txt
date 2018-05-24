@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+home		1
+come		1
+lady		1
+fat		1
+horrible	1
+hatch		1
+cows		1
+sang		1
+didn		1
+chickens	1
+over		1

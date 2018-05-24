@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+plan		1
+rush		1
+good		1
+time		1
+jeff		1
+best		1
+nd		1
+though		1
+sounds		1
+till		1

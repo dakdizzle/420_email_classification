@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+m		1
+forseeable	1
+vacation	1
+future		1
+screwed		1
+call		1
+ll		1

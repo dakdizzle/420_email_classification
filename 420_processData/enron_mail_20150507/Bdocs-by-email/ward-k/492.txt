@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+happy		1
+going		1
+hour		1
+tonight		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+card		1
+send		1
+hey		1
+forgot		1
+need		1
+lizzie		1
+business	1
+address		1

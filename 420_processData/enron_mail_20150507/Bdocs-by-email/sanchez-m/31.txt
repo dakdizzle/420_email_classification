@@ -1,0 +1,25 @@
+NumWords	29
+NumTerms	22
+
+sanchez		3
+houstonisd	2
+enron		2
+kathryn		2
+org		2
+ksanchez	2
+fax		1
+districtphone	1
+response	1
+school		1
+monique		1
+wholesale	1
+accountabilityhouston	1
+superintendentresearch	1
+associate	1
+eddassistant	1
+pmto		1
+requestedassociate	1
+services	1
+subject		1
+comcc		1
+independent	1

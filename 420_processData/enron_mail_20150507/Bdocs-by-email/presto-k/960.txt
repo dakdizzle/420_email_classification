@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jail		1
+run		1
+boys		1
+go		1
+glad		1
+desk		1
+probably	1
+week		1
+mexico		1
+next		1
+didn		1

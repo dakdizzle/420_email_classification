@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+misspelled	1
+cinergy		1
+opps		1

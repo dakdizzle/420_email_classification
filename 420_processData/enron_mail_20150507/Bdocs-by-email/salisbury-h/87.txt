@@ -1,0 +1,25 @@
+NumWords	78
+NumTerms	22
+
+asp		7
+reservationid	7
+firm		7
+confirmed	7
+paloverde	7
+reservationdetail	7
+westwing	7
+hourly		4
+peak		4
+period		4
+full		3
+daily		3
+date		2
+status		1
+class		1
+end		1
+segment		1
+ref		1
+capacity	1
+non		1
+increment	1
+start		1

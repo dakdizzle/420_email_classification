@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+discuss		1
+house		1
+vacation	1
+want		1
+jan		1
+im		1
+till		1
+give		1
+call		1

@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+pm		2
+game		2
+brett		1
+colton		1
+instead		1
+wednesday	1
+thought		1
+previously	1
+tonight		1

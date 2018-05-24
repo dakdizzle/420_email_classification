@@ -1,0 +1,15 @@
+NumWords	19
+NumTerms	12
+
+cn		4
+enron		2
+recipients	2
+ou		2
+na		2
+lmellen		1
+lisa		1
+mellencamp	1
+fyi		1
+tribolet	1
+mtribole	1
+michael		1

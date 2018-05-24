@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+settlement	1
+under		1
+sheet		1
+comment		1
+lisa		1
+scheduling	1
+spreadsheet	1
+made		1
+saved		1
+jennifer	1
+bpathanks	1

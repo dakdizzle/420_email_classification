@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+lokay		3
+michelle	2
+mar		1
+text		1
+report		1
+plain		1
+mlokay		1
+filename	1
+folder		1
+effective	1
+privileged	1
+asciix		1
+content		1
+sent		1
+non		1
+type		1
+mx		1
+pstsorry	1
+origin		1
+itemsx		1
+new		1
+charset		1
+date		1

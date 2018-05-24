@@ -1,0 +1,25 @@
+NumWords	47
+NumTerms	22
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+lindberg	1
+fyi		1
+tk		1
+mlokay		1
+steven		1
+kim		1
+lorraine	1
+lohman		1
+ldonoho		1
+donoho		1
+sharris		1
+harris		1
+michelle	1
+lindy		1
+llindbe		1
+lokay		1
+tlohman		1

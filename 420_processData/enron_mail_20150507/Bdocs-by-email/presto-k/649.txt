@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+coal		2
+curves		2
+group		1
+transport	1
+yes		1
+answer		1

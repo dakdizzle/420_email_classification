@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+info		2
+updated		1
+packet		1
+know		1
+questions	1
+kate		1
+new		1
+here		1

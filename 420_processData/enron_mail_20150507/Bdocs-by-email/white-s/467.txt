@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+calgary		1
+kathy		1
+send		1
+power		1
+stacey		1
+risk		1
+management	1
+reeves		1
+charge		1

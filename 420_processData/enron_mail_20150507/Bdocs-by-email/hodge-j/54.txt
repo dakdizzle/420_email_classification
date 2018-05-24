@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+send		1
+stacy		1
+jeff		1
+please		1
+copies		1
+figure		1
+see		1

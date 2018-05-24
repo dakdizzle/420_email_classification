@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+minute		1
+vlad		1
+brushing	1
+greatly		1
+expertise	1
+up		1
+geof		1
+appreciate	1
+help		1
+resume		1

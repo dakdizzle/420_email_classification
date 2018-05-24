@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+maintanence	1
+thinks		1
+starting	1
+concede		1
+know		1
+going		1
+contest		1
+high		1
+don		1
+tonight		1

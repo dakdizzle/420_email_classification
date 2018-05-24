@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jerry		1
+please		1
+attached	1
+jmf		1
+see		1

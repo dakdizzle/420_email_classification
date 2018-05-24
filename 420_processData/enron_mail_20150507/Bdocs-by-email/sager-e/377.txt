@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hear		1
+time		1
+back		1
+today		1
+christy		1
+call		1
+ll		1
+play		1

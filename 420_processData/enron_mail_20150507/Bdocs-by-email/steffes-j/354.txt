@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+join		1
+decide		1
+anyone		1

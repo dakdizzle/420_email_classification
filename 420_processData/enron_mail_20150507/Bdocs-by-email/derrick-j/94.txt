@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+send		1
+please		1
+thank		1
+adl		1
+one		1
+yo		1
+recently	1
+steph		1
+furnished	1

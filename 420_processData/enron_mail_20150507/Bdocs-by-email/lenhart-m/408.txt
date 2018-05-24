@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+partying	1
+jokes		1
+deserved	1
+letting		1
+overall		1
+halloween	1
+instead		1
+rouge		1
+weekend		1
+baton		1
+made		1
+heading		1
+bad		1
+c		1
+game		1
+brutal		1
+pretty		1
+think		1

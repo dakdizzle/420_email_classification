@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+home		1
+dept		1
+enron		1
+irfx		1
+http		1
+ect		1
+curves		1
+com		1

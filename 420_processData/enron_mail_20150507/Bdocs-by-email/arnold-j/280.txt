@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+closer		1
+really		1
+thinks		1
+expiry		1
+until		1
+won		1
+below		1
+move		1

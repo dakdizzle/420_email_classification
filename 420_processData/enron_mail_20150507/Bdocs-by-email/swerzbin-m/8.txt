@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+good		1
+done		1
+analysis	1
+job		1
+man		1
+structuring	1
+mike		1
+young		1
+thanks		1

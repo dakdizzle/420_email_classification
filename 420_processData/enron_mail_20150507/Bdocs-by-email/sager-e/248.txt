@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+soon		1
+during		1
+talk		1
+july		1
+th		1
+week		1
+lunch		1
+insight		1
+unbelievable	1
+thanks		1

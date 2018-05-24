@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+thereelizabeth	1
+way		1
+picking		1
+nanny		1
+up		1
+already		1
+sager		1
+ella		1
+see		1
+julie		1
+thanks		1

@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+chuck		2
+bob		2
+write		1
+until		1
+williams	1
+whether		1
+tuesday		1
+jim		1
+out		1
+forwarded	1
+sanders		1
+message		1
+forwarding	1
+cheek		1
+question	1
+participate	1
+brief		1
+richard		1

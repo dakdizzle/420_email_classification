@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+fun		1
+wedding		1
+up		1
+guess		1
+fine		1
+kidding		1
+call		1
+out		1
+dinner		1
+broker		1
+downtown	1
+go		1
+felt		1
+weekend		1
+work		1
+heading		1
+candy		1
+woke		1
+give		1
+tonight		1
+ass		1

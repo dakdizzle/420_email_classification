@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+back		2
+officerenron	1
+fax		1
+americastel	1
+operating	1
+inlouise	1
+eric		1
+kitchenchief	1
+inelbertson	1
+moon		1
+resignedhaedicke	1

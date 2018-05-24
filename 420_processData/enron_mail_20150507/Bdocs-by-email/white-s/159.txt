@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+leslie		1
+stacey		1
+information	1
+contact		1
+reeves		1

@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+lease		2
+month		2
+notice		1
+mark		1
+veronica	1
+ok		1
+days		1
+same		1
+rent		1
+converts	1
+want		1
+one		1
+automatically	1
+august		1
+beginning	1
+works		1
+means		1
+cancel		1

@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+language	3
+included	2
+changed		1
+case		1
+word		1
+ng		1
+know		1
+form		1
+problem		1
+default		1
+master		1
+remedy		1
+additional	1
+want		1
+beginning	1
+set		1
+new		1
+add		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+closer		1
+people		1
+upon		1
+looking		1
+examination	1
+more		1
+tom		1
+dirty		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+group		1
+runs		1
+power		1
+texas		1
+smith		1
+doug		1
+gilbert		1

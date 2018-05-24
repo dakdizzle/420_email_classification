@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ve		1
+sent		1
+mhc		1
+litigation	1
+unit		1

@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+book		2
+email		1
+spec		1
+right		1
+john		1
+jeff		1
+go		1
+price		1
+oil		1
+trade		1
+call		1
+yesterday	1

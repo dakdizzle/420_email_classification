@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+congrats	1
+relief		1

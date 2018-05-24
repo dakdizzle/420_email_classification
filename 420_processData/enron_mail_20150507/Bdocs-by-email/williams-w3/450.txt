@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+make		1
+starting	1
+david		1
+try		1
+bill		1
+annoyed		1
+dad		1
+sure		1
+think		1
+thanks		1

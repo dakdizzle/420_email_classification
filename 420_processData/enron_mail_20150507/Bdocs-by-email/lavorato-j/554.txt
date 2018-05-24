@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+bridgeline	1
+john		1
+deals		1
+unless		1
+filename	1
+compensated	1
+getting		1
+lavorato	1
+pstjeanwhy	1
+sleeving	1
+jlavora		1
+want		1
+don		1
+still		1

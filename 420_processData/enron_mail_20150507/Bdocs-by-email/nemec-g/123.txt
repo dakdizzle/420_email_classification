@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+redline		2
+burlington	2
+problems	1
+guaranty	1
+hopefully	1
+doc		1
+attached	1
+draft		1
+computer	1
+unable		1
+sent		1
+version		1
+clean		1
+forwarding	1
+against		1
+comments	1

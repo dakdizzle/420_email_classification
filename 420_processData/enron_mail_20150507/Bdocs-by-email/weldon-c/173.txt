@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+office		1
+prudential	1
+working		1
+person		1
+coates		1
+woman		1
+carol		1

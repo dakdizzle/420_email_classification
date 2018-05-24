@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ds		1
+representative	1
+control		1
+flooding	1
+gas		1
+available	1
+houston		1
+due		1
+attend		1

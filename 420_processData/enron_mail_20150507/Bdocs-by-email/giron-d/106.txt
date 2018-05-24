@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+latest		1
+check		1
+pay		1
+stub		1
+change		1
+fyi		1
+dg		1
+reflect		1

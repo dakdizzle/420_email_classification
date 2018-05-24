@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+baylor		2
+coming		1
+colorado	1
+good		1
+time		1
+right		1
+yeah		1
+nebraska	1
+weekend		1
+luck		1
+game		1
+next		1

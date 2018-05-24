@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+up		1
+selling		1
+bill		1
+sign		1
+grace		1
+need		1
+car		1
+pass		1
+longer		1
+bus		1
+thanks		1
+parking		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+minute		1
+try		1
+vacation	1
+thank		1
+another		1
+going		1
+year		1
+last		1
+everybody	1
+looks		1

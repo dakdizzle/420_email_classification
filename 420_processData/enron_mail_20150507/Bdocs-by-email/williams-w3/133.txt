@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+stairwell	1
+stuck		1
+again		1
+sorry		1
+actually	1
+thanks		1

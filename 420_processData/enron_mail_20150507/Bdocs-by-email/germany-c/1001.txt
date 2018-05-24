@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+try		1
+yourself	1
+fantastic	1
+jobs		1
+behave		1

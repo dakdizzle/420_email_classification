@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+inaccurate	1
+nsync		1
+band		1
+name		1
+insulted	1
+legendary	1
+spelling	1
+grease		1

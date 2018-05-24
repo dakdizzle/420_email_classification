@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+day		1
+midcon		1
+per		1
+deliver		1
+month		1
+mobil		1

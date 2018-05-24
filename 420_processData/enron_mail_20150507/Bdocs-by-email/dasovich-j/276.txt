@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+brown		3
+mike		2
+begin		1
+meeting		1
+day		1
+drawn		1
+up		1
+meetings	1
+short		1
+asked		1
+efforts		1
+ve		1
+m		1
+straw		1
+jeff		1
+best		1
+rehabilitate	1
+line		1
+recently	1
+mr		1
+set		1
+sue		1
+next		1
+informed	1

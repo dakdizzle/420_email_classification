@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+probably	2
+bankrupt	1
+days		1
+paid		1
+today		1
+call		1
+two		1
+wre		1
+come		1
+tomorrow	1
+go		1
+want		1
+downgraded	1
+next		1

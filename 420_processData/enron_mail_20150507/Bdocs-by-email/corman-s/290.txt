@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+m		1
+office		1
+now		1

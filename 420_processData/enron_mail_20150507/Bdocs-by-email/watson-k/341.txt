@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+morning		1
+mis		1
+typed		1
+opps		1

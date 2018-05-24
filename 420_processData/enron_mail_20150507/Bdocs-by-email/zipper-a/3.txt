@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+group		1
+option		1
+moving		1
+stand		1
+power		1
+up		1
+know		1
+options		1
+machine		1
+bob		1
+alone		1
+call		1
+talked		1
+cell		1
+hillier		1
+questions	1
+tomorrow	1
+need		1
+manager		1
+set		1
+stack		1
+don		1

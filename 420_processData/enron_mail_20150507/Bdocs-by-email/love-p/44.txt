@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+pl		1
+pay		1
+insurance	1

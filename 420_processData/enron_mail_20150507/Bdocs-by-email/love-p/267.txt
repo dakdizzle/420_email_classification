@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+stick		2
+em		2
+think		2
+ran		1
+pl		1
+time		1
+came		1
+lester		1
+hair		1
+fan		1
+wish		1
+yards		1
+camp		1
+many		1
+hayes		1
+wear		1
+called		1
+hands		1
+still		1
+big		1
+through		1

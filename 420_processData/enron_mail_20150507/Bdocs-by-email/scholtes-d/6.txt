@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+please		1
+hint		1
+kind		1
+help		1
+think		1

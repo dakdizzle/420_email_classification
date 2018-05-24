@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jane		1
+info		1
+mark		1
+send		1
+please		1
+tana		1
+requested	1
+thanks		1

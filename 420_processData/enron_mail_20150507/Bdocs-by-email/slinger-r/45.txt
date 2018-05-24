@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+know		1
+days		1
+june		1
+schedule	1
+out		1
+apologize	1
+many		1
+requests	1
+please		1
+irregularity	1
+slinger		1
+new		1
+accomodate	1

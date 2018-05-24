@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+mark		3
+taylo		1
+group		1
+janette		1
+delete		1
+list		1
+please		1
+revise		1
+taylor		1
+thanks		1
+add		1

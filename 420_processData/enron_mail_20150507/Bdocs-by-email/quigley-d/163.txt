@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+make		1
+tio		1
+share		1
+problemif	1
+futureilydq	1
+sorry		1
+perfer		1
+goif		1
+edgei		1
+alone		1
+listen		1
+argue		1
+lets		1
+clear		1
+go		1
+myself		1
+happy		1
+want		1
+more		1
+told		1
+last		1
+week		1
+thingsi		1
+kay		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+changed		1
+anything	1
+want		1
+added		1
+deleted		1
+comments	1

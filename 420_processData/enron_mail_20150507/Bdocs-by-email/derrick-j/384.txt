@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+ok		1
+derrick		1
+bob		1
+suggeston	1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+first		1
+two		1
+agreements	1
+want		1
+stab		1
+take		1

@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+access		2
+curves		2
+crude		1
+soon		1
+resid		1
+grant		1
+power		1
+coal		1
+thanks		1

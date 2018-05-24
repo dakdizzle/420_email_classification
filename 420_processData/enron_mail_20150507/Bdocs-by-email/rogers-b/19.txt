@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+soon		2
+beer		2
+really		1
+day		1
+tough		1
+ben		1
+know		1
+one		1
+maybe		1
+need		1
+pretty		1
+ll		1

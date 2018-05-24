@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+cn		2
+scorman		2
+time		1
+looking		1
+now		1
+recipients	1
+corman		1
+filename	1
+na		1
+privileged	1
+years		1
+m		1
+non		1
+psthere		1
+enron		1
+format		1
+ou		1
+data		1
+period		1
+shelley		1
+calendar	1

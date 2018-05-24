@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+week		2
+know		1
+working		1
+marie		1
+won		1
+isda		1
+see		1
+thanks		1
+todd		1
+hope		1
+believe		1
+comments	1
+hi		1
+ll		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+hand		1
+much		1
+drive		1
+compliant	1
+costthank	1
+road		1
+left		1
+converted	1
+elise		1
+wondering	1
+possible	1
+lotus		1
+knew		1
+import		1

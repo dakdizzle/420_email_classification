@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+fax		2
+eb		1
+send		1
+ph		1
+letter		1
+street		1
+russell		1
+martinsonphone	1
+wholesale	1
+thanks		1
+services	1
+shackletonenron	1
+sara		1
+ahouston	1
+tx		1
+smith		1

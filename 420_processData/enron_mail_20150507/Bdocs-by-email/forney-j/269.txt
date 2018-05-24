@@ -1,0 +1,20 @@
+NumWords	22
+NumTerms	17
+
+hobby		2
+leave		2
+tuesday		2
+tampa		2
+flight		2
+monday		1
+houston		1
+price		1
+tj		1
+take		1
+thanks		1
+afternoon	1
+morning		1
+airport		1
+night		1
+meetnig		1
+jmf		1

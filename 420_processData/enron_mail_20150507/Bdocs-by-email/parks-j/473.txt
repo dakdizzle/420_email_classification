@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+es		1
+sabado		1
+habla		1
+si		1
+ti		1
+la		1
+esta		1
+cabana		1
+con		1
+casa		1

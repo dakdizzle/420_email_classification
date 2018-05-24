@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+group		1
+pony		1
+interview	1
+met		1
+mentioned	1
+paul		1
+ages		1
+today		1
+known		1
+looks		1
+barbo		1
+better		1
+fit		1
+without		1
+kim		1
+good		1
+wouldbe		1
+capable		1
+bright		1
+tail		1
+vincep		1
+individual	1
+very		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+eb		1
+office		1
+location	1
+donna		1
+thanks		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+agree		1
+know		1
+whether		1
+public		1
+don		1

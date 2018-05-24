@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+time		2
+mavrix		2
+capacity	2
+sell		2
+tw		2
+different	1
+ok		1
+risk		1
+difference	1
+days		1
+responsible	1
+take		1
+wish		1
+hen		1
+hold		1
+drew		1
+kw		1
+packages	1
+financial	1
+within		1

@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+nicolay		1
+christi		1
+jim		1
+andy		1
+hetrick		1
+lead		1
+shepherd	1
+team		1
+nancy		1
+charles		1
+rodriquez	1
+want		1
+harry		1
+comments	1
+development	1
+think		1

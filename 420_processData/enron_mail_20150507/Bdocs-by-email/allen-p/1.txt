@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+info		1
+mailed		1
+properties	1
+faxed		1
+resend		1
+phillip		1
+tuesday		1
+out		1
+three		1
+office		1
+jeff		1
+one		1
+last		1
+week		1

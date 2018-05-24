@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+group		1
+people		1
+whole		1
+bring		1
+knew		1
+duran		1
+mean		1
+told		1
+cost		1

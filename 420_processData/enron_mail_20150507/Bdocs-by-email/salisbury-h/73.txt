@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+seems		1
+aquaintance	1
+position	1
+interested	1
+thank		1
+candidate	1
+good		1
+believe		1
+available	1
+hiring		1
+sure		1
+resume		1
+here		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+vacation	1
+february	1
+st		1
+took		1

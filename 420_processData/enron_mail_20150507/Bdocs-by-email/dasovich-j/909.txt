@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+good		1
+jeff		1
+best		1
+continued	1
+luck		1
+comments	1
+process		1

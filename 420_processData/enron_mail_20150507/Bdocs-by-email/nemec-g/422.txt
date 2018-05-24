@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+ecs		2
+discuss		1
+informal	1
+wfec		1
+west		1
+attached	1
+draft		1
+review		1
+regarding	1
+supply		1
+asap		1
+staci		1
+requests	1
+lets		1
+please		1
+received	1
+electric	1
+documents	1
+florida		1
+coop		1
+affidavit	1
+proposing	1

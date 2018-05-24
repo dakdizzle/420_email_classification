@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lavo		1
+time		1
+talk		1
+need		1
+hours		1
+schedule	1

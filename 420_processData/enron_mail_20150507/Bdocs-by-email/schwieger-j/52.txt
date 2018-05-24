@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+model		2
+sothe		1
+yours		1
+swag		1
+margarita	1
+known		1
+kidding		1
+longer		1
+actually	1
+operator	1
+research	1
+being		1
+oz		1
+analitical	1
+dots		1
+mike		1
+thought		1
+owes		1

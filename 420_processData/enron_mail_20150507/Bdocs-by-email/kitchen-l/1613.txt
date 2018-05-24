@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+make		2
+please		2
+sure		2
+perspective	1
+contact		1
+bob		1
+tom		1
+thanks		1
+important	1
+immediately	1
+macauliffe	1
+access		1
+cut		1
+doesn		1

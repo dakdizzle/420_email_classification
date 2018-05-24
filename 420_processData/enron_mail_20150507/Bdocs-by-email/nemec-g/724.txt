@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+agree		1
+row		1
+louisiana	1
+please		1
+know		1
+questions	1
+changes		1
+attached	1
+review		1
+form		1
+comments	1
+counsel		1

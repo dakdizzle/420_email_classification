@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+around		1
+jeff		1
+best		1
+know		1
+find		1
+sure		1
+checking	1

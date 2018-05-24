@@ -1,0 +1,26 @@
+NumWords	54
+NumTerms	23
+
+cn		12
+recipients	6
+na		6
+enron		6
+ou		6
+jreitme		1
+msanch		1
+tevans		1
+sanchez		1
+monique		1
+evans		1
+ted		1
+daniel		1
+reitmeyer	1
+dlisk		1
+lenhart		1
+lisk		1
+mgrigsb		1
+mike		1
+mlenhar		1
+jay		1
+grigsby		1
+matthew		1

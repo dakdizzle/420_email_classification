@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+tabs		2
+much		1
+easier		1
+ena		1
+monthly		1
+guys		1
+gas		1
+deals		1
+find		1
+trying		1
+forget		1
+take		1
+transportation	1
+out		1
+point		1
+m		1
+monitor		1
+agreement	1
+move		1
+still		1
+don		1

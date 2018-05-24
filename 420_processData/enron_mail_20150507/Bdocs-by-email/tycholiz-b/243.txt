@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+pictures	1
+send		1
+pls		1

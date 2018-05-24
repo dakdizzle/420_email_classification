@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+tx		2
+jaycreekhouston	1
+parents		1
+glad		1
+weekend		1
+houston		1
+alabama		1
+ours		1
+sue		1
+see		1

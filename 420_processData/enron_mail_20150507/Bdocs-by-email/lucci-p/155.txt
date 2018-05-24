@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+m		1
+hey		1
+time		1
+going		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+start		1
+price		1
+fine		1
+mail		1
+same		1
+confirm		1
+date		1
+volume		1

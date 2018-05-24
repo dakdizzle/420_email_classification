@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+used		2
+risi		2
+primary		1
+pulp		1
+source		1
+information	1
+attached	1
+sources		1
+data		1
+monika		1
+ayesha		1
+presentation	1

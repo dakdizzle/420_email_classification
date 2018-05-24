@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+vince		2
+ts		1
+jx		1
+sense		1
+makes		1
+yes		1
+filename	1
+pstanne		1
+vkamins		1
+treated		1
+kaminski	1

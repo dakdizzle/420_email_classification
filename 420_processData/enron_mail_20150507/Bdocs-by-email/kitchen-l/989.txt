@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+tammycan	1
+slots		1
+temp		1
+thanks		1
+add		1

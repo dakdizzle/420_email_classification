@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+inconvenience	1
+gate		1
+ahhh		1
+keeper		1
+sorry		1
+thought		1
+help		1
+request		1
+thanks		1

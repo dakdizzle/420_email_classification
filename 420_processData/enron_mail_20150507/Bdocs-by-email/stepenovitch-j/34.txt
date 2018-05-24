@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+bet		3
+now		2
+together	1
+coming		1
+make		1
+worker		1
+messages	1
+checked		1
+mean		1
+truth		1
+mac		1
+co		1
+dork		1
+btw		1
+sure		1
+telling		1
+haven		1
+ll		1

@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+sent		2
+palo		2
+know		1
+confirms	1
+copies		1
+print		1
+thanks		1
+overnight	1
+out		1
+kim		1
+signatures	1
+ellen		1
+enron		1
+alto		1
+questions	1
+sign		1
+barry		1
+need		1
+last		1
+week		1
+telling		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+collapse	1
+brink		1
+basically	1
+series		1
+bad		1
+sounds		1
+dg		1
+read		1
+correctly	1
+very		1

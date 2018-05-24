@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+little		1
+together	1
+put		1
+packet		1
+training	1
+c		1
+woohoo		1
+thanks		1

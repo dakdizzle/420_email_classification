@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+anti		1
+consistently	1
+msn		1
+one		1
+works		1
+pretty		1

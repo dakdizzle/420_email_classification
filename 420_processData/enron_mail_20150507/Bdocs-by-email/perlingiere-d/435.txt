@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+master		1
+tanya		1
+requested	1
+here		1

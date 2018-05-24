@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+minute		1
+coming		1
+chance		1
+here		1
+over		1

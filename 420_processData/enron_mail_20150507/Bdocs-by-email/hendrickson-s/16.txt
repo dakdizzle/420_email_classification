@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+aol		1
+scott		1
+up		1
+well		1
+name		1
+partners	1
+messenger	1
+out		1
+ve		1
+instant		1
+scotth		1
+m		1
+screen		1
+several		1
+mike		1
+usual		1
+works		1
+set		1
+pretty		1
+trading		1

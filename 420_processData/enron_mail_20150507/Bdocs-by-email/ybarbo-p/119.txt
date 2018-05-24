@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+paul		1
+interested	1
+know		1
+javier		1
+anyone		1

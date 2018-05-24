@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+please		2
+ds		1
+questions	1
+attached	1
+see		1
+call		1

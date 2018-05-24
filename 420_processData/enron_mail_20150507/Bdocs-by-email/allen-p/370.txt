@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+scott		2
+online		2
+need		2
+brokers		2
+choice		1
+know		1
+pleased		1
+find		1
+far		1
+phillip		1
+personally	1
+extremely	1
+platforms	1
+andy		1
+transition	1
+nice		1
+good		1
+done		1
+enough		1
+services	1
+go		1
+business	1
+don		1
+brokerage	1

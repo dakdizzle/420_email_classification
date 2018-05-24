@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+business	2
+think		2
+managers	1
+time		1
+johni		1
+calibrating	1
+unit		1
+kill		1
+units		1
+accross		1
+cross		1
+directors	1
+concept		1
+associates	1
+comments	1
+include		1
+analysts	1
+hi		1
+prc		1
+waste		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+dc		1
+n		1
+hear		1
+good		1
+family		1
+hope		1
+well		1
+night		1
+drove		1
+last		1
+tuesday		1

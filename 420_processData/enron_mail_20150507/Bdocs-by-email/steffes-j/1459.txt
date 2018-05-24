@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+jim		2
+park		1
+cunninghammanaging	1
+avenue		1
+information	1
+nyc		1
+york		1
+contact		1
+directorburson	1
+america		1
+states		1
+bm		1
+ny		1
+marsteller	1
+southnew	1
+united		1
+cunningham	1
+com		1
+here		1

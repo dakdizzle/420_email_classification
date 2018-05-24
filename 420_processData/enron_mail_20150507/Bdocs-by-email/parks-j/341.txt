@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+job		1
+confidence	1
+assuming	1
+thanks		1

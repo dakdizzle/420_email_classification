@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+going		2
+ditto		1
+weekend		1
+work		1
+vegas		1

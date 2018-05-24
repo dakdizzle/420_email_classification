@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+ca		2
+eb		1
+fax		1
+information	1
+sending		1
+legal		1
+gas		1
+houston		1
+street		1
+america		1
+morning		1
+regarding	1
+enron		1
+texas		1
+dperlin		1
+north		1
+mr		1
+spoke		1
+smith		1
+perlingiereenron	1
+hoggard		1
+debra		1
+trading		1

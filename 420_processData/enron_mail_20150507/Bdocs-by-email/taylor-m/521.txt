@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+page		2
+trevor		1
+want		1
+financial	1
+mike		1
+org		1
+add		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+db		1
+marci		1
+thanks		1

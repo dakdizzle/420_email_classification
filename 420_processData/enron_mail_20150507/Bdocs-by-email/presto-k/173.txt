@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+together	1
+power		1
+units		1
+block		1
+mw		1
+create		1
+more		1
+interest	1
+liquid		1
+package		1
+small		1

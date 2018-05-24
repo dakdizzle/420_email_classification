@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+know		3
+missed		2
+anywho		1
+embarassingly	1
+anyone		1
+heck		1
+top		1
+backstabbing	1
+way		1
+apologies	1
+sent		1
+list		1
+jeff		1
+best		1
+don		1
+note		1
+clawing		1
+here		1

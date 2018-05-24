@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+calling		2
+week		2
+become		1
+acouple		1
+hey		1
+physical	1
+know		1
+desk		1
+involved	1
+times		1
+better		1
+getting		1
+seen		1
+assistance	1
+updates		1
+regulatory	1
+more		1
+therapy		1
+sure		1
+weeks		1
+having		1
+don		1
+haven		1
+next		1

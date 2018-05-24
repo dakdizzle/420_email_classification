@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+anything	1
+much		1
+zinc		1
+done		1
+check		1
+gas		1

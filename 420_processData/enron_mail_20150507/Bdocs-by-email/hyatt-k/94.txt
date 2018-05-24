@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+send		1
+details		1
+attached	1
+service		1
+review		1
+public		1
+tuesday		1
+kevin		1
+thanks		1
+khyatt		1
+please		1
+feel		1
+arizona		1
+d		1
+necessary	1
+add		1

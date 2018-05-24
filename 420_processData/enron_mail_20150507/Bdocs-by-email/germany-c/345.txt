@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+taking		1
+free		1
+know		1
+fine		1
+print		1
+out		1
+lie		1
+everyone	1
+shop		1
+read		1
+lunch		1
+don		1
+didn		1

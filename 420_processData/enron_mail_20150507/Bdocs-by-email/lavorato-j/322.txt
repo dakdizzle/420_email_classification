@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+lavo		1
+jlavora		1
+canadian	1
+sell		1
+need		1
+turbines	1
+johnx		1
+pstben		1
+filename	1
+call		1
+lavorato	1

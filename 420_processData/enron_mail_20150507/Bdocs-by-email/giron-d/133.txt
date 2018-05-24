@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+darron		1
+assigned	1
+location	1
+know		1
+giron		1
+tickets		1
+ordered		1
+thanks		1
+seat		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+anything	1
+send		1
+yu		1
+didnt		1

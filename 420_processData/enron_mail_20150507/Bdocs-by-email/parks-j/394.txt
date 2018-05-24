@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+remove		1
+completely	1

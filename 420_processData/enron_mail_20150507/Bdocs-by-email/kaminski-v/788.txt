@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+group		1
+research	1
+vince		1
+under		1
+logo		1
+steve		1
+numbers		1
+mike		1
+producing	1
+still		1

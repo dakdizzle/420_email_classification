@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+approx		1
+ed		1
+soco		1
+under		1
+until		1
+ago		1
+now		1
+entergy		1
+month		1
+scheduler	1
+baughman	1

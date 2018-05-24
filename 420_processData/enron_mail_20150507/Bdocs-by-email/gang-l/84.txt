@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+alls		1
+hope		1
+lisa		1
+well		1

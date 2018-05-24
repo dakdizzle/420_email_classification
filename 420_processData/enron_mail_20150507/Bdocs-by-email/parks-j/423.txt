@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+greg		1
+meeting		1
+yor		1
+cell		1
+message		1
+need		1
+molinas		1
+call		1

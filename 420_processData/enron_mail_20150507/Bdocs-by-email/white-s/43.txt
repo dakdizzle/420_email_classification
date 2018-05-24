@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+first		1
+attaching	1
+certain		1
+time		1
+stacey		1
+attached	1
+again		1
+before		1
+saved		1

@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+together	2
+sitting		1
+happens		1
+make		1
+closedi		1
+now		1
+ours		1
+see		1
+planning	1
+seats		1
+two		1
+check		1
+need		1
+sure		1
+temp		1
+tix		1

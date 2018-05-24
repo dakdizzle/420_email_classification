@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+enron		1
+andrea		1
+langfeldt	1
+com		1

@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+name		2
+tagg		1
+gave		1
+short		1
+counterparty	1
+darrenthe	1
+kamx		1
+new		1
+exist		1
+doesn		1

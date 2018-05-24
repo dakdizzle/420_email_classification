@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+buyback		2
+howard		2
+knows		1
+up		1
+shell		1
+management	1
+path		1
+julie		1
+volume		1
+way		1
+handle		1
+best		1
+comes		1
+set		1
+sure		1
+area		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+texaco		1
+heard		1
+make		1
+chevron		1
+response	1
+someone		1
+dan		1
+call		1
+eminent		1
+ceo		1
+one		1
+more		1
+fifty		1
+last		1
+news		1

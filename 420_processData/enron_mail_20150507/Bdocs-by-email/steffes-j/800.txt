@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+actions		1
+twiggs		1
+specifically	1
+know		1
+jean		1
+desk		1
+thane		1
+keep		1
+activities	1
+loop		1
+take		1
+thanks		1
+formal		1
+jim		1
+please		1
+before		1
+need		1
+ryall		1
+pat		1

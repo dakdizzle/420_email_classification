@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+ed		1
+letter		1
+michelle	1
+drafting	1
+coordinating	1

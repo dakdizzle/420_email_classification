@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+thanks		2
+asap		2
+pl		1
+under		1
+days		1
+few		1
+ask		1
+kam		1
+netco		1
+curves		1
+help		1
+head		1
+out		1
+directory	1
+done		1
+please		1
+nw		1
+need		1
+sw		1
+town		1

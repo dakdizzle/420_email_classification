@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+gmtsubject	1
+jforney		1
+recipients	1
+attachment	1
+inline		1
+na		1
+enron		1
+thursday	1
+follows		1
+ou		1
+august		1
+date		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+out		1
+up		1
+heads		1
+sending		1
+danny		1
+thanks		1

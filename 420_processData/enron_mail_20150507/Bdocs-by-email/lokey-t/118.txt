@@ -1,0 +1,24 @@
+NumWords	41
+NumTerms	21
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+jr		2
+jimmy		1
+jstudeb		1
+thomas		1
+dowden		1
+looks		1
+fking		1
+good		1
+james		1
+jdowden		1
+frazier		1
+king		1
+tnestor		1
+nestor		1
+studebaker	1
+ii		1

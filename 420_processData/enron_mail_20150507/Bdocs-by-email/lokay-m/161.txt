@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+marketers	1
+weekend		1
+tw		1
+current		1
+shelley		1
+schedule	1
+call		1
+here		1

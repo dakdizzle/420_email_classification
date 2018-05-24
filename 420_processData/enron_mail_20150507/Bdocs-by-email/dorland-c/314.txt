@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+gas		2
+info		1
+board		1
+dorlandcanadian	1
+thanxchris	1
+west		1
+desk		1
+web		1
+chris		1
+site		1
+message		1
+please		1
+access		1
+commodity	1
+give		1
+trading		1
+fundamentals	1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+register	1
+vince		1
+please		1
+shirley		1

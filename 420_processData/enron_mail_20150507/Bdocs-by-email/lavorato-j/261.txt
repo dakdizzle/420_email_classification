@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+johnp		1
+happy		1
+january		1
+holidays	1
+pergive		1
+call		1

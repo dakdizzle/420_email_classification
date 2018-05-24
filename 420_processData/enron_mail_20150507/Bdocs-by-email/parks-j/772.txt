@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+brians		1
+plan		1
+lease		1
+position	1
+stick		1
+well		1
+perhaps		1
+without		1
+opening		1
+rules		1
+understand	1
+weekend		1
+going		1
+btw		1

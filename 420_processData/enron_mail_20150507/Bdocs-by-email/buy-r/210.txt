@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+day		1
+know		1
+attention	1
+minute		1
+anything	1
+people		1
+two		1
+sent		1
+office		1
+team		1
+rick		1
+best		1
+difficult	1
+thoughts	1
+think		1
+here		1

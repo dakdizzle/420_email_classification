@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+home		1
+physics		1
+yahoo		1
+mail		1
+number		1
+com		1

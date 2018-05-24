@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+good		1
+sorry		1
+though		1
+game		1
+tkts		1

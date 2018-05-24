@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+m		1
+banker		1
+hall		1
+another		1
+want		1
+today		1
+blackened	1
+interest	1
+going		1
+round		1
+chicken		1
+lunch		1

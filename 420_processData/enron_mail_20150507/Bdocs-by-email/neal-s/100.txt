@@ -1,0 +1,27 @@
+NumWords	31
+NumTerms	24
+
+happy		4
+birthday	4
+youuuu		2
+besitos		1
+amiga		1
+scott		1
+mi		1
+vos		1
+un		1
+frieeeeeeeeennnnnd	1
+ect		1
+besito		1
+neal		1
+waingortin	1
+hou		1
+youu		1
+pmto		1
+enron		1
+ectcc		1
+gran		1
+subject		1
+carolina	1
+gracias		1
+muchas		1

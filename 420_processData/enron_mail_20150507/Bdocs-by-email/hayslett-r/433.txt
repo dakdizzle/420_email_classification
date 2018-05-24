@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+blackberry	2
+make		1
+net		1
+place		1
+wireless	1
+handheld	1
+covered		1
+www		1
+bases		1
+home		1
+whatever	1
+sent		1
+cell		1
+telephone	1
+tree		1
+need		1
+sure		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+yes		1
+th		1
+oct		1

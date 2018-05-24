@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+meeting		1
+enron		1
+thank		1
+sharris		1
+harris		1
+steph		1
+recipients	1
+ou		1
+attend		1
+stephanie	1
+na		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+billing		1
+list		1
+copy		1
+socal		1
+draft		1
+complaint	1
+issue		1

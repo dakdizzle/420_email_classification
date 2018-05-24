@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+seriously	1
+happy		1
+d		1

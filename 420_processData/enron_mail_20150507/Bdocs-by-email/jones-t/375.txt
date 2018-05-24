@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+right		1
+ny		1
+immediately	1
+now		1
+faxed		1
+isda		1
+spoke		1
+alcoa		1

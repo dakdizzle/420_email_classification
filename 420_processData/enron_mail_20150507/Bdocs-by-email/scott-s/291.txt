@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+heard		1
+updates		1
+yes		1
+post		1
+haven		1
+date		1

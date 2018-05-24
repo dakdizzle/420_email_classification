@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+right		1
+now		1
+stop		1
+yea		1
+needs		1

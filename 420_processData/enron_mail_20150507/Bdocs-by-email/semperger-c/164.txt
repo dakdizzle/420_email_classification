@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+awful		1
+feel		1
+called		1
+dave		1

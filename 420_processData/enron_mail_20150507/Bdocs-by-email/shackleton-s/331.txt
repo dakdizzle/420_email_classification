@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+money		2
+eb		1
+fax		1
+ena		1
+minera		1
+verify		1
+ph		1
+parties		1
+now		1
+following	1
+street		1
+compania	1
+wanted		1
+wholesale	1
+out		1
+services	1
+shackletonenron	1
+sara		1
+autlancopamexgalvaki	1
+ahouston	1
+told		1
+tx		1
+smith		1

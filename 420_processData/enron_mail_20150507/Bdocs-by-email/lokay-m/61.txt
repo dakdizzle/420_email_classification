@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+mlokay		2
+cn		2
+juan		2
+san		2
+pstthis		1
+december	1
+recipients	1
+same		1
+filename	1
+na		1
+path		1
+privileged	1
+out		1
+alternates	1
+non		1
+enron		1
+contract	1
+ou		1
+michelle	1
+lokay		1

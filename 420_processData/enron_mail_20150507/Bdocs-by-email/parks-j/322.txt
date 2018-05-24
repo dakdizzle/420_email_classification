@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+name		1
+another		1
+theressa	1
+couple		1
+think		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+validity	1
+procedure	1
+control		1
+function	1
+documented	1
+signature	1
+currently	1
+concerning	1
+product		1

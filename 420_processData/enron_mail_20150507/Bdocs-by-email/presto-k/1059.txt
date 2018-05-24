@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+discuss		1
+asst		1
+job		1
+copy		1
+hard		1
+power		1
+time		1
+up		1
+east		1
+opportunities	1
+please		1
+bring		1
+set		1
+resume		1

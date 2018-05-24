@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+done		1
+reqeuest	1
+please		1
+thankskam	1
+know		1
+cas		1
+through		1

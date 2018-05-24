@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+higher		1
+sourcing	1
+aiming		1
+see		1

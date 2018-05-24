@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+cn		2
+open		1
+appt		1
+meeting		1
+valdez		1
+totally		1
+stacey		1
+end		1
+wednesday	1
+recipients	1
+cvaldez		1
+meet		1
+tuesday		1
+na		1
+christina	1
+dr		1
+anywhere	1
+enron		1
+ou		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+thanks		2
+kim		1
+look		1
+cube		1
+dropping	1
+size		1
+walls		1
+tonight		1
+ll		1

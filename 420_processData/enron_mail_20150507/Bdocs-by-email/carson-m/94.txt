@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+much		1
+meeting		1
+wayne		1
+looking		1
+name		1
+mc		1
+nervous		1
+see		1
+longer		1
+getting		1
+two		1
+forward		1
+weeks		1
+middle		1
+bride		1

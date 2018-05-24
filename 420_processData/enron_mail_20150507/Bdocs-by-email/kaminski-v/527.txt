@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+vincevince	1
+fax		1
+online		1
+gas		1
+www		1
+phone		1
+journal		1
+oil		1
+deshazer	1
+ogjonline	1
+com		1
+laura		1

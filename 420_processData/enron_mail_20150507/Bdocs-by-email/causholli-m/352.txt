@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+flow		1
+map		1
+pulp		1
+peggy		1
+slide		1
+monika		1

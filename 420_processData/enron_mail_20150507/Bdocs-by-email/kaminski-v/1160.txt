@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lessons		1
+aheadand	1
+vince		1
+go		1
+continue	1
+thoughtful	1
+gwyn		1
+very		1

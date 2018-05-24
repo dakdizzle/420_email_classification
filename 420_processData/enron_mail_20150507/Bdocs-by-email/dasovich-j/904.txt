@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+nice		1
+sort		1
+ring		1
+salem		1
+sacramento	1

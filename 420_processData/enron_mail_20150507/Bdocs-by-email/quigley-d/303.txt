@@ -1,0 +1,12 @@
+NumWords	22
+NumTerms	9
+
+bid		4
+settle		3
+adjust		3
+curve		3
+volume		3
+less		2
+offer		2
+know		1
+questions	1

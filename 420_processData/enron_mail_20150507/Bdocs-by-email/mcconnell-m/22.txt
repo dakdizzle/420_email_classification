@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+curry		1
+attend		1
+guthrie		1
+robert		1

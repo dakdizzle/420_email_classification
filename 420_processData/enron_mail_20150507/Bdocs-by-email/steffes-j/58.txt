@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+stated		1
+passing		1
+quickly		1
+sure		1

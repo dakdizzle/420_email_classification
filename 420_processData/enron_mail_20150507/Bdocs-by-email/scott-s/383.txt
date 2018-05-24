@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+up		2
+bean		1
+frig		1
+freezer		1
+wondering	1
+burritos	1
+instead		1
+storage		1
+come		1
+cream		1
+ice		1
+night		1
+methods		1
+last		1
+sue		1
+tonight		1
+new		1

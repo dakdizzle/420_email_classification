@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+don		2
+owe		1
+family		1
+band		1
+guys		1
+keep		1
+cap		1
+bt		1
+knee		1
+posted		1
+morning		1
+way		1
+issues		1
+good		1
+going		1
+decision	1
+mail		1
+issue		1
+checking	1
+worry		1

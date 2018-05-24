@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+beginning	1
+tommorrow	1
+ct		1

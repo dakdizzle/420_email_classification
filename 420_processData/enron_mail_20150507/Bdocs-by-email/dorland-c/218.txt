@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+thanxchris	1
+brad		1
+time		1
+canada		1
+assets		1
+transfer	1
+call		1
+life		1
+matter		1
+asap		1
+sensitive	1
+rrsp		1
+want		1
+mackenzie	1
+need		1

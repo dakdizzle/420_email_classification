@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+last		2
+settlement	1
+timethe		1
+term		1
+cents		1
+gave		1
+settle		1
+numbers		1
+night		1
+change		1
+low		1

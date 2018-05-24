@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+curve		2
+ga		1
+jea		1
+serc		1
+fl		1
+against		1
+booked		1
+deal		1

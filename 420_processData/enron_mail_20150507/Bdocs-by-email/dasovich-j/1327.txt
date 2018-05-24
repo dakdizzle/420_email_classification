@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+shortly		1
+message		1
+jeff		1
+call		1

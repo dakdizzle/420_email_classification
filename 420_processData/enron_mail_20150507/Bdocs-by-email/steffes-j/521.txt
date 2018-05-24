@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+cn		2
+jsteffe		2
+pstgreat	1
+leslie		1
+job		1
+up		1
+keep		1
+recipients	1
+filename	1
+na		1
+privileged	1
+jim		1
+steffes		1
+non		1
+pressure	1
+enron		1
+james		1
+ou		1

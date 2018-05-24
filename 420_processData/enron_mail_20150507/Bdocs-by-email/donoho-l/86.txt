@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+cn		2
+ldonoho		2
+pstcan		1
+recipients	1
+filename	1
+na		1
+help		1
+presentation	1
+privileged	1
+anything	1
+non		1
+enron		1
+donoho		1
+ou		1
+lindy		1
+tw		1

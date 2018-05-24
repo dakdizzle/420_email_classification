@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+message		1
+interested	1
+borrowing	1
+available	1
+again		1
+sager		1
+tape		1
+attend		1
+elizabeth	1
+joannethanks	1
+hi		1
+thanks		1

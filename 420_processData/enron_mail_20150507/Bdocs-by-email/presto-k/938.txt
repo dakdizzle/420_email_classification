@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+beer		1
+well		1
+hospitality	1
+today		1
+tommorow	1
+later		1
+suite		1
+looks		1
+thanks		1
+confirm		1
+room		1
+good		1
+dates		1
+one		1
+use		1
+drinking	1
+ll		1
+mine		1

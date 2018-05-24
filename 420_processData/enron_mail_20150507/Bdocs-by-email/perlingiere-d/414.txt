@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+return		1
+send		1
+asap		1
+signed		1
+back		1
+doc		1
+oh		1
+yes		1
+sorry		1
+thanks		1

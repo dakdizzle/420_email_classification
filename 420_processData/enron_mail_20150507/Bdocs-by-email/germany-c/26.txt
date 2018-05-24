@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+invoices	2
+mar		1
+info		1
+chorus		1
+gave		1
+jan		1
+dec		1
+tidelanders	1
+feb		1
+thanks		1

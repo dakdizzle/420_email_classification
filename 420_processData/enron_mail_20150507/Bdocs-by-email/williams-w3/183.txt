@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+email		1
+bill		1
+thank		1

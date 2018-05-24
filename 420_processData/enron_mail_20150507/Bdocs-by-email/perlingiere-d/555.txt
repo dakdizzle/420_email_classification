@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+evening		1
+end		1
+go		1
+one		1
+maybe		1
+due		1
+week		1
+heat		1

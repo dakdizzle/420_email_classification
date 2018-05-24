@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+hand		1
+letters		1
+first		1
+conversation	1
+day		1
+under		1
+page		1
+further		1
+headlines	1
+left		1
+bt		1
+sonya		1
+look		1
+chance		1
+read		1
+side		1
+couple		1
+still		1

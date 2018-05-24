@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+card		1
+though		1

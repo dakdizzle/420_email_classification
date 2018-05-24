@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+together	2
+analysis	1
+talk		1
+rules		1
+recommendation	1
+putting		1
+week		1
+new		1
+next		1
+goodwill	1

@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+bid		1
+deadline	1
+talk		1
+guys		1
+pipelines	1
+see		1
+capacity	1
+thin		1
+scattered	1
+show		1
+want		1
+probably	1
+lawyers		1
+pretty		1
+don		1
+happen		1

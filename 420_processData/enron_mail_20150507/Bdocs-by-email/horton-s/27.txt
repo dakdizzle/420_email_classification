@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+day		2
+talk		1
+mean		1
+later		1
+daddy		1
+improving	1
+standing	1
+actually	1
+getting		1
+out		1
+worse		1
+rains		1
+questions	1
+more		1
+going		1
+bad		1
+doing		1

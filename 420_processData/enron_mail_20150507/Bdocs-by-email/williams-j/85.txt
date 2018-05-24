@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+list		1
+mailing		1
+please		1
+tale		1

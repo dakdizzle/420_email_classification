@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+pereira		2
+session		2
+th		2
+summer		1
+daughter	1
+registered	1
+change		1
+work		1
+susan		1
+currently	1
+kali		1
+thanks		1

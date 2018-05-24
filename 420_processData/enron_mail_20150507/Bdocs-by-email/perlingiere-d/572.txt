@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+receipt		1
+reviewing	1
+same		1
+gisb		1
+thanks		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+remind		1
+again		1
+bet		1

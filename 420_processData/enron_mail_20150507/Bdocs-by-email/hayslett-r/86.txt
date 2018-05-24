@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+shortly		1
+way		1
+agreed		1
+close		1
+press		1
+thereafter	1
+therefore	1
+release		1
+deal		1
+very		1

@@ -1,0 +1,23 @@
+NumWords	27
+NumTerms	20
+
+logic		3
+deals		3
+ng		2
+canadian	2
+book		2
+cutoff		1
+price		1
+bankruptcy	1
+go		1
+change		1
+cad		1
+financial	1
+probably	1
+gj		1
+deal		1
+move		1
+based		1
+date		1
+needs		1
+appropriate	1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+much		1
+well		1
+field		1
+help		1
+thanks		1

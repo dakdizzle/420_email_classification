@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+make		1
+hey		1
+courtney	1
+know		1
+susan		1
+wanted		1
+thanks		1
+anything	1
+check		1
+membership	1
+please		1
+need		1
+last		1
+week		1
+sure		1
+didn		1

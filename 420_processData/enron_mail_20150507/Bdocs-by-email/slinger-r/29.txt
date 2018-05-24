@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+bill		2
+thursdday	1
+enter		1
+please		1
+drawing		1
+iii		1
+williams	1
+tickets		1
+thanks		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+around		1
+somethime	1
+hey		1
+hope		1
+jeff		1
+nyc		1
+beign		1
+bubbie		1
+week		1
+planning	1
+next		1
+better		1

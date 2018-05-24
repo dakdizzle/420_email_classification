@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+white		2
+cn		2
+please		2
+leslie		1
+complete	1
+stacy		1
+pstcasey	1
+stacey		1
+know		1
+december	1
+deals		1
+following	1
+recipients	1
+filename	1
+na		1
+schedule	1
+staceydeal	1
+swhite		1
+enron		1
+ou		1
+auto		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+tnlc		1
+confirm		1

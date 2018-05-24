@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+agreed		1
+up		1
+power		1
+administrative	1
+post		1
+ways		1
+minimal		1
+ees		1
+east		1
+help		1
+speed		1
+two		1
+effort		1
+want		1
+janet		1
+traders		1
+eol		1
+process		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+president	1
+logistics	1
+gas		1
+approve		1
+ets		1
+below		1
+access		1
+cormanvice	1
+shelley		1
+noted		1

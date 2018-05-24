@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+whatever	1
+working		1
+thanksgiving	1
+nothing		1
+absolutely	1
+slow		1
+doing		1
+very		1

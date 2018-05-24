@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+heard		2
+here		2
+floor		1
+working		1
+guys		1
+exciting	1
+east		1
+denver		1
+out		1
+friends		1
+dinner		1
+tomorrow	1
+night		1
+work		1
+going		1
+rehersal	1
+went		1
+pretty		1
+haven		1
+trading		1

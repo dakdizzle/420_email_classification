@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+information	1
+zhiyong		1
+pivot		1
+handled		1
+scenario	1
+once		1
+kamx		1
+tables		1
+schedule	1
+out		1
+each		1
+todd		1
+gets		1
+fill		1
+kristen		1
+hall		1
+want		1
+similar		1

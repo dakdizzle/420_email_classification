@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+apologies	1
+sent		1
+ya		1
+fyi		1
+already		1
+ll		1

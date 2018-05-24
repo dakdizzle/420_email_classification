@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+dates		1
+tara		1
+missing		1
+following	1
+wiccig		1
+ranges		1
+looks		1
+mat		1
+inclusive	1
+date		1
+wic		1
+cig		1

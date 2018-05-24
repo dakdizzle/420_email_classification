@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+choice		1
+now		1
+don		1
+think		1

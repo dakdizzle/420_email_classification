@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+mwh		1
+thinks		1
+gas		1
+desk		1
+ala		1
+price		1
+alan		1
+cap		1
+pjm		1
+jim		1
+whatever	1
+right		1
+simple		1
+index		1
+deriviative	1
+thought		1

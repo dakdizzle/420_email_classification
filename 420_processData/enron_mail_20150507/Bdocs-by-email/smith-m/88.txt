@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+effective	2
+please		2
+problems	1
+pgt		1
+know		1
+attached	1
+load		1
+file		1
+thanks		1
+pipeline	1
+delete		1
+less		1
+dates		1
+historicals	1
+data		1
+angela		1
+mat		1
+november	1
+through		1
+date		1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+day		2
+gas		1
+load		1
+blue		1
+bt		1
+diamond		1
+offer		1
+manage		1
+show		1
+sell		1
+want		1
+sppc		1
+dave		1
+oct		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+m		1
+save		1
+sure		1
+don		1
+mails		1
+general		1
+vlady		1

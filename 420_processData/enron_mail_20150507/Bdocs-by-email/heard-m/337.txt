@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+send		2
+copy		2
+sent		2
+termination	2
+reply		1
+marie		1
+prepares	1
+whoever		1
+minsa		1
+thanks		1
+out		1
+gordon		1
+office		1
+received	1
+grupo		1
+asking		1
+mail		1
+diane		1
+hi		1

@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+problems	1
+sically		1
+ba		1
+case		1
+man		1
+up		1
+desk		1
+fyi		1
+etc		1
+reserved	1
+computer	1
+second		1
+building	1
+nothing		1
+set		1
+move		1

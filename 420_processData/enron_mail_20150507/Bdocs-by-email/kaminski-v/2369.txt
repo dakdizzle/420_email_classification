@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+vince		1
+mentioned	1
+today		1
+letter		1
+person		1
+janet		1
+thebreakfast	1
+cover		1
+resume		1

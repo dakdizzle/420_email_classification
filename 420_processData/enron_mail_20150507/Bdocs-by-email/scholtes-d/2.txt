@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+ds		1
+out		1
+events		1
+much		1
+m		1
+name		1
+fund		1
+money		1
+sure		1
+types		1
+help		1

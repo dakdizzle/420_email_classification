@@ -1,0 +1,12 @@
+NumWords	12
+NumTerms	9
+
+marks		2
+trades		2
+today		2
+pm		1
+send		1
+well		1
+jan		1
+before		1
+thanksjohn	1

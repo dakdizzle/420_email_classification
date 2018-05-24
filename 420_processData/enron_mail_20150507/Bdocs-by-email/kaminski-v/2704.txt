@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+vkamins		2
+vince		2
+cn		2
+goldenfeld	1
+join		1
+glad		1
+recipients	1
+filename	1
+na		1
+pstlarry	1
+privileged	1
+dinner		1
+prof		1
+non		1
+enron		1
+shall		1
+ou		1
+kaminski	1

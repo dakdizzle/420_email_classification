@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+seminar		1
+work		1
+probably	1
+cost		1
+education	1
+kaufman		1
+through		1

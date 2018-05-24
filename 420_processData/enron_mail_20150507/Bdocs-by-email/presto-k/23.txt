@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+dana		1
+davis		1
+believe		1
+signed		1
+confirm		1

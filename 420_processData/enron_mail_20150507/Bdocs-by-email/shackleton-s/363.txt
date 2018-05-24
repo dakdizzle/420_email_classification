@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+second		1
+revision	1
+hand		1
+ignore		1
+sara		1
+below		1
+attachment	1
+joanne		1
+template	1
+ll		1

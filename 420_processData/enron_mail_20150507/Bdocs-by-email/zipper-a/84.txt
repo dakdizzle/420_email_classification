@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+policy		1
+user		1
+up		1
+justin		1
+lara		1
+acceptance	1
+master		1
+platform	1
+go		1
+document	1
+ahead		1
+need		1
+coordinate	1
+set		1
+ews		1

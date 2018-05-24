@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+welsh		1
+heard		1
+politically	1
+saying		1
+jeff		1
+best		1
+term		1
+correct		1
+ps		1
+don		1
+think		1

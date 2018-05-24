@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+work		2
+phenomenal	1
+many		1
+hope		1
+feel		1
+hugs		1
+ethic		1
+biggest		1
+fan		1
+give		1
+think		1
+better		1

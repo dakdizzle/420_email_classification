@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+enron		2
+control		2
+over		2
+operation	1
+under		1
+power		1
+files		1
+contact		1
+canada		1
+system		1
+number		1
+perform		1
+willing		1
+corp		1
+question	1
+controller	1
+process		1
+processes	1

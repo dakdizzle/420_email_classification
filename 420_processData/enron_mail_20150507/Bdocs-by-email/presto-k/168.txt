@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+very		2
+group		1
+asst		1
+welcome		1
+hard		1
+achieved	1
+fantastic	1
+holidays	1
+thanks		1
+without		1
+happy		1
+again		1
+work		1

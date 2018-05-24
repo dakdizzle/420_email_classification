@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+up		1
+please		1
+keep		1
+thanks		1
+date		1

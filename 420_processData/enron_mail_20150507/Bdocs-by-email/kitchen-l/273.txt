@@ -1,0 +1,12 @@
+NumWords	12
+NumTerms	9
+
+show		2
+doubletree	2
+ppt		2
+bit		1
+attached	1
+entertainment	1
+light		1
+file		1
+see		1

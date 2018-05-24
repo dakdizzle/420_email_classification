@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+things		2
+same		2
+old		2
+email		1
+hey		1
+scott		1
+job		1
+fine		1
+phone		1
+best		1
+eric		1
+work		1
+address		1
+still		1
+here		1

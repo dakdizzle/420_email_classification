@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+version		1
+attached	1
+redline		1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+memo		2
+sent		1
+directory	1
+admin		1
+know		1
+contract	1
+blue		1
+top		1
+file		1
+don		1
+head		1

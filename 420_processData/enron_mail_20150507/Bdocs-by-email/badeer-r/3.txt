@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+building	1
+ina		1
+floor		1
+right		1
+grigs		1
+th		1
+new		1

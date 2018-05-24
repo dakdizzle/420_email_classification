@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+stuff		1
+long		1
+sent		1
+time		1
+worksheet	1
+know		1
+ago		1
+gelber		1

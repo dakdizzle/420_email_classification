@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+problems	1
+stuff		1
+know		1
+enpower		1
+correctly	1
+pull		1
+thanks		1

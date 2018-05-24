@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+between		1
+pm		1
+meeting		1
+pulp		1
+psttraders	1
+comx		1
+today		1
+filename	1
+carter		1
+thanks		1
+privileged	1
+room		1
+non		1
+mx		1
+enron		1
+causholli	1
+mcaushol	1
+origin		1
+held		1
+monika		1

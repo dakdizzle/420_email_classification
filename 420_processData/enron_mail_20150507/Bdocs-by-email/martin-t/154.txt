@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+know		2
+apologize	1
+now		1
+tom		1
+don		1
+never		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+shin		1
+texas		1
+gas		1
+dig		1
+ll		1

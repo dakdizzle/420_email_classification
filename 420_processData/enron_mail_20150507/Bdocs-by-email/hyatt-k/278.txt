@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+day		1
+time		1
+office		1
+topic		1
+alternate	1
+know		1
+returning	1
+meet		1
+travelling	1

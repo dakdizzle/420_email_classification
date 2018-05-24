@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+party		1
+up		1
+prostitute	1
+find		1
+watch		1
+sorry		1
+r		1
+talked		1
+lsu		1
+out		1
+people		1
+pimps		1
+back		1
+go		1
+night		1
+town		1
+last		1
+having		1
+didn		1

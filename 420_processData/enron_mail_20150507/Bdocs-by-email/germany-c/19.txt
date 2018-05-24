@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+charges		2
+processsing	1
+payment		1
+worksheet	1
+bills		1
+cgas		1
+amounts		1
+see		1
+numbers		1
+column		1
+another		1
+cnr		1
+need		1
+add		1

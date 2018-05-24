@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+drug		1
+done		1
+until		1
+won		1
+test		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+redlines	1
+revised		1
+paul		1
+changes		1
+confirms	1
+attached	1
+discussed	1

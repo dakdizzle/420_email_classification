@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+order		1
+updates		1
+helpful		1
+book		1

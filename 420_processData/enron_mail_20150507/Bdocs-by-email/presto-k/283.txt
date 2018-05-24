@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+book		1
+going		1
+management	1
+million		1
+hit		1
+take		1

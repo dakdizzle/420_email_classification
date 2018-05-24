@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+luv		1
+toodq		1

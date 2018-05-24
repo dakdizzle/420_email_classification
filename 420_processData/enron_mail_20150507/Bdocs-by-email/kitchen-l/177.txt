@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+idea		1
+made		1
+decision	1

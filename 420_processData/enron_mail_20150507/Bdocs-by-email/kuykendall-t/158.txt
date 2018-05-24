@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+couldnt		2
+stock		1
+time		1
+statement	1
+talked		1
+really		1
+hope		1
+rick		1
+ahold		1
+sell		1
+restating	1
+financial	1
+bad		1
+sucks		1
+halted		1
+trading		1

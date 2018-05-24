@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+together	1
+time		1
+know		1
+things		1
+kevin		1
+search		1
+help		1
+lot		1
+believe		1
+more		1
+saturday	1
+next		1
+ll		1

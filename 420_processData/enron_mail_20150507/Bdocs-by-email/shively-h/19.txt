@@ -1,0 +1,13 @@
+NumWords	13
+NumTerms	10
+
+hunter		2
+cn		2
+shively		2
+enron		1
+pstagreed	1
+recipients	1
+ou		1
+filename	1
+na		1
+hshivel		1

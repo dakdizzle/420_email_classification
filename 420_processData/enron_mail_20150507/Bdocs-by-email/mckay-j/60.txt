@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+email		1
+regards		1
+hey		1
+jeff		1
+jon		1
+reach		1
+correct		1
+address		1

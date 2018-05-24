@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+president	1
+powerpoint	1
+mark		1
+embedded	1
+microsoft	1
+counselenron	1
+services	1
+slide		1
+taylorvice	1
+wholesale	1
+general		1

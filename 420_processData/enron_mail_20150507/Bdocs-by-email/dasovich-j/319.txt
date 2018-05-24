@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+couldn		1
+agree		1
+more		1
+kidding		1

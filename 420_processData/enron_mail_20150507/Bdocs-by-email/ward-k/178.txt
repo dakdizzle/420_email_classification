@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+bhp		1
+want		1
+august		1

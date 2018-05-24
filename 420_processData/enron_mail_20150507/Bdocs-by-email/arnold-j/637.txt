@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+main		1
+maruba		1
+http		1
+jan		1
+www		1
+spa		1
+shtmldec	1
+com		1

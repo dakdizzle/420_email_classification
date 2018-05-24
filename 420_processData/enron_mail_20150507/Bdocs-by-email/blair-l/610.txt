@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+fun		1
+day		1
+great		1
+interested	1
+thought		1
+seeing		1

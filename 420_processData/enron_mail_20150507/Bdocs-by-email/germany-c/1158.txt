@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+suzie		1
+liz		1
+speak		1
+lauri		1
+zzy		1
+dialed		1
+asked		1
+transfer	1
+transferred	1
+anwsered	1
+number		1
+expecting	1

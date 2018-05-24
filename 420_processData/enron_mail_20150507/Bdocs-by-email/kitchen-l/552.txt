@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+kitchen		2
+enron		2
+europe		1
+up		1
+quite		1
+comx		1
+ended		1
+louise		1
+filename	1
+lot		1
+lx		1
+davis		1
+clearly		1
+pstnot		1
+origin		1
+need		1
+below		1
+angela		1
+bother		1
+sure		1

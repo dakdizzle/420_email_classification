@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+zipper		2
+andy		2
+cn		2
+make		1
+pstdo		1
+azipper		1
+recipients	1
+filename	1
+na		1
+enron		1
+official	1
+want		1
+ou		1

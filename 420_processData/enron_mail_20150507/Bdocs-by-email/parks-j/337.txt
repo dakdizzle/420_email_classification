@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+monday		1
+dont		1
+barbie		1
+back		1
+think		1
+robin		1

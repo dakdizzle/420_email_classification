@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+ll		2
+anything	1
+care		1
+jeff		1
+best		1
+know		1
+need		1
+take		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+enron		1
+powerindexdutch	1
+unsubscribe	1
+quigley		1
+com		1

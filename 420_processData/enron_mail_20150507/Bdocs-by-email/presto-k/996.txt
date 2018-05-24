@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+reflects	1
+experience	1
+sweet		1
+competitiveness	1
+short		1
+bring		1
+sell		1
+ethic		1
+work		1
+resume		1
+zero		1

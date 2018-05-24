@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+m		2
+guessing	1
+crowded		1
+more		1
+flexible	1

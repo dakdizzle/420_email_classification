@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+assume		1
+exp		1
+hotel		1
+reserve		1
+mc		1
+mat		1
+thanks		1

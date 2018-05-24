@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+minute		1
+talk		1

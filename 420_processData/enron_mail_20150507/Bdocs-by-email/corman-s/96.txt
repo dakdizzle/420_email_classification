@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+contacts	1
+email		1
+confusion	1
+liz		1
+online		1
+casual		1
+keep		1
+sorry		1
+along		1
+attachment	1
+take		1
+printed		1
+ve		1
+gras		1
+reading		1
+want		1
+going		1
+need		1
+address		1
+read		1
+don		1
+add		1
+ll		1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+m		2
+buddy		1
+hello		1
+talk		1
+guess		1
+dinergy		1
+call		1
+anyway		1
+employed	1
+couldn		1
+enron		1
+going		1
+mike		1
+still		1

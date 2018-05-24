@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+pardner		1
+word		1
+shouldn		1
+company		1
+use		1
+intra		1
+prolly		1
+mail		1

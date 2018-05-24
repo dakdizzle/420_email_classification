@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+calendaring	1
+list		1
+kelly		1
+assistant	1
+tell		1
+members		1
+michelle	1
+gss		1
+names		1
+based		1
+ll		1

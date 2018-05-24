@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+look		1
+page		1
+file		1
+pdf		1

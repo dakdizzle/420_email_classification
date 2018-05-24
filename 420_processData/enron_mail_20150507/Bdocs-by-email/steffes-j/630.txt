@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+case		1
+guessing	1
+company		1
+imserve		1
+vendor		1
+etc		1
+csc		1
+help		1
+evan		1
+arrangement	1
+jim		1
+billing		1
+m		1
+one		1
+want		1
+nature		1
+hughes		1
+janine		1
+business	1
+determine	1
+mail		1
+don		1
+give		1
+think		1

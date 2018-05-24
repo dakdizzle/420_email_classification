@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+trading		2
+xls		1
+open		1
+global		1
+book		1
+financial	1
+houston		1
+enehou		1
+common		1
+filename	1
+workbooks	1
+exchangefile	1

@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+rebecca		1
+heard		1
+counterparties	1
+paul		1
+know		1
+comx		1
+attached	1
+marie		1
+radous		1
+referenced	1
+filename	1
+isdas		1
+privileged	1
+anything	1
+pstpatrick	1
+non		1
+deemed		1
+mx		1
+enron		1
+questions	1
+origin		1
+need		1
+mheard		1

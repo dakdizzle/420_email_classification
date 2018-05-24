@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+lynn		1
+sga		1
+changing	1
+rick		1
+typical		1
+again		1
+woman		1
+conference	1
+mind		1
+call		1

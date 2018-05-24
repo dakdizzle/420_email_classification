@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+cn		2
+enron		2
+stock		1
+know		1
+options		1
+restricted	1
+kmelodi		1
+recipients	1
+chris		1
+na		1
+kim		1
+received	1
+started		1
+ou		1
+thanx		1
+melodick	1

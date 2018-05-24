@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+way		1
+happy		1
+year		1
+new		1

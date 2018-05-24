@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+interested	1
+rick		1
+know		1
+tx		1
+business	1
+help		1
+very		1
+thanks		1

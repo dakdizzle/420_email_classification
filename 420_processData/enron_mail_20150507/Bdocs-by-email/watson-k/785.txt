@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+know		2
+look		1
+july		1
+ily		1
+anyone		1
+florida		1
+going		1
+schedule	1
+miami		1
+didn		1

@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+schedule	2
+cn		2
+btychol		2
+exiting		1
+www		1
+recipients	1
+filename	1
+na		1
+bt		1
+privileged	1
+riceowls	1
+tycholiz	1
+non		1
+psthere		1
+enron		1
+barry		1
+against		1
+ou		1
+nevada		1
+game		1
+oct		1
+com		1
+next		1

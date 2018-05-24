@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+ready		2
+notice		1
+supposed	1
+today		1
+schedules	1
+aware		1
+great		1
+training	1
+opportunity	1
+havent		1
+yes		1
+iso		1
+submit		1
+smitty		1
+jmf		1
+practice	1

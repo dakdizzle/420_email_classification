@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+cn		2
+nemec		2
+gerald		2
+pstthanks	1
+word		1
+hearing		1
+recipients	1
+filename	1
+na		1
+expect		1
+privileged	1
+gnemec		1
+non		1
+enron		1
+turnaround	1
+ou		1
+set		1
+quick		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+much		1
+interested	1
+participating	1
+interest	1
+inquiry		1
+appreciate	1
+very		1
+thanks		1

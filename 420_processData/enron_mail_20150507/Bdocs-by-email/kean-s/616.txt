@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+release		2
+attached	1
+draft		1
+mean		1
+pessimistic	1
+out		1
+soon		1
+way		1
+toget		1
+good		1
+come		1
+need		1
+contain		1
+news		1
+didn		1

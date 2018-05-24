@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+ok		1
+know		1
+assuming	1
+crc		1
+wanted		1
+deliveries	1
+m		1
+sean		1
+mid		1
+called		1
+dec		1
+otherwise	1
+delivering	1
+resume		1

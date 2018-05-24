@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+day		3
+nov		2
+mar		1
+park		1
+broad		1
+deals		1
+following	1
+jan		1
+purchased	1
+yesterday	1
+contracts	1
+transport	1
+rolled		1
+overton		1
+run		1
+loans		1
+ms		1
+feb		1
+november	1

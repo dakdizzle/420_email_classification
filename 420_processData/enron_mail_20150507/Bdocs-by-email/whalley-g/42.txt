@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+discuss		1
+monday		1
+meeting		1
+state		1
+reactions	1
+senate		1
+yesterday	1
+talked		1
+morning		1
+sanders		1
+one		1
+having		1
+subpoena	1

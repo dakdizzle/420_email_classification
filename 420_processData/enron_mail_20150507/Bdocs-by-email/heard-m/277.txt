@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+cn		2
+enron		2
+mheard		2
+shortly		1
+heard		1
+guaranty	1
+pstoops		1
+working		1
+supposed	1
+marie		1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+sara		1
+tell		1
+ou		1
+corp		1

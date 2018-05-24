@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+between		1
+dq		1
+delivered	1
+couch		1
+tomorrow	1
+set		1

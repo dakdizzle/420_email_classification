@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+bart		1
+come		1
+until		1
+create		1
+proper		1
+loads		1
+need		1
+file		1
+access		1
+mat		1
+ll		1
+over		1

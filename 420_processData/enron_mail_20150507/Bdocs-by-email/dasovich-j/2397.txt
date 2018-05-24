@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+points		1
+fun		1
+remainder	1
+quot		1
+used		1
+exclamation	1
+year		1
+very		1

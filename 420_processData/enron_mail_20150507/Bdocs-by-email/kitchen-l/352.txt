@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+louise		3
+kitchen		2
+cn		2
+officerenron	1
+fax		1
+pstkeohane	1
+operating	1
+york		1
+recipients	1
+kitchenchief	1
+someone		1
+filename	1
+na		1
+lkitchen	1
+way		1
+americastel	1
+enron		1
+ou		1
+tonight		1
+new		1

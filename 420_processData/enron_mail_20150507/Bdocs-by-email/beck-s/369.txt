@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+first		1
+around		1
+time		1
+sally		1
+sorry		1
+see		1
+joannie		1
+didn		1
+thanks		1

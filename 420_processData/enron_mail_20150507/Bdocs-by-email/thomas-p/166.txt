@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+soon		1
+hope		1
+leaving		1
+yame		1
+outta		1
+think		1
+love		1
+here		1

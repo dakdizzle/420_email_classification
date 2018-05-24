@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+bill		1
+work		1
+pdx		1
+th		1
+bob		1
+see		1
+thanks		1

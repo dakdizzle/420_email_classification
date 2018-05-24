@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+maureen		1
+vince		1
+meeting		1
+ok		1
+up		1
+pease		1
+set		1

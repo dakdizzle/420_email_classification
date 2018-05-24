@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+cuts		1
+deliveries	1
+together	1
+put		1
+sheet		1
+please		1
+contract	1
+mike		1
+deal		1
+making		1
+thanks		1

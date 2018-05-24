@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+paul		1
+position	1
+wouldn		1
+receivables	1
+spots		1
+continues	1
+guys		1
+today		1
+street		1
+pick		1
+knowing		1
+form		1
+bt		1
+existing	1
+exposures	1
+thanks		1
+payables	1
+dealings	1
+mtm		1
+everyone	1
+mind		1
+new		1
+note		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+contact		1
+duke		1

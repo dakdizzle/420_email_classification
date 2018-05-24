@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+live		1
+up		1
+chad		1
+hit		1

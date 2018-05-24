@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+down		1
+m		1
+bit		1
+quite		1
+connecticut	1
+narrows		1
+remembering	1
+correctly	1

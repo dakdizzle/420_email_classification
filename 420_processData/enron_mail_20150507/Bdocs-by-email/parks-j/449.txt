@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+dont		1
+ricky		1
+know		1
+deseal		1
+price		1
+high		1
+call		1

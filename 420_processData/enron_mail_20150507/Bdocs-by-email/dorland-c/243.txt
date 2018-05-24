@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+products	1
+thanxchris	1
+adm		1
+currency	1
+usd		1
+need		1
+stephanie	1
+eol		1
+access		1
+trade		1
+dorland		1

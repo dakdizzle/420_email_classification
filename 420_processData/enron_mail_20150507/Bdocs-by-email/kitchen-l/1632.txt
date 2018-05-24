@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+christmas	1
+even		1
+holidays	1

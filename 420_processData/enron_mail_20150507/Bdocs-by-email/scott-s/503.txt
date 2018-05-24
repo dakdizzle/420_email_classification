@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+http		1
+interesting	1
+jobs		1
+crosenbe	1
+edu		1
+find		1
+nd		1
+www		1
+htmlthought	1

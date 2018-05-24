@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+please		1
+derrick		1
+proceed		1

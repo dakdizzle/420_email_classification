@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+go		1
+ahead		1
+problem		1

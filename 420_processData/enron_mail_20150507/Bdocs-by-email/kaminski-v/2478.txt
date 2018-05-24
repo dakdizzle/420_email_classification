@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+shortly		1
+vince		1
+diane		1

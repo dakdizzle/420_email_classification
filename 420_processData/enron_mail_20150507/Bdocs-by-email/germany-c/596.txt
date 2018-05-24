@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+chris		2
+cn		2
+germany		2
+key		1
+cgerman		1
+person		1
+recipients	1
+sounds		1
+filename	1
+na		1
+pstlee		1
+thanks		1
+enron		1
+gloria		1
+ou		1
+don		1
+request		1
+worry		1
+ann		1

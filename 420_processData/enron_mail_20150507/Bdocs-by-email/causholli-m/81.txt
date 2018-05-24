@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+caushollienron	1
+attending	1
+markets		1
+industrial	1
+thanksmonika	1

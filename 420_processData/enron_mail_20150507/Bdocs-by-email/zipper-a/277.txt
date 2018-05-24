@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+nm		1
+hrs		1

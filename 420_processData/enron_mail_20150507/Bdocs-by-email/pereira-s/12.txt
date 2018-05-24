@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+december	2
+ormet		2
+first		1
+talk		1
+pereira		1
+know		1
+gas		1
+craig		1
+served		1
+deals		1
+susan		1
+hub		1
+nymex		1
+default		1
+concerning	1
+deliveries	1
+transport	1
+length		1
+want		1
+use		1
+don		1
+very		1

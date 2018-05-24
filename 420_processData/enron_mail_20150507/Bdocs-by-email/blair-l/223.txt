@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lynn		1
+terry		1
+please		1
+darrell		1
+kowalke		1
+schoolcraft	1
+alma		1
+include		1
+thanks		1

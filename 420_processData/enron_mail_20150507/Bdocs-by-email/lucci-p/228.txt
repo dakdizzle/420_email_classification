@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+house		1
+around		1
+football	1
+hung		1
+watched		1
+worked		1
+yesterday	1

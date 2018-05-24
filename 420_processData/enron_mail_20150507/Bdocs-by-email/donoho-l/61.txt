@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+days		1
+vacation	1
+audrey		1
+took		1
+thanks		1

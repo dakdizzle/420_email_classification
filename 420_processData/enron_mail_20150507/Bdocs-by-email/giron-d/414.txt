@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+morning		1
+out		1
+quot		1
+office		1
+friday		1
+dg		1
+later		1
+thanks		1
+call		1
+ll		1

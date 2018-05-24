@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+tariff		1
+fpc		1
+complicated	1
+forward		1
+more		1
+curve		1
+don		1
+still		1
+mails		1

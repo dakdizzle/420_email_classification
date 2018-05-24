@@ -1,0 +1,20 @@
+NumWords	36
+NumTerms	17
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+leslie		1
+rhall		1
+stacey		1
+lreeves		1
+kam		1
+reeves		1
+bob		1
+white		1
+kkeiser		1
+swhite		1
+hall		1
+keiser		1

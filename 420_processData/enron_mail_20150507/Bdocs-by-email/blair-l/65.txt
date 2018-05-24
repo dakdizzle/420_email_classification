@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lynn		1
+plan		1
+john		1
+attending	1
+thanks		1

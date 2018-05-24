@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+arizona		2
+puc		1
+pie		1
+power		1
+source		1
+commission	1
+corporation	1
+slide		1
+markets		1
+growing		1
+generation	1

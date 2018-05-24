@@ -1,0 +1,23 @@
+NumWords	26
+NumTerms	20
+
+go		3
+book		3
+gas		2
+daily		2
+gd		1
+position	1
+things		1
+thanksaz	1
+nov		1
+trade		1
+pimenov		1
+corect		1
+two		1
+please		1
+tz		1
+bot		1
+swap		1
+below		1
+move		1
+vladi		1

@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+cn		2
+jsteffe		2
+territory	1
+restricitions	1
+present		1
+obligation	1
+recipients	1
+same		1
+filename	1
+na		1
+ees		1
+itself		1
+marketer	1
+privileged	1
+jim		1
+steffes		1
+pstfyi		1
+non		1
+enron		1
+obligations	1
+illinois	1
+ip		1
+james		1
+ou		1

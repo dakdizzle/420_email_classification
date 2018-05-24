@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+tgeacco		2
+cn		2
+pstyes		1
+meeting		1
+december	1
+stan		1
+recipients	1
+geaccone	1
+meet		1
+filename	1
+na		1
+actually	1
+privileged	1
+tracy		1
+non		1
+enron		1
+go		1
+thankstracy	1
+rod		1
+ahead		1
+ou		1
+everyone	1
+november	1
+cancel		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+copy		1
+bills		1
+sending		1
+correct		1
+ponderosa	1
+ll		1

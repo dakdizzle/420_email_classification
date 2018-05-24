@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+little		1
+right		1
+time		1
+jeff		1
+best		1
+probably	1
+names		1
+problem		1
+timeframe	1
+give		1
+yesterday	1
+ll		1

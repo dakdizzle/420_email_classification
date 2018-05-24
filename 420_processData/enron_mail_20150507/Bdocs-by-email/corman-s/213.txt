@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+without		1
+supply		1
+ena		1
+equation	1
+breakdown	1
+fyi		1
+fpl		1
+looks		1

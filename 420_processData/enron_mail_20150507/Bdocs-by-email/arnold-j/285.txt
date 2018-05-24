@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+assume		1
+orders		1
+limit		1
+ready		1
+test		1

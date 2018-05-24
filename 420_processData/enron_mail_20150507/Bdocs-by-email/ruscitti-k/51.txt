@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+handle		1
+except		1
+weight		1
+well		1
+basically	1
+bigger		1
+thingas		1
+isn		1
+size		1
+same		1
+think		1
+theadded	1

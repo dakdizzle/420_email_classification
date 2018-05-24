@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+plove		2
+cn		2
+pl		1
+binder		1
+know		1
+pstcan		1
+recipients	1
+phillip		1
+filename	1
+na		1
+help		1
+take		1
+thanks		1
+privileged	1
+look		1
+non		1
+natalie		1
+enron		1
+ou		1
+think		1
+love		1

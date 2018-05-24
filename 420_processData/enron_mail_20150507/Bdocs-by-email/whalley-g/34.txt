@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+discuss		1
+really		1
+interact	1
+know		1
+happy		1
+enrononline	1
+enymex		1

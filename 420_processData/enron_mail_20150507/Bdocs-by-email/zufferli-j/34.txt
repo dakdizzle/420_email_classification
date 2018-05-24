@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+john		2
+cn		2
+zufferli	2
+updated		1
+jzuffer		1
+recipients	1
+responsibility	1
+names		1
+filename	1
+na		1
+list		1
+psthere		1
+enron		1
+ou		1

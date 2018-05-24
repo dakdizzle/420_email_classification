@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+welcome		1
+eol		1

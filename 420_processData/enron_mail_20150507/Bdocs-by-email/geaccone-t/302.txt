@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+tgeacco		2
+cn		2
+shortly		1
+pstwe		1
+trying		1
+recipients	1
+geaccone	1
+filename	1
+na		1
+privileged	1
+tracy		1
+non		1
+enron		1
+back		1
+work		1
+ou		1
+still		1
+through		1

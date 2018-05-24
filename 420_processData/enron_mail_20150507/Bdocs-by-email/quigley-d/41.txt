@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+energy		1
+connections	1
+power		1
+up		1
+management	1
+remote		1
+program		1
+electricity	1
+signed		1
+durness		1
+wayhouston	1
+added		1
+tx		1
+pilot		1
+quigley		1
+solutionhenry	1
+new		1
+newpower	1
+through		1

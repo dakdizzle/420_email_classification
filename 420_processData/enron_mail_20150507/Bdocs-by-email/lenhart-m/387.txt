@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+avs		1
+clubs		1
+chances		1
+forget		1
+don		1
+tonight		1
+think		1

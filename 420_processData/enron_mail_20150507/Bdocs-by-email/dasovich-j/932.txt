@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+com		3
+dasovich	2
+enron		2
+jeff		2
+hey		1
+pm		1
+speak		1
+know		1
+kisses		1
+redsky		1
+colleen		1
+eggers		1
+speaking	1
+yay		1
+csilva		1
+geniuses	1
+subject		1
+silva		1
+whassup		1
+didn		1

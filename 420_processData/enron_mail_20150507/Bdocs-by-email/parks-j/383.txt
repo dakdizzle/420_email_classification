@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+girl		1
+man		1
+access		1
+myers		1

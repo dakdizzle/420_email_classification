@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+officerenron	1
+fax		1
+hope		1
+americastel	1
+operating	1
+himlouise	1
+kitchenchief	1
+hire		1

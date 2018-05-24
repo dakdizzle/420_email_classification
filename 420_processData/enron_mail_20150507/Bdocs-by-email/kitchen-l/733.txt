@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+lkitchen	2
+cn		2
+enron		2
+kitchen		1
+louise		1
+recipients	1
+filename	1
+na		1
+lot		1
+privileged	1
+out		1
+americas	1
+people		1
+non		1
+please		1
+pstthere	1
+ou		1
+cut		1

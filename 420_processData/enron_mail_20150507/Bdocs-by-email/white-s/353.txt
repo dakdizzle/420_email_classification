@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+remind		1
+gets		1
+stacey		1
+reports		1
+michael		1

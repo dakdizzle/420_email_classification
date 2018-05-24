@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ve		1
+cash		1
+regardslavo	1
+enron		1
+enjoy		1
+financing	1
+covered		1
+mail		1

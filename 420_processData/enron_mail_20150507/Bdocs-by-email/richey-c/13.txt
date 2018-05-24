@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+soon		1
+good		1
+hope		1
+being		1
+cooper		1
+promise		1
+start		1
+paid		1
+stan		1
+year		1
+having		1
+processed	1

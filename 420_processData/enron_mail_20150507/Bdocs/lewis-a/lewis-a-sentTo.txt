@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+ahl_34@yahoo.com	2
+ann.s.chen@accenture.com	2
+monica.l.brown@accenture.com	2
+robyn.zivic@enron.com	1
+adrianne.engler@enron.com	1
+sarah.palmer@enron.com	1
+sue4@peopleiknow.net	1
+ayueh@hotmail.com	1
+daniel.diamond@enron.com	1
+vha0401@hotmail.com	1
+parking.transportation@enron.com	1
+angelia_guinara@hchd.tmc.edu	1
+diem.hallmark@williams.com	1
+atanpoco@telesto-inc.net	1
+transportation.parking@enron.com	1
+monica.l.bronwn@accenture.com	1
+diana.hu@compaq.com	1
+greg.whalley@enron.com	1
+amy_yueh@agfg.com	1
+s..pollan@enron.com	1
+geoff.storey@enron.com	1
+mery.l.brown@accenture.com	1

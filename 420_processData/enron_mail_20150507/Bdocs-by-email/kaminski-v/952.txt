@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+vince		1
+one		1
+vasant		1
+week		1
+trip		1
+move		1

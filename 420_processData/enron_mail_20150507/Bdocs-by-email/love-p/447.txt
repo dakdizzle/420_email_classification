@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+thing		1
+pl		1
+job		1
+bad		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+putnam		1
+way		1
+vince		1
+official	1
+btw		1
+boston		1

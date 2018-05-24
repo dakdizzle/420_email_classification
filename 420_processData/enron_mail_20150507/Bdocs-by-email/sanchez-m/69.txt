@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+laugh		1
+made		1

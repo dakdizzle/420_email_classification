@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+initial		2
+go		1
+allegheny	1
+before		1
+going		1
+stop		1
+london		1
+didn		1
+yesterday	1

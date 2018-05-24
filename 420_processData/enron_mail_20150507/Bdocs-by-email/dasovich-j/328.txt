@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+approach	1
+ok		1
+folks		1
+sense		1
+going		1
+problem		1
+commercial	1

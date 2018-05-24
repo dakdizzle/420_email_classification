@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+one		2
+knows		1
+hammock		1
+plan		1
+talk		1
+chris		1
+dvd		1
+see		1
+super		1
+nice		1
+really		1
+great		1
+thinking	1
+mom		1
+idea		1
+charge		1
+think		1
+gift		1

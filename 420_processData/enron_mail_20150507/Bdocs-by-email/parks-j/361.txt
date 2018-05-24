@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+auction		2
+hey		1
+details		1
+stick		1
+property	1
+stolen		1
+trailer		1
+march		1
+kim		1
+more		1
+going		1
+week		1
+next		1
+informed	1

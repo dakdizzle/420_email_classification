@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+presto		2
+kevin		2
+cn		2
+support		1
+kpresto		1
+recipients	1
+oversight	1
+filename	1
+na		1
+psti		1
+enron		1
+part		1
+ou		1
+wan		1

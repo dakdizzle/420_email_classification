@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+mwhitt		2
+cn		2
+mark		1
+strict		1
+jsut		1
+pstshe		1
+recipients	1
+filename	1
+na		1
+see		1
+privileged	1
+non		1
+enron		1
+ou		1
+whitt		1
+curious		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+operations	1
+senior		1
+morning		1
+mcandrew	1
+confirmed	1
+april		1
+anna		1
+title		1
+enron		1
+another		1
+joined		1
+director	1
+unsure		1
+london		1

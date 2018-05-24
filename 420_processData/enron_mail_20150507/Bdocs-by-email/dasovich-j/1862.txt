@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+thank		2
+email		1
+god		1
+joseph		1
+jeff		1
+best		1
+humilation	1
+commrade	1

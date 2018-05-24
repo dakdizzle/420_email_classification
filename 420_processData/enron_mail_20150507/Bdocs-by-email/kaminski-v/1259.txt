@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+vince		1
+followingarticle	1
+look		1
+please		1
+column		1
+today		1
+bob		1
+take		1

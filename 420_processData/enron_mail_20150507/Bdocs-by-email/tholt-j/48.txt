@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+well		1
+ask		1
+forget		1
+expansion	1
+turn		1
+back		1
+requirementswe	1
+chance		1
+don		1
+given		1
+turnback	1
+cd		1
+blk		1
+minimize	1

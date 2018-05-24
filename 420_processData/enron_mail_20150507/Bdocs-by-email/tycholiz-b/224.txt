@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+mcgee		1
+mark		1
+friday		1
+guys		1
+operations	1
+bt		1
+down		1
+shutting	1
+talking		1
+kerr		1
+jay		1
+telling		1
+here		1
+play		1

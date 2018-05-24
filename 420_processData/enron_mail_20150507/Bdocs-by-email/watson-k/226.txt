@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+kim		1
+folks		1
+go		1
+want		1
+houston		1
+yo		1
+fine		1
+works		1
+thanks		1
+darell		1

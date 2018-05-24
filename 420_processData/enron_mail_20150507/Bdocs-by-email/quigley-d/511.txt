@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+stuff		1
+write		1
+yeah		1
+came		1
+outof		1
+read		1
+pull		1

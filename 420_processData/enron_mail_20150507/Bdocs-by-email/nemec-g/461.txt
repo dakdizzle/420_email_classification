@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+ena		2
+both		1
+return		1
+originals	1
+please		1
+fowarding	1
+upstream	1
+execution	1
+thanks		1
+obtain		1

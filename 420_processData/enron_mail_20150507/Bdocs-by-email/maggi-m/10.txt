@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+thats		1
+drink		1
+owe		1
+ok		1
+now		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+officerenron	1
+send		1
+fax		1
+list		1
+counterparties	1
+americastel	1
+operating	1
+louise		1
+kitchenchief	1
+top		1

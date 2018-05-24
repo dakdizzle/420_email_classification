@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+go		2
+morning		1
+want		1
+work		1

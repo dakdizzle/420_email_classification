@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+cgi		2
+ebayisapi	1
+ebay		1
+http		1
+viewitem	1
+aw		1
+dll		1
+item		1
+com		1

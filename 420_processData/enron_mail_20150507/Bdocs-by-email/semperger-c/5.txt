@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+thankyouthankyouyou	1
+hr		1
+thank		1
+queen		1
+thankyou	1

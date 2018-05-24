@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+edf		2
+asnormal	1
+under		1
+man		1
+impression	1
+gas		1
+calling		1
+desk		1
+find		1
+money		1
+dutch		1
+gerri		1
+out		1
+ahs		1
+suppose		1
+conducted	1
+dealings	1
+financial	1
+natural		1
+normal		1
+wired		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+employees	1
+know		1
+thank		1
+black		1
+spot		1
+reserved	1
+going		1
+removed		1
+cover		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+good		1
+directly	1
+one		1
+find		1
+trying		1
+contacted	1

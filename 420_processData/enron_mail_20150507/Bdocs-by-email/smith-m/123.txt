@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+email		2
+party		1
+send		1
+hey		1
+list		1
+wouldn		1
+chance		1
+addresses	1
+mat		1
+think		1

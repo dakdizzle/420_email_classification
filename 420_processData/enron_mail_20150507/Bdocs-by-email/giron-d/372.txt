@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+mud		1
+oklahoma	1
+river		1
+customers	1
+gironi		1
+working		1
+minnesota	1
+transitioning	1
+thanks		1
+great		1
+missouri	1
+darron		1
+kansas		1
+begun		1
+dakotas		1
+arkansas	1
+bryant		1
+minnegasco	1
+frihart		1
+dg		1
+process		1
+largest		1
+area		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kim		1
+fabulous	1
+look		1
+know		1
+cook		1
+julie		1
+ll		1
+thanks		1

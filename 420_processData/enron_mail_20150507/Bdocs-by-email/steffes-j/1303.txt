@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+terrie		1
+reach		1
+wheeler		1
+sue		1

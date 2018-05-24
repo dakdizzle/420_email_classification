@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+day		1
+up		1
+moneyanything	1
+ernest		1
+pick		1
+cleanning	1
+dq		1
+hope		1
+luv		1
+dry		1
+sign		1
+welli		1
+goes		1

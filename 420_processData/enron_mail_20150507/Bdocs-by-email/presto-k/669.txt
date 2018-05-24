@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+peak		2
+through		2
+ed		1
+tva		1
+helps		1
+well		1
+west		1
+trying		1
+cinergy		1
+pjm		1
+markets		1
+zero		1
+hope		1
+decent		1
+ny		1
+jail		1
+liquidity	1
+ent		1
+liqidity	1
+buy		1
+line		1
+regions		1
+pretty		1
+com		1

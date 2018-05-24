@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+matt		2
+smith		2
+give		2
+coin		1
+flip		1
+well		1
+phone		1
+fine		1
+monique		1
+pc		1
+box		1
+please		1
+sure		1

@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+friend		2
+surgery		1
+grad		1
+hpd		1
+days		1
+few		1
+name		1
+school		1
+left		1
+someone		1
+later		1
+kevin		1
+call		1
+out		1
+two		1
+message		1
+recommend	1
+another		1
+dad		1
+town		1
+called		1
+went		1
+ll		1

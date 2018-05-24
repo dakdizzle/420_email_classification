@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+wrong		1
+chicago		1
+id		1
+gave		1
+again		1
+sorry		1
+post		1
+kk		1
+thanks		1

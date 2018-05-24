@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+crenshaw	1
+comx		1
+pstlexi		1
+filename	1
+looks		1
+vkamins		1
+privileged	1
+vince		1
+great		1
+non		1
+enron		1
+origin		1
+shirley		1
+vx		1
+kaminski	1

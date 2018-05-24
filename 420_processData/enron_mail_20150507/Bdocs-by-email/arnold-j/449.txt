@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+long		2
+up		1
+front		1
+time		1
+weather		1
+now		1
+looks		1
+reshape		1
+outright	1
+cold		1
+back		1
+nothing		1
+going		1
+curve		1

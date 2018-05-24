@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+finejmf		1
+pm		1

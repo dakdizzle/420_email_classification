@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+please		2
+up		1
+heads		1
+know		1
+due		1
+thanks		1
+soon		1
+tranfer		1
+possible	1
+ben		1
+rogers		1
+center		1
+allan		1
+need		1
+over		1
+parking		1

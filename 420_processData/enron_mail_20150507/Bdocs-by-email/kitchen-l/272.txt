@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+cash		2
+less		2
+need		2
+spare		1
+group		1
+etc		1
+fund		1
+current		1
+market		1
+people		1
+office		1
+back		1
+more		1
+year		1
+mm		1
+ll		1

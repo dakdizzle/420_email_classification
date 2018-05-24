@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+info		1
+early		1
+team		1
+jeff		1
+sally		1
+more		1
+november	1
+thanks		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+status		1
+morning		1
+update		1
+sara		1
+meet		1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+mail		2
+sending		1
+vacation	1
+thank		1
+today		1
+draft		1
+anticipate	1
+drafting	1
+later		1
+delay		1
+afternoon	1
+via		1
+regards		1
+apologize	1
+best		1
+agreement	1
+away		1
+debra		1

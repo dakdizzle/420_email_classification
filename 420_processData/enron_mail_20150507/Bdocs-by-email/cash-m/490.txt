@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+divine		1
+sound		1
+doesn		1

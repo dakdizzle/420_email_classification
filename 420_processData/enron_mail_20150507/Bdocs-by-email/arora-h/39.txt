@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+december	1
+harry		1
+rd		1
+st		1
+november	1

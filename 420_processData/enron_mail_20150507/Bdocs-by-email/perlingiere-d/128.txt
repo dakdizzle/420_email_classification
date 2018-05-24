@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+golden		1
+name		1
+yes		1
+mistake		1

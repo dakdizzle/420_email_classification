@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+thanks		2
+story		1
+monday		1
+hear		1
+board		1
+ok		1
+wonder		1
+lecture		1
+thirds		1
+tremendous	1
+two		1
+rick		1
+staff		1
+pay		1
+go		1
+directors	1
+learned		1
+circuit		1
+amount		1
+laid		1
+note		1

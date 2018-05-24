@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+tunnel		1
+northbound	1
+shtml		1
+http		1
+dailyglobe	1
+www		1
+nation		1
+shows		1
+dig		1
+big		1
+com		1
+boston		1

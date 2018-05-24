@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+march		1
+send		1
+gtc		1
+susan		1
+business	1
+nov		1
+pgw		1
+through		1
+thanks		1

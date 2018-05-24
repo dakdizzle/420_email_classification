@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+time		1
+selling		1
+talk		1
+working		1
+paso		1
+gas		1
+now		1
+reliant		1
+same		1
+problem		1
+sonat		1
+m		1
+many		1
+right		1
+el		1
+unknowns	1
+though		1
+having		1
+still		1
+parked		1
+deal		1
+don		1
+telling		1

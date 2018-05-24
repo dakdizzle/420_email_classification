@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+congrats	1
+picture		1
+saw		1
+today		1
+distinction	1
+paper		1
+woman		1
+think		1

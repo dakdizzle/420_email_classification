@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+cn		2
+esager		1
+recipients	1
+na		1
+thanks		1
+wspp		1
+discussion	1
+enron		1
+ubs		1
+work		1
+ou		1
+sager		1
+wait		1
+elizabeth	1

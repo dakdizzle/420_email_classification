@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+rogers		2
+group		1
+ok		1
+job		1
+credibility	1
+builds		1
+organization	1
+fine		1
+marketing	1
+important	1
+presentation	1
+m		1
+sure		1
+think		1

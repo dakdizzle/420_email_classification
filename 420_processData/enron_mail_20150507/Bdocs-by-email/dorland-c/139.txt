@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+together	1
+thanxchris	1
+send		1
+list		1
+please		1
+peg		1

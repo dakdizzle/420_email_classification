@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+vkamins		2
+vince		2
+cn		2
+shall		2
+kaminski	2
+place		1
+friday		1
+ask		1
+recipients	1
+meet		1
+world		1
+filename	1
+na		1
+privileged	1
+pstdale		1
+non		1
+alto		1
+enron		1
+krishna		1
+part		1
+ou		1
+palo		1

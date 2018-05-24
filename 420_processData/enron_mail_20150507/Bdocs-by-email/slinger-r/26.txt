@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+day		1
+scheduling	1
+deals		1
+kate		1
+constellation	1
+zeroed		1
+thanks		1
+aware		1
+out		1
+talking		1
+dollars		1
+mw		1
+made		1
+though		1
+correct		1
+deal		1
+ryan		1
+here		1

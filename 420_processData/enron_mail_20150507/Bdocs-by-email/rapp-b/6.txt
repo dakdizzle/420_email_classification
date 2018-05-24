@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+hand		1
+raquel		1
+eb		1
+m		1
+expense		1
+delivered	1
+please		1
+report		1
+folder		1
+thanks		1

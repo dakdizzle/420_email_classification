@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+matrix		1
+ok		1
+visit		1
+reserves	1
+threshold	1
+jeff		1
+month		1
+committed	1
+judy		1
+otherwise	1

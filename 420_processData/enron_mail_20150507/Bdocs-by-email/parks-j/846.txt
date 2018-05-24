@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+soon		1
+send		1
+forgot		1
+talk		1
+update		1
+havent		1
+didnt		1
+later		1
+chance		1

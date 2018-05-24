@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+fugg		1
+heard		1
+enserco		1

@@ -1,0 +1,21 @@
+NumWords	37
+NumTerms	18
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+kane		1
+dsteine		1
+paul		1
+david		1
+arrrrrrrrrrgh	1
+mtully		1
+michael		1
+cox		1
+steiner		1
+ccox		1
+chip		1
+tully		1
+pkane		1

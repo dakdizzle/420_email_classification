@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+rights		1
+facilitate	1
+thanks		1

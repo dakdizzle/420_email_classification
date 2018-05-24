@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+vkamins		2
+vince		2
+cn		2
+wednesday	1
+recipients	1
+fine		1
+filename	1
+na		1
+privileged	1
+look		1
+m		1
+non		1
+talking		1
+enron		1
+forward		1
+ou		1
+week		1
+pstchris	1
+kaminski	1

@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+week		2
+arm		1
+day		1
+ricardo		1
+company		1
+until		1
+know		1
+working		1
+dutch		1
+thanks		1
+two		1
+done		1
+sell		1
+thought		1
+deal		1
+still		1
+laid		1
+kay		1
+next		1
+trading		1

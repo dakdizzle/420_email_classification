@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+puc		1
+ferc		1
+tariff		1
+coalition	1
+investigation	1
+ask		1
+broad		1
+erc		1
+typicall	1
+tarif		1
+jim		1
+ohio		1
+language	1
+investigations	1
+changes		1
+complaints	1
+sell		1
+want		1
+before		1
+question	1
+thought		1
+d		1
+pre		1
+don		1

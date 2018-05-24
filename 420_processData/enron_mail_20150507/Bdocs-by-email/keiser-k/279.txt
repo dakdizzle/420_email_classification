@@ -1,0 +1,18 @@
+NumWords	24
+NumTerms	15
+
+gas		4
+daily		4
+index		3
+canadian	2
+value		1
+risk		1
+kkx		1
+know		1
+tiffanythis	1
+price		1
+th		1
+nov		1
+basis		1
+type		1
+needed		1

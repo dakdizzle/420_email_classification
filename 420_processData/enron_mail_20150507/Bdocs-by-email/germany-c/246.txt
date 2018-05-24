@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+lucky		1
+here		1

@@ -1,0 +1,19 @@
+NumWords	24
+NumTerms	16
+
+ect		3
+enron		3
+pm		2
+john		2
+lavorato	2
+corp		2
+revised		1
+bid		1
+tim		1
+belden		1
+ees		1
+michael		1
+hou		1
+forwarded	1
+driscoll	1
+subject		1

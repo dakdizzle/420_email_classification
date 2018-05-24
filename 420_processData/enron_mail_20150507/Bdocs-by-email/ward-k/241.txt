@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+kim		1
+ok		1
+problem		1

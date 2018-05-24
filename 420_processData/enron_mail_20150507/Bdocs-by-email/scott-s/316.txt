@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+email		1
+house		1
+river		1
+shoot		1
+online		1
+tried		1
+call		1

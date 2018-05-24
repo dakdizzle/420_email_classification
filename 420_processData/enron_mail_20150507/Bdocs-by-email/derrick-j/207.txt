@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+discuss		1
+mark		1
+thank		1
+action		1
+williams	1
+jordan		1
+proposed	1
+bob		1
+walls		1
+take		1
+haedicke	1
+sanders		1
+dates		1
+rogers		1
+mintz		1
+attendees	1
+yes		1
+before		1
+mordaunt	1
+rob		1
+rex		1
+kristina	1
+richard		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+put		1
+make		1
+please		1
+folder		1
+copies		1
+thanks		1

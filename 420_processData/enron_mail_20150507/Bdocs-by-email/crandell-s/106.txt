@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+virginia	1
+sean		1
+sorry		1
+delay		1
+problem		1
+deal		1
+number		1
+thanks		1

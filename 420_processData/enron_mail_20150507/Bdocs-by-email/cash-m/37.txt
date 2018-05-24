@@ -1,0 +1,23 @@
+NumWords	39
+NumTerms	20
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+exec		1
+jones		1
+david		1
+cindy		1
+fyi		1
+rjones		1
+robert		1
+ndavies		1
+davies		1
+cskinne		1
+doxley		1
+hr		1
+neil		1
+oxley		1
+skinner		1

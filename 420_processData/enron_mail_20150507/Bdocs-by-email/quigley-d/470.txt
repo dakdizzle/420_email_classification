@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+talking		1
+sarahanymore	1
+now		1
+edf		1
+fall		1
+fimat		1

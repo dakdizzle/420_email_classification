@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+shortly		1
+terminated	1
+resign		1
+job		1
+ie		1
+position	1
+place		1
+looking		1
+ask		1
+things		1
+pip		1
+etc		1
+slow		1
+posturing	1
+take		1
+long		1
+refuses		1
+payoff		1
+another		1
+director	1
+usual		1
+think		1

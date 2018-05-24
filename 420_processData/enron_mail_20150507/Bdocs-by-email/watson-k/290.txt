@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+derived		1
+make		1
+up		1
+steve		1
+understands	1
+morning		1
+out		1
+kim		1
+sent		1
+done		1
+follow		1
+numbers		1
+michelle	1
+mike		1
+sure		1

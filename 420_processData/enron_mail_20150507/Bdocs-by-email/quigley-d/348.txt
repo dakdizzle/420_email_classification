@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+home		1
+okdq		1
+thing		1
+good		1
+work		1
+going		1
+sounds		1
+later		1
+away		1
+having		1
+mo		1
+flowers		1

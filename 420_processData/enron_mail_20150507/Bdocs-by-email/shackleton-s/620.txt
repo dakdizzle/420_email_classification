@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+sshackl		2
+cn		2
+heard		1
+pstis		1
+shackleton	1
+jean		1
+emailing	1
+recipients	1
+form		1
+canada		1
+fimat		1
+filename	1
+na		1
+never		1
+sarap		1
+privileged	1
+pierre		1
+non		1
+enron		1
+back		1
+sara		1
+ou		1
+comments	1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+case		1
+ge		1
+power		1
+none		1
+against		1
+systems		1

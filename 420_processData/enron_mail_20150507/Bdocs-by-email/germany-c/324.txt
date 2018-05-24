@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ish		1
+around		1
+meeting		1
+evening		1
+correct		1
+beverages	1
+still		1

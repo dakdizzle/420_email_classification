@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+calc		3
+values		2
+up		1
+sempra		1
+stacey		1
+meetings	1
+know		1
+deals		1
+forster		1
+thanks		1
+call		1
+special		1
+running		1
+norman		1
+killed		1
+transactions	1
+set		1
+dave		1
+give		1

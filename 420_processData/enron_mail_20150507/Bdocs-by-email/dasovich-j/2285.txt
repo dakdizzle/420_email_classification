@@ -1,0 +1,26 @@
+NumWords	38
+NumTerms	23
+
+com		5
+sellers		4
+paying		3
+jeff		3
+eldon		2
+dasovich	2
+nancy		2
+cameron		2
+keeps		1
+scott		1
+net		1
+scottwl		1
+paid		1
+pacbell		1
+direcpc		1
+robertmondavi	1
+laughlin	1
+right		1
+enron		1
+psellers	1
+prentice	1
+perfect		1
+hotmail		1

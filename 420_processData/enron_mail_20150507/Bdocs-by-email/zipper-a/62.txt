@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+shares		2
+ipe		1
+accept		1
+ice		1
+yes		1
+converted	1

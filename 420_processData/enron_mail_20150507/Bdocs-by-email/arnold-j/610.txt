@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+find		1
+probably	1
+offset		1

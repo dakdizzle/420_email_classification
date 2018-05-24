@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+paulo		1
+vince		1
+resignation	1
+anne		1
+letter		1

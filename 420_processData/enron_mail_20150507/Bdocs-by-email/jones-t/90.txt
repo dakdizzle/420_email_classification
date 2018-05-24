@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+attaching	1
+version		1
+word		1
+alot		1
+time		1
+save		1
+document	1
+draft		1
+going		1
+janet		1
+thought		1

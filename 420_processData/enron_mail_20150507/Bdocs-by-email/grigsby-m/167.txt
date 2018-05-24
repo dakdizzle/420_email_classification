@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+west		2
+nice		1
+prices		1
+title		1
+gas		1
+report		1
+work		1
+natural		1
+add		1
+thanks		1

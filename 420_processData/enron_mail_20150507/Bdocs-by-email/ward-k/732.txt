@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+less		1
+up		1
+crowded		1
+show		1
+work		1
+going		1
+see		1
+think		1
+here		1

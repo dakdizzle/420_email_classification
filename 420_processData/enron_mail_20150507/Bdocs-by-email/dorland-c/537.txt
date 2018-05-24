@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+story		1
+great		1
+ivie		1
+grandma		1
+think		1

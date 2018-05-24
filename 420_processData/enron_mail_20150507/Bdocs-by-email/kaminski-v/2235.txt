@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+blamed		1
+joanna		1
+vince		1
+zimin		1
+flaws		1
+name		1
+want		1
+keep		1
+don		1
+presentation	1

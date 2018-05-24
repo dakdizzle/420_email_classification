@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+hours		3
+budgeted	1
+morning		1
+heard		1
+meeting		1
+aviation	1
+staff		1
+stan		1
+nng		1
+corporate	1
+asked		1

@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+doris		2
+accountants	1
+continues	1
+name		1
+wanted		1
+see		1
+help		1
+number		1
+piss		1
+va		1
+telephone	1
+sager		1
+accountant	1
+last		1
+elizabeth	1

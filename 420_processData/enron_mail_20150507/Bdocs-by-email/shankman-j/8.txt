@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+really		1
+around		1
+m		1
+jeff		1
+know		1
+ask		1
+king		1
+sure		1
+don		1
+ll		1

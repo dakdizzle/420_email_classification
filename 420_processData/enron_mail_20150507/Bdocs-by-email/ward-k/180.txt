@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+much		1
+leaving		1
+spreadsheet	1
+besides		1
+desk		1
+consistant	1
+chris		1
+take		1
+thanks		1
+out		1
+anything	1
+kim		1
+look		1
+during		1
+july		1
+according	1
+pretty		1
+making		1
+didn		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+reviewers	1
+peers		1
+etc		1
+e		1
+requirements	1
+special		1

@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+good		2
+real		1
+asleep		1
+hello		1
+yourself	1
+feel		1
+back		1
+today		1
+overslept	1
+even		1
+fall		1
+fact		1

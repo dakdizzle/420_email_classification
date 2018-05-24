@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+picture		1
+device		1
+embedded	1
+officerenron	1
+fax		1
+americastel	1
+operating	1
+bitmap		1
+louise		1
+kitchenchief	1
+independent	1

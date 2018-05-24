@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+lkitchen	2
+cn		2
+others		1
+kitchen		1
+time		1
+foster		1
+today		1
+louise		1
+review		1
+recipients	1
+month		1
+chris		1
+filename	1
+na		1
+privileged	1
+anything	1
+psti		1
+non		1
+enron		1
+another		1
+ou		1
+going		1
+spoke		1
+covering	1

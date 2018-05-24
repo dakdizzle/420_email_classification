@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+glad		1
+captured	1
+ensure		1
+bt		1
+never		1
+here		1

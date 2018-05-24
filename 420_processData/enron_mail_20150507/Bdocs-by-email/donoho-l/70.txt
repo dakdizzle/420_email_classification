@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+thank		1
+response	1
+quick		1

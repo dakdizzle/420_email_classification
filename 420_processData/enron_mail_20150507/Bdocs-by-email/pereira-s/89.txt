@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+southside	3
+live		1
+koch		1
+folks		1
+west		1
+now		1
+price		1
+definitely	1
+same		1
+longer		1
+husband		1
+moved		1
+poorer		1

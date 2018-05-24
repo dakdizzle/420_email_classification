@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ve		1
+benefit		1
+doubt		1
+dumb		1
+balls		1
+infusion	1
+don		1
+give		1
+think		1
+remember	1

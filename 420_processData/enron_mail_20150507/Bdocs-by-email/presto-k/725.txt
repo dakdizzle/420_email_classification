@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+wicked		1
+stock		1
+position	1
+action		1
+now		1
+price		1
+hedging		1
+fortunately	1
+long		1
+article		1
+good		1
+bit		1
+enron		1
+right		1
+already		1
+read		1
+doing		1
+bearish		1

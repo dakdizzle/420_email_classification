@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+double		2
+standards	2
+put		1
+being		1
+one		1
+don		1

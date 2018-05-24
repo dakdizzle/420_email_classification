@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+up		1
+jerry		1
+hopes		1
+wouldn		1
+talk		1
+know		1
+won		1
+left		1
+bloom		1
+message		1
+believe		1
+jeff		1
+best		1
+though		1
+ll		1

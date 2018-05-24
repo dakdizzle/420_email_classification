@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+article		2
+india		2
+asp		1
+msnbc		1
+interested	1
+comment		1
+http		1
+lisa		1
+context		1
+www		1
+msnsue		1
+mention		1
+good		1
+paragraphs	1
+several		1
+pne		1
+thought		1
+pretty		1
+news		1
+com		1

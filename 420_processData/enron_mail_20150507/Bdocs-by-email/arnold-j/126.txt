@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+gets		1
+being		1
+cat		1

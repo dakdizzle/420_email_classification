@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+group		1
+goodness	1
+moving		1
+day		1
+job		1
+different	1
+leaving		1
+working		1
+thank		1
+beat		1
+marie		1
+today		1
+skipped		1
+heart		1
+look		1
+enron		1
+congratulations	1
+forward		1
+thought		1
+last		1
+read		1
+new		1

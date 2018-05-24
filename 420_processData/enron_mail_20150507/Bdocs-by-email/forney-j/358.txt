@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+thanks		2
+anytime		1
+againjmf	1
+review		1
+perfect		1
+week		1
+folder		1

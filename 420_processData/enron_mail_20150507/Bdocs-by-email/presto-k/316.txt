@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+make		2
+position	1
+ld		1
+obligation	1
+same		1
+firm		1
+thanks		1
+volume		1
+exactly		1
+please		1
+delivered	1
+clear		1
+jea		1
+want		1
+shape		1
+sure		1
+proposal	1
+offers		1

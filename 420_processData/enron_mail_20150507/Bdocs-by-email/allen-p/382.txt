@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+roma		2
+much		1
+properties	1
+evaluate	1
+usually		1
+calculate	1
+spreadsheet	1
+port		1
+phillip		1
+post		1
+looks		1
+tried		1
+take		1
+better		1
+jim		1
+look		1
+aransas		1
+irr		1
+offices		1
+clients		1
+deal		1

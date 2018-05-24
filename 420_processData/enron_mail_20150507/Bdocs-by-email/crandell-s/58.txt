@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+problems	1
+sending		1
+alan		1
+attachment	1

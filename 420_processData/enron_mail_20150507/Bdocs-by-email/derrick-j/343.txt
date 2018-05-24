@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+jim		2
+send		2
+support		1
+seale		1
+please		1
+know		1
+sally		1
+letter		1
+draft		1
+prentiss	1
+pete		1

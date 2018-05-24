@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+commercial	2
+non		1
+staff		1
+well		1
+ebs		1
+going		1
+cut		1
+ees		1

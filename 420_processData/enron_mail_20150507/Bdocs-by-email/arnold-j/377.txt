@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+traffic		1
+john		1
+until		1
+now		1
+find		1
+phone		1
+september	1
+heavy		1
+network		1
+way		1
+cell		1
+right		1
+pmhey		1
+tonight		1
+very		1

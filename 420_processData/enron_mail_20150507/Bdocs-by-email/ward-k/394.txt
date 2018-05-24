@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+kward		2
+privileged	2
+non		2
+ward		2
+funny		1
+houston		1
+filename	1
+folder		1
+blondex		1
+fw		1
+kim		1
+degrees		1
+kx		1
+sent		1
+pstsome		1
+origin		1
+itemsx		1
+subject		1
+pretty		1

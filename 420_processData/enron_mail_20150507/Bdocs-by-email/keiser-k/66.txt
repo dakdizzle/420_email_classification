@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+group		1
+combination	1
+kim		1
+confirmations	1
+physical	1
+try		1
+dates		1
+thankskam	1
+know		1
+financial	1
+termination	1

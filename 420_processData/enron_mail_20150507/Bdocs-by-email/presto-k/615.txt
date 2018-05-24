@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+presto		2
+kevin		2
+cn		2
+kpresto		1
+approve		1
+recipients	1
+filename	1
+na		1
+pstplease	1
+privileged	1
+non		1
+enron		1
+ou		1
+access		1

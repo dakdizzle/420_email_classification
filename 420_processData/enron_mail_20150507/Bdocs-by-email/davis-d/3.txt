@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+privileged	2
+non		2
+ddavis		2
+monday		1
+taking		1
+pm		1
+day		1
+vacation	1
+dx		1
+filename	1
+folder		1
+around		1
+sent		1
+version		1
+psti		1
+davis		1
+origin		1
+itemsx		1
+mime		1
+half		1
+lunch		1

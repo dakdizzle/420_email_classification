@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+lynn		2
+lblair		2
+cn		2
+fyi		1
+blair		1
+recipients	1
+filename	1
+na		1
+pst		1
+privileged	1
+non		1
+enron		1
+ou		1

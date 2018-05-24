@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+tax		2
+approx		1
+dorlandenron	1
+return		1
+returns		1
+federal		1
+contact		1
+nathan		1
+inquiry		1
+chris		1
+number		1
+america		1
+received	1
+judypwc		1
+direct		1
+canadian	1
+north		1
+prepared	1
+thanx		1
+haven		1
+income		1
+expecting	1

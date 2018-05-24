@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+weekend		2
+make		1
+scott		1
+now		1
+aladdin		1
+houston		1
+whether		1
+comped		1
+better		1
+way		1
+turn		1
+show		1
+go		1
+past		1
+jun		1
+news		1

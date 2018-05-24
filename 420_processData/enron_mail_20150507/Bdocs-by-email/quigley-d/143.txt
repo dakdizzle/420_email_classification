@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+ass		2
+cookin		1
+gettin		1
+up		1
+whoopin		1
+going		1
+question	1
+bitch		1
+whooped		1
+whoop		1
+tonight		1
+rock		1

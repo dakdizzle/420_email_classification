@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+wade		2
+out		2
+m		2
+gloria		2
+become		1
+hear		1
+word		1
+meeting		1
+voicemails	1
+today		1
+desk		1
+meet		1
+ees		1
+afternoon	1
+call		1
+contracts	1
+sick		1
+available	1
+work		1
+going		1
+waiting		1
+still		1
+figure		1
+checking	1

@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+susan		2
+checks		2
+sscott		2
+cn		2
+scottx		1
+day		1
+scott		1
+recipients	1
+found		1
+filename	1
+na		1
+thanks		1
+privileged	1
+reissued	1
+expense		1
+non		1
+enron		1
+reimbursements	1
+past		1
+ou		1
+pstlupe		1
+period		1
+couple		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+long		1
+way		1
+m		1
+john		1
+touch		1
+guys		1
+happy		1
+joecongrats	1
+very		1
+christina	1

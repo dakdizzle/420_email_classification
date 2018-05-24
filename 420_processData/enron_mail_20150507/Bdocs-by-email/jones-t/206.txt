@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+address		2
+full		1
+email		1
+mark		1
+send		1
+directly	1
+counterparty	1
+exact		1
+name		1
+legal		1
+description	1
+experian	1
+discussions	1
+more		1
+nature		1
+need		1

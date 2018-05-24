@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+todos		1
+tacos		1
+mc		1
+por		1

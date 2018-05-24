@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+meeting		1
+time		1
+earlier		1
+thanks		1
+confirm		1
+kim		1
+message		1
+please		1
+saw		1
+yes		1
+thought		1
+works		1
+booking		1

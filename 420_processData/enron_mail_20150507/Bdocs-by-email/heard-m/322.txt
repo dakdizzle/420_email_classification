@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hard		1
+quack		1
+quark		1
+want		1
+call		1

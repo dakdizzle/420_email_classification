@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+blackberry	2
+monday		1
+pm		1
+net		1
+free		1
+wireless	1
+handheld	1
+wednesday	1
+www		1
+schedule	1
+anything	1
+sent		1
+handle		1
+feel		1
+probably	1

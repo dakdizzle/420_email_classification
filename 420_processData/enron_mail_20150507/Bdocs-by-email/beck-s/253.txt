@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+meeting		1
+up		1
+rick		1
+sharron		1
+please		1
+sally		1
+back		1
+kristin		1
+set		1
+coordinate	1
+schedule	1
+thanks		1

@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+cn		2
+jlavora		2
+greg		1
+john		1
+portland	1
+recipients	1
+filename	1
+na		1
+wolfe		1
+marketer	1
+lot		1
+privileged	1
+lavorato	1
+people		1
+aep		1
+non		1
+office		1
+enron		1
+another		1
+ou		1
+going		1
+hiring		1
+pstsince	1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+merger		1
+board		1
+issues		1
+related		1
+lance		1
+deal		1
+help		1
+schuler		1

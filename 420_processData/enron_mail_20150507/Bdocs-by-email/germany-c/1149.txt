@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+called		2
+party		1
+houses		1
+lady		1
+today		1
+hassle		1
+fine		1
+tomorrow	1
+show		1
+told		1
+mike		1
+couple		1
+think		1

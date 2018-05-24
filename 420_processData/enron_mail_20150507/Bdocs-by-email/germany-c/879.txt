@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+m		2
+time		1
+come		1
+msn		1
+back		1
+desk		1
+work		1
+gong		1
+doesn		1

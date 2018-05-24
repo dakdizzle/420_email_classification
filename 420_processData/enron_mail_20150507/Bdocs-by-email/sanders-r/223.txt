@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+sanders		2
+richard		2
+com		2
+coming		1
+experts		1
+meeting		1
+pm		1
+reasoner	1
+june		1
+looks		1
+better		1
+bruns		1
+breasoner	1
+gibbs		1
+agenda		1
+enron		1
+subject		1
+set		1
+barrett		1

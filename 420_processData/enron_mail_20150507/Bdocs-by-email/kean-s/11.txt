@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+resignation	1
+attached	1
+pac		1

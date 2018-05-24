@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+vince		1
+speak		1
+due		1
+regret		1
+earlier		1
+conference	1
+inform		1
+jennie		1
+commitments	1
+unable		1

@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+form		2
+want		2
+base		1
+coming		1
+forms		1
+commenting	1
+socal		1
+know		1
+marie		1
+see		1
+received	1
+touch		1
+looked		1
+mail		1
+jay		1
+game		1
+don		1
+think		1
+haven		1
+ll		1
+play		1
+here		1

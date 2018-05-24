@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+check		1
+know		1
+need		1
+someone		1
+yell		1
+chance		1
+thanks		1

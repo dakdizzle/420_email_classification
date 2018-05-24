@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+attend		2
+point		1
+plan		1
+lavo		1
+opportunity	1
+pulse		1
+tom		1
+see		1
+take		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+recommendation	1
+want		1
+letter		1
+wrote		1
+whether		1
+getting		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+second		1
+email		1
+ya		1
+see		1
+tonight		1
+here		1

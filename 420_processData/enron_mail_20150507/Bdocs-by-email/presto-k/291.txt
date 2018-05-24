@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+give		2
+agreed		1
+fundies		1
+understanding	1
+curve		1
+going		1
+data		1
+access		1
+never		1

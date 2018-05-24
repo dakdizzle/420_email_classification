@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+fri		1
+revisions	1
+attached	1
+gtc		1
+mariner		1
+thurs		1
+judy		1
+out		1
+check		1
+used		1
+discussed	1
+voicemail	1
+deal		1

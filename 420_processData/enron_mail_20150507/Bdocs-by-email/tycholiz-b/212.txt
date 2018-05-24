@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+power		2
+qf		2
+much		1
+heard		1
+selling		1
+paid		1
+today		1
+bt		1
+wondering	1
+bond		1
+utilities	1
+generating	1
+part		1
+payments	1
+mike		1
+issue		1

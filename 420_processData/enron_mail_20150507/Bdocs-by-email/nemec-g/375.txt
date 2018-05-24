@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+hardcopy	1
+ca		1
+attached	1
+document	1
+foward		1
+discussed	1
+going		1
+executables	1
+execution	1
+obtain		1

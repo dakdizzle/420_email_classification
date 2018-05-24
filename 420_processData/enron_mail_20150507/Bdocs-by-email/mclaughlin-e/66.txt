@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+yours		1
+john		1
+gave		1
+know		1
+ours		1
+thanks		1
+call		1
+anything	1
+anne		1
+one		1
+errol		1
+needed		1
+don		1
+request		1
+give		1
+needs		1

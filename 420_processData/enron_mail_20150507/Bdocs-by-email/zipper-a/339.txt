@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+up		2
+both		1
+make		1
+end		1
+ended		1
+book		1
+legs		1
+scratching	1
+same		1
+sure		1
+trade		1

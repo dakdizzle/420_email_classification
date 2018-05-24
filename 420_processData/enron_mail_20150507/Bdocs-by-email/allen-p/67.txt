@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+policy		2
+prorate		1
+company		1
+work		1
+going		1
+spoke		1
+issue		1
+kuo		1
+new		1
+cancel		1
+insurance	1

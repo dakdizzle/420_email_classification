@@ -1,0 +1,21 @@
+NumWords	47
+NumTerms	18
+
+pm		3
+monterrey	3
+houston		3
+escobedo	3
+mariano		3
+mty		3
+iah		3
+gen		3
+sat		3
+aircraft	3
+bush		3
+intercontinental	3
+tx		3
+jun		3
+continental	2
+erj		1
+amcontinental	1
+one		1

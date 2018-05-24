@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+citibank	1
+copy		1
+files		1
+name		1
+confirms	1
+attached	1
+marie		1
+copies		1
+remember	1
+each		1
+put		1
+being		1
+project		1
+delta		1
+sara		1
+don		1

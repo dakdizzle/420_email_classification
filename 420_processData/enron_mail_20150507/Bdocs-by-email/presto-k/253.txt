@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+tj		2
+pm		1
+please		1
+tommorow	1
+fine		1
+told		1
+coordinate	1
+confirm		1

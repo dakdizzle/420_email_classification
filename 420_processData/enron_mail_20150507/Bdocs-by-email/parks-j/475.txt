@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+aer		1
+required	1
+party		1
+coming		1
+thomas		1
+weekend		1
+town		1
+abbey		1
+gift		1
+birthday	1

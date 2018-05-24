@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+deal		2
+between		1
+up		1
+know		1
+ena		1
+zeroed		1
+megan		1
+sale		1
+path		1
+repathed	1
+cleburne	1
+cover		1
+out		1
+ua		1
+clean		1
+questions	1
+unify		1
+old		1
+created		1
+actuals		1

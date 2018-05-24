@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+loverboy	1
+until		1
+lisa		1

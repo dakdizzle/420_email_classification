@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+lokey		1
+filename	1
+transfer	1
+privileged	1
+tlokey		1
+content		1
+psti		1
+non		1
+encoding	1
+origin		1
+bitx		1
+tx		1
+ll		1

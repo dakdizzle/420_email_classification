@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+tour		1
+enron		1
+up		1
+center		1
+anyone		1
+set		1
+include		1

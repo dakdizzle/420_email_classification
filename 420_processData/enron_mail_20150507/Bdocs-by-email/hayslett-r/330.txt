@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+wednesday	1
+go		1
+houston		1
+need		1
+necessary	1

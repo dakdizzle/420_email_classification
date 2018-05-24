@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+changes		1
+attached	1
+letter		1
+initials	1
+forward		1
+redline		1
+executables	1

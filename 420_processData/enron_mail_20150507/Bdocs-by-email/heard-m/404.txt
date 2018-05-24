@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+great		1
+anymore		1
+sending		1
+today		1
+won		1
+weekend		1
+mean		1
+worksheets	1

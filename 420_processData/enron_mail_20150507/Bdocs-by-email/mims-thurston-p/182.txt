@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+days		4
+number		2
+definitive	2
+case		1
+guaranty	1
+hey		1
+consider	1
+comment		1
+leave		1
+demand		1
+instead		1
+turn		1
+enron		1
+makes		1
+contract	1
+one		1
+more		1
+issue		1
+rob		1
+lawyers		1
+making		1
+silent		1

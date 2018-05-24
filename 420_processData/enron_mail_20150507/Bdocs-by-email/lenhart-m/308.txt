@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+avs		1
+series		1
+chances		1
+awesome		1
+think		1

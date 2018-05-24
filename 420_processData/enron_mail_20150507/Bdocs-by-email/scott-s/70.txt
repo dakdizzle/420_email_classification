@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+baumbach	1
+scott		1
+david		1
+ect		1
+susan		1
+management	1
+forget		1
+never		1
+hou		1
+enron		1
+ectcc		1
+subject		1
+dave		1
+don		1
+capital		1

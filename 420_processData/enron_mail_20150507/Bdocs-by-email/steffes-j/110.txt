@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+rally		1
+day		1
+support		1
+california	1
+grace		1
+trying		1
+sweetie		1
+jim		1
+out		1
+good		1
+hope		1
+competition	1
+having		1
+hi		1
+love		1
+here		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+m		1
+theresa		1
+talk		1
+wednesday	1
+tomorrow	1
+fyi		1
+dallas		1
+thanks		1

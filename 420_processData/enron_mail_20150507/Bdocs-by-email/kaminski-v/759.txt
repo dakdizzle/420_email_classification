@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+london		2
+resume		2
+ina		1
+met		1
+position	1
+interested	1
+few		1
+person		1
+houston		1
+vince		1
+best		1
+guy		1
+bright		1
+comes		1
+ago		1
+one		1
+forward		1
+individual	1
+months		1
+qualified	1
+very		1

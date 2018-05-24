@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+peggyi		1
+know		1
+changes		1
+weekend		1
+vegas		1
+ll		1

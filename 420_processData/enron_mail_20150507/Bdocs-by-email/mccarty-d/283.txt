@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+wind		1
+bit		1
+up		1
+fyi		1
+kent		1

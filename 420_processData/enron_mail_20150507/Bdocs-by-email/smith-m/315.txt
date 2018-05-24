@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+items		1
+directories	1
+course		1
+west		1
+now		1
+below		1
+within		1
+access		1
+mat		1
+think		1
+thanks		1

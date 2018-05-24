@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ve		1
+done		1
+m		1
+leaving		1
+things		1
+today		1

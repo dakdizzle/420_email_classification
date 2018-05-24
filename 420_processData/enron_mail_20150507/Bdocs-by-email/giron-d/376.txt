@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+together	1
+thanksdg	1
+information	1
+know		1
+today		1
+carl		1
+later		1
+see		1
+pull		1
+ll		1

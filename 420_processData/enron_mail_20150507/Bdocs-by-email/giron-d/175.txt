@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+hope		2
+love		2
+unaffected	1
+much		1
+day		1
+starting	1
+everything	1
+worried		1
+jan		1
+appreciate	1
+wanted		1
+sears		1
+remind		1
+really		1
+great		1
+economy		1
+saw		1
+go		1
+jobs		1
+more		1
+d		1
+laying		1
+salaried	1
+over		1

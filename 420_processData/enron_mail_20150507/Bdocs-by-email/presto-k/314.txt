@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+value		1
+attend		1
+think		1

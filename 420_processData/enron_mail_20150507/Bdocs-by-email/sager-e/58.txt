@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+info		1
+wspp		1
+details		1
+carolhere	1
+go		1
+sager		1
+chance		1
+trip		1
+thankselizabeth	1
+hi		1
+over		1
+call		1

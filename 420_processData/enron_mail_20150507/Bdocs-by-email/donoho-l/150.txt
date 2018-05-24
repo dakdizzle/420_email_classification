@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+ll		2
+research	1
+try		1
+back		1
+today		1
+contract	1

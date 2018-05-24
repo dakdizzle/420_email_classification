@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+email		1
+around		1
+arm		1
+bit		1
+court		1
+press		1
+distribute	1
+supreme		1
+want		1
+release		1
+hi		1
+thanks		1

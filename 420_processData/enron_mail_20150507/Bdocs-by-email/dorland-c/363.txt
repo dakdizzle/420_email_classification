@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+bathroom	1
+great		1
+dump		1
+discussion	1
+shit		1
+going		1
+floors		1
+having		1
+such		1
+take		1

@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+week		2
+day		1
+inconvenience	1
+free		1
+hospital	1
+know		1
+name		1
+shot		1
+ruby		1
+hell		1
+mom		1
+mary		1
+gotten		1
+lunch		1
+deal		1
+big		1
+next		1

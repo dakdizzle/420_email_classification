@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+together	1
+joseph		1
+time		1
+talk		1
+sending		1
+know		1
+spreadsheet	1
+along		1
+thanks		1
+duration	1
+out		1
+ve		1
+good		1
+jeff		1
+best		1
+nancy		1
+received	1
+please		1
+correct		1
+including	1
+luck		1
+figure		1
+here		1

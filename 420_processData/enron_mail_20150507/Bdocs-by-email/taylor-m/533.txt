@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+morning		1
+group		1
+way		1
+meeting		1
+right		1
+looking		1
+george		1
+oh		1
+now		1

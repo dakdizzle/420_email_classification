@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+second		1
+michelle	1
+appreciated	1
+discussed	1
+comments	1
+set		1
+here		1

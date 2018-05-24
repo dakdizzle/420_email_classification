@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+around		1
+everything	1
+hope		1
+working		1
+glad		1
+kevin		1
+still		1
+see		1

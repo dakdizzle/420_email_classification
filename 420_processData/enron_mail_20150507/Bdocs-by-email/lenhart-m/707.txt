@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ut		1
+email		1
+gets		1
+dude		1
+inspiration	1
+anyone		1
+need		1
+read		1
+drunk		1

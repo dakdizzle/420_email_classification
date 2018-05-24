@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+labour		1
+long		1
+thinking	1
+day		1
+weekend		1
+interest	1
+going		1
+chris		1
+see		1
+doing		1
+mikey		1
+dan		1

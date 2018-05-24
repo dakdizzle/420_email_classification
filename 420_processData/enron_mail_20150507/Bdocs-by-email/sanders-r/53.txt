@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+jempy		1
+meeting		1
+category	1
+hard		1
+canidate	1
+client		1
+talked		1
+another		1
+want		1
+night		1
+last		1
+don		1
+new		1
+ass		1

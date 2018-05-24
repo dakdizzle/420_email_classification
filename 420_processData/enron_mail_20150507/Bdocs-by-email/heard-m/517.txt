@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+anything	2
+master		2
+need		2
+acting		1
+inc		1
+between		1
+trammochem	1
+under		1
+transammonia	1
+know		1
+therefore	1
+dated		1
+marie		1
+ect		1
+division	1
+confirmed	1
+signed		1
+questions	1
+agreement	1
+don		1
+vx		1
+bianca		1
+november	1
+through		1

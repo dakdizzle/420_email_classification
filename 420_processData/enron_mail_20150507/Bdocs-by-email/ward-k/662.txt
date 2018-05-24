@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+info		1
+kim		1
+whatever	1
+sara		1
+needed		1
+process		1
+thanks		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+job		1
+go		1
+now		1
+find		1
+help		1
+thanks		1

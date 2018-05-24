@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+sneal		2
+agree		2
+cn		2
+enron		2
+scott		1
+keep		1
+pmt		1
+recipients	1
+filename	1
+na		1
+neal		1
+privileged	1
+contracts	1
+psti		1
+non		1
+pay		1
+fee		1
+ou		1
+cut		1
+deal		1

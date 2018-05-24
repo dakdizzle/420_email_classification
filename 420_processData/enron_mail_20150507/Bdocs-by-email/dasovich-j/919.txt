@@ -1,0 +1,21 @@
+NumWords	31
+NumTerms	18
+
+enron		6
+na		3
+ginger		2
+shapiro		2
+dernehl		2
+maureen		2
+mcvicker	2
+richard		2
+know		1
+final		1
+found		1
+yesterday	1
+jeff		1
+best		1
+distributed	1
+differs		1
+one		1
+don		1

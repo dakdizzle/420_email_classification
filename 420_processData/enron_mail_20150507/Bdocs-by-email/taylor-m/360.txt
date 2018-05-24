@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+knows		1
+setting		1
+andy		1
+up		1
+nothing		1
+edison		1
+include		1
+calendar	1

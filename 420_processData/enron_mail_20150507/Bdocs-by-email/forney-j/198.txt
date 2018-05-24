@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+group		1
+analyst		1
+rotation	1
+one		1
+year		1
+within		1
+need		1
+preferably	1
+jmf		1
+still		1
+thanks		1

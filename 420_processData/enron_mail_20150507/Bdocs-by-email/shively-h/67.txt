@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+martin		1
+hpl		1
+related		1
+tom		1

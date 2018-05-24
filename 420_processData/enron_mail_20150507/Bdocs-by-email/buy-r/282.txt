@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+rick		1
+fine		1
+comments	1
+looks		1

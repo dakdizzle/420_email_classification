@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+morning		1
+m		1
+free		1
+ss		1
+laurel		1

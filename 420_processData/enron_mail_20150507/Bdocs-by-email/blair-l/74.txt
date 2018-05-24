@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+lynn		1
+second		1
+done		1
+john		1
+terry		1
+work		1
+maybe		1
+chris		1
+dave		1
+request		1
+thanks		1

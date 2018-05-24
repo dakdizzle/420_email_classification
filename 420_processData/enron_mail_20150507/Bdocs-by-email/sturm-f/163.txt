@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+stay		1
+regarding	1
+afterwhich	1
+position	1
+time		1
+until		1
+contact		1
+bonus		1
+fletch		1
+decided		1

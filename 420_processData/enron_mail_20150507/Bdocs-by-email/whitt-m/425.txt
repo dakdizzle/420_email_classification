@@ -1,0 +1,26 @@
+NumWords	54
+NumTerms	23
+
+cn		12
+recipients	6
+na		6
+enron		6
+ou		6
+theresa		1
+paul		1
+felling		1
+bump		1
+plucci		1
+harrison	1
+dbump		1
+tstaab		1
+dan		1
+amy		1
+staab		1
+afellin		1
+charles		1
+tyrell		1
+lucci		1
+tharri		1
+varnell		1
+cvarnel		1

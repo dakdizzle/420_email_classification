@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+keeps		1
+knauf		1
+teasing		1

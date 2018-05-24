@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+lisa		1
+below		1
+item		1
+give		1
+call		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+discuss		1
+heard		1
+up		1
+well		1
+nyc		1
+ended		1
+md		1
+andy		1
+hagerstown	1
+something	1
+hope		1
+allegheny	1
+want		1
+line		1
+drop		1

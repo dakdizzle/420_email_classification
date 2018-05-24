@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+miss		1
+funny		1
+look		1
+furniture	1
+asked		1
+wait		1
+still		1
+checking	1
+afternoon	1
+talked		1

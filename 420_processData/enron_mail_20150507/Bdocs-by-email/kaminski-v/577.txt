@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+besttomas	1
+events		1
+finance		1
+ect		1
+valnek		1
+corporate	1
+journal		1
+wasn		1
+tomas		1
+eighties	1
+aware		1
+thanks		1
+hou		1
+vince		1
+amto		1
+mid		1
+ectcc		1
+one		1
+interesting	1
+subject		1
+applied		1
+vincetomas	1
+kaminski	1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+profitt		1
+scott		1
+looking		1
+gave		1
+misses		1
+phone		1
+think		1
+number		1

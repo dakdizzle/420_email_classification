@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+brad		1
+company		1
+please		1
+left		1
+mckay		1
+note		1

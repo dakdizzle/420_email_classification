@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+violate		1
+yesterday	1
+didn		1

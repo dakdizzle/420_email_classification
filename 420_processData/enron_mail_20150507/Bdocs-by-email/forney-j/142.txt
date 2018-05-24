@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+up		1
+guys		1
+tell		1
+trade		1
+thanks		1

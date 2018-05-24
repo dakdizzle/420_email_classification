@@ -1,0 +1,22 @@
+NumWords	33
+NumTerms	19
+
+cn		7
+recipients	3
+na		3
+enron		3
+ou		3
+marolo		1
+chilkina	1
+echilkin	1
+elena		1
+bondareva	1
+natalie		1
+notesaddr	1
+nbondare	1
+f		1
+dab		1
+ad		1
+afe		1
+bb		1
+massimo		1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+take		2
+position	1
+spot		1
+pls		1
+looks		1
+suggested	1
+instead		1
+replacing	1
+harry		1
+kareni		1
+added		1
+rob		1
+saturday	1

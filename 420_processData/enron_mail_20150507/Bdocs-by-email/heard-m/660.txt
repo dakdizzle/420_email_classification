@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+aron		1
+included	1
+excluding	1
+uk		1
+goldman		1
+form		1
+names		1
+markets		1
+p		1
+received	1
+comments	1
+capital		1
+sachs		1
+companygoldman	1
+here		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+day		1
+wednesday	1
+vacation	1
+even		1
+call		1
+better		1
+hope		1
+feeling		1
+year		1
+last		1
+dec		1
+new		1
+took		1
+here		1

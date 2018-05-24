@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+information	1
+marc		1
+ken		1
+left		1
+asked		1
+seeing		1
+call		1
+jim		1
+regarding	1
+look		1
+message		1
+best		1
+additional	1
+forward		1
+mail		1
+conference	1
+needs		1
+voice		1

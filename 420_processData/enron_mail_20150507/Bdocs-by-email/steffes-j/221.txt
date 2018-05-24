@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+cn		2
+jsteffe		2
+time		1
+try		1
+talk		1
+pstcan		1
+recipients	1
+arrange		1
+filename	1
+na		1
+number		1
+privileged	1
+jim		1
+steffes		1
+noske		1
+linda		1
+issues		1
+non		1
+enron		1
+tomorrow	1
+james		1
+ou		1
+ll		1

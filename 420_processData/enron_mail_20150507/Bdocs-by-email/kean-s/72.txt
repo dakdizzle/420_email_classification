@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+per		1
+rick		1
+voicemail	1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+ride		1
+catch		1
+paula		1
+thanks		1

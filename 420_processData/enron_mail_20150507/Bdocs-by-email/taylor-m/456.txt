@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+account		2
+bank		2
+president	1
+mark		1
+eb		1
+ene		1
+fax		1
+houston		1
+street		1
+taylorvice	1
+wholesale	1
+sale		1
+general		1
+existing	1
+counselenron	1
+texas		1
+services	1
+pay		1
+sign		1
+document	1
+buy		1
+swapco		1
+smith		1
+process		1

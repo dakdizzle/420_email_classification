@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+reports		2
+second		1
+open		1
+up		1
+time		1
+being		1
+please		1
+asking		1
+someone		1
+asked		1
+access		1

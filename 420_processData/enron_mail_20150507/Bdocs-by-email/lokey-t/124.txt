@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+pm		1
+cell		1
+know		1
+need		1
+florida		1
+meet		1
+alexander	1
+rob		1
+isavailable	1
+don		1
+think		1

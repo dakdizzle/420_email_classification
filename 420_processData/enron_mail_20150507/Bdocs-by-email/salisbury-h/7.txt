@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+anything	1
+holden		1
+know		1
+made		1
+need		1
+purchases	1
+week		1
+thanks		1
+next		1
+here		1

@@ -1,0 +1,21 @@
+NumWords	27
+NumTerms	18
+
+cn		4
+tm		2
+recipients	2
+na		2
+enron		2
+cips		2
+ou		2
+ferc		1
+porter		1
+maria		1
+http		1
+gas		1
+txt		1
+mpavlou		1
+gporter		1
+fed		1
+gregory		1
+pavlou		1

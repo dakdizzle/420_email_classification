@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+party		1
+heard		1
+scott		1
+try		1
+know		1
+cruise		1
+see		1
+asap		1
+back		1
+book		1
+bachelor	1
+e		1
+need		1
+going		1
+maybe		1
+though		1
+tommybomb	1

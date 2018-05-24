@@ -1,0 +1,20 @@
+NumWords	23
+NumTerms	17
+
+vince		3
+ect		2
+hou		2
+frank		2
+kaminski	2
+chat		1
+stinson		1
+fw		1
+regarding	1
+forwarded	1
+pmto		1
+enron		1
+hayden		1
+ectcc		1
+subject		1
+thoughts	1
+enronxgate	1

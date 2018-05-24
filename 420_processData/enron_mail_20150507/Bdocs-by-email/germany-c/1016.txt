@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+pm		1
+day		1
+up		1
+position	1
+report		1
+mornings	1
+june		1
+yesterday	1
+check		1
+j		1
+show		1
+purchase	1
+another		1
+bought		1
+double		1
+nymx		1

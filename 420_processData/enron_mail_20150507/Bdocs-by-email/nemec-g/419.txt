@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+guaranty	1
+oneok		1
+rudwell		1
+attached	1
+form		1
+comments	1

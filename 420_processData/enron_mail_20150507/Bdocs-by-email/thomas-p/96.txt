@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+together	1
+putting		1
+pat		1
+thanks		1

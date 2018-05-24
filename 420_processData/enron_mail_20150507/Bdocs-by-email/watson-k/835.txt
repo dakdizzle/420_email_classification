@@ -1,0 +1,24 @@
+NumWords	28
+NumTerms	21
+
+attend		3
+thanks		2
+kim		2
+lorraine	2
+kwatson		2
+cn		2
+meeting		1
+place		1
+wednesday	1
+recipients	1
+watson		1
+filename	1
+na		1
+privileged	1
+pstdennis	1
+kimberly	1
+non		1
+enron		1
+ou		1
+asking		1
+travelling	1

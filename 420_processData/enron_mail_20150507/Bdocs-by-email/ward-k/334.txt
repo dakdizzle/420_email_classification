@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+guy		1
+pay		1
+burbank		1
+bucks		1
+big		1

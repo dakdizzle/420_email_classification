@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+cn		2
+jsteffe		2
+outcome		1
+mechanism	1
+dispose		1
+obligation	1
+recipients	1
+load		1
+filename	1
+na		1
+privileged	1
+jim		1
+steffes		1
+non		1
+enron		1
+best		1
+pstthe		1
+james		1
+ou		1
+negotiated	1
+through		1

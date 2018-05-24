@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+midmarkets	1
+historical	1
+questions	1
+sumas		1
+phillip		1
+allen		1
+file		1
+call		1
+malin		1
+here		1

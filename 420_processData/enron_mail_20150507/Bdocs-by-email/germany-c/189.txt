@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+pricing		1
+april		1
+up		1
+believe		1
+looking		1
+know		1
+questions	1
+match		1
+thanks		1
+doesn		1
+confirm		1

@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+bridging	2
+problems	1
+alsoi		1
+talk		1
+canadian	1
+deals		1
+fixing		1
+problem		1

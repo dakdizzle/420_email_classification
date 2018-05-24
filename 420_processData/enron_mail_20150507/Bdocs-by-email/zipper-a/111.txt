@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+zipper		2
+andy		2
+cn		2
+pstwhen		1
+azipper		1
+accenture	1
+draft		1
+recipients	1
+filename	1
+na		1
+distribution	1
+enron		1
+fo		1
+available	1
+ou		1

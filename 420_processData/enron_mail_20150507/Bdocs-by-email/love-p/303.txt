@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+book		3
+changed		1
+simply		1
+value		1
+pl		1
+shout		1
+calc		1
+position	1
+gas		1
+daily		1
+officializing	1
+purposes	1
+thanks		1
+anymore		1
+l		1
+please		1
+questions	1
+nothing		1
+goes		1
+replaces	1
+separate	1

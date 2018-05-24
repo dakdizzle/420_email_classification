@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+click		1
+copy		1
+gzn		1
+run		1
+double		1
+desktop		1

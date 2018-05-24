@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+preliminary	1
+copy		1
+finalize	1
+tomorrow	1
+attached	1
+mike		1
+activity	1
+oct		1
+cleburne	1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+article		1
+html		1
+http		1
+english		1
+www		1
+news		1
+com		1
+arabia		1

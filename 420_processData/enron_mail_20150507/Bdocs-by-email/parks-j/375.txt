@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+back		2
+hear		1
+soon		1
+forwarded	1
+email		1
+received	1
+approval	1

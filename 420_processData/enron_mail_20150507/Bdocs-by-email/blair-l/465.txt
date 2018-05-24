@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lynn		1
+discuss		1
+each		1
+two		1
+christine	1
+youwant		1
+know		1
+night		1
+need		1
+janet		1
+tickets		1
+thanks		1

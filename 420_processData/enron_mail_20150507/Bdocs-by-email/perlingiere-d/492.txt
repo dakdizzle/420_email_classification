@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+email		1
+playing		1
+dogs		1
+leave		1
+meet		1
+gen		1
+take		1
+thanks		1
+out		1
+desperately	1
+anyway		1
+regarding	1
+good		1
+someday		1
+year		1
+tiz		1
+don		1
+game		1
+behind		1
+needs		1
+heat		1

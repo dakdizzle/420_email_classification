@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+gave		1
+ena		1
+know		1
+now		1
+partners	1
+assets		1
+crestone	1
+pipeline	1
+list		1
+northern	1
+business	1
+became		1
+sold		1
+border		1

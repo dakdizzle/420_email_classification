@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+asst		1
+meeting		1
+time		1
+location	1
+please		1
+black		1
+tj		1
+provide		1

@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+gas		3
+need		2
+company		1
+verify		1
+nominated	1
+ena		1
+supposed	1
+nominating	1
+see		1
+thanks		1
+pipeline	1
+expertise	1
+pay		1
+unify		1
+natural		1
+deal		1
+took		1
+based		1
+think		1

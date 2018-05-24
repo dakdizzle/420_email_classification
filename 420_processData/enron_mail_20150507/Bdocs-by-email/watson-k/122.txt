@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kim		1
+much		1
+useful		1
+amy		1
+sending		1
+thank		1
+very		1
+thanks		1

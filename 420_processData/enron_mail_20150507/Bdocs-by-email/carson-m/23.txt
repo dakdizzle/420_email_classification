@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+yamy		2
+miami		2
+out		1
+bp		1
+go		1
+spots		1
+ken		1
+carson		1
+think		1
+miyamy		1
+throwing	1

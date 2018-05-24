@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+good		1
+ene		1
+isn		1
+mood		1
+still		1
+here		1

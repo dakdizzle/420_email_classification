@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+info		1
+building	1
+email		1
+enron		1
+control		1
+trying		1
+work		1
+still		1

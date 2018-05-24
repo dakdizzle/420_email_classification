@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+risk		2
+management	2
+front		1
+strongest	1
+abacus		1
+coral		1
+systems		1
+kiodex		1
+awhile		1
+view		1
+openlink	1
+around		1
+office		1
+used		1
+competition	1
+leaders		1
+one		1
+duke		1
+called		1
+deal		1

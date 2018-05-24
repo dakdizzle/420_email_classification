@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+phil		1
+crew		1
+morris		1
+people		1
+thinking	1
+supports	1
+brassfield	1
+now		1
+already		1
+actually	1

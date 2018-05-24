@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+little		1
+bedtime		1
+reading		1
+needed		1
+thanks		1

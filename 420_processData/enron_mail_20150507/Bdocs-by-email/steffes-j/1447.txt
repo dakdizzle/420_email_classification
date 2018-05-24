@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+long		1
+send		1
+forward		1
+pls		1
+going		1
+here		1
+ann		1
+thanks		1

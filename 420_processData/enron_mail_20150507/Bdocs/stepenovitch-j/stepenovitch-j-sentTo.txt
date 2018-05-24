@@ -1,0 +1,26 @@
+NumWords	75
+NumTerms	23
+
+heather.kroll@enron.com	21
+linda.stepenovitch@bankofamerica.com	9
+jls@fullenweider.com	9
+elizabeth.peters@enron.com	5
+christopher.m.bedford.gt2r@statefarm.com	4
+peter.makkai@enron.com	3
+keller.mayeaux@xemkt.com	3
+rosanna.migliaccio@robertwalters.com	3
+castlen.moore@enron.com	2
+lpinto@calpine.com	2
+7138723648@myairmail.com	2
+bsl@wyndmill.com	1
+flygrl8998@aol.com	1
+warrick.franklin@enron.com	1
+tammy@fullenweider.com	1
+d..thomas@enron.com	1
+lisa.burnett@enron.com	1
+joe_stepenovitch@fpl.com	1
+aclark@firstcallassociates.com	1
+dustin.collins@enron.com	1
+carlajkitten@aol.com	1
+jae.black@enron.com	1
+tbertges@mrportland.com	1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+day		1
+go		1
+weekend		1
+fishing		1
+work		1
+going		1
+bad		1
+arround		1
+take		1
+news		1

@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+sanders		2
+cn		2
+richard		2
+meeting		1
+join		1
+up		1
+steve		1
+recipients	1
+min		1
+filename	1
+na		1
+meand		1
+privileged	1
+elliott		1
+pstif		1
+rsander		1
+non		1
+enron		1
+ou		1
+told		1
+already		1
+britt		1
+set		1

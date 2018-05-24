@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+cn		3
+fb		1
+recipients	1
+na		1
+thanks		1
+enron		1
+notesaddr	1
+dcf		1
+ou		1
+janet		1
+dietrich	1
+eca		1
+ef		1

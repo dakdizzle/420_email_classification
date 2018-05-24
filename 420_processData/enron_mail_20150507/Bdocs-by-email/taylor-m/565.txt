@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+publications	1
+archive		1
+egm		1
+coal		1
+webcontent	1
+coaldaily	1
+fundamentals	1

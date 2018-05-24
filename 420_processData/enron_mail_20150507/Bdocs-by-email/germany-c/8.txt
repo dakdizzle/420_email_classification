@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+idat		1
+acct		1
+without		1
+prices		1
+files		1
+volumes		1
+tell		1
+onat		1
+dominion	1
+ma		1
+jjat		1

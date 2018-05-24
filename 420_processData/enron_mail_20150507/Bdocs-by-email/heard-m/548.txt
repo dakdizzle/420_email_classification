@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+today		2
+cn		2
+ll		2
+know		1
+marie		1
+aren		1
+recipients	1
+susan		1
+na		1
+thanks		1
+anything	1
+enron		1
+needed		1
+selledge	1
+ou		1
+asking		1
+upset		1
+don		1
+think		1
+elledge		1

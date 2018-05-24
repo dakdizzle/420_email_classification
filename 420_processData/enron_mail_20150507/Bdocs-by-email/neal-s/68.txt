@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+stay		1
+out		1
+email		1
+definately	1
+great		1
+received	1
+know		1
+encourage	1
+chris		1
+help		1
+think		1

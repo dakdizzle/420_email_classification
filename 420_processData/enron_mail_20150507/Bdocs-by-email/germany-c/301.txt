@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+mobil		3
+energy		1
+kathy		1
+math		1
+bunch		1
+know		1
+national	1
+guess		1
+chris		1
+trade		1
+worked		1
+both		1
+way		1
+people		1
+go		1
+created		1
+traders		1
+months		1
+molly		1
+sabra		1

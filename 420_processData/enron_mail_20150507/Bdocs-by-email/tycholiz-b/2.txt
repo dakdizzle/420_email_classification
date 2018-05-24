@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+deal		2
+status		1
+potentially	1
+mark		1
+paul		1
+keep		1
+pls		1
+price		1
+bt		1
+crestone	1
+posted		1
+producers	1
+morning		1
+structure	1
+good		1
+northern	1
+updates		1
+discussed	1
+underpinning	1
+border		1

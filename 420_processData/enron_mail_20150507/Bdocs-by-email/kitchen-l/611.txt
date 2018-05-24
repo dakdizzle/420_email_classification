@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+officially	1
+people		1
+favourite	1

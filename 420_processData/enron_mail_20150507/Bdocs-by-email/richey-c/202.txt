@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+definitely	2
+m		2
+party		1
+dude		1
+sweet		1
+up		1
+catch		1
+know		1
+deploying	1
+jimi		1
+back		1
+happy		1
+told		1
+though		1
+role		1
+yah		1

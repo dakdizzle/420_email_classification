@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+intervention	1
+copy		1
+please		1
+neutral		1
+fine		1
+maps		1
+provide		1
+filing		1

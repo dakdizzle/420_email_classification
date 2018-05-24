@@ -1,0 +1,21 @@
+NumWords	30
+NumTerms	18
+
+beside		4
+bruce		2
+greenizan	2
+cooper		2
+cooke		2
+ian		2
+seat		2
+richey		2
+bill		2
+chad		2
+brian		1
+front		1
+hourly		1
+chris		1
+gillis		1
+stephan		1
+move		1
+dorland		1

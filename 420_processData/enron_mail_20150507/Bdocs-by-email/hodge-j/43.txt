@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+m		2
+email		1
+signal		1
+reply		1
+ice		1
+busy		1
+desk		1
+trying		1
+help		1
+getting		1
+call		1
+yesterday	1

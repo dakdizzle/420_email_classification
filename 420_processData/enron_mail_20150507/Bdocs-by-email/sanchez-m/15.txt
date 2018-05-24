@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+make		1
+robbie		1
+cindy		1
+back		1
+meat		1
+piece		1
+fajitas		1
+pico		1
+big		1
+bbq		1

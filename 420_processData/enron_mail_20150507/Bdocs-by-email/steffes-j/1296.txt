@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+anything	1
+talking		1
+need		1
+prepare		1
+ll		1

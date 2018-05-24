@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+put		1
+plan		1
+machines	1
+company		1
+vending		1
+filed		1
+cows		1
+business	1
+new		1

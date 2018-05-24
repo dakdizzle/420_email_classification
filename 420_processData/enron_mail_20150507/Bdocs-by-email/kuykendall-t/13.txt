@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+open		1
+baby		1
+bring		1
+go		1
+everyone	1
+definitely	1
+sure		1

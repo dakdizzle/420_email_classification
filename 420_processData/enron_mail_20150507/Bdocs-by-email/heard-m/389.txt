@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+power		2
+lawyer		1
+veronica	1
+mississippi	1
+know		1
+files		1
+working		1
+marie		1
+georgia		1
+anything	1
+forwarded	1
+savannah	1
+questions	1
+electric	1
+need		1
+comments	1
+jay		1
+brent		1
+hendry		1
+here		1

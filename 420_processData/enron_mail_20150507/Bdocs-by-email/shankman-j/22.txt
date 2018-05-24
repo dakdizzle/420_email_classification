@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+crude		1
+email		1
+physical	1
+position	1
+jeff		1
+bill		1
+agra		1
+guys		1
+con		1
+november	1
+yesterday	1

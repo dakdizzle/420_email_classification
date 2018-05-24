@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+something	1
+share		1
+want		1
+chance		1
+call		1

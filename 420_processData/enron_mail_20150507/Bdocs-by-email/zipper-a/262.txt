@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+party		1
+hope		1
+come		1
+block		1
+well		1
+fam		1
+having		1
+oct		1
+sunday		1

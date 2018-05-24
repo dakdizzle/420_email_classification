@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+customer	1
+knows		1
+employees	1
+owe		1
+somehow		1
+michelle	1
+provider	1
+imagine		1
+insurance	1

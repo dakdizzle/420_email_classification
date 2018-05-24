@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+discuss		1
+pm		1
+ok		1
+job		1
+time		1
+power		1
+term		1
+today		1
+tommorow	1
+meet		1
+later		1
+east		1
+talked		1
+fallon		1
+talking		1
+trading		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+legislation	1
+secy		1
+linda		1
+being		1
+know		1
+assistant	1
+treasury	1
+negotiated	1
+help		1

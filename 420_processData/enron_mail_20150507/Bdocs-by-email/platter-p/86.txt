@@ -1,0 +1,14 @@
+NumWords	15
+NumTerms	11
+
+offpeak		2
+sells		2
+onpeak		2
+ees		2
+sp		1
+net		1
+positions	1
+short		1
+epmi		1
+julyepmi	1
+np		1

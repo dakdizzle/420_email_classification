@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+stinks		1
+wow		1
+thing		1
+priya		1
+home		1
+out		1
+really		1
+check		1
+pay		1
+bring		1
+one		1
+want		1
+made		1
+still		1
+tonight		1
+haven		1
+okay		1

@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+vkamins		2
+vince		2
+cn		2
+monday		1
+make		1
+plans		1
+recipients	1
+filename	1
+na		1
+presentation	1
+privileged	1
+coursenext	1
+non		1
+enron		1
+shall		1
+change		1
+ou		1
+pstpam		1
+kaminski	1

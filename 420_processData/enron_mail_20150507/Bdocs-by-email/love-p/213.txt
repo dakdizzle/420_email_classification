@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+morning		1
+pl		1
+kam		1
+going		1
+thanks		1

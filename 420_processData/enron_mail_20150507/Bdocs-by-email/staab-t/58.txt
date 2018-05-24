@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+theresa		1
+list		1
+know		1
+laurie		1
+gotten		1
+folder		1
+haven		1
+add		1
+thanks		1

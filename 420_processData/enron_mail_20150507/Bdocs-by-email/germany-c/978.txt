@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+msn		1
+messenger	1
+see		1
+don		1

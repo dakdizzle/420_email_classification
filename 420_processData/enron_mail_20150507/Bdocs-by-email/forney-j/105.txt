@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+residential	2
+changed		1
+hey		1
+strategy	1
+melon		1
+customers	1
+company		1
+talk		1
+ups		1
+sounds		1
+aggregating	1
+load		1
+specializes	1
+call		1
+good		1
+boy		1
+received	1
+sign		1
+whatup		1
+hasnt		1
+provided	1
+idea		1
+jmf		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+happy		1
+attend		1

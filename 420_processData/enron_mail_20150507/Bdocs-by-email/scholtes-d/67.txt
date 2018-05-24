@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+diana		1
+time		1
+scholtes	1
+speak		1
+attached	1
+earlier		1
+appreciate	1
+speaking	1
+call		1
+morning		1
+regards		1
+look		1
+apologize	1
+todd		1
+being		1
+forward		1
+resume		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+gov		1
+wyoming		1
+presentations	1
+meeting		1
+agenda		1
+geringer	1
+speeches	1
+pending		1
+business	1
+see		1
+overview	1
+presentation	1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+doesnt		1
+backs		1
+dont		1
+soon		1
+rallies		1
+lower		1
+break		1
+major		1
+consolidate	1
+see		1
+pull		1
+big		1

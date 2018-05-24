@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+spread		1
+closer		1
+graph		1
+prices		1
+fixed		1
+want		1
+chris		1
+getting		1

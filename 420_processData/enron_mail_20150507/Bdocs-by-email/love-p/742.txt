@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+call		2
+pl		1
+join		1
+phone		1
+wanted		1
+looks		1
+beautiful	1
+darron		1
+dinner		1
+great		1
+boy		1
+kristi		1
+bring		1
+waiting		1
+still		1
+give		1
+ashley		1

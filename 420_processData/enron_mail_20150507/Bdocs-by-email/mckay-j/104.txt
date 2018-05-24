@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+inc		1
+ability		1
+looking		1
+online		1
+jason		1
+contact		1
+canada		1
+cinergy		1
+trade		1
+thanks		1
+feedback	1
+anyway		1
+regarding	1
+long		1
+jon		1
+line		1
+pass		1
+give		1
+small		1

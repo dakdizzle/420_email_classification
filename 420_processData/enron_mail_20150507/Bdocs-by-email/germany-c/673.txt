@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+anything	1
+ed		1
+email		1
+thinks		1
+locations	1
+asked		1
+bernie		1
+file		1
+such		1
+given		1
+important	1

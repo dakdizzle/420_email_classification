@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+energy		1
+counterparties	1
+customers	1
+evident		1
+continue	1
+provider	1
+major		1
+markets		1
+view		1
+users		1
+enron		1
+global		1
+liquidity	1
+change		1

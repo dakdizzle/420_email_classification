@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+send		1
+aron		1
+physical	1
+company		1
+gas		1
+marie		1
+gtc		1
+thanks		1
+sample		1
+used		1
+masters		1
+ecc		1
+sharon		1

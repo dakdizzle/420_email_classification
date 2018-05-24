@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+those		1
+good		1
+days		1
+ole		1
+certainly	1

@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+anyone		2
+randy		2
+confidential	1
+hear		1
+selling		1
+handling	1
+know		1
+name		1
+permit		1
+site		1
+buyer		1
+pais		1
+nice		1
+way		1
+right		1
+enron		1
+want		1
+asking		1
+memphis		1
+don		1
+think		1
+needs		1

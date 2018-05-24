@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+asp		1
+enron		1
+main		1
+http		1
+corp		1
+com		1
+fundamentals	1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+group		1
+send		1
+please		1
+amanda		1
+everybody	1
+vladi		1
+new		1
+template	1

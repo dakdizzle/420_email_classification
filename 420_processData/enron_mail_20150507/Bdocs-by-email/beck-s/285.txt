@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+anything	1
+point		1
+sally		1
+want		1
+review		1
+needed		1
+approval	1
+still		1

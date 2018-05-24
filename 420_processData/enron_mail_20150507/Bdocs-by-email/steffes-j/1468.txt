@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+steffesenron	1
+jim		1
+hold		1
+sent		1
+saying		1
+national	1
+dasrs		1
+grid		1
+note		1

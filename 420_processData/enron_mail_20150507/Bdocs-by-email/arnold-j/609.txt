@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+customers	1
+options		1
+buy		1

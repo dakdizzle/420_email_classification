@@ -1,0 +1,10 @@
+NumWords	9
+NumTerms	7
+
+silver		2
+car		2
+interior	1
+black		1
+another		1
+one		1
+trading		1

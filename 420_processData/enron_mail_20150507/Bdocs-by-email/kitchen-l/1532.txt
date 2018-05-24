@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+discuss		1
+officerenron	1
+m		1
+fax		1
+americastel	1
+operating	1
+sending		1
+officelouise	1
+kitchenchief	1
+ring		1
+money		1

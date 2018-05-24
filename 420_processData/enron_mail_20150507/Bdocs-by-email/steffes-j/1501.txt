@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+confidential	1
+customers	1
+start		1
+probably	1
+week		1
+dasr		1
+very		1
+de		1
+next		1

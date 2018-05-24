@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+ken		2
+fill		1
+scott		1
+dropped		1
+change		1
+poor		1
+asked		1
+week		1
+looks		1
+hedy		1
+ball		1

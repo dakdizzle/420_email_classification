@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+petro		2
+hunt		2
+entity		1
+california	1
+marie		1
+same		1
+found		1
+thanks		1
+anything	1
+out		1
+l		1
+being		1
+corporation	1
+again		1
+friendly	1
+address		1
+jay		1
+pest		1
+southern	1
+hi		1

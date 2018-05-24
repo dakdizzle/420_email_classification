@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+enough		1
+place		1
+handle		1
+extras		1
+big		1

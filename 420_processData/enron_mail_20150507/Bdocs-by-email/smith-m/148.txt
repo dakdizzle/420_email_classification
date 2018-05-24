@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+rdhouston	1
+sul		1
+ross		1
+tx		1
+address		1

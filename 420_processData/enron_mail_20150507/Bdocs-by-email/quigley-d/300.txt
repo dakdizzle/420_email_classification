@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+cents		1
+centsvolume	1
+settled		1
+strip		1
+volume		1

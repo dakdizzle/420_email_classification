@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+everyone	2
+penciled	1
+pm		1
+ok		1
+time		1
+know		1
+friday		1
+wednesday	1
+susan		1
+view		1
+looks		1
+thurs		1
+afternoon	1
+need		1
+locate		1
+works		1
+move		1
+calendar	1
+travelling	1

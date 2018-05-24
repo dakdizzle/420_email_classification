@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+please		1
+ask		1
+questions	1
+jforney		1
+additional	1
+shane		1
+inquiry		1
+thanks		1

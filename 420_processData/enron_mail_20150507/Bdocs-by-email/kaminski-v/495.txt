@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+dwp		1
+http		1
+bigplanet	1
+door		1
+tamracc		1
+com		1

@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+lynn		2
+lblair		2
+cn		2
+attached	1
+blair		1
+review		1
+recipients	1
+filename	1
+na		1
+thanks		1
+pst		1
+privileged	1
+non		1
+enron		1
+please		1
+update		1
+fran		1
+ou		1
+comments	1
+leonards	1

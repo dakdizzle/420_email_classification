@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+seems		1
+guys		1
+even		1
+currently	1
+tom		1
+system		1
+pipeline	1
+philosophically	1
+protest		1
+familiar	1
+business	1
+though		1
+don		1
+think		1

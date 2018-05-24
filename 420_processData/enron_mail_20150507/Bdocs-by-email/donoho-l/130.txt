@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+cn		2
+ldonoho		2
+lindy		2
+know		1
+working		1
+recipients	1
+filename	1
+na		1
+schedule	1
+thanks		1
+privileged	1
+anything	1
+march		1
+anymore		1
+non		1
+enron		1
+please		1
+donoho		1
+ou		1
+need		1
+psteffective	1

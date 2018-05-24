@@ -1,0 +1,14 @@
+NumWords	15
+NumTerms	11
+
+com		4
+bakerhughes	2
+gddcpa		1
+wright		1
+jeff		1
+fischer		1
+barnett		1
+lara		1
+carl		1
+ukakzonobel	1
+debbieg		1

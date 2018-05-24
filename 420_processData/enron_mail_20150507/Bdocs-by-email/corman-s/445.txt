@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+blackberry	2
+kids		1
+surprised	1
+net		1
+reply		1
+asleep		1
+wireless	1
+finish		1
+handheld	1
+www		1
+review		1
+sent		1
+concentrate	1
+indonesia	1
+pressure	1
+husband		1
+night		1
+business	1
+middle		1
+don		1

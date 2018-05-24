@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ds		1
+amy		1
+told		1
+laura		1

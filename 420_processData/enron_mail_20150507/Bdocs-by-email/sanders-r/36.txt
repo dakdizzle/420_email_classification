@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+assume		1
+know		1
+handled		1
+need		1

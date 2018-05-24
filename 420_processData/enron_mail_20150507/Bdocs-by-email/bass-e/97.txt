@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+plan		1
+one		1
+going		1
+dec		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+steffesenron	1
+jim		1
+lawers		1
+ok		1
+tomorrow	1
+today		1
+approval	1
+need		1
+later		1
+still		1
+call		1
+bkty		1

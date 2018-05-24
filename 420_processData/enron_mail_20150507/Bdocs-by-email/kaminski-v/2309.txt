@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+molina		1
+meeting		1
+up		1
+asked		1
+see		1
+vince		1
+please		1
+sandwiches	1
+jose		1
+below		1
+mike		1
+set		1
+shirley		1
+over		1

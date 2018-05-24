@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+glen		1
+plan		1
+attend		1
+ll		1
+thanks		1

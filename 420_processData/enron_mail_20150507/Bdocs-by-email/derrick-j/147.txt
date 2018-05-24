@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+derrick		3
+comx		1
+approve		1
+filename	1
+jim		1
+jx		1
+psti		1
+enron		1
+jr		1
+james		1
+origin		1
+harris		1
+motion		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+stay		1
+trying		1
+need		1
+sold		1

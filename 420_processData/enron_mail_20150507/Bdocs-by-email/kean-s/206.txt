@@ -1,0 +1,24 @@
+NumWords	37
+NumTerms	21
+
+enron		10
+na		4
+enronxgate	3
+kean		2
+steven		2
+mark		1
+palmer		1
+complaint	1
+susan		1
+denne		1
+karen		1
+dasovich	1
+fw		1
+mara		1
+forwarded	1
+enroncc		1
+sanders		1
+jeff		1
+amto		1
+subject		1
+richard		1

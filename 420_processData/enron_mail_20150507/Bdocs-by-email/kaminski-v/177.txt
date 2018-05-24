@@ -1,0 +1,17 @@
+NumWords	19
+NumTerms	14
+
+kaminski	3
+vince		2
+cn		2
+enron		2
+recipients	1
+pac		1
+filename	1
+na		1
+vkamins		1
+pstplease	1
+membership	1
+vincent		1
+ou		1
+cancel		1

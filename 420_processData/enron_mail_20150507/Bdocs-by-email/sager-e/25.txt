@@ -1,0 +1,16 @@
+NumWords	19
+NumTerms	13
+
+each		3
+new		3
+outside		2
+counsel		2
+soonelizabeth	1
+absolutely	1
+see		1
+filing		1
+multiplying	1
+matter		1
+contract	1
+frustration	1
+sager		1

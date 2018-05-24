@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+down		2
+collateral	1
+stock		1
+looking		1
+today		1
+due		1
+nov		1
+mill		1
+way		1
+enron		1
+going		1
+agai		1
+note		1
+think		1

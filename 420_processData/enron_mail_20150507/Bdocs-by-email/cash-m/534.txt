@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+really		1
+kriste		1
+michelle	1
+works		1
+think		1

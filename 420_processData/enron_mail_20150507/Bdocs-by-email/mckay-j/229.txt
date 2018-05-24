@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+adds		1
+out		1
+run		1
+back		1
+today		1
+going		1
+sheppard	1
+min		1
+went		1
+yesterday	1

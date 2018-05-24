@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+monday		1
+early		1
+talk		1
+comx		1
+cris		1
+review		1
+filename	1
+pstfor		1
+gx		1
+sherman		1
+privileged	1
+gnemec		1
+non		1
+enron		1
+nemec		1
+origin		1

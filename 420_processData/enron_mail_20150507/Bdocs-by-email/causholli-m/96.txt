@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+trends		1
+recent		1
+included	1
+time		1
+keep		1
+karen		1
+thanks		1
+foex		1
+right		1
+monika		1
+comments	1
+mind		1
+next		1
+ll		1

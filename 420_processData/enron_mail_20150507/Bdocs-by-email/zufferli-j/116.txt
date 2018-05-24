@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+care		1
+little		1
+happens		1
+ok		1
+everything	1
+fine		1
+jessica		1
+slow		1
+see		1
+take		1
+though		1
+waiting		1
+doing		1
+still		1

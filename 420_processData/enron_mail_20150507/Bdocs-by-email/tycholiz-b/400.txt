@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+group		1
+met		1
+calgers		1
+know		1
+recently	1
+anybody		1
+mike		1
+involved	1
+bt		1

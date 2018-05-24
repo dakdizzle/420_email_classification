@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+lost		2
+basis		1
+fixed		1
+positions	1
+length		1
+west		1
+price		1
+money		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+understand	1
+happy		1
+michelle	1
+made		1
+going		1
+reps		1
+give		1

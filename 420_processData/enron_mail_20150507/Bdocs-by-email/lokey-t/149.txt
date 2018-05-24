@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+reporting	1
+transactional	1
+plan		1
+please		1
+involves	1
+attend		1

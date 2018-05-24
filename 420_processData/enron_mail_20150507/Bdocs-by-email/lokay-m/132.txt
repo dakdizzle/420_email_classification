@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+bullets		1
+burlington	1
+mojave		1
+ongoing		1
+txu		1

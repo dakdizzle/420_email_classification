@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+together	1
+put		1
+overviews	1
+send		1
+ray		1
+pls		1
+alan		1
+earlier		1
+bob		1
+thanks		1

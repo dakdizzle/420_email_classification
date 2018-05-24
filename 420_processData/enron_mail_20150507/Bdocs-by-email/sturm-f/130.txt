@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ve		1
+sent		1
+per		1
+requests	1
+john		1
+fletch		1
+already		1
+kevin		1

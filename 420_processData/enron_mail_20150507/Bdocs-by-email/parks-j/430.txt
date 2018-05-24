@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+sonat		1
+basis		1
+physical	1
+know		1
+show		1
+feb		1
+fgt		1
+thanks		1

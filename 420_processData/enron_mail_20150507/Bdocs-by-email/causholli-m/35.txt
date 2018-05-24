@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+send		1
+pulp		1
+attached	1
+find		1
+asked		1
+andrea		1
+markets		1
+industrial	1
+kent		1
+presentation	1
+caushollienron	1
+reed		1
+monika		1

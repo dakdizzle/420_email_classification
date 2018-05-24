@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+early		1
+eb		1
+meeting		1
+fax		1
+few		1
+ph		1
+today		1
+street		1
+wholesale	1
+later		1
+reschedule	1
+cell		1
+services	1
+shackletonenron	1
+sara		1
+tomorrow	1
+ahouston	1
+minutes		1
+tx		1
+smith		1

@@ -1,0 +1,19 @@
+NumWords	21
+NumTerms	16
+
+pays		2
+owe		2
+chris		2
+dirk		2
+keeping		2
+guys		1
+keep		1
+pebble		1
+thanks		1
+each		1
+easy		1
+possible	1
+reputation	1
+flight		1
+brief		1
+ll		1

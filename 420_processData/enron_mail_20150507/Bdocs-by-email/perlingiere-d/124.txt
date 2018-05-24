@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+thanks		2
+parental	1
+email		1
+fax		1
+guaranties	1
+parties		1
+fine		1
+same		1
+copies		1
+looks		1
+help		1
+both		1
+regarding	1
+great		1
+many		1
+executed	1
+exhibits	1
+weekend		1
+assignment	1
+debra		1

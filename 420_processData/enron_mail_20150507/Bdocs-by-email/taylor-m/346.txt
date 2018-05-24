@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+president	1
+counselenron	1
+message		1
+services	1
+taylorvice	1
+test		1
+wholesale	1
+general		1
+emark		1

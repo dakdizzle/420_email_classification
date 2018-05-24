@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+span		1
+http		1
+www		1
+watch		1
+org		1

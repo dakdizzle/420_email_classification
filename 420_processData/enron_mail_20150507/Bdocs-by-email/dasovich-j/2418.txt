@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+freaking	1
+gotta		1
+going		1
+imagine		1
+twice		1
+through		1

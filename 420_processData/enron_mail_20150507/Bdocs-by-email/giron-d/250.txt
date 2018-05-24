@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+put		1
+account		1
+accidentally	1
+check		1
+deposit		1
+mail		1
+million		1
+dg		1
+cut		1
+thanks		1

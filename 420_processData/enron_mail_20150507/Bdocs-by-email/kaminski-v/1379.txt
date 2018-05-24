@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+vince		1
+m		1
+time		1
+week		1
+tuesday		1
+next		1
+frank		1

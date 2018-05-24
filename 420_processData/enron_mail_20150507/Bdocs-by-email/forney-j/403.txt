@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+situation	1
+oome		1
+guy		1
+start		1
+jforney		1
+regulatory	1
+review		1
+having		1
+oomc		1
+thanks		1

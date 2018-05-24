@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+energy		1
+nmwolf		1
+duke		1
+com		1

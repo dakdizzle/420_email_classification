@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+skean		2
+cn		2
+person		1
+recipients	1
+kean		1
+steven		1
+filename	1
+na		1
+pstdavid	1
+privileged	1
+non		1
+enron		1
+please		1
+forward		1
+ou		1
+appropriate	1

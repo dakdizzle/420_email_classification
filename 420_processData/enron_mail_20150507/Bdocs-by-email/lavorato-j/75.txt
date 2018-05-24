@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+rob		1
+trade		1
+sometime	1
+give		1
+call		1

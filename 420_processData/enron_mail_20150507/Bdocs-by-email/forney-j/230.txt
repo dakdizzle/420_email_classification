@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+monday		2
+day		2
+full		1
+pm		1
+meeting		1
+time		1
+friday		1
+lisa		1
+floating	1
+out		1
+holiday		1
+cell		1
+list		1
+office		1
+obviously	1
+available	1
+one		1
+attend		1
+half		1
+jmf		1

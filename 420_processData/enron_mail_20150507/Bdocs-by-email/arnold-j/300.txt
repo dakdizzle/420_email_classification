@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+care		1
+stuff		1
+gas		1
+searching	1
+found		1

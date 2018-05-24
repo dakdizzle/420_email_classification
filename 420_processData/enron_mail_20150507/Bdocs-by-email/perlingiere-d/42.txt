@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+cn		2
+make		1
+ewallumr	1
+ellen		1
+enron		1
+wallumrod	1
+recipients	1
+ou		1
+na		1

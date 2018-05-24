@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+draft		2
+debra		2
+eb		1
+fax		1
+legal		1
+attached	1
+industries	1
+houston		1
+street		1
+willamette	1
+see		1
+america		1
+enron		1
+texas		1
+please		1
+tomorrow	1
+north		1
+forward		1
+smith		1
+perlingiereenron	1
+eprime		1
+perlingiere	1
+com		1

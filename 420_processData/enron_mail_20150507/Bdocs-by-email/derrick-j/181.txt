@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+letters		1
+respond		1
+net		1
+interested	1
+know		1
+joannie		1
+jim		1
+onto		1
+way		1
+years		1
+seen		1
+saudi		1
+advised		1
+many		1
+best		1
+appears		1
+scam		1
+made		1
+thought		1
+request		1
+through		1

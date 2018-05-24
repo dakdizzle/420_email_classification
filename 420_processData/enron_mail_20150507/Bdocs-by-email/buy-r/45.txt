@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+blackberry	2
+rick		2
+net		1
+time		1
+wireless	1
+handheld	1
+www		1
+stay		1
+congrats	1
+sent		1
+best		1
+touch		1
+buy		1
+luck		1
+big		1

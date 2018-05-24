@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+vince		1
+make		1
+event		1
+please		1
+rusty		1
+keep		1
+sure		1
+shirley		1
+don		1
+ball		1
+drop		1
+eye		1

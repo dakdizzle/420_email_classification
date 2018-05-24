@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+documents	2
+copy		1
+finalize	1
+tracts		1
+legal		1
+cashier		1
+review		1
+transfer	1
+found		1
+sale		1
+wire		1
+keith		1
+yesterday	1
+actually	1
+forwarded	1
+check		1
+description	1
+one		1
+want		1
+use		1
+need		1
+think		1

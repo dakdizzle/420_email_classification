@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+kwatson		2
+cn		2
+please		2
+rofr		1
+recipients	1
+watson		1
+post		1
+psttoby		1
+filename	1
+na		1
+thanks		1
+call		1
+privileged	1
+kim		1
+kimberly	1
+non		1
+enron		1
+questions	1
+ou		1
+ebb		1

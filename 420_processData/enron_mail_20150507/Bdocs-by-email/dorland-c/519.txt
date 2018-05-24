@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+wedding		1
+talk		1
+hotties		1
+hopefully	1
+action		1
+johnny		1
+chris		1
+later		1
+see		1
+witness		1
+better		1
+single		1
+dan		1
+wish		1
+sighting	1
+cougar		1
+hop		1
+recently	1
+year		1
+mike		1
+hasn		1
+sure		1
+wait		1
+next		1

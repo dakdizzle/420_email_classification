@@ -1,0 +1,25 @@
+NumWords	47
+NumTerms	22
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+skulic		1
+bruce		1
+brady		1
+bmills		1
+fyi		1
+doan		1
+ebrady		1
+shopkin		1
+anna		1
+jad		1
+edward		1
+mills		1
+kulic		1
+jdoan		1
+sladana		1
+stephanie	1
+hopkins		1

@@ -1,0 +1,12 @@
+NumWords	13
+NumTerms	9
+
+those		2
+guys		2
+go		2
+want		2
+happened	1
+yelled		1
+learn		1
+yell		1
+see		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+info		1
+now		1
+record		1
+correct		1
+access		1
+confrimation	1
+path		1

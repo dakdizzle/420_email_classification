@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+notice		1
+plus		1
+packet		1
+canadian	1
+go		1
+timely		1
+going		1
+jay		1
+thanks		1
+here		1
+fundamentals	1
+over		1

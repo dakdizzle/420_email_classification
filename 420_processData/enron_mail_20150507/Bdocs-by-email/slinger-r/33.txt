@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+ran		1
+seems		1
+everything	1
+listing		1
+douglas		1
+david		1
+flipping	1
+up		1
+somehow		1
+well		1
+portland	1
+ends		1
+web		1
+pages		1
+site		1
+hope		1
+going		1
+everyone	1
+ryan		1
+through		1

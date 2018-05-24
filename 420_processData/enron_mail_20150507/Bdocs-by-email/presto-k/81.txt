@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+president	1
+discuss		1
+fax		1
+power		1
+east		1
+kevin		1
+se		1
+thanks		1
+hole		1
+call		1
+cell		1
+please		1
+prestovice	1
+tradingphone	1

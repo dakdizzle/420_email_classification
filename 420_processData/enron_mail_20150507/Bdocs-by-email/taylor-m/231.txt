@@ -1,0 +1,27 @@
+NumWords	29
+NumTerms	24
+
+mtaylo		2
+cn		2
+lengthy		2
+voicemail	2
+comments	2
+mark		1
+page		1
+aren		1
+recipients	1
+left		1
+cellor		1
+filename	1
+na		1
+call		1
+privileged	1
+home		1
+psti		1
+non		1
+office		1
+enron		1
+please		1
+questions	1
+ou		1
+taylor		1

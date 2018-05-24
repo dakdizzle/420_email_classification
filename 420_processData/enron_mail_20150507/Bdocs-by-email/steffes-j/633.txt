@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+transition	1
+please		1
+charles		1
+issue		1
+include		1
+planning	1

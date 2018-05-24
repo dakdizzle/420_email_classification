@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+amy		1
+larry		1
+john		1
+attending	1
+kinser		1

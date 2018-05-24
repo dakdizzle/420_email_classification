@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+thats		1
+go		1
+before		1
+fine		1
+call		1

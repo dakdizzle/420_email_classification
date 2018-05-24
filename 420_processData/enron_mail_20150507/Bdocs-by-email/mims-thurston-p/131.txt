@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+please		2
+free		1
+thank		1
+attached	1
+find		1
+east		1
+ending		1
+call		1
+offer		1
+louisiana	1
+enron		1
+feel		1
+winter		1
+questions	1
+volumes		1
+trunkline	1
+months		1
+dave		1
+hi		1

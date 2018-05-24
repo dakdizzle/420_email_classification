@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+support		1
+mw		1
+homestead	1

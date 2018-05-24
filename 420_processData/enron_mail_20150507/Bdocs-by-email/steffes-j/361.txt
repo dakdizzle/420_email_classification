@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+meeting		2
+jim		2
+one		2
+greg		1
+wood		1
+meetings	1
+gas		1
+canovas		1
+schedules	1
+ees		1
+melinda		1
+call		1
+sharp		1
+weekly		1
+please		1
+pharms		1
+guillermo	1
+harry		1
+going		1
+commodity	1

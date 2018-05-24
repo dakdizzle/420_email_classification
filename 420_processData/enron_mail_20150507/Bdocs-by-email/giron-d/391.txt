@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+forwarded	1
+pictures	1
+hope		1
+well		1
+kristi		1
+everyone	1
+dg		1
+thanks		1

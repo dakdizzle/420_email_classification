@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+number		3
+wrong		1
+really		1
+kh		1
+facilities	1
+fax		1
+gave		1
+tested		1
+apparently	1
+works		1
+new		1

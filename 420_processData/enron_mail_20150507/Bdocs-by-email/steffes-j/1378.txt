@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+much		1
+together	1
+time		1
+course		1
+driven		1
+judgements	1
+pull		1
+evan		1
+dan		1
+jim		1
+utilities	1
+team		1
+change		1
+activity	1
+requirements	1
+over		1

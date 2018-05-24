@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+nite		1
+party		1
+accompanying	1
+kimberly	1
+maggi		1
+sat		1
+interest	1
+bd		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+pipes		1
+bridge		1
+know		1
+well		1
+now		1
+help		1
+done		1
+back		1
+start		1
+go		1
+want		1
+mike		1
+here		1

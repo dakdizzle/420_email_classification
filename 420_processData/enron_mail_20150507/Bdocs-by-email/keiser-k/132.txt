@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+slate		1
+aspcheck	1
+main		1
+msn		1
+http		1
+cagle		1
+enronextravaganza	1
+news		1
+com		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+mwh		1
+out		1
+mitigated	1
+day		1
+pepperhill	1
+prices		1
+whole		1
+project		1
+shit		1
+dispatched	1

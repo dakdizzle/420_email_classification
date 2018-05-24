@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+email		1
+day		1
+doh		1
+everything	1
+short		1
+oh		1
+today		1
+late		1
+looks		1
+receiving	1
+market		1
+done		1
+right		1
+nw		1
+go		1
+bad		1
+wait		1
+side		1
+counting	1

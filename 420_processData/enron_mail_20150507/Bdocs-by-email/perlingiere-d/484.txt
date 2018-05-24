@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+dogs		2
+socialization	1
+time		1
+go		1
+again		1
+need		1
+meet		1
+sometime	1

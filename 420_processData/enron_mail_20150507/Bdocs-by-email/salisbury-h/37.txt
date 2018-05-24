@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+tarcy		2
+mcclellan	1
+seems		1
+brian		1
+price		1
+speaking	1
+thanks		1
+getting		1
+insist		1
+pay		1
+back		1
+want		1
+change		1
+don		1
+think		1

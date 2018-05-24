@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+click		1
+http		1
+houston		1
+www		1
+com		1

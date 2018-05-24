@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+time		1
+looking		1
+letting		1
+wanted		1
+thanks		1
+stay		1
+good		1
+again		1
+weekend		1
+forward		1
+year		1
+already		1
+last		1
+dg		1
+doing		1
+next		1

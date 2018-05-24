@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+info		1
+coming		1
+looking		1
+gallup		1
+gas		1
+guys		1
+thankskh	1
+pipeline	1
+mmbtu		1
+content		1
+way		1
+m		1
+historical	1
+northwest	1
+tell		1
+last		1
+months		1
+tw		1
+transcolorado	1

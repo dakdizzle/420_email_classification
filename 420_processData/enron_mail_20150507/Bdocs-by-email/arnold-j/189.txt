@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+booked		2
+spec		1
+hedge		1
+error		1
+position	1
+well		1
+ng		1
+upstream	1
+oil		1
+deal		1
+st		1
+resulted	1

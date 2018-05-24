@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+later		2
+dinner		2
+knows		1
+changed		1
+together	1
+buzz		1
+talk		1
+looking		1
+know		1
+wednesday	1
+supposed	1
+odds		1
+grandparent	1
+hour		1
+nice		1
+followed	1
+em		1
+happy		1
+night		1
+sue		1
+give		1
+tonight		1
+ll		1

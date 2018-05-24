@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+sending		2
+open		1
+draft		1
+problem		1
+see		1
+real		1
+run		1
+drafts		1
+one		1
+probably	1
+test		1
+mail		1
+internally	1
+imagine		1
+metadata	1

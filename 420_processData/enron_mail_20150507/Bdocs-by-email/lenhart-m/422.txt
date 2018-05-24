@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+up		2
+going		2
+out		1
+chippendale	1
+stripper	1
+go		1
+thong		1
+myself		1
+oil		1
+dress		1
+think		1

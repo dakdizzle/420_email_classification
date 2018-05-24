@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+plan		4
+place		2
+terminated	1
+board		1
+under		1
+employees	1
+indicate	1
+few		1
+now		1
+righ		1
+enron		1
+directors	1
+michelle	1
+approval	1
+subject		1
+last		1
+corp		1
+weeks		1
+haven		1
+severance	1

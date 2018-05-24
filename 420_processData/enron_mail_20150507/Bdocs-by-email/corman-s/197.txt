@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+andy		1
+join		1
+know		1
+logistics	1
+phone		1
+depending	1
+ll		1
+afternoon	1

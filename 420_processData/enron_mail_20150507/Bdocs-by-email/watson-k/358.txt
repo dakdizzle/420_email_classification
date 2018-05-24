@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+much		1
+terminations	1
+bombing		1
+thank		1
+weather		1
+today		1
+far		1
+help		1
+actually	1
+oba		1
+anything	1
+kim		1
+way		1
+years		1
+thinking	1
+look		1
+recommend	1
+go		1
+book		1
+tentatively	1
+don		1
+date		1

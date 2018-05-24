@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+don		2
+calgary		1
+harvard		1
+mit		1
+now		1
+softcopy	1
+need		1
+application	1
+traders		1
+think		1
+here		1

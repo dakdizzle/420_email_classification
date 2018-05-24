@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+hold		1
+close		1
+pl		1
+complete	1
+being		1
+please		1
+know		1
+necessary	1
+calcing		1
+thanks		1

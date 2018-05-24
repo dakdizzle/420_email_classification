@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+manage		1
+really		1
+great		1
+time		1
+try		1
+doubt		1
+wise		1
+week		1
+think		1
+ll		1

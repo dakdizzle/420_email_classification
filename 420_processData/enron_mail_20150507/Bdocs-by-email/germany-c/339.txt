@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+discuss		1
+tallahassee	1
+support		1
+keep		1
+adjust		1
+reliant		1
+provide		1
+discrepancy	1
+wheeler		1
+number		1
+thanks		1
+pipeline	1
+volume		1
+call		1
+posted		1
+tiffanie	1
+believe		1
+bill		1
+max		1

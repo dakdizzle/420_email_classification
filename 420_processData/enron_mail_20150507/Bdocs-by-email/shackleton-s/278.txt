@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+keeps		1
+ideas		1
+ena		1
+rebook		1
+trades		1
+ng		1
+beth		1
+sara		1
+calling		1
+elfi		1

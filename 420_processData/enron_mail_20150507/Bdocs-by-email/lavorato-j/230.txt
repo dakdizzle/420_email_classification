@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+basis		1
+zone		1
+due		1
+month		1
+transco		1
+rest		1
+loss		1

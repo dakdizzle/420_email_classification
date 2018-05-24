@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+group		1
+heard		1
+sent		1
+financial	1
+maire		1
+isdas		1
+prepare		1
+request		1

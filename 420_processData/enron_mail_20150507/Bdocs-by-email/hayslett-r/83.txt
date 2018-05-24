@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+cash		2
+those		1
+make		1
+until		1
+today		1
+now		1
+calls		1
+problem		1
+current		1
+type		1
+right		1
+real		1
+need		1
+necessary	1
+crisis		1
+think		1
+reduce		1
+over		1

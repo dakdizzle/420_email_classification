@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+download	2
+together	1
+diana		1
+paul		1
+nyiso		1
+time		1
+know		1
+few		1
+encountering	1
+problem		1
+running		1
+regarding	1
+l		1

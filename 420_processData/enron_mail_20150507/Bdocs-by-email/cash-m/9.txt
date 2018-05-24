@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+services	2
+agreement	2
+latest		1
+send		1
+form		1
+carol		1
+thanks		1
+clare		1
+please		1
+contract	1
+consulting	1
+st		1
+diane		1

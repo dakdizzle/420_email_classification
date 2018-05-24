@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+qfs		1
+lynn		1
+kim		1
+interested	1
+draft		1
+cali		1
+thought		1
+new		1
+proposal	1

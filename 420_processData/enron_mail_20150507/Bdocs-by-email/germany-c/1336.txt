@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+need		2
+expenses	1
+plus		1
+commission	1
+now		1
+truck		1
+sell		1
+more		1
+campers		1
+money		1

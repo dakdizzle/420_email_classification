@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+thursday	1
+sara		1
+thanks		1

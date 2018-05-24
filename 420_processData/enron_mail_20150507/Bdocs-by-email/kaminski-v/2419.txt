@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+heard		1
+time		1
+talk		1
+things		1
+wander		1
+meand		1
+thanks		1
+soon		1
+summer		1
+vince		1
+people		1
+down		1
+message		1
+enron		1
+hr		1
+enjoy		1
+presly		1
+slowed		1
+hi		1

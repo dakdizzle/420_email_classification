@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+stacey		2
+white		2
+cn		2
+terminated	1
+counterparties	1
+pstone		1
+stacy		1
+won		1
+recipients	1
+filename	1
+na		1
+swhite		1
+enron		1
+promise		1
+forward		1
+more		1
+ou		1
+last		1

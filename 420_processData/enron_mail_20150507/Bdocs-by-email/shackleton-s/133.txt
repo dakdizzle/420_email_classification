@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+sshackl		2
+cn		2
+sara		2
+shackleton	1
+know		1
+reached		1
+recipients	1
+filename	1
+na		1
+psttracy	1
+thanks		1
+conclusion	1
+privileged	1
+non		1
+enron		1
+please		1
+ou		1

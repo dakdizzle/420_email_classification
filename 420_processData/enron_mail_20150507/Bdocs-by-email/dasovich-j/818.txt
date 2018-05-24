@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+dwr		1
+map		1
+sent		1
+yahoo		1
+directions	1

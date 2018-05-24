@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+morning		1
+reviewed	1
+documents	1
+here		1

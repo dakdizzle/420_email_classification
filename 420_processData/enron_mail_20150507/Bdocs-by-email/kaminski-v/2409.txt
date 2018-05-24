@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+http		1
+lib		1
+ru		1

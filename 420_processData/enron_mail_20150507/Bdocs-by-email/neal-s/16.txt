@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+scott		1
+unfortunately	1
+won		1
+invitation	1
+attend		1
+thanks		1

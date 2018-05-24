@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+inc		1
+energy		1
+payment		1
+know		1
+attached	1
+prior		1
+management	1
+peter		1
+invoices	1
+september	1
+regarding	1
+services	1
+enron		1
+riverside	1
+questions	1
+county		1
+mail		1
+jennifer	1
+richard		1
+waste		1

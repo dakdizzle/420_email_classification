@@ -1,0 +1,25 @@
+NumWords	33
+NumTerms	22
+
+day		4
+alert		4
+imbalances	2
+out		2
+weekly		2
+index		2
+imbalance	2
+overage		1
+cash		1
+low		1
+differently	1
+high		1
+becomes		1
+underburns	1
+underage	1
+book		1
+thecumulative	1
+part		1
+settled		1
+subject		1
+treated		1
+overburns	1

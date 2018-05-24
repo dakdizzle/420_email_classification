@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+order		1
+time		1
+spend		1
+leave		1
+ham		1
+forget		1
+miss		1
+really		1
+great		1
+kiss		1
+before		1
+need		1
+going		1
+week		1
+don		1
+love		1

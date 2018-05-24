@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+stacey		2
+swhite		2
+cn		2
+documentation	2
+recipients	1
+lcra		1
+white		1
+filename	1
+na		1
+mountain	1
+thanks		1
+privileged	1
+down		1
+tracking	1
+psti		1
+non		1
+enron		1
+forward		1
+ou		1
+green		1
+still		1
+rest		1
+ll		1
+here		1

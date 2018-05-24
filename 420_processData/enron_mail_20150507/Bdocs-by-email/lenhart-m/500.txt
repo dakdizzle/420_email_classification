@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+partying	1
+lsu		1
+fun		1
+guys		1
+sounded		1
+went		1
+drunk		1
+pretty		1
+r		1
+watched		1

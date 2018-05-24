@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+securities	1
+rrsp		1
+sell		1
+buy		1
+rod		1
+chris		1

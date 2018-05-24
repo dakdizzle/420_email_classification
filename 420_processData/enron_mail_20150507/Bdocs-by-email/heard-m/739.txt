@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+information	1
+marie		1
+need		1
+chris		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+details		1
+michelle	1
+here		1

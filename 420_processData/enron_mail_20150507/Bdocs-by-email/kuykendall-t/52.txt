@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+energy		1
+out		1
+look		1
+good		1
+e		1
+low		1
+duke		1
+take		1
+news		1
+lots		1

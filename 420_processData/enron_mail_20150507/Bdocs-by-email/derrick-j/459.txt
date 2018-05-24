@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+fax		1
+confirmation	1
+david		1
+received	1
+machine		1

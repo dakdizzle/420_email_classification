@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+wednesdays	1
+gas		1
+getting		1
+mondays		1
+please		1
+thankskam	1
+start		1
+tell		1
+night		1
+dpr		1
+need		1
+last		1
+here		1

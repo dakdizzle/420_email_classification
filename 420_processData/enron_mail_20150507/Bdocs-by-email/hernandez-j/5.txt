@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+gumbo		1
+owe		1
+bring		1
+money		1
+still		1
+better		1

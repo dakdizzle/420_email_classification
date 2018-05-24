@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+described	1
+mailed		1
+copy		1
+talk		1
+john		1
+wanted		1
+lavorato	1
+morning		1
+talking		1
+memo		1
+topics		1
+week		1
+next		1

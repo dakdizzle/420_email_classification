@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+postponed	1
+internet	1
+meeting		1
+m		1
+right		1
+now		1
+trying		1
+call		1

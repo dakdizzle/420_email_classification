@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+people		1
+friday		1
+thursday	1
+probably	1
+tom		1
+noon		1
+planning	1

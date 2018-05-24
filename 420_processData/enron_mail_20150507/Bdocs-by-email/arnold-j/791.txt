@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+now		2
+group		1
+open		1
+hear		1
+shout		1
+unfotunately	1
+john		1
+sorry		1
+delay		1
+remind		1
+openings	1
+title		1
+right		1
+positions	1
+kristin		1
+don		1
+give		1
+ll		1

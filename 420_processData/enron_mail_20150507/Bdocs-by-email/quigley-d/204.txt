@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+down		1
+hot		1
+gym		1
+looking		1
+ilydq		1
+came		1
+tell		1
+yesterday	1

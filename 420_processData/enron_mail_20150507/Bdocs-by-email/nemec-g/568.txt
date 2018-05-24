@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+agreements	1
+save		1
+confidentiality	1
+folder		1

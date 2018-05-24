@@ -1,0 +1,15 @@
+NumWords	19
+NumTerms	12
+
+fundies		3
+time		2
+real		2
+risk		2
+rotation	2
+books		2
+right		1
+now		1
+last		1
+biggest		1
+st		1
+needs		1

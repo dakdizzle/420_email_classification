@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+energy		1
+idacorp		1
+change		1
+eol		1
+vh		1
+deal		1
+p		1

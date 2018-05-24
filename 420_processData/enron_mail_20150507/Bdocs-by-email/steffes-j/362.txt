@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+next		2
+jim		1
+out		1
+early		1
+m		1
+good		1
+thursday	1
+idea		1
+week		1
+damon		1

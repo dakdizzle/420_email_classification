@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+m		1
+turn		1
+interesting	1
+taken		1
+sorry		1
+thnigs		1
+give		1
+call		1
+here		1

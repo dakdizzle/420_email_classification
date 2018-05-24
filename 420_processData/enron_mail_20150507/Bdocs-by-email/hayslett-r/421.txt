@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+staffing	1
+thinking	1
+begin		1
+save		1
+need		1
+money		1
+asked		1
+reduce		1
+here		1

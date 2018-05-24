@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+vince		1
+message		1
+paul		1
+steve		1
+left		1
+call		1

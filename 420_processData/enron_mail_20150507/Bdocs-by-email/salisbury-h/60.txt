@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+changed		1
+right		1
+thanks		1

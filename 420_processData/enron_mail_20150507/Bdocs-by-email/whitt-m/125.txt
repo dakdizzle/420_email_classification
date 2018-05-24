@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+mark		1
+between		1
+two		1
+propose		1
+contracts	1
+brian		1
+bridge		1
+term		1
+attached	1
+deals		1
+use		1

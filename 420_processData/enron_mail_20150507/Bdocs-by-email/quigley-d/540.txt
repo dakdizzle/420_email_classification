@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+hey		1
+massage		1
+time		1
+honeyif		1
+ready		1
+morning		1
+down		1
+around		1
+possibleif	1
+therelove	1
+go		1
+want		1
+sat		1
+use		1
+spa		1
+babydq		1
+appointments	1
+making		1

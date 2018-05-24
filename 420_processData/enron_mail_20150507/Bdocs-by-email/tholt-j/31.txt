@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+bondad		1
+non		1

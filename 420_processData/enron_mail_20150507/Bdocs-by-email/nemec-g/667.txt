@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+done		1
+keegan		1
+please		1
+thursday	1
+farrel		1
+assistant	1
+wed		1
+coordinate	1
+better		1
+afternoon	1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+fun		1
+folk		1
+work		1
+boring		1

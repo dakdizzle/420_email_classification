@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+deal		2
+cal		1
+done		1
+details		1
+errol		1
+price		1
+etc		1
+swap		1
+system		1
+vol		1
+give		1
+thanks		1

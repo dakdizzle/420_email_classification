@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+regards		1
+formula		1
+cqg		1
+function	1
+telerate	1
+spoke		1
+depending	1
+nymex		1
+feed		1
+never		1

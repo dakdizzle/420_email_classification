@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+mark		1
+up		1
+symes		1
+kate		1
+thanks		1
+meyers		1
+amy		1
+program		1
+bert		1
+please		1
+bill		1
+sign		1
+pilot		1
+guzman		1

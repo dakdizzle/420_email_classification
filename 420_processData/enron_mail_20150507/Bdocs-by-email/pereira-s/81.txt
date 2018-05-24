@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ugh		1
+karen		1
+lot		1
+thanks		1

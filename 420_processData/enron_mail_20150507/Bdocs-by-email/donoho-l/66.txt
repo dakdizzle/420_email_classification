@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+setting		1
+up		1
+thanks		1

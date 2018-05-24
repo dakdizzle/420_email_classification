@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+capacity	1
+energy		1
+trailblazer	1
+interested	1
+grier		1
+merchant	1
+paso		1
+el		1
+martin		1
+called		1
+number		1

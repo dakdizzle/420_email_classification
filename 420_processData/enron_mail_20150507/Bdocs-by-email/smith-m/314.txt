@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+zac		1
+list		1
+distribution	1
+mccorroll	1
+sheet		1
+please		1
+temperature	1
+west		1
+jose		1
+mat		1
+thanks		1
+add		1

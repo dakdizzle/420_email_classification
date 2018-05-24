@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+granted		1
+being		1
+received	1
+options		1
+strike		1
+letter		1
+total		1

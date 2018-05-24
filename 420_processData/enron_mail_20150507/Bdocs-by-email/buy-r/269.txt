@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+make		1
+company		1
+hate		1
+despain		1
+pulse		1
+ask		1
+now		1
+trip		1
+view		1
+markets		1
+important	1
+check		1
+right		1
+rick		1
+back		1
+nothing		1
+another		1
+more		1
+probably	1
+given		1
+here		1
+trading		1

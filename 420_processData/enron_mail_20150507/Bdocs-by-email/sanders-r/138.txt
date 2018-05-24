@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+up		1
+please		1
+tues		1
+pickett		1
+wed		1
+donn		1
+set		1
+call		1

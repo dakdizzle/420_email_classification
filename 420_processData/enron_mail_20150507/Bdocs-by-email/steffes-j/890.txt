@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+ercot		1
+non		1
+texas		1
+utility		1

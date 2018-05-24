@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+drink		1
+forgot		1
+yeah		1
+oh		1
+ill		1
+buy		1

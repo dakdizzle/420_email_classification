@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+artesia		1
+steve		1
+won		1
+following	1
+sorry		1
+answer		1
+th		1
+tuesday		1
+yikes		1
+help		1
+espeak		1
+kim		1
+questions	1
+submit		1
+thought		1
+sure		1
+week		1
+ll		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+soon		1
+great		1
+job		1
+few		1
+lisa		1
+documents	1
+stop		1
+rad		1
+comments	1
+elizabeth	1
+hi		1

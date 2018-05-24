@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+married		1
+mississippi	1
+celeste		1
+cool		1
+fiance		1
+getting		1
+val		1

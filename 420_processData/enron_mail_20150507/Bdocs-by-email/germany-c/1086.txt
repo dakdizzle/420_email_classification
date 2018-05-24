@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+chris		2
+deal		2
+bookout		1
+deals		1
+following	1
+germany		1
+june		1
+filename	1
+pstplease	1
+germanyx	1

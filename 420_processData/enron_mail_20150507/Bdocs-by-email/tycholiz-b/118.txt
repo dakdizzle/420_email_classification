@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cn		2
+btychol		2
+status		1
+directing	1
+pstpaul		1
+advise		1
+recipients	1
+interest	1
+filename	1
+na		1
+bt		1
+privileged	1
+tycholiz	1
+packages	1
+non		1
+enron		1
+please		1
+barry		1
+ou		1

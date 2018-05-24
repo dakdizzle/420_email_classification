@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+discuss		1
+talk		1
+clearance	1
+spoken		1
+desk		1
+meet		1
+se		1
+afternoon	1
+head		1
+jim		1
+possible	1
+opportunity	1
+given		1

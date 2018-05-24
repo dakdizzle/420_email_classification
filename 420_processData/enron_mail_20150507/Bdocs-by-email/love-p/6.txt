@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+sanjeev		1
+done		1
+pl		1
+francis		1
+know		1
+sure		1
+thanks		1
+yesterday	1

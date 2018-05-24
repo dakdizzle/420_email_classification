@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+mark		1
+around		1
+days		1
+glad		1
+kind		1
+guidance	1
+d		1
+couple		1
+wait		1
+veterans	1
+here		1

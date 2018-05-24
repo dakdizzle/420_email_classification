@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+job		1
+know		1
+yes		1
+far		1
+answer		1
+still		1

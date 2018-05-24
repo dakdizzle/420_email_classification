@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+send		1
+analyst		1
+allowed		1
+philare		1
+attend		1

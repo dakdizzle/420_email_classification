@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+much		1
+bruce		1
+talk		1
+land		1
+martin		1
+now		1
+recruiting	1
+albert		1
+rodrique	1
+see		1
+call		1
+wright		1
+vincent		1
+hardy		1
+marco		1
+young		1
+chance		1
+unbelievable	1
+give		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+respond		1
+hope		1
+today		1
+publish		1
+doesn		1

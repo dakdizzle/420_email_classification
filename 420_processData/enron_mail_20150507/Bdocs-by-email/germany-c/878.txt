@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+stuff		1
+heard		1
+msn		1
+sad		1
+work		1
+doesn		1
+robin		1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+djunek		2
+aol		1
+id		1
+today		1
+chat		1
+aeglobalmarkets	1
+messenger	1
+instant		1
+via		1
+office		1
+msn		1
+work		1
+doesn		1
+com		1

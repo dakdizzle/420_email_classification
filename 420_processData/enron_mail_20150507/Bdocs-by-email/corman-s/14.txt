@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+ppl		2
+frito		2
+lay		2
+date		2
+energy		1
+updated		1
+mdq		1
+end		1
+company		1
+rock		1
+red		1
+pipeline	1
+bp		1
+oneok		1
+gypsum		1
+contracts	1
+calpine		1
+transwestern	1
+start		1
+contract	1
+wgr		1
+shipper		1
+summary		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+guaranty	1
+know		1
+questions	1
+attached	1
+comments	1

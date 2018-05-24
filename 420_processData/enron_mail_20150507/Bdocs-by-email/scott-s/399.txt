@@ -1,0 +1,23 @@
+NumWords	45
+NumTerms	20
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+mark		1
+theresa		1
+paul		1
+felling		1
+plucci		1
+mwhitt		1
+harrison	1
+tstaab		1
+amy		1
+staab		1
+afellin		1
+lucci		1
+tyrell		1
+whitt		1
+tharri		1

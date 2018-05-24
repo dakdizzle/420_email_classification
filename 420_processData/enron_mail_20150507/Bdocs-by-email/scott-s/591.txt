@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+scott		1
+list		1
+enron		1
+try		1
+adding		1
+susan		1
+im		1
+com		1

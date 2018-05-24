@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+days		1
+few		1
+enjoy		1
+bt		1
+thanks		1

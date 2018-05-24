@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+credit		1
+hourly		1
+oper		1
+yang		1
+pg		1
+web		1
+site		1
+compute		1
+jim		1
+out		1
+shelf		1
+anything	1
+research	1
+phd		1
+look		1
+roger		1
+basis		1
+figured		1
+started		1
+px		1
+spoke		1
+don		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+wtih		1
+talking		1
+michelle	1
+weil		1
+yes		1
+approved	1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+stay		1
+fried		1
+m		1
+try		1
+starchy		1
+trying		1
+watch		1
+foods		1
+away		1
+figure		1

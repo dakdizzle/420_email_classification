@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+pl		1
+vacation	1
+unfortunately	1
+offer		1
+thanks		1

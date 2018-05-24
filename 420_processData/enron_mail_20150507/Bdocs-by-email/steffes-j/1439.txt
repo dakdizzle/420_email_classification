@@ -1,0 +1,21 @@
+NumWords	37
+NumTerms	18
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+nicolay		1
+rfrank		1
+fyi		1
+jdasovic	1
+christi		1
+dasovich	1
+robert		1
+cnicola		1
+jeff		1
+hkingers	1
+harry		1
+kingerski	1
+frank		1

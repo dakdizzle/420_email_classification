@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+actives		1
+helpmost	1
+thought		1
+red		1
+important	1

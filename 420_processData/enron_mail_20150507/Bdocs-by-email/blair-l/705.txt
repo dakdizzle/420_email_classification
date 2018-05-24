@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+lynn		1
+care		1
+make		1
+great		1
+ricki		1
+please		1
+logistics	1
+gas		1
+sounds		1
+take		1
+thanks		1

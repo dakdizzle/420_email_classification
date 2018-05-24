@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+forward		2
+intend		1
+possibility	1
+wed		1
+today		1
+fyi		1
+senate		1
+contempt	1
+ve		1
+point		1
+regarding	1
+jeff		1
+best		1
+appears		1
+update		1
+go		1
+going		1
+learned		1

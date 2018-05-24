@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+rick		1
+well		1
+disruptive	1
+unless		1
+attend		1

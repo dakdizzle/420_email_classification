@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+care		1
+email		1
+safely		1
+talk		1
+kuykendall	1
+patrick		1
+glad		1
+snow		1
+take		1
+home		1
+soon		1
+enjoy		1
+made		1
+hotmail		1
+com		1

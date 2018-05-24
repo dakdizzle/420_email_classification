@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+associate	1
+vince		1
+message		1
+program		1
+forwarding	1
+analyst		1
+recommendation	1
+barry		1
+billy		1
+charge		1
+lemmonswho	1
+thanks		1

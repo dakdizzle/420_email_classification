@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+notify		1
+changing	1
+respond		1
+please		1
+sell		1
+hpl		1
+probably	1
+thanks		1

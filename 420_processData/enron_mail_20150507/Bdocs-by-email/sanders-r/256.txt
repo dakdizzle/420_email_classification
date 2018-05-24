@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+long		1
+fun		1
+place		1
+exotic		1
+please		1
+beach		1
+tell		1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+thanks		2
+talk		1
+things		1
+againelizabeth	1
+great		1
+promised	1
+drafts		1
+agreements	1
+again		1
+sager		1
+lunch		1
+here		1
+over		1
+always		1

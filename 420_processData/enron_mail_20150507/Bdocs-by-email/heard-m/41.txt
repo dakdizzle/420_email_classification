@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+each		1
+sent		1
+polykron	1
+fax		1
+deemed		1
+attached	1
+marie		1
+oops		1
+nylon		1
+pages		1
+isdas		1
+cover		1

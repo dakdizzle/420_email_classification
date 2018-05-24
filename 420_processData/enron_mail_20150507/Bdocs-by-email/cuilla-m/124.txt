@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+refund		1
+around		1
+takes		1
+time		1
+letter		1
+necessary	1
+months		1
+still		1
+talked		1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+mariella	2
+account		1
+paul		1
+quot		1
+per		1
+time		1
+up		1
+guest		1
+now		1
+trying		1
+es		1
+ermes		1
+show		1
+want		1
+set		1
+eol		1
+elio		1
+request		1

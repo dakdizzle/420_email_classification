@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+know		2
+twice		1
+never		1
+out		1
+aep		1
+look		1
+lets		1
+searching	1
+another		1
+egg		1
+bad		1
+lunch		1
+figure		1

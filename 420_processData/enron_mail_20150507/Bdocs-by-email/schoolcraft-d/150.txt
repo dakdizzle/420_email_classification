@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+content		1
+pstfyids	1
+non		1
+encoding	1
+dschool		1
+origin		1
+schoolcraft	1
+bitx		1
+dx		1
+filename	1
+transfer	1
+privileged	1

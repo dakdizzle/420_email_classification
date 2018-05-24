@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+first		2
+october		1
+month		1
+september	1
+each		1
+april		1
+annuity		1
+entered		1
+thereafter	1
+bill		1
+week		1
+thru		1
+next		1

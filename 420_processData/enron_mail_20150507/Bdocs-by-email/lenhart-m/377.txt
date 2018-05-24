@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+people		1
+send		1
+right		1
+today		1

@@ -1,0 +1,20 @@
+NumWords	36
+NumTerms	17
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+sneal		1
+scott		1
+thomas		1
+martin		1
+phillip		1
+pallen		1
+neal		1
+tmartin		1
+mgrigsb		1
+mike		1
+allen		1
+grigsby		1

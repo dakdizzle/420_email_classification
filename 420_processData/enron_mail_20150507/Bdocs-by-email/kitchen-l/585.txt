@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+lkitchen	2
+cn		2
+stuff		1
+plan		1
+brian		1
+kitchen		1
+spoken		1
+covered		1
+louise		1
+recipients	1
+filename	1
+na		1
+yesterday	1
+privileged	1
+non		1
+redo		1
+enron		1
+reserves	1
+psthaving	1
+ou		1
+need		1

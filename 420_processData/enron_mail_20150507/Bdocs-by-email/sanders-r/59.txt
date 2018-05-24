@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+up		2
+seems		1
+giving		1
+hr		1
+easier		1
+sign		1
+minutes		1
+before		1
+someone		1
+tried		1
+doesn		1

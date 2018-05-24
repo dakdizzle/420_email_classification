@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+narsimha	1
+interested	1
+jeff		1
+going		1
+thought		1
+attend		1
+niether		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+day		1
+make		1
+under		1
+whourly		1
+enpower		1
+till		1
+st		1
+next		1
+appropriate	1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+remove		1
+list		1
+distribution	1
+davidflowers	1
+please		1
+daivid		1
+trade		1
+longer		1
+thanksjoe	1
+lonestar	1
+com		1
+txu		1

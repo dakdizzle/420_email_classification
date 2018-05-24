@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+rick		1
+working		1
+quickly		1
+already		1
+better		1

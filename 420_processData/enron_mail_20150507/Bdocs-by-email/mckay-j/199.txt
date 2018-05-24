@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+coming		2
+regards		1
+look		1
+megawatts	1
+page		1
+jon		1
+numbers		1
+show		1
+another		1
+nov		1
+dec		1
+forcast		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+l		1
+supposed	1
+need		1
+guess		1
+access		1
+site		1
+view		1

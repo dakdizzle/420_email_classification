@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+home		1
+html		1
+index		1
+http		1
+edu		1
+www		1
+wisc		1
+pserc		1

@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+already		2
+group		1
+full		1
+seats		1
+completely	1
+short		1
+fact		1

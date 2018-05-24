@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+group		1
+sit		1
+kim		1
+meeting		1
+lorraine	1
+further		1
+time		1
+during		1
+decide		1
+participate	1
+thanks		1

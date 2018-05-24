@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+m		2
+job		1
+today		1
+cherie		1
+trying		1
+plans		1
+meet		1
+later		1
+call		1
+curfew		1
+around		1
+dinner		1
+concerns	1
+drinks		1
+still		1
+cancel		1

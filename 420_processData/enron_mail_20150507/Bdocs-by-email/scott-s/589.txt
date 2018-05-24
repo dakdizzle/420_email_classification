@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+near		1
+larry		1
+messenger	1
+log		1
+phone		1
+don		1

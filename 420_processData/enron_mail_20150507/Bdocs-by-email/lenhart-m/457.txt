@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+points		1
+hear		1
+taken		1
+offered		1
+given		1
+didn		1
+bet		1

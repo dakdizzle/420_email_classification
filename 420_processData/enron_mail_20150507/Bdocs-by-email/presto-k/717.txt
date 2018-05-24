@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+confirmed	1
+signed		1
+ago		1
+weeks		1
+couple		1

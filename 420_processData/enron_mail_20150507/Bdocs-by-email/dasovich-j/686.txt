@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+home		1
+html		1
+http		1
+www		1
+com		1
+franklinbowlesgallery	1

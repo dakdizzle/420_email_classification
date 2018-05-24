@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+services	2
+president	1
+greg		1
+power		1
+hourly		1
+west		1
+wholesale	1
+marketing	1
+america		1
+enron		1
+em		1
+north		1
+business	1
+middle		1
+works		1
+vice		1
+trading		1
+over		1

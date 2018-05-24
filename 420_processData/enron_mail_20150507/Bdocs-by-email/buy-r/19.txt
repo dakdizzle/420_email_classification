@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+home		1
+great		1
+mom		1
+fraternity	1
+dad		1
+ps		1
+looks		1
+sorority	1
+love		1

@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+gnemec		2
+cn		2
+free		1
+pstdon		1
+today		1
+recipients	1
+kick		1
+filename	1
+na		1
+privileged	1
+way		1
+non		1
+enron		1
+nemec		1
+work		1
+ou		1
+gerald		1
+ass		1

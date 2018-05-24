@@ -1,0 +1,14 @@
+NumWords	18
+NumTerms	11
+
+cn		4
+enron		2
+recipients	2
+ou		2
+na		2
+dquigle		1
+john		1
+arnold		1
+quigley		1
+dutch		1
+jarnold		1

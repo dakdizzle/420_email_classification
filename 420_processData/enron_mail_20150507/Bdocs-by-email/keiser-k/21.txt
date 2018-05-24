@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+valdesplease	1
+jane		1
+thankskamx	1
+know		1
+files		1
+following	1
+lovedarron	1
+kam		1
+gossettjohn	1
+mclaughlinjeff	1
+dual		1
+people		1
+palmerphillip	1
+questions	1
+estate		1
+ubs		1
+need		1
+keiserscott	1
+access		1
+gironerrol	1

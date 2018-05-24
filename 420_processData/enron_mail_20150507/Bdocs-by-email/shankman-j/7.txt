@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+updated		1
+sent		1
+credit		1
+keep		1
+thanks		1

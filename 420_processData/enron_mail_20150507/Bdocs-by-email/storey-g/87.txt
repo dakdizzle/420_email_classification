@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+confirm		2
+send		1
+tagg		1
+out		1
+please		1
+involves	1
+going		1
+added		1
+agency		1
+ecc		1
+agreement	1
+tickets		1
+notes		1
+deal		1

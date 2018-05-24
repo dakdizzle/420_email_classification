@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+send		1
+meeting		1
+time		1
+stacey		1
+another		1
+someone		1
+reschedule	1

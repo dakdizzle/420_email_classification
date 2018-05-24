@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+much		1
+funky		1
+trouble		1
+assuming	1
+charm		1
+anything	1
+transition	1
+dbi		1
+dbd		1
+already		1
+odbc		1
+works		1
+doing		1
+don		1
+using		1
+think		1
+ll		1

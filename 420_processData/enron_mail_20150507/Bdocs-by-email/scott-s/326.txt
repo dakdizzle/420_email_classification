@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+things		2
+good		2
+fourth		1
+up		1
+days		1
+quite		1
+visited		1
+busy		1
+susan		1
+etc		1
+month		1
+hope		1
+emily		1
+july		1
+ago		1
+work		1
+london		1
+went		1
+pretty		1
+doing		1
+caught		1
+here		1

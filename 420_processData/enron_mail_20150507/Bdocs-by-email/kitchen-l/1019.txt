@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+much		1
+good		1
+job		1
+transport	1
+retrade		1
+thought		1
+never		1
+bet		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+ellen		1
+talk		1
+attached	1

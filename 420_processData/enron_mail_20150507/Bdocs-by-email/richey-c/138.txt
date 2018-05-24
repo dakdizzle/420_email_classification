@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+around		1
+playing		1
+started		1
+member		1
+want		1
+meet		1
+squash		1

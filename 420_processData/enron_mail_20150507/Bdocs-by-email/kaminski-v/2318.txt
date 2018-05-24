@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+m		2
+kaminski	2
+breakfast	1
+crenshaw	1
+comx		1
+tuesday		1
+filename	1
+vkamins		1
+privileged	1
+alexis		1
+tocqueville	1
+vince		1
+pstzulie	1
+non		1
+enron		1
+july		1
+shall		1
+origin		1
+attend		1
+shirley		1
+vx		1
+de		1

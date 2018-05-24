@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+ainsley		1
+kang		1
+sending		1
+ees		1
+thanks		1
+spreadsheets	1
+daniel		1
+remove		1
+gaddis		1
+list		1
+please		1
+bill		1
+add		1

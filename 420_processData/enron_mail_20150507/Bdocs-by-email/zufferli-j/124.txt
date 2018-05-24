@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+sap		2
+dynegy		1
+enron		1
+buying		1
+canadian	1
+cnbc		1
+rumor		1

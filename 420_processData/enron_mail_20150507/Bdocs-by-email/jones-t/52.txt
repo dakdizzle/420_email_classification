@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+provide		2
+agreement	2
+copy		1
+affiliates	1
+merita		1
+copies		1
+contained	1
+provisions	1
+permission	1
+unfortunately	1
+confidentiality	1
+before		1
+need		1
+janet		1
+allow		1

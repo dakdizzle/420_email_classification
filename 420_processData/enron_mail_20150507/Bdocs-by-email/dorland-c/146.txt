@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+remarks		1
+witty		1
+bomard		1
+aren		1
+recipients	1
+na		1
+dan		1
+enron		1
+ddorland	1
+ou		1
+im		1
+dorland		1

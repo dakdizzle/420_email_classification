@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+soon		1
+talk		1
+information	1
+thank		1

@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+okluv		1
+much		1
+live		1
+today		1
+price		1
+grandma		1
+later		1
+longer		1
+youdq		1
+call		1
+remind		1
+soon		1
+possible	1
+talking		1
+mom		1
+michele		1
+change		1
+need		1
+brocures	1

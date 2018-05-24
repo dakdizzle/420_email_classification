@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+building	1
+map		1
+enron		1
+made		1
+directions	1
+pre		1
+dutch		1
+laura		1

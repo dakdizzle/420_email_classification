@@ -1,0 +1,25 @@
+NumWords	34
+NumTerms	22
+
+name		4
+energy		3
+incorporated	3
+one		3
+changed		2
+west		2
+corporation	2
+confusing	1
+know		1
+montana		1
+marie		1
+same		1
+companies	1
+database	1
+entry		1
+states		1
+colorado	1
+two		1
+change		1
+georgi		1
+mercator	1
+hi		1

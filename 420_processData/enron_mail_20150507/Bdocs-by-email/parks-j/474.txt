@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+stay		1
+long		1
+dont		1
+feders		1
+know		1
+attending	1
+baptismal	1
+someting	1

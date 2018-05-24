@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+m		2
+email		1
+send		1
+erms		1
+thank		1
+know		1
+someone		1
+help		1
+suppose		1
+directory	1
+jon		1
+sure		1
+access		1
+obtain		1

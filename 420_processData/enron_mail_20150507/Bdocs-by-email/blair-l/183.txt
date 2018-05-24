@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+card		2
+lynn		1
+carolyn		1
+received	1
+blair		1
+old		1
+destroyed	1
+new		1
+thanks		1

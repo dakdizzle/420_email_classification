@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+those		1
+meeting		1
+list		1
+copy		1
+try		1
+annotate	1
+headway		1
+contact		1
+traded		1
+week		1
+making		1
+next		1

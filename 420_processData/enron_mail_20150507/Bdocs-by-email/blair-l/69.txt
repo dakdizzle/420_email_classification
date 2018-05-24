@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+lynn		1
+talk		1
+looking		1
+know		1
+referrel	1
+anyone		1
+need		1
+mike		1
+help		1
+thanks		1

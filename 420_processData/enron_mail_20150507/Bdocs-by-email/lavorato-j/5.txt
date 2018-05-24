@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+over		2
+taking		1
+m		1
+elp		1
+sell		1
+execution	1
+shares		1
+didn		1

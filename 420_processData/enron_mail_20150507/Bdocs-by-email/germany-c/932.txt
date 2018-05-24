@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+brazoria	1
+suppose		1
+title		1
+right		1
+hero		1
+friday		1
+county		1
+yes		1
+transfer	1

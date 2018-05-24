@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+enmax		2
+amendment	2
+inc		1
+energy		1
+heard		1
+entity		1
+collateral	1
+draft		1
+isda		1
+marketing	1
+zero		1
+anything	1
+mention		1
+sent		1
+threshold	1
+trades		1
+wendy		1
+dec		1
+brought		1
+new		1
+think		1

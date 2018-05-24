@@ -1,0 +1,14 @@
+NumWords	16
+NumTerms	11
+
+enron		3
+aol		2
+ragaz		2
+com		2
+something	1
+put		1
+copperfield	1
+bad		1
+ecom		1
+imceanotes	1
+newsletter	1

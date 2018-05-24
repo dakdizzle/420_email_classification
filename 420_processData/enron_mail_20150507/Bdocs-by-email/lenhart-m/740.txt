@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+snore		1
+tired		1

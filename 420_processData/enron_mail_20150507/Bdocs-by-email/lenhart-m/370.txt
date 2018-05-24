@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+soon		1
+minneapolis	1
+arrive		1
+fargo		1
+see		1
+flight		1

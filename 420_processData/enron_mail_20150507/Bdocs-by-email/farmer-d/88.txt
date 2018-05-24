@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+cn		3
+cb		1
+fc		1
+cotten		1
+recipients	1
+fine		1
+system		1
+na		1
+robert		1
+point		1
+enron		1
+notesaddr	1
+ou		1
+d		1
+deal		1
+don		1

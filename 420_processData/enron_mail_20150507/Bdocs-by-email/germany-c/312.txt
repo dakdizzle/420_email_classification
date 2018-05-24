@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+chris		2
+cn		2
+germany		2
+sit		1
+know		1
+cgerman		1
+now		1
+recipients	1
+filename	1
+na		1
+pstlarry	1
+wires		1
+enron		1
+ou		1
+don		1
+request		1

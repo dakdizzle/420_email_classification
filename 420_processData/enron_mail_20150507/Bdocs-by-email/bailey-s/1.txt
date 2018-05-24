@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+credit		1
+message		1
+folks		1
+beth		1
+regard		1
+loop		1
+bailey		1
+susan		1
+below		1
+thought		1
+see		1
+request		1

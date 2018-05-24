@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+lkitchen	2
+cn		2
+enron		2
+kitchen		1
+worried		1
+sending		1
+louise		1
+recipients	1
+filename	1
+na		1
+negative	1
+number		1
+privileged	1
+out		1
+building	1
+message		1
+non		1
+ou		1
+pstwhat		1
+very		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+little		1
+guy		1
+mc		1
+picures		1
+here		1

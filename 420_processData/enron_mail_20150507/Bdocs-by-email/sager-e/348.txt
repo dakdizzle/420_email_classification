@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+enough		2
+pearl		1
+case		1
+everything	1
+fret		1
+one		1
+already		1
+ammo		1
+don		1
+given		1
+over		1

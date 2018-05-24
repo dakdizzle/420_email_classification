@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+discuss		1
+exactly		1
+mhc		1
+confidentiality	1
+etc		1
+involved	1
+thanks		1
+here		1

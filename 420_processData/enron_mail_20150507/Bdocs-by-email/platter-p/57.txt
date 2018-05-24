@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kids		1
+talking		1
+adults		1
+clue		1
+ll		1

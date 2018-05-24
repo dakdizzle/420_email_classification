@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+know		1
+working		1
+marie		1
+found		1
+markets		1
+database	1
+carol		1
+anything	1
+smbc		1
+enron		1
+back		1
+sara		1
+one		1
+need		1
+corp		1
+capital		1

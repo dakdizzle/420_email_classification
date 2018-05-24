@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+kitchen		2
+breilly		1
+lx		1
+comx		1
+louise		1
+origin		1
+filename	1
+see		1
+pstno		1
+ubspw		1
+reason		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+dont		1
+around		1
+day		1
+look		1
+anymore		1
+looking		1
+paint		1
+houses		1
+fumes		1
+judgement	1
+think		1

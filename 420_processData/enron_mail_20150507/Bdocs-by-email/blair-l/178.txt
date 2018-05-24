@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lynn		1
+looking		1
+winston		1
+letter		1
+shelley		1
+thanks		1

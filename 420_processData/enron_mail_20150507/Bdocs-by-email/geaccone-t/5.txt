@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+much		2
+know		2
+love		2
+day		1
+time		1
+try		1
+spend		1
+meet		1
+see		1
+wish		1
+downstairs	1
+tracy		1
+night		1
+wait		1
+very		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+happened	1
+twice		1

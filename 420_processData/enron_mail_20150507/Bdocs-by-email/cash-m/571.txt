@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+make		1
+decisions	1
+reviewed	1
+month		1
+planning	1
+court		1
+non		1
+employment	1
+honor		1
+contract	1
+michelle	1
+pursuing	1
+brent		1
+termination	1
+compete		1

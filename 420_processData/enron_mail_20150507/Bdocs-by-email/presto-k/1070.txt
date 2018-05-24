@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+apologize	2
+coming		1
+everything	1
+time		1
+end		1
+company		1
+earlier		1
+seeing		1
+worked		1
+current		1
+meltdown	1
+years		1
+fault		1
+everyone	1
+rough		1
+having		1
+comments	1
+here		1

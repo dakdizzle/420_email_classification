@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+first		1
+europe		1
+credit		1
+worksheet	1
+tanya		1
+marie		1
+draft		1
+schedule	1
+thanks		1
+comparison	1
+csfb		1
+suisse		1
+paragraph	1
+hi		1
+boston		1
+here		1

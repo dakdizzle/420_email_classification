@@ -1,0 +1,24 @@
+NumWords	46
+NumTerms	21
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+fyi		1
+tribolet	1
+mtribole	1
+alan		1
+susan		1
+smara		1
+michael		1
+mara		1
+steffes		1
+jsteffe		1
+acomnes		1
+james		1
+hkingers	1
+harry		1
+kingerski	1
+comnes		1

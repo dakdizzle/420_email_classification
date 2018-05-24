@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+resolved	1
+until		1
+paso		1
+adding		1
+deals		1
+bt		1
+existing	1
+yesterday	1
+talked		1
+capacity	1
+issues		1
+comes		1
+shippers	1
+el		1
+going		1
+cut		1
+opposed		1
+expanding	1
+new		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+morning		1
+monday		1
+discuss		1
+mike		1
+sure		1
+thanks		1

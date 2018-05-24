@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+option		2
+money		2
+out		2
+physical	1
+indication	1
+know		1
+monthly		1
+gas		1
+guys		1
+price		1
+provide		1
+thanks		1
+offer		1
+call		1
+cal		1
+kim		1
+pnm		1
+please		1
+juan		1
+questions	1
+start		1
+san		1
+hi		1

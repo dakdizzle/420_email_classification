@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+pretty		3
+much		1
+close		1
+bunch		1
+maria		1
+well		1
+things		1
+now		1
+furniture	1
+even		1
+chris		1
+empty		1
+house		1
+down		1
+hope		1
+real		1
+snowballs	1
+settled		1
+going		1
+waiting		1
+guns		1
+still		1
+don		1

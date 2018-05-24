@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+hope		1
+office		1
+copy		1
+changes		1
+document	1
+made		1
+saved		1
+putting		1
+kevin		1
+teb		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+return		1
+years		1
+check		1
+tax		1
+limit		1
+rrsp		1
+last		1
+contribution	1

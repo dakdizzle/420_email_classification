@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+married		2
+saturday	2
+early		1
+wow		1
+champ		1
+drunk		1
+wasn		1
+hell		1
+people		1
+great		1
+joking		1
+felt		1
+younger		1

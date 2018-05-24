@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+access		2
+others		1
+supervisor	1
+account		1
+accounts	1
+please		1
+approve		1
+help		1

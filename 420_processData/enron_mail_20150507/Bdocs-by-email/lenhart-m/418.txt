@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+free		1
+now		1
+going		1
+passes		1
+r		1
+think		1
+boone		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+handle		1
+derrick		1
+don		1

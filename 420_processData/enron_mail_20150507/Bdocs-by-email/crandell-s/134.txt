@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+fruity		1
+pants		1
+thanks		1

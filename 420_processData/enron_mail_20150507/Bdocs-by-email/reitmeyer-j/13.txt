@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+around		1
+sure		1
+think		1

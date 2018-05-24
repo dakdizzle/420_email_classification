@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+cn		2
+enron		2
+aol		1
+crenshaw	1
+pamela		1
+recipients	1
+na		1
+scrensh		1
+thanks		1
+vince		1
+uncertainty	1
+vkaminski	1
+invitation	1
+ou		1
+regret		1
+declinegiven	1
+inform		1
+shirley		1
+kaminski	1
+here		1
+com		1

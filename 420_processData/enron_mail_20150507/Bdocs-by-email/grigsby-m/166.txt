@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+email		1
+few		1
+cancelled	1
+know		1
+thanks		1
+confirm		1
+call		1
+via		1
+please		1
+ago		1
+bloomberg	1
+mike		1
+weeks		1

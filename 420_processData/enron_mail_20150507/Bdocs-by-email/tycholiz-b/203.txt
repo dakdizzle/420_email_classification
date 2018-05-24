@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+m		1
+presume		1
+louise		1
+scheduled	1
+bt		1
+still		1
+thurs		1
+note		1

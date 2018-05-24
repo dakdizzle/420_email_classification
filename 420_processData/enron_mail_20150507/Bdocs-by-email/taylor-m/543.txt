@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lisa		1
+go		1
+today		1
+want		1
+going		1
+called		1
+planning	1

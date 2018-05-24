@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+debra		2
+eb		1
+fax		1
+returns		1
+vp		1
+legal		1
+desk		1
+houston		1
+street		1
+america		1
+enron		1
+texas		1
+jeff		1
+bring		1
+north		1
+contract	1
+initials	1
+signature	1
+smith		1
+perlingiereenron	1
+perlingiere	1
+com		1

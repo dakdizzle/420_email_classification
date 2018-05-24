@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+sep		1
+info		1
+middlemarket	1
+fixed		1
+portland	1
+westdesk	1
+foster		1
+price		1
+administrative	1
+business	1
+chris		1
+coverage	1

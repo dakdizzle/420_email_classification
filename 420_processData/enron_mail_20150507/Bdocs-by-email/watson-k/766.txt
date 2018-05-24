@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+meeting		1
+vacation	1
+jennifer	1
+thanks		1

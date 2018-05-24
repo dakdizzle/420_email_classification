@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+swaps		1
+agreedthese	1
+daydutch	1
+settle		1
+last		1

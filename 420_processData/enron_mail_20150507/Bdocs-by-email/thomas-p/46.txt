@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+morning		1
+out		1
+up		1
+waking		1
+going		1
+town		1

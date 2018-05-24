@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+tm		2
+cips		2
+ferc		1
+order		1
+refussal	1
+correction	1
+http		1
+gas		1
+even		1
+txt		1
+founds		1
+better		1
+courts		1
+fed		1
+proportionate	1
+mistake		1
+allow		1

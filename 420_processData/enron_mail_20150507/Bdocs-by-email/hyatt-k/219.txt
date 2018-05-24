@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+kh		1
+meeting		1
+time		1
+tues		1
+now		1
+workable	1
+looks		1
+phil		1
+regards		1
+right		1
+start		1
+want		1
+gomez		1

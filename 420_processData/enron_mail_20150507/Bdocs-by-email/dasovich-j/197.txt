@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+winner		2
+minute		1
+jeffps		1
+brown		1
+exactly		1
+right		1
+best		1
+loretta		1
+continue	1
+give		1
+thanks		1
+call		1

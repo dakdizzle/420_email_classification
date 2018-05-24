@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+two		1
+travel		1
+used		1
+one		1
+future		1
+steph		1
+tickets		1
+bt		1

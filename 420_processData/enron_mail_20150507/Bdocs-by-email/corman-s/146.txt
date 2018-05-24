@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+services	1
+logistics	1
+gas		1
+filed		1
+haven		1
+thanks		1
+market		1
+reference	1

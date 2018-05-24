@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+lynn		1
+meeting		1
+moving		1
+possibility	1
+ricki		1
+see		1
+afternoon	1
+out		1
+many		1
+staff		1
+hr		1
+back		1
+tomorrow	1
+pitched		1
+questions	1
+answers		1
+donna		1
+don		1

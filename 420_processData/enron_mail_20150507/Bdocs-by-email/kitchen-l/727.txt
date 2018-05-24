@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+great		1
+progress	1
+outstanding	1
+making		1
+looks		1
+news		1

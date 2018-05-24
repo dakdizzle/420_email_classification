@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+passed		1
+service		1
+background	1
+call		1
+morning		1
+drug		1
+home		1
+way		1
+check		1
+hr		1
+back		1
+excellent	1
+test		1
+half		1
+still		1
+news		1

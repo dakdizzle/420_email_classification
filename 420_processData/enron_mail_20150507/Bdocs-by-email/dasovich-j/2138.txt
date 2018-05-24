@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+fun		1
+eldon		1
+hey		1
+guys		1
+yankees		1
+watch		1
+submitted	1
+loony		1
+awesome		1
+jeff		1
+best		1
+night		1
+bin		1
+last		1
+having		1
+game		1

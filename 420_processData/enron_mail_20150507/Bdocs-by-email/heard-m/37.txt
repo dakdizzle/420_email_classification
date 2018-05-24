@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+account		2
+vacation	1
+glad		1
+marie		1
+fabric		1
+piece		1
+found		1
+liked		1
+really		1
+m		1
+back		1
+already		1
+thought		1
+sure		1
+kravet		1
+mistake		1
+okay		1

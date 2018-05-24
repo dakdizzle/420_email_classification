@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+email		1
+hear		1
+ok		1
+days		1
+milnthorp	1
+closing		1
+carol		1
+long		1
+believe		1
+enough		1
+need		1
+rob		1
+sure		1
+wait		1
+sold		1
+ll		1

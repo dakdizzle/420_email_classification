@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+entity		1
+board		1
+assist		1
+member		1
+writing		1
+alan		1
+longer		1
+thanks		1
+confirm		1
+employment	1
+enron		1
+carey		1
+michelle	1
+officer		1
+last		1
+sloan		1
+request		1
+date		1

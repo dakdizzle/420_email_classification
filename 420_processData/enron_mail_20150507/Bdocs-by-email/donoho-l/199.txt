@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+down		1
+send		1
+check		1
+areas		1
+thank		1
+scroll		1
+highlighted	1
+work		1
+everyone	1
+before		1

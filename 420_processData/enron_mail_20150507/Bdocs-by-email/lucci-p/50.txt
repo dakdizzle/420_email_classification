@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+saturday	2
+those		1
+fun		1
+party		1
+married		1
+dating		1
+friday		1
+guys		1
+friend		1
+plans		1
+sounds		1
+ve		1
+nothing		1
+night		1

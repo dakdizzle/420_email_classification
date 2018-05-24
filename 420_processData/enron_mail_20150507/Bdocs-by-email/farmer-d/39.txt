@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+now		1
+d		1
+system		1
+brandee		1
+thanks		1

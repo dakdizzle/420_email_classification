@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+diana		1
+alonsomark	1
+beldenjeff	1
+scholtessean	1
+richtermike	1
+williamsbob	1
+malloreytom	1
+fischerbill	1
+driscolltim	1
+swerzbinthanks	1
+badeermatt	1
+crandallchris	1
+motelymike	1

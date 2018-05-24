@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+discuss		1
+asap		1
+event		1
+invite		1
+customers	1
+few		1
+invited		1
+advise		1
+pls		1
+bt		1

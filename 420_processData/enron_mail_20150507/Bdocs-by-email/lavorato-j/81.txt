@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+coming		1
+down		1
+m		1
+john		1
+talk		1
+mike		1
+week		1
+ll		1

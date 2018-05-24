@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+key		1
+intersting	1
+mi		1
+jim		1
+anything	1
+good		1
+bryan		1
+va		1
+discussions	1
+nv		1
+want		1
+resource	1
+add		1

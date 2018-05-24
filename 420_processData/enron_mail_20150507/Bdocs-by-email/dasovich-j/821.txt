@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+appeal		3
+commission	2
+taking		1
+support		1
+denied		1
+underway	1
+stands		1
+mara		1
+lead		1
+great		1
+greetings	1
+jeff		1
+best		1
+courts		1
+update		1
+work		1
+decision	1
+sue		1
+participation	1

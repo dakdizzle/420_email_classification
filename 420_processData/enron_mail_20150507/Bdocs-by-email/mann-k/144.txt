@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+email		1
+under		1
+up		1
+until		1
+topic		1
+kc		1
+today		1
+late		1
+thanks		1
+sent		1
+another		1
+suggestion	1
+kay		1
+tied		1

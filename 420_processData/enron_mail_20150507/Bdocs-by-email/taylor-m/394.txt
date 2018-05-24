@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+president	1
+mark		1
+defined		1
+counselenron	1
+services	1
+term		1
+counterparty	1
+checked		1
+taylorvice	1
+wholesale	1
+general		1
+pa		1

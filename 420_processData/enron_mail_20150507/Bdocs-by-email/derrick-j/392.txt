@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+jim		2
+communicating	1
+blackberry	1
+road		1
+derrick		1
+call		1
+heath		1
+via		1
+m		1
+office		1
+best		1
+tomorrow	1
+give		1

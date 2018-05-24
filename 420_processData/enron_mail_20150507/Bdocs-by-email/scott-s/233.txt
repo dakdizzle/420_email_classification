@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+food		1
+crowded		1
+thursdays	1
+work		1
+horribly	1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+sight		1
+turnaround	1
+em		1
+kr		1
+sell		1
+going		1

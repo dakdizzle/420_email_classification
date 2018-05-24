@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+growth		2
+businesses	1
+stock		1
+well		1
+positioned	1
+prediction	1
+now		1
+managed		1
+price		1
+ken		1
+face		1
+core		1
+better		1
+out		1
+great		1
+issues		1
+clear		1
+performing	1
+prospects	1
+made		1
+superb		1
+business	1
+period		1
+think		1

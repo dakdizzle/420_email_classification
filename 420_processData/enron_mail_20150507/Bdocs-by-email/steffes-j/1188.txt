@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+fyi		1
+lobbyists	1
+hiring		1

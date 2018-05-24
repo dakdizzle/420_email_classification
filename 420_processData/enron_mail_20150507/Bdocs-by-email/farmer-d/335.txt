@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+cell		2
+out		1
+home		1
+way		1
+fri		1
+best		1
+contact		1
+week		1
+thurs		1

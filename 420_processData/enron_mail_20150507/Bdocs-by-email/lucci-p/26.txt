@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+asap		1
+up		1
+office		1
+vacation	1
+sorry		1
+business	1
+basler		1
+call		1
+ll		1

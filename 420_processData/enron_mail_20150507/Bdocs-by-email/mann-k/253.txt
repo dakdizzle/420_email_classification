@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+cn		2
+kmann		2
+kay		2
+swift		1
+letter		1
+draft		1
+review		1
+recipients	1
+pstgentlemen	1
+filename	1
+na		1
+privileged	1
+non		1
+enclosing	1
+discussion	1
+enron		1
+pursuant	1
+mann		1
+ou		1
+mr		1

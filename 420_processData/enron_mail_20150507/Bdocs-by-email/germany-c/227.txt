@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+chris		2
+cn		2
+germany		2
+send		1
+cgerman		1
+today		1
+recipients	1
+money		1
+filename	1
+na		1
+pst		1
+janelle		1
+enron		1
+ou		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+time		1
+available	1
+pls		1
+yes		1
+once		1
+booked		1
+bt		1
+include		1

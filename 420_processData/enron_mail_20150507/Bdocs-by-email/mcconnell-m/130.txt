@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+mcconnelltranswestern	1
+usually		1
+company		1
+stadium		1
+things		1
+keep		1
+pipeline	1
+mcconnell	1
+out		1
+good		1
+cell		1
+enron		1
+office		1
+texas		1
+show		1
+work		1
+goes		1
+faxmark		1
+winning		1
+luck		1
+markmark	1
+com		1

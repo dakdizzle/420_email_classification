@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+adkins		1
+eugene		1
+cell		1
+larry		1
+sanford		1
+lewis		1
+dl		1
+houston		1
+tx		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+monday		1
+commission	1
+again		1
+kidding		1
+call		1

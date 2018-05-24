@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+arana		1
+interview	1
+message		1
+talk		1
+forward		1
+left		1
+gary		1
+think		1
+feedback	1
+linhart		1
+guilermo	1
+talked		1

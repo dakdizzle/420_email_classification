@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+discount	2
+back		2
+under		1
+funds		1
+until		1
+meetings	1
+cancelled	1
+rate		1
+noon		1
+counteparties	1
+call		1
+generally	1
+moment		1
+column		1
+ill		1
+need		1
+meanwhile	1
+sager		1
+cost		1
+elizabeth	1
+think		1
+add		1

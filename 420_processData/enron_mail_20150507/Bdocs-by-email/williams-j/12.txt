@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+many		1
+choose		1
+pulte		1
+built		1
+ours		1

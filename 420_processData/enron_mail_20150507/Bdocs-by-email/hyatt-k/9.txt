@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+fan		2
+first		1
+god		1
+husker		1
+dame		1
+show		1
+goes		1
+notre		1

@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+blackberry	2
+account		1
+coming		1
+forecasted	1
+net		1
+wireless	1
+handheld	1
+lokey		1
+today		1
+www		1
+dan		1
+call		1
+settlement	1
+oba		1
+tracy		1
+sent		1
+wmb		1
+doubt		1
+tomorrow	1
+michelle	1
+rod		1
+new		1
+ll		1

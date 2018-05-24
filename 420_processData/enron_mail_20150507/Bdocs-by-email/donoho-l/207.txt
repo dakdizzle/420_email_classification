@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+issued		2
+name		2
+lindy		2
+married		1
+under		1
+know		1
+call		1
+currier		1
+please		1
+donoho		1
+yes		1
+going		1
+correct		1
+previous	1
+receive		1

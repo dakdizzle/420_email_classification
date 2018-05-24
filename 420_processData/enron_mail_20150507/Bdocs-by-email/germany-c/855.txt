@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+traffic		1
+hear		1
+try		1
+jared		1
+glad		1
+now		1
+meet		1
+anyway		1
+morning		1
+good		1
+right		1
+going		1
+still		1

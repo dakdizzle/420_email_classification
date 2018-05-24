@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+group		1
+jerry		1
+know		1
+steve		1
+asked		1
+input		1
+planning	1
+thanks		1
+kim		1
+assistance	1
+please		1
+harris		1
+need		1
+coordinate	1
+outage		1

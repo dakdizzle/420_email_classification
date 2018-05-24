@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+office		1
+specifically	1
+dates		1
+days		1
+few		1
+scheduled	1
+th		1
+august		1
+late		1
+jmf		1
+thanks		1

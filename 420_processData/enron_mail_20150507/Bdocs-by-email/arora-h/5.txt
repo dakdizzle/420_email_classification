@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+email		1
+great		1
+evening		1
+time		1
+personal	1
+harry		1
+last		1
+address		1
+dave		1

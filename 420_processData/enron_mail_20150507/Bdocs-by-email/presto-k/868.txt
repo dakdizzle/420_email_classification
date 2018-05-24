@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+pm		1
+heads		1
+wednesday	1
+desk		1
+myself		1
+candidates	1
+interviewing	1

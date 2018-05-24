@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+risk		1
+run		1
+desk		1
+financial	1
+continue	1

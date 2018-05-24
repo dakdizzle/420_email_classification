@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+card		1
+jessi		1
+pcmcia		1
+password	1

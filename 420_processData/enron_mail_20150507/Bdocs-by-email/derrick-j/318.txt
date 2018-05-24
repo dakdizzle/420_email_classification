@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+jderric		2
+derrick		2
+privileged	2
+non		2
+attorneys	1
+filename	1
+folder		1
+transfer	1
+approved	1
+jim		1
+pstif		1
+jx		1
+content		1
+sent		1
+consent		1
+encoding	1
+origin		1
+itemsx		1
+bitx		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+seems		1
+respond		1
+please		1
+purchase	1
+awfully		1
+shipping	1
+high		1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+ca		2
+energy		1
+email		1
+per		1
+ormat		1
+revised		1
+attached	1
+sorry		1
+transfer	1
+notes		1
+don		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+stone		1
+stuff		1
+around		1
+th		1
+set		1
+move		1

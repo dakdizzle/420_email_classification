@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+much		1
+physical	1
+thank		1
+desk		1
+once		1
+th		1
+efforts		1
+sucessful	1
+enron		1
+again		1
+renegotiate	1
+deal		1
+means		1
+hi		1

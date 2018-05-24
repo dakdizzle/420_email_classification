@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+those		1
+hear		1
+regardless	1
+time		1
+comment		1
+now		1
+whether		1
+even		1
+abandon		1
+careless	1
+everyday	1
+good		1
+m		1
+made		1
+breathing	1
+bad		1
+doing		1
+st		1
+think		1

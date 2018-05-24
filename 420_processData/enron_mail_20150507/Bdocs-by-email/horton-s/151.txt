@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+opportunities	1
+right		1
+know		1
+available	1
+keep		1
+now		1
+mind		1
+thanks		1

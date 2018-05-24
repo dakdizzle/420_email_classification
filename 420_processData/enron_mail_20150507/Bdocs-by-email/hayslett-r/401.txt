@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+blackberry	2
+need		2
+player		1
+net		1
+ok		1
+wireless	1
+handheld	1
+won		1
+www		1
+asked		1
+help		1
+gary		1
+michael		1
+sent		1
+m		1
+team		1
+decide		1
+utility		1
+several		1
+fil		1
+roles		1
+sure		1
+think		1

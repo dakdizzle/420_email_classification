@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+know		1
+anne		1
+marie		1
+forward		1
+help		1
+elizabeth	1

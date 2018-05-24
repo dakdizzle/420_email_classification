@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+win		1
+m		1
+banned		1
+pools		1
+still		1
+hockey		1
+always		1

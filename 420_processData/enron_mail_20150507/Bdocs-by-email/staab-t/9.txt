@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+fax		2
+need		2
+ll		2
+different	1
+trouble		1
+see		1
+number		1
+call		1
+valerie		1
+use		1
+having		1
+still		1
+think		1

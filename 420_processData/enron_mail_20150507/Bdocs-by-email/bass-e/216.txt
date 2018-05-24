@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+grill		1
+redwood		1

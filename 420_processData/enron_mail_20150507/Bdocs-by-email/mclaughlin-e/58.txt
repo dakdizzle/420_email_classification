@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+out		1
+kori		1
+em		1
+stephen		1
+find		1
+going		1

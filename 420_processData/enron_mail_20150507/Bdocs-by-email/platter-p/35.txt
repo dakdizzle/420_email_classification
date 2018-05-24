@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+ll		2
+monday		1
+together	1
+alot		1
+time		1
+folks		1
+later		1
+spending	1
+omaha		1
+afternoon	1
+back		1
+thursday	1
+go		1
+night		1
+weekend		1
+orhan		1

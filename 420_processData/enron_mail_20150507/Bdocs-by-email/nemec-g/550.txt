@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+entity		2
+out		1
+inc		1
+lrci		1
+send		1
+know		1
+questions	1
+letter		1
+change		1

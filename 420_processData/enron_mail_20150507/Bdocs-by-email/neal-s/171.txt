@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+scott		1
+know		1
+carin		1
+suggested	1
+red		1
+obligated	1
+please		1
+feel		1
+changes		1
+additional	1
+use		1
+need		1
+don		1
+infromation	1
+note		1

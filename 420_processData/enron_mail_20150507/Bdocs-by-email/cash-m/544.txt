@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+plan		2
+thing		1
+communication	1
+vacation	1
+nepco		1
+entities	1
+same		1
+kriste		1
+enron		1
+g		1
+michelle	1
+determine	1
+audience	1
+severance	1

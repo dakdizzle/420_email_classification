@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+sara		1
+attached	1
+marie		1
+confidentiality	1
+made		1
+mail		1
+form		1
+agreement	1
+thanks		1
+voice		1
+reference	1

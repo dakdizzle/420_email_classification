@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+two		1
+different	1
+talking		1
+things		1
+maybe		1
+left		1
+mail		1
+voice		1
+actually	1

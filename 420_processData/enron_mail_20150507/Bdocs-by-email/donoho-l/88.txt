@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+march		1
+good		1
+lindy		1
+th		1
+thanks		1

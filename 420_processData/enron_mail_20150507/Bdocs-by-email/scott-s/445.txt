@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+look		2
+overweight	1
+man		1
+giant		1
+one		1
+forward		1
+lost		1
+hair		1
+ball		1
+stress		1

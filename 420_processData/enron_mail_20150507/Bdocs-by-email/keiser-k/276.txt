@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+value		1
+id		1
+thankskam	1
+ignore		1
+post		1
+correctionplease	1

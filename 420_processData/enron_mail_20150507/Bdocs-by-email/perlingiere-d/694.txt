@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+discuss		1
+regards		1
+please		1
+contract	1
+receive		1
+give		1
+debra		1
+call		1

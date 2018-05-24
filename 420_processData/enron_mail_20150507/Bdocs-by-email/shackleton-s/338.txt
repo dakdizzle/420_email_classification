@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+morning		1
+good		1
+please		1
+print		1
+thanks		1

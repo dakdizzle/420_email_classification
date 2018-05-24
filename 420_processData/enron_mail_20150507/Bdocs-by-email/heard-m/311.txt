@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+nothing		2
+send		1
+revised		1
+up		1
+know		1
+few		1
+checked		1
+marie		1
+draft		1
+found		1
+database	1
+happened	1
+sent		1
+follow		1
+nestle		1
+july		1
+want		1
+weeks		1
+jarrod		1
+contacted	1
+clorox		1
+here		1

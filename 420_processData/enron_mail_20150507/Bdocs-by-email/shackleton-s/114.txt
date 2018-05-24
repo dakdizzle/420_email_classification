@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+sshackl		2
+cn		2
+sara		2
+inc		1
+send		1
+assume		1
+shackleton	1
+ect		1
+recipients	1
+filename	1
+na		1
+thanks		1
+privileged	1
+pstsheila	1
+investments	1
+message		1
+non		1
+enron		1
+please		1
+one		1
+ou		1
+usual		1

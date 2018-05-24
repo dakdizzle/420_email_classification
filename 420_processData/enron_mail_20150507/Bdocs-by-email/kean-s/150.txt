@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+duchesne	2
+org		2
+story		1
+daphne		1
+connie		1
+patient		1
+vballgurl	1
+salvo		1
+shook		1
+being		1
+bragg		1
+thanx		1
+nora		1
+hotmail		1
+here		1
+com		1

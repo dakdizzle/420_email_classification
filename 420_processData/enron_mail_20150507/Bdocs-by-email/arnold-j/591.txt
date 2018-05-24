@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+know		1
+name		1
+hilarious	1
+kid		1
+last		1

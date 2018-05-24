@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+slowly		1
+up		1
+back		1
+well		1
+things		1
+gegtting	1
+ramping		1

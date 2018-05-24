@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+house		1
+name		1
+taken		1
+refinances	1
+loan		1

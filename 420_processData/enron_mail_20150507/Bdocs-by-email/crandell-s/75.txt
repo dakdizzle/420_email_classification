@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+copy		1
+saying		1
+instructional	1
+alan		1
+provide		1
+material	1
+pjm		1
+concerning	1
+thanks		1

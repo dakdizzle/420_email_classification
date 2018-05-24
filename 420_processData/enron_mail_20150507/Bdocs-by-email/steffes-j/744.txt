@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+retail		1
+alot		1
+nj		1
+sense		1
+makes		1
+pa		1
+think		1
+cover		1

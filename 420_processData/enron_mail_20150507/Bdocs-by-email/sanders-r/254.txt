@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+manage		1
+litigation	1
+ews		1

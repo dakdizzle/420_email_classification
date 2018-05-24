@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+down		2
+butt		1
+m		1
+come		1
+show		1
+ask		1
+tell		1
+whenever	1
+sure		1
+love		1
+here		1
+ll		1

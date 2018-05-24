@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+andy		1
+good		1
+job		1
+congratulations	1
+luck		1
+new		1

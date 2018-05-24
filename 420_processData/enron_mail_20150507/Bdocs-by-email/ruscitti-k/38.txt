@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+make		2
+m		2
+nj		1
+time		1
+wedding		1
+lisa		1
+trip		1
+kevin		1
+hoping		1
+talked		1
+isaid		1
+friends		1
+great		1
+hope		1
+headingback	1
+casometime	1
+tell		1
+year		1
+going		1
+lulenski	1
+hi		1
+next		1

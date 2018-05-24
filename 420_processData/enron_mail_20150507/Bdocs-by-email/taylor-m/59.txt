@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+mtaylo		2
+cn		2
+enron		2
+lawyer		1
+mark		1
+shackleton	1
+legal		1
+recipients	1
+filename	1
+na		1
+worked		1
+privileged	1
+psti		1
+non		1
+sara		1
+ou		1
+last		1
+taylor		1
+think		1

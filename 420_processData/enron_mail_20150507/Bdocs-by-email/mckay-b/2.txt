@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+hand		1
+wads		1
+those		1
+regardless	1
+cash		1
+pay		1
+boys		1
+decision	1
+sure		1
+handsomely	1

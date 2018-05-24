@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+know		2
+happens		1
+paul		1
+up		1
+fucked		1
+even		1
+closing		1
+something	1
+boy		1
+start		1
+sound		1
+toronto		1
+devries		1
+didn		1

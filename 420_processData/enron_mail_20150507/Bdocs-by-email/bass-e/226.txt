@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+occassion	1
+really		1
+days		1
+vacation	1
+going		1
+left		1
+world		1
+whats		1
+burning		1
+special		1

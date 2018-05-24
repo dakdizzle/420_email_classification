@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+monte		1
+already		1
+don		1
+help		1
+kk		1

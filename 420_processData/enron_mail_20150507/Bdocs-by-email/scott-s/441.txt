@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+likes		1
+fun		1
+bunny		1
+make		1
+department	1
+fire		1
+anyone		1
+top		1
+outdoors	1
+merlot		1
+ski		1
+water		1
+hot		1
+being		1
+active		1
+roaring		1
+loves		1
+e		1
+excellent	1
+tubs		1
+d		1
+glass		1
+think		1

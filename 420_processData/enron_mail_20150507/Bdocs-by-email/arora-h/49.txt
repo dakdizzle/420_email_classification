@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+work		2
+interview	1
+analyst		1
+name		1
+desk		1
+chat		1
+nov		1
+rd		1
+schedule	1
+super		1
+associate	1
+hope		1
+suggest		1
+program		1
+lets		1
+robwe		1
+tomorrow	1
+harry		1
+one		1
+excited		1
+need		1
+particularly	1
+saturday	1
+trading		1

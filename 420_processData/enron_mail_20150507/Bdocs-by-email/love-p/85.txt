@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+paypal		1
+send		1
+pl		1
+mailing		1
+payment		1
+received	1
+balls		1
+need		1
+address		1
+golf		1

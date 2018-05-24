@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+called		2
+case		1
+know		1
+gave		1
+calling		1
+leave		1
+immediate	1
+stewart		1
+wanted		1
+names		1
+assistance	1
+message		1
+back		1
+one		1
+michelle	1
+advice		1
+last		1
+week		1
+backup		1
+needs		1

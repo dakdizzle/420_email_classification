@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+pk		1
+oak		1
+pin		1
+address		1

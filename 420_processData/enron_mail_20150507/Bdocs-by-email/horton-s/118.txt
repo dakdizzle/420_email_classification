@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+mention		1
+surprised	1
+great		1
+communication	1
+jeff		1
+stan		1
+meet		1
+asked		1
+surpeised	1
+here		1
+thanks		1

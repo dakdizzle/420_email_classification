@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+morning		1
+kim		1
+flood		1
+email		1
+message		1
+looking		1
+wednesday	1
+phones		1
+blame		1
+forward		1
+sorry		1
+thanks		1

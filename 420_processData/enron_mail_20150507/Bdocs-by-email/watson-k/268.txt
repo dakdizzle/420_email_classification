@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+meeting		2
+questar		1
+plan		1
+place		1
+steve		1
+asked		1
+take		1
+kim		1
+immediately	1
+tomorrow	1
+james		1
+attend		1
+ce		1

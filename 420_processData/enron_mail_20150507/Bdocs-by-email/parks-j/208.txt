@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+pricing		1
+ticket		1
+removed		1

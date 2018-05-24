@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+vince		1
+enron		1
+received	1
+beterdad	1
+works		1
+com		1
+kaminski	1

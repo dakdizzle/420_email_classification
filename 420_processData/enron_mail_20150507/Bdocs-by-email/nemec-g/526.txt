@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+review		2
+version		1
+greeley		1
+redlined	1
+paul		1
+please		1
+changes		1
+attached	1
+forward		1
+discussed	1
+agreement	1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+cal		1
+aes		1
+tradition	1
+hcs		1
+flat		1
+bought		1
+new		1
+through		1
+market		1

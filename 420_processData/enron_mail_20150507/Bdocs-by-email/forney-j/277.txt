@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+much		1
+lloyd		1
+bryan		1
+guy		1
+length		1
+another		1
+service		1
+same		1
+jmf		1
+kevin		1
+pretty		1
+here		1

@@ -1,0 +1,21 @@
+NumWords	22
+NumTerms	18
+
+per		2
+trade		2
+one		2
+think		2
+info		1
+up		1
+sheet		1
+imaginable	1
+excel		1
+good		1
+line		1
+use		1
+traders		1
+necessary	1
+question	1
+set		1
+kk		1
+template	1

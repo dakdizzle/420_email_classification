@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+model		2
+please		2
+questions	2
+steve		1
+paso		1
+contact		1
+find		1
+answer		1
+call		1
+enclosed	1
+regarding	1
+meyers		1
+regards		1
+bert		1
+eric		1
+el		1

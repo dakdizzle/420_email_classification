@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+group		1
+working		1
+guys		1
+part		1
+now		1
+lay		1
+ken		1
+route		1
+tried		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+desk		1
+now		1
+found		1
+stay		1
+ve		1
+tool		1
+m		1
+constantly	1
+right		1
+touch		1
+back		1
+finally		1
+think		1

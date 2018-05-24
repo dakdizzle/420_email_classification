@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jill		1
+great		1
+bill		1
+looks		1
+thanks		1

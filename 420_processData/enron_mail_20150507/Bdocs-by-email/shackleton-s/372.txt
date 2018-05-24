@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+discuss		1
+monday		1
+eb		1
+fax		1
+time		1
+ph		1
+street		1
+wholesale	1
+thanks		1
+services	1
+shackletonenron	1
+project		1
+ahouston	1
+tx		1
+smith		1
+sarasara	1

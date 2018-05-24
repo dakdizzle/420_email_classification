@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+realize		1
+jim		1
+really		1
+numbers		1
+offices		1
+need		1
+excited		1
+phillip		1
+post		1
+help		1
+analyzing	1

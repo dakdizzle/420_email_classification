@@ -1,0 +1,26 @@
+NumWords	35
+NumTerms	23
+
+weldon		3
+eberle		3
+jsc		2
+doc		2
+aquarius	2
+bobby		2
+nasa		2
+memo		2
+charles		2
+com		2
+charlie		1
+pm		1
+attached	1
+ect		1
+govto		1
+gov		1
+gopusa		1
+hou		1
+forwarded	1
+enron		1
+subject		1
+memosmemos	1
+pmsent		1

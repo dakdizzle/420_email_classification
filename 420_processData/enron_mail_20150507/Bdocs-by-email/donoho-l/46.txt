@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+anything	1
+much		1
+good		1
+loods		1
+steve		1
+know		1
+thank		1
+need		1
+charts		1
+graphs		1
+looks		1
+ll		1

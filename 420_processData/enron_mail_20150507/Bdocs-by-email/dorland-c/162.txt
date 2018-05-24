@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+calgary		1
+thanx		1
+think		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+forms		1
+kim		1
+mentioned	1
+know		1
+questions	1
+attached	1
+marie		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+plan		1
+yes		1
+attend		1
+thanks		1

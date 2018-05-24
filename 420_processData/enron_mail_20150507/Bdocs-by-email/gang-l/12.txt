@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+lisa		3
+m		2
+cn		2
+gang		2
+lgang		1
+counterparty	1
+working		1
+recipients	1
+detailed	1
+sabrina		1
+filename	1
+na		1
+psthi		1
+suject		1
+thanks		1
+settlement	1
+dms		1
+enron		1
+ou		1
+need		1
+going		1
+data		1

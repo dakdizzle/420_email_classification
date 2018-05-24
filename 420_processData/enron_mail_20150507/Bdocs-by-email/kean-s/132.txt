@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+mon		1
+talk		1
+saw		1
+today		1
+absolutely	1
+sorry		1
+late		1
+im		1
+talked		1

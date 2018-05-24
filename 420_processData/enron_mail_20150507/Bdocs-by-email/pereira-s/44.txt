@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+carolyn		1
+card		1
+pereirax	1
+received	1
+calling		1
+susan		1
+pin		1
+number		1
+receive		1
+new		1

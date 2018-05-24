@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+smart		1
+wish		1

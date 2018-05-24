@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+pls		2
+jim		1
+send		1
+support		1
+family		1
+best		1
+know		1
+thane		1
+additional	1
+need		1
+thanks		1

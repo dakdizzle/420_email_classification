@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+working		2
+real		1
+well		1
+now		1
+phone		1
+computer	1
+looks		1

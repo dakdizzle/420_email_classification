@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+events		1
+meeting		1
+leaving		1
+floor		1
+yevgeny		1
+tomorrow	1
+light		1
+phillip		1
+mornings	1
+trading		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+table		1
+fri		1
+floor		1
+tues		1
+available	1
+go		1
+nd		1
+plans		1
+ahead		1
+week		1
+adoption	1
+ecn		1

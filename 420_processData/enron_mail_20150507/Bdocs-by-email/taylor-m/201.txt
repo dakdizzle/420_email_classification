@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+home		1
+article		1
+enron		1
+html		1
+http		1
+enronbiz	1
+broadband	1
+access		1
+vol		1
+pubs		1
+website		1
+com		1

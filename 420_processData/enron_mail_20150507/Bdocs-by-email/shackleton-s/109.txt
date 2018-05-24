@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+issues		1
+impacts		1
+know		1
+trades		1
+fyi		1
+eol		1
+aware		1
+didn		1

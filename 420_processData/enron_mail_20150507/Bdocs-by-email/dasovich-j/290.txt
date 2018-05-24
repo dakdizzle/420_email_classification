@@ -1,0 +1,8 @@
+NumWords	7
+NumTerms	5
+
+dominic		2
+dimare		2
+calchamber	1
+thanks		1
+com		1

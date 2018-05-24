@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+jim		2
+wood		1
+recommendation	1
+understanding	1
+correct		1
+etown		1
+making		1

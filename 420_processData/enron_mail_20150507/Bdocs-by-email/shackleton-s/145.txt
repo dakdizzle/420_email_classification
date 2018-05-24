@@ -1,0 +1,13 @@
+NumWords	13
+NumTerms	10
+
+bond		2
+glendale	2
+counsel		2
+expense		1
+touch		1
+know		1
+name		1
+going		1
+hire		1
+don		1

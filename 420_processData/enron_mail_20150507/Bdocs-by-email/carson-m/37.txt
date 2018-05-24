@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+taking		1
+those		1
+basins		1
+hopefully	1
+shit		1
+toilets		1
+messy		1
+water		1
+handle		1
+back		1
+kid		1
+kind		1
+work		1
+don		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+whitney		1
+believe		1
+yolanda		1
+faith		1
+gave		1
+name		1
+kissing		1
+songs		1
+evans		1
+houstonand	1

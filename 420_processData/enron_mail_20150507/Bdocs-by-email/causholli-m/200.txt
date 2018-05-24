@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+wrap		1
+hello		1
+please		1
+attached	1
+find		1
+karen		1
+monika		1
+week		1
+thanks		1
+market		1

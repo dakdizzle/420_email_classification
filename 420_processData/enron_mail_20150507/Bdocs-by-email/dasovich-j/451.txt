@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sue		1
+mara		1
+call		1

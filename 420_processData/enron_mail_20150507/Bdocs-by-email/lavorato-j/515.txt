@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+divided		2
+lot		2
+three		1
+lavo		1
+math		1
+tip		1
+another		1
+solve		1
+four		1
+more		1
+need		1
+quick		1

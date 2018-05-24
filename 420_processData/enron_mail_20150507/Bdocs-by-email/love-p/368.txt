@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+sply		1
+aruba		1
+two		1
+pl		1
+counterparties	1
+few		1
+active		1
+deals		1
+book		1
+external	1

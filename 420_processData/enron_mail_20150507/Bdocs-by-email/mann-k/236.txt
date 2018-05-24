@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+counterparty	2
+cogentrix	2
+changed		1
+forms		1
+send		1
+different	1
+power		1
+name		1
+gtc		1
+find		1
+guess		1
+even		1
+form		1
+help		1
+thanks		1
+couldn		1
+ve		1
+long		1
+fact		1
+kay		1
+deal		1
+always		1
+ll		1

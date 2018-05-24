@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+go		1
+tom		1
+don		1
+help		1
+over		1

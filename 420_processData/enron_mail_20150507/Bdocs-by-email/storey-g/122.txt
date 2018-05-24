@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+exhibit		2
+return		1
+send		1
+copy		1
+confirms	1
+w		1
+reliant		1
+copies		1
+call		1
+confirm		1
+good		1
+look		1
+signed		1
+questions	1
+geof		1
+bmo		1
+include		1

@@ -1,0 +1,24 @@
+NumWords	28
+NumTerms	21
+
+out		4
+thru		3
+wednesday	2
+thurs		2
+friday		1
+know		1
+seung		1
+tuesday		1
+doug		1
+thanks		1
+getting		1
+afternoon	1
+morning		1
+eyes		1
+cell		1
+tjae		1
+taek		1
+king		1
+week		1
+lasered		1
+next		1

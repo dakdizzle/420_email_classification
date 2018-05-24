@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+wondering	1
+enfolio		1
+days		1
+guys		1
+going		1
+kimp		1
+comments	1
+art		1
+market		1
+thanks		1

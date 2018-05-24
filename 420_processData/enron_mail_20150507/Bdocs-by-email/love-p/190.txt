@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+anything	2
+heard		1
+retention	1
+lateral		1
+packages	1
+wouldn		1
+everyone	1
+sure		1
+move		1
+expect		1
+over		1

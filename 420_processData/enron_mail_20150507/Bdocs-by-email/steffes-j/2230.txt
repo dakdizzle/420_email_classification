@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+case		2
+cn		2
+jsteffe		2
+up		1
+ends		1
+recipients	1
+outlined	1
+filename	1
+na		1
+priorities	1
+privileged	1
+jim		1
+settlement	1
+steffes		1
+pstok		1
+non		1
+enron		1
+james		1
+ou		1
+before		1

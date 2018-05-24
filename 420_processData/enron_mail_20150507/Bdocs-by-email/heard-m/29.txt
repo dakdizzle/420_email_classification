@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+walk		1
+down		1
+office		1
+want		1
+okay		1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+very		2
+charlie		1
+ut		1
+understanding	1
+george		1
+options		1
+worth		1
+intelligent	1
+good		1
+defintiely	1
+went		1
+think		1
+interviewing	1

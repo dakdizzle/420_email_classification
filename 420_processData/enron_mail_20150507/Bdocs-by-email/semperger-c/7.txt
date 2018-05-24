@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+normally	1
+day		1
+come		1
+ready		1
+hang		1
+don		1

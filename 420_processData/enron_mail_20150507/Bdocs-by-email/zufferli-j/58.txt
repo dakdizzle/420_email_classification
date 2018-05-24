@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+cream		2
+notch		1
+assumption	1
+working		1
+bump		1
+trying		1
+anyone		1
+knowing		1
+top		1
+afford		1
+lalani		1
+rock		1
+dan		1
+people		1
+list		1
+unfortunately	1
+e		1
+star		1
+separate	1
+adam		1
+think		1
+given		1
+relace		1
+otherwise	1

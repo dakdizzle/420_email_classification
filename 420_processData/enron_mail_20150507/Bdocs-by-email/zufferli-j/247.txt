@@ -1,0 +1,25 @@
+NumWords	28
+NumTerms	22
+
+alberta		3
+sent		2
+powerpool	2
+access		2
+request		2
+power		1
+thank		1
+gas		1
+mehow		1
+view		1
+take		1
+help		1
+long		1
+received	1
+ago		1
+reactivate	1
+mail		1
+inform		1
+week		1
+address		1
+eol		1
+date		1

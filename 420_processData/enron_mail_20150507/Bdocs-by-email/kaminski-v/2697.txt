@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+asap		1
+yes		1
+mike		1
+move		1

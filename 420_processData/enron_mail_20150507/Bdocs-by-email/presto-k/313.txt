@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+proposal	2
+support		1
+timeline	1
+therefore	1
+today		1
+although	1
+condition	1
+pjm		1
+thanks		1
+good		1
+improvement	1
+enron		1
+team		1
+night		1
+work		1
+perfect		1
+last		1
+endorsement	1
+read		1
+big		1
+over		1

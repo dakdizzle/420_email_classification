@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+amitava		1
+vince		1
+myself		1
+vasant		1
+iris		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+taking		1
+diana		1
+everything	1
+time		1
+scholtes	1
+well		1
+thank		1
+anna		1
+hope		1
+ohio		1
+forward		1
+going		1
+resume		1

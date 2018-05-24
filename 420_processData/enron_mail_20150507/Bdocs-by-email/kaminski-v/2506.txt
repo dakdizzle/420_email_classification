@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+vince		1
+project		1
+martin		1
+thoughts	1

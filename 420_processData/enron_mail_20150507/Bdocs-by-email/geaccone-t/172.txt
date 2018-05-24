@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+send		1
+please		1
+bouquet		1
+rod		1
+cookie		1

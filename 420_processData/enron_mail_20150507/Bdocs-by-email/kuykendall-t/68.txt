@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+need		2
+appt		1
+checked		1
+noon		1
+doctor		1
+out		1
+really		1
+soon		1
+issues		1
+back		1
+katy		1
+tomorrow	1
+go		1
+past		1
+mike		1
+week		1
+having		1
+over		1

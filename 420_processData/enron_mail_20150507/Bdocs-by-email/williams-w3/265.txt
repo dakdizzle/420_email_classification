@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+moving		2
+turrets		2
+thanks		2
+reconfiguring	1
+takes		1
+time		1
+know		1
+desk		1
+appreciate	1
+help		1
+changing	1
+desks		1
+bill		1
+update		1
+understand	1
+work		1
+configuration	1
+rt		1
+dave		1

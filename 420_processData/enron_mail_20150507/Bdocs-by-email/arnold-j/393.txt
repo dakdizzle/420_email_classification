@@ -1,0 +1,24 @@
+NumWords	46
+NumTerms	21
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+larry		1
+dquigle		1
+john		1
+azipper		1
+maggi		1
+zipper		1
+dutch		1
+andy		1
+point		1
+good		1
+lmay		1
+griffith	1
+mmaggi		1
+mike		1
+jgriffit	1
+quigley		1

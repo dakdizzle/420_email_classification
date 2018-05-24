@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+pm		1
+try		1
+sally		1
+leave		1
+yes		1

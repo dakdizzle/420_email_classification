@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+outlook		1
+migrated	1
+vacation	1
+now		1
+trying		1
+see		1
+better		1
+actually	1
+thanks		1
+ve		1
+something	1
+people		1
+worse		1
+good		1
+instead		1
+hope		1
+forwarding	1
+assistant	1
+isn		1
+mail		1

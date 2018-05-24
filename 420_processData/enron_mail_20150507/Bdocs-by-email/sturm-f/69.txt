@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+shiavone	1
+piece		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+info		1
+guys		1
+thanks		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+right		1
+check		1
+back		1
+calendar	1
+ll		1

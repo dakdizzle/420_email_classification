@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+dquigle		2
+cn		2
+holes		1
+jerry		1
+ernie		1
+lust		1
+recipients	1
+watch		1
+foursome	1
+filename	1
+na		1
+golf		1
+privileged	1
+dutch		1
+psti		1
+non		1
+enron		1
+please		1
+want		1
+ou		1
+golfcan		1
+quigley		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+hell		1
+leaving		1
+feel		1
+vacation	1
+tomorrow	1
+returning	1
+whenever	1

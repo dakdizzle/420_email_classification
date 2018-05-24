@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+guy		2
+live		1
+close		1
+seems		1
+day		1
+met		1
+neighborhood	1
+end		1
+person		1
+street		1
+fletch		1
+son		1
+looks		1
+local		1
+good		1
+people		1
+bring		1
+idea		1
+bad		1
+thought		1
+law		1
+think		1
+trading		1

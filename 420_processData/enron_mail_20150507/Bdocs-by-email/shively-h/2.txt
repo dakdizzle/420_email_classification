@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+bennett		1
+internet	1
+grab		1
+favorites	1

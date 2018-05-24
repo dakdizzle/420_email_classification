@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+lynn		2
+lblair		2
+cn		2
+blair		1
+recipients	1
+same		1
+filename	1
+na		1
+help		1
+thanks		1
+pst		1
+privileged	1
+done		1
+non		1
+enron		1
+please		1
+nng		1
+work		1
+ou		1
+everyone	1
+raetta		1
+process		1
+richard		1

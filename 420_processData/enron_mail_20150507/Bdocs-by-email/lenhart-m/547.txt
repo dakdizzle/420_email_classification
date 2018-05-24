@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+whatever	1
+around		1
+comparisson	1
+probably	1
+messing		1
+think		1
+love		1

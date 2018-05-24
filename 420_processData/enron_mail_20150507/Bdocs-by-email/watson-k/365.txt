@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+kim		1
+enron		1
+steve		1
+fyi		1
+sharris		1
+harris		1
+recipients	1
+ou		1
+steven		1
+na		1

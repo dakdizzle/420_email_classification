@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+going		2
+party		1
+dinner		1
+yeah		1
+pappas		1
+steakhouse	1
+call		1

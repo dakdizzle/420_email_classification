@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+facial		1
+little		1
+seems		1
+gentleman	1
+massage		1
+manicure	1
+excessive	1
+well		1
+phone		1
+total		1
+looks		1
+number		1
+haircut		1
+thrown		1
+package		1

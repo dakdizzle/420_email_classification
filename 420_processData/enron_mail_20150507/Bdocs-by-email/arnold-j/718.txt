@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+new		2
+xpit		1
+term		1
+short		1
+well		1
+calm		1
+carr		1
+clearing	1
+m		1
+down		1
+positions	1
+trades		1
+start		1
+lower		1
+tell		1
+going		1
+offset		1
+amro		1
+margin		1
+through		1
+tfs		1

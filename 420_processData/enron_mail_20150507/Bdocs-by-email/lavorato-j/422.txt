@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+talk		1
+go		1
+industries	1
+ahead		1
+dave		1

@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+farmer		2
+daren		2
+cn		2
+gas		1
+recipients	1
+blue		1
+filename	1
+na		1
+dfarmer		1
+pstcarlos	1
+enron		1
+ou		1
+dolphin		1

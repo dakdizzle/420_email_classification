@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+right		2
+year		2
+estimate	1
+attached	1
+comfortable	1
+total		1
+current		1
+confused	1
+totals		1
+feel		1
+line		1
+sure		1
+booking		1

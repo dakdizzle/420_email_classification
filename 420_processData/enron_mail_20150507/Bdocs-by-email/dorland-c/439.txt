@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+carrot		1
+nice		1
+quiet		1
+cake		1
+blocks		1
+excellent	1
+original	1
+soup		1
+joe		1
+didn		1
+area		1

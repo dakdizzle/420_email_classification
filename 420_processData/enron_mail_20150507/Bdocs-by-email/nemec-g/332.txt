@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+energy		1
+greg		1
+free		1
+up		1
+valley		1
+attached	1
+call		1
+thanks		1
+p		1
+executable	1
+aep		1
+good		1
+follow		1
+please		1
+feel		1
+need		1
+luck		1
+gerald		1
+brazos		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+place		1
+noble		1
+moved		1
+midtown		1
+new		1

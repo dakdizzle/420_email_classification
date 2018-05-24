@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+policy		1
+adopted		1
+time		1
+participating	1
+standpoint	1
+sorry		1
+management	1
+interest	1
+cooperating	1
+number		1
+gets		1
+requests	1
+enron		1
+rick		1
+buy		1
+large		1
+imagine		1
+purely		1
+similar		1

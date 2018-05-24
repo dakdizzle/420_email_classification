@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+anymore		1
+bunch		1
+know		1
+need		1
+deleted		1

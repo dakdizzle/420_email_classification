@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+lavo		1
+guys		1
+okay		1

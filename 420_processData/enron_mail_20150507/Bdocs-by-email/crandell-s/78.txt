@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+pick		1
+england		1
+new		1

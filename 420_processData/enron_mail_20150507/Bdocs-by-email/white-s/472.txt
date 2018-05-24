@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+hope		1
+stacey		1
+well		1
+fine		1

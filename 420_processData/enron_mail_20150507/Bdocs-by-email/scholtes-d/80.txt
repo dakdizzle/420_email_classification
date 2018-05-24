@@ -1,0 +1,19 @@
+NumWords	29
+NumTerms	16
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+williams	1
+fyi		1
+holden		1
+csemper		1
+semperger	1
+bill		1
+iii		1
+cara		1
+hsalisbu	1
+salisbury	1
+bwillia		1

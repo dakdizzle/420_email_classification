@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+june		2
+open		1
+contracts	1
+position	1
+short		1
+buy		1
+nymex		1

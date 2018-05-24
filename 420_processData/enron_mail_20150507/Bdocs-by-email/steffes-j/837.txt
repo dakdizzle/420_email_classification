@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+list		1
+nerto		1
+arguments	1
+parties		1
+opposing	1

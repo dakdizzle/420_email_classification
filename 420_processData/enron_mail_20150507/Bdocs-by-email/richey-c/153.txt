@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+williams	2
+ltd		1
+cooper		1
+pipe		1
+well		1
+december	1
+stan		1
+submitted	1
+approved	1
+thanks		1
+project		1
+one		1
+zufferli	1

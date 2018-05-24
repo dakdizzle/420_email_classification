@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+april		2
+know		1
+conflicts	1
+anyone		1
+due		1
+trade		1
+schedule	1
+possible	1
+training	1
+changes		1
+classes		1
+last		1
+weeekend	1
+ryan		1

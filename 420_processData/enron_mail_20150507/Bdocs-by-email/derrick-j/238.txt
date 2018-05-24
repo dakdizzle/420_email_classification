@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+jim		3
+reagan		3
+become		1
+position	1
+letting		1
+franciso	1
+looking		1
+thank		1
+know		1
+opportunites	1
+appreciate	1
+son		1
+rylander	1
+aware		1
+mba		1
+message		1
+forwarding	1
+rich		1
+duke		1
+san		1
+area		1

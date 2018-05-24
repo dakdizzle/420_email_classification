@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+indian		1
+respond		1
+huh		1
+duty		1
+english		1
+sounded		1
+speaking	1
+out		1
+wondering	1
+going		1
+last		1
+jury		1
+sucks		1
+didn		1
+sentence	1

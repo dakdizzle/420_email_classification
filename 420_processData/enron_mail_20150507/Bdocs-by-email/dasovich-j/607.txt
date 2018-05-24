@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+discuss		1
+mark		1
+baldwin		1
+jeff		1
+best		1
+length		1
+today		1
+chance		1
+give		1
+thanks		1
+call		1
+talked		1

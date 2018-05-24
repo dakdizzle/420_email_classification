@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+thanxchris	1
+industry	1
+hate		1
+parties		1
+fine		1

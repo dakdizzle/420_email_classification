@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+physical	2
+look		2
+trading		2
+lawyer		1
+joel		1
+taken		1
+trying		1
+take		1
+derivatives	1
+out		1
+ve		1
+really		1
+m		1
+metals		1
+line		1
+more		1
+figure		1
+quick		1
+think		1

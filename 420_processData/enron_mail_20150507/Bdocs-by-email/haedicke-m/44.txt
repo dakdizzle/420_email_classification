@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+order		2
+mark		1
+case		1
+dunn		1
+try		1
+favor		1
+slow		1
+out		1
+down		1
+great		1
+courts		1
+ag		1
+need		1
+committee	1
+dave		1
+leverage	1

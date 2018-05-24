@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+call		2
+group		1
+interview	1
+region		1
+hr		1
+anytime		1
+scheduling	1
+ready		1
+manager		1
+screening	1
+east		1
+talked		1

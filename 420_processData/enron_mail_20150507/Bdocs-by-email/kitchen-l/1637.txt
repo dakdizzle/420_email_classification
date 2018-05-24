@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+gone		1
+ohoh		1
+ratshit		1

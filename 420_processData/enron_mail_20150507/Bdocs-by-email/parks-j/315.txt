@@ -1,0 +1,21 @@
+NumWords	23
+NumTerms	18
+
+chet		3
+com		3
+fenner		2
+worker		1
+brian		1
+wollam		1
+comyes		1
+bmc		1
+brianc		1
+erwollam	1
+co		1
+knipe		1
+msn		1
+constantine	1
+according	1
+hotmail		1
+saltgrass	1
+erik		1

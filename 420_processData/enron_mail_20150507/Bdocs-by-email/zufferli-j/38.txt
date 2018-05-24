@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+inspection	1
+dealership	1
+mechanical	1
+subject		1
+porsche		1
+vancouver	1

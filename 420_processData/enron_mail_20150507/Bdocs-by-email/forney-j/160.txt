@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+jmforney	1
+notice		1
+further		1
+oregon		1
+until		1
+portland	1
+legal		1
+west		1
+desk		1
+advise		1
+mails		1
+delete		1
+advised		1
+dept		1
+please		1
+relocated	1

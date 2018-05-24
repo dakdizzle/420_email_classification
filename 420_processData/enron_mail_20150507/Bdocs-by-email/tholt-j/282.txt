@@ -1,0 +1,15 @@
+NumWords	17
+NumTerms	12
+
+make		3
+xmas		2
+baked		2
+beans		2
+day		1
+ok		1
+amd		1
+double		1
+eve		1
+potatoes	1
+salad		1
+macaroni	1

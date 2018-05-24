@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+make		1
+vpimenovpassword	1
+login		1
+mil		1

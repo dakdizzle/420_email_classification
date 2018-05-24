@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+assume		1
+reviewed	1
+sara		1
+brent		1

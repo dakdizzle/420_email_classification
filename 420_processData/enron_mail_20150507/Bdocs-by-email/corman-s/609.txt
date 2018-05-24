@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+april		2
+second		1
+choice		1
+possible	1
+know		1
+marcos		1
+san		1
+think		1
+date		1

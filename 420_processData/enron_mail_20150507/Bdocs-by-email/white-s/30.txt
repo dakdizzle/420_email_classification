@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+talked		2
+send		1
+included	1
+different	1
+stacey		1
+spreadsheet	1
+guidance	1
+spreadsheets	1
+lot		1
+one		1
+more		1
+correct		1
+give		1

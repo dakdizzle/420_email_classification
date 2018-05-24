@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+come		1
+buy		1
+one		1

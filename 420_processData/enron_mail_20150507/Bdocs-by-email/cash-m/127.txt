@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+mcash		2
+cn		2
+cash		1
+up		1
+recipients	1
+asked		1
+filename	1
+na		1
+privileged	1
+ve		1
+pstsounds	1
+something	1
+great		1
+non		1
+enron		1
+mhc		1
+ou		1
+michelle	1
+set		1
+twanda		1

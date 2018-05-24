@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+handled		2
+group		1
+stuff		1
+usually		1
+operating	1
+gas		1
+someone		1
+permits		1
+pipeline	1
+jim		1
+type		1
+sure		1
+think		1

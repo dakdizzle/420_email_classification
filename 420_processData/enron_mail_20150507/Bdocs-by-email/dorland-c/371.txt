@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+costs		2
+pocket		1
+cndi		1
+john		1
+cndoctober	1
+cnd		1
+cndtemp		1
+car		1
+even		1
+chris		1
+cndflight	1
+out		1
+incidental	1
+rent		1
+already		1
+accomodations	1
+move		1
+haven		1
+movers		1
+think		1
+here		1

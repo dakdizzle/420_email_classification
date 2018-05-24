@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+please		1
+sally		1
+print		1
+christina	1
+thanks		1

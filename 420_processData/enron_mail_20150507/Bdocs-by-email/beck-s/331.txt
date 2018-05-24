@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+hear		1
+mark		1
+fill		1
+sally		1

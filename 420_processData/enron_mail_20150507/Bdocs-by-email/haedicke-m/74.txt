@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+home		1
+mark		1
+without		1
+great		1
+time		1
+hitch		1
+thanks		1

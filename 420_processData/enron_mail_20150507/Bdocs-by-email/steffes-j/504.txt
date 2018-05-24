@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+vicki		1
+meeting		1
+up		1
+interested	1
+throughout	1
+trying		1
+arrange		1
+licenses	1
+thanks		1
+jim		1
+sharp		1
+follow		1
+update		1
+gloria		1
+country		1

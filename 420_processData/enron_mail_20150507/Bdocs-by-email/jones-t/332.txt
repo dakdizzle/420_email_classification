@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+amerex		1
+fee		1
+shults		1
+asking		1
+bob		1
+agreement	1
+help		1
+amendment	1

@@ -1,0 +1,21 @@
+NumWords	23
+NumTerms	18
+
+order		3
+nd		3
+difference	2
+adjustment	1
+true		1
+now		1
+high		1
+negative	1
+total		1
+bit		1
+understand	1
+numbers		1
+e		1
+thought		1
+jun		1
+amount		1
+receive		1
+explain		1

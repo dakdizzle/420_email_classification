@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+assume		1
+purposes	1
+planning	1
+mm		1

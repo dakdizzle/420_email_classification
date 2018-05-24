@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+differential	1
+plus		1
+leather		1
+reflects	1
+window		1
+tax		1
+slip		1
+limited		1
+tinting		1
+heat		1
+special		1
+mine		1

@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+energy		2
+ops		2
+commercial	2
+apart		1
+together	1
+support		1
+resort		1
+thankslouise	1
+sheets		1
+mins		1
+tammylet	1
+general		1
+again		1
+need		1
+functions	1
+blank		1
+teamscan	1
+couple		1
+mondayin	1

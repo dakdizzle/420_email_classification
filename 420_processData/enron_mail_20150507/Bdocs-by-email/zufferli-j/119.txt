@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+nov		2
+m		1
+going		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+cal		1
+m		1
+fine		1
+though		1
+see		1
+through		1

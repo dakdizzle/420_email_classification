@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+versa		1
+situation	1
+assigned	1
+know		1
+ena		1
+unless		1
+docs		1
+definitely	1
+eel		1
+agree		1
+want		1
+moved		1
+michelle	1
+vice		1

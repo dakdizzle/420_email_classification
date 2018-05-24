@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ds		1
+office		1
+want		1
+use		1
+call		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+cash		1
+ultimately	1
+things		1
+approve		1
+loop		1
+below		1
+see		1
+don		1

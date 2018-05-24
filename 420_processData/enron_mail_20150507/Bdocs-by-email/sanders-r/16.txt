@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+galveston	1
+worse		1
+midland		1

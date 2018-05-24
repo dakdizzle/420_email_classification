@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+themlouise	1
+view		1
+concur		1

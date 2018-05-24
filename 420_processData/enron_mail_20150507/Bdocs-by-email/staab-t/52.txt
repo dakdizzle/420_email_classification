@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+message		2
+theresa		1
+sent		1
+copy		1
+forwarding	1
+box		1
+back		1
+darla		1
+print		1
+mind		1
+thanks		1
+didn		1

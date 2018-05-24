@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+please		1
+john		1
+guys		1
+searching	1
+one		1
+interest	1
+reports		1
+expoense	1
+through		1

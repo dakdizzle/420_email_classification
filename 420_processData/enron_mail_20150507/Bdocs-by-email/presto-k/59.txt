@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+separate	1
+desktop		1
+through		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+paul		1
+fornataro	1

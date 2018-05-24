@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+meeting		1
+want		1
+haysletteb	1
+rod		1
+attend		1

@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+job		2
+want		2
+here		2
+live		1
+hopefully	1
+paid		1
+later		1
+denver		1
+out		1
+good		1
+go		1
+work		1
+going		1

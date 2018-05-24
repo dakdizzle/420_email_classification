@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+make		1
+ok		1
+everything	1
+baby		1
+deals		1
+call		1
+good		1
+done		1
+lately		1
+hiking		1
+tell		1
+want		1
+before		1
+wolf		1
+going		1
+sure		1
+jmf		1
+stewie		1

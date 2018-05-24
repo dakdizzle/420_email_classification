@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+love		2
+tracy		1
+really		1
+flashes		1
+make		1
+forever		1
+spoil		1
+hot		1
+happy		1
+having		1
+afternoon	1

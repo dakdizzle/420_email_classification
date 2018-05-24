@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+each		1
+copy		1
+please		1
+print		1

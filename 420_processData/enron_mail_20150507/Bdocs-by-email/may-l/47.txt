@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+brad		1
+well		1
+options		1
+guys		1
+classes		1
+swap		1
+pass		1
+take		1
+think		1

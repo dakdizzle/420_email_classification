@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kim		1
+send		1
+again		1
+attachment	1
+see		1
+don		1
+thanks		1
+karla		1

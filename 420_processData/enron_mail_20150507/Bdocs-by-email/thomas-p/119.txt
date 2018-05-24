@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+edata		2
+seems		1
+clicking	1
+paul		1
+appearing	1
+thomasenron	1
+up		1
+lock		1
+ideas		1
+screen		1
+icon		1
+log		1
+corp		1

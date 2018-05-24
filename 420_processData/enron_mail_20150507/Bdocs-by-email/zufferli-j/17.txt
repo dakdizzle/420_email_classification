@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ideally		1
+make		1
+fax		1
+looking		1
+signed		1
+official	1
+liability	1
+more		1
+worries		1

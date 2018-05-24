@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+enron		1
+geir		1
+solberggsolberg	1
+com		1

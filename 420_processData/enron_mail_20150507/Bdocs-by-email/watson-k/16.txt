@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+managers	1
+training	1
+thank		1
+essentials	1
+legal		1
+watsonx		1
+august		1
+attend		1

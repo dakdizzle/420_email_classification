@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lynn		1
+issues		1
+good		1
+job		1
+fyi		1
+addressing	1
+gary		1
+thanks		1

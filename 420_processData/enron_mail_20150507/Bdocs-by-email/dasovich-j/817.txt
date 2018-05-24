@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+el		1
+suite		1
+camino		1
+sacramento	1

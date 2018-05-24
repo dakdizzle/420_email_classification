@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+good		1
+game		1
+broncos		1

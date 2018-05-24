@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+monday		2
+day		1
+starting	1
+up		1
+stacey		1
+west		1
+person		1
+meet		1
+books		1
+call		1
+home		1
+morning		1
+setting		1
+out		1
+long		1
+possible	1
+casey		1
+one		1
+still		1
+rotating	1

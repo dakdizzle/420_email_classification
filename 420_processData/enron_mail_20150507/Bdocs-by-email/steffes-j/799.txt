@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+day		1
+send		1
+language	1
+recommend	1
+lisa		1
+mike		1
+clarify		1

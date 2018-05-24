@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+know		1
+paid		1
+price		1
+more		1
+unless		1
+probably	1
+extravagant	1
+sounds		1
+lot		1

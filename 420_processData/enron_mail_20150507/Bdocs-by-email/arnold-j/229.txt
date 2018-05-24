@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+john		2
+sep		1
+cleveland	1
+kim		1
+chicagothanks	1
+franciscosep	1
+july		1
+games		1
+available	1
+following	1
+tix		1
+san		1

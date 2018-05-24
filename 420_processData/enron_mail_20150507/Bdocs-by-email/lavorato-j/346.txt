@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+m		1
+mario		1
+more		1
+once		1
+pick		1

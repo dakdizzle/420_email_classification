@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+first		1
+polish		1
+wash		1
+ingy		1
+sure		1
+ll		1

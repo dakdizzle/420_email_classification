@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+table		1
+floor		1
+fri		1
+up		1
+tues		1
+nd		1
+stop		1
+adoption	1
+thanks		1
+enron		1
+please		1
+north		1
+center		1
+week		1
+set		1
+thru		1

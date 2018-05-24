@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+think		2
+full		1
+dynegy		1
+equity		1
+discussion	1
+dead		1
+investment	1
+true		1
+take		1
+over		1

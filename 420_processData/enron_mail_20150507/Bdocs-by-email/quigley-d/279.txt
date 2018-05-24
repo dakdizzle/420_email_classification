@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+com		3
+pdq		1
+net		1
+netwe		1
+siva		1
+cpchem		1
+ev		1
+two		1
+markm		1
+martier		1
+groups		1
+cajunusa	1
+ras		1
+klyn		1
+mail		1
+hotmail		1

@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+cgerman		2
+cn		2
+dth		1
+desk		1
+recipients	1
+filename	1
+na		1
+chris		1
+privileged	1
+billing		1
+vng		1
+non		1
+transport	1
+enron		1
+pstare		1
+germany		1
+yes		1
+ou		1

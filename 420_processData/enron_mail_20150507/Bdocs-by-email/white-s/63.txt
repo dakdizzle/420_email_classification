@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+kids		1
+sister		1
+pet		1
+stacey		1
+share		1
+fyi		1
+peeve		1
+babysitting	1
+reminder	1
+kidding		1
+wanting		1
+thanks		1

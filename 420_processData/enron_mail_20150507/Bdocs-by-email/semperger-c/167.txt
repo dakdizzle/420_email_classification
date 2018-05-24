@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+states		1
+divorced	1
+semperger	1
+luv		1
+back		1
+sempergers	1
+hotmail		1
+see		1
+still		1
+getting		1
+com		1

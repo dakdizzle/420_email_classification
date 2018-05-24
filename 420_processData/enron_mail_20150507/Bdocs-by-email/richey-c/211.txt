@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+old		1
+pretty		1
+don		1
+think		1

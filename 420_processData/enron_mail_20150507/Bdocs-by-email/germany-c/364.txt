@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+changed		1
+email		1
+send		1
+know		1
+going		1
+don		1
+judy		1

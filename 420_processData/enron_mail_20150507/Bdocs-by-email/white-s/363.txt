@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+stacey		2
+swhite		2
+cn		2
+pl		1
+desk		1
+recipients	1
+white		1
+filename	1
+na		1
+pstplease	1
+thanks		1
+privileged	1
+version		1
+non		1
+enron		1
+release		1
+ou		1
+production	1
+new		1

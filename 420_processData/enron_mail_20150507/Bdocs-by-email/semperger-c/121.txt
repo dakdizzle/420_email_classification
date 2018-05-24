@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+spreadsheet	2
+sit		1
+walk		1
+diana		1
+annuities	1
+attached	1
+see		1
+red		1
+both		1
+leg		1
+forwarded	1
+down		1
+please		1
+need		1
+probably	1
+looked		1
+added		1
+cara		1
+thru		1

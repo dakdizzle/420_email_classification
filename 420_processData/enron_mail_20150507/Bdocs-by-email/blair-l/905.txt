@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lynn		1
+much		1
+good		1
+iknow		1
+time		1
+thank		1
+invitation	1
+everyone	1
+attend		1
+joanne		1
+very		1
+thanks		1

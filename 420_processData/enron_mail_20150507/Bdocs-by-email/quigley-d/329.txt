@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+laurathnxdq	1
+correction	1
+want		1
+future		1
+need		1
+correct		1
+infoi		1
+emails		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+tammieget	1
+end		1
+week		1
+assistants	1

@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+going		2
+little		1
+make		1
+encounter	1
+friday		1
+romantic	1
+maybe		1
+antonio		1
+woman		1
+san		1

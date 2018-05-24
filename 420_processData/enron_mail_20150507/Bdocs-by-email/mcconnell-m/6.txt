@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+mark		1
+look		1
+back		1
+take		1
+ll		1
+robert		1

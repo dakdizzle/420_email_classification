@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+group		1
+listing		1
+hernandez	1
+juan		1
+coulter		1
+saw		1
+lc		1
+part		1
+edwin		1
+longer		1
+don		1
+baughman	1

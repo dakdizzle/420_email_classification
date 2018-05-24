@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+tooth		1
+live		1
+time		1
+up		1
+excessive	1
+teeth		1
+build		1
+real		1
+decay		1
+yellow		1
+expected	1
+gums		1
+gross		1
+bleeding	1
+plaque		1

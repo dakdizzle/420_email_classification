@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+morning		1
+vince		1
+updated		1
+friday		1
+shall		1
+meet		1
+stop		1
+alex		1
+shirley		1
+kevin		1
+thanks		1

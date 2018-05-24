@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+county		2
+setting		1
+building	1
+stand		1
+up		1
+response	1
+need		1
+concession	1
+think		1
+appropriate	1
+call		1

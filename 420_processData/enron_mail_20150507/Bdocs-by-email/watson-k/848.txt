@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+kwatson		2
+cn		2
+meeting		1
+pstit		1
+up		1
+recipients	1
+watson		1
+filename	1
+na		1
+see		1
+filing		1
+privileged	1
+kim		1
+speed		1
+good		1
+kimberly	1
+non		1
+enron		1
+idea		1
+ou		1
+everyone	1
+attend		1
+brought		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+thats		1
+cable		1
+free		1
+saying		1
+inmate		1
+prisoner	1
+want		1

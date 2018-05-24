@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+meeting		1
+foundation	1
+legal		1
+southwestern	1
+notified	1
+attend		1
+november	1

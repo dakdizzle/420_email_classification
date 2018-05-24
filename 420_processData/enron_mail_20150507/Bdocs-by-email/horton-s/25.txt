@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+time		3
+make		2
+pm		1
+know		1
+anyone		1
+tee		1
+late		1
+t		1
+golf		1
+sunday		1
+long		1
+done		1
+please		1
+weekend		1
+sure		1
+saturday	1
+date		1
+play		1

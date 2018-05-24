@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+pulp		1
+know		1
+spreadsheet	1
+attached	1
+usage		1
+mills		1
+meet		1
+paper		1
+monika		1
+dave		1
+abitibi		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ish		1
+junior		1
+little		1
+around		1
+sweet		1
+girl		1
+league		1
+leave		1

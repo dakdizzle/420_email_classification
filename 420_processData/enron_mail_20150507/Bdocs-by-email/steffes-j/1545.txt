@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+discuss		1
+ed		1
+point		1
+put		1
+contact		1
+call		1
+ll		1

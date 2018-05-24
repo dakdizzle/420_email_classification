@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+opportunities	1
+step		1
+steve		1
+another		1
+fyi		1
+forward		1
+resolve		1
+imbalances	1

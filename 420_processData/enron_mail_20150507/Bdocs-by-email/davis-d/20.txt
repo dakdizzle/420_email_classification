@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+clickathome	1
+net		1
+enron		1
+http		1
+yahoo		1
+www		1

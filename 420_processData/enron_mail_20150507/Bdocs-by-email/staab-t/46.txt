@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+monday		2
+greeley		2
+theresa		1
+talk		1
+poole		1
+prior		1
+causing		1
+see		1
+robert		1
+valerie		1
+reviewing	1
+differences	1
+august		1
+months		1
+still		1
+ll		1

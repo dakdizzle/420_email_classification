@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+best		2
+out		1
+lane		1
+way		1
+cell		1
+jeff		1
+reach		1
+phone		1
+bob		1
+found		1

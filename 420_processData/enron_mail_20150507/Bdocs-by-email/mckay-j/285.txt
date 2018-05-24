@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+brad		1
+two		1
+send		1
+time		1
+please		1
+jon		1
+save		1
+sorry		1
+access		1
+system		1
+thanks		1
+allow		1

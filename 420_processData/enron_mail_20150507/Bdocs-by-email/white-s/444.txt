@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+stacey		1
+know		1
+doing		1

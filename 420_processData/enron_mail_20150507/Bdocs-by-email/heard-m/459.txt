@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+heard		2
+privileged	2
+non		2
+mheard		2
+text		1
+friday		1
+marie		1
+plain		1
+filename	1
+folder		1
+out		1
+asciix		1
+content		1
+sent		1
+psti		1
+type		1
+mx		1
+origin		1
+itemsx		1
+august		1
+charset		1

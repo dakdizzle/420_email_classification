@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+make		1
+equipt		1
+keg		1
+frig		1
+sure		1

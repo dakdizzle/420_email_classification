@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+bill		1
+opportunity	1
+thank		1
+tim		1
+available	1
+week		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+problems	1
+asap		1
+please		1
+know		1
+another		1
+need		1
+angela		1
+file		1
+mat		1
+thanks		1
+loaded		1
+here		1

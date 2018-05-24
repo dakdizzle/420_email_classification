@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+hear		1
+chris		1
+mikey		1
+great		1
+night		1
+line		1
+boyfriend	1
+last		1
+called		1
+mail		1
+gowans		1
+checking	1
+drop		1

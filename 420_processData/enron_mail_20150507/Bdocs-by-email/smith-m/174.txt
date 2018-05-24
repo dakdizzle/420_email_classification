@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+never		2
+ve		2
+basis		2
+index		2
+curve		2
+fields		1
+helps		1
+maria		1
+except		1
+currently	1
+same		1
+names		1
+database	1
+pull		1
+seen		1
+hope		1
+instead		1
+type		1
+specify		1
+looked		1
+mat		1
+think		1

@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+give		2
+energy		1
+asst		1
+directly	1
+floor		1
+tj		1
+na		1
+markets		1
+thanks		1
+confirm		1
+via		1
+tour		1
+around		1
+please		1
+come		1
+black		1
+mail		1
+quick		1
+overview	1
+macro		1
+trading		1
+over		1

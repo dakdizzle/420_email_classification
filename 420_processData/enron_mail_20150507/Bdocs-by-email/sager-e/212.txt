@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+until		1
+harlan		1
+tracygive	1
+hi		1
+here		1
+ll		1
+call		1

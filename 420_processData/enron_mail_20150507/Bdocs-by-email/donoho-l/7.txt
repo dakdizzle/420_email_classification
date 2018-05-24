@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+location	1
+please		1
+october		1
+know		1
+thursday	1
+yes		1
+th		1
+calendar	1

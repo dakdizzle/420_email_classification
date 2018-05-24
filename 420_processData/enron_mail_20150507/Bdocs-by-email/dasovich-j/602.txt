@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+pm		1
+meeting		1
+jeff		1
+claims		1
+settle		1
+sce		1
+whalley		1
+aware		1

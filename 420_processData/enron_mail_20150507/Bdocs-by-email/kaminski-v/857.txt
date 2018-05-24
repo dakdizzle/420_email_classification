@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+group		1
+vince		1
+ideas		1
+anne		1
+theseinitiatives	1
+excellent	1
+needs		1
+thanks		1

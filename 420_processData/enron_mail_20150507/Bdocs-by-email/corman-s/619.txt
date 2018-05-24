@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+words		1
+encouragement	1
+thanks		1

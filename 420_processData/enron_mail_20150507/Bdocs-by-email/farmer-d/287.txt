@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+know		1
+report		1
+attached	1
+top		1
+wanted		1
+see		1
+mgmt		1
+vol		1
+thanks		1
+each		1
+issues		1
+many		1
+started		1
+ya		1
+staying		1
+pending		1
+week		1
+don		1
+haven		1
+ll		1

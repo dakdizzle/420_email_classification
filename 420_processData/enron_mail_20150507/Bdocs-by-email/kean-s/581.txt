@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+skean		1
+comment		1
+attached	1
+palmer		1
+review		1
+kean		1
+filename	1
+pstplease	1
+privileged	1
+non		1
+enron		1
+origin		1
+sx		1
+pr		1
+com		1

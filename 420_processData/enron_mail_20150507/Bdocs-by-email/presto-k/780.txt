@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+summaries	1
+asap		1
+need		1
+prudency	1
+thanks		1

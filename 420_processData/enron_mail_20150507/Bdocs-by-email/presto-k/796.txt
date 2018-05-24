@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+info		1
+described	1
+ground		1
+organized	1
+continue	1
+various		1
+requested	1
+thanks		1
+weekly		1
+pictures	1
+updates		1
+manner		1
+expectation	1
+booklet		1
+angles		1
+contain		1

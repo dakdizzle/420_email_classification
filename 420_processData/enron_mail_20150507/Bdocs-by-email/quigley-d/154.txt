@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+first		1
+around		1
+counted		1
+cut		1
+never		1

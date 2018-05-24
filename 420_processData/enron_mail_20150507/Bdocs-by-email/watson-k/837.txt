@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+discuss		1
+kim		1
+mark		1
+kevin		1
+thanks		1

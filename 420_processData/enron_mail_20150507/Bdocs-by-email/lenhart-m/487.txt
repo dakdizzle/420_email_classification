@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+stand		1
+cheap		1
+won		1
+take		1

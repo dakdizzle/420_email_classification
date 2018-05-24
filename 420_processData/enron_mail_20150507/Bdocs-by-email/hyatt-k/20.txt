@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+gas		2
+hear		1
+lines		1
+denied		1
+ability		1
+socal		1
+guys		1
+daily		1
+cpuc		1
+put		1
+saw		1
+more		1
+willing		1
+issue		1
+fiber		1

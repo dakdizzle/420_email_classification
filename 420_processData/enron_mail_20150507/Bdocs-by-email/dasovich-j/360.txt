@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+order		1
+wine		1
+pauline		1
+place		1
+salad		1

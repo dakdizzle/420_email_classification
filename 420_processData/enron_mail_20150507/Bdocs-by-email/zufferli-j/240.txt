@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+don		2
+pesos		1
+know		1
+anyone		1
+sorry		1
+immediate	1
+see		1
+help		1
+couldn		1
+anyway		1
+come		1
+canadian	1
+want		1
+more		1
+work		1
+needs		1

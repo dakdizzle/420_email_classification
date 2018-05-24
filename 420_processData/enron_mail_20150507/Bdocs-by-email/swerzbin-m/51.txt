@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+calger		1
+up		1
+believe		1
+portland	1
+jet		1
+corporate	1
+lined		1
+chris		1

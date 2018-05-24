@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+matrix		1
+agreements	1
+utility		1
+gloria		1

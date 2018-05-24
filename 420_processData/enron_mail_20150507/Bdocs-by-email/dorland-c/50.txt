@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+group		1
+order		1
+thanxchris	1
+send		1
+stickley	1
+know		1
+buying		1
+tommorow	1
+furniture	1
+second		1
+wondering	1
+sherry		1
+pictures	1
+office		1
+guy		1
+numbers		1
+forgetten	1
+haven		1
+through		1

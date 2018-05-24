@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+week		3
+next		2
+problems	1
+early		1
+make		1
+arrangements	1
+files		1
+now		1
+due		1
+meet		1
+bt		1
+unable		1
+robert		1
+todd		1
+back		1
+reviewing	1
+ayres		1

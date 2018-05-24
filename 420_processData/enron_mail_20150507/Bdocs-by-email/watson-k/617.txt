@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+john		2
+cn		2
+know		1
+jmillar		1
+millar		1
+recipients	1
+responsibilities	1
+na		1
+anything	1
+kim		1
+good		1
+enron		1
+please		1
+congratulations	1
+ou		1
+luck		1
+new		1

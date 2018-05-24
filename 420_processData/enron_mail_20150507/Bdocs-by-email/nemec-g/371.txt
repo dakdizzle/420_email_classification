@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+bridgeline	2
+executable	1
+oneok		1
+guaranty	1
+holdings	1
+please		1
+know		1
+rudwell		1
+questions	1
+attached	1
+forward		1
+execution	1

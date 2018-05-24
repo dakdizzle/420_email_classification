@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+xls		1
+eyreqeust	1
+bankruptcy	1
+saved		1
+dropbox		1
+file		1

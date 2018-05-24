@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+m		2
+return		1
+win		1
+ability		1
+derrick		1
+bob		1
+jim		1
+best		1
+column		1
+happy		1
+affect		1
+use		1
+astros		1
+regret		1
+tickets		1
+c		1
+didn		1

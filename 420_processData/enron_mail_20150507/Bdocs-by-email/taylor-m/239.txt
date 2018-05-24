@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+arfan		1
+sent		1
+brungs		1
+dept		1
+revisions	1
+justin		1
+working		1
+legal		1
+ian		1
+boyd		1
+yes		1
+think		1

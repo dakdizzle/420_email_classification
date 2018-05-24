@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+good		1
+copy		1
+sign		1
+letter		1
+give		1
+sharon		1

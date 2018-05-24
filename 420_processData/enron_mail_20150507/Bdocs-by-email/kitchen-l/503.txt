@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+phone		2
+give		2
+coming		1
+designs		1
+uk		1
+trying		1
+reconnect	1
+nice		1
+avril		1
+long		1
+christmas	1
+people		1
+cell		1
+need		1
+half		1
+week		1
+hours		1
+new		1
+surely		1
+ll		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+stacey		1
+work		1
+doing		1
+thanks		1

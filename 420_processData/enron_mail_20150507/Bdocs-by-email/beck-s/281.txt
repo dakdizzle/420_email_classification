@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+hectic		1
+misspelled	1
+until		1
+name		1
+today		1
+sorry		1
+late		1
+see		1
+operator	1
+attempt		1
+error		1
+enron		1
+failed		1
+sally		1
+kind		1
+probably	1
+delivery	1
+include		1
+didn		1

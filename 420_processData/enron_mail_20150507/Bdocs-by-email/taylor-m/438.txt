@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+president	1
+discuss		1
+mark		1
+eb		1
+make		1
+fax		1
+travel		1
+today		1
+houston		1
+street		1
+plans		1
+taylorvice	1
+reservations	1
+wholesale	1
+general		1
+call		1
+counselenron	1
+texas		1
+services	1
+possible	1
+please		1
+need		1
+smith		1
+give		1

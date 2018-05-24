@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+try		1
+portland	1
+gas		1
+foster		1
+calling		1
+houston		1
+chris		1
+sales		1
+office		1
+check		1
+makes		1
+one		1
+need		1
+side		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+internet	1
+pl		1
+few		1
+loses		1
+guys		1
+charger		1
+out		1
+expensive	1
+fever		1
+maybe		1
+still		1
+bread		1
+over		1

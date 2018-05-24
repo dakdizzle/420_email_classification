@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+cookies		1
+arnold		1
+few		1
+desk		1
+swing		1

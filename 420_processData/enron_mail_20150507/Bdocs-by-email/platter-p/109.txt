@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+each		2
+baseball	1
+games		1
+tickets		1
+game		1
+soccer		1
+thanks		1

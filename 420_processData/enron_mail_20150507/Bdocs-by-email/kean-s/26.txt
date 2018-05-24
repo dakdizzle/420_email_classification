@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+skean		2
+cn		2
+group		1
+pstthanks	1
+olson		1
+cindy		1
+recipients	1
+interest	1
+kean		1
+asked		1
+steven		1
+filename	1
+na		1
+take		1
+privileged	1
+lead		1
+message		1
+non		1
+forwarding	1
+enron		1
+ou		1
+forming		1

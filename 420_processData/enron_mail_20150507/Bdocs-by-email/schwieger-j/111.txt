@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+thursday	2
+together	1
+october		1
+wednesday	1
+topic		1
+thanks		1
+presentation	1
+confirm		1
+jim		1
+out		1
+put		1
+m		1
+office		1
+storage		1
+please		1
+tomorrow	1
+adrianne	1

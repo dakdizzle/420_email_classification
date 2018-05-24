@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+resume		2
+together	1
+send		1
+brad		1
+stacey		1
+pulling		1
+today		1
+definitely	1
+looks		1
+call		1
+both		1
+resumes		1
+good		1
+called		1
+think		1

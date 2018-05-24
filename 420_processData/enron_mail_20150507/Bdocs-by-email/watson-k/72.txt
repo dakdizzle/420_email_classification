@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+kim		1
+enron		1
+ldonoho		1
+fyi		1
+donoho		1
+recipients	1
+ou		1
+lindy		1
+na		1

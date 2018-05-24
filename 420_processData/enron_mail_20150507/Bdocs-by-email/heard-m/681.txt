@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+gosh		1
+ask		1
+knew		1
+going		1
+esp		1
+quick		1

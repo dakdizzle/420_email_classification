@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+transaction	1
+front		1
+calc		1
+model		1
+working		1
+apparently	1
+left		1
+field		1
+size		1
+related		1
+hit		1
+getting		1
+something	1
+concerns	1
+transport	1
+fundamental	1
+one		1
+var		1
+more		1
+issue		1
+week		1
+fact		1
+doesn		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+early		1
+pm		1
+around		1
+location	1
+fine		1
+new		1
+thanks		1
+afternoon	1

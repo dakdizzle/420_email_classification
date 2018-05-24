@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+ca		1
+make		1
+compression	1
+services	1
+enron		1
+text		1
+company		1
+please		1
+ena		1
+mary		1
+form		1
+sure		1

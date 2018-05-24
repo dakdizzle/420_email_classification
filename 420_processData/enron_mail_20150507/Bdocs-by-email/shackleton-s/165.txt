@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+eb		1
+fax		1
+friday		1
+ph		1
+street		1
+wholesale	1
+number		1
+woodlands	1
+afternoon	1
+cell		1
+services	1
+shackletonenron	1
+office		1
+thursday	1
+sara		1
+ahouston	1
+paralegals	1
+tx		1
+smith		1
+offsite		1
+ll		1

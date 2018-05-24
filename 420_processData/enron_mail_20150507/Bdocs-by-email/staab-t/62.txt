@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+soon		1
+seen		1
+theresa		1
+working		1
+know		1
+forward		1
+haven		1
+ll		1

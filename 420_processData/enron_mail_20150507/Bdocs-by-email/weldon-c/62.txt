@@ -1,0 +1,22 @@
+NumWords	25
+NumTerms	19
+
+ect		3
+weldon		2
+hou		2
+enron		2
+charles		2
+http		1
+santiago	1
+crosswalk	1
+na		1
+interlinearbible	1
+forwarded	1
+enroncc		1
+garcia		1
+pmto		1
+eric		1
+subject		1
+boyt		1
+bible		1
+com		1

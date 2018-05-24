@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+out		1
+time		1
+report		1

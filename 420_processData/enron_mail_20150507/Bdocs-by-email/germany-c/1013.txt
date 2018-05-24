@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+chris		2
+those		1
+tetco		1
+pstmy		1
+phone		1
+filename	1
+girlfriend	1
+call		1
+aurora		1
+many		1
+tell		1
+germany		1
+told		1
+germanyx	1

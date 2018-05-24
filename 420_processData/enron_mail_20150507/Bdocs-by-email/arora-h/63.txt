@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+energy		1
+anywhere	1
+source		1
+harry		1
+e		1
+product		1
+market		1

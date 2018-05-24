@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+info		1
+kim		1
+chris		1
+luck		1
+getting		1

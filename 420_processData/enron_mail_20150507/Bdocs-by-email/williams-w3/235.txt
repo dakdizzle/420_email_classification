@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+bids		2
+williams	2
+bill		2
+group		1
+adjustment	1
+increasing	1
+tier		1
+system		1
+filename	1
+folder		1
+thanks		1
+remember	1
+exmerge		1
+sent		1
+version		1
+iii		1
+caiso		1
+origin		1
+itemsx		1
+mime		1
+more		1
+tiering		1
+read		1
+monotically	1

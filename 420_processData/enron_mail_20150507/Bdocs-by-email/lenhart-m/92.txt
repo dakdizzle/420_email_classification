@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+minneapolis	1
+bunch		1
+know		1
+guys		1
+cheapest	1
+fargo		1
+found		1
+times		1
+earliest	1
+run		1
+one		1
+coordinate	1
+tickets		1
+accordingly	1
+arrives		1
+through		1

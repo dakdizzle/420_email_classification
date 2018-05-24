@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+computers	1
+kh		1
+credit		1
+union		1
+deposit		1
+use		1
+books		1
+take		1
+ll		1

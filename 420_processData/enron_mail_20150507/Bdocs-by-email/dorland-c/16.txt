@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+coming		1
+leaving		1
+back		1
+one		1
+lunch		1

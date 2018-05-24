@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+requirement	1
+samelizabeth	1
+talk		1
+en		1
+know		1
+impact		1
+more		1
+sager		1
+file		1
+vepco		1
+wh		1
+ll		1

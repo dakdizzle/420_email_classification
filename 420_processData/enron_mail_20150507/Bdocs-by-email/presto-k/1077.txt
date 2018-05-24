@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+look		1
+whole		1
+mid		1
+reasonable	1
+shit		1
+piece		1
+btu		1
+very		1
+spreads		1
+offer		1
+market		1

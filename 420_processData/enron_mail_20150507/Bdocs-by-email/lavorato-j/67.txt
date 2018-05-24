@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+down		1
+time		1
+yesi		1
+know		1
+rates		1
+houstonian	1
+sunday		1

@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+meeting		2
+call		2
+home		2
+sally		2
+tonight		2
+make		1
+commute		1
+free		1
+know		1
+download	1
+both		1
+employee	1
+during		1
+mw		1
+feel		1
+tomorrow	1
+happy		1
+lunch		1
+give		1
+birthday	1

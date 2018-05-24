@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ft		1
+done		1
+york		1
+new		1

@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+needs		2
+lloyd		1
+room		1
+power		1
+genco		1
+size		1
+increased	1
+requested	1

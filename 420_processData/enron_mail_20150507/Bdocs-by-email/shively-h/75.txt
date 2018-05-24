@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+mailhunter	1
+houston		1
+jessica		1
+sunday		1
+com		1
+rr		1

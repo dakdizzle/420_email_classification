@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+complete	1
+copy		1
+operating	1
+files		1
+trying		1
+tiny		1
+thanks		1
+kim		1
+many		1
+agreements	1
+tell		1
+below		1
+lindy		1

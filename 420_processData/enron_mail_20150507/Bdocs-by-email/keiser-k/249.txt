@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+digit		1
+bernice		1
+know		1
+attached	1
+unique		1
+kam		1
+spreadsheets	1
+anything	1
+column		1
+need		1
+added		1
+data		1
+codes		1

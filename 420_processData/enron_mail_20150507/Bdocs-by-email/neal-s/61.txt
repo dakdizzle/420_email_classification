@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+time		2
+full		1
+forgot		1
+adjustment	1
+townsend	1
+ask		1
+part		1
+change		1
+due		1
+judy		1

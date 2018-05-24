@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+roe		2
+still		2
+outcome		1
+possibility	1
+thhere		1
+legal		1
+broadband	1
+although	1
+money		1
+better		1
+years		1
+investments	1
+back		1
+depends		1

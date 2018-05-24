@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+look		1
+thank		1
+jacquelyn	1
+forward		1
+trip		1

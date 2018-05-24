@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+take		2
+anything	1
+heard		1
+contrary	1
+pl		1
+vacation	1
+now		1
+need		1
+indications	1
+new		1
+here		1

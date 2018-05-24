@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+few		2
+great		1
+ride		1
+today		1
+stop		1
+rough		1
+hi		1
+here		1

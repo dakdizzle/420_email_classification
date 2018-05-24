@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+guys		2
+mwhitt		2
+cn		2
+mark		1
+map		1
+williams	1
+recipients	1
+filename	1
+na		1
+ar		1
+wic		1
+crestone	1
+privileged	1
+really		1
+non		1
+enron		1
+pstthe		1
+ou		1
+whitt		1
+cig		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+place		1
+opportunity	1
+emphasis	1
+management	1
+mail		1
+pursue		1
+pursuing	1
+requested	1
+reason		1

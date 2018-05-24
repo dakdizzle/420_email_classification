@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+info		1
+return		1
+transaction	1
+john		1
+contact		1
+corning		1
+asked		1
+owens		1
+call		1
+lavorato	1
+regarding	1
+alberta		1
+please		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+thanks		2
+seem		1
+thing		1
+right		1
+know		1
+called		1
+tom		1
+covering	1
+always		1

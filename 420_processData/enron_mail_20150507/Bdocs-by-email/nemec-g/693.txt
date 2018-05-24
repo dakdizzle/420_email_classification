@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+gnemec		2
+cn		2
+guaranty	1
+copy		1
+attached	1
+recipients	1
+pstrudwell	1
+filename	1
+na		1
+print		1
+privileged	1
+out		1
+non		1
+enron		1
+please		1
+nemec		1
+ou		1
+signature	1
+gerald		1
+randy		1

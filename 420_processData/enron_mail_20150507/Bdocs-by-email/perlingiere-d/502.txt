@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+customer	1
+email		1
+eb		1
+send		1
+fax		1
+worksheet	1
+legal		1
+draft		1
+houston		1
+street		1
+america		1
+morning		1
+enron		1
+texas		1
+dperlin		1
+texex		1
+north		1
+smith		1
+perlingiereenron	1
+address		1
+debra		1

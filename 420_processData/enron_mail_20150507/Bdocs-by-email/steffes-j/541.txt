@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+houston		1
+yes		1
+need		1
+attend		1
+shapiro		1

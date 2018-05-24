@@ -1,0 +1,17 @@
+NumWords	18
+NumTerms	14
+
+holden		3
+cn		2
+salisbury	2
+thank		1
+pstpnm		1
+recipients	1
+confirming	1
+filename	1
+na		1
+prepayment	1
+sent		1
+enron		1
+ou		1
+hsalisbu	1

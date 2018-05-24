@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+agree		1
+feel		1
+left		1
+same		1
+behind		1
+feels		1
+getting		1

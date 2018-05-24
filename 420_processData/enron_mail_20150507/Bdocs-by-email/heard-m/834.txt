@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+copy		2
+second		1
+exhibit		1
+revised		1
+clean		1
+marie		1
+blackline	1
+one		1
+harlan		1
+mna		1
+blacklined	1
+here		1

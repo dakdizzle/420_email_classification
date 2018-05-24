@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+latest		1
+early		1
+done		1
+week		1
+next		1

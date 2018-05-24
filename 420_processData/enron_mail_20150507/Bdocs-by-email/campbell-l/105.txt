@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+fe		1
+santa		1
+cute		1
+things		1
+mr		1
+mcminn		1
+hows		1

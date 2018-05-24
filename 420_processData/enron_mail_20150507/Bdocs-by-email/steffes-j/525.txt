@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+jim		1
+rebecca		1
+issues		1
+movement	1
+enron		1
+cantrell	1
+recipients	1
+ou		1
+winning		1
+bcantre		1
+na		1

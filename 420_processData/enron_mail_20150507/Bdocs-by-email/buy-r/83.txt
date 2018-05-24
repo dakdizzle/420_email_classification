@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+aol		1
+email		1
+good		1
+rick		1
+personal	1
+tx		1
+ourternrbb	1
+com		1

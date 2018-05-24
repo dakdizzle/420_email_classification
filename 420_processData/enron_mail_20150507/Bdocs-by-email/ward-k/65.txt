@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+information	1
+know		1
+laird		1
+attached	1
+deals		1
+thanks		1
+kim		1
+alto		1
+more		1
+add		1
+palo		1
+summary		1
+brief		1

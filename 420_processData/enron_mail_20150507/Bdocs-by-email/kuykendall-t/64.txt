@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+hello		1
+talk		1
+didnt		1
+phone		1
+left		1
+month		1
+call		1
+decided		1
+something	1
+cell		1
+message		1
+ago		1
+want		1
+thought		1

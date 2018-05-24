@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lyons		1
+iglou		1
+html		1
+bitchgen	1
+http		1
+members		1
+com		1

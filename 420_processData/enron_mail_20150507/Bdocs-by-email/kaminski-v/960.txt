@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+vince		2
+kaminski	2
+acceptadditional	1
+free		1
+physical	1
+summerinternship	1
+contact		1
+now		1
+left		1
+arrange		1
+sorry		1
+pstallen	1
+interns		1
+late		1
+filename	1
+vkamins		1
+space		1
+jx		1
+please		1
+feel		1
+february	1
+inform		1
+next		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+seen		1
+drink		1
+dinner		1
+forever		1
+stranger	1
+havent		1
+interest	1
+tuesday		1
+getting		1

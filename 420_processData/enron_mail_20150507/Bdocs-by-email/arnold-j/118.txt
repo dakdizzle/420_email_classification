@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+anything	1
+morning		1
+much		1
+felt		1
+puked		1
+doing		1
+times		1
+tonight		1
+better		1

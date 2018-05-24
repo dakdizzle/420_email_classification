@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+info		1
+releases	1
+ve		1
+sent		1
+know		1
+resend		1
+need		1
+mike		1

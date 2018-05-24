@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+mark		1
+ask		1
+contact		1
+attorney	1
+evans		1
+jim		1
+respect		1
+forwarded	1
+questions	1
+lauren		1
+request		1
+november	1
+appropriate	1

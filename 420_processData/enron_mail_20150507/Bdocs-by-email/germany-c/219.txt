@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+chris		2
+cn		2
+germany		2
+hear		1
+abuot		1
+payment		1
+know		1
+cgerman		1
+recipients	1
+filename	1
+na		1
+thanks		1
+phil		1
+enron		1
+please		1
+cms		1
+pstwould	1
+ou		1

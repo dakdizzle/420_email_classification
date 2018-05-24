@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+soon		1
+much		1
+up		1
+talk		1
+unclear		1
+bt		1
+holding		1
+note		1
+thanks		1

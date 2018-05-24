@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+now		1
+problem		1
+thresholds	1
+excel		1
+thanks		1

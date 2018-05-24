@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+talk		2
+matterok	1
+jsut		1
+options		1
+money		1
+see		1
+arrangement	1
+out		1
+really		1
+alright		1
+rent		1
+toodo		1
+buy		1
+want		1
+need		1
+south		1
+heading		1
+living		1
+tonight		1
+think		1
+rest		1

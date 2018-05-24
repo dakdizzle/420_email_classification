@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+swaps		2
+day		1
+john		1
+cancelled	1
+today		1
+price		1
+find		1
+nymex		1
+advised		1
+error		1
+transactions	1
+arnold		1
+thankssandra	1
+buy		1
+again		1
+swap		1
+dec		1
+eol		1

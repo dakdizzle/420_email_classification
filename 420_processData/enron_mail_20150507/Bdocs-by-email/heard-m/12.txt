@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+time		1
+wrath		1
+barely		1
+next		1
+always		1
+escaped		1

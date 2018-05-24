@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+thanks		2
+email		1
+contracts	1
+know		1
+volumes		1
+production	1
+need		1
+new		1

@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+jforney		2
+cn		2
+pstwe		1
+john		1
+recipients	1
+filename	1
+na		1
+privileged	1
+long		1
+non		1
+enron		1
+mw		1
+tomorrow	1
+sell		1
+north		1
+frontera	1
+needed		1
+scheduled	1
+ou		1
+forney		1
+jmf		1

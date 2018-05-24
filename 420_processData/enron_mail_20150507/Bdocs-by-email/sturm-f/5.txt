@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+coming		1
+kobra		1
+please		1
+lesson		1
+tell		1
+danielle	1
+fletch		1
+need		1
+whoever		1
+move		1
+give		1
+thanks		1

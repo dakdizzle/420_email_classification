@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+email		1
+remove		1
+please		1
+phillip		1
+allen		1

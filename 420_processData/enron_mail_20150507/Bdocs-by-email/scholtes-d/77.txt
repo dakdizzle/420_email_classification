@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+nd		1
+fixedds		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+morning		1
+around		1
+gas		1
+available	1
+buy		1

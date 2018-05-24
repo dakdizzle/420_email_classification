@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+between		2
+houston		2
+hey		1
+available	1
+now		1
+airfare		1
+rochester	1
+bucks		1
+boston		1

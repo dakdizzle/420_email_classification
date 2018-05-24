@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+monday		1
+out		1
+zac		1
+office		1
+team		1
+join		1
+looking		1
+friday		1
+returning	1
+forward		1
+having		1
+keith		1

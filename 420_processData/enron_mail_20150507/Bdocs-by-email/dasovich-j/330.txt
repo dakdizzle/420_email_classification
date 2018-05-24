@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+expensive	1
+kids		1
+dorothy		1
+solo		1
+know		1
+cmta		1
+colleges	1
+file		1
+keith		1
+informed	1

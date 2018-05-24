@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+kergan		2
+think		2
+fight		1
+tossed		1
+those		1
+wild		1
+dogs		1
+forgotten	1
+jeep		1
+children	1
+unless		1
+russia		1
+food		1
+acient		1
+steps		1
+people		1
+pits		1
+one		1
+entertainment	1
+going		1

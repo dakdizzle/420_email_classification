@@ -1,0 +1,22 @@
+NumWords	24
+NumTerms	19
+
+non		3
+mcash		2
+cn		2
+compete		2
+cash		1
+payment		1
+risk		1
+obligation	1
+recipients	1
+filename	1
+na		1
+pstno		1
+privileged	1
+enron		1
+mhc		1
+one		1
+ou		1
+michelle	1
+independent	1

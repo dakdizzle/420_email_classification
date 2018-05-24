@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+jeff		2
+ross		2
+out		1
+much		1
+best		1
+contact		1
+someone		1
+works		1
+week		1
+thanks		1

@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+watson		2
+privileged	2
+non		2
+kwatson		2
+text		1
+looking		1
+plain		1
+filename	1
+folder		1
+thanks		1
+pstlindy	1
+kim		1
+asciix		1
+content		1
+kx		1
+sent		1
+kimberly	1
+type		1
+agree		1
+origin		1
+itemsx		1
+comments	1
+charset		1

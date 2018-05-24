@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+ferc		1
+much		1
+recent		1
+make		1
+true		1
+keep		1
+fine		1
+message		1
+come		1
+statements	1
+d		1
+sure		1
+don		1
+straightforward	1

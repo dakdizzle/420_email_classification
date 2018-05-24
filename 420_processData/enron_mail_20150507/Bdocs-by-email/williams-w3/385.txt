@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+potential	1
+amy		1
+position	1
+please		1
+bill		1
+questions	1
+describing	1
+added		1
+see		1
+temporary	1
+thanks		1
+sentence	1

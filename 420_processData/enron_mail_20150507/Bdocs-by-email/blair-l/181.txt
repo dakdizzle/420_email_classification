@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+lynn		2
+lblair		2
+cn		2
+kathy		1
+october		1
+blair		1
+recipients	1
+wanted		1
+filename	1
+na		1
+thanks		1
+pst		1
+privileged	1
+concerns	1
+non		1
+team		1
+enron		1
+testing		1
+ou		1
+need		1
+address		1
+sure		1
+coverage	1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+noske		1
+great		1
+linda		1
+time		1
+go		1
+ask		1
+think		1
+schedule	1
+over		1

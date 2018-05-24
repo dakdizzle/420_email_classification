@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+kpd		1
+siempre		1
+soon		1
+called		1
+love		1
+doctor		1

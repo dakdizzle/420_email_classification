@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+add		2
+value		1
+commerce	1
+guy		1
+know		1
+whether		1
+more		1
+definitely	1
+blather		1
+buzzwords	1
+don		1
+note		1

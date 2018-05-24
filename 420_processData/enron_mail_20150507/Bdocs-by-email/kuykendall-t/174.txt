@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+people		2
+email		1
+dont		1
+way		1
+alot		1
+write		1
+check		1
+paying		1
+read		1

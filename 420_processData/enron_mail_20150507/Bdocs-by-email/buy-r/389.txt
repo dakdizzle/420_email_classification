@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+haedicke	1
+weekly		1
+meeting		1
+rick		1
+invited		1
+tx		1
+attend		1
+think		1

@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+analyst		2
+associate	2
+reduced		2
+address		2
+regardless	1
+floor		1
+employees	1
+know		1
+whether		1
+etc		1
+core		1
+circulating	1
+soon		1
+people		1
+program		1
+rumors		1
+mike		1
+business	1
+associates	1
+issue		1

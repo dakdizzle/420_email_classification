@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+requires	1
+enron		1
+earthsat	1
+password	1

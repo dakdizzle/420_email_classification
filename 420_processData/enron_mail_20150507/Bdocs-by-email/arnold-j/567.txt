@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+m		1
+ok		1
+free		1
+tell		1
+meet		1
+see		1
+oct		1

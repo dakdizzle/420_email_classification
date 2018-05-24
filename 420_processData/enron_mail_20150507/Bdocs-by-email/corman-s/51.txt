@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+great		1
+invited		1
+attend		1
+last		1
+week		1
+disappointed	1
+forum		1

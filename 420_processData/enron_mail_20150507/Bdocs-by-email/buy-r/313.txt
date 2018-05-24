@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+maybe		2
+totally		1
+bod		1
+comfortable	1
+enuf		1
+high		1
+anyway		1
+list		1
+entire		1
+rethink		1
+rick		1
+need		1
+hasn		1
+process		1
+mtg		1
+haven		1

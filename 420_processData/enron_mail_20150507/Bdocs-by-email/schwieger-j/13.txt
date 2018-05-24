@@ -1,0 +1,7 @@
+NumWords	9
+NumTerms	4
+
+contracts	3
+nymex		3
+buy		2
+sell		1

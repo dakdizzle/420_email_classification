@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+barbara		1
+marie		1
+find		1
+netting		1
+form		1
+seem		1
+master		1
+sent		1
+hayes		1
+richardson	1
+mail		1
+billy		1
+agreement	1

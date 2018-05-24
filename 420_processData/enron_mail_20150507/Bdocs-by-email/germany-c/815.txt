@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+inbox		1
+look		1
+found		1

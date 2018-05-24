@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+changed		1
+quot		1
+instead		1
+sheet		1
+except		1
+cob		1
+before		1
+same		1
+date		1

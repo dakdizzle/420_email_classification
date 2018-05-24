@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+desk		1
+reside		1
+east		1

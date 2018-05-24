@@ -1,0 +1,20 @@
+NumWords	36
+NumTerms	17
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+presto		1
+calger		1
+christopher	1
+tim		1
+kpresto		1
+belden		1
+tbelden		1
+milnthorp	1
+kevin		1
+ccalger		1
+rmilnth		1
+rob		1

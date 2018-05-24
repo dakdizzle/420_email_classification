@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+coach		1
+ten		1
+faces		1
+olds		1
+crying		1
+remember	1
+reschedule	1
+lead		1
+sanders		1
+attempt		1
+victory		1
+isn		1
+year		1

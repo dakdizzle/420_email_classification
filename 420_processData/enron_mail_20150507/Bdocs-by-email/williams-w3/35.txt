@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+morning		1
+great		1
+good		1
+hope		1
+start		1
+year		1
+new		1

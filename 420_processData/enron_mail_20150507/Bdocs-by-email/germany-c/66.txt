@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+rep		4
+bid		2
+room		2
+glazebrook	1
+anyone		1
+find		1
+iroquois	1
+phone		1
+tennessee	1
+longer		1
+number		1
+robin		1
+call		1
+out		1
+andy		1
+sherry		1
+zaleski		1
+believe		1
+answers		1
+tell		1
+armstrong	1
+new		1

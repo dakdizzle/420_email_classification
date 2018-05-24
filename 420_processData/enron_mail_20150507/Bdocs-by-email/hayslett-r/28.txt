@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+return		1
+cash		1
+driving		1

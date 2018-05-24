@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+send		1
+reqard		1
+know		1
+another		1
+smith		1
+mat		1
+meant		1

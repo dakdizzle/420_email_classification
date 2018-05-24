@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+support		1
+send		1
+tenaska		1
+more		1
+going		1
+cara		1
+jmf		1
+discussing	1

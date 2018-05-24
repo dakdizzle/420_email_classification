@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+plz		1
+something	1
+vince		1
+know		1
+interesting	1
+yes		1
+subscribe	1
+sevil		1
+see		1

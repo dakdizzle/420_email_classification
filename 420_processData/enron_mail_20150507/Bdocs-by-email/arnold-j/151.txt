@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+resid		3
+market		2
+natty		1
+assume		1
+share		1
+fixed		1
+keep		1
+biggest		1
+drops		1
+target		1
+maintain	1
+question	1
+mind		1
+needs		1

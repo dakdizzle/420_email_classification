@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+thanks		2
+kim		1
+great		1
+results		1
+morris		1
+know		1
+guys		1
+weekend		1
+aswell		1
+mika		1
+call		1

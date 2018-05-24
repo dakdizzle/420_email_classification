@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+lkitchen	2
+cn		2
+redmond		1
+kitchen		1
+working		1
+louise		1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+pstbrian	1
+ou		1

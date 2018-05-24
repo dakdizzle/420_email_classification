@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+changed		1
+ca		1
+email		1
+uslet		1
+know		1
+beach		1
+unless		1
+thanks		1
+chgarne		1
+anything	1
+anyway		1
+kim		1
+long		1
+march		1
+sent		1
+one		1
+ci		1
+need		1
+address		1

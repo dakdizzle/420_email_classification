@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+plan		1
+satisfy		1
+needs		1

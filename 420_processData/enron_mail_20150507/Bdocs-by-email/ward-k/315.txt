@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+morning		1
+kim		1
+amgen		1
+fourth		1
+blend		1
+need		1
+phone		1
+call		1

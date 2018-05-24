@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+crude		1
+out		1
+much		1
+god		1
+friday		1
+thank		1
+gas		1
+month		1
+trading		1
+better		1

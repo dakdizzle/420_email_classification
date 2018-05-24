@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+inc		1
+congestion	1
+sheet		1
+working		1
+bids		1
+difficulties	1
+thanks		1
+ciso		1
+received	1
+bill		1
+reading		1
+mws		1
+again		1
+week		1
+having		1

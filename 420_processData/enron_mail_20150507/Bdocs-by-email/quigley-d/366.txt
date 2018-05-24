@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+thinking	1
+ok		1
+hope		1
+know		1
+wanted		1
+having		1
+dayilydq	1

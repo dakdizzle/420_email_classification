@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+m		2
+invite		1
+review		1
+nd		1
+depth		1
+looks		1
+feed		1
+thanks		1
+mid		1
+back		1
+year		1
+jonps		1
+going		1
+game		1
+committed	1
+love		1

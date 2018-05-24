@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+home		1
+out		1
+cell		1
+numbers		1
+contact		1
+peterman	1
+here		1

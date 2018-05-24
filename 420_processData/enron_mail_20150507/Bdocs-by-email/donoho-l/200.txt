@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+mary		1
+kay		1
+thanks		1

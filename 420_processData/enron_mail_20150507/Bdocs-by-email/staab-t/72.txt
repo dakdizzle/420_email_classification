@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+theresa		1
+send		1
+staab		1
+check		1
+diego		1
+pick		1
+bob		1
+address		1
+winner		1
+san		1
+ll		1

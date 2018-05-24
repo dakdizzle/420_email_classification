@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+bumper		1
+make		1
+front		1
+longer		1
+wider		1

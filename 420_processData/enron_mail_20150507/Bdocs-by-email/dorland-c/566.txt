@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+migrate		1
+notify		1
+needed		1
+pls		1
+help		1
+daniel		1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+fe		1
+coming		1
+ok		1
+friday		1
+wed		1
+th		1
+looks		1
+stay		1
+santa		1
+oyu		1
+wicek		1
+thursday	1
+back		1
+shall		1
+marek		1
+drinks		1
+going		1

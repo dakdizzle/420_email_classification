@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+theresa		2
+tstaab		2
+cn		2
+gas		1
+bids		1
+daily		1
+recipients	1
+filename	1
+na		1
+privileged	1
+pstena		1
+non		1
+enron		1
+staab		1
+fuel		1
+ou		1
+november	1
+cig		1

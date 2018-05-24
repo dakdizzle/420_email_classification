@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+thingwant	1
+elpaso		1
+options		1
+trade		1
+same		1

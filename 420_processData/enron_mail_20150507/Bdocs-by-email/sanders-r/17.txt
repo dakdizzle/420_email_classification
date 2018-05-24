@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+sam		1
+judge		1
+crazy		1
+district	1
+file		1
+kent		1
+two		1
+anywhere	1
+answers		1
+one		1
+need		1
+desire		1
+don		1
+southern	1
+think		1

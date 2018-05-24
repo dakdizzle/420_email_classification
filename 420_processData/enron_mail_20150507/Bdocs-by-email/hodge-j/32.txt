@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+cn		2
+joanne		2
+enron		1
+jeff		1
+jrozycki	1
+recipients	1
+ou		1
+fine		1
+rozycki		1
+na		1

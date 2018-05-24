@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+required	1
+thankskamx	1
+please		1
+risk		1
+files		1
+questions	1
+gas		1
+attached	1
+management	1
+mike		1
+call		1

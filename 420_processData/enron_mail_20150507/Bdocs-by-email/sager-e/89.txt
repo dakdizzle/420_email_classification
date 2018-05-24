@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+week		2
+out		1
+early		1
+office		1
+talk		1
+lets		1
+going		1
+peter		1
+thankselizabeth	1
+rest		1
+hi		1
+next		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+monday		1
+march		1
+up		1
+location	1
+please		1
+sending		1
+sign		1
+session		1
+th		1

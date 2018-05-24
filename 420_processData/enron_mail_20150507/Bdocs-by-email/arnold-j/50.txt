@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+celebrate	2
+near		1
+john		1
+tickleless	1
+deals		1
+ect		1
+hou		1
+summer		1
+push		1
+kim		1
+done		1
+down		1
+pmto		1
+enron		1
+ward		1
+arnold		1
+pay		1
+ectcc		1
+one		1
+subject		1
+deal		1
+completion	1
+enronxgate	1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+rick		1
+meetings	1
+guys		1
+necessary	1
+don		1
+still		1
+think		1

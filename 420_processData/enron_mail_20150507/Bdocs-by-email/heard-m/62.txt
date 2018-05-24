@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+sayre		1
+looking		1
+mind		1
+never		1
+frank		1

@@ -1,0 +1,25 @@
+NumWords	35
+NumTerms	22
+
+dth		4
+reliant		4
+prepay		3
+per		2
+days		2
+supply		2
+dominion	2
+trunkline	2
+case		1
+under		1
+following	1
+swing		1
+intraday	1
+april		1
+sitara		1
+perform		1
+prepays		1
+contract	1
+florida		1
+requesting	1
+backup		1
+deal		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+kim		1
+remaining	1
+outages		1
+fyi		1
+jan		1
+thanks		1

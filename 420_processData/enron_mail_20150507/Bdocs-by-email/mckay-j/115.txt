@@ -1,0 +1,11 @@
+NumWords	11
+NumTerms	8
+
+offer		3
+nx		2
+mar		1
+jon		1
+nov		1
+nymex		1
+dec		1
+don		1

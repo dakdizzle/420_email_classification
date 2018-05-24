@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+dealmaker	1
+follow		1
+interested	1
+up		1
+inactivate	1
+counterparty	1
+need		1
+business	1
+sounds		1
+think		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+kim		1
+fax		1
+ward		1
+admin		1
+change		1
+houston		1
+presas		1
+nov		1
+jessica		1
+number		1

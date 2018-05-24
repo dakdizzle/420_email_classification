@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+directly	1
+respond		1
+up		1
+observations	1
+success		1
+responsiveness	1
+setting		1
+concerns	1
+questions	1
+part		1
+depends		1
+comments	1
+process		1

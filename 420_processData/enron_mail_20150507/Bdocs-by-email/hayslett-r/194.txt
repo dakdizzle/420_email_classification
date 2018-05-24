@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+blackberry	2
+sent		1
+net		1
+downgrade	1
+agree		1
+wireless	1
+wouldn		1
+handheld	1
+www		1
+actual		1

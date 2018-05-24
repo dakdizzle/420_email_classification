@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+info		1
+send		1
+please		1
+hotmail		1
+pallen		1
+com		1
+afternoon	1
+owner		1

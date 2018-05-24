@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+kitchen		2
+louise		2
+cn		2
+recipients	1
+filename	1
+na		1
+help		1
+conclusion	1
+lkitchen	1
+enron		1
+come		1
+pstharry	1
+ou		1
+jay		1

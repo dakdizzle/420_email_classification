@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+vkamins		2
+vince		2
+cn		2
+plz		1
+recipients	1
+filename	1
+na		1
+looks		1
+equations	1
+privileged	1
+soon		1
+great		1
+non		1
+enron		1
+go		1
+pstsam		1
+ahead		1
+ou		1
+kaminski	1

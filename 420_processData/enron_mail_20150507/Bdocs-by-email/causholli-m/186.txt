@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+vacation	1
+nov		1
+monika		1
+took		1
+nyree		1
+hi		1
+thanks		1

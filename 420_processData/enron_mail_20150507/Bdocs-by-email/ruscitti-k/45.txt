@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+group		1
+stuff		1
+day		1
+up		1
+houston		1
+found		1
+kevin		1
+search		1
+house		1
+m		1
+matt		1
+tell		1
+going		1
+d		1
+doing		1
+tied		1
+hi		1

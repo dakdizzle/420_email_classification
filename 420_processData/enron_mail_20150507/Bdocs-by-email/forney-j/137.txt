@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+john		2
+resolved	1
+presto		1
+situation	1
+hear		1
+meeting		1
+tank		1
+further		1
+helpful		1
+know		1
+understanding	1
+friday		1
+glad		1
+kevin		1
+approved	1
+requested	1
+please		1
+questions	1
+frustration	1
+forney		1
+level		1
+demin		1
+outage		1
+attended	1

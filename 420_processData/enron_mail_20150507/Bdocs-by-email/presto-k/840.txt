@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+option		1
+stock		1
+contracts	1
+paperwork	1
+signed		1
+guys		1
+restricted	1
+asking		1
+grants		1

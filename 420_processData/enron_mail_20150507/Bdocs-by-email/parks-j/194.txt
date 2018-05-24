@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+position	1
+filled		1
+duke		1
+call		1

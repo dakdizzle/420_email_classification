@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+cn		2
+dperlin		2
+handling	1
+recipients	1
+filename	1
+na		1
+see		1
+pst		1
+privileged	1
+sent		1
+advised		1
+non		1
+enron		1
+please		1
+agreements	1
+nemec		1
+questions	1
+ou		1
+below		1
+gerald		1
+perlingiere	1
+debra		1

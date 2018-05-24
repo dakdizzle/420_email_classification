@@ -1,0 +1,24 @@
+NumWords	27
+NumTerms	21
+
+com		5
+austin		2
+mccomb		2
+kmccomb		1
+fenner		1
+brian		1
+wollam		1
+shoot		1
+chet		1
+bmc		1
+cmccomb		1
+mertz		1
+brianc		1
+erwollam	1
+knipe		1
+msn		1
+constantine	1
+hotmail		1
+saltgrass	1
+comwhere	1
+erik		1

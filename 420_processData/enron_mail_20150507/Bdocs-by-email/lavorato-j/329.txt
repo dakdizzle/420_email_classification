@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+know		1
+pstjoegreg	1
+today		1
+petrobras	1
+filename	1
+current		1
+lavorato	1
+something	1
+please		1
+jlavora		1
+thanksjohn	1
+mail		1
+dealing		1
+johnx		1
+whalley		1

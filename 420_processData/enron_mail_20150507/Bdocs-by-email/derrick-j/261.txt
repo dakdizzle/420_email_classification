@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+minute		1
+meeting		1
+around		1
+suggest		1
+tell		1
+drop		1

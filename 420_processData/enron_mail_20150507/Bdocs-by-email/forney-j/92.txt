@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+balance		2
+dont		1
+nk		1
+up		1
+thank		1
+days		1
+vacation	1
+floating	1
+tj		1
+thi		1
+reflect		1
+holiday		1
+signed		1
+tell		1
+jmf		1

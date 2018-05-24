@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hollar		1
+good		1
+smoke		1
+break		1
+times		1
+take		1
+give		1
+ll		1

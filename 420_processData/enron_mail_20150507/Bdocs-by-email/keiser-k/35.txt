@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+thankskk	1
+out		1
+sanjeev		1
+thankscould	1
+id		1
+run		1
+book		1
+need		1
+last		1
+post		1
+books		1
+tied		1

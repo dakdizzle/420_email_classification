@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+linda		2
+ed		1
+entity		1
+send		1
+bankrupt	1
+position	1
+acquisition	1
+company		1
+claim		1
+reserve		1
+letter		1
+roberts		1
+speaking	1
+non		1
+glo		1
+enron		1
+appears		1
+against		1
+stating		1
+think		1
+erac		1

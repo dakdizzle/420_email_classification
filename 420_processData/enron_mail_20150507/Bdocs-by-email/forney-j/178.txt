@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+people		2
+approx		1
+together	1
+john		1
+jforney		1
+entergy		1
+th		1
+filename	1
+thanks		1
+privileged	1
+seats		1
+non		1
+enron		1
+box		1
+psttj		1
+blocks		1
+astros		1
+need		1
+entertaining	1
+access		1
+tickets		1
+jmf		1
+game		1
+forneyx		1

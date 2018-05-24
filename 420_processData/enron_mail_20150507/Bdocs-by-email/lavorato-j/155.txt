@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+rally		1
+done		1
+recent		1
+billywhat	1
+lavo		1
+huge		1
+cnr		1
+exposures	1

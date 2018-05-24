@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+anything	2
+done		2
+ideas		2
+think		2
+useful		1
+know		1
+noise		1
+aren		1
+organization	1
+leadership	1
+review		1
+perception	1
+down		1
+being		1
+hr		1
+touch		1
+go		1
+want		1
+more		1
+level		1
+cut		1
+doing		1

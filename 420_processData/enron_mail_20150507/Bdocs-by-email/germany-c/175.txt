@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+m		1
+gets		1
+copy		1
+doner		1
+max		1
+someone		1
+sure		1
+don		1
+think		1

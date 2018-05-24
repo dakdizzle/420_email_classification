@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+send		1
+wrap		1
+peggy		1
+attached	1
+today		1
+going		1
+last		1
+monika		1
+week		1
+thanks		1
+market		1

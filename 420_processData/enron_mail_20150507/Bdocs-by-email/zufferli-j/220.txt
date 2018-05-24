@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+morning		1
+send		1
+tues		1
+ll		1

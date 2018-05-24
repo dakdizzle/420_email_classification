@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+internet	1
+sue		1
+call		1

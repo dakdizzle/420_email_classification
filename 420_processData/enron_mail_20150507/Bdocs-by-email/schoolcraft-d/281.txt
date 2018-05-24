@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ds		1
+way		1
+figured		1
+test		1
+new		1

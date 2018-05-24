@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+please		1
+days		1
+couple		1
+give		1

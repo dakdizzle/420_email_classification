@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+working		1
+joey		1
+mini		1
+books		1
+running		1

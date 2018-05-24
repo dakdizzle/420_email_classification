@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+pulp		1
+consumption	1
+spreadsheet	1
+attached	1
+grade		1
+regional	1
+monika		1
+contains	1
+market		1

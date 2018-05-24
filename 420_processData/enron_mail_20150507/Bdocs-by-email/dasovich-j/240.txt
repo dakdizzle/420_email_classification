@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+jeff		3
+dasovich	2
+cn		2
+pstthanks	1
+california	1
+bear		1
+days		1
+associated	1
+jdasovic	1
+recipients	1
+names		1
+filename	1
+na		1
+melinda		1
+lots		1
+remember	1
+privileged	1
+apologies	1
+non		1
+enron		1
+best		1
+ou		1
+new		1

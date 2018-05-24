@@ -1,0 +1,22 @@
+NumWords	39
+NumTerms	19
+
+cn		9
+recipients	4
+na		4
+enron		4
+ou		4
+tseminuk	1
+eb		1
+fb		1
+john		1
+fichten		1
+messenger	1
+jmessen		1
+michael		1
+tyler		1
+notesaddr	1
+murray		1
+mfichten	1
+taylor		1
+seminuk		1

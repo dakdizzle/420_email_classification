@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ferrious	1
+forwarded	1
+nelson		1
+thank		1
+well		1
+specialist	1
+head		1

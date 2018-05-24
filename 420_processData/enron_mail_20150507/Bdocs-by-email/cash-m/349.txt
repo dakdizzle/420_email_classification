@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+mcash		2
+cn		2
+michelle	2
+need		2
+kathy		1
+those		1
+cash		1
+personnel	1
+recipients	1
+filename	1
+na		1
+thanks		1
+privileged	1
+non		1
+enron		1
+started		1
+pstyou		1
+forward		1
+more		1
+ou		1
+ll		1

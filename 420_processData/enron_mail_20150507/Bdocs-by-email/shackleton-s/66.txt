@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+hear		1
+lawyer		1
+heard		1
+eb		1
+fax		1
+assist		1
+ph		1
+street		1
+wholesale	1
+never		1
+thanks		1
+matter		1
+services	1
+shackletonenron	1
+please		1
+back		1
+ahouston	1
+tx		1
+smith		1
+sarasara	1
+pat		1

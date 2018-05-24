@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+info		1
+keeney		1
+getting		1
+thanks		1

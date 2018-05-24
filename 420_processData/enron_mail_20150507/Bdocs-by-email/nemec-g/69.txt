@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+gnemec		2
+cn		2
+fixed		1
+know		1
+attached	1
+firmness	1
+price		1
+recipients	1
+converted	1
+filename	1
+na		1
+concerning	1
+see		1
+pstplease	1
+privileged	1
+non		1
+enron		1
+language	1
+nemec		1
+questions	1
+portion		1
+ou		1
+added		1
+gerald		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+paycheck	1
+check		1
+now		1
+hit		1
+bank		1

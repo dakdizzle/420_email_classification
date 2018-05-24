@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+scott		1
+west		1
+york		1
+th		1
+sweetie		1
+jim		1
+ny		1
+streetapt	1
+karro		1
+phjnew		1
+address		1
+love		1
+here		1

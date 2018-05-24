@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+corona		1
+power		1
+california	1
+laird		1
+generators	1
+today		1
+form		1
+ngi		1
+planning	1
+muni		1
+article		1
+utility		1
+em		1
+purchase	1
+city		1

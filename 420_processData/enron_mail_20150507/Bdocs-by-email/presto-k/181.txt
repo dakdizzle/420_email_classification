@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+need		2
+discuss		1
+beer		1
+ene		1
+wayne		1
+lock		1
+general		1
+herndon		1
+down		1
+asap		1
+want		1
+probably	1
+week		1
+next		1

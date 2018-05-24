@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+vince		1
+al		1
+thursday	1
+work		1

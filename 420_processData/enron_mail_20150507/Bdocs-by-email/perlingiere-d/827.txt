@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+gisbs		1
+email		1
+present		1
+enfolio		1
+place		1
+time		1
+ena		1
+attached	1
+spot		1
+same		1
+see		1
+thanks		1
+please		1
+achieve		1
+purpose		1
+putting		1
+agreement	1
+new		1

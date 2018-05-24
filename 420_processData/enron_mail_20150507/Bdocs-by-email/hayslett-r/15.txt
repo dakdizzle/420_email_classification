@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+call		2
+support		1
+make		1
+stand		1
+whether		1
+alone		1
+help		1
+integrate	1
+enron		1
+tod		1
+more		1
+efficient	1
+agreement	1
+providing	1
+adam		1
+needs		1

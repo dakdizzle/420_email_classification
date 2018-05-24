@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+presto		1
+forwarded	1
+vince		1
+message		1
+interested	1
+project		1
+trader		1
+already		1
+kevin		1

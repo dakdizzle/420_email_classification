@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+one		2
+wireless	1
+steve		1
+handhelds	1
+blackberry	1
+d		1
+dan		1

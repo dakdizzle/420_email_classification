@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+prospective	1
+long		1
+less		1
+mate		1
+more		1
+need		1
+don		1
+actually	1

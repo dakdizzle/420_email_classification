@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+up		1
+know		1
+hassle		1
+once		1
+heck		1
+later		1
+call		1
+miss		1
+m		1
+enron		1
+dumb		1
+questions	1
+maybe		1
+asking		1
+still		1
+doing		1
+ll		1
+here		1

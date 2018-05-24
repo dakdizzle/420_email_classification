@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+know		2
+find		2
+doing		2
+little		1
+paycheck	1
+dont		1
+minimum		1
+bare		1
+job		1
+stock		1
+suck		1
+few		1
+basically	1
+things		1
+keep		1
+trying		1
+rac		1
+out		1
+people		1
+want		1
+still		1
+arround		1
+trading		1
+here		1

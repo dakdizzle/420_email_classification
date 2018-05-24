@@ -1,0 +1,14 @@
+NumWords	15
+NumTerms	11
+
+cn		4
+recipients	2
+mevans		1
+mark		1
+enron		1
+legal		1
+ou		1
+na		1
+london		1
+evans		1
+eu		1

@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+nymex		2
+basis		2
+potential	1
+talk		1
+lock		1
+now		1
+keep		1
+risks		1
+posted		1
+kim		1
+structure	1
+right		1
+focusing	1
+physcial	1
+want		1
+cool		1
+very		1

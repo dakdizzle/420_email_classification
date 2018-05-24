@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+comx		1
+williams	1
+grace		1
+th		1
+filename	1
+actually	1
+amy		1
+enron		1
+rodriguez	1
+alternate	1
+origin		1
+attend		1
+date		1

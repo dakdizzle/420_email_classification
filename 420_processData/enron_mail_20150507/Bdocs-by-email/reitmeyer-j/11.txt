@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+steve		1
+today		1
+canada		1
+along		1
+general		1
+formal		1
+fundies		1
+discussion	1
+air		1
+rockies		1
+work		1
+jay		1
+week		1
+frank		1

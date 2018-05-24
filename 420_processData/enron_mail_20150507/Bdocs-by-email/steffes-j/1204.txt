@@ -1,0 +1,24 @@
+NumWords	36
+NumTerms	21
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+amr		2
+guillermo	2
+discuss		1
+ibrahim		1
+canovas		1
+looks		1
+shapiro		1
+jim		1
+good		1
+aibrahi		1
+gcanovas	1
+rshapiro	1
+agreement	1
+ensure		1
+ll		1
+richard		1

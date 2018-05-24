@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+through		2
+talk		1
+try		1
+procedures	1
+mails		1
+exist		1
+call		1
+way		1
+familiar	1
+sally		1
+finally		1
+old		1
+probably	1
+making		1

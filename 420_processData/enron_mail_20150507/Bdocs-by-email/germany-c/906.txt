@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+pg		2
+energy		1
+gulf		1
+cgas		1
+ees		1
+two		1
+contracts	1
+services	1
+show		1
+contract	1
+work		1
+agency		1
+agent		1
+col		1

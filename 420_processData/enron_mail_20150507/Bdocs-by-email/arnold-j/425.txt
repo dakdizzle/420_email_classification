@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+overnight	2
+downgraded	2
+others		1
+dont		1
+bankrupt	1
+credit		1
+talk		1
+orderly		1
+grade		1
+credits		1
+inv		1
+put		1
+swaps		1
+sort		1
+handle		1
+go		1
+contract	1
+below		1
+though		1
+bbb		1
+liquidation	1
+clause		1

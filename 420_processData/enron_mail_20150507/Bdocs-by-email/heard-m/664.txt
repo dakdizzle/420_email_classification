@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+anything	1
+sample		1
+know		1
+coal		1
+marie		1
+gtc		1
+need		1
+carol		1
+confirm		1
+here		1

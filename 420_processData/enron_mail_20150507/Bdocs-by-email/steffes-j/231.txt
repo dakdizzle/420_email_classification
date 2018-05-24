@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+cn		2
+costs		2
+care		1
+dwr		1
+term		1
+above		1
+jdasovic	1
+recipients	1
+na		1
+dasovich	1
+market		1
+jim		1
+long		1
+contracts	1
+enron		1
+jeff		1
+bonds		1
+stranded	1
+ou		1
+edison		1

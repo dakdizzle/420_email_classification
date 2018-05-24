@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+lkitchen	2
+cn		2
+kitchen		1
+power		1
+heads		1
+pstdon		1
+louise		1
+origination	1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+groups		1
+ou		1
+need		1

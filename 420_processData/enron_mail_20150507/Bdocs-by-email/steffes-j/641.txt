@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+filing		2
+cn		2
+jsteffe		2
+recipients	1
+filename	1
+na		1
+pstjean		1
+call		1
+privileged	1
+jim		1
+steffes		1
+non		1
+enron		1
+please		1
+understand	1
+eric		1
+james		1
+ou		1
+issue		1
+implications	1

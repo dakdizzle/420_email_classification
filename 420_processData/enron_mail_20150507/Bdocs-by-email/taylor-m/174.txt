@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+mark		2
+mails		2
+make		1
+approvals	1
+intended	1
+addressed	1
+getting		1
+two		1
+enron		1
+check		1
+please		1
+records		1
+correct		1
+eol		1
+sure		1
+taylor		1
+here		1

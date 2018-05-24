@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+written		1
+rick		1
+approve		1

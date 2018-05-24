@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+actions		1
+prudent		1
+problem		1
+circumstances	1
+given		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+home		1
+early		1
+around		1
+hey		1
+place		1
+go		1
+want		1
+going		1
+meet		1
+chris		1
+think		1

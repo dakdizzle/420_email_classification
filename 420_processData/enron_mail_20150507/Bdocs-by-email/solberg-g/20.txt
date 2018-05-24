@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+epe		2
+schedule	2
+john		1
+information	1
+model		1
+payback		1
+firm		1
+scrape		1
+thanks		1
+tags		1
+roger		1
+check		1
+come		1
+mw		1
+anderson	1
+more		1
+called		1
+inform		1
+doing		1

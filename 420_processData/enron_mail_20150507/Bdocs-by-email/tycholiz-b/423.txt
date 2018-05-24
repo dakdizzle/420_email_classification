@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+coming		1
+those		1
+lavo		1
+up		1
+believe		1
+quiet		1
+guys		1
+unclear		1
+whalley		1
+pretty		1
+dave		1
+chapter		1

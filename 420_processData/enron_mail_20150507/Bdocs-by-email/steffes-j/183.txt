@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+meeting		1
+right		1
+supporting	1
+now		1
+outside		1
+work		1
+need		1
+sale		1
+counsel		1
+through		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+maureen		1
+vince		1
+generate	1
+forecast	1

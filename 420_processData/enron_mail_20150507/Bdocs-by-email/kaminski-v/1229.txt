@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+vince		2
+friday		1
+houston		1
+internetm	1
+see		1
+site		1
+take		1
+forum		1
+polonia		1
+right		1
+google		1
+briancheck	1
+kaminski	1

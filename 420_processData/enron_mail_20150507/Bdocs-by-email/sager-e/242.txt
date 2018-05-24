@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+great		1
+incredible	1
+vm		1
+th		1
+week		1
+lunch		1
+next		1
+thanks		1

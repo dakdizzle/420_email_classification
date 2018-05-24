@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+interview	1
+send		1
+track		1
+buckley		1
+conducted	1
+karen		1
+trading		1

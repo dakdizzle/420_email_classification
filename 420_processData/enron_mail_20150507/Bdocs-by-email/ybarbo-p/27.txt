@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+fine		1
+th		1
+tuesday		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+drink		1
+troubles	1
+promise		1
+friday		1
+rio		1
+mean		1
+bob		1
+fact		1
+forget		1
+don		1
+take		1

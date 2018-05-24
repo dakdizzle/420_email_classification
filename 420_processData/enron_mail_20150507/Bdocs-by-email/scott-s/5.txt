@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+email		1
+ride		1
+down		1
+bit		1
+tracked		1
+disregard	1
+previous	1
+last		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+customer	1
+enron		1
+signed		1
+sara		1
+corp		1
+agreement	1
+here		1

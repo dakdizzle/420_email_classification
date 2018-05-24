@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+send		1
+counterparties	1
+tanya		1
+marie		1
+someone		1
+paper		1
+remember	1
+forwarded	1
+forward		1
+prefer		1
+jay		1
+don		1
+receive		1

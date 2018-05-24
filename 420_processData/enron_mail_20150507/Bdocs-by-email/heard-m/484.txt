@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+transaction	3
+replacement	1
+partial		1
+revised		1
+place		1
+copy		1
+know		1
+attached	1
+marie		1
+reflect		1
+existing	1
+anything	1
+clean		1
+questions	1
+need		1
+still		1
+new		1
+blacklined	1
+joe		1
+termination	1

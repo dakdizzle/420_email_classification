@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+mcconnell	1
+mark		1
+cell		1
+mcconnelltranswestern	1
+enron		1
+office		1
+company		1
+faxmark		1
+com		1
+pipeline	1

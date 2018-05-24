@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+out		1
+need		1
+help		1
+getting		1

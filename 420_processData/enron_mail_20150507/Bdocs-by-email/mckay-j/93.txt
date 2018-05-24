@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+cfa		1
+cheers		1
+thank		1
+venturing	1
+now		1
+takers		1
+path		1
+somebody	1
+down		1
+unclear		1
+repercussions	1
+need		1
+sponsor		1

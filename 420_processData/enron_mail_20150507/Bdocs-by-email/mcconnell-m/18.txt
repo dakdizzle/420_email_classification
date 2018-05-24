@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+comx		1
+watson		1
+filename	1
+privileged	1
+mcconnell	1
+kimberly	1
+psti		1
+non		1
+mx		1
+enron		1
+available	1
+mmcconne	1
+origin		1

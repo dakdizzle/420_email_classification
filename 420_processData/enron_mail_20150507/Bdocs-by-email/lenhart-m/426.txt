@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+hear		1
+first		1
+party		1
+garden		1
+know		1
+watch		1
+heights		1
+halloween	1
+r		1
+anything	1
+go		1
+going		1
+game		1
+think		1

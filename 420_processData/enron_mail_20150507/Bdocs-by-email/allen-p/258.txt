@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+close		1
+time		1
+hrs		1
+minutes		1
+guess		1

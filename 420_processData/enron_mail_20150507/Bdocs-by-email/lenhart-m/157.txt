@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+win		1
+team		1
+up		1
+break		1
+going		1
+read		1
+don		1

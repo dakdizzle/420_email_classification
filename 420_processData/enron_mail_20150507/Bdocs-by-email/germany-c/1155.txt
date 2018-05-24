@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+bunch		1
+whole		1
+tedious		1
+changes		1
+contract	1
+later		1
+call		1
+ll		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+meeting		1
+free		1
+time		1
+up		1
+well		1
+whoever		1
+good		1
+broker		1
+drinks		1
+goes		1
+went		1
+luis		1
+date		1
+boone		1

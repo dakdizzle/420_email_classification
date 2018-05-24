@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+lloyd		1
+review		1
+having		1

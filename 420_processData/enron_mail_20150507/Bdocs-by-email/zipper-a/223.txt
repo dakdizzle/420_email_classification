@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+dont		1
+bid		1
+swap		1
+vol		1

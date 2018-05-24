@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+cal		1
+collateral	1
+majure		1
+language	1
+force		1
+paso		1
+electric	1
+el		1
+terms		1
+negotiated	1
+deal		1
+facilitate	1

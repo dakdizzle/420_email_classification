@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+puc		1
+send		1
+copy		1
+possible	1
+greetings	1
+jeff		1
+best		1
+folks		1
+letter		1

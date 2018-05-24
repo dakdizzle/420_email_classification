@@ -1,0 +1,23 @@
+NumWords	27
+NumTerms	20
+
+enron		4
+mail		3
+mendel		2
+adams		2
+contacts	1
+theresa		1
+scott		1
+jackie		1
+further		1
+information	1
+know		1
+jacquelinep	1
+shelly		1
+comsusan	1
+comshelly	1
+sscott		1
+staab		1
+need		1
+comlet		1
+cig		1

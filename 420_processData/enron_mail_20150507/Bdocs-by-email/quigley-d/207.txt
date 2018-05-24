@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+table		1
+revised		1
+know		1
+eric		1
+questionsdutch	1
+here		1

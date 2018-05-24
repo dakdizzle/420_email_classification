@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+send		2
+hear		1
+email		1
+revised		1
+ok		1
+sheet		1
+term		1
+know		1
+course		1
+won		1
+approvals	1
+management	1
+anything	1
+jim		1
+khyatt		1
+m		1
+please		1
+subject		1
+spoke		1
+prefer		1
+till		1
+panda		1
+adams		1
+ll		1

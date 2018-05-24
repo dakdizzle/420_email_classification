@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+cn		2
+enron		2
+status		1
+mark		1
+events		1
+plan		1
+family		1
+employees	1
+jelbert		1
+report		1
+friend		1
+recipients	1
+na		1
+elbertson	1
+janette		1
+recommend	1
+please		1
+shira		1
+forward		1
+ou		1
+give		1

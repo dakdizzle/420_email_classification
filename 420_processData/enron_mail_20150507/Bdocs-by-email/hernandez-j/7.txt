@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+tonight		2
+number		2
+home		1
+send		1
+cell		1
+mom		1
+flying		1
+again		1
+pager		1
+call		1
+ll		1
+laura		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+stuff		1
+up		1
+build		1
+money		1
+library		1
+layout		1
+nice		1
+garage		1
+one		1
+again		1
+cool		1
+bigger		1
+maybe		1
+d		1
+pretty		1

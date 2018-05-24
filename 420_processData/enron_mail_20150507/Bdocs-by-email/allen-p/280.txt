@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+meeting		1
+yes		1
+attend		1

@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+privileged	2
+non		2
+changed		1
+pstalso		1
+text		1
+tradeable	1
+jshankm		1
+jdasovic	1
+obligation	1
+plain		1
+unless		1
+filename	1
+folder		1
+something	1
+jx		1
+asciix		1
+content		1
+sent		1
+type		1
+origin		1
+itemsx		1
+shankman	1
+charset		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+email		2
+send		1
+thir		1
+want		1
+need		1
+nature		1
+business	1
+address		1
+discussing	1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+mckeogh		1
+please		1
+sara		1
+patricia	1
+mr		1
+print		1
+hi		1
+thanks		1

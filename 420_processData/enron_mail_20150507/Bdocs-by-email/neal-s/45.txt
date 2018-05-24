@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+plan		1
+floor		1
+revised		1
+gas		1

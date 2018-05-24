@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+phillip		2
+heard		1
+runs		1
+smud		1
+know		1
+guys		1
+west		1
+desk		1
+etc		1
+casually	1
+longer		1
+kim		1
+grigs		1
+tell		1
+charge		1
+allen		1
+deal		1
+big		1

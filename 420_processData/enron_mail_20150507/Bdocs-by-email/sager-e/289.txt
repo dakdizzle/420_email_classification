@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+per		1
+talk		1
+lets		1
+vm		1
+chanc		1

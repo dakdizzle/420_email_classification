@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+together	1
+begin		1
+meeting		1
+today		1
+fyi		1
+trying		1
+put		1
+touch		1
+lllg		1
+alice		1
+discussions	1
+sager		1
+thankselizabeth	1

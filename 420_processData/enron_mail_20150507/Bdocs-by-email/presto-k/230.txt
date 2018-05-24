@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+hourly		2
+gtc		2
+option		1
+non		1
+deliver		1
+need		1
+sources		1
+border		1
+allow		1

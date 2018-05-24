@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+ees		2
+talk		1
+chris		1
+sure		1
+still		1
+shireman	1

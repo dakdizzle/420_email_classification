@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+ees		3
+enron		2
+tpa		2
+portions	1
+energy		1
+entity		1
+know		1
+initialing	1
+form		1
+currently	1
+wholesale	1
+preparing	1
+rolling		1
+issues		1
+shouldn		1
+services	1
+jeff		1
+agreements	1
+several		1
+another		1
+shane		1
+lakho		1
+standard	1

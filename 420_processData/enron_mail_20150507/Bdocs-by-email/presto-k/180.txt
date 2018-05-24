@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+go		2
+pm		1
+staff		1
+work		1
+mtg		1
+tonight		1

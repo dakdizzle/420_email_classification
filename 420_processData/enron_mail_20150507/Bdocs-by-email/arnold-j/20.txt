@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+hbs		2
+edu		2
+epao		2
+mba		2
+pao		1
+bid		1
+respond		1
+per		1
+john		1
+share		1
+extra		1
+eva		1
+crap		1
+creditwhat	1
+pmplease	1
+fill		1
+enron		1
+arnold		1
+subject		1
+psdon		1
+com		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+day		1
+one		1
+deal		1
+extend		1

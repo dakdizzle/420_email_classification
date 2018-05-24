@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+prioritize	1
+talk		1
+thursday	1
+expenditures	1
+need		1
+fine		1
+proposed	1

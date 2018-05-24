@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+email		1
+send		1
+risi		1
+contact		1
+monika		1

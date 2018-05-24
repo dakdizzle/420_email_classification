@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+clearing	1
+prices		1
+hourly		1
+http		1
+show		1
+ne		1
+bin		1
+www		1
+cgi		1
+iso		1
+com		1

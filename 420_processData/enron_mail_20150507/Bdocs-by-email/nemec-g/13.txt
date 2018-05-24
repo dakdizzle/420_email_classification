@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+wyoming		1
+purchase	1
+gas		1
+fyi		1
+kennedy		1
+extension	1

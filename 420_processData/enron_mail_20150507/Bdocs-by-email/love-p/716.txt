@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+thanks		2
+pl		1
+near		1
+working		1
+future		1
+paths		1
+help		1
+cross		1
+again		1
+pleasure	1
+year		1
+last		1
+sure		1

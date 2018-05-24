@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+ve		1
+goodell		1
+scott		1
+id		1
+fixed		1
+work		1
+password	1
+using		1
+thanks		1
+call		1
+doesn		1
+mine		1

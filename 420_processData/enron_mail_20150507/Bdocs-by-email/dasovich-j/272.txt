@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+pastures	1
+greener		1
+tell		1
+left		1
+fawcett		1

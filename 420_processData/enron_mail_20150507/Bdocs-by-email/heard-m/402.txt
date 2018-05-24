@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+status		1
+heard		1
+fax		1
+legal		1
+marie		1
+phone		1
+thanks		1
+dan		1
+america		1
+mariemarie	1
+forwarded	1
+specialistenron	1
+enron		1
+north		1
+documents	1
+corp		1
+heardsenior	1
+execution	1
+checking	1
+hi		1
+com		1

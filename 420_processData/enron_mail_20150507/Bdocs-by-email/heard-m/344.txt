@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+first		2
+sign		2
+conversation	1
+send		1
+sayre		1
+originals	1
+per		1
+counterparty	1
+attached	1
+marie		1
+draft		1
+thanks		1
+call		1
+master		1
+two		1
+questions	1
+changes		1
+forward		1
+signature	1
+max		1
+agreement	1
+acceptable	1
+amendment	1
+frank		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+feeling		1
+up		1
+personal	1
+today		1
+night		1
+assistant	1
+work		1
+don		1
+saturday	1
+worry		1
+better		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+well		1
+quite		1
+steve		1
+know		1
+murray		1

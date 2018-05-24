@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+situation	1
+lawyer		1
+send		1
+specific	1
+sara		1
+contract	1
+letter		1
+tailored	1
+give		1
+call		1
+termination	1

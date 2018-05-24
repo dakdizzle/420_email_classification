@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+reliant		2
+inc		1
+energy		1
+info		1
+email		1
+fax		1
+copy		1
+analyst		1
+phone		1
+kirkpatrick	1
+m		1
+services	1
+skirkpatrick	1
+interoffice	1
+contract	1
+shawn		1
+mail		1
+putting		1
+agreement	1
+com		1
+here		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+received	1
+yes		1
+last		1
+week		1

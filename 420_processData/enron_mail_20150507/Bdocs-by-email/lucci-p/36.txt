@@ -1,0 +1,21 @@
+NumWords	37
+NumTerms	18
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+jreitme		1
+credit		1
+jason		1
+williams	1
+moon		1
+jwilli		1
+reitmeyer	1
+tycholiz	1
+eric		1
+barry		1
+btychol		1
+emoon		1
+jay		1

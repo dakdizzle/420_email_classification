@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+good		1
+problemo	1
+thursday	1
+mid		1
+luck		1
+transfer	1
+yesterday	1
+over		1
+ll		1

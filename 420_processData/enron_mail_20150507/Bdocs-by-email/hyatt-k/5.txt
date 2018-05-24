@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+morning		2
+sempra		1
+downed		1
+wed		1
+lost		1
+meet		1
+sunday		1
+ve		1
+nice		1
+ducks		1
+dinner		1
+go		1
+more		1
+last		1
+week		1
+next		1

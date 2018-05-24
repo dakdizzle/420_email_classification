@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+credit		2
+now		2
+market		2
+spread		2
+simply		1
+physical	1
+huge		1
+short		1
+sj		1
+cover		1
+two		1
+right		1
+cents		1
+costing		1
+volumes		1
+buy		1
+last		1
+cost		1
+week		1
+love		1

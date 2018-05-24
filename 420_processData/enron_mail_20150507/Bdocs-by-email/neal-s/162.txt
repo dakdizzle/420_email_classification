@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kids		1
+day		1
+football	1
+games		1
+invitation	1
+unable		1
+thanks		1
+play		1

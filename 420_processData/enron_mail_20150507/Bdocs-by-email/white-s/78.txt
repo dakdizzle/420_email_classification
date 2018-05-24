@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+employees	1
+communication	1
+stacey		1
+risk		1
+portland	1
+know		1
+tim		1
+spots		1
+taken		1
+blair		1
+kit		1
+vm		1
+find		1
+designated	1
+stay		1
+list		1
+being		1
+estate		1
+according	1
+given		1

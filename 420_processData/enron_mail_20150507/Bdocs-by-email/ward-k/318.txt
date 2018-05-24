@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+care		1
+know		1
+came		1
+confirms	1
+desk		1
+generated	1
+thanks		1
+anything	1
+kim		1
+last		1
+week		1
+sure		1
+took		1
+ann		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+tim		1
+miller		1

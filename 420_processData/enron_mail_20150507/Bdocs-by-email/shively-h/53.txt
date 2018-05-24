@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+coming		1
+update		1
+keep		1
+reports		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+monday		1
+mark		1
+down		1
+knippa		1
+compression	1
+enron		1
+servicestrack	1
+morgan		1

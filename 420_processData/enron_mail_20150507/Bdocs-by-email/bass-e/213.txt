@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+make		1
+good		1
+ok		1
+clock		1
+sat		1
+reservations	1
+sounds		1

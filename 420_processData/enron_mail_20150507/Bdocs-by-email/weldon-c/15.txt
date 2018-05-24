@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+rain		2
+hear		1
+buddy		1
+ok		1
+assume		1
+know		1
+glad		1
+better		1
+getting		1
+good		1
+come		1
+ago		1
+weekend		1
+need		1
+weeks		1
+doing		1
+still		1
+tonight		1
+given		1
+next		1

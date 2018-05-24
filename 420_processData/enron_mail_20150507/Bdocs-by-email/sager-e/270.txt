@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+cn		2
+know		1
+recipients	1
+na		1
+help		1
+everyday	1
+out		1
+wright		1
+message		1
+enron		1
+alice		1
+ou		1
+access		1
+don		1
+figure		1
+awright		1

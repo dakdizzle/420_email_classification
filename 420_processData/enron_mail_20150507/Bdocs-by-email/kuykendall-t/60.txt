@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+something	1
+fun		1
+pencil		1
+up		1
+know		1
+comes		1
+port		1
+th		1
+same		1
+tentatively	1
+ll		1

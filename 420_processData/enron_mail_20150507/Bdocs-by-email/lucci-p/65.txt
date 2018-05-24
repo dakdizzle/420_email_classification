@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+wondering	1
+picture		1
+funny		1
+hell		1
+up		1
+ging		1
+know		1
+saw		1
+now		1
+thought		1
+original	1
+bs		1

@@ -1,0 +1,21 @@
+NumWords	23
+NumTerms	18
+
+ect		3
+hou		2
+sanders		2
+richard		2
+action		1
+ask		1
+pg		1
+tribolet	1
+michael		1
+forwarded	1
+court		1
+bankruptcy	1
+enron		1
+subject		1
+mike		1
+before		1
+smith		1
+enronxgate	1

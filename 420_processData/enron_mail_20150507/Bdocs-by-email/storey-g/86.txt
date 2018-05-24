@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+email		1
+maini		1
+three		1
+zws		1
+lost		1
+budgets		1
+cap		1

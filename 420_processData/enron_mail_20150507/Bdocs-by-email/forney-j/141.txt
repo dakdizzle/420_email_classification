@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+ercot		1
+interview	1
+sempra		1
+california	1
+working		1
+spoken		1
+scheduling	1
+jforney		1
+additionally	1
+structuring	1
+background	1
+ruben		1
+currently	1
+worked		1
+market		1
+applicant	1
+morning		1
+retail		1
+focusing	1
+recommend	1
+px		1
+educational	1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+lisa		1
+thanx		1
+powerful	1
+pretty		1

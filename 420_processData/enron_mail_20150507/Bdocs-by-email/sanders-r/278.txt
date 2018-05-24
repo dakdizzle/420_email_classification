@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+status		1
+pca		1
+melanie		1
+check		1
+report		1
+bankrupty	1
+gray		1
+call		1
+expecting	1

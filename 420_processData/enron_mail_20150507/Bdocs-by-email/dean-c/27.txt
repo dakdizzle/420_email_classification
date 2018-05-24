@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+apps		1
+ercot		1
+xls		1
+laarregistrationform	1
+http		1
+part		1
+mkt		1
+www		1
+com		1

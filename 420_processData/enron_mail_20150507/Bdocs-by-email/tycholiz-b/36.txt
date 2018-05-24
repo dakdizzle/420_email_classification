@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+etc		1
+portfolio	1
+pc		1
+bt		1
+database	1
+utility		1
+mtm		1
+usage		1
+applied		1
+access		1
+using		1
+still		1
+think		1

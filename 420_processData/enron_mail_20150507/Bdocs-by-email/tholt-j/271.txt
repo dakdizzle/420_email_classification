@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+chistmas	1
+back		1
+chef		1
+bring		1
+cajun		1

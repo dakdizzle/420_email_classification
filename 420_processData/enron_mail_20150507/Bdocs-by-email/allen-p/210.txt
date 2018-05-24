@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+send		1
+list		1
+completed	1
+jeanie		1
+review		1
+phillip		1
+performance	1
+thanks		1

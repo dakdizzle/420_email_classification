@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+derrick		2
+cn		2
+jr		2
+james		2
+early		1
+coordindate	1
+thank		1
+gentlemen	1
+pstsharon	1
+jderric		1
+schedules	1
+recipients	1
+june		1
+filename	1
+na		1
+jim		1
+two		1
+enron		1
+please		1
+harris		1
+ou		1
+stephanie	1
+lunch		1

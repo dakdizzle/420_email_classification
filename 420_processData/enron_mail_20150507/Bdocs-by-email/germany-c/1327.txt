@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+going		1
+told		1
+judy		1

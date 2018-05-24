@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+time		1
+wouldn		1
+thankslouise	1
+seeing		1
+still		1
+sofa		1
+give		1
+mind		1
+over		1
+pop		1
+ll		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+weison		1
+susan		1
+think		1
+over		1
+thanks		1

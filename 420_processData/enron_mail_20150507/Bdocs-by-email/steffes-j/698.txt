@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+info		1
+company		1
+major		1
+thanks		1
+jim		1
+way		1
+each		1
+good		1
+analysis	1
+list		1
+bryan		1
+sort		1
+best		1
+section		1
+work		1
+deal		1
+leverage	1
+think		1
+add		1

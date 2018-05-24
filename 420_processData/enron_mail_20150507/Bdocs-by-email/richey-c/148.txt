@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+monday		1
+table		1
+phone		1
+help		1
+getting		1
+out		1
+room		1
+delivered	1
+show		1
+want		1
+night		1
+dining		1
+e		1
+before		1
+need		1
+scooby		1
+sofa		1
+move		1
+sometime	1

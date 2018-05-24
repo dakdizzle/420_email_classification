@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+make		1
+http		1
+household	1
+www		1
+see		1
+looks		1
+tools		1
+chinchart	1
+girl		1
+chinacalendar	1
+pain		1
+babynet		1
+htm		1
+com		1
+ass		1

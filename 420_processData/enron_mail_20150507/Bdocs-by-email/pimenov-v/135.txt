@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+spasibo		1
+lapka		1
+liubliuchmok	1
+tebia		1
+ochen		1

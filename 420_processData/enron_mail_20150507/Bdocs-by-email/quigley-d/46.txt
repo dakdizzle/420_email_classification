@@ -1,0 +1,16 @@
+NumWords	22
+NumTerms	13
+
+enron		3
+corp		3
+com		3
+http		2
+framework	2
+default		2
+asp		1
+enaresearch	1
+gasfundy	1
+gas		1
+asphttp		1
+research	1
+gasmsgboard	1

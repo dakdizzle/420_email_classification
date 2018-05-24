@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+unify		2
+id		1
+know		1
+estate		1
+calling		1
+yes		1
+access		1
+vaugly		1
+password	1
+thanks		1
+remember	1

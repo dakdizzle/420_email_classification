@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+kids		1
+kindness	1
+interested	1
+beanie		1
+orphanage	1
+children	1
+journal		1
+thanks		1
+pictures	1
+office		1
+babies		1
+again		1
+kind		1
+beanies		1
+memorialized	1
+gift		1

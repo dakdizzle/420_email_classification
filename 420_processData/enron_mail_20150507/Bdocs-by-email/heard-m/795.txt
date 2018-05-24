@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+forms		1
+credit		1
+speak		1
+until		1
+know		1
+sending		1
+marie		1
+netting		1
+thanks		1
+master		1
+hold		1
+soon		1
+andrew		1
+please		1
+go		1
+allegheny	1
+ahead		1
+agreement	1

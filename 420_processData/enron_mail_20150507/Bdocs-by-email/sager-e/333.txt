@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+ect		2
+elizabeth	2
+pm		1
+pstapproved	1
+esager		1
+know		1
+christian	1
+jan		1
+sagerx		1
+filename	1
+requested	1
+privileged	1
+hou		1
+non		1
+enron		1
+another		1
+palm		1
+approval	1
+subject		1
+king		1
+sager		1
+pilot		1
+enronxgate	1

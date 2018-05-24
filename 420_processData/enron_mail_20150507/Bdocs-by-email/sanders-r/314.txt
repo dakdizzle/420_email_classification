@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+sanders		2
+cn		2
+enron		2
+richard		2
+send		1
+fax		1
+copy		1
+working		1
+recipients	1
+pac		1
+filename	1
+na		1
+privileged	1
+rsander		1
+psti		1
+non		1
+invitation	1
+ou		1
+submit		1
+corp		1

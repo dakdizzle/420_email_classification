@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+offer		3
+out		1
+drafted		1
+extending	1
+employee	1
+employment	1
+please		1
+destroy		1
+contract	1
+harry		1

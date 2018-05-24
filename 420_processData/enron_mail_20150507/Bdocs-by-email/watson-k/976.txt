@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+board		1
+coming		1
+meeting		1
+day		1
+evening		1
+vacation	1
+planning	1
+thanks		1

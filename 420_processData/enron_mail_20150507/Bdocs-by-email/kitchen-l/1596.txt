@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+europe		1
+enron		1
+administration	1
+still		1
+liquidation	1

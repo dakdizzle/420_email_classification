@@ -1,0 +1,25 @@
+NumWords	28
+NumTerms	22
+
+blackberry	2
+hayslett	2
+privileged	2
+rhaysle		2
+sent		2
+non		2
+net		1
+wireless	1
+handheld	1
+www		1
+fine		1
+filename	1
+folder		1
+transfer	1
+pstsounds	1
+content		1
+encoding	1
+origin		1
+itemsx		1
+rx		1
+rod		1
+bitx		1

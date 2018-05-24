@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+blackberry	2
+notice		1
+sent		1
+net		1
+analysis	1
+consider	1
+wireless	1
+handheld	1
+part		1
+www		1
+imbalance	1
+market		1

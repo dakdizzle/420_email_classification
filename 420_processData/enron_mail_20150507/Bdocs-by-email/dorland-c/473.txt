@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+tire		2
+calgary		2
+wheel		2
+moving		1
+lexus		1
+time		1
+dealer		1
+find		1
+houston		1
+chris		1
+help		1
+wondering	1
+something	1
+al		1
+recommend	1
+winter		1
+work		1
+thanx		1
+package		1
+dorland		1

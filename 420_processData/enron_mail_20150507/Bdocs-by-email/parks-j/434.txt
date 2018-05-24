@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+map		1
+http		1
+go		1
+find		1
+compaqhoustonmarathon	1
+site		1
+com		1

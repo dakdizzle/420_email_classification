@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+guaranty	2
+energy		1
+connection	1
+cindy		1
+attached	1
+marie		1
+ready		1
+isda		1
+arrange		1
+form		1
+pursue		1
+thanks		1
+call		1
+master		1
+enron		1
+please		1
+executed	1
+pickup		1
+certificate	1
+corporation	1
+corp		1
+agreement	1
+incumbency	1
+ll		1

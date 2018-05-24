@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+cn		2
+monday		1
+recipients	1
+watson		1
+slip		1
+na		1
+wish		1
+something	1
+kimberly	1
+kwatson		1
+enron		1
+interesting	1
+discussed	1
+yes		1
+ou		1
+isn		1
+data		1
+shelley		1
+request		1

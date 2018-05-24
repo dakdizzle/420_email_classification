@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+good		1
+confirmation	1
+thank		1
+very		1
+news		1

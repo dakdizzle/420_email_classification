@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+fred		2
+way		1
+email		1
+nice		1
+reached		1
+tuesday		1

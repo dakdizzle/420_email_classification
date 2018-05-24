@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+want		2
+handle		1
+stab		1
+take		1

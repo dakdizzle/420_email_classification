@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jill		1
+bright		1
+arrington	1
+ahead		1
+future		1

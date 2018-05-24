@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+agenda		1
+know		1
+depends		1
+going		1
+b		1
+don		1
+planning	1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+capacity	1
+brian		1
+funds		1
+one		1
+d		1
+proceed		1
+rest		1
+paa		1
+dan		1

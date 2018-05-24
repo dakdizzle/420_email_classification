@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+remaining	1
+many		1
+days		1
+tell		1
+tj		1
+king		1
+hours		1

@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+com		3
+aol		1
+dquigle		1
+john		1
+comx		1
+yahoo		1
+bwdunlavy	1
+dx		1
+riches		1
+filename	1
+privileged	1
+othon		1
+psti		1
+non		1
+msn		1
+jramirez	1
+origin		1
+quigley		1
+rs		1

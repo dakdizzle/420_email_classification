@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+way		1
+suprised	1
+wouldn		1
+show		1
+weekend		1
+guess		1

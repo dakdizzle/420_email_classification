@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+good		1
+incremental	1
+growth		1
+well		1
+total		1
+looks		1
+highlight	1
+important	1

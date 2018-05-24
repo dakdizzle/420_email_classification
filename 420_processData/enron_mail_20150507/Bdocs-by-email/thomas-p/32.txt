@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+exterminator	1
+hey		1
+ok		1
+sat		1
+rescheduled	1
+babei		1
+rememberloveme	1
+help		1

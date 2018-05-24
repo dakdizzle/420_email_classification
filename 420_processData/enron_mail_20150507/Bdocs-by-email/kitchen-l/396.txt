@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+ees		2
+little		1
+ones		1
+ena		1
+muller		1
+left		1
+load		1
+out		1
+hold		1
+retail		1
+really		1
+hesitant	1
+numbers		1
+spoke		1
+thought		1
+concerned	1
+carve		1
+irrelevant	1
+providing	1
+still		1
+very		1

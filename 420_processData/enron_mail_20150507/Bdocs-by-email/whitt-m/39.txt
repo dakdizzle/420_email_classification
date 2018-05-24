@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+mwhitt		2
+cn		2
+mark		1
+pstone		1
+time		1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+ou		1
+whitt		1
+correct		1
+last		1
+think		1

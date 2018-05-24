@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+jane		1
+meeting		1
+up		1
+well		1
+true		1
+attorneys	1
+peter		1
+guess		1
+such		1
+nice		1
+packages	1
+mary		1
+eric		1
+stores		1
+nell		1
+doing		1
+pretty		1
+given		1
+here		1

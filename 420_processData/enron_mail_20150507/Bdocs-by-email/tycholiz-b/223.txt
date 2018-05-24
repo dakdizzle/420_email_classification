@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+wrong		1
+veronica	1
+time		1
+finds		1
+address		1
+bt		1
+think		1
+trust		1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+rooms		2
+make		1
+delaineyrob	1
+beds		1
+exp		1
+john		1
+milnthorpbarry	1
+lavoratoamex	1
+one		1
+thanksjohn	1
+sure		1
+dave		1
+tycholizbook	1

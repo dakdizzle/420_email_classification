@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+vince		1
+weighted	1
+transactions	1
+breakdown	1
+tom		1
+commodity	1
+volume		1

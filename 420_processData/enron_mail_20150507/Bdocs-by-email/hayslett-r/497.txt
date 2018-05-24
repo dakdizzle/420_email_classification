@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+quarter		1
+much		1
+look		1
+handle		1
+numbers		1
+fall		1
+th		1
+fast		1
+high		1
+better		1

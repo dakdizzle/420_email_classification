@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+bummer		1
+teddy		1
+mean		1
+pick		1
+oakland		1
+didn		1

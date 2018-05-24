@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+leaving		1
+know		1
+response	1
+left		1
+sounds		1
+losing		1
+concern		1
+people		1
+rick		1
+cited		1
+part		1
+more		1
+reasons		1
+here		1

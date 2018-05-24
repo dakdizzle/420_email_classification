@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+first		1
+make		1
+reviewed	1
+know		1
+jason		1
+draft		1
+susan		1
+phillip		1
+leaves		1
+monique		1
+reviews		1
+wolfe		1
+something	1
+midyear		1
+matt		1
+want		1
+appropriately	1
+pass		1
+mike		1
+smith		1
+sure		1
+here		1

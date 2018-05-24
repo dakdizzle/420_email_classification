@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+keeps		1
+wedding		1
+spend		1
+beans		1
+plans		1
+rock		1
+miami		1
+each		1
+spilled		1
+grand		1
+touch		1
+called		1
+went		1
+move		1
+think		1
+over		1
+cayman		1

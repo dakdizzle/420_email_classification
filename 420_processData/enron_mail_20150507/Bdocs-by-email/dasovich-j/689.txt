@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+morning		1
+m		1
+jesus		1
+sunday		1
+meant		1
+acid		1

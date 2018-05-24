@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+enron		1
+recipients	1
+ou		1
+sager		1
+clair		1
+na		1
+cstclai		1
+elizabeth	1
+carol		1
+st		1

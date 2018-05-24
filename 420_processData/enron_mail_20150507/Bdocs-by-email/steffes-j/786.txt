@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+cn		2
+jsteffe		2
+playing		1
+california	1
+games		1
+recipients	1
+filename	1
+na		1
+market		1
+privileged	1
+jim		1
+steffes		1
+pstfyi		1
+non		1
+enron		1
+again		1
+james		1
+ou		1

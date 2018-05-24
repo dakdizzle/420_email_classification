@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+coming		1
+plan		1
+hey		1
+time		1
+nipsco		1
+visit		1
+up		1
+talk		1
+guys		1
+call		1
+thinking	1
+m		1
+please		1
+week		1
+fellas		1
+handsome	1
+next		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ipayit		1
+unpaid		1
+mistaken	1
+invoice		1
+impossible	1
+before		1
+logged		1
+tom		1
+never		1

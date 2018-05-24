@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+out		1
+send		1
+pls		1
+thanks		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+fun		1
+those		1
+alot		1
+rodrig		1
+pina		1
+once		1
+names		1
+spread		1
+drink		1
+hope		1
+coladas		1
+mail		1
+week		1
+over		1

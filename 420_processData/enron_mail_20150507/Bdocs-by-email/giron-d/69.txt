@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+products	1
+sent		1
+one		1
+dg		1
+east		1

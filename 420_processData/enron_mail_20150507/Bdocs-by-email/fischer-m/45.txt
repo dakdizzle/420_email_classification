@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+leesa		1
+fischer		1
+mary		1
+extra		1
+large		1
+shirt		1

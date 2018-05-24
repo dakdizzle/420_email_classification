@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+name		1
+happy		1
+use		1
+yes		1

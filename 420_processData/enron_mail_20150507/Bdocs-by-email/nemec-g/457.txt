@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+attached	2
+agreement	2
+exhibit		1
+mccook		1
+up		1
+scheduling	1
+draft		1
+review		1
+etc		1
+management	1
+services	1
+please		1
+still		1
+cleaning	1

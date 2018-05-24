@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+place		1
+yeah		1
+baby		1
+gonna		1
+rock		1

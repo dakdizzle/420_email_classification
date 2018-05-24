@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+andy		2
+discuss		1
+even		1
+dev		1
+world		1
+less		1
+agree		1
+rick		1
+ben		1
+corp		1
+accessible	1
+expanding	1
+given		1
+ll		1

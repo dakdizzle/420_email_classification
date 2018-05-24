@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+love		2
+stock		1
+listened	1
+glad		1
+today		1
+bet		1
+tracy		1
+really		1
+enron		1
+buy		1
+weekend		1
+considering	1
+wait		1

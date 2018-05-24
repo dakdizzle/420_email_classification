@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+list		2
+files		2
+netco		2
+talk		1
+thankskam	1
+tomorrow	1
+attached	1
+louise		1
+need		1
+traders		1
+copied		1
+curves		1

@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+call		2
+thank		1
+expect		1
+number		1

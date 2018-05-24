@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+dynegy		1
+shaw		1
+job		1
+evening		1
+up		1
+heads		1
+speak		1
+jonathon	1
+money		1
+asked		1
+speaking	1
+soon		1
+confirmed	1
+l		1
+less		1
+jonathan	1
+length		1
+eric		1
+spoke		1
+reason		1
+think		1

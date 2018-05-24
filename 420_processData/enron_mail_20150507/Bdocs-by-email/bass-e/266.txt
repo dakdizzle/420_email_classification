@@ -1,0 +1,20 @@
+NumWords	36
+NumTerms	17
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+molsen		1
+hull		1
+farmer		1
+bhull		1
+weldon		1
+michael		1
+olsen		1
+daren		1
+dfarmer		1
+bryan		1
+vweldon		1
+charles		1

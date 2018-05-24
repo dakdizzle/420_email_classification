@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+hey		1
+k		1
+maria		1
+ring		1
+chance		1
+sucks		1
+database	1
+mat		1
+give		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+esse		1
+building	1
+sempra		1
+metals		1
+buy		1
+marktodd	1
+told		1
+business	1
+wanting		1
+call		1

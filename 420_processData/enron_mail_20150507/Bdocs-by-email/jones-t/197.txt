@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+one		2
+joke		1
+good		1

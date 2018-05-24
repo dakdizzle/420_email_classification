@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+call		2
+returned	1
+visit		1
+know		1
+today		1
+fyi		1
+left		1
+tried		1
+michelle	1
+missed		1
+mail		1
+chance		1
+ll		1
+voice		1

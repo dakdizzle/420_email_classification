@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+between		1
+catch		1
+thankslouise	1
+friday		1
+meet		1
+priorities	1
+kim		1
+establish	1
+issues		1
+control		1
+thought		1
+dave		1
+deal		1
+product		1

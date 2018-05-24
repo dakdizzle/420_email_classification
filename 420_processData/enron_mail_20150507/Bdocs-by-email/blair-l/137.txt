@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+lynn		2
+lblair		2
+cn		2
+ricki		1
+time		1
+quite		1
+thank		1
+pstgary		1
+blair		1
+recipients	1
+guess		1
+filename	1
+na		1
+help		1
+thanks		1
+privileged	1
+non		1
+enron		1
+ou		1
+having		1

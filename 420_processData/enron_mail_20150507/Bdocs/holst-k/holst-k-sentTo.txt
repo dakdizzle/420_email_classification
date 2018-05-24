@@ -1,0 +1,26 @@
+NumWords	34
+NumTerms	23
+
+sahamrx@yahoo.com	3
+karen.buckley@enron.com	3
+brent.dornier@enron.com	3
+peter.sherk@morganstanley.com	2
+andrew.fairley@enron.com	2
+mike.grigsby@enron.com	2
+john.lavorato@enron.com	2
+k..allen@enron.com	2
+tlbrassard@aol.com	1
+don.black@enron.com	1
+jeff.richter@enron.com	1
+andrewhescock@hotmail.com	1
+zachary.mccarroll@enron.com	1
+margaret.daffin@enron.com	1
+james.bruce@enron.com	1
+jason.wolfe@enron.com	1
+tracy@texexenergy.com	1
+max.sonnonstine@enron.com	1
+j.kaminski@enron.com	1
+ron.slimp@enron.com	1
+george.arvanitis@mirant.com	1
+geoff.storey@enron.com	1
+tim.heizenrader@enron.com	1

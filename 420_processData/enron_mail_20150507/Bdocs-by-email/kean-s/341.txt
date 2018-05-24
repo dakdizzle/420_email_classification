@@ -1,0 +1,23 @@
+NumWords	29
+NumTerms	20
+
+cn		5
+recipients	2
+na		2
+enron		2
+ou		2
+still		2
+confusing	1
+suggestions	1
+hannon		1
+attached	1
+see		1
+kevin		1
+michael		1
+mterras		1
+notesaddr	1
+questions	1
+made		1
+e		1
+terraso		1
+couple		1

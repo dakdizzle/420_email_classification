@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+conflict	1
+powers		1
+report		1
+auditor		1
+anderson	1
+read		1
+isnt		1
+unbelieveable	1

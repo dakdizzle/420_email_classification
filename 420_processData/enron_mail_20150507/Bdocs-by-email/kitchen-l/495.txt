@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+copied		2
+email		1
+done		1
+shouldn		1
+list		1
+obviously	1
+stacey		1
+wynne		1
+white		1
+rita		1
+mistake		1

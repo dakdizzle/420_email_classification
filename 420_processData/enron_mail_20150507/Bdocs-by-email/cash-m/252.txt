@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+please		1
+mhc		1
+print		1
+twanda		1
+thanks		1

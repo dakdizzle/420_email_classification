@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lying		1
+night		1
+flew		1
+last		1
+here		1

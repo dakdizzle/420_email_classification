@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+final		1
+slides		1
+here		1

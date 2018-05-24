@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+cgi		2
+ebayisapi	1
+ebay		1
+http		1
+price		1
+aw		1
+plantation	1
+tells		1
+seen		1
+look		1
+viewitem	1
+before		1
+dll		1
+originalform	1
+item		1
+com		1

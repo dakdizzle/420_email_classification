@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+revenue		2
+out		1
+tempted		1
+decrease	1
+m		1
+increase	1
+eps		1
+ad		1
+compare		1
+responding	1
+burning		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+up		1
+woke		1
+sorry		1
+late		1

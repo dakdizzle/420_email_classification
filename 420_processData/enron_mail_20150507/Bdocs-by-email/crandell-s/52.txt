@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+others		1
+few		1
+bpa		1
+pacificorp	1
+puget		1

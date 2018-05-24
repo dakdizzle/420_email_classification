@@ -1,0 +1,20 @@
+NumWords	27
+NumTerms	17
+
+ect		5
+hou		3
+sanders		2
+enron		2
+sap		2
+richard		2
+tow		1
+delegation	1
+guinn		1
+security	1
+fw		1
+eva		1
+forwarded	1
+linda		1
+subject		1
+going		1
+enronxgate	1

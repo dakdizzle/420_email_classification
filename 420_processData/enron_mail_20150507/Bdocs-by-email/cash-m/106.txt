@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+gsp		2
+apart		1
+entity		1
+know		1
+unemployment	1
+pulling		1
+paying		1
+anything	1
+strange		1
+transactions	1
+enron		1
+fran		1
+rates		1
+separate	1
+data		1
+mind		1

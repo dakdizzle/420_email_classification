@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+shout		1
+thanx		1
+later		1
+give		1
+ll		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+card		1
+reply		1
+desk		1
+earlier		1
+chris		1
+message		1
+enron		1
+received	1
+go		1
+garage		1
+change		1
+center		1
+level		1
+replied		1
+smith		1
+move		1
+dorland		1
+parking		1

@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+product		3
+energy		2
+counterparties	1
+thank		1
+gas		1
+pg		1
+restricted	1
+occidental	1
+appreciate	1
+marketing	1
+txu		1
+manage		1
+notify		1
+list		1
+lenhart		1
+matt		1
+added		1
+need		1
+stephanie	1
+access		1
+eol		1
+trading		1
+add		1
+topock		1

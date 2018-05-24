@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+join		1
+front		1
+eric		1
+drinks		1
+today		1
+work		1
+porch		1
+heading		1
+over		1

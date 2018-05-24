@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+master		1
+calling		1
+guess		1
+stop		1
+dorland		1

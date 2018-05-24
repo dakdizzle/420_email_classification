@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+erroneously	1
+floor		1
+fax		1
+replace		1
+machine		1
+lance		1
+rd		1
+took		1

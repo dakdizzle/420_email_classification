@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+monday		1
+revised		1
+time		1
+up		1
+late		1
+tuesday		1
+thanks		1
+ron		1
+kim		1
+hope		1
+telephone	1
+go		1
+contract	1
+kirk		1
+set		1
+tonight		1
+hi		1
+over		1

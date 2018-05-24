@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+floor		1
+up		1
+time		1
+back		1
+drinks		1
+need		1
+th		1
+warm		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+garcia		1
+paul		1
+usually		1
+susan		1
+works		1
+ralph		1

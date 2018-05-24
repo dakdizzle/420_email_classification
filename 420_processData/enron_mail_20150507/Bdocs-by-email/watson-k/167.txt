@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+return		1
+until		1
+tues		1
+keep		1
+wed		1
+road		1
+morgan		1
+see		1
+thanks		1
+kim		1
+long		1
+people		1
+handy		1
+office		1
+thursday	1
+back		1
+work		1
+everyone	1
+wait		1
+otherwise	1
+love		1

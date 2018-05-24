@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+care		1
+aec		1
+financially	1
+buying		1
+million		1
+chris		1
+take		1
+market		1
+cool		1
+phys		1
+going		1
+think		1
+funthat		1

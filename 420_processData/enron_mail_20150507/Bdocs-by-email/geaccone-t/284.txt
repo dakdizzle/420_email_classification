@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+nyc		1
+bvalgri		1
+phone		1

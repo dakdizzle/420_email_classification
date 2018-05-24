@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+whose		1
+photographer	1
+best		1

@@ -1,0 +1,20 @@
+NumWords	21
+NumTerms	17
+
+mwh		4
+gets		2
+ok		1
+keep		1
+price		1
+service		1
+highest		1
+problem		1
+enough		1
+anytime		1
+pay		1
+sound		1
+sell		1
+more		1
+need		1
+motivated	1
+don		1

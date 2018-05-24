@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+system		2
+applications	1
+dont		1
+under		1
+programs	1
+up		1
+exchange	1
+messenger	1
+yeah		1
+msn		1
+utility		1
+start		1
+set		1

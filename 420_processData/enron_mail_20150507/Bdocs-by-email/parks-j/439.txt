@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+gov		1
+house		1
+energycommerce	1
+chet		1
+layletter	1
+http		1
+mean		1
+pdf		1
+news		1

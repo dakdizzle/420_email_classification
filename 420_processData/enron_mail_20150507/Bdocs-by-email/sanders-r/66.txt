@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+good		1
+enron		1
+svanhoo		1
+steve		1
+recipients	1
+ou		1
+na		1
+looks		1
+van		1
+hooser		1

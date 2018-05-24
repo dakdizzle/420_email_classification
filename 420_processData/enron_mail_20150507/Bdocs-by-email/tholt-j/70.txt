@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+socal		2
+projects	2
+goleta		1
+salvage		1
+montebello	1
+gas		1
+west		1
+desk		1
+cushion		1
+provide		1
+canyon		1
+afternoon	1
+something	1
+possible	1
+storage		1
+project		1
+update		1
+alsio		1
+lo		1

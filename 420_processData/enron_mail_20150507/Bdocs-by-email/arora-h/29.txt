@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+fourth		1
+lets		1
+ignore		1
+column		1
+harry		1
+work		1
+comments	1
+curves		1

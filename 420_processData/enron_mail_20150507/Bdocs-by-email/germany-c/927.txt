@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+coming		1
+day		1
+visit		1
+going		1
+town		1
+world		1

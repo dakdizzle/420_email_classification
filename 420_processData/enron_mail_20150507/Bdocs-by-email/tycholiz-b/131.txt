@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+rental		2
+expense		2
+report		1
+desk		1
+houston		1
+car		1
+reciept		1
+found		1
+bt		1
+wasn		1
+denver		1
+way		1
+duplicate	1
+one		1
+last		1
+sure		1

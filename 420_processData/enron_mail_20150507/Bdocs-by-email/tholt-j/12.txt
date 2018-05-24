@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+clear		1
+ryou		1
+hea		1
+loud		1

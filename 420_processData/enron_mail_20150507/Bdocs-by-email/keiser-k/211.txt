@@ -1,0 +1,19 @@
+NumWords	21
+NumTerms	16
+
+ft		3
+name		2
+ontario		2
+canada		2
+thankskk	1
+full		1
+brian		1
+tagg		1
+know		1
+gillis		1
+exist		1
+call		1
+please		1
+book		1
+intra		1
+doesn		1

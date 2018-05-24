@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+energy		1
+much		1
+down		1
+event		1
+rode		1
+whole		1
+risk		1
+back		1
+bearish		1
+think		1
+cover		1

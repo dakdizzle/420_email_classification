@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+kevin		2
+addition	1
+presto		1
+first		1
+facility	1
+name		1
+report		1
+filename	1
+see		1
+privileged	1
+each		1
+pictures	1
+good		1
+non		1
+prestox		1
+pstthe		1
+configuration	1
+looked		1
+technical	1
+owner		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+look		1
+being		1
+thrilled	1
+draft		1
+ain		1
+far		1
+mike		1
+thus		1
+firm		1
+bet		1

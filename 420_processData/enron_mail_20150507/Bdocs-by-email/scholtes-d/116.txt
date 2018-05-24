@@ -1,0 +1,19 @@
+NumWords	23
+NumTerms	16
+
+diana		3
+scholtes	3
+enron		3
+cn		2
+lynn		1
+talk		1
+recipients	1
+filename	1
+dscholt		1
+na		1
+site		1
+tsin		1
+password	1
+regarding	1
+ou		1
+com		1

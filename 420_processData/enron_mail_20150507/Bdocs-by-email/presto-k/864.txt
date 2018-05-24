@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+meeting		1
+please		1
+black		1
+tj		1
+schedule	1

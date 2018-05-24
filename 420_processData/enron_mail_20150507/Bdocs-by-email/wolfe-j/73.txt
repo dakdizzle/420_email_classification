@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+cap		2
+wasn		2
+take		2
+problems	1
+little		1
+different	1
+time		1
+try		1
+hopefully	1
+obvious		1
+jason		1
+worked		1
+grandmas	1
+thebattery	1
+thanks		1
+picture		1
+around		1
+clean		1
+battery		1
+nearly		1
+more		1
+looked		1
+tonight		1

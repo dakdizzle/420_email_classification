@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+plan		2
+landscape	1
+potential	1
+customers	1
+know		1
+action		1
+client		1
+attached	1
+compliance	1
+performance	1
+thanks		1
+follow		1
+completed	1
+please		1
+within		1
+comments	1
+weeks		1
+couple		1
+november	1
+next		1
+ll		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+pushes		1
+two		1
+kill		1
+up		1
+makes		1
+balance		1
+went		1
+ll		1

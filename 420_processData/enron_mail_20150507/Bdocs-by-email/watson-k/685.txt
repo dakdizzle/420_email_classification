@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+know		2
+group		1
+bid		1
+ends		1
+answer		1
+worked		1
+actually	1
+kim		1
+years		1
+assistance	1
+please		1
+ago		1
+sell		1
+before		1
+need		1
+business	1
+week		1
+feb		1
+couple		1
+ruth		1
+think		1
+ll		1

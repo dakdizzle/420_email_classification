@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+anything	1
+heard		1
+cooper		1
+received	1
+dawn		1
+houston		1
+recently	1
+thx		1
+haven		1
+hi		1

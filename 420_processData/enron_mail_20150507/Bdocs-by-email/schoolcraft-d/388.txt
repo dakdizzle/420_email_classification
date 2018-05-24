@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+plant		2
+monday		1
+maintenance	1
+days		1
+know		1
+gas		1
+theyplan	1
+watch		1
+tarrif		1
+approximately	1
+th		1
+route		1
+zia		1
+specs		1
+ds		1
+stay		1
+water		1
+down		1
+conoco		1
+within		1
+told		1
+maljamar	1
+hl		1
+tw		1

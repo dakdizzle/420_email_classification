@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+cn		2
+pocket		1
+discuss		1
+customers	1
+jdasovic	1
+assuming	1
+recipients	1
+na		1
+dasovich	1
+hit		1
+economics	1
+jim		1
+enron		1
+jeff		1
+book		1
+ou		1
+need		1
+costs		1

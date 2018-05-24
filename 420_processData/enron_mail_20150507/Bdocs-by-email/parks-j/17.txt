@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+parks		2
+wrong		1
+pstwhats	1
+jx		1
+content		1
+encoding	1
+chet		1
+origin		1
+bitx		1
+filename	1
+transfer	1
+joe		1

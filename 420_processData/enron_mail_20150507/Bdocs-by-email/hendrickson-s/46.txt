@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+scott		1
+weekend		1
+mean		1
+last		1
+love		1

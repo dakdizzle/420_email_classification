@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+story		1
+headline	1
+http		1
+chron		1
+hts		1
+www		1
+entertainment	1
+cda		1
+cs		1
+com		1

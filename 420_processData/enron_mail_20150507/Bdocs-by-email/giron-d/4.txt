@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+together	1
+basis		1
+everything	1
+index		1
+price		1
+meaning		1
+lumped		1
+dg		1
+file		1

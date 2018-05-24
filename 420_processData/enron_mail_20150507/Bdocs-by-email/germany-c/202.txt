@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+ve		1
+normally	1
+good		1
+hey		1
+lately		1
+bragging	1
+talk		1
+pines		1
+bad		1
+notes		1
+ponderosa	1

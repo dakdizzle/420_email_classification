@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+semperger	2
+stuff		1
+pstthis		1
+complete	1
+sheet		1
+information	1
+bycara		1
+cx		1
+filename	1
+transfer	1
+help		1
+pop		1
+bilat		1
+content		1
+encoding	1
+origin		1
+need		1
+bitx		1
+interpreting	1
+cara		1

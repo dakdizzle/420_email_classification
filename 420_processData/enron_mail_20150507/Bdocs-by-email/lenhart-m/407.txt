@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+nice		1
+starting	1
+kept		1
+being		1
+nuts		1
+going		1
+blaming		1

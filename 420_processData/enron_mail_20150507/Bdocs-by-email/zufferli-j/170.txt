@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+l		2
+missing		2
+shouldn		1
+preliminary	1
+currency	1
+again		1
+management	1
+post		1
+components	1
+reports		1
+executive	1

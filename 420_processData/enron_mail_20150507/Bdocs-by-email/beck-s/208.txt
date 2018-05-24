@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+greg		2
+philippe	2
+piper		1
+coach		1
+meeting		1
+travel		1
+international	1
+hard		1
+end		1
+beth		1
+keep		1
+today		1
+fly		1
+posted		1
+believe		1
+clarification	1
+sally		1
+perlman		1
+london		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hearing		1
+forward		1
+going		1
+likelihood	1
+date		1

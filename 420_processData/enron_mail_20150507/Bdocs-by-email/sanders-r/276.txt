@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+need		1
+sorry		1
+late		1
+never		1
+juncture	1

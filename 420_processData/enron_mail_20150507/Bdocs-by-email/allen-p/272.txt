@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+email		1
+meeting		1
+mery		1
+location	1
+please		1
+back		1
+tomorrow	1
+phillip		1

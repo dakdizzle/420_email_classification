@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+soon		1
+vince		1
+opportunities	1
+rush		1
+job		1
+brian		1
+departure	1
+problem		1
+here		1

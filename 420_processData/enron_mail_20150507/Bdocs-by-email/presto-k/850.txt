@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+shortly		1
+list		1
+sending		1
+mail		1
+thanks		1

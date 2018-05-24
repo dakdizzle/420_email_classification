@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+vince		1
+time		1
+wednesday	1
+praveen		1
+work		1
+convenient	1

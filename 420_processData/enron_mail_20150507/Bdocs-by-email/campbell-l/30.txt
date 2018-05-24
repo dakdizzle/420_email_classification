@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+portal		1
+enron		1
+pageindex	1
+http		1
+aspx		1
+eastpower	1
+corp		1
+dev		1
+default		1
+com		1

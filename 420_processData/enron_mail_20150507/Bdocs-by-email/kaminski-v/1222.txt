@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+full		1
+ed		1
+mark		1
+palmer		1
+strongly	1
+ourpress	1
+ekrapels	1
+suggested	1
+expect		1
+thanks		1
+forwarded	1
+vince		1
+message		1
+plate		1
+esaibos		1
+touch		1
+spokesman	1
+com		1

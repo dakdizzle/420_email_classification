@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+jhodge		2
+cn		2
+notice		1
+attached	1
+letter		1
+find		1
+recipients	1
+hodge		1
+form		1
+filename	1
+na		1
+privileged	1
+jeffrey		1
+non		1
+enron		1
+jeff		1
+pstgenia	1
+ou		1
+proceed		1
+addresses	1

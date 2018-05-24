@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+taking		1
+canes		1
+natty		1
+state		1
+station		1
+today		1
+low		1
+afternoon	1
+call		1
+market		1
+out		1
+m		1
+drinks		1
+weekend		1
+made		1
+fellas		1
+give		1
+new		1
+penn		1
+college		1
+play		1

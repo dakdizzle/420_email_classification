@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+eei		1
+document	1
+use		1
+thought		1
+don		1
+elizabeth	1
+think		1
+reference	1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+many		1
+days		1
+left		1

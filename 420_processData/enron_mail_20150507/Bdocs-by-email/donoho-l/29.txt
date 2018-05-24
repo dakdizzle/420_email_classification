@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+cn		2
+ldonoho		2
+lindy		2
+pstattached	1
+know		1
+steve		1
+recipients	1
+filename	1
+na		1
+thanks		1
+presentation	1
+privileged	1
+non		1
+enron		1
+please		1
+questions	1
+harris		1
+donoho		1
+ou		1
+extension	1

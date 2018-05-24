@@ -1,0 +1,11 @@
+NumWords	11
+NumTerms	8
+
+done		3
+told		2
+implies		1
+hunter		1
+tych		1
+lewis		1
+lucci		1
+witt		1

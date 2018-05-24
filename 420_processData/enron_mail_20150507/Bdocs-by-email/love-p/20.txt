@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+deals		2
+ft		2
+financial	2
+moneyshout	1
+wt		1
+pl		1
+physical	1
+socal		1
+ng		1
+sj		1
+price		1
+contains	1
+out		1
+anymore		1
+wc		1
+questions	1
+moneyena	1
+intercompanyena	1

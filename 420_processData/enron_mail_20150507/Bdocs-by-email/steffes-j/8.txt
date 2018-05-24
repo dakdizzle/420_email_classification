@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+update		1
+alan		1
+original	1
+note		1
+here		1

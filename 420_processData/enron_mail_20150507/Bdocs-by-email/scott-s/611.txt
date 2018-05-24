@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+anne		2
+queen		2
+stuff		1
+west		1
+ave		1
+thanks		1
+remember	1
+better		1
+section		1
+want		1
+north		1
+seemed		1
+streets		1
+question	1
+side		1
+think		1

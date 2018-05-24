@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+talking		1
+know		1
+money		1
+don		1

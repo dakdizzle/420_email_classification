@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+london		2
+mark		1
+reply		1
+time		1
+join		1
+company		1
+vacation	1
+greece		1
+suite		1
+unable		1
+call		1
+m		1
+message		1
+planned		1
+bill		1
+want		1
+germany		1
+another		1
+mail		1
+week		1
+think		1
+ll		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+quot		1
+up		1
+came		1
+price		1
+cent		1
+adjustmentlive	1

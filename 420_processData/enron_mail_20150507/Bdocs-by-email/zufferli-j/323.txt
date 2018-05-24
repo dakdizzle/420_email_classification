@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+need		2
+out		1
+aggregated	1
+desks		1
+positions	1
+don		1
+broken		1

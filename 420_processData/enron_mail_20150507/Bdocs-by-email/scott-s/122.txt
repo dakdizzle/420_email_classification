@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+transparent	1
+good		1
+event		1
+up		1
+guy		1
+pay		1
+money		1
+hook		1
+enjoyment	1
+hours		1
+such		1

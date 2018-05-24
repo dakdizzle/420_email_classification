@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+stuff		1
+first		1
+send		1
+free		1
+going		1

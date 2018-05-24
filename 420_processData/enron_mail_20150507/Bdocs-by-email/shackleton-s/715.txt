@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+believe		1
+sara		1
+file		1
+don		1
+joanne		1
+thanks		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+situation	1
+tight		1
+cash		1
+thinking	1
+know		1
+guys		1
+before		1
+management	1
+world		1
+doing		1
+better		1

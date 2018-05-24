@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+tomorrow	1
+tv		1
+game		1

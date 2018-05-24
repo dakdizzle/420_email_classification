@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+attendance	1
+marlowe		1
+keith		1

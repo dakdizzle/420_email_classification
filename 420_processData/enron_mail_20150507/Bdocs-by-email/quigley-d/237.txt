@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+working		1
+tradinglaters	1
+assistant	1

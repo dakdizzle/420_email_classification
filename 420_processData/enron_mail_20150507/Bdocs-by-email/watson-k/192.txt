@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+success		2
+taking		1
+key		1
+strategy	1
+departments	1
+time		1
+thank		1
+assured		1
+busy		1
+appreciated	1
+houston		1
+tiny		1
+enthusiasm	1
+input		1
+schedule	1
+thanks		1
+out		1
+kim		1
+best		1
+come		1
+part		1
+attend		1
+tw		1
+always		1

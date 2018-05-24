@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+shopping	1
+monday		1
+sister		1
+party		1
+day		1
+slow		1
+rosemary	1
+out		1
+thanking	1
+m		1
+great		1
+best		1
+going		1
+lunch		1
+lovely		1
+here		1

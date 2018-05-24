@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+room		1
+ebs		1
+desk		1
+find		1
+christi		1
+meet		1
+conference	1

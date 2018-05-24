@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+selling		2
+stuff		1
+make		1
+yu		1
+enron		1
+ebay		1
+crazy		1
+now		1
+bought		1
+money		1
+keychain	1
+over		1

@@ -1,0 +1,5 @@
+NumWords	3
+NumTerms	2
+
+gas		2
+power		1

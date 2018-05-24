@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+know		2
+kim		1
+seen		1
+barry		1
+provided	1
+documents	1
+lawyers		1
+cdwr		1
+take		1
+thanks		1

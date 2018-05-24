@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+definately	1
+know		1

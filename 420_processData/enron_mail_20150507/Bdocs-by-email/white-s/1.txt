@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+copy		1
+stacey		1
+received	1
+gotten		1
+mail		1
+sure		1
+wasn		1

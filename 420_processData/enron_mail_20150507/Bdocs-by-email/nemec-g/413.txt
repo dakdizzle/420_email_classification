@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+content		3
+provided	2
+wfec		1
+short		1
+attached	1
+draft		1
+review		1
+provide		1
+wanted		1
+form		1
+fgt		1
+anything	1
+circulate	1
+point		1
+asap		1
+discussion	1
+please		1
+approval	1
+correct		1
+comments	1
+still		1
+note		1
+affidavit	1

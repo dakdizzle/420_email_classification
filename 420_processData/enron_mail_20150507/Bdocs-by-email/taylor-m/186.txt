@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+lens		1
+fingers		1
+front		1
+keep		1
+more		1
+learn		1

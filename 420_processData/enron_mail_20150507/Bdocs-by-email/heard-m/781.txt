@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+listing		2
+executive	2
+agreements	2
+offices		2
+chief		2
+notice		1
+send		1
+information	1
+marie		1
+reliant		1
+entities	1
+netting		1
+chris		1
+master		1
+bp		1
+each		1
+forth		1
+work		1
+amoco		1
+need		1
+set		1
+addresses	1

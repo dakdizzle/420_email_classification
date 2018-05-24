@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+stay		1
+mon		1
+positive	1
+biliana		1

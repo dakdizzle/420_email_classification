@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+cn		2
+hand		1
+assume		1
+wanda		1
+huh		1
+crazy		1
+now		1
+recipients	1
+currently	1
+na		1
+stands		1
+curry		1
+lynch		1
+enron		1
+jeff		1
+best		1
+loretta		1
+wcurry		1
+gotta		1
+ou		1
+pretty		1
+pat		1
+allocation	1

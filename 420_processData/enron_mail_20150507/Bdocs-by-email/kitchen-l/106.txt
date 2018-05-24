@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+cash		1
+spreadsheet	1
+fine		1
+though		1
+access		1
+haven		1
+here		1

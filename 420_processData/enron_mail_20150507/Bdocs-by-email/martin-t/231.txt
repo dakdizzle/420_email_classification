@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+anything	1
+find		1
+tom		1
+laura		1

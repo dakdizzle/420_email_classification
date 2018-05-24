@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+heard		1
+links		1
+php		1
+enjoy		1
+idol		1
+jovi		1
+www		1
+plhttp		1
+bailey		1
+thechunk	1
+com		1
+bon		1

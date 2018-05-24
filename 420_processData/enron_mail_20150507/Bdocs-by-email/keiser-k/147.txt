@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+sure		2
+group		1
+comarmy		1
+accountpros	1
+name		1
+kainan		1
+karen		1
+turner		1
+brown		1
+dturner		1
+spelling	1
+last		1
+gere		1
+denham		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+much		1
+send		1
+apologize	1
+greetings	1
+jeff		1
+best		1
+received	1
+again		1
+contact		1
+recall		1
+appreciated	1
+misplacing	1

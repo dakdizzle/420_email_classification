@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+look		1
+veronica	1
+page		1
+section		1
+know		1
+marie		1
+change		1
+transfer	1
+schedule	1
+thanks		1
+okay		1

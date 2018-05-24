@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+coucil		1
+youth		1
+travel		1
+british		1
+airways		1
+gatwick		1
+london		1
+fare		1
+iah		1

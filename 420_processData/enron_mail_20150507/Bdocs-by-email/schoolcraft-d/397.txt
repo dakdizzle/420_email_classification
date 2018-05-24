@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+artesia		1
+loco		1
+thompson	1
+terry		1
+know		1
+parts		1
+hills		1
+service		1
+approximately	1
+ds		1
+out		1
+pnm		1
+team		1
+called		1
+youngren	1
+weeks		1
+tap		1

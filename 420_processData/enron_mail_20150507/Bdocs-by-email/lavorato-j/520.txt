@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+full		1
+lavo		1
+being		1
+plate		1
+risk		1
+greghow		1
+portland	1
+manager		1
+general		1

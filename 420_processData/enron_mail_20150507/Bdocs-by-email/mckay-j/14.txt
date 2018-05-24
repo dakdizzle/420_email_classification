@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+terminal	1
+server		1
+through		1

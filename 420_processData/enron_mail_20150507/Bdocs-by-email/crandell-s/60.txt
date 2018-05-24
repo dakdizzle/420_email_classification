@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+around		1
+ok		1
+thursday	1
+wednesday	1
+noon		1

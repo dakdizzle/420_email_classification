@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+ds		1
+stuff		1
+tag		1
+paso		1
+feel		1
+now		1
+el		1
+authority	1
+work		1
+approval	1
+having		1
+denial		1

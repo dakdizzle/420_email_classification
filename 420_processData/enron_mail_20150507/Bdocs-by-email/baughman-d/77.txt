@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+done		1
+trades		1
+lisa		1
+sorry		1
+thought		1
+cinergy		1
+don		1
+yesterday	1

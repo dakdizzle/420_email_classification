@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+lynn		2
+cn		2
+kim		1
+enron		1
+blair		1
+lblair		1
+recipients	1
+ou		1
+na		1
+thanks		1

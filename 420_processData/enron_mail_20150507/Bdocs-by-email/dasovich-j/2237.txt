@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+roger		1
+jeff		1
+best		1
+again		1
+chance		1
+give		1
+call		1
+talked		1

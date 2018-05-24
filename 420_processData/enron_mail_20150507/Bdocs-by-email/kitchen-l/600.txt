@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+asset		1
+recipients	1
+delay		1
+na		1
+miller		1
+dmille		1
+enron		1
+ou		1
+weeks		1
+couple		1
+mktg		1
+don		1

@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+diana		2
+cn		2
+scholtes	1
+friday		1
+reached		1
+recipients	1
+filename	1
+dscholt		1
+na		1
+home		1
+out		1
+cell		1
+office		1
+enron		1
+ou		1
+dec		1

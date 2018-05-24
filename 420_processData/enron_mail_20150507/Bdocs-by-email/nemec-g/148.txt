@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+cn		2
+nemec		2
+gerald		2
+send		1
+attached	1
+recipients	1
+filename	1
+na		1
+schedule	1
+pst		1
+privileged	1
+phil		1
+gnemec		1
+non		1
+enron		1
+tyrell		1
+ou		1
+appendix	1

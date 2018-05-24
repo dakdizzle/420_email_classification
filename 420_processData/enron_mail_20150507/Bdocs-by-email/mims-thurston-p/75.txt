@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+hey		1
+ladies		1
+go		1

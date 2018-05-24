@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+cn		2
+enron		1
+luce		1
+recipients	1
+ou		1
+lluce		1
+na		1
+laura		1

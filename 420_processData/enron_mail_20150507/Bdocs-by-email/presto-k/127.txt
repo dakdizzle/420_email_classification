@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+president	1
+fax		1
+power		1
+holdings	1
+position	1
+short		1
+east		1
+kevin		1
+thanks		1
+out		1
+long		1
+cell		1
+section		1
+please		1
+prestovice	1
+km		1
+tradingphone	1
+cancel		1

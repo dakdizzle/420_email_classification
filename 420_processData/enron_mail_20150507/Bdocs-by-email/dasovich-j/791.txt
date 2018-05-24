@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+great		2
+email		1
+case		1
+up		1
+thanks		1
+glasses		1
+without		1
+look		1
+bold		1
+jeff		1
+best		1
+bring		1
+again		1
+want		1
+looked		1
+though		1
+thought		1
+didn		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+inc		1
+services	1
+technology	1
+information	1
+nda		1
+comysy		1

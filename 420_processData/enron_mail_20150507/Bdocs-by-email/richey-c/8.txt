@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+cooper		2
+richey		2
+m		2
+cn		2
+discuss		1
+day		1
+free		1
+deeply		1
+person		1
+recipients	1
+meet		1
+crichey		1
+chris		1
+filename	1
+na		1
+psthi		1
+points		1
+enron		1
+ou		1
+concerned	1
+think		1

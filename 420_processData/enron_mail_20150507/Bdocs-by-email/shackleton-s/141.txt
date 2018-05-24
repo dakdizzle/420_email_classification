@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+handle		1
+please		1
+anne		1
+ask		1
+stephanie	1
+thanks		1
+francisco	1

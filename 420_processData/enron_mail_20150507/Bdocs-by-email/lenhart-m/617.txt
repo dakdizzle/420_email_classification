@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+look		1
+know		1
+cockerspaniel	1
+personality	1
+world		1
+don		1
+think		1
+big		1
+damn		1

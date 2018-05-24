@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+accomplishment	1
+leaving		1
+company		1
+left		1
+performance	1
+superior	1
+feedback	1
+way		1
+m		1
+people		1
+aep		1
+considered	1
+going		1
+though		1
+thought		1
+sure		1
+give		1

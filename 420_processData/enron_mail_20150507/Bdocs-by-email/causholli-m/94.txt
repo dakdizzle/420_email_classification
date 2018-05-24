@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+cash		2
+costs		2
+info		1
+riau		1
+row		1
+easily		1
+trouble		1
+plant		1
+mton		1
+karen		1
+contains	1
+printing	1
+bolded		1
+mills		1
+identify	1
+monika		1
+indonesian	1
+here		1

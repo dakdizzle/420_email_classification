@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+total		2
+var		2
+need		2
+floor		1
+position	1
+know		1
+well		1
+gas		1
+responsible	1
+view		1
+suggested	1
+ago		1
+several		1
+within		1
+access		1
+months		1
+tds		1

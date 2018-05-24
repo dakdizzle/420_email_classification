@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+march		1
+way		1
+handled		1
+same		1
+deal		1
+tglo		1

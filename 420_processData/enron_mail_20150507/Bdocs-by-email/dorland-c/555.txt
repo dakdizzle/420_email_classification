@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+wedding		1
+though		1
+stag		1
+ll		1

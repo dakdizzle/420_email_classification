@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+meeting		1
+pitch		1
+gas		1
+daily		1
+attend		1
+davewhen	1
+help		1
+think		1

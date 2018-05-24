@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+anything	1
+make		1
+hey		1
+mirant		1
+talk		1
+sense		1
+know		1
+anyone		1

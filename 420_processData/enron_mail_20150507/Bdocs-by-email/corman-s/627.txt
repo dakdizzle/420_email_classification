@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+affect		2
+email		1
+enron		1
+check		1
+ability		1
+http		1
+mean		1
+blackberry	1
+mail		1
+com		1

@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+skean		2
+kean		2
+privileged	2
+non		2
+group		1
+pstattached	1
+finance		1
+audiences	1
+steven		1
+filename	1
+folder		1
+external	1
+points		1
+sent		1
+version		1
+developed	1
+message		1
+origin		1
+itemsx		1
+mime		1
+use		1
+sx		1
+set		1

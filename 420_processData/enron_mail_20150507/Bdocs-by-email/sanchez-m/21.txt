@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+date		2
+close		1
+day		1
+hey		1
+wedding		1
+john		1
+well		1
+know		1
+backpacking	1
+trip		1
+planning	1
+remember	1
+seem		1
+labor		1
+remind		1
+thinking	1
+hope		1
+being		1
+weekend		1
+mo		1

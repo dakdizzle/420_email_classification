@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hated		1
+pl		1
+sick		1
+finebaum	1
+made		1
+always		1
+yesterday	1
+red		1

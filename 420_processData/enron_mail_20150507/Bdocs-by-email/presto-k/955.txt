@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+long		1
+value		1
+ok		1
+term		1
+know		1
+options		1
+now		1
+portfolio	1
+manager		1
+sounds		1

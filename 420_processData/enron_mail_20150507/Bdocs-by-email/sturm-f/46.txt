@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+copy		2
+make		1
+forgot		1
+fletch		1
+late		1
+thanks		1
+amy		1
+executed	1
+please		1
+document	1
+mike		1
+carson		1
+give		1

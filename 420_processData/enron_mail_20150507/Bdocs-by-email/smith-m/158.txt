@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+cents		1
+canadian	1
+more		1

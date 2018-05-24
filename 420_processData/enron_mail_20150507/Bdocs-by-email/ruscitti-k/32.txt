@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+article		1
+eruscitti	1
+interesting	1
+find		1
+reliant		1
+thought		1
+com		1

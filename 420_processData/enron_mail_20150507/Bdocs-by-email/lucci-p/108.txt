@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+discuss		1
+early		1
+further		1
+againpaul	1
+contact		1
+today		1
+thanks		1
+look		1
+please		1
+discussed	1
+mike		1
+week		1
+next		1
+over		1
+proposal	1
+here		1

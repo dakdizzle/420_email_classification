@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+youme		1
+know		1
+desk		1
+work		1
+phone		1
+bunda		1
+love		1
+here		1

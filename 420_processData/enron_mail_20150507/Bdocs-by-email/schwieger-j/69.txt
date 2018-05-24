@@ -1,0 +1,13 @@
+NumWords	19
+NumTerms	10
+
+contracts	3
+july		3
+june		3
+short		2
+sell		2
+nymex		2
+open		1
+positions	1
+contractssettlements	1
+current		1

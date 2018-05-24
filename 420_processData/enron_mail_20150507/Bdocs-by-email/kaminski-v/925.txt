@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+interview	1
+zimin		1
+phone		1
+over		1

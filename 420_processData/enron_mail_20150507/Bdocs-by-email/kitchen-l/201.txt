@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+propose		1
+heavily		1
+huge		1
+back		1
+start		1
+night		1
+drinking	1

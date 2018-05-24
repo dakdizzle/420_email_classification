@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+attached	2
+form		2
+albchem		1
+together	1
+ltd		1
+guaranty	1
+cindy		1
+marie		1
+industries	1
+favor		1
+thanks		1
+call		1
+soon		1
+possible	1
+enron		1
+please		1
+pickup		1
+certificate	1
+document	1
+corp		1
+process		1
+incumbency	1

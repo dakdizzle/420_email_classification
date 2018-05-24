@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+look		1
+please		1
+mike		1
+take		1

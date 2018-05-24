@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+join		1
+please		1
+friday		1
+december	1
+th		1

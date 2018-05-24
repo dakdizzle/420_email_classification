@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+group		1
+human		1
+time		1
+visit		1
+olson		1
+cindy		1
+pleased		1
+pete		1
+gary		1
+call		1
+head		1
+jim		1
+out		1
+seen		1
+good		1
+message		1
+enron		1
+office		1
+best		1
+resources	1
+forward		1
+luck		1

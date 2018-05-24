@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+well		1
+screen		1
+reuters		1

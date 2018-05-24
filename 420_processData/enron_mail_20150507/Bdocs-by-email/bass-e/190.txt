@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+acqua		1
+miyake		1
+gio		1
+e		1
+di		1
+issey		1

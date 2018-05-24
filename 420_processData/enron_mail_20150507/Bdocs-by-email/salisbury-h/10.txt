@@ -1,0 +1,16 @@
+NumWords	17
+NumTerms	13
+
+holden		3
+cn		2
+salisbury	2
+sheet		1
+final		1
+recipients	1
+filename	1
+na		1
+thanks		1
+psthere		1
+enron		1
+ou		1
+hsalisbu	1

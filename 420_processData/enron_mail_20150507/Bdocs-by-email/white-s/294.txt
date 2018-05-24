@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+group		2
+information	2
+forward		2
+stacey		1
+georgeanne	1
+phone		1
+layoffs		1
+accounting	1
+recruiter	1
+part		1
+told		1
+spoke		1
+thought		1
+sure		1

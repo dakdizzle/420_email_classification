@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+seen		1
+agenda		1
+up		1
+going		1
+stephanie	1

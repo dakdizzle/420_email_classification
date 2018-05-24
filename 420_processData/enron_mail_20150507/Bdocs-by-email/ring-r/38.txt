@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+both		1
+message		1
+forward		1
+mike		1
+wanted		1
+dick		1

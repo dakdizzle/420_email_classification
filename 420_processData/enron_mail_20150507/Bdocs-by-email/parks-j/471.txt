@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+parks		2
+cn		2
+joe		2
+lived		1
+lady		1
+recipients	1
+filename	1
+na		1
+pstsounds	1
+enron		1
+judalon		1
+llike		1
+jparks		1
+ou		1
+next		1

@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+kim		2
+mail		2
+email		1
+receives	1
+files		1
+hillis		1
+bob		1
+file		1
+space		1
+behalf		1
+increase	1
+please		1
+additional	1
+assistant	1
+receive		1
+needs		1

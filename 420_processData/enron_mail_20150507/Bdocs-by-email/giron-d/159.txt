@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+monday		1
+early		1
+office		1
+until		1
+back		1
+won		1
+bryant		1
+leave		1
+dg		1
+trip		1

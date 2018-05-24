@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+cooper		1
+roll		1
+thx		1
+chance		1
+chris		1

@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+transact	2
+cal		1
+ok		1
+paul		1
+permian		1
+paso		1
+el		1

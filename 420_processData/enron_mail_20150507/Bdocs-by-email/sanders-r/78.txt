@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+sanders		2
+cn		2
+richard		2
+asst		1
+plan		1
+criminal	1
+recipients	1
+atty		1
+wanted		1
+asked		1
+andrea		1
+filename	1
+na		1
+call		1
+reschedule	1
+privileged	1
+pstsounds	1
+haedicke	1
+good		1
+rsander		1
+non		1
+enron		1
+ou		1

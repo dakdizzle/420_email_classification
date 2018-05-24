@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+ftp		2
+ercot		1
+time		1
+real		1
+html		1
+display		1
+incoming	1
+com		1

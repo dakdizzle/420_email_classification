@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+language	1
+opinions	1
+kay		1
+include		1
+modify		1
+thanks		1

@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+interview	2
+one		1
+myself		1
+already		1
+fletch		1
+late		1
+here		1
+afternoon	1

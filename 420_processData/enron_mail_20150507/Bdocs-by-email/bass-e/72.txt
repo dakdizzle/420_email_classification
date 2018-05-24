@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+blxwdwed	1
+http		1
+wed		1
+dailyxwd	1
+crosswords	1
+library		1
+features	1
+htm		1
+com		1

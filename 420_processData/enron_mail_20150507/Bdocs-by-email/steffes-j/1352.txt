@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+discuss		1
+sending		1
+phone		1
+once		1
+wholesale	1
+call		1
+thanks		1
+jim		1
+done		1
+team		1
+electricity	1
+before		1
+ashley		1

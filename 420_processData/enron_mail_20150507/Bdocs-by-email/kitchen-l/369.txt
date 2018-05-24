@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+officerenron	1
+fax		1
+americastel	1
+operating	1
+downlouise	1
+kitchenchief	1

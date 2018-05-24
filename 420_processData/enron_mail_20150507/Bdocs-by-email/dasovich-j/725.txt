@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+meeting		1
+employee	1
+up		1
+place		1
+jeff		1
+lay		1
+asked		1
+someone		1
+broke		1
+crack		1

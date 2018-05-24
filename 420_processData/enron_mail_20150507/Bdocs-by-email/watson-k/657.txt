@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+week		2
+don		2
+first		1
+lunches		1
+price		1
+filing		1
+out		1
+people		1
+many		1
+bankruptcy	1
+believe		1
+during		1
+show		1
+tell		1
+dec		1
+lunch		1
+given		1

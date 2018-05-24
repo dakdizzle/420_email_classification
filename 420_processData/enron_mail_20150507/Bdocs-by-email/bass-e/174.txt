@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+first		2
+employees	1
+bankruptcy	1
+specifically	1
+paid		1
+line		1
+thanks		1

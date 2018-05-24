@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+settle		2
+know		1
+tonight		1
+trading		1
+market		1

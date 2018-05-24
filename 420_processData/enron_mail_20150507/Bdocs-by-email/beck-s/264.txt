@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+simply		1
+actions		1
+speak		1
+suggestions	1
+fine		1
+bob		1
+lot		1
+professional	1
+good		1
+changing	1
+label		1
+agree		1
+services	1
+whole		1
+sally		1
+hall		1
+words		1
+change		1
+below		1
+louder		1
+brent		1
+doesn		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+march		1
+something	1
+m		1
+gas		1
+emailed		1
+columbia	1
+related		1
+th		1
+sure		1
+deleted		1
+think		1
+st		1

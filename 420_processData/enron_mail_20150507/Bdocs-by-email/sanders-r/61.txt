@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+case		2
+block		1
+talk		1
+lets		1
+coal		1
+aside		1
+min		1
+set		1
+columbian	1
+including	1
+cases		1
+twanda		1

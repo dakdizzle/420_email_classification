@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+mw		1
+harbor		1
+buying		1
+price		1
+realtime	1

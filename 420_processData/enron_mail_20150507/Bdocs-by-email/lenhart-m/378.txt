@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+take		2
+call		2
+out		2
+girl		2
+cup		1
+fri		1
+up		1
+stanley		1
+days		1
+few		1
+meet		1
+wanted		1
+later		1
+thurs		1
+better		1
+drinks		1
+maybe		1
+before		1
+need		1
+give		1
+tonight		1

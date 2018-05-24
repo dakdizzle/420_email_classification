@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+vince		1
+scott		1
+hello		1
+anupdate	1
+shall		1
+week		1
+later		1
+sriram		1
+needs		1
+call		1
+thanks		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+kim		1
+accidentally	1
+make		1
+hope		1
+presence	1
+list		1
+distribution	1
+oops		1
+left		1
+desired		1
+thanks		1
+teb		1

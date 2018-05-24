@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lloyd		1
+interview	1
+paul		1
+guy		1
+bring		1
+thought		1

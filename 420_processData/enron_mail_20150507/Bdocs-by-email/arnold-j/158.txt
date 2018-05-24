@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+reports		2
+publishing	1
+misti		1
+assume		1
+published	1
+responsible	1
+idea		1
+past		1
+management	1
+access		1

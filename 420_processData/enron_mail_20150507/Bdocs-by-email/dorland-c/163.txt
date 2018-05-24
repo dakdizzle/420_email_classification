@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+article		2
+finance		1
+ene		1
+press		1
+danthanx	1
+came		1
+forbes		1
+associated	1
+yahoo		1
+chris		1
+reuters		1
+go		1
+one		1
+fortune		1
+news		1

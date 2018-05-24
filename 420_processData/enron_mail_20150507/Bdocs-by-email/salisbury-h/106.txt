@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+holden		2
+email		1
+remove		1
+list		1
+please		1
+psthello	1
+thank		1
+salisburyx	1
+filename	1
+salisbury	1

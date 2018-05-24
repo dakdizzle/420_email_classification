@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+mcash		2
+cn		2
+michelle	2
+cash		1
+folks		1
+know		1
+fyi		1
+recipients	1
+litigation	1
+filename	1
+na		1
+thanks		1
+pst		1
+privileged	1
+list		1
+non		1
+enron		1
+ou		1
+critical	1
+include		1
+appropriate	1

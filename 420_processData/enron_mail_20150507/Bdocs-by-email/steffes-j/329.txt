@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+team		1
+please		1
+language	1
+icap		1
+interesting	1
+forward		1
+along		1
+christi		1

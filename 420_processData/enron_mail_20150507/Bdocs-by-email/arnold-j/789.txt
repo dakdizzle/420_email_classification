@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+liked		1
+drawing		1
+better		1

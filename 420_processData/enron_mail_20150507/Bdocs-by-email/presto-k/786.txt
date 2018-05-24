@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+versa		1
+flow		1
+information	1
+sounds		1
+wholesale	1
+barriers	1
+cultural	1
+retail		1
+down		1
+good		1
+immediately	1
+significant	1
+synergy		1
+vice		1
+think		1
+broken		1
+benefits	1

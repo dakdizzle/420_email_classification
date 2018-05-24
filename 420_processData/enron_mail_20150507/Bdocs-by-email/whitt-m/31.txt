@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+make		1
+copy		1
+please		1
+backup		1
+download	1

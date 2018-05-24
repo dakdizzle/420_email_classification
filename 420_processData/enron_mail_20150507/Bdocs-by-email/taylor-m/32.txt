@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+seen		1
+another		1
+janet		1
+hasn		1
+here		1

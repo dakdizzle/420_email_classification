@@ -1,0 +1,20 @@
+NumWords	21
+NumTerms	17
+
+deal		3
+albert		2
+talking		2
+tonights	1
+saying		1
+know		1
+friday		1
+today		1
+appeared	1
+karim		1
+p		1
+morning		1
+l		1
+telus		1
+check		1
+cisson		1
+think		1

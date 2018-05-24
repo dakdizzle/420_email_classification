@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+dth		2
+day		1
+sonat		1
+buddy		1
+hey		1
+per		1
+storage		1
+tenn		1
+sell		1
+balance		1
+better		1

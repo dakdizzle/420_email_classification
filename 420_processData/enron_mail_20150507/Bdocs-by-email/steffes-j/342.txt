@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+meeting		1
+go		1
+houston		1
+ll		1

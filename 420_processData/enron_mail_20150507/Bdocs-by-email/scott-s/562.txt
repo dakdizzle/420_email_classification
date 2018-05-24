@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+between		1
+position	1
+interested	1
+today		1
+susan		1
+definitely	1
+still		1
+give		1
+pattie		1
+thanks		1
+pst		1
+call		1

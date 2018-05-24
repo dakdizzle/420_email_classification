@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+ok		2
+programs	1
+located		1
+rainey		1
+emission	1
+gea		1
+trading		1

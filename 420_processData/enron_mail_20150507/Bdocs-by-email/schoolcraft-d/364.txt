@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+ds		1
+good		1
+brown		1
+enron		1
+portion		1
+recipients	1
+ou		1
+na		1
+looks		1
+ebrown		1
+elizabeth	1

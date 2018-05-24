@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+first		1
+message		1
+david		1
+received	1
+ita		1
+part		1
+workshop	1
+derrick		1

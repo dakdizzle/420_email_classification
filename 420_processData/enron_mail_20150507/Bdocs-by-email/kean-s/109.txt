@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+units		1
+awkward		1
+business	1
+large		1
+number		1
+given		1
+think		1

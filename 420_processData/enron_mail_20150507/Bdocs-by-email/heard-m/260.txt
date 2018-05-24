@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+aparna		1
+confirmation	1
+please		1
+know		1
+changes		1
+marie		1
+below		1
+omnibus		1
+comments	1
+acceptable	1
+thanks		1
+tidewater	1

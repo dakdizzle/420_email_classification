@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+down		1
+jeff		1
+best		1
+dealbench	1
+safe		1
+winding		1
+notes		1
+thanks		1

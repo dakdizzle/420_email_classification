@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+morning		1
+ok		1
+time		1
+thusday		1
+yes		1
+need		1
+meet		1
+monika		1

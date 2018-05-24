@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+gaspow		1
+position	1
+errol		1
+correct		1
+tom		1
+thanks		1

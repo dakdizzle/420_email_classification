@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+sorry		1
+osman		1
+delay		1
+here		1

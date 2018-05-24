@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+enough		1
+fair		1
+understand	1
+trying		1
+perfect		1
+accomplish	1
+role		1
+okay		1

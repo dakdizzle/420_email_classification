@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+try		1
+moran		1
+tom		1

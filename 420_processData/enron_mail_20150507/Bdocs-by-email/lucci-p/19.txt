@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+wnat		1
+meeting		1
+today		1
+yo		1
+th		1
+hour		1
+meet		1
+better		1
+real		1
+thursday	1
+happy		1
+drinks		1
+work		1
+doing		1
+next		1

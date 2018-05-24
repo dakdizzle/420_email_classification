@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+heard		1
+cun		1
+massage		1
+yu		1
+wghen		1
+irts		1
+jean		1
+reed		1
+yo		1
+ad		1
+vaaluee		1

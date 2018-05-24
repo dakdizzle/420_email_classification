@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+circulate	1
+done		1
+m		1
+blackline	1
+groupelizabeth	1
+sager		1
+internal	1
+getting		1

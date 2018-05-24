@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+assignedelizabeth	1
+sager		1

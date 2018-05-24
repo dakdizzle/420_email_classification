@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+updated		1
+list		1
+hot		1

@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+cn		2
+vicki		1
+specifically	1
+belden		1
+won		1
+recipients	1
+unless		1
+someone		1
+na		1
+expand		1
+shapiro		1
+beyond		1
+enron		1
+jeff		1
+best		1
+want		1
+rshapiro	1
+ou		1
+janet		1
+richard		1

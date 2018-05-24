@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+headhunters	1
+fee		1
+michelle	1
+afford		1
+thanks		1

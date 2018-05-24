@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+supervisor	1
+avenues		1
+heard		1
+mark		1
+between		1
+make		1
+position	1
+claim		1
+janice		1
+anyone		1
+system		1
+pac		1
+tranny		1
+call		1
+srp		1
+really		1
+something	1
+done		1
+change		1
+more		1
+deal		1
+oasis		1
+negotiate	1

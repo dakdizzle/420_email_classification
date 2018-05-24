@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+nice		1
+team		1
+statement	1
+comparisons	1
+won		1
+accomplished	1
+read		1

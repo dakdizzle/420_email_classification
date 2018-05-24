@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+send		1
+withdrawal	1
+jeff		1
+submission	1
+shoot		1
+reviewed	1
+draft		1
+prior		1
+before		1
+thanks		1

@@ -1,0 +1,8 @@
+NumWords	8
+NumTerms	5
+
+lions		3
+win		2
+andy		1
+up		1
+break		1

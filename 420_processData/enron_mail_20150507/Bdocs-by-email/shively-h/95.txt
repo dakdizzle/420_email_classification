@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+floor		1
+power		1
+possible	1

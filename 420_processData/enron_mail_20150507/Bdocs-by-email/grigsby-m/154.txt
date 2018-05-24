@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+october		1
+mike		1
+web		1
+calendar	1

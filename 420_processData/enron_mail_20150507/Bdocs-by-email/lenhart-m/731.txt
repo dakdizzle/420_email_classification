@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+anyone		1
+going		1
+halloween	1
+tonight		1

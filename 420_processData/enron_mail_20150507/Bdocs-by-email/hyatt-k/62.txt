@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+gmt		1
+ofc		1
+time		1
+friday		1
+eric		1
+february	1
+canada		1
+central		1

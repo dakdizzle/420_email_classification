@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+mark		1
+invoice		1
+connection	1
+lisa		1
+see		1
+jim		1
+court		1
+wilmer		1
+supreme		1
+please		1
+below		1
+argument	1
+cutler		1
+request		1

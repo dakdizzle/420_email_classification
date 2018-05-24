@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+copy		1
+thank		1
+steve		1
+williams	1
+litigation	1
+bob		1
+jim		1
+forwarded	1
+message		1
+enron		1
+best		1
+effort		1
+manager		1
+coordinating	1
+resume		1

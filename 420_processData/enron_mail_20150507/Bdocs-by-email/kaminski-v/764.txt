@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+vince		2
+pstjohn		1
+th		1
+sounds		1
+filename	1
+vkamins		1
+put		1
+jx		1
+july		1
+shall		1
+interesting	1
+calendar	1
+kaminski	1

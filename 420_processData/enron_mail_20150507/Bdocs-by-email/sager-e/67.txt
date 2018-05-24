@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+letters		2
+pg		1
+way		1
+sample		1
+go		1
+start		1
+mary		1
+one		1
+sager		1
+elizabeth	1
+based		1
+through		1
+here		1

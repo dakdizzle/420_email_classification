@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+coming		1
+m		1
+comes		1
+martha		1
+molly		1

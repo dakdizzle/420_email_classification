@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+issues		2
+cn		2
+amr		2
+key		1
+first		1
+decisionmaking	1
+ibrahim		1
+recipients	1
+stab		1
+na		1
+unit		1
+take		1
+jim		1
+out		1
+each		1
+presentations	1
+two		1
+enron		1
+please		1
+aibrahi		1
+ou		1
+lay		1
+business	1
+process		1

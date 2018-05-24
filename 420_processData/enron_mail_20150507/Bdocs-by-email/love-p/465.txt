@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+kids		1
+likes		1
+story		1
+heard		1
+five		1
+pl		1
+guys		1
+bite		1
+really		1
+hell		1
+boy		1
+good		1
+louisiana	1
+teaching	1
+adults		1
+old		1
+year		1
+over		1

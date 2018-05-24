@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+send		2
+around		1
+sent		1
+list		1
+used		1
+malinowski	1
+d		1
+julie		1
+big		1

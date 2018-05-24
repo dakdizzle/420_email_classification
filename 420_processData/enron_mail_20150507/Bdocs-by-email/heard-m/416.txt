@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+credit		2
+isda		2
+annex		1
+together	1
+send		1
+support		1
+fax		1
+worksheet	1
+know		1
+attached	1
+draft		1
+machine		1
+mariex		1
+schedule	1
+anything	1
+master		1
+soon		1
+message		1
+jeff		1
+questions	1
+need		1
+putting		1
+agreement	1
+paragraph	1

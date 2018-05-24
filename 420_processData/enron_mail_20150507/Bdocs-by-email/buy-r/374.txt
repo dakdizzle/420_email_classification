@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+port		2
+finance		1
+know		1
+well		1
+ask		1
+q		1
+m		1
+talking		1
+rick		1
+ago		1
+book		1
+appendix	1
+pug		1
+comm		1
+think		1
+mtgs		1

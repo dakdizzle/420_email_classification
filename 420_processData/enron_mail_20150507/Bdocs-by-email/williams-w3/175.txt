@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+sp		2
+short		2
+price		2
+daily		1
+cali		1
+piece		1
+kate		1
+thanks		1
+pieces		1
+bill		1
+index		1
+st		1
+bom		1

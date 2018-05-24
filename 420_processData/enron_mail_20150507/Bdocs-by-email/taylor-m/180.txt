@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+net		1
+pagenetmessage	1

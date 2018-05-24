@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+lokey		1
+problem		1
+filename	1
+transfer	1
+pstno		1
+privileged	1
+tlokey		1
+content		1
+down		1
+non		1
+encoding	1
+origin		1
+invitation	1
+bitx		1
+gotten		1
+tx		1
+original	1
+still		1
+haven		1

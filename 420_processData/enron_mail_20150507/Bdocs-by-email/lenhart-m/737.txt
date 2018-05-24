@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+up		2
+dressed		2
+utters		1
+emabarrassing	1
+people		1
+everything	1
+cow		1
+few		1
+sierra		1
+walked		1

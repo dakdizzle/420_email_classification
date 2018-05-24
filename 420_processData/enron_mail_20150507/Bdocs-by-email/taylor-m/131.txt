@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+wasn		1
+aware		1
+calendar	1

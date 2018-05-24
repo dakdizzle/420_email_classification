@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+cn		3
+leslie		1
+da		1
+prices		1
+days		1
+recipients	1
+fallen		1
+na		1
+keith		1
+call		1
+really		1
+holst		1
+enron		1
+notesaddr	1
+winter		1
+update		1
+want		1
+ou		1
+ecb		1
+last		1
+lawner		1
+couple		1

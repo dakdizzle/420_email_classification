@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+hand		1
+mailed		1
+now		1
+worries		1
+anxious		1
+approved	1
+woohoo		1
+julie		1
+hold		1
+again		1
+bonus		1
+before		1
+need		1
+e		1
+move		1
+loan		1

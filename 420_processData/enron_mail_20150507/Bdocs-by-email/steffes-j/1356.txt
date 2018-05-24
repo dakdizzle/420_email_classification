@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+steffes		3
+jim		2
+affairs		1
+govt		1
+jan		1
+filename	1
+folder		1
+transfer	1
+privileged	1
+jx		1
+content		1
+pstbob		1
+sent		1
+non		1
+encoding	1
+services	1
+jsteffe		1
+origin		1
+itemsx		1
+james		1
+bitx		1
+coordinating	1
+frank		1

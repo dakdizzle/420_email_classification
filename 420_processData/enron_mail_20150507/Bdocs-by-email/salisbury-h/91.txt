@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+holden		1
+leather		1
+type		1
+keep		1
+chair		1
+current		1
+thanks		1

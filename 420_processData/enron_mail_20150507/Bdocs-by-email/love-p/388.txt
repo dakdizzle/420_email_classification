@@ -1,0 +1,27 @@
+NumWords	39
+NumTerms	24
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+time		2
+violation	2
+order		1
+pl		1
+ksingla		1
+singla		1
+despey		1
+darren		1
+kimat		1
+money		1
+espey		1
+worth		1
+pehlivanova	1
+suggest		1
+bpehliva	1
+go		1
+biliana		1
+big		1
+next		1

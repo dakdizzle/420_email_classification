@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+wonderful	1
+steve		1
+name		1
+congratulations	1
+love		1

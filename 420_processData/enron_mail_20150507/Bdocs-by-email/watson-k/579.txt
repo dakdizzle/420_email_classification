@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+normally	1
+kim		1
+glen		1
+familiar	1
+organization	1
+participate	1
+thanks		1

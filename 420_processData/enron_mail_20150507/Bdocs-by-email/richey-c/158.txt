@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+right		1
+office		1
+cooper		1
+back		1
+stan		1

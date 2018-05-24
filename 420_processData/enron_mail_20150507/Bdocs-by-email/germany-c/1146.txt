@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+cgermanlocations	1
+clgid		1
+b		1

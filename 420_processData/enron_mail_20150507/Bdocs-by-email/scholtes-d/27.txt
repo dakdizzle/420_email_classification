@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+pge		1
+sales		1
+mw		1
+mid		1
+llh		1
+missing		1
+resale		1
+buy		1
+system		1

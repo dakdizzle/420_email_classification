@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+county		2
+family		1
+stand		1
+looking		1
+coffee		1
+concessions	1
+way		1
+building	1
+put		1
+court		1
+center		1
+harris		1
+yes		1
+law		1
+new		1

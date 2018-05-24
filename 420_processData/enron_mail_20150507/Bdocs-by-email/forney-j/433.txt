@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+detailjmf	1
+more		1

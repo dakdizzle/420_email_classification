@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+group		1
+jim		1
+something	1
+handy		1
+fill		1
+up		1
+lets		1
+comes		1
+unless		1
+see		1
+help		1

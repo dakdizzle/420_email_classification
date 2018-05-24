@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+jim		1
+fill		1
+recommendation	1
+name		1
+letter		1
+need		1
+asking		1
+monika		1
+middle		1
+don		1
+mind		1

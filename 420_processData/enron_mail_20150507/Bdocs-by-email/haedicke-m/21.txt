@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+mark		2
+agenda		1
+paul		1
+know		1
+justin		1
+forward		1
+comments	1

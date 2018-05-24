@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+those		1
+sixers		1

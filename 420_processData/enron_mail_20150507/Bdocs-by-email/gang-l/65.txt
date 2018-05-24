@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+drink		1
+up		1
+msn		1
+going		1
+wasss		1

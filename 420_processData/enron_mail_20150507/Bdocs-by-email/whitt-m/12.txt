@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+producers	1
+minute		1
+asap		1
+up		1
+customers	1
+protect		1
+purchasers	1
+update		1
+alternative	1
+want		1
+set		1
+give		1

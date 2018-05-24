@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+vkamins		2
+vince		2
+cn		2
+board		1
+pstpraveen	1
+meeting		1
+wednesday	1
+attendthe	1
+plans		1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+shall		1
+change		1
+ou		1
+advisory	1
+kaminski	1

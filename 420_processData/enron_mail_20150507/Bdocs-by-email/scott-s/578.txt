@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+ish		1
+little		1
+fun		1
+escape		1
+buzz		1
+sweet		1
+up		1
+until		1
+household	1
+jees		1
+camper		1
+buck		1
+sounds		1
+later		1
+hillegeist	1
+go		1
+loads		1
+months		1
+sue		1
+give		1
+ll		1

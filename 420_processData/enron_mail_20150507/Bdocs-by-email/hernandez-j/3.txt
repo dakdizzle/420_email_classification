@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+hand		1
+second		1
+visit		1
+talk		1
+come		1
+back		1
+asking		1
+pat		1
+nicely		1
+better		1

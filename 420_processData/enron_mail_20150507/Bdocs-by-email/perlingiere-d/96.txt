@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+transactions	1
+contracts	1
+company		1
+gas		1
+current		1

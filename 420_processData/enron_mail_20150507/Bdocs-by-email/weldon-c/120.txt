@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+taking		2
+charlie		1
+ed		1
+heard		1
+support		1
+up		1
+interested	1
+course		1
+system		1
+take		1
+thanks		1
+ve		1
+good		1
+m		1
+training	1
+queued		1
+approval	1
+within		1
+applied		1
+pretty		1

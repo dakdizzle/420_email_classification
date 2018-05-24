@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+email		1
+bill		1
+kal		1
+already		1
+worked		1
+thanks		1

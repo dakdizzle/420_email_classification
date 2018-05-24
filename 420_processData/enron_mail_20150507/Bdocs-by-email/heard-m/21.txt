@@ -1,0 +1,21 @@
+NumWords	22
+NumTerms	18
+
+initial		3
+signed		2
+agreement	2
+fax		1
+until		1
+faxed		1
+houston		1
+pages		1
+thanks		1
+master		1
+two		1
+asap		1
+please		1
+come		1
+back		1
+going		1
+thought		1
+here		1

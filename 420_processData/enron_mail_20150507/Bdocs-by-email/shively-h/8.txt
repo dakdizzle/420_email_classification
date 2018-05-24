@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+support		1
+webb		1
+jay		1
+pursue		1

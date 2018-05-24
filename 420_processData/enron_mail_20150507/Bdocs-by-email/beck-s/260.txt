@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+piper		1
+jones		1
+meeting		1
+greg		1
+sally		1
+vacation	1
+prc		1
+date		1
+aware		1
+robert		1

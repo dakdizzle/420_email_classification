@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+confidential	1
+heard		1
+know		1
+beach		1
+ken		1
+anything	1
+long		1
+put		1
+wright		1
+backgrounder	1
+discussion	1
+please		1
+havent		1
+part		1
+rod		1
+lay		1
+don		1
+joining		1
+ll		1

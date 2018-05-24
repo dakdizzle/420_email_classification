@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+party		1
+brother		1
+wedding		1
+oliver		1
+details		1
+oh		1
+deano		1
+never		1
+deanps		1
+call		1
+frat		1
+soon		1
+m		1
+sort		1
+enron		1
+yeah		1
+thought		1
+alive		1
+deal		1
+still		1
+ll		1

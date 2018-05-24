@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lawyer		1
+guarantees	1
+m		1
+working		1
+today		1
+draft		1
+now		1

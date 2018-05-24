@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+mondays		1
+worried		1
+come		1
+hung		1
+ebs		1
+work		1
+over		1

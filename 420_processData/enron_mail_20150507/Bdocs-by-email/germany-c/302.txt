@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+closest		1
+info		1
+friends		1
+thing		1
+sucker		1
+voted		1
+lowered		1
+same		1
+doing		1
+thanks		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+distr		1
+remove		1
+associate	1
+program		1
+ibutions	1
+please		1
+part		1
+future		1

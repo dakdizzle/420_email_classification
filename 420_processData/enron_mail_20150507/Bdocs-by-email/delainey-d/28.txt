@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+contact		2
+know		1
+continue	1
+phone		1
+peter		1
+reference	1
+enron		1
+best		1
+several		1
+luckdave	1
+need		1
+weeks		1
+rwe		1
+next		1
+over		1

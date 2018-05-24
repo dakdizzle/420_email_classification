@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+greg		1
+agree		1
+john		1
+below		1
+notes		1

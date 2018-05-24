@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+blond		1
+sweater		1
+white		1

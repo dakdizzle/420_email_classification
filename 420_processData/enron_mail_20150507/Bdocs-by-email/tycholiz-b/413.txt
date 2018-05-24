@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+very		2
+little		1
+mark		1
+those		1
+cash		1
+days		1
+exposed		1
+gas		1
+basically	1
+lc		1
+bt		1
+thanks		1
+market		1
+regards		1
+choose		1
+difficult	1
+valuations	1
+words		1
+use		1
+carefully	1

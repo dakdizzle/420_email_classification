@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hottie		1
+happy		1
+aabout		1
+hour		1
+thanks		1

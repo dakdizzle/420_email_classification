@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+meet		2
+kim		1
+met		1
+until		1
+lindy		1
+lunch		1
+ac		1
+thanks		1

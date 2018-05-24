@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+close		1
+employees	1
+brian		1
+position	1
+know		1
+comprimising	1
+tom		1
+general		1
+anyway		1
+via		1
+plus		1
+aep		1
+storage		1
+idea		1
+need		1
+already		1
+hpl		1
+doing		1
+don		1
+think		1
+trading		1
+worry		1

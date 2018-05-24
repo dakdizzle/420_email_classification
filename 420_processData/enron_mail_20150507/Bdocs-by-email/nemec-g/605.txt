@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+humiliating	1
+ou		1
+year		1
+upset		1
+nominate	1
+osu		1
+defeat		1

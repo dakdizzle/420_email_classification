@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+lloyd		1
+per		1
+time		1
+vacation	1
+george		1
+th		1
+planned		1
+back		1
+bring		1
+departed	1
+mail		1
+jmf		1
+voice		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+necessity	1
+leslie		1
+blanket		1
+gas		1
+name		1
+public		1
+act		1
+cfr		1
+section		1
+convenience	1
+pursuant	1
+certificate	1
+natural		1
+technical	1

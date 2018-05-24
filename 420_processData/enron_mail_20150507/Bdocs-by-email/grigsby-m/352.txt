@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+track		1
+program		1
+additional	1
+trading		1
+offer		1

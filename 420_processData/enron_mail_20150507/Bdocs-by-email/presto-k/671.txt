@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+dana		1
+peak		1
+ne		1
+line		1
+told		1

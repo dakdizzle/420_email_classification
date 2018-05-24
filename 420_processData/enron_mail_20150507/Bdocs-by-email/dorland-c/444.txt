@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+ene		1
+trades		1

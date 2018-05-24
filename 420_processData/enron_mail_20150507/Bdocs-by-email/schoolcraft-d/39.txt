@@ -1,0 +1,22 @@
+NumWords	26
+NumTerms	19
+
+enron		3
+energy		2
+gruhl		2
+kenneth		2
+duke		2
+com		2
+phases		1
+seems		1
+ckggruhl	1
+up		1
+problem		1
+ecom		1
+imceanotes	1
+ds		1
+kggruhl		1
+start		1
+more		1
+test		1
+commercial	1

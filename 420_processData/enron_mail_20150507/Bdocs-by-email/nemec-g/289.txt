@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+com		2
+energy		1
+jackass		1
+pm		1
+david		1
+deutsch		1
+dedeutsch	1
+watch		1
+awesome		1
+fw		1
+wizzlefritz	1
+enron		1
+nemec		1
+subject		1
+bad		1
+duke		1
+gerald		1

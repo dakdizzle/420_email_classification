@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+know		2
+holden		1
+colorado	1
+anna		1
+talk		1
+details		1
+traveling	1
+someone		1
+trip		1
+schedule	1
+thanks		1
+through		1

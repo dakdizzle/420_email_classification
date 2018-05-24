@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+smurfit		1
+roll		1
+september	1
+thanks		1

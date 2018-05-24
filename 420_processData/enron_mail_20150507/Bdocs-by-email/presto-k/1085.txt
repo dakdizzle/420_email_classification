@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+interest	1
+business	1
+pursuing	1

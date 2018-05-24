@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+willy		1
+http		1
+www		1
+com		1

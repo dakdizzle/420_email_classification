@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+copy		2
+cn		2
+monday		1
+aol		1
+crenshaw	1
+foryou		1
+recipients	1
+paper		1
+chris		1
+na		1
+scrensh		1
+vince		1
+enron		1
+vkaminski	1
+shall		1
+book		1
+ou		1
+shirley		1
+com		1

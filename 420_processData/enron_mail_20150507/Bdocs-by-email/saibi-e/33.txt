@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ca		1
+baker		1
+cliffang	1
+mesa		1
+hotmail		1
+costa		1
+st		1
+com		1
+bb		1

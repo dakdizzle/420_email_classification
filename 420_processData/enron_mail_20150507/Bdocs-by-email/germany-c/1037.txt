@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+fun		1
+pm		1
+up		1
+appointment	1
+lucked		1
+today		1
+specialist	1
+sounds		1
+having		1
+doctor		1

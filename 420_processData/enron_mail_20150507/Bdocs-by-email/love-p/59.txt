@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+account		1
+cash		1
+done		1
+pl		1
+now		1
+shares		1

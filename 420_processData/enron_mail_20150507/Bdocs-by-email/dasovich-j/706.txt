@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+nice		1
+good		1
+up		1
+jeff		1
+best		1
+touch		1
+guys		1
+chalk		1
+one		1
+another		1
+thanks		1

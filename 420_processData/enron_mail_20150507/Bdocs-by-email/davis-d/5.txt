@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+non		1
+ddavis		1
+davis		1
+enron		1
+david		1
+pstdana		1
+comx		1
+origin		1
+duran		1
+dx		1
+filename	1
+privileged	1

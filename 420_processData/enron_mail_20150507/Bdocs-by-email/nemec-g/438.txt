@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+revision	1
+ok		1
+terms		1
+fine		1
+chris		1

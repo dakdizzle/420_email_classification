@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+taking		1
+lead		1
+sally		1
+know		1
+help		1
+thanks		1

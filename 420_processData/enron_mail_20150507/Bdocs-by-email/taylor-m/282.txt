@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+pm		2
+gmt		1
+monday		1
+eb		1
+time		1
+july		1
+canada		1
+central		1

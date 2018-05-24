@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+august		2
+appt		1
+day		1
+doctors		1
+th		1
+rd		1

@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+good		2
+honda		2
+much		1
+silver		1
+cooler		1
+looks		1
+red		1
+actually	1
+bill		1
+reliability	1
+one		1
+probably	1
+think		1

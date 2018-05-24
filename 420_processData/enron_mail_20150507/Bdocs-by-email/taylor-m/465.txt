@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+products	1
+power		1
+global		1
+safe		1
+gas		1
+louise		1
+throw		1
+related		1
+natural		1
+think		1

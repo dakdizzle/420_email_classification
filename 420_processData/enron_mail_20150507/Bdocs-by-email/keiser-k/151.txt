@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+kam		2
+cn		2
+keiser		2
+recipients	1
+kamx		1
+filename	1
+na		1
+call		1
+pst		1
+kkeiser		1
+enron		1
+please		1
+questions	1
+ou		1

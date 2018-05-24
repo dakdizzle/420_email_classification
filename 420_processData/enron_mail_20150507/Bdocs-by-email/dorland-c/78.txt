@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+little		1
+great		1
+concept		1
+pricey		1

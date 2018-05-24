@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+number		2
+wrong		1
+laughlin	1
+thanxchris	1
+royal		1
+fax		1
+terri		1
+gave		1
+tricia		1
+correct		1
+bank		1
+think		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sweet		1
+ok		1
+baby		1

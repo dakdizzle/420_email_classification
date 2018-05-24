@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+view		1
+approved	1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+show		1
+mail		1
+nora		1
+checking	1

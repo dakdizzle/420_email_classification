@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+interview	2
+tj		2
+phone		2
+soco		1
+pm		1
+tommorow	1
+yesterday	1
+afternoon	1
+morning		1
+way		1
+please		1
+trades		1
+work		1
+already		1
+need		1
+told		1
+preferably	1
+coordinate	1
+needs		1

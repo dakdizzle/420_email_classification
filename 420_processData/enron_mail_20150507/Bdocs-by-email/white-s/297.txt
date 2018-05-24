@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+seen		1
+hope		1
+stacey		1
+well		1
+going		1
+sure		1
+website		1
+wasn		1
+searches	1

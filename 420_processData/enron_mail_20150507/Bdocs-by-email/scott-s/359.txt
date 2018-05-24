@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+know		1
+guys		1
+start		1
+gonna		1
+before		1
+outnumbering	1

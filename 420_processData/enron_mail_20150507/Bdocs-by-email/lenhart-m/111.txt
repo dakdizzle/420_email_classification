@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+pm		1
+hey		1
+looking		1
+today		1
+th		1
+purchased	1
+grandma		1
+seeing		1
+grand		1
+matt		1
+foward		1
+everyone	1
+going		1
+ticket		1
+saturday	1
+love		1
+forks		1

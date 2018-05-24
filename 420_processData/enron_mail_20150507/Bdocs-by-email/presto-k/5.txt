@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+picked		1
+getting		1

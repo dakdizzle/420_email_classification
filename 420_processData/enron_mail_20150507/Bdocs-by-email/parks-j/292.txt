@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+people		2
+america		1
+stand		1
+excessive	1
+american	1
+viva		1
+few		1
+compention	1
+la		1
+corporate	1
+longer		1
+pigs		1

@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+stacey		2
+swhite		2
+cn		2
+deal		2
+date		2
+up		1
+following	1
+recipients	1
+white		1
+split		1
+filename	1
+na		1
+pstplease	1
+thanks		1
+privileged	1
+list		1
+non		1
+enron		1
+back		1
+change		1
+ou		1
+original	1

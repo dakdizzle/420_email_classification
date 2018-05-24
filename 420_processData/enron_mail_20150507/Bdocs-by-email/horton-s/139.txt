@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+meeting		2
+conflict	1
+washington	1
+rescheduling	1
+nortwest	1
+asked		1
+natural		1
+candover	1
+c		1
+dick		1
+call		1

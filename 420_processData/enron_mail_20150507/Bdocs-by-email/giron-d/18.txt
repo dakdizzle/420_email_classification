@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+giron		2
+pstthis		1
+content		1
+done		1
+darron		1
+encoding	1
+origin		1
+bitx		1
+dx		1
+dg		1
+filename	1
+transfer	1

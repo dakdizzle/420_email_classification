@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+much		1
+time		1
+someone		1

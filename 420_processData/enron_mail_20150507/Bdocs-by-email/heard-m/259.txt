@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+one		2
+second		1
+first		1
+forms		1
+hedge		1
+attached	1
+blackline	1
+fund		1
+susan		1
+form		1
+actual		1
+frank		1

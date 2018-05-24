@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vs		1
+yes		1
+depending	1
+cost		1
+subscriptions	1

@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+orig		2
+need		2
+deal		2
+flow		1
+transaction	1
+reply		1
+track		1
+continue	1
+amounts		1
+although	1
+bt		1
+number		1
+remember	1
+better		1
+granted		1
+count		1
+line		1
+cut		1
+dave		1
+think		1
+worry		1
+small		1

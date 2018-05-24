@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+make		1
+respond		1
+lisa		1
+thank		1
+know		1
+guys		1
+please		1
+want		1
+correct		1
+test		1
+gang		1
+address		1
+sure		1

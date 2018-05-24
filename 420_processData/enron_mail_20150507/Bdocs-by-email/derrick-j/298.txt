@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+jim		2
+group		1
+haedicke	1
+mark		1
+now		1
+use		1
+continue	1
+derrick		1
+heath		1

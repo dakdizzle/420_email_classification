@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+grasshopper	1
+go		1
+night		1
+last		1
+didn		1

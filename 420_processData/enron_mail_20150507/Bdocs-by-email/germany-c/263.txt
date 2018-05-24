@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+requests	1
+know		1
+ena		1
+sign		1
+one		1
+susan		1
+called		1
+wire		1
+didn		1
+cao		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+email		1
+hey		1
+know		1
+name		1
+yahoo		1
+trying		1
+susan		1
+messenger	1
+reaches		1
+figure		1
+denver		1

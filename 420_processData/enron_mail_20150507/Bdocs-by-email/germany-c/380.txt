@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hospital	1
+please		1
+registered	1
+see		1
+call		1

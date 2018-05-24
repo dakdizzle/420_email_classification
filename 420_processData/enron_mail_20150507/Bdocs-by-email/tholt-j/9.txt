@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+sale		1
+based		1

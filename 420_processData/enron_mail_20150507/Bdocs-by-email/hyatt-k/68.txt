@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+info		1
+conversation	1
+per		1
+today		1
+phone		1
+earlier		1
+kevin		1
+call		1
+jim		1
+regards		1
+question	1
+hyatt		1
+here		1

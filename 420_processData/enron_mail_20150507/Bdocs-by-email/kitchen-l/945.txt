@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+orig		1
+wanted		1
+don		1
+worry		1

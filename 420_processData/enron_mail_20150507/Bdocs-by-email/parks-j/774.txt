@@ -1,0 +1,26 @@
+NumWords	28
+NumTerms	23
+
+com		4
+austin		2
+mccomb		2
+kmccomb		1
+starting	1
+brian		1
+wollam		1
+micheal		1
+trying		1
+cmccomb		1
+out		1
+brianc		1
+point		1
+erwollam	1
+knipe		1
+msn		1
+constantine	1
+eric		1
+sound		1
+comi		1
+hotmail		1
+saltgrass	1
+erik		1

@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+pay		2
+vince		1
+shall		1
+conference	1
+trip		1
+shirley		1

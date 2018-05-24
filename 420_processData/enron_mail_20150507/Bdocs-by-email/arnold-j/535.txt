@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ish		1
+ve		1
+before		1
+mtg		1

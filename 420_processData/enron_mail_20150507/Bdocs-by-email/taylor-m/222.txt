@@ -1,0 +1,18 @@
+NumWords	25
+NumTerms	15
+
+defined		2
+exchange	2
+term		2
+eligible	2
+s		2
+act		2
+amended		2
+such		2
+constitutes	2
+commodity	2
+entity		1
+participant	1
+contract	1
+commercial	1
+ii		1

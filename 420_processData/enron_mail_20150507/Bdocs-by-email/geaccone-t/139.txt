@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kids		1
+early		1
+lets		1
+leave		1
+take		1
+think		1
+doctor		1
+reschedule	1

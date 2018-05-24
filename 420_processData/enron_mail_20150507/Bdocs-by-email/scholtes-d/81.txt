@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+setting		1
+diana		1
+up		1
+serious		1
+bring		1
+nothing		1
+response	1
+cara		1
+concur		1
+formal		1

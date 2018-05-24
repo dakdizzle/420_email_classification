@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+miss		1
+ark		1
+st		1
+iowa		1

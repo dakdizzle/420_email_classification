@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+need		1
+last		1
+karen		1
+week		1
+still		1
+mat		1
+help		1

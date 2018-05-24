@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+immer		2
+ingrid		2
+enron		1
+williams	1
+maybe		1
+com		1

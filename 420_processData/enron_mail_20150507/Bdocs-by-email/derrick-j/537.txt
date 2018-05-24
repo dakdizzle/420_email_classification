@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+day		1
+look		1
+les		1
+best		1
+one		1
+forward		1
+seeing		1
+thoughts	1
+thanks		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+breakfast	1
+friday		1
+diner		1
+works		1

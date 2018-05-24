@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+out		1
+thanksjmf	1
+price		1
+zeroed		1

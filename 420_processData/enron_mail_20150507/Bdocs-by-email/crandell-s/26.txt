@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+fine		2
+remind		1
+everything	1
+sean		1
+townhome	1
+quite		1
+comfortable	1
+town		1
+give		1
+call		1

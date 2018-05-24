@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+diana		1
+day		1
+scholtes	1
+thank		1
+december	1
+purposes	1
+trying		1
+enpower		1
+balance		1
+scheduler	1
+settlement	1
+m		1
+rolled		1
+back		1
+go		1
+tell		1
+last		1
+auto		1

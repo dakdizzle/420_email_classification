@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+please		1
+sara		1
+russell		1
+problem		1
+looks		1
+call		1

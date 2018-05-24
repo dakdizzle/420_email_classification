@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+those		1
+calgary		1
+silver		1
+days		1
+champagne	1
+interest	1
+white		1
+chris		1
+call		1
+colors		1
+office		1
+black		1
+going		1
+sept		1
+give		1
+burgundy	1
+dorland		1

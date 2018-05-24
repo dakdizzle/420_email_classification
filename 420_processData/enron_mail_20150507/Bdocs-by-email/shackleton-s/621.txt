@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+john		1
+sign		1
+marie		1
+going		1
+here		1

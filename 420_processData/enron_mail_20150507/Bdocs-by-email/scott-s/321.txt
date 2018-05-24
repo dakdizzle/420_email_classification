@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+name		2
+case		1
+assume		1
+nicolay		1
+usually		1
+know		1
+well		1
+attached	1
+intended	1
+susan		1
+christi		1
+see		1
+thanks		1
+emails		1
+actually	1
+distribution	1
+isn		1
+think		1

@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+dorland		3
+chris		2
+cn		2
+thanxchris	1
+up		1
+recipients	1
+nymex		1
+trade		1
+filename	1
+na		1
+products	1
+spread		1
+psti		1
+adm		1
+enron		1
+cdorlan		1
+ou		1
+eol		1
+set		1

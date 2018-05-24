@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+game		2
+party		1
+thing		1
+ok		1
+go		1
+tenn		1
+bachelor	1
+florida		1
+going		1
+dietz		1
+same		1
+val		1

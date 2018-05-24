@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+know		2
+calls		2
+ll		2
+until		1
+holloway	1
+today		1
+mean		1
+bug		1
+trade		1
+see		1
+out		1
+nicole		1
+back		1
+bent		1
+shape		1
+wait		1
+didn		1

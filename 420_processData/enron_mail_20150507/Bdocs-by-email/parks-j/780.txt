@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+send		1
+hey		1
+employment	1
+information	1
+attorney	1
+forward		1
+need		1
+someone		1

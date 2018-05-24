@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+up		1
+catch		1
+jeff		1
+best		1
+back		1
+works		1
+tuesday		1
+love		1
+thanks		1

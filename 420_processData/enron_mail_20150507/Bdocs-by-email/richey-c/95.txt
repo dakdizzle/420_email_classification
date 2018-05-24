@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+sqws		1
+up		1
+hooked		1
+nacal		1

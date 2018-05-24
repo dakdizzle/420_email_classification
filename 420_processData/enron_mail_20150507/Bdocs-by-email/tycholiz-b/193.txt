@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+time		1
+up		1
+set		1
+bt		1
+give		1
+call		1

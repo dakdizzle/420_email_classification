@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+send		1
+opening		1
+position	1
+carroll		1
+want		1
+courthouse	1
+janitorial	1
+told		1
+called		1
+resume		1

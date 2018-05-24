@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+email		2
+send		1
+detach		1
+following	1
+julia		1
+attachment	1
+kevin		1
+communications	1
+thanks		1
+andersen	1
+enclosed	1
+please		1
+want		1
+michelle	1
+murray		1
+need		1
+kosub		1
+address		1
+don		1
+twanda		1
+com		1

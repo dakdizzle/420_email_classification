@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+tomarrow	1
+info		1
+up		1
+information	1
+sorry		1
+definitely	1
+asked		1
+chris		1
+never		1
+kim		1
+follow		1
+back		1
+patti		1

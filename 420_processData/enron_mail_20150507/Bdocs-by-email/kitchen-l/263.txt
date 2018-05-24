@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+group		1
+make		1
+adjusting	1
+therefore	1
+due		1
+money		1
+twins		1
+hans		1
+done		1
+people		1
+pie		1
+matter		1
+american	1
+percentages	1
+bigger		1
+more		1
+need		1
+doesn		1

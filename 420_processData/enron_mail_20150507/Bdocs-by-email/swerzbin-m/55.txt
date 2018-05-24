@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+man		1
+thanks		1
+muni		1
+here		1

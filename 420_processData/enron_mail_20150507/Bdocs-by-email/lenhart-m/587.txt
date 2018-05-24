@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+few		1
+things		1
+think		1

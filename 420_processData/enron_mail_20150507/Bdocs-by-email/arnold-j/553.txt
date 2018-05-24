@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+price		2
+john		1
+decimals	1
+deals		1
+following	1
+four		1
+round		1
+same		1
+cargill		1
+spread		1
+joey		1
+thx		1
+keeping		1
+eol		1

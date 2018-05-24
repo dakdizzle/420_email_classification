@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+novy		1
+print		1

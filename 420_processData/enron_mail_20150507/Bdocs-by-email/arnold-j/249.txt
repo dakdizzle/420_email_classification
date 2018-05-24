@@ -1,0 +1,21 @@
+NumWords	22
+NumTerms	18
+
+paso		2
+m		2
+el		2
+going		2
+time		1
+left		1
+collins		1
+same		1
+naturally	1
+ve		1
+bo		1
+anywhere	1
+during		1
+july		1
+unfortunately	1
+half		1
+week		1
+took		1

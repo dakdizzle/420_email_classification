@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+now		2
+good		2
+stuff		1
+write		1
+publishing	1
+drive		1
+up		1
+working		1
+writing		1
+web		1
+looks		1
+easy		1
+m		1
+one		1
+tell		1
+change		1
+idea		1
+forward		1
+going		1
+works		1
+set		1
+think		1

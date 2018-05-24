@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+sent		1
+send		1
+gordon		1
+copy		1
+grupo		1
+marie		1
+minsa		1
+hi		1
+thanks		1
+termination	1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+enrollment	1
+open		1
+limit		1
+fees		1
+exit		1

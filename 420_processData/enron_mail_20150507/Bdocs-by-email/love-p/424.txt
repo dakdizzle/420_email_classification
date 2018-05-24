@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+seems		1
+pl		1
+receptive	1
+hunter		1
+proactive	1
+back		1
+working		1
+pretty		1
+getting		1
+head		1
+here		1

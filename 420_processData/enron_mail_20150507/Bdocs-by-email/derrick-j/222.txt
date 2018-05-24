@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+good		1
+agree		1
+program		1
+oversee		1
+williams	1
+rw		1
+bob		1
+candidate	1
+suggested	1
+ann		1

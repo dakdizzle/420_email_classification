@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+non		1
+stroup		1
+kerry		1
+midwest		1
+miso		1
+handling	1
+matters		1
+arto		1
+think		1

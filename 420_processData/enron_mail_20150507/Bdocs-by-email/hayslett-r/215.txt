@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+rhaysle		2
+cn		2
+recipients	1
+hayslett	1
+pstonly		1
+filename	1
+na		1
+kevin		1
+privileged	1
+non		1
+enron		1
+one		1
+assistant	1
+ou		1
+rod		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+cqg		1
+find		1
+need		1
+application	1
+still		1
+judy		1
+julie		1
+thanks		1

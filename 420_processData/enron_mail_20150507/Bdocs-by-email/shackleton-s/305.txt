@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+credit		1
+verison		1
+tanya		1
+report		1
+electronic	1
+ag		1
+here		1

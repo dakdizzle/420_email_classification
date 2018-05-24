@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+last		2
+cal		1
+two		1
+term		1
+trades		1
+sorry		1
+mail		1
+tom		1
+don		1
+think		1

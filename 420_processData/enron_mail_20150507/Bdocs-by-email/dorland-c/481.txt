@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+back		2
+cfa		1
+much		1
+yours		1
+place		1
+time		1
+know		1
+spend		1
+today		1
+actually	1
+congrats	1
+thinking	1
+monica		1
+fighting	1
+go		1
+more		1
+work		1
+going		1
+week		1
+yard		1
+think		1

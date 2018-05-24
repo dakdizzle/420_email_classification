@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+know		2
+seem		1
+flowing		1
+jon		1
+ya		1
+beers		1
+before		1
+see		1
+ll		1
+always		1

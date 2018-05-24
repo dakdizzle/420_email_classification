@@ -1,0 +1,20 @@
+NumWords	21
+NumTerms	17
+
+make		2
+sunday		2
+around		2
+saturday	2
+pm		1
+tee		1
+chris		1
+noon		1
+times		1
+forget		1
+thinking	1
+please		1
+dad		1
+untill		1
+thanx		1
+don		1
+ryan		1

@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+tanya		2
+credit		1
+up		1
+files		1
+marie		1
+phone		1
+arrange		1
+someone		1
+copies		1
+thanks		1
+look		1
+linda		1
+type		1
+exactly		1
+follow		1
+go		1
+need		1
+documents	1
+through		1

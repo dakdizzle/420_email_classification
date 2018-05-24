@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ve		1
+response	1
+waiting		1
+called		1
+still		1
+twice		1
+julie		1

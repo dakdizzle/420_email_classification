@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+hear		1
+nice		1
+good		1
+day		1
+tomorrow	1
+things		1
+kind		1
+made		1
+see		1
+think		1
+special		1
+thanks		1

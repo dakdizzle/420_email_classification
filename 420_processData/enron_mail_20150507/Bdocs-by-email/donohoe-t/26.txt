@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+asp		1
+propsearch	1
+http		1
+query		1
+www		1
+recolorado	1
+com		1

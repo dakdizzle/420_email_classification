@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+out		1
+year		1
+oct		1
+offer		1

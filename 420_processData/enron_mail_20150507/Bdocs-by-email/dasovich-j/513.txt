@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+dc		1
+jim		1
+word		1
+monopolists	1
+arguments	1
+well		1
+crushing	1
+thanks		1

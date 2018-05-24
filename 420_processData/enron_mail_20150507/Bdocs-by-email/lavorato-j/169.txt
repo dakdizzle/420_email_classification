@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+primary		1
+carrabean	1
+m		1
+caters		1
+place		1
+interested	1
+focus		1
+children	1
+young		1
+upscale		1
+jamaica		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+april		1
+gd		1
+priced		1
+entered		1
+sitara		1
+index		1
+going		1
+below		1
+hit		1
+deal		1
+see		1
+give		1

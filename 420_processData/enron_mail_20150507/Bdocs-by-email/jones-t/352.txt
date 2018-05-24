@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+mark		1
+soon		1
+coming		1
+challenging	1
+time		1
+somewhat	1
+know		1
+changes		1
+japan		1
+dealing		1
+wanted		1
+approves	1

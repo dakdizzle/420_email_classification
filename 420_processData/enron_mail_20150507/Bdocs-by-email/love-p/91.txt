@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+account		1
+those		1
+paypal		1
+send		1
+pl		1
+well		1
+paid		1
+pinnacle	1
+sleeve		1
+golf		1
+thanks		1
+please		1
+another		1
+balls		1
+below		1
+address		1

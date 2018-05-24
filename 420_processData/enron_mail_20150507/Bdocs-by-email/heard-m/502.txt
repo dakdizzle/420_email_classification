@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+todd		1
+co		1
+perkins		1
+received	1
+mail		1
+southern	1

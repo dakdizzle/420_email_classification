@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+good		1
+vols		1
+system		1
+looks		1
+rest		1

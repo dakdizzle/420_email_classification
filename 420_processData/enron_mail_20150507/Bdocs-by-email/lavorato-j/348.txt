@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+st		3
+dallbrodeur	1
+nj		1
+colforsberg	1
+pittkovalev	1
+colyzerman	1
+louistkachuk	1
+pittlemieux	1
+elias		1
+pittyashin	1
+ottturgeon	1
+picks		1
+louissakic	1
+detmodano	1
+njjagr		1
+louispronger	1
+lav		1

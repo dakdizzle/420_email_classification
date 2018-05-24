@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+much		1
+asset		1
+now		1
+along		1
+valuation	1
+problem		1
+see		1
+talking		1
+lori		1
+eott		1
+going		1
+need		1
+don		1

@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+iso		2
+https		1
+si		1

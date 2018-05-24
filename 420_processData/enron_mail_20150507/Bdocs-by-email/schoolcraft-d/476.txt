@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ds		1
+up		1
+please		1
+critical	1
+tw		1
+set		1
+notices		1

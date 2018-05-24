@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+pl		1
+physical	1
+gas		1
+deals		1
+daily		1
+sorry		1
+delay		1
+help		1
+thanks		1
+active		1
+book		1
+cpid		1
+suspend		1

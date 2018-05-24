@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+volumes		3
+file		2
+sir		1
+net		1
+payment		1
+quetion		1
+looks		1
+thanks		1
+volume		1
+march		1
+check		1
+used		1
+please		1
+cnr		1
+gross		1

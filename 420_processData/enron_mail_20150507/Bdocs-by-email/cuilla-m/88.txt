@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+http		2
+www		2
+dexwillie	2
+full		1
+pm		1
+newadvent	1
+toons		1
+porno		1
+signed		1
+cathen		1
+org		1
+jpg		1
+com		1
+htm		1

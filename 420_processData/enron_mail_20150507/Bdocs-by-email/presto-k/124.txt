@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+fee		2
+discuss		1
+accumulaton	1
+asset		1
+fixed		1
+talk		1
+annual		1
+fine		1
+trade		1
+high		1
+call		1
+way		1
+please		1
+yes		1
+issue		1
+amount		1
+think		1
+based		1

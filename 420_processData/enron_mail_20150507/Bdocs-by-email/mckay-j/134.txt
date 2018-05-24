@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+year		3
+park		1
+stamps		1
+good		1
+hillsboro	1
+telus		1
+jon		1
+go		1
+luck		1
+lindsay		1

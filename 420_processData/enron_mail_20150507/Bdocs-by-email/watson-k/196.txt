@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+sept		2
+participate	2
+wednesday	1
+albuquerque	1
+steve		1
+tk		1
+leave		1
+hour		1
+noon		1
+tuesday		1
+help		1
+thanks		1
+kim		1
+around		1
+defining	1
+rich		1
+available	1
+festival	1
+laguna		1

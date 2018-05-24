@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+send		1
+paso		1
+back		1
+el		1
+cleaner		1
+want		1
+money		1
+middle		1
+think		1
+here		1

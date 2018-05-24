@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+beer		2
+news		2
+depression	1
+usually		1
+th		1
+rd		1
+anger		1
+good		1
+go		1
+makes		1
+last		1
+bad		1
+week		1
+away		1
+pain		1

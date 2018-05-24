@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+talk		1
+please		1
+shirley		1
+cancel		1

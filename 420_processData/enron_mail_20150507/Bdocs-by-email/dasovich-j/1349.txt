@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ve		1
+together	1
+jeff		1
+best		1
+know		1
+update		1
+pulled		1
+reach		1
+problem		1
+thanks		1

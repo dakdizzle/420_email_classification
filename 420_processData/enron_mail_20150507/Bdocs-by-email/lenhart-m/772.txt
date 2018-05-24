@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+completely	1
+fixed		1
+working		1
+know		1
+going		1
+mgmt		1
+don		1
+think		1
+informed	1
+wish		1
+here		1
+love		1

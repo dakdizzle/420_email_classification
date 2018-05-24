@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+good		2
+worst		1
+talks		1
+today		1
+outside		1
+yesterday	1
+better		1
+out		1
+morning		1
+cough		1
+being		1
+feel		1
+luck		1
+brought		1
+think		1

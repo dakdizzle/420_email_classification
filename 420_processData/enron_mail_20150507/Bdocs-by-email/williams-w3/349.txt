@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+interviews	1
+possible	1
+bill		1
+thursday	1
+quickly		1
+going		1
+process		1
+thanks		1

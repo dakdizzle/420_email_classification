@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+flow		3
+deal		3
+farmer		1
+above		1
+following	1
+ect		1
+january		1
+system		1
+total		1
+cover		1
+daren		1
+olsen		1
+michael		1
+hou		1
+extended	1
+done		1
+enron		1
+dates		1
+amto		1
+continued	1
+ectcc		1
+february	1
+meter		1
+subject		1

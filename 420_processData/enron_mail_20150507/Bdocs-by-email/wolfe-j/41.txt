@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+jason		2
+notice		1
+mark		1
+send		1
+paypal		1
+payment		1
+funds		1
+days		1
+houston		1
+wolfe		1
+total		1
+take		1
+transferring	1
+thanks		1
+amincluding	1
+available	1
+alabama		1
+tx		1
+apt		1
+product		1
+couple		1
+insurance	1

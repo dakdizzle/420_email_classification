@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+germany		2
+enron		1
+comx		1
+origin		1
+cx		1
+garrick		1
+chris		1
+filename	1
+hill		1
+pst		1

@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+up		2
+good		2
+work		2
+move		2
+mi		1
+flights		1
+yourself	1
+ritas		1
+pick		1
+meet		1
+someone		1
+straight	1
+out		1
+luna		1
+around		1
+pay		1
+go		1
+tomorrow	1
+stairs		1
+going		1
+love		1

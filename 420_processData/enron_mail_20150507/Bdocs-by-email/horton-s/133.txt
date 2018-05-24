@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+shorton		2
+cn		2
+jeff		2
+first		1
+mark		1
+invite		1
+stanley		1
+review		1
+recipients	1
+filename	1
+na		1
+privileged	1
+psti		1
+non		1
+ray		1
+enron		1
+go		1
+ahead		1
+ou		1
+thought		1
+process		1
+horton		1

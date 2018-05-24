@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+something	1
+heart		1
+people		1
+class		1
+remeber		1
+ymca		1
+attacksi	1
+recovering	1
+think		1

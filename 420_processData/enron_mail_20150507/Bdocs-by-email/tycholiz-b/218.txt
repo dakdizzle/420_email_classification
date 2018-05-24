@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+going		2
+early		1
+oz		1
+shoot		1
+drinks		1
+today		1
+sorry		1
+bt		1
+wait		1
+such		1
+pull		1

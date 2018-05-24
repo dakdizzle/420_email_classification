@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+applications	1
+lloyd		1
+approving	1
+enron		1
+kobra		1
+lwill		1
+recipients	1
+ou		1
+na		1
+new		1

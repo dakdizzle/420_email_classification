@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+first		1
+click		1
+goofballgo	1
+try		1
+rumors		1
+en		1
+war		1
+go		1
+www		1
+snopes		1
+halloween	1
+com		1

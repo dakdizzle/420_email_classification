@@ -1,0 +1,27 @@
+NumWords	34
+NumTerms	24
+
+cn		4
+recipients	2
+na		2
+gmssr		2
+enron		2
+ou		2
+mail		2
+com		2
+bennett		1
+day		1
+mday		1
+helpful		1
+fyi		1
+jdasovic	1
+susan		1
+dasovich	1
+smara		1
+call		1
+mara		1
+jim		1
+jeff		1
+mike		1
+jbennett	1
+jeanne		1

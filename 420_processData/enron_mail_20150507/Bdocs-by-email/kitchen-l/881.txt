@@ -1,0 +1,16 @@
+NumWords	18
+NumTerms	13
+
+chicago		2
+presume		2
+marcus		2
+week		2
+away		2
+looking		1
+know		1
+wed		1
+wrong		1
+philadephia	1
+obviously	1
+thursday	1
+next		1

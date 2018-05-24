@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+loop		2
+live		1
+up		1
+usually		1
+houston		1
+outside		1
+leave		1
+unless		1
+golf		1
+inside		1
+ugly		1
+part		1
+grow		1
+pretty		1
+don		1
+here		1

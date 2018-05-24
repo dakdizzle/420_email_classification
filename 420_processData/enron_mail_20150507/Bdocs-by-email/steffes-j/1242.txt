@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+web		2
+site		2
+section		2
+moving		1
+nyc		1
+electron	1
+orleans		1
+www		1
+compute		1
+jim		1
+issues		1
+look		1
+southerncompany	1
+go		1
+cost		1
+new		1
+news		1
+com		1

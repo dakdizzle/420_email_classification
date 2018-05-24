@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+pstthanks	1
+non		1
+mx		1
+enron		1
+comx		1
+origin		1
+filename	1
+gray		1
+dave		1
+mtaylo		1
+taylor		1
+privileged	1

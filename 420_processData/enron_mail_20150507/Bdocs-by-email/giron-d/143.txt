@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+friday		2
+morning		1
+return		1
+know		1
+night		1
+leave		1
+dg		1
+don		1
+typed		1
+thurs		1

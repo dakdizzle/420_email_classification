@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+others		1
+please		1
+matt		1
+forward		1
+smith		1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+duke		2
+know		1
+gas		1
+approvals	1
+response	1
+field		1
+thanks		1
+mrt		1
+regarding	1
+seek		1
+services	1
+received	1
+pay		1
+volumes		1
+necessary	1
+shemin		1
+joe		1
+here		1

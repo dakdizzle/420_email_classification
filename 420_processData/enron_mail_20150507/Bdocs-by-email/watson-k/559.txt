@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+kim		1
+enron		1
+fyi		1
+recipients	1
+ou		1
+jan		1
+moore		1
+jmoore		1
+na		1

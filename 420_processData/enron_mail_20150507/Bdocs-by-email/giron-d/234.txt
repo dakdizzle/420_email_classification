@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+info		1
+home		1
+much		1
+case		1
+m		1
+dgiron		1
+houston		1
+dg		1
+longer		1
+comthanks	1
+rr		1
+here		1

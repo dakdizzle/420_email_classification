@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ok		1
+know		1
+extra		1
+ticket		1

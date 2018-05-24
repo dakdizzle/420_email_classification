@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+something	1
+free		1
+yeah		1

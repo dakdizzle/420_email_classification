@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+time		1
+tired		1
+slept		1
+watch		1
+yesterday	1
+lot		1

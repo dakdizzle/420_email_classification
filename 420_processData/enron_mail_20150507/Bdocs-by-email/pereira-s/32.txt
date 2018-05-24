@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+calcs		1
+gulf		1
+alejandra	1
+susan		1
+thanks		1

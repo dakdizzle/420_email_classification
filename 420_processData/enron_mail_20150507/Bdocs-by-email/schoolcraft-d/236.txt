@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+speed		2
+situation	1
+evaluate	1
+rep		1
+up		1
+variable	1
+keep		1
+flying		1
+unit		1
+help		1
+running		1
+ds		1
+something	1
+start		1
+tonight		1

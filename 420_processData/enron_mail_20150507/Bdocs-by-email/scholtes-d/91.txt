@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+cn		2
+useful		1
+lines		1
+tag		1
+time		1
+information	1
+recipients	1
+attachment	1
+listed		1
+na		1
+ds		1
+csemper		1
+semperger	1
+towards		1
+enron		1
+continued	1
+implementation	1
+bottom		1
+ou		1
+cara		1

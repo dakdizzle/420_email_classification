@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+day		1
+reception	1
+thank		1
+houston		1
+derrick		1
+june		1
+unable		1
+jim		1
+texas		1
+enron		1
+unfortunately	1
+invitation	1
+attend		1
+thus		1
+london		1
+usa		1

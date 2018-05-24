@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+option		2
+spread		1
+stacey		1
+except		1
+index		1
+understand	1
+following	1
+treated		1

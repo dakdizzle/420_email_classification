@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+vince		2
+monday		1
+jx		1
+dinner		1
+shall		1
+glad		1
+meet		1
+filename	1
+vkamins		1
+boston		1
+pstbill		1
+kaminski	1

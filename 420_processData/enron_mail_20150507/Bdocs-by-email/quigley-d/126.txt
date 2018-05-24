@@ -1,0 +1,24 @@
+NumWords	30
+NumTerms	21
+
+sep		2
+vs		2
+pen		2
+gas		2
+nymex		2
+fin		2
+usd		2
+spd		2
+mm		2
+nl		1
+ld		1
+fine		1
+looks		1
+kevin		1
+dutch		1
+ltous		1
+descriptor	1
+please		1
+lall		1
+change		1
+fromus		1

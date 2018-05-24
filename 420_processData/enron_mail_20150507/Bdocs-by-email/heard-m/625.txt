@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+morris		1
+mirant		1
+marie		1
+documents	1
+ecc		1
+thanks		1

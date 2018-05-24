@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+please		2
+guarantee	2
+parental	1
+glen		1
+copy		1
+consider	1
+consideration	1
+attached	1
+form		1
+thanks		1
+call		1
+enron		1
+effort		1
+reviewing	1
+questions	1
+gurantee	1
+utilizing	1
+cilcorp		1
+execution	1
+expedite	1
+hi		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+luna		1
+village		1
+mi		1
+place		1
+correct		1
+meet		1
+works		1
+better		1
+actually	1

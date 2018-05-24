@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+tariffs		1
+make		1
+up		1
+page		1
+happening	1
+end		1
+risk		1
+tariff		1
+talk		1
+final		1
+advise		1
+same		1
+jim		1
+please		1
+statements	1
+gloria		1
+harry		1
+need		1
+concerned	1
+sure		1
+think		1
+ews		1

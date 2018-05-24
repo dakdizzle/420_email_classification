@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+diego		1
+weekend		1
+road		1
+trip		1
+think		1
+dallas		1
+san		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+much		1
+john		1
+today		1
+appreciated	1
+timely		1
+note		1
+prc		1
+thanks		1

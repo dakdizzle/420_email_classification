@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+good		2
+time		2
+stay		1
+party		1
+go		1
+going		1
+town		1
+sounds		1
+golf		1
+think		1

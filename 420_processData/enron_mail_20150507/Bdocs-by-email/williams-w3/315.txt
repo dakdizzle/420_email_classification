@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+props		1
+accomplishment	1
+much		1
+nice		1
+way		1
+good		1
+job		1
+go		1
+big		1

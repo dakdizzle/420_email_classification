@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+time		2
+early		1
+day		1
+place		1
+closed		1
+friday		1
+cheque		1
+courier		1
+left		1
+sorry		1
+found		1
+labor		1
+out		1
+regards		1
+hope		1
+jon		1
+go		1
+weekend		1
+everyone	1
+mail		1
+arrives		1
+didn		1

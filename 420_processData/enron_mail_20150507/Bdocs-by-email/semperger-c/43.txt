@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+freeland	2
+cara		2
+new		2
+order		1
+heard		1
+subsidized	1
+met		1
+send		1
+know		1
+divorce		1
+lemmie		1
+name		1
+plain		1
+driver		1
+world		1
+license		1
+afternoon	1
+papers		1
+good		1
+tri		1
+sweeite		1
+change		1
+parking		1
+over		1

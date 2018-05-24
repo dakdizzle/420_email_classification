@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+class		1
+causholli	1
+offered		1
+monika		1
+derivatives	1
+thanks		1
+ii		1
+next		1

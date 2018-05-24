@@ -1,0 +1,24 @@
+NumWords	29
+NumTerms	21
+
+ect		3
+enron		3
+john		2
+hodge		2
+hou		2
+corp		2
+concannon	1
+goodell		1
+pm		1
+scott		1
+chris		1
+spreadsheets	1
+forwarded	1
+pmto		1
+ectcc		1
+germany		1
+subject		1
+lending		1
+ruth		1
+tco		1
+parking		1

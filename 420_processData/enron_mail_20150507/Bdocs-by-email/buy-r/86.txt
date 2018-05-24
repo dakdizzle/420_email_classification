@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+call		3
+stuff		1
+those		1
+comment		1
+monthly		1
+jule		1
+money		1
+checks		1
+number		1
+important	1
+manage		1
+statements	1
+fidelity	1
+tell		1
+dad		1
+carefully	1
+jerk		1
+need		1
+thought		1
+don		1
+very		1
+hi		1
+love		1

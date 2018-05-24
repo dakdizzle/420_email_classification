@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+little		1
+much		1
+ok		1
+few		1
+came		1
+thanks		1
+house		1
+flooded		1
+garage		1
+island		1
+turned		1
+hours		1
+pretty		1
+note		1
+through		1

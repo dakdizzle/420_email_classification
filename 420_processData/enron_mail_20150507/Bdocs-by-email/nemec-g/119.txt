@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+notice		1
+letters		1
+contracts	1

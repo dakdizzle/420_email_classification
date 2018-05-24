@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+debra		2
+files		1
+system		1
+help		1
+thanks		1
+done		1
+check		1
+perelingiere	1
+contract	1
+made		1
+recently	1
+prepared	1
+ll		1

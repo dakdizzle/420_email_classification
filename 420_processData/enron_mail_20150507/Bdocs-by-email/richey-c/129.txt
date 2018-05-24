@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+eaten		1
+now		1
+meet		1
+lunch		1
+still		1
+take		1
+haven		1

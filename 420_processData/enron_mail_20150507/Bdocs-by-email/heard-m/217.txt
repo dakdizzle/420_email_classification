@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+rebecca		1
+entity		1
+know		1
+weather		1
+recipients	1
+trade		1
+na		1
+bell		1
+enron		1
+ou		1
+don		1
+rbell		1

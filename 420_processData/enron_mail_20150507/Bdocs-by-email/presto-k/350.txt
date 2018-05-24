@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+point		1
+up		1
+heads		1
+understand	1
+legal		1
+forward		1
+mail		1
+eol		1
+thanks		1

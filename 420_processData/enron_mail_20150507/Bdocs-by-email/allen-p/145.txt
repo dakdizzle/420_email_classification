@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+others		1
+leslie		1
+sent		1
+list		1
+distribution	1
+desk		1
+mike		1
+include		1
+note		1

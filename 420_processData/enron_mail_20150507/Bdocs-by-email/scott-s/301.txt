@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+few		1
+give		1
+call		1
+ll		1

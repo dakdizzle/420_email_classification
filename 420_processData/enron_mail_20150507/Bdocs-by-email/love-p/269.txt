@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+favorite	1
+pl		1
+up		1
+hard		1
+ripping		1
+sorry		1
+route		1
+fan		1
+ladanian	1
+chargers	1
+team		1
+raider		1
+year		1
+fantasy		1
+sure		1
+game		1
+die		1
+rest		1
+play		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+great		1
+job		1
+now		1
+ty		1
+rest		1

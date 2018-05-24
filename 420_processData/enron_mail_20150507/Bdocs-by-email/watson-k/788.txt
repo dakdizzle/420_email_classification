@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+one		2
+year		2
+proposal	2
+term		1
+end		1
+tk		1
+thanks		1
+capacity	1
+transportation	1
+kim		1
+plus		1
+release		1
+fuel		1
+nng		1
+south		1
+cost		1
+think		1
+commodity	1
+particularity	1
+thoughts	1
+here		1

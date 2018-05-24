@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+jenny		2
+simply		1
+listing		1
+exists		1
+fyi		1
+person		1
+looks		1
+assessment	1
+cox		1
+team		1
+obviously	1
+received	1
+sally		1
+equipment	1
+paige		1

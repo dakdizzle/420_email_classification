@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+promising	1
+papers		1
+great		1
+find		1
+idea		1
+looked		1
+briefly		1
+agency		1
+government	1
+very		1

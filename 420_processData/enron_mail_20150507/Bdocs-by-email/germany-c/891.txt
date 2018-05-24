@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+buy		1
+ring		1
+d		1

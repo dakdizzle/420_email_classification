@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+make		3
+party		1
+yourselves	1
+right		1
+try		1
+enjoy		1
+now		1
+whether		1
+billy		1
+dick		1
+see		1
+otherwise	1

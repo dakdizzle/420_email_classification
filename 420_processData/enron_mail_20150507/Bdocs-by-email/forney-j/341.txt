@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+well		3
+very		3
+going		2
+vu		1
+stuff		1
+much		1
+coming		1
+time		1
+options		1
+deja		1
+same		1
+golf		1
+spread		1
+good		1
+real		1
+book		1
+more		1
+old		1
+doing		1
+play		1

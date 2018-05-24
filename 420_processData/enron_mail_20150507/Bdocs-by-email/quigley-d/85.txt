@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+frame		1
+bid		1
+time		1
+settle		1
+night		1
+last		1
+strip		1
+deal		1

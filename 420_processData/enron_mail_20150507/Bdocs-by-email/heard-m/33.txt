@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+leave		1
+before		1
+call		1
+ll		1
+okay		1

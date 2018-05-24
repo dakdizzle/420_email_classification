@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+day		1
+fri		1
+try		1
+lets		1
+before		1
+take		1
+planning	1

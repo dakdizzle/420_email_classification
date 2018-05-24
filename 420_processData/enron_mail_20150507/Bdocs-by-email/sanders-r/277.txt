@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+th		2
+go		2
+need		2
+first		1
+day		1
+pm		1
+diego		1
+hearing		1
+find		1
+robin		1
+out		1
+gibbs		1
+back		1
+staying		1
+probably	1
+doing		1
+flight		1
+san		1

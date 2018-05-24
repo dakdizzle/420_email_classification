@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+send		1
+crazy		1
+today		1
+sorry		1
+last		1
+week		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+sara		1
+again		1
+laurie		1
+phone		1
+number		1

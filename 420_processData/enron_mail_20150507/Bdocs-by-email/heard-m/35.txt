@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+cn		2
+mheard		2
+heard		1
+marie		1
+mean		1
+recipients	1
+guess		1
+filename	1
+na		1
+privileged	1
+ve		1
+smart		1
+really		1
+pstif		1
+non		1
+aleck		1
+enron		1
+missed		1
+scheduled	1
+ou		1
+don		1
+love		1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+out		2
+items		1
+many		1
+monica		1
+draw		1
+know		1
+tomorrow	1
+one		1
+meet		1
+graphs		1
+red		1

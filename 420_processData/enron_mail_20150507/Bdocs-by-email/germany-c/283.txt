@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+character	2
+see		2
+type		2
+cmi		1
+email		1
+copy		1
+html		1
+http		1
+knight		1
+www		1
+once		1
+white		1
+take		1
+bet		1
+kingdomality	1
+benevolent	1
+ruler		1
+lmi		1
+description	1
+medieval	1
+test		1
+com		1

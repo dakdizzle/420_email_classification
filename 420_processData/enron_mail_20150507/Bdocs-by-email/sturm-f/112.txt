@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+cn		3
+dana		1
+mark		1
+davis		1
+enron		1
+notesaddr	1
+recipients	1
+ou		1
+na		1
+eec		1
+ab		1

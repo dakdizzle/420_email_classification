@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+drink		1
+together	1
+back		1
+nerve		1
+emailed		1

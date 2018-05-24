@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+fourth		1
+attack		1
+flat		1
+monkeys		1
+good		1
+come		1
+back		1
+july		1
+buy		1
+terriost	1
+week		1
+figure		1
+isnt		1
+sold		1
+next		1

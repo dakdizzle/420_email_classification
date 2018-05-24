@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+regarding	1
+email		1
+up		1
+bill		1
+know		1
+questions	1
+geir		1
+set		1
+eol		1
+access		1
+receiving	1
+getting		1

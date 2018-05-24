@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+gnemec		2
+cn		2
+ernie		1
+safe		1
+guys		1
+recipients	1
+filename	1
+na		1
+privileged	1
+stay		1
+second		1
+hope		1
+non		1
+psthere		1
+enron		1
+sentiments	1
+nemec		1
+ou		1
+proud		1
+gerald		1
+note		1
+very		1
+drop		1
+here		1

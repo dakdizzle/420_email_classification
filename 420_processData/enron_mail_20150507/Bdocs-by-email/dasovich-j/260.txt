@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+dhunter		1
+k		1
+jeff		1
+best		1
+minutes		1
+problem		1
+call		1
+com		1

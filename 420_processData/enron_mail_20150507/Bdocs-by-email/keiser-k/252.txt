@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+group		1
+quot		1
+spreadsheet	1
+daily		1
+anyone		1
+curves		1
+help		1
+es		1
+kept		1
+basis		1
+broker		1
+thankskam	1
+mike		1
+set		1

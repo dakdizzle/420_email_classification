@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+turns		1
+case		1
+kept		1
+judge		1
+diego		1
+mail		1
+san		1
+thanks		1

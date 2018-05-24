@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+go		2
+going		2
+work		1
+maybe		1
+stop		1
+running		1

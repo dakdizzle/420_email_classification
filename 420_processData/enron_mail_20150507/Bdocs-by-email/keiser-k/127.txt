@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+list		1
+know		1
+changes		1
+more		1
+made		1
+week		1
+later		1
+hal		1
+thanks		1

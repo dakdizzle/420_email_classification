@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+cn		2
+jsteffe		2
+asst		1
+meeting		1
+redmond		1
+brian		1
+becky		1
+jean		1
+pstlinda	1
+pls		1
+recipients	1
+filename	1
+na		1
+privileged	1
+steffes		1
+non		1
+enron		1
+cantrell	1
+james		1
+work		1
+ou		1
+thx		1
+ryall		1

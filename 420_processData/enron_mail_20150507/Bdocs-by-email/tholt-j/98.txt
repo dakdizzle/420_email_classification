@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+cn		2
+rebecca		1
+coming		1
+leslie		1
+meeting		1
+aslo		1
+recipients	1
+na		1
+looks		1
+ar		1
+good		1
+enron		1
+cantrell	1
+thursday	1
+ou		1
+bcantre		1
+still		1

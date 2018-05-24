@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+barbara		1
+fax		1
+tn		1
+please		1
+bill		1
+legal		1
+resend		1
+hueter		1
+thanks		1

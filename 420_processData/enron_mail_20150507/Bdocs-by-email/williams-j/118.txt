@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+jwillia		2
+cn		2
+day		1
+job		1
+yu		1
+jason		1
+williams	1
+beers		1
+recipients	1
+filename	1
+na		1
+see		1
+privileged	1
+drink		1
+pstnow		1
+non		1
+enron		1
+comedy		1
+ou		1
+before		1
+tthat		1
+give		1
+trading		1

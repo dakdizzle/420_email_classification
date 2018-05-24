@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+ozzie		2
+remind		1
+oz		1
+tell		1
+money		1
+away		1
+bt		1
+dave		1
+golf		1
+throwing	1
+doesn		1

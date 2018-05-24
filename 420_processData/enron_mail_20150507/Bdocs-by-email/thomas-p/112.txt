@@ -1,0 +1,18 @@
+NumWords	38
+NumTerms	15
+
+paul		4
+thomas		4
+na		4
+enron		4
+energy		2
+narsimha	2
+pm		2
+misra		2
+transmission	2
+forwarded	2
+enroncc		2
+pmto		2
+nepool		2
+subject		2
+uplift		2

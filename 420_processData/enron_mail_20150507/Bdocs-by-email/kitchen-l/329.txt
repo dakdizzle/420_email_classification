@@ -1,0 +1,18 @@
+NumWords	19
+NumTerms	15
+
+kitchen		2
+louise		2
+cn		2
+necessary	2
+first		1
+pstwhy		1
+place		1
+recipients	1
+filename	1
+na		1
+lkitchen	1
+really		1
+enron		1
+understand	1
+ou		1

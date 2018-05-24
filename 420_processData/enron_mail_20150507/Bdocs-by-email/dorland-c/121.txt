@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+mom		1
+loves		1
+more		1

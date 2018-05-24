@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+orders		2
+maintenance	1
+day		1
+az		1
+friday		1
+limit		1
+alert		1
+duirng		1
+wanted		1
+getting		1
+out		1
+multi		1
+received	1
+night		1
+alive		1
+wiped		1
+placed		1
+comments	1
+jay		1
+think		1

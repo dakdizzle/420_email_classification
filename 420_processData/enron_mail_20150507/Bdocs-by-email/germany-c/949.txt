@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+hey		1
+please		1
+numbers		1
+contract	1
+need		1
+thanks		1

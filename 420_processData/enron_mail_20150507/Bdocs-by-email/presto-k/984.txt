@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+presto		2
+kevin		2
+cn		2
+agreed		1
+term		1
+kpresto		1
+pstyour		1
+recipients	1
+terms		1
+kidding		1
+filename	1
+na		1
+remember	1
+privileged	1
+non		1
+right		1
+enron		1
+ou		1

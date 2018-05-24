@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+home		1
+napa		1
+zip		1

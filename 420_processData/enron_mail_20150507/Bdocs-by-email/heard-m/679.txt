@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+heard		2
+privileged	2
+non		2
+mheard		2
+meeting		1
+credit		1
+text		1
+pstcredit	1
+legal		1
+today		1
+marie		1
+plain		1
+filename	1
+folder		1
+requested	1
+asciix		1
+content		1
+sent		1
+type		1
+mx		1
+origin		1
+itemsx		1
+charset		1
+cancel		1

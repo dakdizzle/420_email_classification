@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+blackberry	2
+rhaysle		2
+cn		2
+net		1
+wireless	1
+handheld	1
+well		1
+gallup		1
+www		1
+pstcan		1
+recipients	1
+hayslett	1
+filename	1
+na		1
+privileged	1
+sent		1
+contracts	1
+non		1
+enron		1
+ou		1
+rod		1

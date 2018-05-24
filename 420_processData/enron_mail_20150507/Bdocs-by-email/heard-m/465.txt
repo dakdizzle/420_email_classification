@@ -1,0 +1,21 @@
+NumWords	22
+NumTerms	18
+
+aig		2
+fund		2
+arbitrage	2
+commodity	2
+make		1
+ltd		1
+send		1
+per		1
+confirms	1
+marie		1
+thanks		1
+two		1
+changes		1
+need		1
+lp		1
+voicemail	1
+joe		1
+hi		1

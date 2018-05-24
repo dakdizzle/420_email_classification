@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+send		1
+complete	1
+up		1
+talk		1
+pipe		1
+west		1
+schedulers	1
+later		1
+responsibilities	1
+thanks		1
+list		1
+program		1
+please		1
+want		1
+mike		1
+traders		1
+set		1
+mentor		1

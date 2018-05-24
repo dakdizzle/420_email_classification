@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+html		1
+index		1
+http		1
+nolo		1
+www		1
+calculator	1
+com		1

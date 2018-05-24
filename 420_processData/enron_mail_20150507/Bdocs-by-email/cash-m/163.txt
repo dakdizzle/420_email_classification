@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+standard	2
+send		1
+bridgeline	1
+david		1
+letter		1
+corporate	1
+copies		1
+example		1
+without		1
+lund		1
+non		1
+services	1
+please		1
+michelle	1
+use		1
+assignment	1
+agreement	1
+compete		1

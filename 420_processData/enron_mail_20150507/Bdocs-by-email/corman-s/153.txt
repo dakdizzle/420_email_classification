@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+ins		2
+forward		2
+position	1
+well		1
+focused		1
+now		1
+corman		1
+gwyn		1
+later		1
+hoping		1
+homestudy	1
+hope		1
+completed	1
+update		1
+dossier		1
+sign		1
+approval	1
+suzanne		1
+week		1
+shelley		1
+doing		1
+rest		1

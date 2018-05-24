@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+cynthia		2
+harkness	1
+pstnancy	1
+shackleton	1
+sshackl		1
+comx		1
+review		1
+intercompany	1
+filename	1
+privileged	1
+forwarded	1
+contracts	1
+non		1
+enron		1
+sara		1
+part		1
+origin		1
+sx		1
+process		1

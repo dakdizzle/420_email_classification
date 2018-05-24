@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+john		1
+know		1
+pegmight	1
+weekend		1
+going		1
+th		1
+vegas		1
+ll		1

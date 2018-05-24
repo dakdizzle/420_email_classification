@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+greenizancooper	1
+richey		1
+enron		1
+john		1
+zufferlibill	1
+attend		1

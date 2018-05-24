@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+early		1
+good		1
+around		1
+tim		1
+reviewing	1
+leave		1
+comments	1
+looks		1
+thanks		1
+call		1
+getting		1
+yesterday	1

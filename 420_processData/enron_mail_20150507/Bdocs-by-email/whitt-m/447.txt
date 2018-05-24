@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+right		2
+lionshead	1
+walk		1
+village		1
+street		1
+acroo		1
+bar		1
+looks		1
+great		1
+liquor		1
+slopes		1
+below		1
+middle		1
+stoe		1

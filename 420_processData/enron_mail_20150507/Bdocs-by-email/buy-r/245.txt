@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+deal		2
+seen		1
+exec		1
+meeting		1
+check		1
+rick		1
+guys		1
+one		1
+another		1
+referenced	1
+asked		1
+comm		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+ok		1
+release		1
+mou		1

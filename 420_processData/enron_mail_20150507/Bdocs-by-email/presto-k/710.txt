@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+available	1
+still		1
+take		1
+ll		1

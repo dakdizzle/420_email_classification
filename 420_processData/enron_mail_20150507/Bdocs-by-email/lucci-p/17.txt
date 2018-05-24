@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+limo		1
+renting		1
+thinking	1
+hitting		1
+few		1
+parties		1
+night		1
+saturday	1
+think		1

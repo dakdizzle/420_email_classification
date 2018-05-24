@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+sent		1
+harvard		1
+copy		1
+please		1
+tanya		1
+isda		1
+susan		1
+thanks		1

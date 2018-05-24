@@ -1,0 +1,24 @@
+NumWords	30
+NumTerms	21
+
+cn		4
+paul		2
+recipients	2
+na		2
+enron		2
+alyse		2
+ou		2
+interested	1
+recollection	1
+know		1
+lebeau		1
+herasimchuk	1
+slots		1
+help		1
+jim		1
+aherasim	1
+please		1
+filled		1
+sarah		1
+need		1
+plebeau		1

@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+those		1
+up		1
+know		1
+meet		1
+t		1
+hit		1
+thurs		1
+out		1
+definately	1
+go		1
+one		1
+maybe		1
+going		1
+c		1
+game		1
+tonight		1
+hockey		1
+date		1
+didn		1
+next		1

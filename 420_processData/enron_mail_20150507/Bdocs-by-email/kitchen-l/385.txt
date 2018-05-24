@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+buyer		1
+handle		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+table		2
+thats		1
+pictures	1
+dishes		1
+chairs		1
+cleaner		1
+coffee		1
+vacuum		1
+think		1

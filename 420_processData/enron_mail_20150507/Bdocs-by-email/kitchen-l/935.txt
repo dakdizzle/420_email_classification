@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+lkitchen	2
+cn		2
+kitchen		1
+millions	1
+louise		1
+recipients	1
+filename	1
+na		1
+privileged	1
+pstgeoffthis	1
+non		1
+zhei		1
+secret		1
+right		1
+enron		1
+project		1
+ou		1
+thought		1
+including	1
+mm		1

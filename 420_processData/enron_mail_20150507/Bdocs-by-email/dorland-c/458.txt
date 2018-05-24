@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+phil		2
+fun		1
+send		1
+huh		1
+marrying	1
+darren		1
+recall		1
+chris		1
+tequila		1
+sunday		1
+call		1
+shot		1
+chick		1
+congrats	1
+something	1
+definately	1
+hot		1
+rich		1
+weekend		1
+doing		1
+pretty		1
+hi		1
+give		1

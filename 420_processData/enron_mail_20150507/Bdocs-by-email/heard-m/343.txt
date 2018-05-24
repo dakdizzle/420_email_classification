@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+going		2
+ca		1
+credit		1
+copy		1
+enter		1
+suggestions	1
+files		1
+keep		1
+database	1
+weren		1
+instructed	1
+strictly	1
+enron		1
+rick		1
+signed		1
+bill		1
+sign		1
+buy		1
+young		1
+corp		1
+comments	1
+kay		1
+financials	1
+otherwise	1

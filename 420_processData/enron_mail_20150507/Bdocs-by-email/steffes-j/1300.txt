@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+nutcracker	1
+fun		1
+hope		1
+hello		1
+tell		1
+susan		1
+christi		1
+having		1
+market		1

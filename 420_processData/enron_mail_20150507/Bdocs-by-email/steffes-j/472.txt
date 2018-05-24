@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+train		1
+integrates	1
+region		1
+nyiso		1
+time		1
+rules		1
+cross		1
+want		1
+especially	1
+tom		1
+thanks		1

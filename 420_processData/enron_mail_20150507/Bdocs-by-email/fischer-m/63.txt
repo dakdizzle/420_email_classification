@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+those		1
+dates		1
+work		1

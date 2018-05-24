@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+ve		2
+m		2
+problems	1
+unreal		1
+seems		1
+hanging		1
+worried		1
+days		1
+options		1
+barely		1
+personally	1
+fires		1
+out		1
+believe		1
+though		1
+putting		1
+last		1
+doing		1
+couple		1
+battleing	1
+here		1

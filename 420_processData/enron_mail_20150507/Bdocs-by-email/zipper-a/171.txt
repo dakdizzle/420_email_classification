@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+shoe		1
+make		1
+costly		1
+keep		1
+infrastructure	1
+down		1
+dealbench	1
+changes		1
+yes		1
+going		1
+need		1
+large		1
+rest		1
+shut		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+forwarded	1
+job		1
+enron		1
+fair		1
+today		1
+contact		1
+going		1
+field		1
+duke		1
+resume		1

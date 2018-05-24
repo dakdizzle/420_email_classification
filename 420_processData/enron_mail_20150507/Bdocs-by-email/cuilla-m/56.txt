@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+clue		1
+messenger	1

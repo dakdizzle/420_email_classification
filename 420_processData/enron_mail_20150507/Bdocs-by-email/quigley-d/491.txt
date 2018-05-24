@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+told		2
+early		1
+david		1
+come		1
+already		1
+money		1
+contacted	1
+dutch		1
+over		1
+gerri		1

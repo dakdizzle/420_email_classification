@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+default		2
+info		1
+enovate		1
+stuff		1
+under		1
+know		1
+deals		1
+appreciated	1
+inherited	1
+mexico		1
+help		1
+sandhill	1
+m		1
+gather		1
+suspect		1
+enron		1
+agreements	1
+helping		1
+including	1
+peoples		1

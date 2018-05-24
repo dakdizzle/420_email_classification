@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+edloe		1
+mailing		1
+texas		1
+houston		1
+address		1
+st		1

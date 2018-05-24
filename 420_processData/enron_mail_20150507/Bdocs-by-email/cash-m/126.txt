@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+mcash		2
+cn		2
+michelle	2
+situation	1
+cash		1
+pstsharon	1
+report		1
+ask		1
+recipients	1
+filename	1
+na		1
+privileged	1
+jointly		1
+hope		1
+non		1
+investigate	1
+suggest		1
+enron		1
+back		1
+ou		1
+fact		1
+think		1
+here		1
+valeria		1

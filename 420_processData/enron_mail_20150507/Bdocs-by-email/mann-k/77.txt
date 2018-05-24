@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+thing		1
+good		1
+asset		1
+talking		1
+justified	1
+know		1
+whether		1
+management	1
+don		1
+deal		1
+termination	1

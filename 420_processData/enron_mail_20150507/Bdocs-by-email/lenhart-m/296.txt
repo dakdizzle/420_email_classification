@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+again		1
+lost		1
+chance		1
+number		1
+call		1

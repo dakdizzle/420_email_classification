@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+kim		2
+email		1
+sent		1
+carmella	1
+instead		1
+ward		1
+change		1
+london		1
+thanks		1

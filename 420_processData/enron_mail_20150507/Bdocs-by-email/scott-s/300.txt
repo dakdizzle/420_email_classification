@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+fugg		1
+account		1
+theresa		1
+shoot		1
+susan		1
+left		1
+thanks		1
+morning		1
+home		1
+kill		1
+again		1
+breakdown	1
+gonna		1
+notes		1

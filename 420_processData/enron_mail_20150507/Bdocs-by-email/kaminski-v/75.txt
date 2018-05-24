@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+vince		2
+cn		2
+kaminski	2
+aol		1
+recipients	1
+phone		1
+filename	1
+na		1
+vkamins		1
+number		1
+home		1
+cell		1
+vkaminski	1
+vincent		1
+enron		1
+commy		1
+ou		1
+mail		1
+pstandreas	1
+address		1
+private		1

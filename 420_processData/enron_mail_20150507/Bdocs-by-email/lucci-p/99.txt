@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+hey		1
+time		1
+up		1
+colts		1
+guess		1
+picked		1
+talked		1
+without		1
+gilcrease	1
+todd		1
+people		1
+kimery		1
+many		1
+back		1
+weekend		1

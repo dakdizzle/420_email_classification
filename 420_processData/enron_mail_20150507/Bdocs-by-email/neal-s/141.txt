@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+info		1
+yor		1
+per		1
+request		1

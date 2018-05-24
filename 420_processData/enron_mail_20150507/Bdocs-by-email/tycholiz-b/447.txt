@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+heard		1
+williams	1
+jan		1
+th		1
+someone		1
+bt		1
+take		1
+call		1
+regarding	1
+really		1
+signed		1
+document	1
+called		1
+chance		1
+covering	1
+c		1
+nwpipe		1
+needs		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+greg		1
+majure		1
+force		1
+volume		1
+mckayunemployedphone	1
+enron		1
+jonathan	1
+right		1
+jon		1
+more		1
+pipel		1
+mckay		1
+cut		1
+amount		1
+deal		1
+ine		1
+com		1
+declared	1

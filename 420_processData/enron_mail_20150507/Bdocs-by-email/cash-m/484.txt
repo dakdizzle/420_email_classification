@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+waiver		1
+suggest		1
+require		1
+pay		1
+before		1
+money		1

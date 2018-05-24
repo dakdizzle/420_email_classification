@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+make		1
+discussion	1
+up		1
+catch		1
+later		1

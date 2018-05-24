@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+master		1
+word		1
+hope		1
+stand		1
+well		1
+marie		1
+derek		1
+agreement	1
+hi		1

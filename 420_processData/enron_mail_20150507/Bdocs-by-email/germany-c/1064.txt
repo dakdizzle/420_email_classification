@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+ect		2
+chris		2
+hou		2
+germany		2
+sir		1
+know		1
+review		1
+thanks		1
+forwarded	1
+good		1
+pmto		1
+enron		1
+please		1
+go		1
+powerfor	1
+ectcc		1
+saucier		1
+subject		1
+darla		1
+new		1

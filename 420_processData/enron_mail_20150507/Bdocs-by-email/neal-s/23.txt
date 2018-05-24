@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+further		1
+talk		1
+terry		1
+update		1
+back		1
+calling		1
+told		1
+left		1
+voicemail	1
+telling		1
+call		1

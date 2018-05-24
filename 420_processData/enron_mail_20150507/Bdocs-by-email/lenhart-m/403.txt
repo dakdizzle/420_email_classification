@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+angry		1
+fighting	1
+person		1
+grilling	1

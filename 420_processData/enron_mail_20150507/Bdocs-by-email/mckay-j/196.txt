@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+day		1
+jon		1
+sell		1
+think		1

@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+make		1
+heads		1
+copy		1
+west		1
+desk		1
+tommorow	1
+review		1
+handout		1
+chris		1
+see		1
+east		1
+marketing	1
+thanks		1
+anything	1
+nice		1
+approach	1
+thorough	1
+agree		1
+bound		1
+missed		1
+sure		1
+trading		1

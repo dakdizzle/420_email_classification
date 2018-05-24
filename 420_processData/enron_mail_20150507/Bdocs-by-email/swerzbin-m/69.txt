@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+afitzpat	1
+calgary		1
+amy		1
+enron		1
+recipients	1
+ou		1
+june		1
+thrs		1
+na		1
+fitzpatrick	1
+ll		1

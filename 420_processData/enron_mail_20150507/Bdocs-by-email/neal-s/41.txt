@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+open		1
+seating		1
+sent		1
+scott		1
+thsi		1
+becky		1
+sheetal		1
+guys		1
+spot		1
+young		1
+add		1
+arrangement	1

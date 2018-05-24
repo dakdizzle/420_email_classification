@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+happy		2
+birthday	2
+first		1
+ditto		1
+law		1
+wish		1

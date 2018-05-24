@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+quarter		1
+third		1
+qs		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+above		1
+week		1
+next		1
+ll		1
+cancel		1

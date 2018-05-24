@@ -1,0 +1,18 @@
+NumWords	19
+NumTerms	15
+
+night		4
+spend		2
+charlie		1
+plan		1
+hunter		1
+travis		1
+friday		1
+friend		1
+fine		1
+plenty		1
+happy		1
+elizabeth	1
+love		1
+play		1
+ll		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+fourth		1
+again		1
+need		1

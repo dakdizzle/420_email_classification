@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+fri		1
+anyone		1
+fletch		1
+dave		1
+here		1
+didn		1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+interview	2
+greg		1
+shivelydave	1
+reitmeyerphillip	1
+john		1
+want		1
+louise		1
+ryanjay		1
+lavoratohunter	1
+allen		1
+schedule	1

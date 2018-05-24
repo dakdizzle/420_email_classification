@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+attendance	1
+meeting		1
+good		1
+list		1
+up		1
+night		1
+determine	1
+set		1
+see		1
+ll		1
+sleep		1

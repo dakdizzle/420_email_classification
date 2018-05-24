@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+scott		2
+notice		1
+chart		1
+june		1
+tracking	1
+increase	1
+trades		1
+update		1
+dramatic	1
+england		1
+new		1
+ll		1
+here		1

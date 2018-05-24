@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+avoid		1
+near		1
+until		1
+try		1
+end		1
+lisa		1
+know		1
+calling		1
+houston		1
+see		1
+number		1
+unbelievablehope	1
+back		1
+sheila		1
+ll		1

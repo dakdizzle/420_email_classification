@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+up		1
+come		1
+work		1
+pls		1
+sorry		1
+answer		1
+bob		1
+fergus		1
+getting		1

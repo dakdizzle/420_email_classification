@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+affairs		1
+budget		1
+facilities	1
+govt		1
+etc		1
+submitted	1
+please		1
+hr		1
+numbers		1
+affect		1
+below		1
+already		1
+corp		1
+process		1
+pr		1

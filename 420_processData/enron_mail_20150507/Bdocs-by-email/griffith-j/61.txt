@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+youthe		1
+settlement	1
+bid		1
+know		1
+tomorrow	1
+week		1
+pigs		1
+love		1
+okay		1

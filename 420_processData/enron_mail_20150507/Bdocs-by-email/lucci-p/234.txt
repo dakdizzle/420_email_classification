@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+work		1
+chat		1
+slow		1
+cyber		1
+call		1

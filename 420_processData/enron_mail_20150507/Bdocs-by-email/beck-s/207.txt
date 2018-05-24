@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+meeting		2
+meredith	2
+shortly		1
+mark		1
+time		1
+location	1
+information	1
+evans		1
+lynne		1
+planning	1
+getting		1
+afternoon	1
+lead		1
+during		1
+sally		1
+memo		1
+mary		1
+everyone	1
+teams		1
+clarify		1
+ruffner		1

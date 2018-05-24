@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+pstthis		1
+defined		1
+ena		1
+comx		1
+especially	1
+filename	1
+ees		1
+privileged	1
+jim		1
+steffes		1
+jx		1
+non		1
+reqts		1
+enron		1
+jsteffe		1
+origin		1
+fulton		1
+problematic	1
+comply		1
+donna		1
+given		1

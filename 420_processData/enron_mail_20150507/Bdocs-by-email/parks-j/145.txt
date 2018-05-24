@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+good		1
+back		1
+happy		1
+easterjoe	1
+trip		1
+help		1
+flight		1
+thanks		1

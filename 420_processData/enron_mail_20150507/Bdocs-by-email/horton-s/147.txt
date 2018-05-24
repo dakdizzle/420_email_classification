@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+unfold		1
+out		1
+days		1
+things		1
+glad		1
+interesting	1
+ahead		1
+see		1
+worked		1

@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+cloth		1
+table		1
+reply		1
+up		1
+borrow		1
+know		1
+chairs		1
+ask		1
+exact		1
+see		1
+thanks		1
+kim		1
+great		1
+count		1
+within		1
+need		1
+week		1
+six		1
+next		1

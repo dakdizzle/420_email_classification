@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+group		2
+discuss		1
+reconvene	1
+meeting		1
+position	1
+time		1
+rick		1
+liquidity	1
+book		1
+spend		1
+joe		1

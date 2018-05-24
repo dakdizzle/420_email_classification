@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+energy		1
+attached	1
+faxed		1
+confidentiality	1
+solutions	1
+agreement	1

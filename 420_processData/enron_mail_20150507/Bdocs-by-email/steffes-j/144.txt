@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+state		2
+jim		1
+hear		1
+govglad		1
+dept		1
+well		1
+schriverrg	1
+things		1

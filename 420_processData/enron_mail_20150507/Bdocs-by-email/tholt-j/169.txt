@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+pacific		1
+done		1
+steve		1
+deals		1
+sierra		1
+south		1
+pass		1

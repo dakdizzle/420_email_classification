@@ -1,0 +1,5 @@
+NumWords	3
+NumTerms	2
+
+mary		2
+heard		1

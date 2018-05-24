@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+couldn		1
+up		1
+pick		1
+sorry		1
+bt		1
+play		1
+love		1
+call		1

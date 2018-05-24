@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+party		1
+way		1
+great		1
+join		1
+best		1
+welcoming	1
+alina		1
+again		1
+going		1
+meet		1
+thanks		1

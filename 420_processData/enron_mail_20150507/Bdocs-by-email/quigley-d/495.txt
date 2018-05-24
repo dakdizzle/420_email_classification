@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+edf		2
+clearing	1
+acct		1
+cleared		1
+floor		1
+man		1
+executed	1
+paid		1
+rate		1
+throught	1
+cost		1
+total		1

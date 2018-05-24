@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+morning		1
+good		1
+gave		1
+chuckle		1

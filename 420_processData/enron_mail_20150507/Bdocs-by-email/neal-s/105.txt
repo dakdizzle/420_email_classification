@@ -1,0 +1,18 @@
+NumWords	19
+NumTerms	15
+
+working		2
+headhunter	2
+marketing	2
+trading		2
+energy		1
+position	1
+company		1
+located		1
+broderson	1
+constellation	1
+patty		1
+roseanne	1
+postion		1
+dallas		1
+marino		1

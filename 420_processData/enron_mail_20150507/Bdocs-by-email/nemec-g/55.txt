@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+hugh		1
+reimbursement	1
+know		1
+attached	1
+sorry		1
+form		1
+delay		1
+chris		1
+requested	1
+connett		1
+interconnect	1
+behalf		1
+language	1
+questions	1
+agreement	1

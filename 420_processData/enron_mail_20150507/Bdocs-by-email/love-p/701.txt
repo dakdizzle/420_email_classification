@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+file		2
+anything	1
+pl		1
+please		1
+location	1
+know		1
+person		1
+need		1
+compiled	1
+thanks		1
+here		1

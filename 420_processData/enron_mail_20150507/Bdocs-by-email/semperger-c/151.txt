@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+stuff		2
+folks		2
+informal	1
+know		1
+tutorials	1
+slow		1
+teacher		1
+sqlaccessexcel	1
+bona		1
+propose		1
+htmlxmlwhatever	1
+fide		1
+teach		1
+want		1
+susie		1
+work		1
+expert		1

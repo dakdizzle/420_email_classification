@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+shorts		1
+under		1
+complete	1
+expect		1
+take		1
+really		1
+rejection	1
+easy		1
+people		1
+good		1
+enough		1
+back		1
+chop		1
+buy		1
+molecules	1
+phys		1
+going		1
+waiting		1
+weeks		1
+don		1
+think		1
+sub		1
+solidly		1
+here		1

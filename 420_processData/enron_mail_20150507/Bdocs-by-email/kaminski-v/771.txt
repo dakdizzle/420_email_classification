@@ -1,0 +1,10 @@
+NumWords	13
+NumTerms	7
+
+enron		5
+shirley		2
+com		2
+ecrenshaw	1
+crenshaw	1
+ecom		1
+imceanotes	1

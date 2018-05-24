@@ -1,0 +1,24 @@
+NumWords	31
+NumTerms	21
+
+worth		3
+today		2
+chris		2
+cn		2
+ago		2
+one		2
+bought		2
+year		2
+dorland		2
+returned	1
+recipients	1
+filename	1
+na		1
+pstif		1
+cans		1
+nortel		1
+enron		1
+budweiser	1
+cdorlan		1
+drank		1
+ou		1

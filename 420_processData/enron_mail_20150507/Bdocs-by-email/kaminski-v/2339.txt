@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+vince		1
+please		1
+go		1
+ahead		1
+yes		1
+alex		1

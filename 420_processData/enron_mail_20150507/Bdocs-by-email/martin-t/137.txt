@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+todd		1
+directly	1
+received	1
+tom		1
+resume		1

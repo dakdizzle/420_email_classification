@@ -1,0 +1,25 @@
+NumWords	29
+NumTerms	22
+
+hbs		3
+epao		3
+mba		3
+edu		2
+pao		1
+respond		1
+eduthat		1
+spangler	1
+wednesday	1
+speaks		1
+fw		1
+eva		1
+clay		1
+pmplease	1
+m		1
+christensen	1
+enron		1
+talking		1
+subject		1
+auditorium	1
+com		1
+jarnold		1

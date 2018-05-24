@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+idea		1
+stands		1

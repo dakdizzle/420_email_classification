@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jump		1
+looking		1
+ship		1
+already		1

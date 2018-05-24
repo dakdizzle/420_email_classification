@@ -1,0 +1,17 @@
+NumWords	116
+NumTerms	14
+
+michelle.nelson@enron.com	69
+amanda.huble@enron.com	29
+amanda.rybarski@enron.com	5
+8774820772@pagenetmessage.net	2
+capstone@texas.net	2
+f..brawner@enron.com	1
+john.arnold@enron.com	1
+colette.dow@ubsw.com	1
+laura.vuittonet@enron.com	1
+sheetal.patel@enron.com	1
+na-incoming@enron.com	1
+msagel@home.com	1
+larry.may@enron.com	1
+john.griffith@enron.com	1

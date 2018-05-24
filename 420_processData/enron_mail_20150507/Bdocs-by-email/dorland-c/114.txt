@@ -1,0 +1,6 @@
+NumWords	5
+NumTerms	3
+
+ring		3
+guy		1
+more		1

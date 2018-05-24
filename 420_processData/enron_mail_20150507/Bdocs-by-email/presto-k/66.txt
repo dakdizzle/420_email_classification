@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+probably	3
+presto		2
+kevin		2
+cn		2
+begin		1
+closure		1
+kpresto		1
+now		1
+recipients	1
+marking		1
+filename	1
+na		1
+curves		1
+upon		1
+psti		1
+enron		1
+ou		1
+correct		1
+having		1
+think		1

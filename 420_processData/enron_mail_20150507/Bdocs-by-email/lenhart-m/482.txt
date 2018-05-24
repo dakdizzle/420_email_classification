@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+king		1
+jerk		1

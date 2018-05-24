@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+communicated	1
+last		1
+thought		1
+hire		1
+definite	1
+week		1

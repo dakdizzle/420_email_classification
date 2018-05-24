@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+really		2
+good		2
+one		2
+year		2
+ish		1
+season		1
+glad		1
+drought		1
+th		1
+see		1
+ve		1
+m		1
+many		1
+go		1
+again		1
+break		1
+maybe		1
+thought		1
+pretty		1
+next		1
+deer		1

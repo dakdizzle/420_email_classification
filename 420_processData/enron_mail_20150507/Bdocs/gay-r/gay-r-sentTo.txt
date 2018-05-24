@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+pooky@pipeline.com	2
+charles.jacobs@enron.com	1
+mike.grigsby@enron.com	1
+stephanie.miller@enron.com	1
+kam.keiser@enron.com	1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+decision	2
+info		1
+taking		1
+notice		1
+consider	1
+commission	1
+wh		1
+puts		1
+dan		1
+jeff		1
+best		1
+july		1
+back		1
+want		1
+amend		1
+going		1
+everyone	1
+process		1

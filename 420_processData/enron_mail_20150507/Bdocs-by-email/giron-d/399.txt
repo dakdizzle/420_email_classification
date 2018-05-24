@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+story		1
+http		1
+chron		1
+hts		1
+www		1
+sports		1
+cda		1
+cs		1
+com		1

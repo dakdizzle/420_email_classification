@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+first		1
+glen		1
+rehearing	1
+orders		1
+friday		1
+report		1
+compliance	1
+month		1
+granting	1
+issues		1
+mitting		1
+according	1
+august		1
+proceed		1
+requirements	1
+still		1
+sub		1

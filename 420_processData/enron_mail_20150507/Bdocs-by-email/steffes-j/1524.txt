@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cn		2
+jsteffe		2
+up		1
+recipients	1
+filename	1
+na		1
+privileged	1
+jim		1
+steffes		1
+pstbob		1
+follow		1
+non		1
+enron		1
+please		1
+juan		1
+james		1
+ou		1
+ensure		1
+coverage	1

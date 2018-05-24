@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+completed	1
+suncor		1
+drilling	1
+eric		1
+rockies		1

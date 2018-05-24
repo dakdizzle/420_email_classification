@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+thanxchris	1
+brad		1
+list		1
+outages		1
+name		1
+plant		1
+galante		1
+taken		1
+willis		1
+favor		1
+mail		1

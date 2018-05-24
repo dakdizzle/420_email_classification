@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+pge		1
+make		1
+issues		1
+bankruptcy	1
+page		1
+ray		1
+please		1
+calpx		1
+same		1
+sure		1
+think		1

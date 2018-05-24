@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+energy		1
+greg		1
+gaswidensky	1
+swidensky	1
+duke		1
+com		1

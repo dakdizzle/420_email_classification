@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+ddavis		2
+cn		2
+dana		1
+non		1
+davis		1
+enron		1
+pstdana		1
+recipients	1
+ou		1
+filename	1
+na		1
+privileged	1

@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+materials	2
+very		2
+useful		1
+present		1
+position	1
+helped		1
+conferenceand	1
+presented	1
+copies		1
+filename	1
+vkamins		1
+better		1
+remind		1
+theissue	1
+jx		1
+vince		1
+enron		1
+please		1
+shall		1
+interesting	1
+vincep		1
+shirley		1
+pstjennifer	1
+kaminski	1

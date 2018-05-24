@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+calpine		3
+energy		1
+ltd		1
+company		1
+gas		1
+marie		1
+canada		1
+texas		1
+services	1
+fuels		1
+corporation	1
+natural		1
+don		1
+doesn		1

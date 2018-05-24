@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+stuff		1
+visit		1
+now		1
+schedule	1
+out		1
+fill		1
+right		1
+please		1
+contemplating	1
+work		1
+weeks		1
+checking	1
+next		1

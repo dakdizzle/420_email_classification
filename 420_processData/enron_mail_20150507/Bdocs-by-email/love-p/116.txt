@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+sit		1
+pl		1
+know		1
+draft		1
+thanks		1
+yesterday	1
+down		1
+couch		1
+changes		1
+made		1
+discussed	1
+need		1
+rough		1
+here		1

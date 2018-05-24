@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+good		1
+day		1
+hey		1
+hope		1
+ilydq		1
+baby		1
+tomorrow	1
+today		1
+plans		1
+okwhat		1

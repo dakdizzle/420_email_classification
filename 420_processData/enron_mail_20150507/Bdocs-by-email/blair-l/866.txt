@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+asp		1
+home		1
+viewreport	1
+dms		1
+enron		1
+http		1
+ets		1
+com		1

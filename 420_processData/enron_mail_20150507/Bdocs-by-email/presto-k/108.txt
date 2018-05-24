@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+gas		2
+trade		2
+need		2
+above		1
+misra		1
+schiavone	1
+wang		1
+names		1
+books		1
+suarez		1
+ballato		1
+gupta		1
+broderick	1
+change		1
+king		1
+carson		1
+equivalent	1
+trading		1

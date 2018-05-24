@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+inc		2
+sheet		2
+pricing		1
+congestion	1
+id		1
+time		1
+amounts		1
+revenue		1
+schedule	1
+thanks		1
+afternoon	1
+morning		1
+caps		1
+good		1
+real		1
+significant	1
+recieved	1
+please		1
+bill		1
+settle		1
+use		1
+correct		1

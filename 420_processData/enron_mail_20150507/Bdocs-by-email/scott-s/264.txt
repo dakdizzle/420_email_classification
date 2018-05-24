@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+novice		1
+scottx		1
+crossed		1
+forgot		1
+helps		1
+know		1
+cindy		1
+response	1
+susan		1
+guess		1
+sorry		1
+seconds		1
+mins		1
+out		1
+ve		1
+odd		1
+look		1
+hope		1
+exactly		1
+clock		1
+being		1
+best		1
+minutes		1
+country		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ve		1
+chathambarsinn	1
+reservations	1
+com		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+point		1
+together	1
+good		1
+shouldn		1
+mean		1

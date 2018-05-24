@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+cal		1
+rally		1
+sellers		1
+morn		1
+good		1
+front		1
+irregardless	1
+cals		1
+didnt		1
+move		1

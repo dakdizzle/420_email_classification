@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+mike		1
+chris		1
+give		1
+call		1

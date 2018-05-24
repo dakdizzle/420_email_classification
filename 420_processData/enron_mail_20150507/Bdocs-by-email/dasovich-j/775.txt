@@ -1,0 +1,26 @@
+NumWords	43
+NumTerms	23
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+phone		2
+dwr		1
+meeting		1
+joseph		1
+paul		1
+trying		1
+alan		1
+susan		1
+pkaufma		1
+kaufman		1
+alamo		1
+smara		1
+mara		1
+tycholiz	1
+acomnes		1
+pronto		1
+jalamo		1
+comnes		1

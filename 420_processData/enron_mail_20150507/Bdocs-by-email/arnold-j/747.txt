@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+believe		1
+until		1
+thursday	1

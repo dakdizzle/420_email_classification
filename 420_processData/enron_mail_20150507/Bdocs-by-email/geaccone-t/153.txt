@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+monday		1
+meeting		1
+employee	1
+before		1
+tuesday		1

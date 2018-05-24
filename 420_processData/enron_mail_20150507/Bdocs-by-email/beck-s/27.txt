@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+sally		3
+cn		2
+beck		2
+under		1
+sbeck		1
+time		1
+consideration	1
+decisions	1
+pstwhere	1
+recipients	1
+asked		1
+filename	1
+na		1
+kevin		1
+promotions	1
+thanks		1
+good		1
+enron		1
+update		1
+idea		1
+ou		1
+last		1
+give		1
+here		1

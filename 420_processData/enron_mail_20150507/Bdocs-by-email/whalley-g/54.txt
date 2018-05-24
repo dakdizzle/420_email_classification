@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+really		1
+greg		1
+immediately	1
+check		1
+paid		1
+sorry		1
+fix		1
+hasn		1
+ll		1

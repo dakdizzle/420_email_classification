@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+logical		1
+choice		1
+yes		1

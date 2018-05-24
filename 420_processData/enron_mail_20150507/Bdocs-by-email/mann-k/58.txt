@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+subsidiary	1
+email		1
+included	1
+jd		1
+fixed		1
+nits		1
+changes		1
+going		1
+form		1
+kay		1

@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+know		2
+don		2
+patti		2
+hear		1
+fixed		1
+details		1
+baseload	1
+today		1
+deals		1
+flows		1
+systems		1
+help		1
+thanks		1
+kim		1
+soon		1
+priced		1
+m		1
+hope		1
+maker		1
+one		1
+idea		1
+access		1
+deal		1

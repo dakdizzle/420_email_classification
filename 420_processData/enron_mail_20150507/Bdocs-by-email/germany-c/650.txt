@@ -1,0 +1,11 @@
+NumWords	11
+NumTerms	8
+
+out		2
+eat		2
+take		2
+nice		1
+seems		1
+person		1
+shawn		1
+ll		1

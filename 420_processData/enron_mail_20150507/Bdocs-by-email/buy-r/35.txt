@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+openings	1
+good		1
+rickps		1
+talent		1
+more		1
+month		1
+spotting	1
+bucket		1
+head		1
+always		1

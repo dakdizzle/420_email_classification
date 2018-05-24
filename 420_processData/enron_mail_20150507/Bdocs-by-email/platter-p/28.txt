@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+recent		1
+debating	1
+power		1
+nyc		1
+light		1
+jackson		1
+hole		1
+necessarily	1
+opportunities	1
+look		1
+m		1
+enron		1
+networking	1
+go		1
+invited		1
+before		1
+brokers		1
+week		1
+developments	1
+don		1
+still		1

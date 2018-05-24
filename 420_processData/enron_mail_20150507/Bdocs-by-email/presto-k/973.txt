@@ -1,0 +1,19 @@
+NumWords	21
+NumTerms	16
+
+curve		3
+front		2
+cal		2
+made		2
+completely	1
+returns		1
+money		1
+inaccurate	1
+great		1
+significant	1
+positions	1
+back		1
+provided	1
+solid		1
+profitability	1
+through		1

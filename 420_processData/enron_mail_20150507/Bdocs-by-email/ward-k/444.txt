@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+status		2
+mark		1
+know		1
+russell		1
+thanks		1
+talked		1
+morning		1
+kim		1
+please		1
+bill		1
+again		1
+called		1
+think		1

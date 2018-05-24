@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+coming		1
+texas		1
+desk		1
+mike		1
+olsen		1

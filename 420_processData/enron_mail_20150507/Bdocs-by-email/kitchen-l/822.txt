@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+back		2
+wireless	1
+handheld	1
+working		1
+louise		1
+blackberry	1
+see		1
+sent		1
+eel		1
+house		1
+enron		1
+happy		1
+before		1
+sure		1
+travelling	1
+ll		1

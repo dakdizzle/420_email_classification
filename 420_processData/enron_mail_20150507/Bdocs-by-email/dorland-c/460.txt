@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+heard		1
+kerrie		1
+list		1
+scratch		1
+friend		1
+one		1
+recently	1
+murray		1
+mutual		1
+possibles	1
+engaged		1

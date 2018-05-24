@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+vince		2
+cn		2
+kaminski	2
+wednesday	1
+recipients	1
+pstshawn	1
+meet		1
+noon		1
+filename	1
+na		1
+vkamins		1
+vincent		1
+enron		1
+ou		1
+week		1
+next		1

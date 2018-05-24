@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ie		1
+montana		1
+portland	1
+guys		1
+counterparts	1
+mass		1
+more		1
+critical	1
+wolfe		1

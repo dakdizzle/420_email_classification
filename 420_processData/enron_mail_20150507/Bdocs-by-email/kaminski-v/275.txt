@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+vince		1
+friday		1
+tomorrow	1
+tell		1
+coffee		1
+more		1
+meet		1
+ll		1

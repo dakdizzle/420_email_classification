@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+over		2
+buff		1
+kc		1
+oak		1
+ne		1
+giants		1
+clev		1
+current		1
+chic		1
+detminn		1
+miami		1
+ariz		1
+phil		1
+jack		1
+den		1
+england		1
+pernew		1

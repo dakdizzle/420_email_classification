@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+lawn		1
+party		1
+day		1
+cancelled	1
+baby		1
+slept		1
+leave		1
+fine		1
+left		1
+due		1
+betterdq	1
+hope		1
+patioi		1
+sickcalled	1
+check		1
+being		1
+feel		1
+back		1
+carrie		1
+told		1
+msg		1
+richard		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+encore		1
+compression	1
+describe	1
+located		1
+nathan		1

@@ -1,0 +1,21 @@
+NumWords	24
+NumTerms	18
+
+williams	3
+bill		3
+cn		2
+iii		2
+email		1
+thank		1
+recipients	1
+bw		1
+sandra		1
+filename	1
+na		1
+list		1
+enron		1
+please		1
+update		1
+ou		1
+read		1
+bwillia		1

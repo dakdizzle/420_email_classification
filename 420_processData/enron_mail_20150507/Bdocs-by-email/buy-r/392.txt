@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+group		1
+discuss		1
+track		1
+lost		1
+meet		1
+names		1
+thanks		1
+nice		1
+rick		1
+update		1
+week		1
+doing		1
+next		1

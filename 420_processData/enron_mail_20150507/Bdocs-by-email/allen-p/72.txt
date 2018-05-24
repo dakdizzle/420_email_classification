@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+resume		2
+track		1
+hull		1
+phillip		1
+karen		1
+andrea		1
+suited		1
+bryan		1
+program		1
+buckley		1
+please		1
+best		1
+reviewing	1
+forward		1
+think		1
+trading		1

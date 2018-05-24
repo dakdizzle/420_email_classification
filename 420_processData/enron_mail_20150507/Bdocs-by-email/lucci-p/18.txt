@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+make		1
+tia		1
+day		1
+everthing	1
+planned		1
+during		1
+talk		1
+cool		1
+sure		1
+ll		1
+call		1

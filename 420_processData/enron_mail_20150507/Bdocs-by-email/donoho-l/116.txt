@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+cn		2
+ldonoho		2
+pstattached	1
+redlined	1
+customers	1
+draft		1
+recipients	1
+filename	1
+na		1
+requested	1
+see		1
+privileged	1
+sections	1
+contracts	1
+non		1
+history		1
+enron		1
+changes		1
+plese		1
+donoho		1
+ou		1
+lindy		1

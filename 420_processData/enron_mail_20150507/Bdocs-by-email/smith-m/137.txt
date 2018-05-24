@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+ina		1
+everything	1
+departure	1
+now		1
+th		1
+same		1
+flyer		1
+thanks		1
+matps		1
+remains		1
+thursday	1
+frequent	1
+ya		1
+eg		1
+flight		1
+think		1
+oct		1

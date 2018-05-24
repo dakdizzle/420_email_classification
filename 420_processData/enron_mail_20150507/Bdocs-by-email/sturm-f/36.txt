@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+mentioned	1
+fri		1
+power		1
+flet		1
+talk		1
+well		1
+attached	1
+east		1
+fit		1
+talked		1
+bridges		1
+best		1
+want		1
+use		1
+mike		1
+don		1
+hunt		1
+love		1
+resume		1

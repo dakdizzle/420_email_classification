@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+meeting		1
+linda		1
+please		1
+d		1
+robertson	1
+coordinate	1

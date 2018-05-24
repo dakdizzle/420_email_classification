@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+nice		1
+yes		1
+always		1

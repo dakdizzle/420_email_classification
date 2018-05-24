@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+hey		1
+jeff		1
+due		1
+noms		1
+st		1
+thanks		1

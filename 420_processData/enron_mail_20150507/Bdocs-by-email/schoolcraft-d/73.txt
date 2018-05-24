@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cn		2
+dschool		2
+pstthis		1
+darrell		1
+recipients	1
+schoolcraft	1
+asked		1
+filename	1
+na		1
+privileged	1
+ds		1
+out		1
+ve		1
+non		1
+office		1
+tournament	1
+enron		1
+ou		1
+play		1

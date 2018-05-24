@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+changed		1
+status		1
+march		1
+married		1
+advised		1
+paul		1
+id		1
+please		1
+fran		1
+marital		1
+thanks		1

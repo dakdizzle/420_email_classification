@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+fill		1
+best		1
+try		1
+information	1
+need		1
+joe		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+party		1
+interested	1
+proceeding	1
+tell		1
+willnot		1
+attend		1
+shw		1
+think		1
+aproblem	1
+call		1
+ii		1

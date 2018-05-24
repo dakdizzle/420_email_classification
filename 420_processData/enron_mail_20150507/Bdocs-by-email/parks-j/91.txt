@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+gov		1
+first		1
+eia		1
+doe		1
+survey		1
+www		1
+cst		1

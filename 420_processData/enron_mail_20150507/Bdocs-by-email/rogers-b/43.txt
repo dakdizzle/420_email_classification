@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+talk		2
+day		1
+chat		1
+investor	1
+yesterday	1
+soon		1
+good		1
+cheap		1
+ben		1
+sat		1
+kmi		1
+dad		1
+conference	1
+next		1

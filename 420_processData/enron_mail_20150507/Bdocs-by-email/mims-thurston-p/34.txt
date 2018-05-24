@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+send		2
+funny		1
+those		1
+around		1
+jokes		1
+talk		1
+ya		1
+mean		1
+going		1
+mail		1
+later		1
+val		1

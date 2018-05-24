@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+something	1
+definately	1
+fri		1
+yeah		1
+go		1
+weekend		1
+town		1
+doing		1
+saturday	1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+constraints	1
+right		1
+guy		1
+question	1
+capital		1

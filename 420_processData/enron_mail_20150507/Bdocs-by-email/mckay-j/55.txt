@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+email		1
+regards		1
+up		1
+back		1
+jon		1
+phone		1
+town		1
+hook		1
+don		1
+number		1
+ll		1

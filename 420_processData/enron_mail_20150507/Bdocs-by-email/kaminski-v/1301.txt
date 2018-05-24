@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+home		1
+email		1
+vince		1
+send		1
+brian		1
+shall		1
+directions	1
+address		1

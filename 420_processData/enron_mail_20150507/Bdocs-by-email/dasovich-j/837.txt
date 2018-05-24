@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+today		1
+left		1
+asked		1
+soon		1
+long		1
+gets		1
+fielder		1
+message		1
+jeff		1
+best		1
+traveling	1
+back		1
+voicemail	1
+chance		1

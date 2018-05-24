@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+switch		1
+please		1
+wednesday	1
+nov		1

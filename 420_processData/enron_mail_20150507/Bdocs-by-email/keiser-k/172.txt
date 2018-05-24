@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+thankskk	1
+care		1
+done		1
+please		1
+files		1
+estate		1
+today		1
+ashely		1
+machine		1
+curve		1
+load		1
+take		1

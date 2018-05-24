@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+potential	1
+decommission	1
+enron		1
+one		1
+louise		1
+going		1
+buyers		1
+business	1
+cards		1
+using		1
+take		1
+com		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+group		1
+headsets	1
+time		1
+real		1
+bill		1
+needing		1
+checking	1
+thanks		1

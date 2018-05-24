@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+enjoy		1
+today		1
+swig		1
+thought		1
+listening	1
+thanks		1

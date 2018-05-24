@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+officerenron	1
+happens		1
+fax		1
+americastel	1
+operating	1
+wachovia	1
+louise		1
+kitchenchief	1
+money		1

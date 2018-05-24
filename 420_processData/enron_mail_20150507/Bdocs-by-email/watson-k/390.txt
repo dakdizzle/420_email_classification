@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+thanks		2
+way		2
+helpful		1
+know		1
+tk		1
+messenger	1
+prior		1
+meet		1
+help		1
+kim		1
+lorraine	1
+office		1
+msn		1
+back		1
+available	1
+need		1
+log		1
+doing		1
+lunch		1
+still		1

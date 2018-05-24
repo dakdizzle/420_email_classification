@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+wow		1
+value		1
+power		1
+risk		1
+paid		1
+associated	1
+systems		1
+even		1
+bs		1
+believe		1
+accepted	1
+book		1
+duke		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+building	1
+working		1
+project		1
+weekend		1
+programmer	1
+involved	1

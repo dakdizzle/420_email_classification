@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+mark		2
+haedicke	1
+meeting		1
+ok		1
+please		1
+arrange		1
+lunch		1

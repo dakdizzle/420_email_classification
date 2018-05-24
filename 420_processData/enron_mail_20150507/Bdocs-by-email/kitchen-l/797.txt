@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+much		1
+evaluate	1
+pushed		1
+sime		1
+jean		1
+desk		1
+review		1
+outsourcing	1
+see		1
+better		1
+seen		1
+pushing		1
+come		1
+run		1
+back		1
+dealflow	1
+business	1
+placed		1
+stating		1
+still		1
+wellhead	1

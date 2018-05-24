@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+sticking	1
+coming		1
+around		1
+mom		1
+melissa		1
+hous		1

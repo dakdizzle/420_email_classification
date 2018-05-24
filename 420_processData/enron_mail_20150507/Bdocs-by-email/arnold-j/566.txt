@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+carry		1
+realistic	1
+looks		1
+factoring	1
+market		1
+basis		1
+areas		1
+adjusted	1
+stg		1
+more		1
+curve		1
+cost		1
+taxesstg	1
+means		1
+add		1

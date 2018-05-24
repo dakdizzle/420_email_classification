@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+talk		3
+targets		2
+heads		1
+ask		1
+organization	1
+vasant		1
+structuring	1
+andrea		1
+looks		1
+persons		1
+vince		1
+good		1
+conversations	1
+great		1
+zimin		1
+right		1
+please		1
+krishna		1
+desks		1
+back		1
+eim		1
+reed		1
+includingthe	1
+sandeep		1

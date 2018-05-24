@@ -1,0 +1,20 @@
+NumWords	24
+NumTerms	17
+
+cn		4
+recipients	2
+na		2
+enron		2
+ou		2
+up		1
+meetings	1
+jdasovic	1
+susan		1
+dasovich	1
+smara		1
+mara		1
+jim		1
+jeff		1
+set		1
+don		1
+think		1

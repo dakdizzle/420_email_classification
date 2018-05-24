@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+come		1
+jmf		1
+sometime	1
+thanks		1
+okay		1

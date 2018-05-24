@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+clean		1
+copies		1
+blacklined	1

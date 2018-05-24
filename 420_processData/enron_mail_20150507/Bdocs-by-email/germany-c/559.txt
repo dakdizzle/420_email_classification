@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+invoice		2
+pay		2
+hear		1
+right		1
+legal		1
+now		1
+won		1
+probably	1
+sorry		1
+till		1
+don		1

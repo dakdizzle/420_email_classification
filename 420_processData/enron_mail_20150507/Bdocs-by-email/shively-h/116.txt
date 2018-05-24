@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+keaveyeric	1
+ruscittipete	1
+kevin		1
+bass		1

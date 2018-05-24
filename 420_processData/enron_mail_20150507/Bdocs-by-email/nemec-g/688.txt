@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+guaranty	1
+ok		1
+counterparty	1
+correct		1
+comments	1

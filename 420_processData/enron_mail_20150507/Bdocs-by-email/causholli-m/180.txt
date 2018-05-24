@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+much		1
+card		1
+thank		1
+cool		1
+monika		1
+very		1
+such		1

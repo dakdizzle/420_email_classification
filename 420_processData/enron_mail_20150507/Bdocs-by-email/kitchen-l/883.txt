@@ -1,0 +1,17 @@
+NumWords	19
+NumTerms	14
+
+swap		3
+rate		2
+interest	2
+mm		2
+problems	1
+louise		1
+mismatch	1
+approximately	1
+money		1
+versus		1
+unwind		1
+two		1
+offset		1
+ii		1

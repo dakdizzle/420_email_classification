@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+jim		2
+much		1
+yours		1
+hope		1
+message		1
+best		1
+well		1
+thank		1
+appreciate	1
+very		1

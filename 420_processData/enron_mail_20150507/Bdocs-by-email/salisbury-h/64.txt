@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+holden		1
+way		1
+pnm		1
+seems		1
+losses		1
+unreasonable	1
+charging	1
+address		1
+amount		1
+thanks		1

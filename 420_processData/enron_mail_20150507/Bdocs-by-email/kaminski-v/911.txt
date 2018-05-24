@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+vince		2
+shall		2
+open		1
+meeting		1
+catch		1
+relatively	1
+friday		1
+glad		1
+sorry		1
+pstfrank	1
+delay		1
+filename	1
+vkamins		1
+feedback	1
+morning		1
+jx		1
+attendany	1
+thursday	1
+tomorrow	1
+week		1
+still		1
+thu		1
+kaminski	1

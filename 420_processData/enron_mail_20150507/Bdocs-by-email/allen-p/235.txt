@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+meet		2
+monday		1
+columbus	1
+know		1
+probably	1
+phillip		1
+tuesday		1
+saturday	1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lynn		1
+steve		1
+one		1
+going		1
+answer		1
+thanks		1

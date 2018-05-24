@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+think		2
+down		1
+brother		1
+hey		1
+copy		1
+come		1
+go		1
+fishing		1
+saturday	1
+didn		1

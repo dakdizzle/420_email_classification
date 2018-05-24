@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+privileged	2
+non		2
+mgrigsb		2
+group		1
+sheetx		1
+internet	1
+completes	1
+until		1
+psttemp		1
+rate		1
+file		1
+filename	1
+folder		1
+version		1
+sent		1
+mx		1
+origin		1
+itemsx		1
+var		1
+subject		1
+grigsby		1

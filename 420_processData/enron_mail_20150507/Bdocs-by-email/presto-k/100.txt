@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hold		1
+water		1
+mirant		1
+know		1
+don		1
+argument	1
+never		1
+think		1

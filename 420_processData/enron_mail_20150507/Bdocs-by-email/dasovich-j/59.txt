@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+discuss		2
+further		2
+john		2
+don		2
+support		1
+oppose		1
+actively	1
+letter		1
+hap		1
+openly		1
+releasing	1
+call		1
+prevent		1
+anything	1
+concerns	1
+shouldn		1
+believe		1
+jeff		1
+best		1
+particular	1
+need		1
+reaction	1
+ll		1

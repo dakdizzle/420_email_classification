@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+up		1
+lived		1
+flake		1
+know		1
+blair		1
+late		1
+deal		1
+think		1
+didn		1

@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+lblair		2
+cn		2
+lynn		1
+greg		1
+ok		1
+try		1
+blair		1
+trying		1
+recipients	1
+detailed	1
+answering	1
+filename	1
+na		1
+pst		1
+privileged	1
+second		1
+non		1
+talking		1
+enron		1
+ou		1
+question	1
+think		1
+here		1
+gerry		1

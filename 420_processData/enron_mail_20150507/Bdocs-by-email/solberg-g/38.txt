@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+solberg		2
+geir		2
+cn		2
+avista		1
+recipients	1
+filename	1
+na		1
+pstepmi		1
+ciso		1
+gsolber		1
+enron		1
+ou		1
+cut		1

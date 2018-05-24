@@ -1,0 +1,14 @@
+NumWords	16
+NumTerms	11
+
+bondad		2
+price		2
+gda		2
+deal		2
+number		2
+out		1
+flowing		1
+blanco		1
+volumes		1
+nonbondad	1
+actually	1

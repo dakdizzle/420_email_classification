@@ -1,0 +1,9 @@
+NumWords	20
+NumTerms	6
+
+juan		4
+east		4
+san		4
+oct		4
+california	3
+scheduledcalifornia	1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+allocated	1
+budget		1
+included	1
+steve		1
+numbers		1
+thankstracy	1
+kean		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+taking		1
+point		1
+consider	1
+larry		1
+hedges		1
+view		1
+game		1
+dan		1
+market		1
+play		1

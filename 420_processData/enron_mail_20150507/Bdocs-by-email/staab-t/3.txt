@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+m		1
+time		1
+try		1
+find		1
+sure		1
+wires		1
+issuing		1

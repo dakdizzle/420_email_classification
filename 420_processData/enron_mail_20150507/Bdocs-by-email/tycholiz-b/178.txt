@@ -1,0 +1,12 @@
+NumWords	12
+NumTerms	9
+
+gas		2
+west		2
+orig		2
+latest		1
+month		1
+bt		1
+denver		1
+date		1
+actuals		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+up		1
+reitz		1
+kb		1
+someone		1
+including	1
+set		1
+kay		1
+ryan		1
+thanks		1

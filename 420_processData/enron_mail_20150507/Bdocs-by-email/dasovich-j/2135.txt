@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+day		1
+time		1
+up		1
+particular	1
+calling		1
+work		1
+continue	1
+etc		1
+set		1
+ll		1
+thanks		1

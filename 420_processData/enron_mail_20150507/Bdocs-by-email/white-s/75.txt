@@ -1,0 +1,13 @@
+NumWords	13
+NumTerms	10
+
+changed		2
+go		2
+tonight		2
+kimsach		1
+dinner		1
+hotmailhere	1
+stacey		1
+tomorrow	1
+ubs		1
+chance		1

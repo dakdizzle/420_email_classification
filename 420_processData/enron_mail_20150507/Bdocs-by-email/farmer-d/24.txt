@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+look		1
+texas		1
+tab		1

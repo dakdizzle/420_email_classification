@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+kitchen		2
+louise		2
+cn		2
+moving		1
+pstit		1
+recipients	1
+etc		1
+drives		1
+split		1
+filename	1
+na		1
+concerning	1
+take		1
+lkitchen	1
+really		1
+history		1
+enron		1
+difficult	1
+enrononline	1
+ou		1
+going		1
+patent		1
+eg		1

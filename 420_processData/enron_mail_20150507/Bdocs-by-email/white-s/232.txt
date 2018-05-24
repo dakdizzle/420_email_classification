@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+heard		1
+monica		1
+stacey		1
+information	1
+forward		1
+thanks		1

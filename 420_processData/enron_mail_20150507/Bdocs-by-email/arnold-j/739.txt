@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+write		1
+done		1
+being		1

@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+don		2
+time		1
+believe		1
+c		1
+think		1
+yesterday	1

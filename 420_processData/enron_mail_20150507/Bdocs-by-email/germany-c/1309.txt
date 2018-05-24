@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+nite		1
+email		1
+again		1
+last		1
+here		1

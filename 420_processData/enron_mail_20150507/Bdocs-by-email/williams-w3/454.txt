@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+ahead		2
+breaking	1
+group		1
+order		1
+those		1
+eriksons	1
+down		1
+constantly	1
+phones		1
+go		1
+curve		1
+everyone	1
+new		1

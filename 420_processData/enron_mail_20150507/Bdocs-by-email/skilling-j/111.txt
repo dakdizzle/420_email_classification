@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+concerns	1
+being		1
+jeff		1
+thank		1
+dealt		1
+assure		1
+wanted		1
+fernando	1
+mails		1
+receive		1

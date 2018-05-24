@@ -1,0 +1,27 @@
+NumWords	29
+NumTerms	24
+
+honda		3
+pm		2
+carmax		2
+go		2
+info		1
+lexus		1
+up		1
+talk		1
+difference	1
+basically	1
+pick		1
+th		1
+call		1
+talked		1
+both		1
+check		1
+payoff		1
+bring		1
+probably	1
+before		1
+need		1
+cut		1
+loan		1
+dorland		1

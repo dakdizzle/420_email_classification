@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+jshankm		2
+cn		2
+board		1
+resign		1
+recipients	1
+filename	1
+na		1
+companies	1
+special		1
+privileged	1
+jeffrey		1
+pstalan		1
+eel		1
+non		1
+immediately	1
+membership	1
+enron		1
+jeff		1
+narrative	1
+ou		1
+shankman	1

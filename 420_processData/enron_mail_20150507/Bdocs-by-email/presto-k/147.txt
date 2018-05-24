@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+send		1
+list		1
+please		1
+provided	1
+attachment	1
+same		1
+thanks		1

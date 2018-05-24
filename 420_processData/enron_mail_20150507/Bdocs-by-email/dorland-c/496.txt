@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+up		1
+today		1
+million		1
+trade		1
+times		1
+spread		1
+long		1
+nx		1
+fuck		1
+another		1
+half		1
+sept		1
+rack		1
+oct		1
+love		1

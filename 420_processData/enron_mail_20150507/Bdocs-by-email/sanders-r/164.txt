@@ -1,0 +1,20 @@
+NumWords	36
+NumTerms	17
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+mark		1
+paul		1
+mhaedic		1
+pracico		1
+jim		1
+andrew		1
+haedicke	1
+fallon		1
+jfallon		1
+edison		1
+racicot		1
+aedison		1

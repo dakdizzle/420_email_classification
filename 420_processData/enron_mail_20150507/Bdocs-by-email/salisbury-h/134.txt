@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+holden		1
+analysis	1
+please		1
+thank		1
+rates		1
+functions	1
+technical	1
+implied		1
+access		1
+website		1
+heat		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+andy		1
+detroit		1
+happy		1
+holidays	1

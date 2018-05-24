@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+thanks		2
+charlie		1
+information	1
+purposes	1
+flows		1
+rate		1
+correspond	1
+assumptions	1
+mw		1
+mike		1
+providing	1
+mind		1
+heat		1

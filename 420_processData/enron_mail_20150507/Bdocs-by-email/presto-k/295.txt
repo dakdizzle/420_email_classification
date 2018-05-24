@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+trip		2
+plan		1
+lake		1
+please		1
+braunfels	1
+mid		1
+save		1
+mcqueeney	1
+september	1
+print		1
+new		1

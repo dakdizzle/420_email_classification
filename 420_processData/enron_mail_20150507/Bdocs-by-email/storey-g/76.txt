@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+delivery	2
+seller		2
+notice		1
+option		1
+deadline	1
+gas		1
+prior		1
+take		1
+pipeline	1
+secondary	1
+confirm		1
+nomination	1
+points		1
+buyer		1
+each		1
+expense		1
+upon		1
+please		1
+proper		1
+alternate	1
+cost		1
+period		1
+add		1

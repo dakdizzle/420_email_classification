@@ -1,0 +1,14 @@
+NumWords	14
+NumTerms	11
+
+enron		2
+know		2
+spot		2
+m		1
+employee	1
+interested	1
+lisa		1
+thank		1
+kath		1
+one		1
+wanted		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+youthe		1
+email		1
+sugar		1
+hello		1
+found		1
+pigs		1
+call		1
+home		1
+out		1
+something	1
+soon		1
+come		1
+flight		1
+love		1

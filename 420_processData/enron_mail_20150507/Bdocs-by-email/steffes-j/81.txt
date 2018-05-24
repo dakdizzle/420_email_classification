@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+key		2
+customers	1
+john		1
+legislators	1
+lamar		1
+involved	1
+arem		1
+call		1
+jim		1
+gov		1
+legislative	1
+push		1
+list		1
+mcmullen	1
+received	1
+need		1
+clients		1
+pr		1

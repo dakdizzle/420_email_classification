@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+vince		1
+greg		1
+liz		1
+stanford	1
+fyi		1
+person		1
+meet		1

@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+please		2
+tool		1
+weve		1
+attached	1
+bottom		1
+discussed	1
+jmf		1
+sheets		1
+contained	1
+see		1
+note		1
+thanks		1

@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+telephone	2
+mailing		1
+madrid		1
+jvd		1
+iii		1
+lost		1
+appreciate	1
+stolen		1
+frels		1
+katherine	1
+number		1
+thanks		1

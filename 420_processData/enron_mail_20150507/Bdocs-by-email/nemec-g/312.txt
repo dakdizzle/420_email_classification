@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+discuss		2
+please		2
+limits		1
+maximum		1
+attached	1
+daily		1
+today		1
+review		1
+docs		1
+flexibility	1
+confirm		1
+special		1
+redlines	1
+lets		1
+section		1
+pay		1
+changes		1
+barry		1
+want		1
+discussed	1
+quantity	1
+note		1
+needs		1
+deliverability	1

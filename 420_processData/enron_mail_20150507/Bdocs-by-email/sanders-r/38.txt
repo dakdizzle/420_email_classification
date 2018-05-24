@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+check		1
+left		1
+mail		1
+voice		1

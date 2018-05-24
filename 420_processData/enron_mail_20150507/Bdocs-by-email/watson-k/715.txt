@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+kwatson		2
+cn		2
+pstyes		1
+mark		1
+wall		1
+day		1
+up		1
+recipients	1
+watson		1
+fine		1
+stop		1
+filename	1
+na		1
+thanks		1
+privileged	1
+kim		1
+kimberly	1
+non		1
+enron		1
+please		1
+ou		1
+pinned		1
+calendar	1

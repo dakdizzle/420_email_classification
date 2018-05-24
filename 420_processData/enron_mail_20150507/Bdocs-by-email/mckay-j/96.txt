@@ -1,0 +1,7 @@
+NumWords	12
+NumTerms	4
+
+year		4
+offer		4
+nov		3
+smednov		1

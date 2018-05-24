@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+zatsenila	1
+noviy		1
+moy		1
+mail		1

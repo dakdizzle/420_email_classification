@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+gas		1
+attached	1
+jersey		1
+natural		1
+see		1
+new		1

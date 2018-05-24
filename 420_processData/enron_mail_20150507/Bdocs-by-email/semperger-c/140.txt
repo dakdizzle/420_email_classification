@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+cara		3
+semperger	2
+cn		2
+uses		1
+scheduling	1
+recipients	1
+meet		1
+filename	1
+na		1
+take		1
+expect		1
+thanks		1
+morning		1
+tools		1
+csemper		1
+enron		1
+show		1
+tomorrow	1
+minutes		1
+ou		1
+pstlet		1

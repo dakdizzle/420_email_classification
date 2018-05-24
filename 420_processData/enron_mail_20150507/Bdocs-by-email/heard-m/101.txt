@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+forms		1
+enron		1
+executed	1
+ena		1
+attached	1
+ebs		1
+isda		1
+work		1
+going		1
+certificates	1
+corp		1
+carol		1

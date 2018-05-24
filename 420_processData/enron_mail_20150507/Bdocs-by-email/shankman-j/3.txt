@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+interested	1
+jeff		1
+sorry		1
+delay		1
+betsy		1
+doing		1
+hi		1

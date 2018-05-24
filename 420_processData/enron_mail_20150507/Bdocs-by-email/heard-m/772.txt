@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+base		1
+copy		1
+sheila		1
+need		1
+agreement	1

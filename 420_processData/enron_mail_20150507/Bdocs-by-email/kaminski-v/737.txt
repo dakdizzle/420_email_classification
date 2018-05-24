@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+vince		2
+athanks		1
+group		1
+working		1
+know		1
+missing		1
+name		1
+grade		1
+filename	1
+vkamins		1
+lot		1
+please		1
+kaminskix	1
+pleasure	1
+last		1
+pstpam		1
+kaminski	1

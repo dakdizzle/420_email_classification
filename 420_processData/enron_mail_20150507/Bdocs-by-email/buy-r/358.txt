@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+seats		1
+right		1
+rick		1
+games		1
+rac		1

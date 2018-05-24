@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+put		1
+down		1
+per		1
+crazy		1
+mile		1
+woman		1

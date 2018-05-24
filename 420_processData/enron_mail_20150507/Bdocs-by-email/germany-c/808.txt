@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+chris		2
+capacity	2
+cn		2
+germany		2
+mdq		1
+term		1
+worksheet	1
+cgerman		1
+gas		1
+recipients	1
+found		1
+filename	1
+na		1
+ending		1
+psti		1
+enron		1
+contract	1
+ou		1
+think		1
+date		1
+boston		1
+mistake		1

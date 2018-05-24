@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+bring		1
+sure		1
+decided		1

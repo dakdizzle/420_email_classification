@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+vacation	1
+sara		1
+ll		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+sent		1
+steve		1
+asked		1
+here		1

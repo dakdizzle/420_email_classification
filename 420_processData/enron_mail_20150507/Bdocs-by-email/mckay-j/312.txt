@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+taking		1
+smooth		1
+child		1
+class		1
+dance		1
+everything	1
+mother		1
+hope		1
+jon		1
+mass		1
+one		1
+father		1
+everyone	1
+mail		1
+chance		1
+went		1
+practice	1
+include		1
+hockey		1

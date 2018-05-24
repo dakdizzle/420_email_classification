@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+weekend		2
+expenses	1
+combination	1
+make		1
+arrangements	1
+hunting		1
+know		1
+interest	1
+th		1
+closing		1
+possible	1
+dates		1
+work		1
+dec		1
+next		1

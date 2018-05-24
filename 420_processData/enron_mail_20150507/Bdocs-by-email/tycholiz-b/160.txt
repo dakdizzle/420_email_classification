@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+early		1
+heard		1
+pgt		1
+passed		1
+bt		1
+market		1
+regarding	1
+issues		1
+calpine		1
+show		1
+start		1
+change		1
+yes		1
+npg		1
+think		1
+date		1

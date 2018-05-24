@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+car		2
+rutland		1
+until		1
+days		1
+keep		1
+houston		1
+meaning		1
+forget		1
+ve		1
+around		1
+m		1
+three		1
+developed	1
+rolls		1
+film		1
+one		1
+undeveloped	1
+tx		1
+address		1
+st		1
+ll		1
+always		1

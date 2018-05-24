@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+man		1
+rich		1
+ori		1
+later		1
+call		1
+ll		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+promised	1
+tanya		1
+cap		1

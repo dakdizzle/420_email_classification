@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+new		2
+paul		1
+well		1
+contact		1
+cellular	1
+phone		1
+axel		1
+tried		1
+regards		1
+enjoying	1
+hope		1
+office		1
+please		1
+numbers		1
+reach		1
+mail		1
+role		1
+doing		1

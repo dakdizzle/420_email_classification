@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+care		1
+meeting		1
+wrap		1
+up		1
+try		1
+kate		1
+thanks		1
+out		1
+really		1
+check		1
+bill		1
+trader		1
+before		1
+don		1

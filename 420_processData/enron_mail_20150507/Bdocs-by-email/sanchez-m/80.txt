@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+assaults	1
+physical	1
+difficult	1
+settle		1
+looks		1
+see		1
+dirty		1

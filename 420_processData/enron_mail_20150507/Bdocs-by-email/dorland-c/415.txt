@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+thanxchris	1
+royal		1
+send		1
+everything	1
+page		1
+finalize	1
+dawn		1
+le		1
+name		1
+contact		1
+services	1
+relocation	1
+week		1

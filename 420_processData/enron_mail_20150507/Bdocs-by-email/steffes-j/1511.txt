@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+out		1
+information	1
+talk		1
+indicate	1
+communicated	1
+blue		1
+called		1
+puct		1
+doug		1

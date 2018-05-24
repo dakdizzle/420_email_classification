@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+irwin		1
+co		1
+steve		1
+jaime		1
+williams	1
+one		1
+leads		1
+needed		1
+prc		1

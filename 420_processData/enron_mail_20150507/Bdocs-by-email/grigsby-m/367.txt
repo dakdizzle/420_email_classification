@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+rangel		1
+ina		1
+mike		1
+grigsbyhouston	1

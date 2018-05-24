@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+nov		2
+dec		2
+sep		1
+mar		1
+jan		1
+month		1
+aug		1
+vol		1
+jun		1
+apr		1
+feb		1
+oct		1
+jul		1

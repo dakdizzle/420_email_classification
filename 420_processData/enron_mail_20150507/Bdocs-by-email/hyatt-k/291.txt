@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+congrats	1
+kh		1
+people		1
+hey		1
+job		1
+more		1
+need		1
+new		1

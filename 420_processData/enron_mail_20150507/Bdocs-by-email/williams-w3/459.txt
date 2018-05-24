@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+need		1
+kate		1
+mpc		1
+help		1

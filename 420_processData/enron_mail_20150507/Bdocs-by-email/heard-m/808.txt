@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+international	2
+enron		2
+corp		2
+former		1
+risk		1
+resources	1
+name		1
+management	1
+harlan		1
+trade		1
+capital		1
+trading		1

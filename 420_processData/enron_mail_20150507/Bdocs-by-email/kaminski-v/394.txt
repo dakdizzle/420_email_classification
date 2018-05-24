@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+aol		1
+comgood		1
+snowbirdthe	1
+luckvince	1
+woodlands	1
+ron		1
+stay		1
+vince		1
+vkaminski	1
+touch		1
+coordinates	1
+work		1
+pleasure	1
+tx		1
+kaminski	1
+here		1

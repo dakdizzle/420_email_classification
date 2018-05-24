@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+rick		1
+contact		1
+maybe		1
+london		1
+ted		1

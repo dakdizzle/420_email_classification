@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+up		1
+place		1
+divide		1
+guys		1
+legs		1
+mc		1
+even		1
+trade		1
+out		1
+cal		1
+eei		1
+tell		1
+eol		1
+don		1
+add		1

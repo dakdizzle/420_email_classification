@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+vkamins		2
+vince		2
+cn		2
+enroll		1
+recipients	1
+filename	1
+na		1
+pst		1
+privileged	1
+non		1
+enron		1
+ou		1
+artin		1
+kaminski	1

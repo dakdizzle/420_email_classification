@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+da		2
+load		2
+hey		1
+checked		1
+letter		1
+january		1
+total		1
+high		1
+wrong		1
+herr		1
+jeff		1
+best		1
+back		1
+february	1
+angelides	1
+contracry	1
+went		1

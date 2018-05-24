@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+calgary		1
+video		1
+enron		1
+tstaggs		1
+recipients	1
+ou		1
+tammie		1
+schoppe		1
+na		1
+conferenced	1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+hearing		1
+keep		1
+tape		1
+filename	1
+lavorato	1
+listen		1
+soon		1
+broker		1
+psti		1
+office		1
+jlavora		1
+go		1
+issue		1
+resolve		1
+johnx		1
+tapes		1
+over		1

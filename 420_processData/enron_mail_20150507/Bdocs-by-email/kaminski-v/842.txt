@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+vince		2
+work		2
+kaminski	2
+pstsusanne	1
+exciting	1
+colleagues	1
+paper		1
+answer		1
+filename	1
+vkamins		1
+lot		1
+thanks		1
+home		1
+jx		1
+great		1
+riskmanagement	1
+shall		1
+congratulations	1
+numbers		1
+question	1
+ona		1
+tonight		1
+area		1

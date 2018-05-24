@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+tlokey		2
+cn		2
+terminated	1
+tariff		1
+lokey		1
+explaining	1
+recipients	1
+filename	1
+na		1
+sheets		1
+privileged	1
+teb		1
+psti		1
+non		1
+enron		1
+update		1
+contract	1
+ou		1
+need		1
+think		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+send		1
+ellen		1
+talk		1
+before		1

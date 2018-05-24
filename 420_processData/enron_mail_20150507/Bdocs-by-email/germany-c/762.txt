@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+care		1
+day		1
+course		1
+won		1
+someone		1
+take		1
+valentine	1
+congratulations	1
+more		1
+maybe		1
+candy		1
+give		1
+over		1

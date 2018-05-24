@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+m		1
+everything	1
+letting		1
+back		1
+know		1
+glad		1
+doing		1
+thanks		1

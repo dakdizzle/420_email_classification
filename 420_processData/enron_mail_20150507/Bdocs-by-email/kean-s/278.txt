@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+stated		1
+publicly	1
+message		1
+needing		1
+guys		1
+won		1
+ken		1
+left		1
+internal	1
+succession	1

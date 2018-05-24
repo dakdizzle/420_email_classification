@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+work		2
+monday		1
+heard		1
+contacts	1
+hey		1
+know		1
+friday		1
+both		1
+m		1
+stanton		1
+back		1
+kristin		1
+kimps		1
+more		1
+called		1
+still		1

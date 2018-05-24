@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+doing		2
+pregnant	1
+hey		1
+job		1
+cats		1
+chic		1
+goof		1
+anything	1
+boy		1
+talking		1
+lie		1
+tell		1
+old		1
+yes		1
+going		1
+bad		1
+woman		1

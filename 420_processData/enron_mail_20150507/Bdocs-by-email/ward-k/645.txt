@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+customer	1
+together	1
+hopefully	1
+thanks		1
+kim		1
+soon		1
+rains		1
+pours		1
+unfortunately	1
+night		1
+susie		1
+inviting	1
+town		1

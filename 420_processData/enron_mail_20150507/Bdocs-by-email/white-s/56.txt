@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+make		2
+sure		2
+stacey		1
+information	1
+tim		1
+etc		1
+designated	1
+currently	1
+names		1
+books		1
+soon		1
+gets		1
+list		1
+possible	1
+trader		1
+change		1
+traded		1
+need		1
+reminder	1
+regions		1

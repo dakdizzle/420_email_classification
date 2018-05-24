@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+semperger	1
+wrightaloha	1
+now		1
+sw		1
+cara		1

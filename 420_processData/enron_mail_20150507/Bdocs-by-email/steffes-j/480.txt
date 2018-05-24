@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+both		1
+days		1
+houston		1
+need		1
+sorry		1

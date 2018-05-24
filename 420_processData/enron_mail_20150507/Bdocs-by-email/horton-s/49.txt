@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+wind		1
+cash		1
+generate	1
+now		1
+meet		1
+point		1
+enough		1
+enron		1
+doubt		1
+anybody		1
+issue		1
+requirements	1
+happen		1

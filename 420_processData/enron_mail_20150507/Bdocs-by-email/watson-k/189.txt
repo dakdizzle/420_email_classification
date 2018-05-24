@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+kim		1
+message		1
+please		1
+understand	1
+advise		1
+means		1
+dan		1

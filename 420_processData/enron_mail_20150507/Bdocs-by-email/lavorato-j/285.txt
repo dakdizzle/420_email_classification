@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+wow		1
+make		1
+positions	1
+knew		1
+going		1
+last		1
+money		1
+kidding		1
+week		1

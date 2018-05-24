@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+scott		2
+charges		2
+group		1
+palmereast	1
+ones		1
+west		1
+contact		1
+kam		1
+keisercentral	1
+phillip		1
+neal		1
+demand		1
+lovetexas	1
+please		1
+sitara		1
+book		1
+yes		1
+regional	1
+winfreethankskam	1
+controller	1

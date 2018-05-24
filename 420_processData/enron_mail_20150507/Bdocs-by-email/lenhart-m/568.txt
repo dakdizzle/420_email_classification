@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+don		2
+sun		1
+happening	1
+dogs		1
+again		1
+sometimes	1
+see		1
+think		1
+ass		1
+shines		1

@@ -1,0 +1,23 @@
+NumWords	28
+NumTerms	20
+
+vince		3
+kaminski	3
+aol		2
+vkaminski	2
+cn		2
+com		2
+mailto		1
+recipients	1
+filename	1
+na		1
+vkamins		1
+woodlands	1
+pstberney	1
+vincent		1
+enron		1
+coordinates	1
+placethe	1
+ou		1
+snowbird	1
+tx		1

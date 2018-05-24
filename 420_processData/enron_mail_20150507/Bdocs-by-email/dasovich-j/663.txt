@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+likes		1
+group		1
+fight		1
+relentless	1
+know		1
+horowitz	1
+looks		1
+eegads		1
+food		1
+something	1
+good		1
+down		1
+come		1
+sue		1
+think		1

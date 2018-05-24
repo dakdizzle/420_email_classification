@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+letter		1
+revolver	1
+going		1
+went		1
+news		1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+one		2
+relative	1
+showing		1
+map		1
+under		1
+construction	1
+plants		1
+size		1
+sd		1
+two		1
+added		1
+development	1
+slides		1
+overview	1

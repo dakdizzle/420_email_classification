@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+down		1
+scrub		1
+yourself	1

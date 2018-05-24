@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+make		2
+game		2
+little		1
+tonights	1
+regular		1
+heard		1
+pm		1
+schwieger	1
+up		1
+know		1
+west		1
+york		1
+wanted		1
+thanks		1
+call		1
+jim		1
+pmplease	1
+message		1
+received	1
+back		1
+knew		1
+night		1
+sure		1
+saturday	1

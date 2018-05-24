@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+pocket		1
+out		1
+ve		1
+mark		1
+talk		1
+until		1
+meetings	1
+sorry		1
+week		1
+next		1

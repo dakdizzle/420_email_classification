@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+those		1
+diana		1
+regards		1
+good		1
+message		1
+scholtes	1
+received	1
+contact		1
+week		1
+times		1
+next		1

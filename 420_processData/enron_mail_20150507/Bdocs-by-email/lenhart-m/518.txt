@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+easy		1
+believe		1
+up		1
+whether		1
+sure		1
+c		1
+worked		1

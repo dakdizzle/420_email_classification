@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+wasnt		1
+fact		1
+stating		1
+accusing	1

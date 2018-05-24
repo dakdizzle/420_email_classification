@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+stacey		1
+john		1
+know		1
+numbers		1
+same		1

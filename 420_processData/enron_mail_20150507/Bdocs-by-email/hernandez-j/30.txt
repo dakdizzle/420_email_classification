@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+portal		1
+enron		1
+http		1
+eastpower	1
+corp		1
+dev		1
+com		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+check		1
+back		1

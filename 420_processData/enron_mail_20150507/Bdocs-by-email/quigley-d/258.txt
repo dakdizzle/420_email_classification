@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+plan		1
+good		1
+hundo		1
+asked		1
+babydq		1
+againlove	1
+luck		1
+golf		1
+woodlands	1
+sunday		1
+lots		1
+play		1

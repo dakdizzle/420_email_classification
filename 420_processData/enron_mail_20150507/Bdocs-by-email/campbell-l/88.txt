@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+know		2
+really		1
+used		1
+gave		1
+now		1
+director	1
+work		1
+ets		1
+kidding		1
+always		1

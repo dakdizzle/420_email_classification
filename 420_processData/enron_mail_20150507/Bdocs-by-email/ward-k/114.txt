@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+tomarrow	1
+send		1
+legal		1
+document	1
+need		1
+call		1

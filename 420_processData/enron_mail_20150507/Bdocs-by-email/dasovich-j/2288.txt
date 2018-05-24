@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+crazy		1
+go		1
+pg		1
+ain		1
+ahead		1
+whalley		1
+looks		1
+market		1

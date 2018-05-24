@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+knows		1
+concern		1
+time		1
+hopefully	1
+legal		1
+one		1
+appreciate	1
+never		1
+thanks		1

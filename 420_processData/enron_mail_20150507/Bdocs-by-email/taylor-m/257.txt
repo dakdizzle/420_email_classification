@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+calendar	2
+mark		1
+david		1
+up		1
+sending		1
+working		1
+know		1
+road		1
+pager		1
+good		1
+hope		1
+mitchell	1
+message		1
+tomorrow	1
+weekend		1
+isn		1
+test		1
+access		1
+set		1
+lunch		1
+don		1
+mind		1

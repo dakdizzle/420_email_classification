@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+described	1
+dude		1
+welcome		1
+name		1
+ranch		1

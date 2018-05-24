@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+morning		1
+make		1
+suggesting	1
+david		1
+barry		1
+probably	1
+late		1
+fed		1
+ex		1
+sure		1
+oxley		1
+call		1

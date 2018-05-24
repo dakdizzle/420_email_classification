@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+anything	1
+heard		1
+linda		1
+doe		1

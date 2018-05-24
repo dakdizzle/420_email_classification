@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+wortham		2
+one		2
+don		2
+closed		1
+outside		1
+underground	1
+meet		1
+definitely	1
+bank		1
+driving		1
+garages		1
+lot		1
+lots		1
+out		1
+flood		1
+way		1
+down		1
+many		1
+right		1
+downtown	1
+smith		1
+side		1
+mind		1
+parking		1

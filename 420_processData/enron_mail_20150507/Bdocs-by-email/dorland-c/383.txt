@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+great		1
+town		1
+th		1
+chris		1
+sept		1
+call		1

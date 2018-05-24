@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+take		2
+sqws		1
+effect		1
+access		1
+awhile		1
+nacal		1

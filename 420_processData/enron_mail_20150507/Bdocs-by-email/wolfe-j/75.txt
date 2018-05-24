@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+product		2
+las		1
+day		1
+map		1
+socal		1
+jason		1
+out		1
+pge		1
+instead		1
+sitara		1
+roll		1
+go		1
+ahead		1
+curve		1
+need		1
+vegas		1
+next		1
+topock		1

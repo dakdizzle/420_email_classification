@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+apologies	1
+sent		1
+abigail		1
+mistake		1

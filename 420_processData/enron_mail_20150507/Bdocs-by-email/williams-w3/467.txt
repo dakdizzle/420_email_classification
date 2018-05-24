@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+those		1
+word		1
+passwords	1
+need		1
+cards		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+aquilla		1
+grady		1
+tom		1

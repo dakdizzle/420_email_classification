@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+maid		1
+cowanhow	1
+beat		1
+carl		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ina		1
+restdq		1
+shoulder	1
+john		1
+phone		1
+new		1
+needs		1

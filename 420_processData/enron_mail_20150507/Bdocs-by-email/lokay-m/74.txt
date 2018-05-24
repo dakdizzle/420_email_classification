@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+kim		1
+updated		1
+hope		1
+accomplishments	1
+additional	1
+late		1
+thanks		1

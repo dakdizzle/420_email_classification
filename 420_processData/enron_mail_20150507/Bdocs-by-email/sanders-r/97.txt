@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+enron		3
+com		2
+ed		1
+epwcglobal	1
+lisa		1
+mean		1
+ecom		1
+imceanotes	1
+pwcglobal	1
+thanks		1
+clisa		1
+handicap	1
+esnell		1
+snell		1

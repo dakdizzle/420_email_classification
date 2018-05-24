@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+status		1
+send		1
+hey		1
+company		1
+junk		1
+numberat	1
+call		1
+enron		1
+mom		1
+work		1
+thought		1
+bad		1
+coop		1
+chance		1
+cut		1
+don		1
+give		1
+very		1
+love		1

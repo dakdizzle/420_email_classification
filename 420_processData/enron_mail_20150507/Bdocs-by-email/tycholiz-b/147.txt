@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+think		2
+make		1
+displacement	1
+advise		1
+flows		1
+bt		1
+talked		1
+leg		1
+point		1
+issues		1
+fuller		1
+pacific		1
+adhere		1
+storage		1
+shift		1
+jp		1
+forced		1
+work		1
+sierra		1
+replicate	1
+doing		1
+happen		1
+delivery	1
+allow		1

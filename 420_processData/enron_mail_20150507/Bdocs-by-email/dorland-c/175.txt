@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+gifts		1
+family		1
+pl		1
+http		1
+www		1
+children	1
+richardkramerironlarge	1
+subpath		1
+verycanada	1
+one		1
+bin		1
+giflike		1
+large		1
+cgi		1
+middle		1
+largeimages	1
+image		1
+com		1

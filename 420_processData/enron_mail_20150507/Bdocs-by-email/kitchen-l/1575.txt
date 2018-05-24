@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+power		2
+trading		2
+gas		1
+signs		1
+help		1
+offer		1
+down		1
+hope		1
+idea		1
+going		1
+probably	1
+traders		1
+brought		1
+shop		1
+still		1
+unbelievable	1
+rogue		1
+standard	1
+here		1

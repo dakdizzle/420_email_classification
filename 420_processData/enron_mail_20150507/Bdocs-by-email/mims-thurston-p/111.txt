@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+changes		2
+problems	1
+hey		1
+know		1
+cilco		1
+s		1
+sable		1
+back		1
+contract	1
+aux		1
+think		1
+here		1
+debra		1

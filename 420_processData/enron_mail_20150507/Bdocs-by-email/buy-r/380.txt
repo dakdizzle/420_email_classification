@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+good		1
+rick		1
+tx		1
+thought		1
+pursue		1
+very		1
+ll		1

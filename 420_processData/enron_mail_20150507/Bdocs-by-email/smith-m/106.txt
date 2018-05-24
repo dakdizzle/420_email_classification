@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+socal		1
+thursday	1
+injected	1
+sheila		1
+th		1
+mat		1

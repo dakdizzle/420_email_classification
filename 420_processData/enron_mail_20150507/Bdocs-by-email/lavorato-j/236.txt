@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+great		2
+first		1
+job		1
+step		1
+guys		1
+take		1
+getting		1
+done		1
+familiar	1
+back		1
+ultimate	1
+goal		1
+think		1

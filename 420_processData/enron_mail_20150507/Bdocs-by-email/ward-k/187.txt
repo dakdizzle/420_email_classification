@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+gone		2
+kim		1
+hesco		1
+bhp		1
+up		1
+feel		1
+friday		1
+chance		1
+longer		1
+call		1

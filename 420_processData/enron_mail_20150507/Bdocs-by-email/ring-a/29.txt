@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+please		2
+way		1
+terminate	1
+questions	1
+united		1
+contributions	1
+call		1

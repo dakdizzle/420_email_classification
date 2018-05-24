@@ -1,0 +1,27 @@
+NumWords	39
+NumTerms	24
+
+enron		6
+john		3
+jean		3
+hodge		3
+mrha		2
+alternate	2
+corp		2
+request		2
+pm		1
+vickers		1
+know		1
+listed		1
+submitted	1
+na		1
+fw		1
+forwarded	1
+regards		1
+enroncc		1
+pmto		1
+comfyi		1
+subject		1
+access		1
+frank		1
+enronxgate	1

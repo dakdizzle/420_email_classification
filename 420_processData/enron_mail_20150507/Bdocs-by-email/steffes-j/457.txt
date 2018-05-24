@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+m		1
+travel		1
+right		1
+thursday	1
+dale		1
+now		1
+although	1
+week		1
+next		1

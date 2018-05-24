@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+nominations	1
+thursday	1
+know		1
+volumes		1
+sell		1
+want		1
+find		1
+due		1
+need		1
+afternoon	1
+market		1

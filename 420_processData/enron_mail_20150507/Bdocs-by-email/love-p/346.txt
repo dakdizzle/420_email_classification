@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+deal		2
+look		1
+pl		1
+tagg		1
+please		1
+exit		1

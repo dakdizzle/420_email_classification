@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+taking		1
+first		1
+assigned	1
+claims		1
+severe		1
+more		1
+called		1
+c		1

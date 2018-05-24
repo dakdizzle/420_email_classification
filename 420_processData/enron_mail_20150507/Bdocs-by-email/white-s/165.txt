@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+headcount	2
+good		1
+agree		1
+stacey		1
+originally	1
+one		1
+added		1
+looks		1

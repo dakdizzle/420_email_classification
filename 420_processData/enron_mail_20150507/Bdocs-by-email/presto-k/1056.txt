@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+posoli		1
+work		1
+phone		1

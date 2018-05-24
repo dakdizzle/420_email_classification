@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+merry		1
+vince		1
+christmas	1
+happynew	1
+year		1
+same		1
+valerythanks	1
+very		1
+lot		1

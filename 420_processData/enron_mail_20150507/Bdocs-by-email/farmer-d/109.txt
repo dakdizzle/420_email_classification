@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+prices		1
+report		1
+deals		1
+review		1
+mops		1
+find		1
+julie		1
+out		1
+run		1
+sitara		1
+numbers		1
+need		1
+cpr		1
+deal		1
+don		1

@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+review		2
+riverside	2
+discuss		1
+conversation	1
+mark		1
+department	1
+up		1
+october		1
+wednesday	1
+attached	1
+contact		1
+letter		1
+prior		1
+management	1
+proposed	1
+chris		1
+regards		1
+confirmation	1
+please		1
+opportunity	1
+county		1
+st		1
+richard		1
+waste		1

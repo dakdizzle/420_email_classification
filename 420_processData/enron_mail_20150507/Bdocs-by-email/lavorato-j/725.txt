@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+list		2
+bradford	1
+debbie		1
+power		1
+ranking		1
+bracketttop	1
+scheduling	1
+today		1
+rac		1
+finished	1
+started		1
+bill		1
+beck		1
+associates	1
+include		1
+analysts	1

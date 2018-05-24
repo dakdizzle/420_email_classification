@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+carson		2
+pstjohn		1
+suarez		1
+filename	1
+transfer	1
+content		1
+encoding	1
+mx		1
+tomorrow	1
+origin		1
+mike		1
+bitx		1
+extension	1
+deal		1
+doing		1

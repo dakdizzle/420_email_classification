@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+need		3
+books		2
+ed		1
+mcmichael	1
+complete	1
+up		1
+know		1
+deals		1
+susan		1
+help		1
+existing	1
+thanks		1
+anything	1
+soon		1
+two		1
+possible	1
+please		1
+estate		1
+separate	1
+dg		1
+set		1

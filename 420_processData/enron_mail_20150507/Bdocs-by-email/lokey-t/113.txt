@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+thing		1
+instead		1
+services	1
+section		1
+logistics	1
+gas		1
+noticed		1
+administrative	1
+matters		1
+market		1
+reference	1
+notices		1

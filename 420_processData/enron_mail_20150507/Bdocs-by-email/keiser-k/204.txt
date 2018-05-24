@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+those		2
+deals		2
+thankskk	1
+create		1
+associated	1
+phone		1
+books		1
+products	1
+torrey		1
+dollars		1
+trades		1
+canadian	1
+additional	1
+traders		1
+eol		1

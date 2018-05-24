@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+products	2
+those		1
+gas		1
+canadian	1
+need		1
+currently	1
+access		1
+extension	1
+view		1
+thanks		1

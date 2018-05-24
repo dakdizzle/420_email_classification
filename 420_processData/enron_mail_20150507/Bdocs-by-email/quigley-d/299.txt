@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+hold		1
+quot		1
+russell		1
+diamonds	1

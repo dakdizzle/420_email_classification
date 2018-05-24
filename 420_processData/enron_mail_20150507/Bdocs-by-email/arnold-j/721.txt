@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+talk		2
+greg		1
+trentham	1
+john		1
+jeff		1
+ask		1
+chance		1
+thanks		1
+call		1

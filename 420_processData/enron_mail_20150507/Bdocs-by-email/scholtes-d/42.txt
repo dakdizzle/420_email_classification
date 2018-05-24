@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+diana		1
+scholtes	1
+balance		1
+help		1
+thanks		1
+out		1
+amy		1
+office		1
+sean		1
+settle		1
+forward		1
+year		1
+crandall	1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+case		1
+point		1
+kim		1
+assumed		1
+right		1
+john		1
+match		1
+moved		1
+favor		1
+away		1
+dan		1

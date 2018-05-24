@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+cgerman		2
+cn		2
+st		2
+midwestern	1
+nd		1
+recipients	1
+rate		1
+filename	1
+na		1
+chris		1
+path		1
+privileged	1
+psti		1
+non		1
+enron		1
+discount	1
+germany		1
+ou		1
+thru		1

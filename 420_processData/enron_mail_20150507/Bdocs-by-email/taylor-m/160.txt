@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+something	1
+handled		1
+one		1
+old		1
+already		1
+going		1
+found		1
+mails		1
+through		1

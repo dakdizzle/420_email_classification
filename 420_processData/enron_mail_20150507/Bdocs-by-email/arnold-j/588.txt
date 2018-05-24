@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+john		2
+margin		2
+jones		1
+maintenance	1
+veronica	1
+ask		1
+trying		1
+person		1
+asked		1
+bank		1
+call		1
+deutsche	1
+think		1

@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+attachment	2
+email		1
+threshold	1
+worksheet	1
+one		1
+last		1
+see		1
+item		1
+undated		1
+thanks		1

@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+deal		2
+option		1
+possibly	1
+support		1
+free		1
+credit		1
+john		1
+california	1
+now		1
+especially	1
+anyway		1
+nice		1
+chrison		1
+kill		1
+right		1
+exercise	1
+months		1

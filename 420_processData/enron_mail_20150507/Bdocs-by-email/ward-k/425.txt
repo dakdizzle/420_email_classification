@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+together	1
+send		1
+credit		1
+worksheet	1
+hopefully	1
+ncpa		1
+proforma	1
+thanks		1
+srp		1
+kim		1
+put		1
+attaching	1
+statements	1
+contract	1
+arizona		1
+projects	1
+panda		1
+think		1
+news		1

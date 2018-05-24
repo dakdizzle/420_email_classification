@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+early		2
+calc		1
+id		1
+zhiyong		1
+kam		1
+ready		1
+post		1
+enough		1
+thursday	1
+go		1
+need		1
+week		1
+st		1
+next		1

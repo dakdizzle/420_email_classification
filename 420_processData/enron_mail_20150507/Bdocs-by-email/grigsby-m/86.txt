@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+involved	2
+coming		1
+know		1
+well		1
+west		1
+help		1
+stay		1
+fundies		1
+project		1
+more		1
+mike		1
+projects	1
+include		1

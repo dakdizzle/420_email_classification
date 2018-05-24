@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+suarez		2
+package		2
+based		2
+make		1
+john		1
+short		1
+increasing	1
+economics	1
+talked		1
+good		1
+great		1
+done		1
+craw		1
+areas		1
+uncomfortable	1
+told		1
+decision	1
+carson		1
+news		1
+needs		1

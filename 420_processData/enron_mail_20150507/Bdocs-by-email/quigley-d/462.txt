@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+springer	1
+duke		1
+chris		1

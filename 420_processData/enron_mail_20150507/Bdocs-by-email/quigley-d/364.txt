@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+volume		2
+sep		1
+bid		1
+term		1
+adjust		1
+jan		1
+closing		1
+total		1
+call		1
+dealdutch	1
+cetsthe		1
+contractsthe	1
+before		1

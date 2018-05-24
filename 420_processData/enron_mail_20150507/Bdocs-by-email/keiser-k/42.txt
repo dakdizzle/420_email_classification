@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+send		2
+file		2
+dpr		2
+first		1
+few		1
+ena		1
+chris		1
+times		1
+reflect		1
+thanks		1
+seen		1
+kamcould	1
+positions	1
+please		1
+start		1
+divided		1
+needed		1
+below		1
+bcf		1
+using		1
+ews		1

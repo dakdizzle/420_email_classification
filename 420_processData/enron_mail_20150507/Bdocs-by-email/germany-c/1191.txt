@@ -1,0 +1,25 @@
+NumWords	29
+NumTerms	22
+
+volumes		3
+day		2
+per		2
+cgerman		2
+cn		2
+deal		2
+updated		1
+recipients	1
+hub		1
+filename	1
+na		1
+chris		1
+mamou		1
+privileged	1
+nypa		1
+psti		1
+non		1
+enron		1
+germany		1
+ou		1
+november	1
+tgt		1

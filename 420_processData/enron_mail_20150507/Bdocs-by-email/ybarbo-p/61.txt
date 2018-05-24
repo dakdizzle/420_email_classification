@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+care		1
+paul		1
+hope		1
+hello		1
+sunita		1
+well		1
+doing		1
+take		1

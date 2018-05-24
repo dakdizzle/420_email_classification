@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+contracts	2
+ve		1
+collecting	1
+hard		1
+now		1
+bob		1
+guadalupe	1
+copies		1
+mails		1

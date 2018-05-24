@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+see		2
+meeting		1
+up		1
+gym		1
+later		1
+call		1
+something	1
+feel		1
+back		1
+before		1
+going		1
+still		1
+finei		1

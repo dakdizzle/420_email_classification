@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+bathroon	1
+bath		1
+hotel		1
+mean		1
+sounds		1
+paris		1
+single		1
+long		1
+good		1
+description	1
+double		1
+rooms		1
+shower		1
+include		1
+tub		1

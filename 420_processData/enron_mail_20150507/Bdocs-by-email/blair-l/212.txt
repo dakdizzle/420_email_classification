@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lynn		1
+thoreau		1
+quiet		1
+socal		1
+spreadsheet	1
+west		1
+things		1
+desk		1
+nng		1
+tw		1
+shelley		1
+thanks		1

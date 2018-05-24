@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+word		1
+noresco		1
+call		1

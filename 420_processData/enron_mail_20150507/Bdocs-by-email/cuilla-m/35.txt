@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+media		1
+http		1
+gif		1
+eurmap		1
+org		1
+library		1
+thinkquest	1

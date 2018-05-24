@@ -1,0 +1,26 @@
+NumWords	28
+NumTerms	23
+
+want		3
+trade		2
+enron		2
+need		2
+currency	1
+know		1
+glad		1
+cheques		1
+help		1
+volume		1
+out		1
+something	1
+each		1
+m		1
+right		1
+started		1
+jon		1
+happy		1
+going		1
+d		1
+mail		1
+sure		1
+away		1

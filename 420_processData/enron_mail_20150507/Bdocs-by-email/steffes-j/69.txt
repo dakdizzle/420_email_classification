@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+privileged	2
+steffes		2
+non		2
+jsteffe		2
+represent	1
+panel		1
+pstdo		1
+friday		1
+epsa		1
+filename	1
+folder		1
+jim		1
+jx		1
+sent		1
+version		1
+want		1
+origin		1
+itemsx		1
+james		1
+mime		1

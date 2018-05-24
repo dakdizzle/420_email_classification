@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+card		1
+gets		1
+present		1
+tell		1
+furniture	1
+think		1

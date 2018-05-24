@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+message		1
+best		1
+eric		1
+loop		1
+derrick		1
+hire		1
+proposed	1
+rob		1
+walls		1
+thanks		1

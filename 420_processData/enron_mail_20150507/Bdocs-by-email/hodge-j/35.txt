@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+jhodge		2
+cn		2
+psttravis	1
+leaving		1
+recipients	1
+hodge		1
+filename	1
+na		1
+privileged	1
+jeffrey		1
+home		1
+cell		1
+non		1
+enron		1
+jeff		1
+telephone	1
+mailthanks	1
+follows		1
+numbers		1
+ou		1
+need		1
+checking	1
+voice		1

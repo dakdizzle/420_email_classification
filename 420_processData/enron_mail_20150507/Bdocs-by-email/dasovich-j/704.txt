@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+speed		1
+congratulations	1
+moves		1
+more		1
+regulation	1
+evidence	1
+lightening	1

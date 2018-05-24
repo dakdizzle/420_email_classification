@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+pl		1
+originator	1
+try		1
+deal		1
+pollan		1
+sylvia		1

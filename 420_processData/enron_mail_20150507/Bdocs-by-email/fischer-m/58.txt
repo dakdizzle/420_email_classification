@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+worked		2
+highly		1
+rta		1
+tnpc		1
+ranked		1
+working		1
+build		1
+warrants	1
+companies	1
+refining	1
+cummulative	1
+continued	1
+taxes		1
+deferred	1

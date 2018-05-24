@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+doing		1
+tonight		1

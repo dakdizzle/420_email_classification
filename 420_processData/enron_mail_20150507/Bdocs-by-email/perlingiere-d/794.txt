@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+eb		1
+send		1
+fax		1
+legal		1
+contact		1
+houston		1
+street		1
+america		1
+enron		1
+texas		1
+thxdebra	1
+executed	1
+north		1
+dominion	1
+smith		1
+perlingiereenron	1
+address		1
+perlingiere	1
+amendment	1
+com		1
+debra		1
+ann		1

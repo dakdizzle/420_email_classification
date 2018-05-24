@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+boy		1
+baby		1
+congratulations	1
+grigsby		1
+new		1

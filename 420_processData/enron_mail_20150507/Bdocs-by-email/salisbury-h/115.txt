@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+erica		1
+paul		1
+thank		1
+know		1
+tim		1
+online		1
+requested	1
+database	1
+general		1
+granted		1
+holden		1
+garcia		1
+please		1
+heizenrader	1
+permission	1
+acces		1
+access		1
+pdxfund		1

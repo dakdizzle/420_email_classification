@@ -1,0 +1,26 @@
+NumWords	61
+NumTerms	23
+
+ect		6
+hou		6
+thomas		4
+martin		4
+customer	3
+gottlob		3
+industrial	3
+forwarded	3
+edward		3
+ipp		3
+ectcc		3
+subject		3
+coverage	3
+greg		2
+pm		2
+pmto		2
+list		2
+helps		1
+elsa		1
+villarreal	1
+amto		1
+listhope	1
+brazaitis	1

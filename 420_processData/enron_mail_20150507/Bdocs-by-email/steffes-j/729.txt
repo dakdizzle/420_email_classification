@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+budget		1
+nerc		1
+thoughts	1

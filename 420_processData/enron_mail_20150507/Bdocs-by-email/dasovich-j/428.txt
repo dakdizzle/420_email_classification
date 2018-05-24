@@ -1,0 +1,21 @@
+NumWords	27
+NumTerms	18
+
+com		4
+sellers		3
+eldon		3
+nancy		2
+mail		2
+net		1
+scott		1
+scottwl		1
+fire		1
+pacbell		1
+direcpc		1
+robertmondavi	1
+laughlin	1
+psellers	1
+cameron		1
+perfect		1
+hotmail		1
+jeez		1

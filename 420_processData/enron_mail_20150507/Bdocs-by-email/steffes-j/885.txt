@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+press		1
+nerc		1
+national	1
+rj		1
+disavowed	1
+fronting	1
+nb		1
+rtos		1
+security	1
+jim		1
+m		1
+misheard	1
+rick		1
+discussions	1
+finally		1
+rudden		1
+indicated	1
+sure		1
+prove		1
+attachments	1
+southern	1
+think		1
+otherwise	1

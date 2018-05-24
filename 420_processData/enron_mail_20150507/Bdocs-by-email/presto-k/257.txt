@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+fundies		1
+charged		1
+look		1
+confusing	1
+reasonable	1
+allocations	1
+costs		1

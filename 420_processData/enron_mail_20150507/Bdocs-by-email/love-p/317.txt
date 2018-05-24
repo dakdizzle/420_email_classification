@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+bruce		1
+pl		1
+respond		1
+office		1
+information	1
+know		1
+friday		1
+asked		1
+thanks		1

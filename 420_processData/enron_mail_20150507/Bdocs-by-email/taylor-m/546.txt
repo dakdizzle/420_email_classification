@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+good		1
+relations	1
+up		1
+please		1
+know		1
+back		1
+keep		1
+told		1
+call		1

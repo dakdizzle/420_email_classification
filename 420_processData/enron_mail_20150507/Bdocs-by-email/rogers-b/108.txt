@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+apart		1
+mas		1
+begin		1
+ben		1
+things		1
+before		1
+fall		1
+think		1
+michael		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+figured		1
+tomorrow	1
+translation	1
+yes		1
+doing		1
+help		1

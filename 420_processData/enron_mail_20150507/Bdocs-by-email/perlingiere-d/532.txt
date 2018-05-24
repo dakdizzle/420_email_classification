@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+perlingiere	2
+non		1
+ellen		1
+enron		1
+comx		1
+origin		1
+wallumrod	1
+dx		1
+filename	1
+pst		1
+privileged	1
+debra		1

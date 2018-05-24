@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+floor		1
+hr		1
+gas		1
+trading		1
+needs		1

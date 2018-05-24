@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+gnemec		2
+cn		2
+pstpaul		1
+recipients	1
+prior		1
+filename	1
+na		1
+privileged	1
+version		1
+non		1
+enron		1
+nemec		1
+one		1
+use		1
+disregard	1
+ou		1
+gerald		1

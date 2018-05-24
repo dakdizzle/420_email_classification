@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+group		1
+tva		1
+non		1
+john		1
+until		1
+handle		1
+deals		1
+serc		1
+suarez		1
+joins		1

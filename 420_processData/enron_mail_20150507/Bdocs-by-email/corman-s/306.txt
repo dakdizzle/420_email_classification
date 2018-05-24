@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+email		1
+information	1
+address		1
+elza		1
+happen		1
+thanks		1

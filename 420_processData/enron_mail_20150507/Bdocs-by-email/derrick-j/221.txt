@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+left		1
+question	1
+mail		1
+voice		1
+ann		1

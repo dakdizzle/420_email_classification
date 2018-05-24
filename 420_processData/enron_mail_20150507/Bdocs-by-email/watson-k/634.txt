@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+kim		1
+great		1
+amy		1
+thank		1
+weekend		1
+checking	1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+see		2
+budget		1
+today		1
+although	1
+jim		1
+issues		1
+impacts		1
+looked		1
+middle		1
+process		1
+don		1
+request		1
+plane		1

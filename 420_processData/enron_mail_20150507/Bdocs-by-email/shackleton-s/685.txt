@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+form		2
+fimat		2
+inc		1
+ene		1
+guaranty	1
+fax		1
+speak		1
+abrams		1
+accept		1
+clement		1
+right		1
+don		1
+usa		1
+think		1
+ll		1

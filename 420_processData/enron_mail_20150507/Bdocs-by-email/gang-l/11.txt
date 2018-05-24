@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+page		1
+lisa		1
+think		1

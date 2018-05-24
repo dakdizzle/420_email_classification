@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+mary		2
+live		1
+calpine		1
+working		1
+harlen		1
+one		1
+cook		1
+sager		1
+stc		1
+elizabeth	1
+carol		1
+hi		1

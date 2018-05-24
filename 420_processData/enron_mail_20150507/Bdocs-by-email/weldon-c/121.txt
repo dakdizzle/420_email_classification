@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+thanks		2
+charlie		1
+hear		1
+updated		1
+further		1
+john		1
+gas		1
+price		1
+sorry		1
+curves		1
+upate		1
+delayed		1
+night		1
+last		1
+deal		1

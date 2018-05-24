@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+group		1
+coming		1
+recuperate	1
+send		1
+debbie		1
+up		1
+larry		1
+berger		1
+thompson	1
+blair		1
+assure		1
+lined		1
+getting		1
+please		1
+fruit		1
+yes		1
+need		1
+galen		1
+basket		1

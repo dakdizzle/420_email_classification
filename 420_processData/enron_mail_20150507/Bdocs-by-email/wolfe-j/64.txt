@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+incl		1
+citrix		1
+db		1
+up		1
+html		1
+grabbed		1
+october		1
+jason		1
+th		1
+chris		1
+thanks		1
+loaded		1
+points		1
+scraper		1
+cyc		1
+numbers		1
+pulled		1

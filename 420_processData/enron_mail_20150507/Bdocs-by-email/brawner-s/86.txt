@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+dont		1
+make		1
+nervous		1
+bad		1
+smiling		1
+thanks		1

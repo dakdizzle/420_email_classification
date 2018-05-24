@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+morning		1
+shackles	1
+one		1
+thought		1
+cd		1
+listening	1
+song		1

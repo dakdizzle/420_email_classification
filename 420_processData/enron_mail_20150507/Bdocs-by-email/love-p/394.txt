@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+sent		1
+pl		1
+please		1
+know		1
+changes		1
+questions	1
+spreadsheet	1
+highlighted	1
+red		1
+here		1

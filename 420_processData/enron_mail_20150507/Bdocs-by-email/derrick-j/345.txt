@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+enron		1
+please		1
+thank		1
+format		1
+attachment	1
+print		1
+letterhead	1
+small		1

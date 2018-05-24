@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+make		1
+know		1
+um		1
+find		1
+file		1
+isle		1
+search		1
+take		1
+thanks		1
+long		1
+really		1
+look		1
+vb		1
+one		1
+journey		1
+chance		1
+don		1
+mat		1

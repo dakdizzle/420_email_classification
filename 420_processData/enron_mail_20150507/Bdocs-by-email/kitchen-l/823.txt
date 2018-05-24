@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+sorry		2
+chicago		1
+m		1
+missed		1
+probably	1
+late		1
+earlier		1
+comments	1

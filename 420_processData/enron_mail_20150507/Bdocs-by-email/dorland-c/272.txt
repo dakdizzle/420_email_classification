@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+list		1
+distribution	1
+enron		1
+thanxchrischris	1
+please		1
+update		1
+weather		1
+weekend		1
+jose		1
+com		1
+dorland		1
+add		1

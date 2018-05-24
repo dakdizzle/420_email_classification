@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ca		1
+know		1
+questions	1
+attached	1
+draft		1

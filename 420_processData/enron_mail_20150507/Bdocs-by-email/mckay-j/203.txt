@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+up		1
+one		1
+lined		1
+don		1
+worry		1

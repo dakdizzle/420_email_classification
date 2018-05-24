@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+value		1
+fair		1
+goodwill	1

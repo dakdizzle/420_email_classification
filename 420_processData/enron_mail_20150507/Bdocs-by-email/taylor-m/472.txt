@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+korkmas		1
+send		1
+copy		1
+cert		1
+tana		1
+incorp		1
+regulated	1
+doesn		1
+deb		1
+confirm		1

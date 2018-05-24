@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+know		3
+tickets		3
+thanks		2
+possibility	1
+few		1
+quite		1
+season		1
+sending		1
+ask		1
+paid		1
+wanted		1
+getting		1
+each		1
+extras		1
+available	1
+again		1
+additional	1
+ou		1
+year		1
+dg		1
+don		1
+next		1

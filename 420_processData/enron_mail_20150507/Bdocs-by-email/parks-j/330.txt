@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lessons		1
+swim		1
+potential	1
+thursday	1
+know		1
+going		1
+outing		1
+thurs		1

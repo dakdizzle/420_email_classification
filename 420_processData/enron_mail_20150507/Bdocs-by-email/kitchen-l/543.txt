@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+kitchen		2
+louise		2
+cn		2
+chicago		1
+recipients	1
+netco		1
+miller		1
+filename	1
+na		1
+lkitchen	1
+pstok		1
+check		1
+enron		1
+please		1
+want		1
+forward		1
+ou		1
+probably	1
+going		1
+don		1
+san		1
+francisco	1

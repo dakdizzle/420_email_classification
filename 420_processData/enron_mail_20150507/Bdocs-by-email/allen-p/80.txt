@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+isssues		1
+office		1
+jeff		1
+stagecoach	1
+today		1
+phillip		1
+deal		1

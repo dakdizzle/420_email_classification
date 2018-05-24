@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+hear		1
+m		1
+jeff		1
+best		1
+fyi		1
+hap		1
+fine		1
+unless		1
+telling		1

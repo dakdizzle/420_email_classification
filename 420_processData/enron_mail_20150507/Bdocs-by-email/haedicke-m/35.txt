@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+mark		1
+notify		1
+counterparties	1
+sense		1
+makes		1
+trading		1

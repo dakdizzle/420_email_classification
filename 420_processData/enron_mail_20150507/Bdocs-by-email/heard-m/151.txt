@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+eb		1
+easy		1
+marie		1
+one		1
+smith		1
+thanks		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+frisbee		1
+dork		1
+go		1
+ultimate	1
+going		1
+golf		1
+play		1

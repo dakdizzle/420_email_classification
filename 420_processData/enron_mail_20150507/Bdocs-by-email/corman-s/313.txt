@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+corman		1
+shelley		1
+ann		1

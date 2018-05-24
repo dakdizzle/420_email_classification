@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+deal		2
+second		1
+fixed		1
+deand		1
+created		1
+deleted		1
+charges		1
+thanks		1
+valid		1

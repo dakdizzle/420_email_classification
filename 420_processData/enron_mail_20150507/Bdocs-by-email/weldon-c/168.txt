@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+bids		1
+price		1
+gotten		1
+offer		1

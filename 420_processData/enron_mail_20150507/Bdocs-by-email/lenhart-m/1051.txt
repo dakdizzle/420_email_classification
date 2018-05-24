@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+keeps		1
+yours		1
+reply		1
+up		1
+sending		1
+thanksgiving	1
+earlier		1
+appreciate	1
+golf		1
+blowing		1
+really		1
+played		1
+great		1
+cpu		1
+weekend		1
+going		1
+saturday	1
+resume		1

@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+cn		2
+mgrigsb		2
+interview	1
+passed		1
+thank		1
+verify		1
+recipients	1
+phone		1
+asked		1
+filename	1
+na		1
+referring	1
+privileged	1
+out		1
+non		1
+enron		1
+pstokay		1
+ou		1
+mike		1
+folders		1
+grigsby		1
+frank		1

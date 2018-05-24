@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+put		1
+down		1
+pls		1
+bt		1
+anyways		1
+date		1
+better		1

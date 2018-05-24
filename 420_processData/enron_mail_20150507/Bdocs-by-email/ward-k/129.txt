@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+out		1
+send		1
+wheelabrator	1
+know		1
+jay		1
+thanks		1

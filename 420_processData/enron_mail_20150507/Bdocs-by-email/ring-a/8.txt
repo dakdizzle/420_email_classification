@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+fun		1
+hear		1
+free		1
+time		1
+know		1
+wednesday	1
+trying		1
+sorry		1
+delay		1
+seeing		1
+responding	1
+nice		1
+dinner		1
+opened		1
+go		1
+maybe		1
+going		1
+week		1
+lunch		1
+note		1
+think		1
+hi		1
+next		1
+here		1

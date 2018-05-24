@@ -1,0 +1,20 @@
+NumWords	21
+NumTerms	17
+
+meyers		3
+bert		2
+cn		2
+epe		1
+model		1
+find		1
+recipients	1
+albert		1
+filename	1
+na		1
+enclosed	1
+regards		1
+bmeyers		1
+enron		1
+please		1
+pstkathy	1
+ou		1

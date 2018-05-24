@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+transportation	1
+global		1
+banner		1
+bag		1
+name		1
+looks		1
+bbbbb		1
+new		1
+bucket		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+latest		1
+terminated	1
+make		1
+counterparties	1
+files		1
+wanted		1
+sure		1

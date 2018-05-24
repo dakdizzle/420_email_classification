@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+speak		1
+well		1
+hopefully	1
+guys		1
+sorry		1
+th		1
+sounds		1
+jill		1
+m		1
+good		1
+follow		1
+want		1
+night		1
+change		1
+more		1
+chatterton	1
+works		1
+cara		1
+rooms		1
+still		1
+november	1

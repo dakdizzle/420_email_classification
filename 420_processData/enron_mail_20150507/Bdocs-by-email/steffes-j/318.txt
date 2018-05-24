@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+budget		1
+group		1
+meeting		1
+day		1
+time		1
+maybe		1
+thanks		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+content		1
+non		1
+encoding	1
+px		1
+origin		1
+bitx		1
+filename	1
+allen		1
+transfer	1
+pallen		1
+pst		1
+privileged	1

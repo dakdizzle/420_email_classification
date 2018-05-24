@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+jdasovic	2
+cn		2
+jeff		2
+puc		1
+discuss		1
+make		1
+john		1
+portland	1
+friday		1
+sandy		1
+response	1
+recipients	1
+filename	1
+na		1
+dasovich	1
+psthi		1
+call		1
+privileged	1
+non		1
+enron		1
+best		1
+questions	1
+ou		1

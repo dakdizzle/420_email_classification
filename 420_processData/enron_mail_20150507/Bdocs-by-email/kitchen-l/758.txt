@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+cn		2
+meeting		1
+luce		1
+today		1
+recipients	1
+lluce		1
+na		1
+thanks		1
+robert		1
+laura		1
+done		1
+enron		1
+contract	1
+ou		1

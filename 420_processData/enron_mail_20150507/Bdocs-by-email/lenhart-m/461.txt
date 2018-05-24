@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+game		2
+quarter		1
+french		1
+drive		1
+wedding		1
+tim		1
+orleans		1
+watch		1
+watched		1
+blanchard	1
+out		1
+want		1
+woodrows	1
+probably	1
+went		1
+don		1
+saturday	1
+think		1
+new		1

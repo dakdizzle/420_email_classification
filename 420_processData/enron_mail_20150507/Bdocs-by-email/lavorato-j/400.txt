@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+equities	1
+want		1
+seemed		1
+trade		1

@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+privileged	2
+non		2
+scorman		2
+mark		1
+make		1
+up		1
+corman		1
+filename	1
+folder		1
+transfer	1
+factually	1
+content		1
+sent		1
+encoding	1
+psthere		1
+please		1
+origin		1
+itemsx		1
+sx		1
+bitx		1
+correct		1
+sure		1

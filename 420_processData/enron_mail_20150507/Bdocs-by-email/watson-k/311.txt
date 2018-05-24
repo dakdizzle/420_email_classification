@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+letter		2
+sent		2
+email		1
+revised		1
+mis		1
+para		1
+typo		1
+see		1
+typed		1
+thanks		1
+call		1
+kim		1
+please		1
+questions	1
+go		1
+one		1
+use		1
+last		1
+original	1
+address		1
+jorge		1
+dave		1

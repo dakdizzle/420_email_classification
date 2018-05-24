@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+cn		2
+jlavora		2
+pstwe		1
+model		1
+john		1
+recipients	1
+fall		1
+filename	1
+na		1
+privileged	1
+lavorato	1
+wrong		1
+something	1
+contracts	1
+non		1
+enron		1
+var		1
+bought		1
+ou		1
+didn		1

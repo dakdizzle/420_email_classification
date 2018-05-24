@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+cn		2
+brown		1
+enron		1
+yipee		1
+recipients	1
+ou		1
+na		1
+ebrown		1
+elizabeth	1

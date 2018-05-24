@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+others		1
+zaun		1
+yes		1

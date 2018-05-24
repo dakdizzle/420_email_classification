@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+cn		2
+enron		2
+scorman		2
+recipients	1
+corman		1
+separateness	1
+pipelines	1
+filename	1
+na		1
+privileged	1
+points		1
+pstgina		1
+non		1
+talking		1
+ou		1
+set		1
+shelley		1
+prepare		1

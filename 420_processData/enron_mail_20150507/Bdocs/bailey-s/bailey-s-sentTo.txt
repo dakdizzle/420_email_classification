@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+cindy.richardson@enron.com	2
+john.special@newdominion.net	1
+frank.sayre@enron.com	1
+bianca.ornelas@enron.com	1
+lorchard@commrisk.bm	1
+tanya.rohauer@enron.com	1
+beth.apollo@enron.com	1
+john.swafford@enron.com	1
+executive_director@periwinklefoundation.org	1

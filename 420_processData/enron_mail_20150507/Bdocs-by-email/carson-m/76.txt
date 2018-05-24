@@ -1,0 +1,19 @@
+NumWords	21
+NumTerms	16
+
+com		6
+aol		1
+chjohnson	1
+suson		1
+yahoo		1
+ibm		1
+fan		1
+recieved	1
+ou		1
+metronet	1
+kencars		1
+vailresorts	1
+cdownard	1
+hotmail		1
+carson		1
+besch		1

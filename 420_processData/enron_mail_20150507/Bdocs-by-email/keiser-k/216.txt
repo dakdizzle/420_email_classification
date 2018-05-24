@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+highly		1
+mark		1
+risk		1
+looking		1
+know		1
+friend		1
+desk		1
+someone		1
+east		1
+people		1
+used		1
+recommend	1
+work		1
+still		1
+don		1
+kk		1
+resume		1
+here		1

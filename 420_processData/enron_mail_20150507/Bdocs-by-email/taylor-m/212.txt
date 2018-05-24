@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+case		1
+already		1
+probably	1

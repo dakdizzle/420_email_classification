@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+group		1
+coming		1
+expansions	1
+paul		1
+up		1
+know		1
+bidweek		1
+future		1
+houston		1
+presentation	1
+room		1
+please		1
+rockies		1
+conference	1
+set		1
+quick		1
+give		1
+thankshunter	1

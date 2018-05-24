@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+nobody		1
+important	1

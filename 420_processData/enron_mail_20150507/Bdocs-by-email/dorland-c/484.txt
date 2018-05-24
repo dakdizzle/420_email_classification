@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+ca		1
+done		1
+rlaird		1
+enron		1
+laird		1
+hour		1
+thanx		1
+rob		1
+trade		1
+haven		1
+over		1
+natsource	1

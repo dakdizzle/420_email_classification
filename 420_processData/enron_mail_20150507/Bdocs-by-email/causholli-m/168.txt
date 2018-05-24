@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+register	1
+causholli	1
+want		1
+monika		1
+thanks		1

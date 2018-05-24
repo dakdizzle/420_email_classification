@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+day		1
+fri		1
+thur		1
+nd		1
+st		1
+took		1

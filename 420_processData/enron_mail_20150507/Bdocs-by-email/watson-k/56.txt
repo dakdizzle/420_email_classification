@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+kim		1
+room		1
+people		1
+please		1
+wednesday	1
+book		1
+conference	1
+audrey		1
+aug		1
+thanks		1

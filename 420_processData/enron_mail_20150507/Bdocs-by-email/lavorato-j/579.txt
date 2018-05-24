@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+taking		1
+yells		1
+much		1
+many		1
+time		1
+squid		1
+everyone	1
+participate	1
+times		1
+bet		1

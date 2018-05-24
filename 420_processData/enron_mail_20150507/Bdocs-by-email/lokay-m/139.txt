@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+ebayisapi	1
+ws		1
+bid		1
+up		1
+ebay		1
+http		1
+viewitem	1
+want		1
+dll		1
+cgi		1
+item		1
+think		1
+com		1

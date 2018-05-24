@@ -1,0 +1,26 @@
+NumWords	31
+NumTerms	23
+
+lenhart		5
+matthew		4
+com		2
+uswest		1
+courtney	1
+net		1
+share		1
+memories	1
+filename	1
+folder		1
+special		1
+merlinm		1
+sent		1
+walker		1
+girl		1
+psti		1
+mx		1
+enron		1
+pederleifkjeseth	1
+origin		1
+itemsx		1
+sure		1
+hotmail		1

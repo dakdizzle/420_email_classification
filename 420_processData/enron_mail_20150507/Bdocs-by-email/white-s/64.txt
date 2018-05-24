@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+terminated	1
+updated		1
+physical	1
+power		1
+stacey		1
+update		1
+spreadsheet	1
+fyi		1
+following	1
+nstar		1

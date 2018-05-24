@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+terminate	2
+agreement	2
+kissinger	1
+mclarty		1
+terminating	1
+today		1
+need		1
+sue		1
+walden		1
+think		1

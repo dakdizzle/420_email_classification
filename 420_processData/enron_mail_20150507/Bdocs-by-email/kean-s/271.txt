@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+story		2
+prudence	1
+fax		1
+see		1
+such		1
+content		1
+maureen		1
+concerns	1
+night		1
+wrote		1
+last		1
+comments	1
+doing		1
+deep		1

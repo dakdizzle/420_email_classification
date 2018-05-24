@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+village		1
+place		1
+thursday	1
+sushi		1
+new		1

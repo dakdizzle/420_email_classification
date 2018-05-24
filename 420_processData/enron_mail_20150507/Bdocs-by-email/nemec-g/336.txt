@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+gerald		2
+per		1
+non		1
+discussion	1
+pstshonnie	1
+nemec		1
+attached	1
+comments	1
+filename	1
+nemecx		1
+privileged	1

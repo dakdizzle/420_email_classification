@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+much		1
+please		1
+know		1
+trouble		1
+white		1

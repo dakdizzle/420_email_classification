@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+uderstand	1
+keg		1
+advicement	1
+under		1
+tap		1
+take		1

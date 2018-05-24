@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+thomas		1
+replace		1
+dpr		1
+kam		1
+use		1
+currently	1
+file		1
+new		1
+thanks		1

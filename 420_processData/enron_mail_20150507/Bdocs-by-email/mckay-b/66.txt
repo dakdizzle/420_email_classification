@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+congrats	1
+good		1
+mom		1
+deer		1
+talked		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+m		1
+needle		1
+free		1
+refuse		1

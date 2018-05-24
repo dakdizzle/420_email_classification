@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+way		1
+few		1
+ya		1
+harry		1
+see		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+bullets		1
+kim		1
+lorraine	1
+tomorrow	1
+audrey		1
+coordinating	1
+thanks		1

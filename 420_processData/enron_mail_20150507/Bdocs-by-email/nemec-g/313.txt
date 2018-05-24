@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+disclaimer	1
+language	1
+barry		1
+added		1
+th		1

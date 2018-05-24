@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+dquigle		2
+privileged	2
+non		2
+quigley		2
+board		1
+dx		1
+filename	1
+folder		1
+dutch		1
+sent		1
+version		1
+pstnow		1
+lets		1
+jeff		1
+origin		1
+itemsx		1
+mime		1
+rest		1
+here		1

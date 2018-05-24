@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+listen		1
+down		1
+day		1
+good		1
+check		1
+end		1
+vacation	1
+range		1
+dailies		1
+traded		1
+need		1
+bucks		1

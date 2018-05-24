@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+monday		1
+clock		1
+suggest		1
+agree		1
+conf		1
+friday		1
+file		1
+call		1
+reschedule	1

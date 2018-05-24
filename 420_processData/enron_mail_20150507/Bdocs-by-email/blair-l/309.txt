@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+blackberry	2
+cn		2
+net		1
+wireless	1
+handheld	1
+www		1
+recipients	1
+january		1
+steven		1
+na		1
+sjanuary	1
+sent		1
+enron		1
+ou		1

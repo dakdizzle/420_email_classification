@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+look		1
+ideas		1
+willing		1
+d		1
+yea		1
+take		1

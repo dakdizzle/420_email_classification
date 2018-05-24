@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+gov		1
+usclimate	1
+html		1
+http		1
+www		1
+cdc		1
+usclimdivs	1
+noaa		1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+key		1
+directly	1
+under		1
+customers	1
+wanted		1
+marketing	1
+talked		1
+transition	1
+put		1
+people		1
+interact	1
+clear		1
+contract	1
+latitude	1
+role		1
+very		1
+edith		1

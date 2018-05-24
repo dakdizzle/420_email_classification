@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+gaskill		1
+gas		1
+understand	1
+natural		1
+chris		1
+basics		1
+audience	1

@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+approved	2
+request		2
+status		1
+pl		1
+try		1
+logging		1
+final		1
+trying		1
+see		1
+thanks		1
+look		1
+again		1
+log		1
+think		1

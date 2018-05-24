@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+party		1
+risk		1
+netting		1
+confirming	1
+head		1
+sarai		1
+good		1
+agree		1
+language	1
+go		1
+pending		1
+debra		1
+seller		1

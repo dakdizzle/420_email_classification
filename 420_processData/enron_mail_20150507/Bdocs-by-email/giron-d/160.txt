@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+full		1
+partial		1
+five		1
+corresponds	1
+fri		1
+terminations	1
+payment		1
+twister		1
+thurs		1
+out		1
+two		1
+three		1
+office		1
+made		1
+dg		1

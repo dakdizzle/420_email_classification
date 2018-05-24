@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+enough		1
+harsh		1
+fine		1

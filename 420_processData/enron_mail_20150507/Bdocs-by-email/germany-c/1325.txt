@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+changed		1
+aca		1
+demand		1
+per		1
+transport	1
+end		1
+contract	1
+month		1
+charge		1
+cglf		1
+date		1

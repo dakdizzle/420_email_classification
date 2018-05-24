@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+jodi		1
+friday		1
+know		1
+draft		1
+review		1
+routing		1
+thanks		1
+afternoon	1
+oba		1
+kim		1
+way		1
+please		1
+agreements	1
+signed		1
+changes		1
+another		1
+made		1
+signature	1
+gaylen		1
+internally	1
+c		1
+receive		1
+thoughts	1
+here		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+little		1
+db		1
+friday		1
+go		1
+em		1
+line		1
+work		1
+yes		1
+lunch		1
+bout		1
+drop		1
+ll		1
+here		1

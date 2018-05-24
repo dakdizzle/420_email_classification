@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+map		1
+exactly		1
+project		1
+show		1
+ameren		1
+transmission	1

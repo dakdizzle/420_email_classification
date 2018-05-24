@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+points		1
+meeting		1
+exclamation	1
+excited		1
+bjorn		1
+deal		1

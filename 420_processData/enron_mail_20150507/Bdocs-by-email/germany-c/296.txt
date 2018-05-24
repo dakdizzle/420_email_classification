@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+time		2
+invite		1
+days		1
+spend		1
+hour		1
+life		1
+being		1
+happy		1
+more		1
+thx		1
+regret		1
+think		1
+over		1

@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+tickets		2
+email		1
+items		1
+send		1
+enter		1
+know		1
+missing		1
+thankslet	1
+once		1
+system		1
+see		1
+requested	1
+ve		1
+look		1
+entered		1
+change		1
+access		1
+deal		1
+new		1
+ll		1
+doesn		1

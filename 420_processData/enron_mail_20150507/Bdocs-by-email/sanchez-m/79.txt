@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ve		1
+smile		1
+seen		1
+one		1
+today		1
+far		1
+determined	1
+times		1
+think		1

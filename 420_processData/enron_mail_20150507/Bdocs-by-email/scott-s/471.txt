@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+hurt		1
+m		1
+sscott		1
+deleted		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+jim		2
+monday		1
+meeting		1
+mentioned	1
+office		1
+sally		1
+draft		1
+process		1
+elizabeth	1

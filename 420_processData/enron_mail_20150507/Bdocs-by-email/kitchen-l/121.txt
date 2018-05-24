@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+pm		1
+cell		1
+ok		1
+flying		1
+see		1
+tonight		1
+ll		1

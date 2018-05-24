@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+contracts	2
+going		2
+day		1
+takes		1
+leaving		1
+up		1
+time		1
+leave		1
+slow		1
+pop		1
+remember	1
+long		1
+m		1
+office		1
+screen		1
+one		1
+shemin		1
+drop		1

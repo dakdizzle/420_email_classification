@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+monday		1
+dwr		1
+whether		1
+tuesday		1
+secretary	1
+morning		1
+regarding	1
+baldwin		1
+check		1
+jeff		1
+best		1
+back		1
+tomorrow	1
+work		1
+going		1
+called		1

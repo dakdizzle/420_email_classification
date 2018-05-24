@@ -1,0 +1,26 @@
+NumWords	32
+NumTerms	23
+
+mail		4
+com		4
+fenner		2
+chet		2
+knipe		2
+coming		1
+family		1
+brian		1
+wollam		1
+bmc		1
+anyone		1
+alone		1
+sunday		1
+brianc		1
+erwollam	1
+eating		1
+msn		1
+constantine	1
+chad		1
+hotmail		1
+saltgrass	1
+over		1
+erik		1

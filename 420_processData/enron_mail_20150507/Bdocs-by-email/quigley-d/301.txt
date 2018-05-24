@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+issettle	1
+ok		1
+offer		1
+here		1

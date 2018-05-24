@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+bhagwati	1
+bruce		1
+team		1
+justice		1
+supportive	1
+engaging	1

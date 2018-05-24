@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+base		1
+yeah		1
+touch		1
+going		1
+later		1

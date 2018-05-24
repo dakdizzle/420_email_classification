@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+paul		1
+up		1
+ben		1
+playing		1
+week		1
+spuash		1

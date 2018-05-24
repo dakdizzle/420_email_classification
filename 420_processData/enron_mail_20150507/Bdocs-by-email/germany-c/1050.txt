@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+beer		1
+embedded	1
+owe		1
+ect		1
+hour		1
+chris		1
+getting		1
+decided		1
+dan		1
+hou		1
+come		1
+stdolelink	1
+ectcc		1
+tomorrow	1
+germany		1
+happy		1
+cigars		1
+subject		1
+having		1

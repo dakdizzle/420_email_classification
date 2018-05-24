@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+day		1
+daughter	1
+time		1
+well		1
+see		1
+stay		1
+march		1
+two		1
+good		1
+prompted	1
+rick		1
+come		1
+needed		1
+going		1
+week		1
+london		1
+thoughts	1
+over		1

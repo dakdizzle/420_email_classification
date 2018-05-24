@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+option		1
+life		1
+keeps		1
+up		1
+david		1
+sending		1
+trader		1
+manu		1
+threatening	1
+janet		1
+don		1
+mails		1

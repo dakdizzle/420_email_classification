@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+group		1
+meeting		1
+talk		1
+wednesday	1
+know		1
+steve		1
+kb		1
+trying		1
+stage		1
+gray		1
+transportation	1
+ve		1
+kim		1
+regarding	1
+tomorrow	1
+nng		1
+line		1
+jo		1
+mike		1
+tw		1

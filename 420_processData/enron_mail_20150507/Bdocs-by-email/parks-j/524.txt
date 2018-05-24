@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+finance		1
+sweet		1
+lt		1
+truck		1
+new		1

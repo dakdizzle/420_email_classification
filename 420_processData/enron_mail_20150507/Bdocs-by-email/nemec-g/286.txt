@@ -1,0 +1,26 @@
+NumWords	30
+NumTerms	23
+
+power		3
+engineers	3
+attached	2
+review		2
+agreement	2
+case		1
+entity		1
+ok		1
+exhibit		1
+sheet		1
+ask		1
+assuming	1
+rate		1
+form		1
+chris		1
+existing	1
+professional	1
+enron		1
+used		1
+services	1
+please		1
+provided	1
+forward		1

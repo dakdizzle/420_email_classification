@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+dont		1
+job		1
+up		1
+know		1
+legit		1
+calling		1
+looked		1

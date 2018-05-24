@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+people		1
+industry	1
+mike		1
+see		1

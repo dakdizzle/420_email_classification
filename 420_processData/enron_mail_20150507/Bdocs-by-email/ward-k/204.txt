@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+talk		2
+ann		2
+bike		1
+annuity		1
+know		1
+go		1
+guess		1
+maybe		1
+don		1

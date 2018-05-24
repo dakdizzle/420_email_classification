@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+really		1
+thanxchris	1
+look		1
+progress	1
+weather		1
+ect		1
+chrisany	1
+access		1
+site		1
+fundy		1
+getting		1

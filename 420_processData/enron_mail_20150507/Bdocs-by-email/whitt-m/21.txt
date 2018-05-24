@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+good		1
+anymore		1
+activate	1
+thought		1
+away		1
+threw		1
+wasn		1
+didn		1

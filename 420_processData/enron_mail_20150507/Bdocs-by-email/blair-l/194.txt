@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+want		2
+lynn		1
+kathy		1
+send		1
+hospital	1
+until		1
+sending		1
+assuming	1
+see		1
+thanks		1
+home		1
+sherry		1
+gets		1
+ava		1
+check		1
+wait		1
+flowers		1

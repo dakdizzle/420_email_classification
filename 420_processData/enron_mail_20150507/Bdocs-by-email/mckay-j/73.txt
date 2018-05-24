@@ -1,0 +1,6 @@
+NumWords	7
+NumTerms	3
+
+year		4
+go		2
+flames		1

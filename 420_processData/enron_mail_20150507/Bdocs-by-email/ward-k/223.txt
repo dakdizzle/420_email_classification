@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+need		3
+remove		1
+thinking	1
+socal		1
+talk		1
+guys		1
+pool		1
+roll		1
+guess		1
+tuesday		1
+september	1
+deal		1

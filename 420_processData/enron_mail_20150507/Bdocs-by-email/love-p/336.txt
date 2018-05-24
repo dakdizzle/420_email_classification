@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+pl		1
+wednesday	1
+sound		1
+next		1

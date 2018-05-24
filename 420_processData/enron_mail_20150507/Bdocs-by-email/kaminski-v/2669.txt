@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+stay		1
+vince		1
+touch		1
+go		1
+shawn		1
+sorry		1
+see		1

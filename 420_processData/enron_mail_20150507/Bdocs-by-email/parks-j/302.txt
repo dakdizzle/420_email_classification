@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+morris		1
+inventory	1
+storage		1
+tax		1
+know		1
+liabilities	1
+federal		1
+sell		1
+joe		1
+thanks		1

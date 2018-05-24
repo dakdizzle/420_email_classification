@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+personalize	1
+wall		1
+coloured	1
+paint		1
+neat		1
+maybe		1
+looks		1
+needs		1

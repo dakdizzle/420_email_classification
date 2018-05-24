@@ -1,0 +1,21 @@
+NumWords	37
+NumTerms	18
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+swalto		1
+ok		1
+paul		1
+nicolay		1
+steve		1
+pkaufma		1
+christi		1
+kaufman		1
+walton		1
+cnicola		1
+snovose		1
+novosel		1
+sarah		1

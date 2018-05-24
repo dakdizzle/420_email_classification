@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+chris		2
+cn		2
+germany		2
+unpathed	1
+know		1
+cgerman		1
+deals		1
+recipients	1
+filename	1
+na		1
+kevin		1
+someday		1
+enron		1
+guy		1
+suspected	1
+ou		1
+going		1
+boss		1
+pstlet		1
+over		1

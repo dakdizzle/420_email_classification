@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+vince		2
+johnsonduane	1
+john		1
+term		1
+aplease		1
+paper		1
+filename	1
+hingoranigrant	1
+vkamins		1
+confirm		1
+yoshiurograde	1
+stonepalo	1
+mauerishad	1
+ganguzzaneeraj	1
+another		1
+kaminskix	1
+van		1
+pstpam		1
+pateleric	1

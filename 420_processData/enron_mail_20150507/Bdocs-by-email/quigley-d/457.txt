@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+try		2
+log		2
+info		1
+bid		1
+ok		1
+wherei		1
+pasting		1
+cutting		1
+password	1
+button		1
+dodutch		1
+login		1
+type		1
+start		1
+go		1
+need		1
+week		1
+over		1

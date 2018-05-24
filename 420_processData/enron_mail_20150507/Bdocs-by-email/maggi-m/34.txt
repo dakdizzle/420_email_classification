@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lets		1
+go		1
+another		1
+buy		1
+pick		1

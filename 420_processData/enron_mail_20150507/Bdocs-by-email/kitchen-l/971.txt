@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+pictures	2
+another		2
+customer	1
+email		1
+beaver		1
+gentleman	1
+place		1
+hello		1
+looking		1
+thankslouise	1
+disappeared	1
+creek		1
+sales		1
+show		1
+work		1
+set		1
+website		1
+againthere	1
+here		1

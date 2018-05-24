@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+floor		1
+up		1
+know		1
+busy		1
+keep		1
+conexant	1
+getting		1
+posted		1
+kim		1
+onto		1
+check		1
+moved		1
+want		1
+set		1
+new		1

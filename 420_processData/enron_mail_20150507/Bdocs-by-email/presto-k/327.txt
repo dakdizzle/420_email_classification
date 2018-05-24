@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+great		1
+follow		1
+relationship	1
+up		1
+ask		1
+forney		1
+vendor		1
+yes		1
+probably	1
+esca		1
+doug		1

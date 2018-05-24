@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+monday		1
+kim		1
+enron		1
+rmason		1
+recipients	1
+ou		1
+na		1
+mason		1
+thanks		1
+robert		1

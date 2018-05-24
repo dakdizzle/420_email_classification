@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+fink		1
+vince		1
+decline		1
+invitation	1
+prior		1
+due		1
+sorry		1
+mr		1
+commitments	1
+kaminski	1

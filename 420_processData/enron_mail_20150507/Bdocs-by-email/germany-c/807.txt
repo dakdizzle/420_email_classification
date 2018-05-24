@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+terminated	1
+wade		1
+know		1
+gas		1
+cgas		1
+price		1
+getting		1
+something	1
+matter		1
+contracts	1
+appalachian	1
+tedious		1
+want		1
+work		1
+probably	1
+suppliers	1
+still		1
+think		1
+doesn		1

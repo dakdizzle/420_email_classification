@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+vote		2
+jim		1
+nancy		1
+recommendation	1
+yes		1
+thanks		1

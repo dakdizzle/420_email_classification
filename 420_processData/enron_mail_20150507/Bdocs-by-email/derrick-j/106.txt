@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+scotty		1
+many		1
+best		1
+thanks		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+ok		1
+up		1
+time		1
+try		1
+friday		1
+signs		1
+opinion		1
+enough		1
+cant		1
+come		1
+best		1
+pitching	1
+night		1
+ad		1
+saturday	1
+opposed		1
+think		1
+over		1

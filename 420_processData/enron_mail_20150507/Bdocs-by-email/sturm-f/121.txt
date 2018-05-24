@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+put		1
+please		1
+tj		1
+fletch		1
+thanks		1
+calendar	1

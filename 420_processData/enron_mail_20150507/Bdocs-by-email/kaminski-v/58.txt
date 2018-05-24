@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+vince		1
+letter		1
+shalesh		1
+shirley		1

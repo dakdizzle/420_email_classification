@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+gd		3
+instead		1
+used		1
+shpch		1
+hpl		1
+need		1
+waha		1
+gdp		1
+curves		1
+still		1
+kk		1

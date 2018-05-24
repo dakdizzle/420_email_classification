@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+aig		1
+forwarded	1
+vince		1
+patrick		1
+thank		1
+friend		1
+resume		1

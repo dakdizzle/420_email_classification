@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+mark		1
+different	1
+looking		1
+now		1
+hires		1
+pursue		1
+bt		1
+see		1
+external	1
+lot		1
+suggest		1
+right		1
+staff		1
+groups		1
+work		1
+going		1
+business	1
+internal	1

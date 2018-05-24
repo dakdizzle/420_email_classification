@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+tushar		1
+paul		1
+list		1
+distribution	1
+clips		1
+news		1

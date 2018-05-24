@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+group		2
+know		2
+gas		2
+west		2
+tour		2
+make		1
+ina		1
+arrangements	1
+tues		1
+orig		1
+nov		1
+names		1
+bt		1
+planning	1
+thanks		1
+put		1
+please		1
+mike		1
+need		1
+calender	1
+booked		1
+trading		1

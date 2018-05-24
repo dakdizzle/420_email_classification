@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+plove		1
+taking		1
+email		1
+pl		1
+things		1
+now		1
+today		1
+houston		1
+comhow		1
+home		1
+put		1
+good		1
+hope		1
+ubs		1
+going		1
+access		1
+away		1
+sure		1
+server		1
+rr		1
+through		1

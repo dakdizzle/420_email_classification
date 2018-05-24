@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+hayes		2
+vs		1
+roger		1
+fyi		1
+slip		1
+looks		1
+julie		1
+robert		1
+finger		1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+meeting		2
+weekly		1
+good		1
+finished	1
+control		1
+friday		1
+start		1
+gas		1
+earlier		1
+sounds		1
+tw		1

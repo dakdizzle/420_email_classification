@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+day		1
+morbid		1
+trying		1
+turkey		1
+r		1
+optomistic	1
+call		1
+o		1
+soon		1
+m		1
+good		1
+sara		1
+tell		1
+remain		1
+monty		1
+going		1
+pretty		1
+carson		1
+big		1
+here		1

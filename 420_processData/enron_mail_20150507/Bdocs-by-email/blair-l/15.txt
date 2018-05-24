@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+out		2
+lynn		1
+until		1
+john		1
+wednesday	1
+thanks		1
+second		1
+sent		1
+list		1
+office		1
+go		1
+ahead		1
+session		1
+topics		1
+pass		1
+break		1
+thought		1
+caught		1

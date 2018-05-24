@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+kitchen		2
+louise		2
+people		2
+cn		2
+difference	1
+find		1
+recipients	1
+filename	1
+na		1
+red		1
+lkitchen	1
+pstif		1
+amy		1
+right		1
+enron		1
+please		1
+hr		1
+ou		1
+cut		1

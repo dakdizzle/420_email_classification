@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lifetime	1
+mean		1
+need		1
+learned		1
+excuse		1
+kindergarten	1
+rest		1
+skills		1

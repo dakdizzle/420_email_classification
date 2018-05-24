@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+years		1
+contracts	1
+bid		1
+over		1

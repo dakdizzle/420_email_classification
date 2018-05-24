@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+redline		2
+gerald		2
+email		1
+word		1
+write		1
+filename	1
+nemecx		1
+correctly	1
+privileged	1
+via		1
+kim		1
+pstrae		1
+non		1
+ward		1
+please		1
+nemec		1
+ms		1
+forward		1
+against		1
+original	1
+compare		1

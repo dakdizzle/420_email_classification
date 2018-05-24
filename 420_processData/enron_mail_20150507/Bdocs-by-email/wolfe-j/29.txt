@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+vote		2
+jason		1
+th		1
+filename	1
+transfer	1
+wolfe		1
+privileged	1
+jx		1
+content		1
+psti		1
+non		1
+encoding	1
+jwolfe		1
+origin		1
+bitx		1
+wait		1

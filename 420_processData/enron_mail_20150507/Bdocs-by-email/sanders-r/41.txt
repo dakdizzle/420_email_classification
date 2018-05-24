@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+sanders		2
+cn		2
+richard		2
+talk		1
+recipients	1
+filename	1
+na		1
+reschedule	1
+privileged	1
+rsander		1
+non		1
+enron		1
+ou		1
+pstlets		1

@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+cn		2
+lcampbe		2
+care		1
+respond		1
+larry		1
+know		1
+recipients	1
+pstcharlie	1
+filename	1
+na		1
+take		1
+privileged	1
+campbell	1
+non		1
+enron		1
+please		1
+ou		1
+thoughts	1

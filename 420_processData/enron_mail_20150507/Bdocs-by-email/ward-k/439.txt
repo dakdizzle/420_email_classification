@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+kim		1
+send		1
+kelli		1
+worksheet	1
+ncpa		1
+thanks		1

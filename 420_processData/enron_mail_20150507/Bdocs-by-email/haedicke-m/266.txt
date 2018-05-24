@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+haedicke	1
+mark		1
+breakage	1
+come		1
+fee		1
+cap		1

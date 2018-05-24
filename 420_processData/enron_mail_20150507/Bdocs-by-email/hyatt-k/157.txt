@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+per		1
+check		1
+pressure	1
+guys		1
+last		1
+field		1
+week		1
+mcf		1

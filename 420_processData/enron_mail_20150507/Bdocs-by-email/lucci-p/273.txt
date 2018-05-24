@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+plan		1
+studlet		1

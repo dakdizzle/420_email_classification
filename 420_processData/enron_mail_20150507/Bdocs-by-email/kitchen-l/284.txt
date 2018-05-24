@@ -1,0 +1,18 @@
+NumWords	19
+NumTerms	15
+
+kitchen		2
+louise		2
+netco		2
+cn		2
+pstorg		1
+recipients	1
+light		1
+filename	1
+na		1
+decided		1
+lkitchen	1
+enron		1
+ou		1
+charts		1
+haven		1

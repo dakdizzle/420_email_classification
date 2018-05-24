@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+number		2
+holden		1
+fax		1
+try		1
+thank		1
+know		1
+contact		1
+one		1
+work		1
+phone		1

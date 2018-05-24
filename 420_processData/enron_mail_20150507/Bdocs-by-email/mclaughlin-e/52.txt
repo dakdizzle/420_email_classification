@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+ran		1
+floor		1
+gas		1
+wasn		1
+head		1
+ve		1
+done		1
+hope		1
+book		1
+errol		1
+yes		1
+bad		1
+mail		1
+projects	1

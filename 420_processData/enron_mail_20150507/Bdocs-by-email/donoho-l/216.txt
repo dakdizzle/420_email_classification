@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+refer		2
+paragraph	2
+customers	1
+terry		1
+preceding	1
+following	1
+filename	1
+transfer	1
+privileged	1
+content		1
+instead		1
+psti		1
+non		1
+lx		1
+encoding	1
+ldonoho		1
+shippers	1
+suggestion	1
+donoho		1
+origin		1
+bitx		1
+fact		1

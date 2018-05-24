@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+building	1
+rick		1
+now		1
+heat		1
+lot		1

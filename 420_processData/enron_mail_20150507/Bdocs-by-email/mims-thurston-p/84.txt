@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+fun		1
+much		1
+cheap		1
+know		1
+contribute	1
+kinda		1
+more		1
+need		1
+fine		1
+think		1

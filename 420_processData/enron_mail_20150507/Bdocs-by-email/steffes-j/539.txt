@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+customer	1
+esps		1
+da		1
+ensuring	1
+place		1
+timely		1
+cpuc		1
+file		1
+help		1
+vinio		1
+jim		1
+meters		1
+put		1
+something	1
+docket		1
+basis		1
+serve		1
+maybe		1
+probably	1
+data		1
+access		1
+sue		1
+think		1

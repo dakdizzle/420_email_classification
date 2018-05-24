@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+bdugan		1
+ubspw		1
+com		1

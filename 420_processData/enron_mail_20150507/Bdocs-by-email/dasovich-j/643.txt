@@ -1,0 +1,20 @@
+NumWords	45
+NumTerms	17
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+shapiro		2
+rshapiro	2
+richard		2
+paul		1
+pkaufma		1
+susan		1
+kaufman		1
+smara		1
+mara		1
+steffes		1
+jsteffe		1
+james		1

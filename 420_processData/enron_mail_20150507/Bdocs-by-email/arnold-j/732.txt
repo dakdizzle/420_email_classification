@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+done		1
+immediately	1
+money		1
+wire		1

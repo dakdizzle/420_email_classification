@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+zisman		1
+stuart		1
+contact		1

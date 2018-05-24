@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hand		1
+thing		1
+good		1
+hehehehe	1
+shake		1

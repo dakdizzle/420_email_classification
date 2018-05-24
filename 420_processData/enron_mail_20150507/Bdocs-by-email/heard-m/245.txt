@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+resolutions	2
+signature	2
+send		1
+marie		1
+today		1
+corporate	1
+form		1
+tom		1
+routing		1
+sent		1
+circulated	1
+keneally	1
+kelly		1
+completed	1
+being		1
+received	1
+back		1
+certifying	1
+certificate	1
+documentation	1
+directors	1
+told		1
+process		1

@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+heard		2
+hammond		1
+m		1
+trimble		1
+up		1
+jeff		1
+name		1
+johnny		1
+work		1
+curious		1

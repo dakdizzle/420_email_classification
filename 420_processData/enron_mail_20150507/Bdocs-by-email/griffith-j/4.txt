@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+access		2
+rangelbecky	1
+write		1
+john		1
+youngkimberly	1
+olneyina	1
+help		1
+vargaskori	1
+directory	1
+people		1
+loiblmatt	1
+mclaughlinjoey	1
+additional	1
+errol		1
+financial	1
+taylorlaura	1
+read		1
+give		1
+hillisthanks	1
+trading		1

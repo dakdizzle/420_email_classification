@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+sent		1
+copy		1
+rick		1
+well		1
+fyi		1

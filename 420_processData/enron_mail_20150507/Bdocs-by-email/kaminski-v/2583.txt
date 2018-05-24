@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+day		1
+finish		1
+days		1
+few		1
+quite		1
+paolo		1
+busy		1
+review		1
+vince		1
+two		1
+enron		1
+last		1
+here		1

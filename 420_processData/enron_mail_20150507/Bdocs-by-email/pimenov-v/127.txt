@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+segodnia	1
+nu		1
+ti		1
+pridesh		1
+len		1
+che		1

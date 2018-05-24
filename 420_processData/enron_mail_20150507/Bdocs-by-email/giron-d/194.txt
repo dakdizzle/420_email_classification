@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+stock		1
+enron		1
+please		1
+pay		1
+options		1
+aim		1
+dg		1
+ll		1

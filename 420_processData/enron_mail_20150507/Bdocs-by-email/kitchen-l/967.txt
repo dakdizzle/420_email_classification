@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lawn		1
+toadstools	1
+need		1
+turf		1
+holwa		1
+still		1
+new		1
+news		1
+mushrooms	1

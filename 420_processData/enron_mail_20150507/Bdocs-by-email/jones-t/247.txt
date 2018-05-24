@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+really		1
+taria		1
+appreciate	1
+help		1
+thanks		1

@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+room		2
+open		1
+pm		1
+position	1
+speak		1
+know		1
+desk		1
+find		1
+tj		1
+fletch		1
+thanks		1
+bridges		1
+hr		1
+tomorrow	1
+mike		1
+tue		1
+d		1

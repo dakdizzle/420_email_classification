@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+charlie		1
+go		1
+goes		1

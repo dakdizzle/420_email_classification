@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+natty		2
+party		1
+coming		1
+close		1
+god		1
+make		1
+time		1
+vacation	1
+neighbors	1
+th		1
+fw		1
+harvested	1
+boy		1
+hope		1
+enemy		1
+town		1
+oct		1
+big		1

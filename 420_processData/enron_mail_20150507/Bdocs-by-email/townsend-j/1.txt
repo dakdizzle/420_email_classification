@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+under		1
+find		1
+application	1
+business	1
+judy		1

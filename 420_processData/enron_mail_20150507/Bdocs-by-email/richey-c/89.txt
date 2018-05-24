@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+realize		1
+demonizing	1
+make		1
+everything	1
+rep		1
+blame		1
+stop		1
+intact		1
+out		1
+point		1
+bullshit	1
+assed		1
+clean		1
+emily		1
+none		1
+cool		1
+though		1
+bitch		1
+half		1
+chance		1
+complexity	1
+here		1

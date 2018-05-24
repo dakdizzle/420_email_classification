@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+copy		1
+hard		1
+letter		1
+isda		1
+sager		1
+comeelizabeth	1

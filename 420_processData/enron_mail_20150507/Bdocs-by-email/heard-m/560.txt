@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+picture		1
+first		1
+down		1
+scroll		1
+sound		1
+laden		1
+one		1
+bin		1
+song		1

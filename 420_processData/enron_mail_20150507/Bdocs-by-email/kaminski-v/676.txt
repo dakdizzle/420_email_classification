@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+vince		3
+frank		2
+meeting		1
+make		1
+power		1
+ect		1
+pstfrank	1
+filename	1
+vkamins		1
+hou		1
+enron		1
+amto		1
+hayden		1
+thursday	1
+ectcc		1
+kaminskix	1
+var		1
+subject		1
+yes		1
+going		1
+vincefrom	1
+kaminski	1
+enronxgate	1

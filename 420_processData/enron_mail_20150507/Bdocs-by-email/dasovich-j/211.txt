@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+taking		1
+jeffps		1
+hey		1
+time		1
+talk		1
+today		1
+humor		1
+thanks		1
+without		1
+great		1
+wright		1
+agree		1
+best		1
+again		1
+weekend		1
+kid		1
+rod		1
+package		1
+give		1

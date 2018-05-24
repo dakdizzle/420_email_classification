@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+desk		2
+janie		2
+soon		1
+possible	1
+box		1
+please		1
+approval	1
+mike		1
+need		1
+move		1
+thanks		1
+randy		1

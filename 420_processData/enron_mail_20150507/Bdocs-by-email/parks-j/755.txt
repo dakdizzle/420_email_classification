@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+think		2
+beer		1
+much		1
+dont		1
+hey		1
+brian		1
+exspecially	1
+worth		1
+drink		1
+opening		1
+keg		1
+weekend		1
+chad		1
+idea		1
+bad		1

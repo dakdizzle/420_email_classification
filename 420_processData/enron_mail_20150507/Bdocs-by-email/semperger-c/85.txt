@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+fax		1
+until		1
+portland	1
+leave		1
+out		1
+america		1
+freeland	1
+salmon		1
+wtc		1
+north		1
+sempergerenron	1
+sw		1
+cara		1
+medical		1

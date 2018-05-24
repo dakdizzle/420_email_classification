@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+stuff		1
+send		1
+rank		1
+tomorrow	1
+need		1
+year		1
+performance	1
+wolfe		1

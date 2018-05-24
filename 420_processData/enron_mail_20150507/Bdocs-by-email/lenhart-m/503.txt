@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+sat		2
+out		1
+make		1
+passed		1
+sorry		1
+over		1
+didn		1

@@ -1,0 +1,25 @@
+NumWords	33
+NumTerms	22
+
+cn		5
+joseph		2
+recipients	2
+na		2
+alamo		2
+enron		2
+ou		2
+sharon		2
+asst		1
+fa		1
+arrange		1
+help		1
+thanks		1
+call		1
+both		1
+jeff		1
+best		1
+notesaddr	1
+work		1
+jalamo		1
+dick		1
+hi		1

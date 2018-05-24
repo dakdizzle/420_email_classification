@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+access		2
+directory	1
+denied		1
+tried		1

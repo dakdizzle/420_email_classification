@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+stacey		2
+white		2
+cn		2
+pstone		1
+stacy		1
+recipients	1
+filename	1
+na		1
+look		1
+swhite		1
+enron		1
+more		1
+ou		1

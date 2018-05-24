@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+carson		2
+dinner		1
+hat		1
+mc		1
+mike		1
+attire		1
+rehearsal	1
+mikew		1

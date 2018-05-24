@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+group		1
+kim		1
+lindy		1
+attend		1
+thanks		1

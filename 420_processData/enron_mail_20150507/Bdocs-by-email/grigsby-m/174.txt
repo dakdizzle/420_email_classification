@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+each		1
+guys		1
+minutes		1
+phillip		1
+hour		1
+schedule	1
+thanks		1

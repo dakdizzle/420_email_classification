@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+info		1
+sending		1
+update		1
+keep		1
+pls		1
+thanks		1

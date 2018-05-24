@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+full		1
+case		1
+party		1
+credit		1
+copy		1
+up		1
+heads		1
+john		1
+name		1
+review		1
+leave		1
+isda		1
+calls		1
+someone		1
+tthanks		1
+thanks		1
+exactly		1
+please		1
+sara		1
+e		1
+agreement	1
+customized	1

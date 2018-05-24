@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+trading		2
+fastow		1
+situation	1
+bolted		1
+thing		1
+floor		1
+place		1
+company		1
+talk		1
+fire		1
+golden		1
+taken		1
+hung		1
+guess		1
+yesterday	1
+respect		1
+down		1
+around		1
+stood		1
+parachutte	1
+everyone	1
+skilling	1
+upset		1
+over		1

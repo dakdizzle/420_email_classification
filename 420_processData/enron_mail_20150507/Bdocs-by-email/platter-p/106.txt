@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+attitude	1
+hou		1
+forwarded	1
+years		1
+pm		1
+attached	1
+ect		1
+phillip		1
+see		1
+jpg		1
+platter		1

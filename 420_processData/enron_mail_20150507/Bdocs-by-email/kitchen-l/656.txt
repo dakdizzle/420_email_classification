@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+need		2
+centers		1
+covered		1
+excluding	1
+referring	1
+texas		1
+youdirectormanagerassociateanalystasisstant	1
+regulatory	1
+more		1
+hpl		1
+cut		1
+cost		1
+here		1

@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+much		1
+make		1
+wrapped		1
+up		1
+try		1
+ilydq		1
+trying		1
+workon		1
+angst		1
+better		1
+life		1
+way		1
+express		1
+feel		1
+understand	1
+myself		1
+need		1
+partnership	1
+sometime	1
+very		1
+love		1

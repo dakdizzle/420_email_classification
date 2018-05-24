@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+language	1
+agreements	1
+future		1
+added		1
+prefer		1
+take		1

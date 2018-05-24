@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+ok		2
+letter		1
+danny		1
+entry		1
+offer		1
+home		1
+kim		1
+room		1
+m		1
+sick		1
+insure		1
+eric		1
+data		1
+mm		1

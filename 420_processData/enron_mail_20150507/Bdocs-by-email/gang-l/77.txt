@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+system		2
+problems	1
+lisa		1
+know		1
+major		1
+th		1
+delay		1
+worked		1
+regarding	1
+m		1
+apologize	1
+confident	1
+scheduled	1
+still		1
+auto		1
+through		1
+laurel		1

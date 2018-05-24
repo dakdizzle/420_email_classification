@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+pickle		1
+well		1
+themselves	1
+haven		1

@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+kevin		2
+specifics	1
+presto		1
+dana		1
+directly	1
+front		1
+location	1
+end		1
+premium		1
+filename	1
+privileged	1
+pstsounds	1
+non		1
+clearly		1
+prestox		1
+pay		1
+interesting	1
+work		1
+boston		1

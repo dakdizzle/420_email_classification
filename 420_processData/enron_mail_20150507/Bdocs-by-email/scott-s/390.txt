@@ -1,0 +1,24 @@
+NumWords	27
+NumTerms	21
+
+month		4
+split		2
+want		2
+last		2
+full		1
+make		1
+hey		1
+know		1
+now		1
+won		1
+paying		1
+out		1
+anyway		1
+ve		1
+wondering	1
+water		1
+check		1
+started		1
+electricity	1
+bill		1
+sue		1

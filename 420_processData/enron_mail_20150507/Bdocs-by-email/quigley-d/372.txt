@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+good		1
+planned		1
+yes		1
+meet		1
+luck		1
+call		1

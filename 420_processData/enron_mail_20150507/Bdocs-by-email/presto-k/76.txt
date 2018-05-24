@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+net		2
+trades		2
+make		1
+dia		1
+fax		1
+mechanism	1
+shorts		1
+power		1
+page		1
+holdings	1
+therefore	1
+dyn		1
+prestoeast	1
+kevin		1
+longs		1
+cell		1
+please		1
+line		1
+tradingphone	1

@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+attending	2
+planning	2
+mark		1
+meeting		1
+plan		1
+john		1
+patterson	1
+forney		1
+jmf		1
+deal		1
+doug		1
+settlements	1

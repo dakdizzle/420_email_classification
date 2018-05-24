@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+discos		1
+guess		1
+meet		1
+miami		1
+polos		1
+out		1
+clothes		1
+down		1
+khakis		1
+wear		1
+want		1
+need		1
+thought		1
+c		1
+hang		1
+don		1
+new		1
+think		1
+models		1

@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+good		2
+forgot		1
+mw		1
+now		1
+weekendc	1
+path		1

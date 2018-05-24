@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+jim		1
+fair		1
+slindber	1
+enron		1
+lindberg	1
+recipients	1
+ou		1
+susan		1
+d		1
+na		1

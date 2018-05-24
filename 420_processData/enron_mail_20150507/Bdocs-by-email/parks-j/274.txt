@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+parks		2
+cn		2
+joe		2
+energy		1
+understanding	1
+gas		1
+buying		1
+responsible	1
+recipients	1
+partners	1
+filename	1
+na		1
+ponderosa	1
+pstdavid	1
+thanksjoe	1
+billing		1
+enron		1
+jparks		1
+ou		1
+pine		1
+partnership	1
+agent		1

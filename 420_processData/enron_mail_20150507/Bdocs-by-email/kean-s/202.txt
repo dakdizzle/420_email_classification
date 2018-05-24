@@ -1,0 +1,19 @@
+NumWords	20
+NumTerms	16
+
+kean		2
+steven		2
+na		2
+enron		2
+dunn		1
+sen		1
+letter		1
+congressman	1
+loved		1
+tom		1
+forwarded	1
+enroncc		1
+amto		1
+briggs		1
+subject		1
+ose		1

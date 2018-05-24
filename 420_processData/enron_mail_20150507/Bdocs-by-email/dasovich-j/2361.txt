@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+out		2
+free		1
+hanging		1
+company		1
+true		1
+record		1
+blue		1
+freak		1
+call		1
+minute		1
+turns		1
+ceo		1
+greetings	1
+jeff		1
+best		1
+equipment	1
+recording	1
+night		1
+willing		1
+cameron		1
+last		1
+give		1
+cd		1
+unbelievable	1

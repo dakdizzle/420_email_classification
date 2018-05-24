@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+together	1
+want		1
+night		1
+e		1
+news		1

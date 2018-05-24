@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+talk		2
+m		2
+show		2
+think		2
+between		1
+first		1
+others		1
+email		1
+flow		1
+cash		1
+hey		1
+until		1
+few		1
+writing		1
+forcast		1
+afternoon	1
+thinking	1
+storage		1
+want		1
+enbridge	1
+don		1

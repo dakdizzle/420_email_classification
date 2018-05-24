@@ -1,0 +1,23 @@
+NumWords	30
+NumTerms	20
+
+sellers		3
+prentice	3
+berkeley	2
+dasovich	2
+psellers	2
+jeff		2
+nancy		2
+com		2
+story		1
+god		1
+net		1
+haas		1
+edu		1
+pacbell		1
+moral		1
+robertmondavi	1
+cfo		1
+enron		1
+sakes		1
+don		1

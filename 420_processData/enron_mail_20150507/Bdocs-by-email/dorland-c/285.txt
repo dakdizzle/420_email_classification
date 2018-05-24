@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+stalls		1
+y		1
+know		1
+one		1
+bought		1
+car		1
+chris		1
+megan		1
+haven		1

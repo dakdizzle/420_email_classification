@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+football	2
+night		2
+morning		1
+monday		1
+up		1
+ended		1
+turned		1
+last		1
+late		1
+tuesday		1
+getting		1

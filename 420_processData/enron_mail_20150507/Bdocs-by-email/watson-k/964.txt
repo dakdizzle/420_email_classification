@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+appt		1
+gyn		1
+tues		1
+wed		1
+meet		1
+opps		1

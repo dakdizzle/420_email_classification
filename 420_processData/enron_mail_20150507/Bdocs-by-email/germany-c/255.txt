@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+info		1
+scorpion	1
+hv		1
+pm		1
+id		1
+hr		1
+pg		1
+king		1
+min		1
+cf		1
+shop		1

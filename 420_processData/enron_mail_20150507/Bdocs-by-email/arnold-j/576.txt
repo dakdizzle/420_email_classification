@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+long		1
+credit		1
+legal		1
+louise		1
+problem		1
+approved	1

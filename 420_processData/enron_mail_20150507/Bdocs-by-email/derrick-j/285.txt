@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+send		1
+please		1
+thank		1
+memo		1
+members		1
+fine		1
+looks		1
+dave		1

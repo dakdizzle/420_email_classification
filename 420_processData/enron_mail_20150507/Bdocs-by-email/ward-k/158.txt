@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+status		1
+updates		1
+citizen		1

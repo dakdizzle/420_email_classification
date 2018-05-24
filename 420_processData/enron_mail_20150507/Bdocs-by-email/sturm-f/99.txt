@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+kobra		2
+program		2
+runtime		2
+ok		1
+winnt		1
+visual		1
+abnormal	1
+exe		1
+desktop		1
+library		1
+reuters		1
+error		1
+microsoft	1
+bin		1
+kernel		1
+termination	1

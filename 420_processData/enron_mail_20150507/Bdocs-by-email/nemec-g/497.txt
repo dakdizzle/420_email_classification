@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lead		1
+specifically	1
+jean		1
+scope		1
+review		1
+paragraph	1

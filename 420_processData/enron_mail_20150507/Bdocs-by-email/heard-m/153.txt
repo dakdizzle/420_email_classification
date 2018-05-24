@@ -1,0 +1,12 @@
+NumWords	12
+NumTerms	9
+
+week		3
+next		2
+handed		1
+short		1
+swamped		1
+marie		1
+asked		1
+schedule	1
+diane		1

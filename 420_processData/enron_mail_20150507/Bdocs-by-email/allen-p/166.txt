@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+park		1
+regarding	1
+greg		1
+questions	1
+deal		1
+cedar		1
+here		1

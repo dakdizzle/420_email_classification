@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+one		2
+failures	2
+lessons		1
+first		1
+day		1
+quot		1
+guest		1
+trying		1
+dismay		1
+stays		1
+fell		1
+out		1
+way		1
+heart		1
+fearful		1
+spirals		1
+edgar		1
+teach		1
+values		1
+night		1
+stout		1
+timid		1
+reach		1
+goal		1

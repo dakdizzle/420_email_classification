@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+list		1
+name		1
+idea		1
+sabre		1
+business	1
+see		1
+product		1
+help		1

@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+dial		1
+thing		1
+happens		1
+folks		1
+hopefully	1
+williams	1
+phone		1
+jeffp		1
+call		1
+hold		1
+soon		1
+good		1
+message		1
+best		1
+sanity		1
+direct		1
+work		1
+minutes		1
+within		1
+conference	1
+sure		1
+using		1
+next		1
+ll		1

@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+send		1
+make		1
+looking		1
+ton		1
+people		1
+enron		1
+range		1
+tomorrow	1
+night		1
+need		1
+chance		1
+game		1
+hockey		1
+tonight		1
+think		1
+resume		1

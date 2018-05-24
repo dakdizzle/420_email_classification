@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+one		2
+bill		1
+index		1
+symes		1
+more		1
+works		1
+participate	1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+less		1
+none		1
+know		1
+anne		1
+susan		1
+having		1
+help		1
+here		1
+didn		1

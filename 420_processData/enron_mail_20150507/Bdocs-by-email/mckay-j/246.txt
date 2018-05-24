@@ -1,0 +1,8 @@
+NumWords	11
+NumTerms	5
+
+birthday	5
+happy		2
+youhappy	2
+rd		1
+bethhappy	1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+m		1
+hope		1
+attention	1
+showering	1
+one		1

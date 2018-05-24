@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+first		1
+paul		1
+rick		1
+received	1
+jc		1
+nothing		1
+call		1

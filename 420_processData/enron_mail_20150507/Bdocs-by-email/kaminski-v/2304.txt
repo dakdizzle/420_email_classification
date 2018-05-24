@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+vince		1
+krishna		1
+deserves	1
+rusty		1
+review		1
+think		1
+offer		1

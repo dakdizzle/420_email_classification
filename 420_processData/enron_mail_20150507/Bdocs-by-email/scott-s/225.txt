@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+paul		1
+gas		1
+susan		1
+patina		1
+left		1
+along		1
+yesterday	1
+et		1
+watkins		1
+message		1
+al		1
+pass		1
+jay		1
+sure		1

@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+email		3
+please		2
+mailto		1
+information	1
+plans		1
+rate		1
+home		1
+regarding	1
+spiretech	1
+more		1
+address		1
+salisbury	1
+com		1
+nokia		1

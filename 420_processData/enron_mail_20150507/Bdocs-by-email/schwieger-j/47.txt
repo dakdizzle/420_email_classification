@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+day		1
+ene		1
+up		1
+talk		1
+today		1
+swig		1
+see		1
+bet		1
+out		1
+stay		1
+good		1
+easy		1
+around		1
+lets		1
+ya		1
+want		1
+yes		1
+going		1
+decision	1
+im		1

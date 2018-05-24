@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+describe	1
+enron		1
+changes		1
+spot		1
+find		1
+management	1
+think		1
+com		1

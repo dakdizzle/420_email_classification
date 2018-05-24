@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+call		2
+suttle		1
+expenses	1
+thats		1
+moving		1
+thing		1
+met		1
+try		1
+arrange		1
+something	1
+relocation	1
+agree		1
+rick		1
+pay		1
+accord		1
+one		1
+tx		1
+thought		1
+don		1
+give		1
+over		1

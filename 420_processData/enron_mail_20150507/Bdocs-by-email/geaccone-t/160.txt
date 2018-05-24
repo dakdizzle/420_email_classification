@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+morning		2
+really		2
+love		2
+up		1
+time		1
+hard		1
+wanted		1
+wake		1
+sleep		1
+out		1
+stay		1
+something	1
+good		1
+sweatheart	1
+weekend		1
+night		1
+work		1
+maybe		1
+away		1
+saturday	1
+think		1
+next		1

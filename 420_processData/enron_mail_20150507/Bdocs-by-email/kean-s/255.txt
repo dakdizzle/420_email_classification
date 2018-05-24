@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+substitute	1
+meeting		1
+sp		1
+october		1
+try		1
+joskow		1
+ken		1
+suggested	1
+think		1
+schmalensee	1

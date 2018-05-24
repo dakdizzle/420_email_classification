@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+thank		2
+fluids		1
+jack		1
+m		1
+preserving	1
+one		1
+sure		1
+wise		1

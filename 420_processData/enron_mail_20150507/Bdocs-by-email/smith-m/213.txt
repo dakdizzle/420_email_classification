@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+sul		1
+ross		1
+want		1
+houston		1
+tx		1
+address		1

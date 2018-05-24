@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+good		1
+vince		1
+mw		1
+project		1
+daily		1
+bloomberg	1
+read		1
+think		1
+thanks		1

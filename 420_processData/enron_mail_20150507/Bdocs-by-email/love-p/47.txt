@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+checked		2
+done		1
+pl		1
+bankruptcy	1
+per		1
+particular	1
+cecilia		1
+few		1
+moved		1
+deals		1
+spot		1
+entergy		1

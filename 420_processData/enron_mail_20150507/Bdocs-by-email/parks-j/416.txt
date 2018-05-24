@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+elephant	1
+hey		1
+balls		1
+fool		1
+shit		1
+columbia	1
+bad		1
+thought		1
+sucks		1

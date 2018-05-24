@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+easy		1
+texas		1
+gas		1
+one		1
+recalled	1
+t		1
+effective	1

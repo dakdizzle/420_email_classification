@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+thumbs		1
+interviewed	1
+up		1
+gave		1
+ask		1
+yea		1

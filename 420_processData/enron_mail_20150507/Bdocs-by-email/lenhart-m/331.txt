@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+definately	1
+lets		1
+tomorrow	1
+play		1

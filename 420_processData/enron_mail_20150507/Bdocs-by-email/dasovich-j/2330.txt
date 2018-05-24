@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+both		1
+best		1
+please		1
+neat		1
+give		1

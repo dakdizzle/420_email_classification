@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+tom		2
+meeting		1
+stand		1
+conditions	1
+talk		1
+wednesday	1
+martin		1
+meet		1
+problem		1
+ways		1
+regarding	1
+vince		1
+sddp		1
+contribute	1
+lance		1
+solving		1
+brazil		1
+hydro		1
+country		1

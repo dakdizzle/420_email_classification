@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+outcome		1
+others		1
+know		1
+well		1
+comx		1
+hayslett	1
+filename	1
+privileged	1
+rhaysle		1
+non		1
+enron		1
+origin		1
+rx		1
+pstlet		1
+sommers		1

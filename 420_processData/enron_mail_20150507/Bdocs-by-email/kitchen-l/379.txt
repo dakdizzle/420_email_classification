@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+buyer		1
+send		1
+intend		1
+copy		1
+please		1
+thankslouise	1
+format		1
+plans		1
+restart		1
+accordingly	1
+new		1

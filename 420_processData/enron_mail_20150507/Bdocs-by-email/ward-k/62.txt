@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+stand		1
+message		1
+come		1
+try		1
+humidity	1
+see		1
+think		1
+love		1

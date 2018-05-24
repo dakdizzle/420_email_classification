@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+case		1
+bernstien	1
+ader		1
+lavo		1
+nicknames	1
+assigned	1
+ernie		1
+louise		1
+today		1
+trying		1
+build		1
+ridiculous	1
+mails		1
+supply		1
+bert		1
+forwarding	1
+business	1
+away		1
+new		1

@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+today		2
+yesterday	2
+send		1
+spectron	1
+quot		1
+man		1
+john		1
+williams	1
+later		1
+system		1
+unable		1
+dutch		1
+emial		1
+es		1
+down		1
+sent		1
+broker		1
+pmg		1
+jay		1

@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+file		2
+email		1
+map		1
+send		1
+region		1
+wouldn		1
+exchange	1
+know		1
+steve		1
+west		1
+ppt		1
+dropbox		1
+anything	1
+put		1
+please		1
+need		1
+called		1
+though		1
+mat		1
+big		1

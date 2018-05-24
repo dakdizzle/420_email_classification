@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hope		1
+proposed	1
+contest		1
+amendment	1
+planning	1

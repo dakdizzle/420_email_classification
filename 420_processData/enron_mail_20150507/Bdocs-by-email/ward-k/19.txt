@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+together	1
+something	1
+put		1
+hanvover	1
+know		1
+calling		1
+keep		1
+thanks		1

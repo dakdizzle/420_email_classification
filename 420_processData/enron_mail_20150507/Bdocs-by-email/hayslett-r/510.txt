@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+rhaysle		2
+cn		2
+meeting		1
+plan		1
+stan		1
+attending	1
+recipients	1
+hayslett	1
+filename	1
+na		1
+kevin		1
+privileged	1
+non		1
+office		1
+enron		1
+tomorrow	1
+pstyou		1
+ou		1
+rod		1

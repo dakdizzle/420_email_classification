@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+think		2
+care		1
+make		1
+wedding		1
+looking		1
+johnny		1
+chris		1
+jen		1
+high		1
+take		1
+long		1
+unfortunately	1
+weekend		1
+matt		1
+forward		1
+august		1
+sure		1
+don		1
+hi		1

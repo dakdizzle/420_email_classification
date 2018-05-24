@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+alagasco	1
+under		1
+returned	1
+october		1
+letter		1
+call		1
+thanks		1
+done		1
+one		1
+yes		1
+agreement	1
+still		1
+deal		1
+die		1

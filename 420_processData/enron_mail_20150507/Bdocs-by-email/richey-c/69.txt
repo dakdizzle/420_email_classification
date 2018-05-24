@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+worth		1
+morning		1
+talk		1
+pep		1
+well		1
+sure		1
+checking	1

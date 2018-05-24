@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lying		1
+dont		1
+understand	1
+stop		1
+embarrased	1

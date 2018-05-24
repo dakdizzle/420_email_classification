@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+energy		1
+day		1
+knauth		1
+spend		1
+busy		1
+meet		1
+way		1
+mba		1
+gets		1
+broker		1
+hr		1
+focus		1
+go		1
+tell		1
+one		1
+forward		1
+grigsby		1
+week		1
+next		1
+trading		1

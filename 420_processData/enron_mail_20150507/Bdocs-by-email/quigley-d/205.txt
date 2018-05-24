@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+eveyday		1
+send		1
+ya		1
+youluv		1
+see		1

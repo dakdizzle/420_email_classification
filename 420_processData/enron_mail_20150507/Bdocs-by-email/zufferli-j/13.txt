@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+position	1
+feb		1
+summary		1
+here		1

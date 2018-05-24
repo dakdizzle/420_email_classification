@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+stacey		2
+swhite		2
+cn		2
+pstcasey	1
+end		1
+procedures	1
+recipients	1
+month		1
+white		1
+filename	1
+na		1
+thanks		1
+privileged	1
+out		1
+remind		1
+good		1
+staceyjohn	1
+non		1
+enron		1
+questions	1
+ou		1
+figure		1
+add		1

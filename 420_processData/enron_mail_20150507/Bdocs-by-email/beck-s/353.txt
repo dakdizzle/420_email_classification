@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+time		2
+out		1
+great		1
+wing		1
+run		1
+sally		1
+lavendar	1
+thanks		1

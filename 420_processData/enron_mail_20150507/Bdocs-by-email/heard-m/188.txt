@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+europe		1
+used		1
+worksheet	1
+reserves	1
+definition	1
+tanya		1
+marie		1
+provide		1
+csfb		1
+capital		1
+thanks		1

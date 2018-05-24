@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+draft		2
+go		2
+ahead		2
+send		1
+know		1
+verify		1
+tanya		1
+marie		1
+related		1
+worksheets	1
+isdas		1
+thanks		1
+sent		1
+please		1
+rudwell		1
+want		1
+looked		1
+jay		1
+peoples		1

@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+cn		2
+kmann		2
+kay		2
+mark		1
+pstrahil	1
+everything	1
+writing		1
+recipients	1
+filename	1
+na		1
+privileged	1
+anything	1
+non		1
+enron		1
+mann		1
+willing		1
+ou		1
+given		1

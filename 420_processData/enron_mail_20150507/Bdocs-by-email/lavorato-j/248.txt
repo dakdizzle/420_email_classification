@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+prices		1
+ie		1
+executive	1
+put		1
+peak		1
+positions	1
+rates		1
+thankslavo	1
+kevincan	1
+viewer		1
+reports		1
+new		1
+heat		1

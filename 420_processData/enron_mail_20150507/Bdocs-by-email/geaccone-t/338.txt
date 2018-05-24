@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+order		1
+monday		1
+run		1
+project		1
+report		1
+work		1
+someone		1
+tw		1
+thanks		1

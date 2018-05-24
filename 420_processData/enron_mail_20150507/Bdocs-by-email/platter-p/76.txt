@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+m		2
+blast		1
+posted		1
+interested	1
+keep		1
+going		1
+sure		1
+hannah		1
+very		1

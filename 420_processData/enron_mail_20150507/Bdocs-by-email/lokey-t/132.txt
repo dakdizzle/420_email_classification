@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+tuesday		2
+pm		1
+m		1
+meeting		1
+available	1
+segmenting	1

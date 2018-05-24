@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+ask		1
+milnthorp	1

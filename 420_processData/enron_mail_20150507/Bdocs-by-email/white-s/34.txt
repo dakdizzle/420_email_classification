@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+stacey		2
+white		2
+cn		2
+numbers		2
+stacy		1
+try		1
+know		1
+contact		1
+following	1
+recipients	1
+contacting	1
+filename	1
+na		1
+pstplease	1
+thanks		1
+getting		1
+home		1
+way		1
+swhite		1
+cell		1
+enron		1
+touch		1
+one		1
+ou		1

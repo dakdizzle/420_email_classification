@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+cn		2
+dschool		2
+order		1
+group		1
+make		1
+know		1
+darrell		1
+recipients	1
+schoolcraft	1
+filename	1
+na		1
+privileged	1
+ds		1
+list		1
+instead		1
+non		1
+right		1
+enron		1
+pstthe		1
+numbers		1
+suggestion	1
+ou		1
+alphabetical	1

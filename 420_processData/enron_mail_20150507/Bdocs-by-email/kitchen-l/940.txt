@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+heard		1
+fax		1
+oh		1
+happen		1
+haven		1
+mind		1
+never		1
+ll		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ve		1
+categorized	1
+mhc		1
+know		1
+maybe		1
+mackin		1
+don		1
+severance	1
+think		1

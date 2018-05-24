@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+hedge		2
+implied		2
+party		1
+term		1
+currency	1
+guys		1
+third		1
+exposure	1
+never		1
+structure	1
+intending	1
+deem		1
+wrote		1
+appropriate	1

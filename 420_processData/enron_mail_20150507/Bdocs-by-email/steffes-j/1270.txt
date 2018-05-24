@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+ok		1
+nov		1
+move		1
+didn		1

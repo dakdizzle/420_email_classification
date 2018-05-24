@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+eei		1
+sager		1
+callelizabeth	1
+call		1

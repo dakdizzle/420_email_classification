@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lynn		1
+glen		1
+office		1
+want		1
+thanks		1
+call		1

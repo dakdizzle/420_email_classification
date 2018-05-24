@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+those		1
+inactivate	1
+name		1
+trader		1
+book		1
+inactivated	1
+books		1
+don		1
+request		1
+kk		1
+next		1

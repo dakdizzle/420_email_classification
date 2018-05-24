@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+asked		2
+lavo		1
+unfortunately	1
+friday		1
+question	1
+earlier		1
+same		1

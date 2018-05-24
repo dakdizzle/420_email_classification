@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+probably	2
+day		1
+value		1
+per		1
+share		1
+gas		1
+guess		1
+derivatives	1
+market		1
+intl		1
+trades		1
+financial	1
+doubled		1
+bil		1
+eol		1
+including	1
+notional	1

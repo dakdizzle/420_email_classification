@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+put		1
+please		1
+justin		1
+book		1
+bot		1
+apr		1
+oct		1
+thanks		1

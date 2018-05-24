@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+great		2
+thats		1
+much		1
+day		1
+bark		1
+rex		1
+c		1
+means		1

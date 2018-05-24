@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+call		2
+directly	1
+payroll		1
+cindy		1
+ask		1
+system		1
+contribution	1
+take		1
+out		1
+please		1
+bill		1
+back		1
+cormanx		1
+questions	1
+replied		1
+shelley		1
+uw		1
+diane		1

@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+weekend		4
+go		2
+wedding		1
+mississippi	1
+buttfuck	1
+except		1
+stayed		1
+month		1
+central		1
+punks		1
+golfed		1
+home		1
+easter		1
+regulate	1
+going		1
+last		1
+vegas		1
+town		1
+doing		1
+haven		1
+next		1

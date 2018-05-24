@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+eric		2
+tickets		2
+tonights	1
+possibly	1
+heard		1
+make		1
+pm		1
+starts		1
+know		1
+ask		1
+bt		1
+see		1
+people		1
+used		1
+believe		1
+back		1
+want		1
+use		1
+boyt		1
+sure		1
+game		1

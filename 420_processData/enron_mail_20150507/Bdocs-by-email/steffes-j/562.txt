@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+please		1
+know		1
+lisa		1
+need		1

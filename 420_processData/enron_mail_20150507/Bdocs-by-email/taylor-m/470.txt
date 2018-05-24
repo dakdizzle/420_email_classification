@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+plus		1
+basis		1
+up		1
+guys		1
+draft		1
+cost		1
+schedule	1
+thanks		1

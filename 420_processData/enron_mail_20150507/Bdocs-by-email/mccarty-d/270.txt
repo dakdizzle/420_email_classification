@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+time		1
+river		1
+spend		1
+cpuc		1
+take		1
+expect		1
+dan		1
+lumps		1
+something	1
+point		1
+done		1
+issues		1
+picking		1
+fighting	1
+go		1
+mary		1
+one		1
+kern		1
+hasn		1
+kay		1
+think		1
+here		1

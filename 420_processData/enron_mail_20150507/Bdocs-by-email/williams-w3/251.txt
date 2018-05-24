@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+smud		1
+up		1
+heads		1
+online		1
+ust		1
+today		1
+stewart		1
+total		1
+thanks		1
+good		1
+enron		1
+used		1
+bill		1
+mws		1
+work		1
+quick		1
+sold		1

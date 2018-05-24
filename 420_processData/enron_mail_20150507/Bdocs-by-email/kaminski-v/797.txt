@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+tak		1
+pstpiotr	1
+koniec		1
+filename	1
+vkamins		1
+dam		1
+znac		1
+jx		1
+vince		1
+czerwca		1
+wicek		1
+ci		1
+kaminski	1

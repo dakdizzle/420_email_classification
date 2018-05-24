@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+houston		2
+up		1
+wonder		1
+lived		1
+hate		1
+school		1
+high		1
+denver		1
+years		1
+north		1
+nothing		1
+went		1
+here		1

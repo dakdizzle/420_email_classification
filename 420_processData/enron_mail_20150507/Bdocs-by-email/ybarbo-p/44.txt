@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+great		1
+message		1
+reply		1
+please		1
+paulhave	1
+maricelis	1
+receive		1
+oscar		1
+afternoon	1
+thanks		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+camille		1
+going		1
+hang		1
+tonight		1

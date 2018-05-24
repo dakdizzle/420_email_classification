@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+go		2
+wine		1
+christopher	1
+up		1
+course		1
+guys		1
+leave		1
+pick		1
+recommendations	1
+m		1
+requests	1
+want		1
+tagging		1

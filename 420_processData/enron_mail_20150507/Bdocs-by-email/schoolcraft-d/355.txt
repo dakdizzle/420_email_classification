@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ds		1
+ins		1
+volumes		1
+tie		1
+outage		1
+redrock		1

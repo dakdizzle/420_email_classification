@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+little		1
+cranky		1
+ive		1
+busy		1
+nope		1

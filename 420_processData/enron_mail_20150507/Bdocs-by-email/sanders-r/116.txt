@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+talked		2
+paul		1
+please		1
+tel		1
+fla		1
+know		1
+lester		1
+thx		1
+atty		1
+call		1
+expecting	1

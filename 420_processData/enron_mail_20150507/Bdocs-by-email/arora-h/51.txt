@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+one		3
+frame		1
+congestion	1
+rfp		1
+icap		1
+see		1
+woodydid	1
+without		1
+reverse		1
+harry		1
+buy		1
+idea		1
+need		1
+bidding		1
+think		1
+include		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+know		1
+go		1
+buy		1
+ahead		1
+bullish		1
+going		1
+news		1

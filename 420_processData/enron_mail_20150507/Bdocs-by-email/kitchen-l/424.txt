@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+plan		2
+group		1
+officerenron	1
+fax		1
+operating	1
+front		1
+louise		1
+kitchenchief	1
+falls		1
+americastel	1
+confirmation	1
+unsure		1
+include		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+miss		1
+good		1
+thinking	1
+looking		1
+shirt		1

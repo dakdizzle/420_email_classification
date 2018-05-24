@@ -1,0 +1,26 @@
+NumWords	28
+NumTerms	23
+
+going		3
+party		2
+out		2
+m		2
+power		1
+know		1
+now		1
+reliant		1
+morning		1
+rudy		1
+good		1
+calpine		1
+control		1
+go		1
+night		1
+mart		1
+im		1
+last		1
+sure		1
+till		1
+doing		1
+seasons		1
+tonight		1

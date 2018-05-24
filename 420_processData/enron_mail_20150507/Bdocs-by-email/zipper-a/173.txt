@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+close		1
+greg		1
+guadaramma	1
+folks		1
+dealbench	1
+official	1
+start		1
+vest		1
+keep		1
+process		1
+bibi		1
+talked		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+research	1
+authorize	1
+please		1
+thankslouise	1
+one		1
+release		1
+code		1

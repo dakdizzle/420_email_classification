@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+burbank		2
+zoo		1
+less		1
+jeff		1
+best		1
+direct		1
+ticket		1
+lax		1
+preferrable	1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+coming		1
+morris		1
+up		1
+office		1
+myself		1
+tom		1
+including	1
+set		1
+don		1
+schedule	1

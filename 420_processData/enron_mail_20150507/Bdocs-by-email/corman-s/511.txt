@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+best		1
+wednesday	1
+daily		1
+review		1
+work		1

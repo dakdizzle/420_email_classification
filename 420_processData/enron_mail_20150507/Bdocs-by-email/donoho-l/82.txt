@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lake		1
+autumn		1
+thank		1
+elementary	1
+donoho		1
+lindy		1
+school		1
+subdivision	1

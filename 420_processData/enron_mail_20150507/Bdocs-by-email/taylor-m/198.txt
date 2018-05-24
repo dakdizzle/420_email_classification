@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+runner		1
+up		1
+days		1
+service		1
+road		1
+computer	1
+thanks		1
+out		1
+good		1
+clean		1
+several		1
+luck		1
+note		1
+mine		1
+lucky		1

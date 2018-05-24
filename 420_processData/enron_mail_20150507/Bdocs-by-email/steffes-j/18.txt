@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+sbx		2
+jim		1
+follow		1
+jennifer	1
+important	1

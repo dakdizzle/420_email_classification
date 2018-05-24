@@ -1,0 +1,19 @@
+NumWords	24
+NumTerms	16
+
+cn		4
+terry		2
+recipients	2
+na		2
+enron		2
+ou		2
+lynn		1
+plan		1
+tkowalk		1
+john		1
+attending	1
+buchanan	1
+thanks		1
+please		1
+kowalke		1
+jbuchan		1

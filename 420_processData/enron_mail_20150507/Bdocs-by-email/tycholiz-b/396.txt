@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+pipes		1
+flow		1
+guys		1
+pls		1
+pipelines	1
+file		1
+bt		1
+east		1
+denver		1
+mara		1
+northern	1
+trailblazer	1
+check		1
+includes	1
+rockies		1
+nbpl		1
+ensure		1

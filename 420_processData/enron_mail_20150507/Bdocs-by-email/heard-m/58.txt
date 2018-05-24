@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+comments	2
+soon		1
+around		1
+credit		1
+turn		1
+try		1
+received	1
+marie		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lsu		1
+weekend		1
+going		1
+town		1
+game		1

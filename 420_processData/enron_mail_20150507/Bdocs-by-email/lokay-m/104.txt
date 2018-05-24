@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+list		1
+distribution	1
+ga		1
+please		1
+dl		1
+thanks		1
+domestic	1
+add		1

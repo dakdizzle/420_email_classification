@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+much		1
+without		1
+sugar		1
+wed		1
+e		1
+creek		1
+wanted		1
+cost		1
+golf		1
+next		1
+play		1

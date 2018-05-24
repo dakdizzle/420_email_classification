@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+tgeacco		2
+cn		2
+recipients	1
+geaccone	1
+filename	1
+na		1
+privileged	1
+tracy		1
+pstfyi		1
+non		1
+enron		1
+ou		1
+mail		1
+copied		1
+original	1

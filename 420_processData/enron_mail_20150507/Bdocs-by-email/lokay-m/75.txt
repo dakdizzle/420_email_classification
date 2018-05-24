@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+holiday		1
+friday		1
+use		1
+th		1
+discretionary	1
+thanks		1

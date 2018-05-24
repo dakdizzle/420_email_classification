@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+stacy		1
+enron		1
+dickson		1
+thanks		1
+com		1

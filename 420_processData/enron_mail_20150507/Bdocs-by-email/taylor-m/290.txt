@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+president	1
+mark		1
+return		1
+card		1
+taylorvice	1
+asked		1
+wanted		1
+reservations	1
+wholesale	1
+general		1
+counselenron	1
+services	1
+amanda		1
+went		1
+date		1
+through		1

@@ -1,0 +1,12 @@
+NumWords	14
+NumTerms	9
+
+xll		3
+exotica		3
+addin		2
+research	1
+directory	1
+paul		1
+krishna		1
+mean		1
+same		1

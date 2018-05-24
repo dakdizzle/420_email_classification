@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sun		1
+days		1
+kid		1

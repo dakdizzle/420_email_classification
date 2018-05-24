@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+work		1
+yep		1
+fast		1

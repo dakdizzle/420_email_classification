@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+id		2
+west		2
+region		1
+confusing	1
+thank		1
+desk		1
+phillip		1
+someone		1
+trade		1
+modify		1
+products	1
+message		1
+possible	1
+please		1
+one		1
+use		1
+more		1
+needed		1
+need		1
+simtrader	1
+access		1
+jay		1

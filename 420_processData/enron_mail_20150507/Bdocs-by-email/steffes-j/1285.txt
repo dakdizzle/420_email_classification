@@ -1,0 +1,18 @@
+NumWords	22
+NumTerms	15
+
+cn		4
+recipients	2
+na		2
+enron		2
+ou		2
+jdasovic	1
+susan		1
+arem		1
+dasovich	1
+smara		1
+mara		1
+jim		1
+jeff		1
+work		1
+through		1

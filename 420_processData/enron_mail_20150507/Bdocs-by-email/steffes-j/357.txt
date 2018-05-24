@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+confidential	1
+ferc		1
+press		1
+information	1
+working		1
+timeline	1
+final		1
+audit		1
+trade		1
+act		1
+looks		1
+thanks		1
+jim		1
+good		1

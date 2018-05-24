@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+quarter		1
+close		1
+cummulative	1
+started		1
+reviewed	1
+files		1
+reviewing	1
+build		1
+rd		1
+companies	1

@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+houston		2
+energy		1
+runs		1
+bruce		1
+international	1
+information	1
+well		1
+located		1
+ferry		1
+peterson	1
+phone		1
+korn		1
+number		1
+connected	1
+out		1
+good		1
+guy		1
+don		1
+practice	1
+very		1

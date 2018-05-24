@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+haysletteb	1
+rod		1
+test		1

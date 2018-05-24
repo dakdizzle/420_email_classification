@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+little		1
+early		1
+m		1
+instead		1
+try		1
+tomorrow	1
+leave		1
+better		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+respond		2
+liz		1
+ok		1
+end		1
+please		1
+legros		1
+still		1
+codes		1
+date		1

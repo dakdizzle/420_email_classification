@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+saddled		1
+soon		1
+blackberry	1
+sorry		1
+looks		1
+ll		1

@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+kitchen		2
+cn		2
+louise		2
+lkitchen	1
+pstit		1
+david		1
+enron		1
+recipients	1
+ou		1
+someone		1
+filename	1
+na		1

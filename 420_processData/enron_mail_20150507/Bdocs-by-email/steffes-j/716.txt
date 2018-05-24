@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+current		2
+gives		1
+make		1
+page		1
+short		1
+guys		1
+four		1
+hour		1
+presentation	1
+jim		1
+positions	1
+deliver		1
+update		1
+understand	1
+idea		1
+max		1
+projects	1
+sure		1
+think		1
+brief		1

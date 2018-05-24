@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+week		2
+out		1
+put		1
+ene		1
+bullet		1
+eat		1
+misery		1
+bring		1
+maybe		1
+don		1
+think		1
+next		1

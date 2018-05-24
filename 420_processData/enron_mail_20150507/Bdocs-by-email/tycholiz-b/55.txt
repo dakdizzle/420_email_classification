@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+kids		1
+breast		1
+write		1
+feeding		1
+fetch		1
+premium		1
+crack		1
+eating		1
+team		1
+developers	1
+code		1
+lunch		1
+pretty		1
+didn		1

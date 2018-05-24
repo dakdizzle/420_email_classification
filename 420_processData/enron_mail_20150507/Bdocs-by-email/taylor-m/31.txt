@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+first		1
+takes		1
+decide		1
+guys		1
+one		1
+crack		1
+ll		1

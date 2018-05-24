@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+situation	1
+babysit		1
+make		1
+concerns	1
+voiced		1
+believe		1
+rules		1
+try		1
+understand	1
+abides		1
+sure		1
+certainly	1

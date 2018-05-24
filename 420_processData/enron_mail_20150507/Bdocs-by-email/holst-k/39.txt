@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+geoff		2
+coordinated	1
+assigned	1
+know		1
+reached		1
+person		1
+matters		1
+help		1
+rita		1
+way		1
+point		1
+storey		1
+thankskeith	1
+forwarding	1
+enron		1
+manner		1
+please		1
+handle		1
+effort		1
+efficient	1
+request		1

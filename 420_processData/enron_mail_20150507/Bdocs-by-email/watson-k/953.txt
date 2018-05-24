@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ve		1
+happened	1
+m		1
+list		1
+msn		1
+lost		1
+messenger	1
+logged		1
+sure		1

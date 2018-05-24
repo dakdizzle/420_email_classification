@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+paul		2
+barbo		2
+clapp		1
+revised		1
+attached	1
+ect		1
+rico		1
+pages		1
+na		1
+puerto		1
+hou		1
+forwarded	1
+pmto		1
+enron		1
+ectcc		1
+analysissee	1
+subject		1
+suzanne		1
+lpg		1

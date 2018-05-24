@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+power		1
+gas		1
+options		1
+ubs		1
+desk		1
+though		1
+still		1
+trading		1
+running		1

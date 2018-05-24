@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+modest		1
+m		1
+someday		1
+ok		1
+working		1
+want		1
+jewel		1
+going		1
+forget		1
+don		1
+over		1

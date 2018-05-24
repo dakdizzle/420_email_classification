@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+vacationthanks	1
+exception	1

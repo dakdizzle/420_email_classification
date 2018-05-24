@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+both		1
+ve		1
+leslie		1
+mentioned	1
+becky		1
+barry		1

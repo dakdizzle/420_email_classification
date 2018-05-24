@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+managing	1
+ena		1
+gas		1
+west		1
+scheduling	1
+go		1
+directormat	1
+phillip		1
+karen		1
+allen		1
+months		1
+here		1

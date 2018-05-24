@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+know		2
+work		1
+going		1
+don		1
+decided		1

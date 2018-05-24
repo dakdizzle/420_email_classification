@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+push		1
+vince		1
+friday		1
+emergency	1
+shawn		1
+lunch		1
+here		1
+call		1

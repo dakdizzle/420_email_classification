@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+flow		1
+nom		1
+day		1
+gas		1
+june		1

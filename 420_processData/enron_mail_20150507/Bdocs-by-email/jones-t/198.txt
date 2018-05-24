@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+joke		1
+good		1
+ones		1
+few		1
+laden		1
+forward		1
+bin		1
+kyle		1
+ll		1
+better		1

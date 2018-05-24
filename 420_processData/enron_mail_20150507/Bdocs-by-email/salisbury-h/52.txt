@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+anna		1
+received	1
+thank		1
+hotels		1
+never		1
+intinerary	1

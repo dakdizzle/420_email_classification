@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+phone		2
+number		2
+case		1
+mark		1
+time		1
+looking		1
+thank		1
+hotel		1
+name		1
+reached		1
+arises		1
+flat		1
+trip		1
+paris		1
+emergency	1
+staying		1
+forward		1
+need		1
+london		1
+frevert		1

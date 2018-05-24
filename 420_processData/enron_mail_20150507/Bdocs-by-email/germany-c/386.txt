@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+notice		1
+m		1
+enter		1
+received	1
+west		1
+now		1
+thx		1
+tickets		1
+approved	1
+deal		1
+request		1
+never		1

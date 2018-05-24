@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+dq		1
+baby		1
+love		1

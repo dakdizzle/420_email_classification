@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+blaise		1
+know		1
+now		1
+pops		1
+places		1
+anything	1
+people		1
+right		1
+rick		1
+opposite	1
+groups		1
+distributed	1
+one		1
+maybe		1
+internally	1
+couple		1
+needs		1
+resume		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lynn		1
+questions	1
+answered	1
+raetta		1
+thanks		1

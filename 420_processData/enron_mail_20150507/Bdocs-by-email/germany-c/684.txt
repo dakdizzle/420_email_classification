@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+monday		1
+done		1
+m		1
+working		1
+tomorrow	1
+actully		1
+thanks		1

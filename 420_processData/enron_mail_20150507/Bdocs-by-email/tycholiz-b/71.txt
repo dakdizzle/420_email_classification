@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+lost		2
+fun		1
+spin		1
+car		1
+lobby		1
+total		1
+looks		1
+take		1
+sunday		1
+nice		1
+another		1
+isn		1
+race		1
+ps		1
+game		1

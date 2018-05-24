@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+rwillia		1
+hope		1
+enron		1
+williams	1
+recipients	1
+ou		1
+sager		1
+helpselizabeth	1
+na		1
+robert		1

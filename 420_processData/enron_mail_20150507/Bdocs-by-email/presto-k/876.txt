@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lavo		1
+green		1
+approved	1
+mountain	1
+prudency	1

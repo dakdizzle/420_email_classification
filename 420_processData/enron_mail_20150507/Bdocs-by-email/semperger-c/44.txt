@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+juicy		2
+stuff		1
+day		1
+stand		1
+time		1
+details		1
+divorce		1
+now		1
+coffee		1
+call		1
+cute		1
+go		1
+nearly		1
+sordid		1
+shift		1
+work		1
+iwill		1
+week		1
+give		1
+next		1

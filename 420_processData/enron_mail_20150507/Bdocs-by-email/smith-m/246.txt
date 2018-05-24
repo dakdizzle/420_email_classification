@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ina		1
+kobra		1
+come		1
+setup		1
+know		1
+noone		1
+wanted		1
+mat		1

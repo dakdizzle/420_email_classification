@@ -1,0 +1,16 @@
+NumWords	19
+NumTerms	13
+
+enron		3
+littler		2
+kerry		2
+notestine	2
+com		2
+highest		1
+ecom		1
+imceanotes	1
+knotestine	1
+goes		1
+bidder		1
+question	1
+cknotestine	1

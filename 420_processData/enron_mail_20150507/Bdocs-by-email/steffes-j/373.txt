@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+ppo		1
+without		1
+case		1
+true		1
+lose		1
+reasonable	1
+dst		1
+sounds		1
+same		1

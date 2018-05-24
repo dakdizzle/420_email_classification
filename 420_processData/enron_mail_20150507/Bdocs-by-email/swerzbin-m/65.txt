@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+still		2
+views		1
+place		1
+garden		1
+talk		1
+hotel		1
+go		1
+available	1
+reservations	1
+raul		1
+mostly		1
+rooms		1

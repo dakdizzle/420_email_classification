@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+settlement	1
+issues		1
+m		1
+dms		1
+lisa		1
+nvp		1
+working		1
+provide		1
+deal		1

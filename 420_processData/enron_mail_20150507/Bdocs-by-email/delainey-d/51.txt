@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+mark		1
+starting	1
+natives		1
+ideas		1
+ship		1
+few		1
+returning	1
+regardsdelainey	1
+move		1
+mother		1
+restless	1

@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+tjones		2
+cn		2
+jones		1
+end		1
+today		1
+four		1
+recipients	1
+tana		1
+filename	1
+na		1
+privileged	1
+done		1
+non		1
+doable		1
+enron		1
+areas		1
+mary		1
+pstlance	1
+cook		1
+ou		1
+spoke		1

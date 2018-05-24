@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+way		1
+long		1
+m		1
+requests	1
+extras		1
+line		1
+throw		1
+sure		1

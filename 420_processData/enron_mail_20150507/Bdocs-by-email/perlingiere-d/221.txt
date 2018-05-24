@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+room		1
+eb		1
+meeting		1
+tomorrow	1

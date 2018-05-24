@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+blackberry	2
+sent		1
+net		1
+wireless	1
+handheld	1
+www		1
+michelle	1
+visa		1
+supplement	1
+question	1
+answer		1
+thanks		1

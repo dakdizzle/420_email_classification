@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+believe		1
+things		1
+cat		1
+hilarious	1
+remember	1

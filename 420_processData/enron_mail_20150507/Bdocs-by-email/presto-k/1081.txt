@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+bradford	1
+agreed		1
+up		1
+already		1
+constellation	1
+deal		1
+blew		1
+think		1

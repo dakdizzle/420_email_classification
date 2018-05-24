@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+both		1
+dynegy		1
+bp		1
+involve		1
+marie		1
+amoco		1
+ecc		1
+chris		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+policy		1
+evening		1
+title		1
+try		1
+find		1

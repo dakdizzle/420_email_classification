@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+l		1
+friday		1
+book		1
+million		1
+deal		1
+see		1
+didn		1

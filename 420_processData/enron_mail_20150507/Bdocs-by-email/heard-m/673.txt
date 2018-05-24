@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+anything	1
+bp		1
+marie		1
+amoco		1
+need		1

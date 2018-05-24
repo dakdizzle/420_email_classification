@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+seen		1
+layoffs		1
+up		1
+now		1
+absolutely	1
+jesus		1
+miller		1
+amazing		1
+love		1

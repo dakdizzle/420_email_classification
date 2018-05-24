@@ -1,0 +1,11 @@
+NumWords	11
+NumTerms	8
+
+type		2
+operational	2
+filing		2
+entity		1
+mary		1
+probably	1
+issue		1
+someone		1

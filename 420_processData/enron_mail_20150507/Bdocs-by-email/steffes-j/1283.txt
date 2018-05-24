@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+negotiations	1
+keep		1
+loop		1
+sce		1

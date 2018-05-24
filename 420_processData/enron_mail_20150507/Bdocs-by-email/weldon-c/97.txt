@@ -1,0 +1,22 @@
+NumWords	25
+NumTerms	19
+
+enron		3
+ect		2
+weldon		2
+hou		2
+charles		2
+conversion	1
+pm		1
+louis		1
+sandy		1
+na		1
+america		1
+dicarlo		1
+forwarded	1
+program		1
+ectcc		1
+north		1
+subject		1
+olitsky		1
+corp		1

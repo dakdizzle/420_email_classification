@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+team		2
+joe		2
+future		1
+person		1
+wish		1
+thanks		1
+stay		1
+professional	1
+respect		1
+good		1
+please		1
+best		1
+touch		1
+nothing		1
+part		1
+pleasure	1
+luck		1
+having		1
+career		1

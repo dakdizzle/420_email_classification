@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+make		1
+hey		1
+wouldn		1
+few		1
+finallyfly	1
+houston		1
+trying		1
+unless		1
+trip		1
+expect		1
+thanks		1
+friends		1
+down		1
+weekend		1
+minutes		1
+squeeze		1

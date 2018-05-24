@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+agreed		1
+send		1
+deadline	1
+revised		1
+friday		1
+phillip		1
+afternoon	1
+please		1
+agreements	1
+michelle	1
+mike		1
+spoke		1
+august		1
+chance		1
+move		1

@@ -1,0 +1,15 @@
+NumWords	20
+NumTerms	12
+
+citysearch	3
+http		3
+com		3
+profile		2
+houston		2
+barnaby		1
+mark		1
+marks		1
+html		1
+www		1
+backstreet	1
+cafe		1

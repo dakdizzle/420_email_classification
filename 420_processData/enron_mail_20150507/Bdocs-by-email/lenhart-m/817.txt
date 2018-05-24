@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+company		2
+join		1
+golden		1
+report		1
+ken		1
+million		1
+ruining		1
+getting		1
+parachutte	1
+lay		1
+everyone	1
+pissed		1
+c		1
+pretty		1
+new		1
+doesn		1
+here		1
+over		1

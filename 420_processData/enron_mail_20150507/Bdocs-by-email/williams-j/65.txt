@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+make		1
+locked		1
+come		1
+yes		1
+probably	1
+told		1
+mouth		1
+sure		1
+never		1
+sharon		1

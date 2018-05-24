@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+letters		1
+revisions	1
+know		1
+attached	1
+initial		1
+need		1
+late		1
+still		1

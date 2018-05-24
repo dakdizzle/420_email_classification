@@ -1,0 +1,4 @@
+NumWords	4
+NumTerms	1
+
+yea		4

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+pm		1
+meeting		1
+one		1
+provide		1
+hour		1
+th		1
+tuesday		1
+central		1
+twanda		1
+call		1
+organizational	1
+confirm		1

@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+applications	1
+travel		1
+kazakstan	1
+connie		1
+visa		1
+corman		1
+wanted		1
+chris		1
+holding		1
+mention		1
+confirmed	1
+cell		1
+davis		1
+passports	1
+received	1
+pending		1
+work		1
+russian		1
+brokers		1
+shelley		1
+instructions	1

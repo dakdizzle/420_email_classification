@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+hey		1
+thank		1
+shirts		1
+wanted		1
+anyway		1
+great		1
+around		1
+christine	1
+everythings	1
+pretty		1
+mat		1
+think		1
+normal		1
+here		1

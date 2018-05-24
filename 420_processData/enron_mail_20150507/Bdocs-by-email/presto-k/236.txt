@@ -1,0 +1,22 @@
+NumWords	25
+NumTerms	19
+
+mw		3
+hourly		2
+june		2
+go		2
+sept		2
+per		1
+up		1
+block		1
+essentially	1
+provide		1
+month		1
+times		1
+cal		1
+source		1
+require		1
+change		1
+lending		1
+period		1
+parking		1

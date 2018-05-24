@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lynn		1
+john		1
+know		1
+keep		1
+fyi		1
+loop		1
+going		1
+thanks		1

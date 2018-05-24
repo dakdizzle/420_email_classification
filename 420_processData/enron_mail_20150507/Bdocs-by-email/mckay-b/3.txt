@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+potential	1
+mentioned	1
+yes		1
+seemed		1
+targe		1
+take		1
+over		1

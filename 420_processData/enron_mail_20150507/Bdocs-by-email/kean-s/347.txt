@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+vetted		1
+out		1
+want		1
+unless		1
+going		1
+thoroughly	1
+don		1

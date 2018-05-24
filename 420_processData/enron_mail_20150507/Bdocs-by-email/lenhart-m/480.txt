@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+email		1
+try		1
+know		1
+pederliefkjeseth	1
+soon		1
+way		1
+touch		1
+booked		1
+hotmail		1
+address		1
+flight		1
+haven		1
+com		1

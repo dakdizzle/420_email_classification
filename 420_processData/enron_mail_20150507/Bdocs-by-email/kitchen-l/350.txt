@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+buyer		1
+stuff		1
+really		1
+onerous		1
+try		1
+thankslouise	1
+thursday	1
+tomorrow	1
+tuesday		1
+new		1
+through		1
+next		1

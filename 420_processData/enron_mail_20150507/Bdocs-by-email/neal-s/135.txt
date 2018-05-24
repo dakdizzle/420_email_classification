@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+pm		1
+time		1
+well		1
+wednesday	1
+work		1

@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+presto		2
+kevin		2
+cn		2
+janel		1
+kpresto		1
+now		1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+work		1
+ou		1
+pstwho		1

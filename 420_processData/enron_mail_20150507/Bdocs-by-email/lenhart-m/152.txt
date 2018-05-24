@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+next		2
+time		1
+know		1
+grasshopper	1
+weekend		1
+night		1
+line		1
+don		1
+wait		1
+think		1
+waste		1

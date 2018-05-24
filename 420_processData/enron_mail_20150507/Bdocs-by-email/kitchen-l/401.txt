@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+sofine		1
+believe		1

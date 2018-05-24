@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+ds		1
+care		1
+thing		1
+fran		1
+report		1
+today		1
+same		1
+take		1
+ll		1
+running		1
+thanks		1

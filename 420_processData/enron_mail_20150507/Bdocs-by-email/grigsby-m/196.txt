@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+list		1
+shim		1
+mike		1
+elizabeth	1
+remember	1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+vince		1
+liz		1
+tomorrow	1
+today		1
+one		1
+set		1
+take		1
+thanks		1

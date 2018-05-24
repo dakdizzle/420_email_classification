@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+home		2
+cell		2
+front		1
+golden		1
+ily		1
+today		1
+tee		1
+min		1
+hold		1
+m		1
+porch		1
+heading		1
+before		1
+going		1
+game		1
+haven		1
+hi		1
+ll		1
+over		1

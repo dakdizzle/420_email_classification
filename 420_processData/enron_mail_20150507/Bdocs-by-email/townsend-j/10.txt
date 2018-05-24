@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+yahoo		1
+townsendjtownse	1
+judy		1
+com		1

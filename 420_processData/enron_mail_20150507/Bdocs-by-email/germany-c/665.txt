@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+much		1
+make		1
+cash		1
+prices		1
+up		1
+course		1
+wednesday	1
+friday		1
+reliant		1
+better		1
+ve		1
+prepayment	1
+bumped		1
+tomorrow	1
+amout		1
+jumped		1
+idea		1
+need		1
+week		1
+over		1

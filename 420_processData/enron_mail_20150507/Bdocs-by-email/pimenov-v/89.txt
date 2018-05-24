@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+great		1
+shouldn		1
+catch		1
+definetely	1
+alejandra	1
+book		1

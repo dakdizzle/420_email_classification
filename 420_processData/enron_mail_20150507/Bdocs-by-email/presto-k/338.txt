@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+retain		1
+profile		1
+custom		1

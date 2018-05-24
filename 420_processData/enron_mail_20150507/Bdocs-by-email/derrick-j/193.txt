@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+referred	1
+others		1
+information	1
+thank		1
+legal		1
+claims		1
+attending	1
+meet		1
+jim		1
+regarding	1
+message		1
+insure		1
+below		1
+necessary	1
+counsel		1
+appropriate	1
+richard		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+email		1
+look		1
+monica		1
+questions	1
+materials	1
+meet		1
+dutch		1
+over		1
+afternoon	1

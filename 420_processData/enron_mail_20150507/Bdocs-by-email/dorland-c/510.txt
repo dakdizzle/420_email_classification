@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+thanxchris	1
+user		1
+need		1
+don		1

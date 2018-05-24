@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+miss		1
+good		1
+pudding		1
+best		1
+part		1
+bread		1
+lunch		1
+love		1
+wish		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+home		1
+message		1
+leave		1
+eventselizabeth	1
+sager		1
+aos		1
+ll		1

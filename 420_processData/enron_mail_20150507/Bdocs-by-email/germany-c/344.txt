@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+day		2
+m		1
+friday		1
+tomorrow	1
+count		1
+mean		1
+even		1
+half		1
+don		1

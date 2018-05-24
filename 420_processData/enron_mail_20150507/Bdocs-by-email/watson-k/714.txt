@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+kim		1
+each		1
+files		1
+steve		1
+fyi		1
+jan		1
+copies		1
+print		1

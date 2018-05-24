@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+win		1
+experts		1
+thing		1
+plan		1
+hopefully	1
+guess		1
+sounds		1
+long		1
+good		1
+follow		1
+run		1
+best		1
+advice		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+hope		1
+well		1
+baby		1
+dina		1
+chris		1
+doing		1

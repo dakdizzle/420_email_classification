@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+email		1
+misdirected	1
+another		1

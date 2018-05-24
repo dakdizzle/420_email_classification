@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+wade		4
+eric		2
+called		2
+send		1
+worksheet	1
+working		1
+gas		1
+asked		1
+someone		1
+actually	1
+lots		1
+producers	1
+something	1
+contracts	1
+talking		1
+contract	1
+putting		1
+still		1
+wanting		1
+cancel		1

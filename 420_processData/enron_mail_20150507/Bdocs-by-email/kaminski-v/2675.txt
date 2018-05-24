@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+appreciate	1
+lot		1
+thanks		1
+andria		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+authorized	1
+yes		1
+thanks		1

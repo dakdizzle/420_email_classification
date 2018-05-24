@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+up		2
+ed		1
+tallahassee	1
+email		1
+send		1
+know		1
+letter		1
+sent		1
+followed	1
+follow		1
+please		1
+going		1
+need		1
+asking		1

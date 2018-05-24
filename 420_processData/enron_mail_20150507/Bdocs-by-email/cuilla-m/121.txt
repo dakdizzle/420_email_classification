@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+full		1
+word		1
+waterhouse	1
+owe		1
+enron		1
+deposit		1
+days		1
+em		1
+today		1
+work		1
+bonus		1
+going		1

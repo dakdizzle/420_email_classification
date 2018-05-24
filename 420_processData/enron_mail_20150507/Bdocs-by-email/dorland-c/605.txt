@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+user		1
+know		1
+name		1
+chris		1
+system		1
+password	1
+don		1
+dorland		1

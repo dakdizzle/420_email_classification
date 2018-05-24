@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+group		1
+posted		1
+vince		1
+class		1
+rice		1
+position	1
+david		1
+university	1
+smartperson	1
+student		1
+very		1
+took		1

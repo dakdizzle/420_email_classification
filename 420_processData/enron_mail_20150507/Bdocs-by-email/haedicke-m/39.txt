@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+discuss		1
+quarter		1
+mark		1
+together	1
+end		1
+thanks		1

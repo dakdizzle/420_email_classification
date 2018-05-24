@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+m		1
+leaving		1
+cell		1
+right		1
+office		1
+now		1
+phone		1
+chance		1
+call		1

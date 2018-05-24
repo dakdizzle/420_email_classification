@@ -1,0 +1,26 @@
+NumWords	31
+NumTerms	23
+
+cn		4
+recipients	2
+na		2
+rhaysle		2
+enron		2
+ou		2
+gmtsubject	1
+pstcan		1
+unless		1
+attachment	1
+inline		1
+hayslett	1
+tuesday		1
+filename	1
+privileged	1
+done		1
+non		1
+follows		1
+rod		1
+before		1
+kcampos		1
+november	1
+date		1

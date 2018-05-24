@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+two		1
+steve		1
+desk		1
+one		1
+want		1
+flat		1
+screens		1
+audrey		1

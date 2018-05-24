@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+under		1
+binder		1
+chuck		1
+force		1
+policies	1
+review		1
+refer		1
+still		1

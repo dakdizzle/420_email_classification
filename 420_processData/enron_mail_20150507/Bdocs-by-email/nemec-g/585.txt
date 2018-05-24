@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+floor		1
+hard		1
+quiet		1
+though		1
+hit		1
+pretty		1
+still		1
+area		1
+here		1

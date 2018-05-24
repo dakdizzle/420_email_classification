@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+done		1
+hr		1
+thompson	1
+knight		1
+llpas		1
+accountant	1
+snell		1
+dick		1
+small		1

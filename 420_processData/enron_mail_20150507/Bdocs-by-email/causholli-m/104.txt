@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+little		1
+thing		1
+cutest		1

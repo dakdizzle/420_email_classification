@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+time		2
+enjoyed		1
+place		1
+fourth		1
+weather		1
+outside		1
+third		1
+each		1
+great		1
+sally		1
+dining		1
+ibeza		1
+works		1

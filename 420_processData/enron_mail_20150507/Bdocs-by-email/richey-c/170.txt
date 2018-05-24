@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+vc		1
+meeting		1
+moved		1
+work		1

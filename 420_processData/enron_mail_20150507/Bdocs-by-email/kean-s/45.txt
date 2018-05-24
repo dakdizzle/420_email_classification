@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+sponsorship	1
+interest	1
+inquiry		1
+thanks		1

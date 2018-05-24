@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+live		1
+hey		1

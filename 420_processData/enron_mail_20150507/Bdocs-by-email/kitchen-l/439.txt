@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+marla		1
+seems		1
+contact		1

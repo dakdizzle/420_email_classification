@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+story		1
+privately	1
+greg		1
+credit		1
+bobinchuck	1
+agape		1
+guess		1
+interest	1
+fund		1
+flexibility	1
+investors	1
+philip		1
+enhancement	1
+being		1
+bonds		1
+timing		1
+placed		1
+nonprofit	1
+here		1

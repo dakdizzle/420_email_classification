@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ene		1
+trades		1
+liquidated	1
+glad		1
+sure		1
+bet		1

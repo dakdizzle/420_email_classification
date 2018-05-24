@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+chicks		1
+legs		1
+trip		1
+remember	1
+tips		1
+plus		1
+look		1
+great		1
+skip		1
+guaranteed	1
+contract	1
+dancing		1
+over		1

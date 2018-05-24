@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+hetrick		1
+put		1
+simply		1
+place		1
+holder		1
+nancy		1
+maybe		1
+thanks		1

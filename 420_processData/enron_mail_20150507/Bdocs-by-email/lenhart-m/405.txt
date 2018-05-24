@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+stuff		1
+thing		1
+sober		1
+wouldn		1
+apologized	1
+weren		1
+rude		1
+venting		1
+started		1
+frustration	1
+one		1
+communicate	1
+die		1

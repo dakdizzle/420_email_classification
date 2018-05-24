@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+lost		1
+tamu		1

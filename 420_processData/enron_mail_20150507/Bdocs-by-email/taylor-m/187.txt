@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+mark		2
+pm		2
+taylor		2
+mcgovernw	1
+embedded	1
+front		1
+keep		1
+ect		1
+mcgovern	1
+graduation	1
+william		1
+sec		1
+out		1
+gov		1
+hou		1
+forwarded	1
+photos		1
+lens		1
+fingers		1
+enron		1
+stdolelink	1
+more		1
+subject		1
+learn		1

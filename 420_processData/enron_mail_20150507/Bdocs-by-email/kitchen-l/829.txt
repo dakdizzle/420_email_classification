@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+wherever	1
+full		1
+others		1
+those		1
+possible	1
+guys		1
+horizontals	1
+ll		1

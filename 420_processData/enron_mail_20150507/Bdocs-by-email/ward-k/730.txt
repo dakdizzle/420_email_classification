@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+day		2
+facility	1
+per		1
+well		1
+attached	1
+total		1
+thanks		1
+mmbtu		1
+mara		1
+kim		1
+each		1
+down		1
+volumes		1
+break		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+tana		1
+certif		1
+deb		1

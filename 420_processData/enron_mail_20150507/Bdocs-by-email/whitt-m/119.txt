@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+good		1
+ones		1
+start		1

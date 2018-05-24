@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+know		1
+deals		1
+far		1
+kamx		1
+found		1
+netback		1
+canadian	1
+need		1
+deal		1
+still		1
+don		1
+ruth		1
+here		1

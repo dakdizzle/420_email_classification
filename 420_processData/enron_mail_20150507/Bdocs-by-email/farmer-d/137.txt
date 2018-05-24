@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+meter		2
+originally	1
+ow		1
+added		1
+d		1
+deal		1

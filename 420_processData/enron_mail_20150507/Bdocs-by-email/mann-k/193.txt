@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+cn		2
+email		1
+guts		1
+letter		1
+recipients	1
+wynn		1
+gsa		1
+na		1
+contains	1
+awynn		1
+believe		1
+enron		1
+document	1
+ou		1
+below		1
+tasking		1
+adriana		1

@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+hanging		2
+blackberry	2
+thanks		2
+much		1
+net		1
+wireless	1
+handheld	1
+www		1
+environment	1
+such		1
+never		1
+offer		1
+uncertain	1
+courage		1
+seen		1
+sent		1
+message		1
+everyone	1
+strength	1
+hang		1

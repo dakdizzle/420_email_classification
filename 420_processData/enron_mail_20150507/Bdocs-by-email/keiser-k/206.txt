@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+files		1
+know		1
+west		1
+keep		1
+desk		1
+daily		1
+whoever		1
+netco		1
+file		1
+saving		1
+instead		1
+estate		1
+tell		1
+use		1
+need		1
+away		1
+don		1
+new		1

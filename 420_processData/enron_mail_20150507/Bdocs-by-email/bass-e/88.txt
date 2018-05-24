@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+term		2
+definately	2
+weekend		2
+think		2
+fun		1
+wall		1
+wedding		1
+short		1
+orleans		1
+street		1
+far		1
+see		1
+negative	1
+long		1
+nice		1
+good		1
+teens		1
+enron		1
+confidence	1
+buy		1
+away		1
+sentiment	1
+managament	1
+new		1

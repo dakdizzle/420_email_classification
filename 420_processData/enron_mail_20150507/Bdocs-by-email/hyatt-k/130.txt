@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+power		1
+gave		1
+plant		1
+file		1
+luck		1
+locating	1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+stacey		1
+correspondence	1
+wanted		1
+see		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+john		1
+know		1
+baby		1
+dina		1
+chris		1
+sure		1
+doing		1

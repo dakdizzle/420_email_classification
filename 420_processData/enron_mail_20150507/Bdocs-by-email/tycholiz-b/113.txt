@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ourselves	1
+right		1
+hard		1
+guys		1
+one		1
+trying		1
+defend		1
+thought		1
+bt		1

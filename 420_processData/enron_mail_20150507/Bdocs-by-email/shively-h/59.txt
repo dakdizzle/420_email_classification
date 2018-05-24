@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+group		1
+send		1
+please		1
+rain		1

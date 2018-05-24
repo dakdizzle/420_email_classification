@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+cn		3
+rob		2
+bea		1
+recipients	1
+na		1
+milnthorp	1
+actually	1
+enron		1
+notesaddr	1
+signed		1
+ou		1
+e		1
+cf		1
+bbb		1
+deal		1

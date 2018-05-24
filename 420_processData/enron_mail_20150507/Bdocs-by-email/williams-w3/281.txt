@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+david		1
+bill		1
+kate		1
+crawler		1
+removed		1
+help		1
+schedule	1
+thanks		1

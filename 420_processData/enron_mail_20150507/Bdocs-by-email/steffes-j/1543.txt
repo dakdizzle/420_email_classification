@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+care		1
+collapse	1
+thing		1
+drive		1
+truly		1
+paul		1
+time		1
+looking		1
+know		1
+worked		1
+unhappy		1
+take		1
+jim		1
+life		1
+survived	1
+enron		1
+grandkids	1
+best		1
+forward		1
+isn		1
+don		1
+telling		1
+ll		1
+worry		1

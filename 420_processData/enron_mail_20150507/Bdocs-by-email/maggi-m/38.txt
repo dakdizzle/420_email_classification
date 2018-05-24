@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+trouble		1
+careful		1
+drinks		1
+think		1
+better		1

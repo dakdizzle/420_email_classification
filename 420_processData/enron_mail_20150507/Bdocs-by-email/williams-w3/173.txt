@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+much		1
+updated		1
+paul		1
+know		1
+friday		1
+steve		1
+sorry		1
+thanks		1
+sent		1
+version		1
+exactly		1
+bill		1
+questions	1
+start		1
+discussed	1
+agreement	1
+pretty		1
+didn		1
+here		1

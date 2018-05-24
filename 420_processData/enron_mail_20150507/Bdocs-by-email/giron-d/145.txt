@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+cart		1
+rpm		1
+html		1
+http		1
+go		1
+www		1
+espn		1
+com		1

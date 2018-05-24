@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+wincenty	2
+kaminski	2
+wt		1
+placethe	1
+snowbird	1
+woodlandstx	1

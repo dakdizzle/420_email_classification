@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+know		1
+variance	1
+phillip		1
+application	1
+bob		1
+help		1

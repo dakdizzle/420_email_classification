@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+day		1
+wouldn		1
+folks		1
+more		1
+file		1
+having		1
+cost		1
+ps		1
+firm		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+western		1
+topic		1
+bring		1
+gas		1
+overhead	1
+handouts	1
+natural		1
+slides		1
+market		1

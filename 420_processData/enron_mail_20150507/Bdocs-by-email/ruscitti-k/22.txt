@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+go		2
+become		1
+lame		1
+muchsince	1
+talk		1
+ones		1
+parties		1
+talked		1
+single		1
+ve		1
+soon		1
+life		1
+decent		1
+ice		1
+trader		1
+heardthere	1
+kr		1
+one		1
+night		1
+duke		1
+last		1
+big		1
+haven		1
+didn		1

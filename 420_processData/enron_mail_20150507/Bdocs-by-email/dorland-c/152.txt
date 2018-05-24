@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+calgary		1
+back		1
+going		1
+th		1
+bad		1

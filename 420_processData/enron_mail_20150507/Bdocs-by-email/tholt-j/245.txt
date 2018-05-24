@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+bits		1
+watched		1
+pieces		1

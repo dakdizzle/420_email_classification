@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+discuss		1
+kim		1
+prices		1
+gas		1
+volumes		1
+spreadsheet	1
+attached	1
+daily		1
+actual		1
+thanks		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+mcginn		1
+jeff		1
+steve		1
+relaint		1
+coral		1
+whitnah		1

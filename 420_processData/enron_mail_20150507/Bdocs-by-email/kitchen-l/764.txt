@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+full		1
+specifics	1
+meeting		1
+organizing	1
+power		1
+written		1
+gas		1
+examples	1
+pleae		1
+thanks		1
+list		1
+co		1
+need		1
+ordinate	1

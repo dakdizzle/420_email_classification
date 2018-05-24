@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+bullets		1
+handling	1
+friday		1
+thank		1
+today		1
+see		1
+afternoon	1
+kim		1
+lorraine	1
+team		1
+start		1
+ll		1
+here		1

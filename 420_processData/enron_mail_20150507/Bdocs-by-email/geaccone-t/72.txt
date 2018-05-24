@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+tgeacco		2
+cn		2
+budget		1
+egas		1
+review		1
+recipients	1
+geaccone	1
+filename	1
+na		1
+pststan		1
+privileged	1
+tracy		1
+non		1
+enron		1
+ou		1
+last		1
+week		1
+capital		1
+think		1

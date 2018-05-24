@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+scott		3
+susan		2
+thank		1
+comx		1
+gas		1
+intended	1
+filename	1
+privileged	1
+m		1
+message		1
+psti		1
+non		1
+sscott		1
+believe		1
+enron		1
+origin		1
+sx		1
+trading		1
+nat		1

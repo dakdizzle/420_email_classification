@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+until		1
+wait		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+email		1
+send		1
+ok		1
+horrible	1
+capitalization	1
+actually	1
+skills		1
+apologies	1
+click		1
+message		1
+realized	1
+before		1
+last		1
+checking	1
+next		1

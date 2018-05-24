@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+send		1
+free		1
+feel		1
+houston		1
+jose		1
+joann		1
+hill		1
+thanks		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+grant		1
+john		1
+zufferli	1
+eol		1
+access		1
+chris		1
+requested	1
+trading		1
+dorland		1

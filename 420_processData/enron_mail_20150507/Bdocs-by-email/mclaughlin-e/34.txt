@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+nite		1
+day		1
+wore		1
+asleep		1
+working		1
+thank		1
+cake		1
+sorry		1
+fell		1
+call		1
+out		1
+good		1
+em		1
+decadent	1
+last		1
+didn		1

@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+meeting		2
+little		1
+discuss		1
+monday		1
+vs		1
+further		1
+prep		1
+financing	1
+stan		1
+danny		1
+call		1
+mlp		1
+kim		1
+look		1
+office		1
+back		1
+project		1
+happy		1
+yes		1
+year		1
+chance		1
+new		1

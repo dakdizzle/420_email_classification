@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+home		2
+morning		2
+make		1
+up		1
+wanted		1
+hadn		1
+out		1
+come		1
+feel		1
+dirt		1
+go		1
+heading		1
+woke		1
+c		1
+sure		1
+sue		1
+trading		1
+okay		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+put		1
+kh		1
+down		1
+work		1
+ll		1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+out		2
+care		1
+dc		1
+fun		1
+heard		1
+backyard	1
+patio		1
+drink		1
+talking		1
+go		1
+sat		1
+porch		1
+before		1
+going		1
+hang		1
+don		1
+think		1
+boone		1

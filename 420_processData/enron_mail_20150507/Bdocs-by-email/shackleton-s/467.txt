@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+meeting		1
+know		1
+perspective	1
+sara		1
+today		1
+fyi		1
+far		1
+review		1
+financial	1
+charge		1
+ll		1

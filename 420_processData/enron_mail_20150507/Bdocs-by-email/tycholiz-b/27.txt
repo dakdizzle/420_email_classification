@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+heard		1
+meeting		1
+co		1
+time		1
+changes		1
+swith		1
+hadn		1
+bt		1
+thanks		1
+confirm		1

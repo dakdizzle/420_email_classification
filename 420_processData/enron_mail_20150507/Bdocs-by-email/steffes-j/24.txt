@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+alan		2
+jim		1
+paul		1
+shelk		1
+john		1
+want		1
+below		1
+e		1
+mail		1
+coordinate	1
+see		1

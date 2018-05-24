@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+addition	1
+others		1
+changes		1
+fine		1
+help		1
+thanks		1

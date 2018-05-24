@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+mtaylo		2
+cn		2
+pstthis		1
+first		1
+mark		1
+ok		1
+legal		1
+recipients	1
+filename	1
+na		1
+looks		1
+privileged	1
+non		1
+enron		1
+objections	1
+run		1
+ou		1
+thought		1
+taylor		1

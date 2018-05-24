@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+tour		1
+included	1
+list		1
+time		1
+alternative	1
+yes		1
+susan		1
+pat		1
+love		1

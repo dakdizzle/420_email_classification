@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+plan		1
+support		1
+m		1
+turn		1
+florio		1
+jeff		1
+best		1
+mflorio		1
+assuming	1
+org		1
+mike		1

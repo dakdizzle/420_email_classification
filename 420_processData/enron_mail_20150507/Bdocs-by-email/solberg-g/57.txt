@@ -1,0 +1,16 @@
+NumWords	19
+NumTerms	13
+
+mw		3
+cut		3
+ciso		2
+epmi		2
+ernie		1
+ends		1
+following	1
+total		1
+schedule	1
+both		1
+wheel		1
+toby		1
+realtime	1

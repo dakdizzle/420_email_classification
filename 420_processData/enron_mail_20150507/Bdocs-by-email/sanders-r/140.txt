@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+out		1
+joel		1
+find		1
+call		1

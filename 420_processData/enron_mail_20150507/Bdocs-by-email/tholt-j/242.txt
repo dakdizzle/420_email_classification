@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+phone		2
+number		2
+longenbaugh	2
+picasso		1
+salon		1
+working		1
+corner		1
+strip		1
+vi		1
+eatery		1
+spotz		1
+call		1
+market		1
+food		1
+m		1
+hwy		1
+center		1

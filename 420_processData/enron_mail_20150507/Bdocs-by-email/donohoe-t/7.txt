@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+possibility	1
+services	1
+counterparty	1
+field		1
+duke		1
+checking	1

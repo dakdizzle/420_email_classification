@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+interior	1
+stock		1
+black		1
+one		1
+color		1
+chris		1

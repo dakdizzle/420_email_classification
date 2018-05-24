@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+meeting		1
+bryan		1
+please		1
+arrange		1
+give		1
+call		1

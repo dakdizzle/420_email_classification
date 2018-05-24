@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+going		3
+buzz		1
+directly	1
+jojo		1
+hotel		1
+yo		1
+later		1
+home		1
+stay		1
+m		1
+around		1
+dinner		1
+work		1
+sure		1
+pretty		1
+give		1
+think		1
+tonight		1

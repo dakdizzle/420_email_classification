@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+thing		1
+make		1
+flights		1
+leaving		1
+friday		1
+runnningit	1
+fao		1
+dq		1
+check		1
+tomorrow	1
+sure		1
+still		1
+tonight		1
+think		1

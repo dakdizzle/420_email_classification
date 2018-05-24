@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+taking		1
+po		1
+sry		1
+atm		1
+know		1
+mean		1
+trying		1
+insurancei	1
+usthe		1
+moneyso		1
+call		1
+out		1
+thatdq		1
+felt		1
+c		1
+accuse		1
+movers		1

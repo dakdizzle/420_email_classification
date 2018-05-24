@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+james		2
+president	1
+eb		1
+representative	1
+affairsenron	1
+steffesvice	1
+thank		1
+members		1
+government	1
+tom		1
+pjm		1
+steffes		1
+advised		1
+enron		1
+please		1
+rick		1
+replace		1
+hoatson		1
+chouston	1
+tx		1
+smith		1
+corp		1
+committee	1

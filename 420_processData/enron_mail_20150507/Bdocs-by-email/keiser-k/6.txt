@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+deal		2
+taking		1
+finalize	1
+procedures	1
+current		1
+entry		1
+keith		1
+look		1
+holst		1
+run		1
+thankskam	1
+changes		1
+tomorrow	1
+before		1
+ticket		1
+making		1
+ll		1

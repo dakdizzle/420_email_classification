@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+aol		1
+hey		1
+paul		1
+near		1
+phone		1
+curves		1
+computer	1
+call		1
+go		1
+need		1
+log		1
+don		1
+over		1

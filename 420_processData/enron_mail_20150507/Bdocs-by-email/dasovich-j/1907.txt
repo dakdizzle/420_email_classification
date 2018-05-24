@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+pstmy		1
+try		1
+understanding	1
+comx		1
+jshankm		1
+filename	1
+privileged	1
+jx		1
+non		1
+enron		1
+origin		1
+jalamo		1
+attend		1
+shankman	1
+ll		1

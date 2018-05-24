@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+guaranty	1
+transactions	1
+issued		1
+enron		1
+time		1
+connection	1
+financial	1
+sorry		1
+corp		1
+help		1

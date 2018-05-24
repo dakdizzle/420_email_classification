@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+king		1
+usual		1
+outstanding	1

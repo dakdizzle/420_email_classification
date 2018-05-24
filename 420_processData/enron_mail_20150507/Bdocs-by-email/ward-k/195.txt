@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+fun		1
+angie		1
+few		1
+glad		1
+busy		1
+harriet		1
+greenwood	1
+see		1
+out		1
+go		1
+weekend		1
+minutes		1
+more		1
+everyone	1
+hang		1
+very		1

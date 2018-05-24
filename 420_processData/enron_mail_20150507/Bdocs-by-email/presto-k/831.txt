@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+cons		1
+descriptions	1
+send		1
+matrix		1
+copy		1
+function	1
+another		1
+pros		1
+thanks		1

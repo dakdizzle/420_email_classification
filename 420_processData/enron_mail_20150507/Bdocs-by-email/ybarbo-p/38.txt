@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+gus		3
+settlement	2
+keller		1
+paul		1
+debbie		1
+calculations	1
+handling	1
+invoices	1
+amounts		1
+copies		1
+mission		1
+tried		1
+luna		1
+kept		1
+transactions	1
+enron		1
+jaime		1
+edison		1
+actual		1

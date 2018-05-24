@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+group		1
+directortranswestern	1
+michelle	1
+commercial	1
+lokayaccount	1

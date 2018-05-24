@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+revised		1
+please		1
+attached	1
+draft		1
+review		1
+stephanie	1
+comments	1
+based		1

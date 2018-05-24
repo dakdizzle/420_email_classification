@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+exceptions	1
+day		1
+vacation	1
+thanks		1

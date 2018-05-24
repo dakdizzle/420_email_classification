@@ -1,0 +1,25 @@
+NumWords	35
+NumTerms	22
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+plove		1
+patrick		1
+brettlawler	1
+winfree		1
+phillip		1
+ryder		1
+owinfre		1
+neal		1
+brett		1
+lawler		1
+enjoy		1
+pryder		1
+thought		1
+mail		1
+hotmail		1
+love		1
+com		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+delete		1
+message		1
+david		1
+please		1
+previous	1
+oxley		1
+meant		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+order		1
+up		1
+july		1
+nd		1
+including	1
+total		1

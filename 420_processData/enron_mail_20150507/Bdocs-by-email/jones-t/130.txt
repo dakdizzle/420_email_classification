@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+tjones		2
+power		2
+trade		2
+cn		2
+pstthis		1
+jones		1
+ability		1
+counterparty	1
+recipients	1
+tana		1
+wanted		1
+filename	1
+na		1
+east		1
+privileged	1
+list		1
+non		1
+wre		1
+enron		1
+update		1
+ou		1
+checking	1

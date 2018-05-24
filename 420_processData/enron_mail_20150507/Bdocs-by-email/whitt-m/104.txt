@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+funny		1
+heard		1
+find		1
+thought		1
+form		1
+awhile		1
+haven		1

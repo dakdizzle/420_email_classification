@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+cal		1
+day		1
+arnold		1
+ng		1
+bought		1
+nymex		1
+afternoon	1
+mmbtu		1

@@ -1,0 +1,23 @@
+NumWords	27
+NumTerms	20
+
+cn		4
+recipients	2
+na		2
+enron		2
+ou		2
+vicki		1
+belden		1
+susan		1
+shapiro		1
+smara		1
+call		1
+mara		1
+jeff		1
+best		1
+rick		1
+rshapiro	1
+janet		1
+need		1
+add		1
+richard		1

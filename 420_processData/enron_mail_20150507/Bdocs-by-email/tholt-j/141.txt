@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+regarding	1
+issues		1
+glow		1
+bolch		1
+talk		1
+bill		1
+sometimes	1
+discounts	1

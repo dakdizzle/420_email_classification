@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+below		1
+indicated	1
+comments	1
+ted		1

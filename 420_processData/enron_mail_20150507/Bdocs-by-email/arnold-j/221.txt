@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+versus		1
+expectations	1
+subscription	1
+going		1
+rate		1
+eol		1

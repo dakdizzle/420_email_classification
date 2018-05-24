@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+stuff		1
+people		1
+pl		1
+hanging		1
+touch		1
+crazy		1
+go		1
+keep		1
+houston		1
+still		1
+unbelievable	1
+here		1

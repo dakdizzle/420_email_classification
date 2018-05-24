@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+one		1
+asked		1
+times		1
+couple		1
+better		1

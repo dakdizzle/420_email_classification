@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+amitava		1
+vince		1
+conratulations	1

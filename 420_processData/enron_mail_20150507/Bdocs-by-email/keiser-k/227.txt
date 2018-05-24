@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+thankskk	1
+open		1
+erv		1
+stats		1
+saved		1
+called		1
+dropbox		1
+file		1
+see		1

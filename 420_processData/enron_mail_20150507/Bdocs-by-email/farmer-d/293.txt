@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+validation	1
+handle		1
+know		1
+changes		1
+going		1
+deal		1
+don		1
+think		1

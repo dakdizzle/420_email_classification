@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+benwhat		1
+bid		1
+units		1
+john		1
+risk		1
+show		1
+price		1
+charge		1
+capital		1
+take		1

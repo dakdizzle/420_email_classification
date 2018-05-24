@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+fax		2
+cou		2
+paul		1
+copy		1
+hard		1
+came		1
+draft		1
+left		1
+form		1
+dan		1
+regarding	1
+rajesh		1
+regards		1
+message		1
+believe		1
+availability	1
+rogers		1
+tomorrow	1
+still		1
+olng		1

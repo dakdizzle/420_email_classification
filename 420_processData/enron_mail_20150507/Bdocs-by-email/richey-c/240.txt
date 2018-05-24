@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+spark		2
+validate	1
+stuff		1
+ca		1
+power		1
+surveillance	1
+looking		1
+www		1
+market		1
+spread		1
+alberta		1
+powerpool	1
+pool		1
+tlook		1
+method		1
+still		1
+spreads		1
+ab		1
+didn		1
+summary		1

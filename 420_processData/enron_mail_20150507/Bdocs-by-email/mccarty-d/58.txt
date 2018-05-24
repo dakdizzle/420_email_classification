@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+associate	1
+check		1
+returning	1
+yes		1
+janet		1
+billy		1
+trip		1
+don		1
+coordinating	1
+think		1
+dan		1
+ll		1

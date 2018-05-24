@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+zisman		1
+stuart		1
+question	1
+answer		1

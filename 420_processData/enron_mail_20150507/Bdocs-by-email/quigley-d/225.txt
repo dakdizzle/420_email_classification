@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+position	2
+offer		2
+curve		2
+monday		1
+mar		1
+centsand	1
+john		1
+adjustment	1
+know		1
+depending	1
+number		1
+market		1
+confirm		1
+opinion		1
+fits		1
+thatall		1
+cents		1
+intohis		1
+change		1
+settled		1
+apr		1
+over		1

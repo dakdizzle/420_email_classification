@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+something	1
+hey		1
+know		1
+available	1
+johnny		1
+night		1
+need		1
+though		1
+chris		1
+saturday	1
+think		1

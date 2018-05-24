@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+copy		1
+signed		1
+know		1
+marie		1
+original	1
+agreement	1
+carol		1
+thanks		1

@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+mmcvick		1
+maureen		1
+enron		1
+please		1
+recipients	1
+ou		1
+mcvicker	1
+na		1
+schedule	1

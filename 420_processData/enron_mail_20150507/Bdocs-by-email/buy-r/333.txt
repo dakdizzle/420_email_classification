@@ -1,0 +1,22 @@
+NumWords	38
+NumTerms	19
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+bradford	1
+mharris		1
+hachen		1
+fyi		1
+william		1
+rick		1
+gorny		1
+harris		1
+james		1
+wbradfo		1
+vgorny		1
+molly		1
+jhachen		1
+vladimir	1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+greg		1
+scott		1
+working		1
+covered		1
+whalley		1
+rest		1
+reports		1
+tholan		1

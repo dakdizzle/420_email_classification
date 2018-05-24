@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+man		1
+pipe		1
+working		1
+nosir		1
+freaky		1

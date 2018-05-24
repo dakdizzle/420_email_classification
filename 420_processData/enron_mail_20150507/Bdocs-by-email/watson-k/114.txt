@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+case		1
+paul		1
+translations	1
+bigger		1
+below		1
+need		1
+see		1
+thanks		1

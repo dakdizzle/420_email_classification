@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+game		2
+norman		1
+day		1
+ok		1
+watch		1
+sure		1
+espn		1
+saturday	1
+college		1

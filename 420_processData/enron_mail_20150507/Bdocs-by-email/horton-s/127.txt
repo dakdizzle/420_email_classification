@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+colder		1
+day		1
+somewhat	1
+weather		1
+busy		1
+dad		1
+yes		1
+turned		1
+tonight		1
+love		1
+call		1

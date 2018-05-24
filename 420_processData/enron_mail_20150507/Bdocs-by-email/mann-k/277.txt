@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+something	1
+gives		1
+good		1
+productive	1

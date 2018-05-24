@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+ene		2
+booooooooooooooooooooooooooooooo	1
+job		1
+up		1
+true		1
+bankruptzy	1
+pg		1
+find		1
+declares	1
+rumor		1
+down		1
+two		1
+another		1
+goes		1
+within		1
+months		1
+dick		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+mark		1
+kim		1
+friday		1
+michelle	1
+asked		1
+lance		1
+taylor		1
+thoughts	1
+here		1

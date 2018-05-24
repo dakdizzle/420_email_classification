@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+reading		1
+busy		1
+keep		1
+pleasure	1
+awhile		1

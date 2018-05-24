@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+pm		1
+reply		1
+dayfletch	1
+disregard	1
+meet		1
+previous	1

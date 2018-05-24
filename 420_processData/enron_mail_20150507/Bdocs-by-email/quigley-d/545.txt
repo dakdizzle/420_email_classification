@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+thinking	1
+great		1
+right		1

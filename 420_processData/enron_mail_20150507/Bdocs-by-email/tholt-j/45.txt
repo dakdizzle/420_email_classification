@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+good		1
+job		1
+up		1
+thank		1
+youare		1
+keeping		1
+doing		1
+date		1

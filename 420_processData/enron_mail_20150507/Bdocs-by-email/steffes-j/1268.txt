@@ -1,0 +1,26 @@
+NumWords	48
+NumTerms	23
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+discuss		1
+llawner		1
+leslie		1
+lrobert		1
+nicolay		1
+christi		1
+shapiro		1
+afternoon	1
+jim		1
+linda		1
+cnicola		1
+snovose		1
+novosel		1
+sarah		1
+rshapiro	1
+robertson	1
+lawner		1
+richard		1

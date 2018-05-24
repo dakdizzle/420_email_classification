@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+picture		1
+send		1
+hey		1
+easter		1
+again		1

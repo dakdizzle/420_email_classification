@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+monday		1
+vince		1
+misfitif	1
+complete	1
+talk		1
+shall		1
+organizations	1
+rejected	1
+chances		1
+shirley		1

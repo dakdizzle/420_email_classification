@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+ds		1
+scranda		1
+enron		1
+sean		1
+reading		1
+recipients	1
+ou		1
+crandall	1
+na		1

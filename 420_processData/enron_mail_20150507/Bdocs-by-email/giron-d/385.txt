@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+enron		3
+fascetti	1
+crowell		1
+comscott	1
+comlee		1
+phillip		1
+com		1
+love		1

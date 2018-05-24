@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+time		2
+paul		1
+audrey		1
+normal		1
+thanks		1

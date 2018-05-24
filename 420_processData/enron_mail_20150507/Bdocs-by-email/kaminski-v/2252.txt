@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+vince		1
+end		1
+california	1
+shall		1
+eric		1
+week		1

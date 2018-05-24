@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+rib		1
+tickler		1
+now		1
+gee		1

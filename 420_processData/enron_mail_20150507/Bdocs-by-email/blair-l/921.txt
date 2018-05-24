@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+long		1
+really		1
+position	1
+short		1

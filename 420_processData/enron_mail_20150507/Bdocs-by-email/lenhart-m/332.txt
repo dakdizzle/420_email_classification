@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+honeys		1
+something	1
+lz		1
+try		1
+back		1
+go		1
+drinks		1
+meet		1
+later		1
+laid		1
+call		1

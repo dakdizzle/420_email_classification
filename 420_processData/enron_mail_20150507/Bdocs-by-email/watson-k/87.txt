@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+impacts		1
+fyi		1
+sure		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+way		1
+assume		1
+know		1
+tell		1
+assuming	1
+unless		1
+going		1
+hoping		1
+otherwise	1
+standards	1
+ll		1

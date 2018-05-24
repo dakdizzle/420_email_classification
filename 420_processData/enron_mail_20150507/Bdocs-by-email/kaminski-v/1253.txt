@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+plz		1
+article		1
+regarding	1
+vince		1
+copyof		1
+crenshaw	1
+contact		1
+shirley		1
+chris		1

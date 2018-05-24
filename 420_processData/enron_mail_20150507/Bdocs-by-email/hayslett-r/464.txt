@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+pstfyi		1
+non		1
+enron		1
+comx		1
+origin		1
+rx		1
+hayslett	1
+mccarty		1
+filename	1
+danny		1
+privileged	1
+rhaysle		1

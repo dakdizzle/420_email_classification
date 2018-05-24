@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+monday		1
+talk		1
+lrts		1

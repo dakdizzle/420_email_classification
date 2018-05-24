@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+america		3
+north		2
+between		1
+power		1
+final		1
+plant		1
+reached		1
+filename	1
+lavorato	1
+jlavora		1
+approval	1
+south		1
+waiting		1
+johnx		1
+agreement	1
+turbine		1
+psthas		1

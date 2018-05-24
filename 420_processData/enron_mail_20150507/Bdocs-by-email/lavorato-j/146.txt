@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+phil		1
+jack		1
+buff		1
+den		1
+bets		1
+indi		1
+football	1
+cinnci		1
+clev		1
+dall		1
+det		1
+eachminn	1

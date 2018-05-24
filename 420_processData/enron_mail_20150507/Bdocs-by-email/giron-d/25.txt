@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+vnews		1
+http		1
+fff		1
+display		1
+www		1
+art		1
+dailytexanonline	1
+com		1

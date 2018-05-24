@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+much		1
+prayers		1
+concerns	1
+appreciated	1

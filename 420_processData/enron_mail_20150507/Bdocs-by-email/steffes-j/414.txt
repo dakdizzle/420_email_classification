@@ -1,0 +1,12 @@
+NumWords	12
+NumTerms	9
+
+cn		2
+hartfield	2
+rita		2
+jim		1
+enron		1
+fyi		1
+recipients	1
+ou		1
+na		1

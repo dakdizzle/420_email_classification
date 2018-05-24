@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+taking		1
+space		1
+heard		1
+struggle	1
+western		1
+contemplating	1
+anybody		1
+frontier	1
+think		1
+mm		1

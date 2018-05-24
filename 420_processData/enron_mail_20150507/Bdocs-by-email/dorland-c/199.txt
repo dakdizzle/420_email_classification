@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+pm		1
+earl		1
+th		1
+original	1
+ave		1

@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+sell		3
+calls		2
+gains		2
+naked		2
+between		1
+looking		1
+counted		1
+expire		1
+jan		1
+cap		1
+tenor		1
+approved	1
+worthless	1
+soon		1
+somewhere	1
+check		1
+lt		1
+one		1
+more		1
+year		1
+expiring	1
+jul		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+drafts		1
+attached	1
+sunday		1

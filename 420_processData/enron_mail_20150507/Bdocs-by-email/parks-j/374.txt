@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+picture		1
+watkins		1
+sharron		1
+paint		1
+going		1
+watch		1
+hows		1
+pretty		1

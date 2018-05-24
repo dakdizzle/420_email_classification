@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+kim		2
+cn		2
+guys		1
+kmelodi		1
+recipients	1
+na		1
+thanks		1
+message		1
+fist		1
+enron		1
+please		1
+missed		1
+disregard	1
+ou		1
+melodick	1
+don		1
+couple		1

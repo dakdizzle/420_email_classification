@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+plove		1
+pl		1
+comx		1
+guys		1
+daily		1
+file		1
+chris		1
+filename	1
+call		1
+privileged	1
+instead		1
+pstfyi		1
+non		1
+enron		1
+gossett		1
+roll		1
+px		1
+origin		1
+abel		1
+regions		1
+sure		1
+controls	1
+based		1
+love		1

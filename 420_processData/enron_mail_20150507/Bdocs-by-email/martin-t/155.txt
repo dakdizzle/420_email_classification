@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+sister		1
+looking		1
+thank		1
+daddy		1
+better		1
+thanks		1
+soon		1
+hope		1
+feeling		1
+update		1
+start		1
+allison		1
+matthew		1

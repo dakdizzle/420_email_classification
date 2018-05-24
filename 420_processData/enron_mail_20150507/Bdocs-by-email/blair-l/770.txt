@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lynn		1
+anything	1
+owe		1
+know		1
+changes		1
+williams	1
+nng		1
+tuesday		1
+wired		1
+processed	1
+transco		1
+thanks		1

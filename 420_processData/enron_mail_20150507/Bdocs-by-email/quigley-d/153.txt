@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+beaver		1
+many		1
+iron		1
+keep		1
+fairways	1
+use		1

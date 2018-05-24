@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+williams	1
+spin		1
+recipients	1
+filename	1
+na		1
+enron		1
+respectively	1
+bill		1
+iii		1
+ou		1
+exercised	1
+bwillia		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+tetco		1
+right		1
+change		1
+need		1
+sorry		1
+ticket		1

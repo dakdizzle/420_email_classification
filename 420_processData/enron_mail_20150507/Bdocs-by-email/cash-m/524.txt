@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+email		1
+office		1
+please		1
+know		1
+go		1
+now		1
+night		1
+michelle	1
+last		1
+pat		1
+thanks		1
+through		1

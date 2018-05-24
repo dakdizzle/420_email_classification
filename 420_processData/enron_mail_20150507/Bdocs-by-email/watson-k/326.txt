@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+morning		1
+ve		1
+meeting		1
+office		1
+later		1
+alone		1
+take		1
+afternoon	1

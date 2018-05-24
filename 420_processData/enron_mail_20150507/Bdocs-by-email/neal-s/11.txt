@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+meeting		1
+scott		1
+talk		1
+know		1
+jared		1
+craig		1
+tuesday		1
+fyiopen		1
+room		1
+discussion	1
+logistics	1
+business	1
+including	1
+everybody	1
+ll		1
+frank		1

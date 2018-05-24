@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+book		2
+mar		1
+put		1
+hedge		1
+please		1
+above		1
+nov		1
+sold		1
+thanks		1

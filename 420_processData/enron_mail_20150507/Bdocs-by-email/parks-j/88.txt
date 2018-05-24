@@ -1,0 +1,13 @@
+NumWords	13
+NumTerms	10
+
+cn		2
+joe		2
+parks		2
+enron		1
+pstin		1
+jparks		1
+recipients	1
+ou		1
+filename	1
+na		1

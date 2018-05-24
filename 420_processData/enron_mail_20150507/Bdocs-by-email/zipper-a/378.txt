@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+hubley		1
+michael		1

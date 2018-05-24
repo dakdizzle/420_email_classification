@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+group		1
+lavo		1
+power		1
+run		1
+question	1
+directed	1

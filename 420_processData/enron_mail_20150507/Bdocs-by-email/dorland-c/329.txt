@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+non		1
+stall		1
+indoor		1
+ernst		1
+reserved	1
+young		1
+thanx		1
+chris		1

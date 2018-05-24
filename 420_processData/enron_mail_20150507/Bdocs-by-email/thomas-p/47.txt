@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+soon		1
+callled		1
+yeah		1
+loveme		1
+eta		1
+ordered		1
+call		1

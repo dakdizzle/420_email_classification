@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+folks		1
+getting		1
+thanks		1
+launching	1
+m		1
+contracts	1
+message		1
+jeff		1
+best		1
+mass		1
+goucester	1
+week		1
+here		1

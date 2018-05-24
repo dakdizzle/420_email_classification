@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+necessary	2
+group		1
+attendance	1
+finance		1
+tracy		1
+people		1
+accounting	1
+discussions	1
+limit		1
+stan		1
+one		1
+trying		1

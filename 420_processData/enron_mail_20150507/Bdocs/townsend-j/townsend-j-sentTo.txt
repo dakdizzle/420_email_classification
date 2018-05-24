@@ -1,0 +1,12 @@
+NumWords	16
+NumTerms	9
+
+jtownse@yahoo.com	7
+julie.pechersky@enron.com	2
+jtownse@yaoo.com	1
+shannaboudreaux@hotmail.com	1
+scharnberger-armin@t-online.de	1
+h..fletcher@enron.com	1
+sean.riordan@enron.com	1
+lamoss@duke-energy.com	1
+kimberly.bates@enron.com	1

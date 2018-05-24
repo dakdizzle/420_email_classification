@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+canajoharie	1
+joann		1
+th		1
+nov		1
+still		1
+volume		1

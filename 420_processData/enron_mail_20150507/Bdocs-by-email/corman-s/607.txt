@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+office		1
+being		1
+swamped		1
+still		1

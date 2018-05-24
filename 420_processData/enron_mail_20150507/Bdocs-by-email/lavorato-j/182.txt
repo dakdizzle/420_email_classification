@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+lavo		1
+azipper		1
+covered		1
+zipper		1
+recipients	1
+forster		1
+na		1
+andy		1
+enron		1
+noi		1
+ou		1
+think		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ahs		1
+list		1
+received	1
+sally		1
+mail		1
+form		1
+still		1

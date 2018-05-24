@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ds		1
+meeting		1
+m		1
+another		1
+already		1
+sorry		1
+committed	1

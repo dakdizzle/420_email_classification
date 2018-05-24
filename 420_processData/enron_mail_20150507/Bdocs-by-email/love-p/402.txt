@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+pl		1
+want		1
+desk		1
+stop		1

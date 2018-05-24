@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+vince		2
+few		1
+go		1
+late		1
+mins		1
+kaminski	1

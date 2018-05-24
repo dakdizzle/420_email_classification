@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+case		1
+theresa		1
+questions	1
+again		1
+receive		1
+thanks		1
+call		1
+didn		1
+here		1

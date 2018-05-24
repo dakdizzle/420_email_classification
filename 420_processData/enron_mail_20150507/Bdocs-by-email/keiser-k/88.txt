@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+morning		1
+around		1
+m		1
+meeting		1
+clear		1
+tomorrow	1
+kk		1

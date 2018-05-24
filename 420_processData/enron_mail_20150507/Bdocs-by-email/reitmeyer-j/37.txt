@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+message		1
+test		1
+hi		1
+here		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+america		1
+marcus		1
+somewhere	1
+killing		1
+go		1
+want		1
+weekend		1
+far		1
+south		1
+still		1
+thoughts	1
+next		1

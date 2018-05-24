@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+letter		2
+back		2
+little		1
+up		1
+john		1
+response	1
+management	1
+ripped		1
+confused	1
+joke		1
+sent		1
+m		1
+resignation	1
+received	1
+committee	1
+confuses	1

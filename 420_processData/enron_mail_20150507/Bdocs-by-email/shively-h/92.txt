@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+column		2
+position	1
+please		1
+trader		1
+change		1
+daily		1
+total		1
+thankshunter	1
+next		1
+add		1

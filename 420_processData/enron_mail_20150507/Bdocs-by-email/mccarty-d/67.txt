@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+well		2
+indication	1
+socal		1
+steve		1
+came		1
+dan		1
+slam		1
+out		1
+drew		1
+rates		1
+probably	1
+negotiated	1
+dunk		1
+dispute		1

@@ -1,0 +1,24 @@
+NumWords	46
+NumTerms	21
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+cames		1
+aring		1
+chuck		1
+fyi		1
+ames		1
+sandra		1
+jtownse		1
+andrea		1
+jmckay		1
+judy		1
+brawner		1
+sbrawne		1
+jonathan	1
+townsend	1
+ring		1
+mckay		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+andy		1
+done		1
+check		1
+recommend	1
+back		1
+happy		1
+houston		1
+year		1
+probably	1
+someone		1
+new		1
+mine		1

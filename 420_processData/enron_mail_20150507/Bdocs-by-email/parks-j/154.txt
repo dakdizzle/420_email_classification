@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+little		1
+specifics	1
+up		1
+heads		1
+funds		1
+today		1
+later		1
+wire		1
+phil		1
+come		1
+another		1
+need		1
+receive		1

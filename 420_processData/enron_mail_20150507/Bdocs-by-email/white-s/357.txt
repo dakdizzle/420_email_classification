@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+joke		1
+everything	1
+l		1
+many		1
+k		1
+stacey		1
+today		1
+publish		1
+going		1
+times		1

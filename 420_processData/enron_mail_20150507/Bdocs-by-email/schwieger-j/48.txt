@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+one		1
+thought		1
+mails		1
+yesterday	1

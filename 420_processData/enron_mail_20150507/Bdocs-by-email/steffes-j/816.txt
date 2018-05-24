@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+entire		1
+ability		1
+midwest		1
+model		1
+change		1
+need		1
+independent	1

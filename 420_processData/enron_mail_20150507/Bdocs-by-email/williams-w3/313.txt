@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+remove		1
+list		1
+please		1
+bill		1
+iii		1
+williams	1
+pool		1
+anyone		1
+management	1
+involved	1
+jessica		1
+thanks		1

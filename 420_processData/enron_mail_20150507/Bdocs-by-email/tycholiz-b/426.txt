@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+tic		1
+player		1
+battery		1
+portable	1
+store		1
+night		1
+panasonic	1
+hour		1
+dvd		1
+sweeeeeeet	1
+sony		1
+electronics	1

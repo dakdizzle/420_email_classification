@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+meeting		1
+seems		1
+well		1
+serious		1
+today		1
+houston		1
+out		1
+something	1
+hope		1
+seriously	1
+sick		1
+more		1
+went		1
+notes		1
+sue		1
+caught		1
+note		1

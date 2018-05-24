@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+kaminski	3
+vince		2
+cn		2
+aol		1
+working		1
+recipients	1
+filename	1
+na		1
+vkamins		1
+stay		1
+pstsoma		1
+vkaminski	1
+vincent		1
+enron		1
+touch		1
+coordinates	1
+pleasure	1
+ou		1
+comvince	1
+here		1

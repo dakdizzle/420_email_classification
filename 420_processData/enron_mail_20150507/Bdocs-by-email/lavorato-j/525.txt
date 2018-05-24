@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+both		1
+non		1
+evergreen	1
+ok		1
+please		1
+sign		1
+month		1
+compete		1
+robert		1

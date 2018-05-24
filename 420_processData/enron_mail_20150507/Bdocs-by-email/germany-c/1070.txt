@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+tetco		2
+john		1
+ect		1
+nymex		1
+chris		1
+hou		1
+plus		1
+around		1
+enron		1
+delivered	1
+cents		1
+ectcc		1
+buy		1
+germany		1
+subject		1
+dominion	1
+singer		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+wrong		1
+card		1
+nothing		1
+bought		1
+number		1

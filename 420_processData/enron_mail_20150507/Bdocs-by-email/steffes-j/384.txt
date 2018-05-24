@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+handed		1
+right		1
+clubs		1
+yes		1
+need		1
+doing		1
+thanks		1
+ll		1

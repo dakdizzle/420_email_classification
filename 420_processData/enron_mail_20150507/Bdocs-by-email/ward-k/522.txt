@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+finder		1
+expert		1

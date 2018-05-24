@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+stuff		1
+something	1
+storage		1
+fooling		1
+unless		1
+doing		1
+ees		1
+tco		1
+aware		1

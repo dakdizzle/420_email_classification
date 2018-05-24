@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+tax		2
+info		1
+gov		1
+ind		1
+irs		1
+html		1
+http		1
+www		1
+sched		1
+prod		1
+tables		1

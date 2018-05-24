@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+years		1
+offhand		1
+seriously	1
+know		1
+externally	1
+looked		1
+sorry		1
+names		1
+don		1
+haven		1

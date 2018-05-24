@@ -1,0 +1,14 @@
+NumWords	15
+NumTerms	11
+
+cal		3
+roll		2
+trading		2
+anything	1
+know		1
+book		1
+shift		1
+settled		1
+need		1
+curve		1
+big		1

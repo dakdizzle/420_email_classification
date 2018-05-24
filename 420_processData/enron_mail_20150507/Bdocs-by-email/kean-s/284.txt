@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+skean		2
+cn		2
+pstthis		1
+organization	1
+recipients	1
+kean		1
+steven		1
+filename	1
+na		1
+privileged	1
+jim		1
+something	1
+look		1
+great		1
+non		1
+enron		1
+rick		1
+ou		1
+rest		1
+elizabeth	1

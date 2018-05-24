@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+state		1
+scary		1
+industry	1
+shows		1
+pretty		1
+doesn		1

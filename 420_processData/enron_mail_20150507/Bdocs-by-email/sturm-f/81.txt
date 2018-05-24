@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+soon		1
+thomas		1
+thereafter	1
+rika		1
+today		1
+fletch		1
+arrange		1
+meet		1
+sometime	1
+thanks		1

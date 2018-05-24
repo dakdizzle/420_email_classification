@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kim		1
+time		1
+during		1
+office		1
+count		1
+audrey		1
+period		1
+thanks		1

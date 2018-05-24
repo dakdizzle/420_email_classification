@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+cn		3
+met		1
+intend		1
+plan		1
+fc		1
+know		1
+aren		1
+recipients	1
+arem		1
+file		1
+na		1
+jim		1
+diann		1
+enron		1
+notesaddr	1
+huddleson	1
+work		1
+ou		1
+c		1
+needs		1

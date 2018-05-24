@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ok		1
+office		1
+enron		1
+lets		1
+review		1
+sf		1

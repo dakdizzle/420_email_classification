@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+morning		1
+resigned	1
+advised		1
+lavo		1
+under		1
+job		1
+maggi		1
+contract	1
+competitor	1
+need		1
+mike		1
+take		1

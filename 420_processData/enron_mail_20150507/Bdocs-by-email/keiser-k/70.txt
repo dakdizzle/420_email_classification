@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+taking		1
+monday		1
+thomas		1
+wednesday	1
+kam		1
+ready		1
+mornings	1
+bob		1
+task		1
+underwood	1
+run		1
+estate		1
+dpr		1
+over		1

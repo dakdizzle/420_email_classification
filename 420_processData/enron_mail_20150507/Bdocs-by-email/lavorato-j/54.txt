@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+day		1
+wonder		1
+john		1
+payment		1
+overtime	1
+special		1
+both		1
+kim		1
+pay		1
+work		1
+hours		1
+kay		1
+give		1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+early		1
+information	1
+spoken		1
+gas		1
+person		1
+phone		1
+detailed	1
+julia		1
+see		1
+morning		1
+forwarded	1
+jeff		1
+logistics	1
+numbers		1
+reach		1
+need		1
+data		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+please		1
+statuses	1
+update		1
+thank		1
+change		1
+advise		1

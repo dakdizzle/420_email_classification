@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hosting		1
+banks		1
+eol		1
+product		1
+fx		1

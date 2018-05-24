@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+stacy		2
+mark		1
+time		1
+know		1
+spend		1
+isda		1
+thanks		1
+issues		1
+scarey		1
+resources	1
+carey		1
+willing		1
+org		1
+critical	1
+committee	1
+think		1

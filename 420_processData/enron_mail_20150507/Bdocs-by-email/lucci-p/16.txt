@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+per		1
+parties		1
+hour		1
+th		1
+halloween	1
+seat		1
+limo		1
+renting		1
+liquor		1
+night		1
+saturday	1
+inclusive	1
+oct		1

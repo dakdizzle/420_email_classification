@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+something	1
+up		1
+tonight		1
+milagro		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+portland	1
+reed		1
+council		1
+city		1
+ex		1
+see		1
+college		1
+hubris		1

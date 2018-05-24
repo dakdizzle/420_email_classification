@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+dont		1
+expiry		1
+scalp		1
+interest	1
+yea		1
+fundamentally	1
+lot		1
+crude		1
+long		1
+morn		1
+being		1
+whole		1
+buy		1
+overdone	1
+maybe		1
+before		1
+hours		1
+couple		1
+oct		1
+boone		1

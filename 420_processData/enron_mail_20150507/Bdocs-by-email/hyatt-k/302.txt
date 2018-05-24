@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+pm		1
+eb		1
+western		1
+join		1
+pipe		1
+comx		1
+filename	1
+thurs		1
+projected	1
+goodpasture	1
+pstplease	1
+thankskh	1
+privileged	1
+capacity	1
+khyatt		1
+kx		1
+non		1
+office		1
+enron		1
+update		1
+origin		1
+old		1
+dickerson	1
+hyatt		1

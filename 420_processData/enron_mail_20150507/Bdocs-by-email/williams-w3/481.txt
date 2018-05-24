@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+st		2
+board		1
+annuity		1
+heather		1
+bill		1
+whourly		1
+cali		1
+spoke		1
+chris		1
+help		1
+thanks		1

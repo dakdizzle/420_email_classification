@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+meeting		3
+kim		1
+join		1
+staff		1
+progress	1
+steve		1
+conflicts	1
+thanks		1

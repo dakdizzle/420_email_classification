@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+dynegy		1
+manipulate	1
+prices		1
+daily		1
+louise		1
+index		1
+volumes		1
+contribute	1
+canadian	1
+yes		1
+already		1
+concerned	1
+doing		1

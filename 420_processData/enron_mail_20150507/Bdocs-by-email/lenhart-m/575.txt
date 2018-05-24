@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+something	1
+leaving		1
+haircut		1
+need		1
+min		1
+think		1
+here		1

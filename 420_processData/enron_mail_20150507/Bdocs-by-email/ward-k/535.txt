@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+pasadena	2
+acting		1
+know		1
+authorized	1
+continue	1
+longer		1
+schedule	1
+marketer	1
+thanks		1
+kim		1
+please		1
+questions	1
+smurfit		1
+reminder	1
+agent		1
+patti		1

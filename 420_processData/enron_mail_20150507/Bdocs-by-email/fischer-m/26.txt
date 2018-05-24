@@ -1,0 +1,27 @@
+NumWords	30
+NumTerms	24
+
+llc		4
+mfischer	2
+cn		2
+sap		2
+roadrunner	1
+checked		1
+harrier		1
+recipients	1
+september	1
+filename	1
+na		1
+total		1
+pronghorn	1
+privileged	1
+losses		1
+psti		1
+non		1
+enron		1
+fischer		1
+mary		1
+ou		1
+booked		1
+reports		1
+grizzly		1

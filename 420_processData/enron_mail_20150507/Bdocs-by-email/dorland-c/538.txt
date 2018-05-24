@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+plan		1
+thursday	1
+night		1
+chris		1
+johnwhat	1

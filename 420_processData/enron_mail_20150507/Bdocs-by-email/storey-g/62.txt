@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+curveview	1
+sun		1
+erms		1
+bridge		1
+run		1
+ect		1
+portcalc	1
+pc		1
+oracle		1

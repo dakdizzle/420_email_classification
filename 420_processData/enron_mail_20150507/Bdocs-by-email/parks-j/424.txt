@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+morning		1
+short		1
+lower		1
+qqq		1

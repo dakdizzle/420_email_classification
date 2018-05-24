@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+vince		1
+discussion	1
+start		1
+september	1
+till		1
+wait		1
+help		1
+jacek		1
+presentation	1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+es		1
+quot		1
+written		1
+save		1
+copies		1
+happen		1

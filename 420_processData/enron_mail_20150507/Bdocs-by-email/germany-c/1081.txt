@@ -1,0 +1,17 @@
+NumWords	26
+NumTerms	14
+
+st		5
+new		5
+york		4
+chris		2
+up		1
+deals		1
+following	1
+filename	1
+psti		1
+ragley		1
+germany		1
+set		1
+tu		1
+germanyx	1

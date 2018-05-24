@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+interesting	1
+find		1
+colleen		1
+very		1
+think		1

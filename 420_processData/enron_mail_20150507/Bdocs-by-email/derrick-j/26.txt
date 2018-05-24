@@ -1,0 +1,22 @@
+NumWords	25
+NumTerms	19
+
+june		3
+derrick		2
+cn		2
+jr		2
+james		2
+event		1
+conflicts	1
+jderric		1
+recipients	1
+filename	1
+na		1
+reminded	1
+jim		1
+seem		1
+pstsheila	1
+enron		1
+work		1
+ou		1
+stephanie	1

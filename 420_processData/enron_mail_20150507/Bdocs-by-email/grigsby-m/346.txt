@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+discuss		1
+together	1
+west		1
+tomorrow	1
+mike		1

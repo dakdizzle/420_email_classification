@@ -1,0 +1,7 @@
+NumWords	6
+NumTerms	4
+
+campbell	2
+larry		2
+m		1
+looking		1

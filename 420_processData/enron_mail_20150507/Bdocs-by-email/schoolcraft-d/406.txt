@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ds		1
+posting		1
+web		1
+attachment	1
+tw		1
+site		1
+think		1

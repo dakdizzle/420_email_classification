@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+meeting		2
+discuss		1
+issues		1
+moved		1
+tommorow	1
+before		1

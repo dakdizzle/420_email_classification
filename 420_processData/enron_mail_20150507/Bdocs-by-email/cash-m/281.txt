@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+nice		1
+kerry		1
+absolutely	1
+plans		1
+unless		1

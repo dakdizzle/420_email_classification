@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+rotations	1
+short		1
+gas		1
+desk		1
+fyi		1
+see		1
+required	1
+opening		1
+texas		1
+opportunity	1
+circuit		1
+give		1
+ll		1

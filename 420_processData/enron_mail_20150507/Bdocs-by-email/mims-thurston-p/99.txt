@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+latest		1
+purchase	1
+ticket		1
+date		1

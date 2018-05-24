@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+make		1
+meetings	1
+please		1
+need		1
+calender	1
+attend		1
+sure		1
+thanks		1

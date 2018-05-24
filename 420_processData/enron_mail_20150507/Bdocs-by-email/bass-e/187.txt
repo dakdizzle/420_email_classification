@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+doubt		1
+show		1

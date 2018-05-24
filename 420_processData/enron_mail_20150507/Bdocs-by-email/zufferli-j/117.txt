@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+read		2
+others		1
+write		1
+disturnal	1
+john		1

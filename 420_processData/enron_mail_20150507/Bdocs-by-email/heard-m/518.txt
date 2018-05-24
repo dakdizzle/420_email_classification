@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+guaranty	2
+original	2
+counterparty	1
+cindy		1
+marie		1
+processed	1
+thanks		1
+master		1
+ve		1
+enron		1
+received	1
+deliver		1
+signed		1
+need		1
+corp		1
+agreement	1

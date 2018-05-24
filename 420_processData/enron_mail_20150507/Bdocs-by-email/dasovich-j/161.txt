@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+appreciado	1
+pm		1
+time		1
+jeff		1
+best		1
+mucho		1
+reschedule	1

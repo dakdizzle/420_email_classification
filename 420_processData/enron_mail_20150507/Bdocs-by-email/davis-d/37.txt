@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+day		2
+today		2
+mrs		2
+class		1
+kobernick	1
+grade		1
+wk		1
+paper		1
+see		1
+thanks		1
+morning		1
+good		1
+davis		1
+turn		1
+missed		1
+hm		1
+keeping		1
+candis		1
+checking	1
+informed	1

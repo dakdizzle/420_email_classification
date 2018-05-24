@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+option		1
+much		1
+analyst		1
+desk		1
+appreciate	1
+promotions	1
+take		1
+out		1
+look		1
+done		1
+possible	1
+program		1
+best		1
+want		1
+within		1
+mike		1
+very		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+hear		1
+sent		1
+ok		1
+wireless	1
+until		1
+dead		1
+presume		1
+handheld	1
+blackberry	1
+otherwise	1
+ll		1
+thanks		1

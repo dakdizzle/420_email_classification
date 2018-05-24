@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+going		2
+m		1
+time		1
+happening	1
+tomorrow	1
+go		1
+saturday	1
+shower		1
+think		1
+tonight		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+broker		1
+fletch		1
+sorry		1
+legally		1

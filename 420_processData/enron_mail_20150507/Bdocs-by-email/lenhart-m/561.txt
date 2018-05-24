@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+parents		1
+make		1
+weekend		1
+town		1

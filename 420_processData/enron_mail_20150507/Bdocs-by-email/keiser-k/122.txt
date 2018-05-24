@@ -1,0 +1,14 @@
+NumWords	15
+NumTerms	11
+
+physical	2
+financial	2
+jan		2
+total		2
+thankskamx	1
+detail		1
+values		1
+carl		1
+need		1
+requested	1
+here		1

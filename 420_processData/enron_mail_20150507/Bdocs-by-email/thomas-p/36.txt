@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+pjm		2
+data		2
+xls		1
+pricing		1
+under		1
+power		1
+know		1
+analyst		1
+located		1
+tab		1
+raw		1
+questions	1
+pjmupdate	1
+pt		1

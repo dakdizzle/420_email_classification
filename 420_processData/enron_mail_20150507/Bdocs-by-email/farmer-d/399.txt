@@ -1,0 +1,16 @@
+NumWords	22
+NumTerms	13
+
+id		4
+pw		4
+pops		2
+mops		2
+dfarmerunify	2
+dfarmersitara	1
+dfarmersytem	1
+system		1
+sitaraunify	1
+daren		1
+cole		1
+jakesitara	1
+jungleunify	1

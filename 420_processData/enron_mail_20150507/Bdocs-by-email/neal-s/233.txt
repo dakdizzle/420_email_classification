@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+sneal		2
+cn		2
+meeting		1
+scott		1
+recipients	1
+sandra		1
+pstandy		1
+filename	1
+na		1
+neal		1
+privileged	1
+brawner		1
+non		1
+enron		1
+ou		1
+need		1
+ring		1

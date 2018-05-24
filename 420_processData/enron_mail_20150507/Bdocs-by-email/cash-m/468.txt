@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+pam		1
+under		1
+owe		1
+whether		1
+inquiry		1
+guess		1
+castleman	1
+employment	1
+contract	1
+payments	1
+michelle	1
+line		1
+probably	1
+separate	1
+week		1

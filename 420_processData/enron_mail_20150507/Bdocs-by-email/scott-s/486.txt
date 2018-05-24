@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+put		1
+good		1
+hope		1
+feeling		1
+go		1
+today		1
+mail		1
+outgoing	1
+better		1

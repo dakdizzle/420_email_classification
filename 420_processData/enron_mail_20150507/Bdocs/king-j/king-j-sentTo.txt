@@ -1,0 +1,12 @@
+NumWords	13
+NumTerms	9
+
+doug.gilbert-smith@enron.com	3
+dbartley@o2wireless.com	2
+kihyonp@gfigroup.com	2
+larry.jester@enron.com	1
+t.king3@prodigy.net	1
+julie.davidson@enron.com	1
+jae.black@enron.com	1
+jking100@aol.com	1
+don.baughman@enron.com	1

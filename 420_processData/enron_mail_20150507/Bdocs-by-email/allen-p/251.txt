@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+columbus	1
+hear		1
+meeting		1
+pauline		1
+attorney	1
+phillip		1
+schedule	1
+call		1
+done		1
+jeff		1
+sign		1
+documents	1
+waiting		1

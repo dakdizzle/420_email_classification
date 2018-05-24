@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+puc		1
+collateral	1
+need		1
+tx		1
+post		1

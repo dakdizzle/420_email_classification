@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+chris		2
+cn		2
+germany		2
+monday		1
+pstthanks	1
+make		1
+buddies		1
+cgerman		1
+recipients	1
+buddettes	1
+filename	1
+na		1
+forget		1
+treats		1
+remember	1
+scheduler	1
+yall		1
+enron		1
+bring		1
+again		1
+ou		1
+love		1

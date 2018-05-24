@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+email		1
+gnemec		1
+send		1
+updates		1
+please		1
+houston		1
+future		1
+com		1
+rr		1

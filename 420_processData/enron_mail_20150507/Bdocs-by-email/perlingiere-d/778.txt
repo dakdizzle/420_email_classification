@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+hear		1
+well		1
+crazy		1
+short		1
+men		1
+out		1
+stay		1
+long		1
+good		1
+come		1
+back		1
+weekend		1
+doing		1
+don		1
+news		1

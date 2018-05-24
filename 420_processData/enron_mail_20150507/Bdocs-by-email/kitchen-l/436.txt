@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+timetable	1
+officerenron	1
+fax		1
+americastel	1
+operating	1
+louise		1
+draft		1
+enrononline	1
+kitchenchief	1
+relaunch	1

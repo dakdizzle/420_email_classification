@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+second		1
+mike		1
+sorry		1

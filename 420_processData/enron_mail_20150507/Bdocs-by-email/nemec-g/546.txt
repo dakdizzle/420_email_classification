@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+facts		1
+filled		1
+needs		1

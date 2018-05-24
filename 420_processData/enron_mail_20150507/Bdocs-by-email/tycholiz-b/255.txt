@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+asap		1
+respond		1
+testing		1
+pls		1
+system		1
+bt		1
+note		1

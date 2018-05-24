@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+think		2
+nice		1
+done		1
+good		1
+scott		1
+job		1
+sounds		1
+daniel		1

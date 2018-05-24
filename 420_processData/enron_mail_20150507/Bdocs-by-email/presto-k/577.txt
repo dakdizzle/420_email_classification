@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ed		1
+info		1
+group		1
+rfp		1
+forward		1
+provides	1
+orig		1
+baughman	1
+zero		1
+aware		1

@@ -1,0 +1,21 @@
+NumWords	37
+NumTerms	18
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+lynn		1
+tkowalk		1
+terry		1
+fyi		1
+blair		1
+lblair		1
+dietz		1
+rdietz		1
+rick		1
+kowalke		1
+rhanagr		1
+hanagriff	1
+richard		1

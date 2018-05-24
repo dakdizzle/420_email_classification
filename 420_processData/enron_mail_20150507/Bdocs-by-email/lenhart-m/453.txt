@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+those		2
+out		2
+energy		1
+taking		1
+ran		1
+grab		1
+time		1
+passed		1
+sorry		1
+ate		1
+pizza		1
+edge		1
+shot		1
+put		1
+good		1
+girls		1
+knew		1
+went		1
+quick		1
+over		1
+wolly		1

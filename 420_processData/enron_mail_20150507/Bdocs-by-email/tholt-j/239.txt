@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+job		1
+finished	1
+pooring		1
+offers		1
+resume		1

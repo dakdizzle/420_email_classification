@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+know		2
+id		1
+see		1
+lavorato	1
+whose		1
+check		1
+use		1
+shankman	1
+still		1
+don		1
+sometime	1
+trading		1
+mine		1

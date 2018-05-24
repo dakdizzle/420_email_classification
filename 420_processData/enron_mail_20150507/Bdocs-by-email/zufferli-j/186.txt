@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+tyler		1
+forms		1
+people		1
+pep		1
+john		1
+hourly		1
+closed		1
+go		1
+murray		1
+mike		1
+tried		1
+still		1

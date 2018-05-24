@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+things		1
+austin		1
+china		1
+amazing		1
+out		1
+fortunately	1
+two		1
+house		1
+sustained	1
+flooding	1
+spent		1
+occurred	1
+sights		1
+weeks		1
+pretty		1
+pat		1
+damage		1
+country		1
+hi		1

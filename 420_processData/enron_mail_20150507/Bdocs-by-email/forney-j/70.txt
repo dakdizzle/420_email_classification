@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+being		1
+id		1
+inception	1
+member		1
+yes		1
+fourknees	1
+month		1
+billed		1
+jmf		1
+help		1
+thanks		1

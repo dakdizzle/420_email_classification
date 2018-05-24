@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+login		1
+russ		1
+duke		1
+swhitepword	1

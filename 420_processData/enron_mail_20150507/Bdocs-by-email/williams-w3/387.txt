@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+morning		1
+point		1
+available	1
+now		1
+including	1

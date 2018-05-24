@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+stay		1
+l		1
+dpr		1
+line		1
+going		1
+staceyassuming	1
+item		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+stone		1
+heart		1
+sweet		1
+real		1

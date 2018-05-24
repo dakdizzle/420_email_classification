@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+ds		1
+updated		1
+keep		1

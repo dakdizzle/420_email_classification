@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+somebody	1
+send		1
+look		1
+topic		1
+below		1

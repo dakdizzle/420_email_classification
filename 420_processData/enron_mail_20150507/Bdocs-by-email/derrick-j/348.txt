@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+les		1
+thanks		1
+jim		1
+good		1
+hope		1
+message		1
+enron		1
+best		1
+congratulations	1
+fishing		1
+niagaramohawk	1
+lobaughl	1
+rest		1
+com		1

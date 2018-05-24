@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+accepted	1
+gently		1

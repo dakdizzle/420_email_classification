@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+sheryli		1
+pedicure	1
+unfortunatelyelizabeth	1
+available	1
+sager		1
+problem		1
+lunch		1
+still		1
+hi		1
+love		1

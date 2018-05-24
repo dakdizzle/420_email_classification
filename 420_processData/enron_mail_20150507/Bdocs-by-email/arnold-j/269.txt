@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+around		2
+stuff		1
+talk		1
+today		1
+stop		1

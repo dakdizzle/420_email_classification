@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+send		1
+go		1
+ahead		1
+fine		1
+thanks		1

@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+video		2
+camera		1
+tape		1
+actual		1
+small		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lynn		1
+party		1
+look		1
+time		1
+john		1
+recall		1
+one		1
+another		1
+necessary	1
+request		1
+thanks		1
+accomodate	1

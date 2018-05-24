@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+lisag		1
+ernet		1
+kis		1

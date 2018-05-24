@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+sherlocks	1
+happy		1
+mc		1
+going		1
+hour		1
+tonight		1

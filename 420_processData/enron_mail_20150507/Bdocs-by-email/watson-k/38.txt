@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+knows		1
+kim		1
+rodger		1
+sent		1
+message		1
+steve		1
+know		1
+unfortunately	1
+see		1
+thanks		1

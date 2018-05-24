@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+forwarded	1
+vince		1
+up		1
+greetings	1
+presly		1
+recruiter	1
+itto		1
+corporate	1
+picked		1
+london		1
+here		1
+resume		1

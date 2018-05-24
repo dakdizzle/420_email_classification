@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+up		1
+cant		1
+today		1
+once		1
+happen		1
+expect		1

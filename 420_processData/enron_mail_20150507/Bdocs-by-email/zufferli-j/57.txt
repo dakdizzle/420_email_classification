@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+put		1
+internet	1
+directory	1
+details		1
+togethor	1
+addresses	1

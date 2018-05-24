@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+group		1
+presto		1
+ina		1
+make		1
+cleared		1
+rangel		1
+everything	1
+fred		1
+row		1
+power		1
+john		1
+ect		1
+groupjohn	1
+hou		1
+room		1
+pmto		1
+arnold		1
+yesina		1
+ectcc		1
+one		1
+subject		1
+having		1
+move		1
+over		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+kidder		1
+such		1

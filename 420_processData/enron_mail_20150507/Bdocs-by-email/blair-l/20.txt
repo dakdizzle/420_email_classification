@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lynn		1
+borrow		1
+know		1
+hopefully	1
+late		1
+copies		1
+theirs		1
+alma		1
+thanks		1

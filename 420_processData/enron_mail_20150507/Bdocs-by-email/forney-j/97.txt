@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+ercot		1
+fill		1
+portal		1
+up		1
+certificate	1
+need		1
+form		1
+isaac		1
+set		1
+jmf		1
+needs		1

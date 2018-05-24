@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+differential	1
+scott		1
+net		1
+pay		1
+sheila		1
+effect		1
+deal		1
+offsetting	1
+vineyard	1
+mmbtu		1

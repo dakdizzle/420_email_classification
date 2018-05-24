@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+everything	1
+ithought	1
+cook		1
+sue		1

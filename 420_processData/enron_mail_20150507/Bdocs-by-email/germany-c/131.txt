@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+bethany		1
+methodist	1
+united		1

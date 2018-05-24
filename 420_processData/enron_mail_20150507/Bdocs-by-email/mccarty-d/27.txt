@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+bees		1
+worker		1
+meetings	1
+sending		1
+working		1
+cindy		1
+review		1
+partners	1
+due		1
+kick		1
+dan		1
+diligence	1
+each		1
+withdrawn	1
+everyone	1

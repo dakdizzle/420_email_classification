@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+gmt		1
+monday		1
+time		1
+desk		1
+canada		1
+central		1
+september	1
+doug		1

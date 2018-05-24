@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+dont		2
+thanks		2
+know		1
+contact		1
+offering	1
+grass		1
+anyway		1
+good		1
+change		1
+weekend		1
+wait		1
+think		1
+needs		1

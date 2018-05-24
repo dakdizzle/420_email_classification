@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+cheers		1
+john		1
+bot		1
+ngz		1

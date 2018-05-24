@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+online		1
+g		1
+trade		1
+approved	1
+derivatives	1

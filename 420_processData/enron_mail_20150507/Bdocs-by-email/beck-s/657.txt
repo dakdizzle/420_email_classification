@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+calc		1
+wouldn		1
+ideas		1
+sally		1
+numbers		1
+canadian	1
+today		1
+made		1
+r		1

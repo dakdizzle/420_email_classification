@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+back		2
+home		1
+hope		1
+until		1
+well		1
+portland	1
+sorry		1
+called		1
+don		1
+tonight		1
+haven		1
+call		1

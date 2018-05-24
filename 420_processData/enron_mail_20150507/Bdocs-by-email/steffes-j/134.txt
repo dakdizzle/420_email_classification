@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+cn		2
+jsteffe		2
+problems	1
+legislature	1
+time		1
+now		1
+failure		1
+recipients	1
+sce		1
+filename	1
+na		1
+privileged	1
+jim		1
+pststeve	1
+steffes		1
+good		1
+non		1
+enron		1
+james		1
+ou		1
+resolve		1
+called		1
+given		1

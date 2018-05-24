@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+vkamins		2
+vince		2
+cn		2
+vs		1
+france		1
+ofice		1
+recipients	1
+phone		1
+filename	1
+na		1
+number		1
+conti		1
+privileged	1
+non		1
+air		1
+enron		1
+another		1
+minutes		1
+ou		1
+pstwhat		1
+hours		1
+kaminski	1

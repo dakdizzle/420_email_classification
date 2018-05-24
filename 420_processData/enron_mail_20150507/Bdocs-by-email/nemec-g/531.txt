@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+agreement	2
+group		1
+limits		1
+send		1
+copy		1
+usually		1
+david		1
+risk		1
+ask		1
+draft		1
+once		1
+management	1
+handle		1
+one		1
+marshall	1
+comments	1
+set		1
+insurance	1

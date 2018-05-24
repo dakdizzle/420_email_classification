@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+anything	1
+california	1
+need		1
+doing		1
+input		1

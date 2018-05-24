@@ -1,0 +1,14 @@
+NumWords	14
+NumTerms	11
+
+mail		2
+julie		2
+sarnowski	2
+list		1
+enron		1
+hello		1
+thankslis	1
+please		1
+address		1
+com		1
+add		1

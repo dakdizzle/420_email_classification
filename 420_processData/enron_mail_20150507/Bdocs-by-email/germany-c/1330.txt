@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+see		2
+elsewhere	1
+stock		1
+employment	1
+believe		1
+looking		1
+folks		1
+lets		1
+lots		1
+trading		1

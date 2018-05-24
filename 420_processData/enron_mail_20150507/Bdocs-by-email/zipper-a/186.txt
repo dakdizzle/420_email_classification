@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+thing		1
+agree		1
+whole		1
+sham		1

@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+mite		1
+floor		1
+easier		1
+amounts		1
+same		1
+copies		1
+file		1
+outstandind	1
+unpaid		1
+go		1
+tell		1
+isn		1
+need		1
+outstanding	1
+worry		1
+through		1

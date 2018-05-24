@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+prior		2
+dates		2
+below		2
+need		2
+validate	1
+order		1
+table		1
+day		1
+thank		1
+days		1
+pivot		1
+phillip		1
+ending		1
+each		1
+exactly		1
+possible	1
+heather		1
+positions	1
+shift		1
+curve		1
+allen		1
+add		1

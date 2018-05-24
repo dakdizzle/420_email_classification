@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+check		2
+laurel		2
+up		1
+retrieve	1
+attention	1
+supposed	1
+goldman		1
+sent		1
+follow		1
+please		1
+received	1
+sara		1
+sheila		1
+going		1

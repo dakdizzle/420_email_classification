@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+discuss		1
+working		1
+councils	1
+involvement	1
+jim		1
+best		1
+staff		1
+groups		1
+understand	1
+mapp		1
+reliability	1
+want		1
+regional	1
+overextend	1
+mike		1
+critical	1
+don		1
+rtc		1

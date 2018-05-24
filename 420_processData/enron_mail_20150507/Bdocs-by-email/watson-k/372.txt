@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kim		1
+collecting	1
+steve		1
+one		1
+fyi		1
+success		1
+imbalances	1
+shipper		1

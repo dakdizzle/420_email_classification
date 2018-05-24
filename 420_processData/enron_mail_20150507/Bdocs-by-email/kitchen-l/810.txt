@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+agree		1
+death		1
+slow		1
+thanks		1

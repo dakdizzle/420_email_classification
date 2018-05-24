@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+discuss		1
+mark		1
+early		1
+ge		1
+plan		1
+october		1
+john		1
+person		1
+trip		1
+thanks		1
+haedicke	1
+regards		1
+issues		1
+message		1
+work		1
+think		1

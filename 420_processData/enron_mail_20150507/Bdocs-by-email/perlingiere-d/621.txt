@@ -1,0 +1,21 @@
+NumWords	23
+NumTerms	18
+
+sent		4
+draft		2
+review		2
+customer	1
+ed		1
+communication	1
+await		1
+jersey		1
+instruction	1
+prior		1
+concerning	1
+requested	1
+gty		1
+south		1
+waiting		1
+agreement	1
+select		1
+request		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+one		1
+thought		1
+declined	1
+canceled	1
+calendar	1

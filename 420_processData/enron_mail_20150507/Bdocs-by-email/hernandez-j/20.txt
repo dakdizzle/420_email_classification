@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+going		2
+http		1
+www		1
+texassports	1
+bryce		1
+rudy		1
+boyfriend	1
+isn		1
+game		1
+still		1
+joe		1
+think		1
+com		1

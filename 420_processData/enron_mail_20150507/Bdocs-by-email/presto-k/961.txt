@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+conflict	1
+family		1
+copy		1
+hillis		1
+therefore	1
+jet		1
+corporate	1
+due		1
+schedule	1
+getting		1
+via		1
+kim		1
+rogers		1
+mail		1
+attend		1
+flight		1

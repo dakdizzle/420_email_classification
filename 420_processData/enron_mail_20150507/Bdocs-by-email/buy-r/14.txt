@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+blackberry	2
+lawless		1
+net		1
+wireless	1
+represented	1
+handheld	1
+www		1
+someone		1
+sent		1
+buy		1
+want		1
+rickrick	1
+named		1

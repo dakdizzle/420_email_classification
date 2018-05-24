@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+lynn		1
+great		1
+ava		1
+ok		1
+effort		1
+please		1
+idea		1
+coordinate	1
+shelley		1
+think		1
+thanks		1

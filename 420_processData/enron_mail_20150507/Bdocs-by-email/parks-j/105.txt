@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+day		1
+hard		1
+one		1
+work		1
+lunch		1
+better		1

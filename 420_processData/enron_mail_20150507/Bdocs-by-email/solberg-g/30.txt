@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+monday		1
+bigeddy		1
+hey		1
+tag		1
+straightened	1
+claim		1
+geir		1
+bpa		1
+yesterday	1
+out		1
+notify		1
+enron		1
+right		1
+inquiring	1
+told		1
+carabpa		1
+scheduleder	1
+called		1
+pse		1
+pre		1
+think		1
+nob		1

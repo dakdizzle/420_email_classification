@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+trading		2
+areas		1
+swap		1
+central		1
+east		1

@@ -1,0 +1,24 @@
+NumWords	29
+NumTerms	21
+
+enron		3
+com		3
+privileged	2
+steffes		2
+non		2
+jsteffe		2
+lisa		1
+mellencamp	1
+tribolet	1
+psthow		1
+filename	1
+folder		1
+michael		1
+jim		1
+jx		1
+sent		1
+sanders		1
+origin		1
+itemsx		1
+james		1
+cst		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+both		1
+events		1
+rick		1
+tx		1
+attend		1

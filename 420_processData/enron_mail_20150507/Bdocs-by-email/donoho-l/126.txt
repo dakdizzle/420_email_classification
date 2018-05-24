@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+annual		1
+daily		1
+bcf		1
+tw		1
+system		1
+total		1
+average		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+bruce		1
+pl		1
+mills		1

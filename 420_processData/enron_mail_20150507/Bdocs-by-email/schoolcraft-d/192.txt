@@ -1,0 +1,20 @@
+NumWords	36
+NumTerms	17
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+lynn		1
+tkowalk		1
+terry		1
+blair		1
+lblair		1
+january		1
+steven		1
+sjanuary	1
+gary		1
+gspragg		1
+spraggins	1
+kowalke		1

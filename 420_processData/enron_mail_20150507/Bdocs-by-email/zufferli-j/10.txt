@@ -1,0 +1,27 @@
+NumWords	35
+NumTerms	24
+
+contact		5
+phone		5
+fax		3
+business	2
+encore		1
+transcanada	1
+formerly	1
+credit		1
+laishley	1
+brien		1
+epcor		1
+mah		1
+karen		1
+marvin		1
+llp		1
+wenstrom	1
+mikkelborg	1
+gwen		1
+merchant	1
+enmaxbusiness	1
+derek		1
+contract	1
+don		1
+capital		1

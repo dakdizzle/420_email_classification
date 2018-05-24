@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+enron		3
+lkitchen	2
+non		2
+cn		2
+together	1
+employees	1
+kitchen		1
+pstcould	1
+louise		1
+recipients	1
+filename	1
+na		1
+privileged	1
+home		1
+dell		1
+put		1
+list		1
+equipment	1
+ou		1
+corp		1

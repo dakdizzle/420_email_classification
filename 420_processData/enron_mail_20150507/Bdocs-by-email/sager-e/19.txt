@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+soon		1
+talk		1
+ago		1
+settled		1
+months		1
+thanks		1

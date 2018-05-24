@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+run		1
+didnt		1
+mean		1
+over		1

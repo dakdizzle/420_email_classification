@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+hope		1
+feel		1
+better		1

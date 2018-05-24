@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+anniversary	1
+hey		1
+maybe		1
+here		1

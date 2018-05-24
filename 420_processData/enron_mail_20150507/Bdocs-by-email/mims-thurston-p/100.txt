@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+soon		1
+talk		1
+please		1
+attached	1
+letter		1
+see		1
+hi		1
+thanks		1
+offer		1

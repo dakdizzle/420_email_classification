@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+something	1
+down		1
+non		1
+until		1
+vacation	1
+cooled		1
+things		1
+go		1
+abroad		1
+think		1

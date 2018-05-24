@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+promoted	1
+jeanie		1
+letter		1
+frank		1
+here		1

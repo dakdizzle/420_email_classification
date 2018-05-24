@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+monday		1
+send		1
+wouldn		1
+working		1
+sending		1
+today		1
+miller		1
+thanks		1
+samantha	1
+morning		1
+probably	1
+told		1
+spoke		1
+certainly	1
+over		1
+randy		1

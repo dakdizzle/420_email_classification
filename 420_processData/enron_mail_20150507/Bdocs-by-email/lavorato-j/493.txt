@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+floor		1
+trouble		1
+ees		1
+soon		1
+room		1
+m		1
+giving		1
+fighting	1
+agree		1
+anyhow		1
+grow		1
+having		1
+dave		1

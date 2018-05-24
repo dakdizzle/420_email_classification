@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+vince		1
+results		1
+ok		1
+hope		1
+anitano		1
+problem		1

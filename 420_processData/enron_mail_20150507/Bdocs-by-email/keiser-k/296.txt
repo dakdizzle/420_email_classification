@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+make		1
+assumed		1
+everything	1
+region		1
+up		1
+west		1
+netco		1
+books		1
+denver		1
+thankskam	1
+want		1
+considered	1
+before		1
+mike		1
+set		1
+sure		1

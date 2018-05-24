@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+vince		2
+sami		1
+maureen		1
+write		1
+behalf		1
+asked		1
+kaminski	1

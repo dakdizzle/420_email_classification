@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+hey		1
+mitch		1
+eric		1
+below		1
+mail		1
+read		1
+address		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+included	1
+forgot		1
+tell		1
+sorry		1
+thought		1
+wes		1
+don		1
+horton		1

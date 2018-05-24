@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+talk		2
+apartment	1
+bears		1
+working		1
+bad		1
+still		1
+tonight		1
+leases		1
+news		1

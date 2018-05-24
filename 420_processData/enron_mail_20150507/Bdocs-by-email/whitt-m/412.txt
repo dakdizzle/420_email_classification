@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+paul		1
+up		1
+miller		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+scott		1
+term		1
+nx		1
+volumes		1
+listed		1
+tom		1
+offer		1
+call		1

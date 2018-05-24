@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hotel		1
+streethouston	1
+center		1
+houston		1
+doubletree	1
+tx		1
+allen		1
+dallas		1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+bill		2
+bradford	1
+email		1
+send		1
+make		1
+debbie		1
+credit		1
+print		1
+head		1
+out		1
+siad		1
+sense		1
+trades		1
+back		1
+need		1
+maybe		1
+prepare		1
+doesn		1

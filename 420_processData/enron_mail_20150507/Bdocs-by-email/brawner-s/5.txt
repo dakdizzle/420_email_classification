@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+make		1
+know		1
+advise		1
+susan		1
+sounds		1
+shuttle		1
+good		1
+check		1
+double		1
+yes		1
+brennans	1
+sure		1
+still		1

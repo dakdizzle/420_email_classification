@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+new		3
+demand		2
+dough		1
+xls		1
+mrkt		1
+owe		1
+under		1
+power		1
+tab		1
+charges		1
+market		1
+retail		1
+charge		1
+area		1

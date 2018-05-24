@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+copy		2
+info		1
+send		1
+marie		1
+correspondence	1
+comments	1
+overnight	1
+ll		1
+thanks		1
+richard		1

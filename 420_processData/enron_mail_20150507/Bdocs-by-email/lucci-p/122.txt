@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+completely	1
+taxi		1
+crippled	1
+leave		1
+yes		1
+car		1
+take		1

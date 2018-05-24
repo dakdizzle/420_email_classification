@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+day		1
+mentioned	1
+short		1
+above		1
+plans		1
+continue	1
+build		1
+sheets		1
+thanks		1
+ds		1
+two		1
+please		1
+deliver		1
+according	1
+need		1
+c		1
+imbalance	1
+over		1

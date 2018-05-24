@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+rhaysle		2
+cn		2
+board		1
+recipients	1
+hayslett	1
+filename	1
+na		1
+privileged	1
+psti		1
+non		1
+enron		1
+ou		1
+rod		1

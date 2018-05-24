@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+sheets		2
+inc		1
+group		1
+those		1
+totally		1
+know		1
+thrilled	1
+now		1
+service		1
+hour		1
+go		1
+numbers		1
+year		1
+need		1
+last		1
+half		1
+mpc		1
+through		1

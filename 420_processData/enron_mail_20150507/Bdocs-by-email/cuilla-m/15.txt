@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+make		1
+resembling	1
+name		1
+listings	1
+aware		1
+lot		1
+anything	1
+employee	1
+sense		1
+offices		1
+closely		1
+don		1
+dallas		1
+doesn		1

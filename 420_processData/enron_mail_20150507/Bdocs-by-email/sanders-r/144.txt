@@ -1,0 +1,14 @@
+NumWords	14
+NumTerms	11
+
+before		3
+premeeting	2
+grief		1
+taking		1
+meeting		1
+talk		1
+risk		1
+today		1
+minutes		1
+having		1
+sometime	1

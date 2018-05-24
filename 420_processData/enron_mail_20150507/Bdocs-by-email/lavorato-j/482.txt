@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+stuff		1
+memo		1
+legal		1
+kimsame		1
+deal		1

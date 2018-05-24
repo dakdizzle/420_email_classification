@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+heard		1
+perry		1
+anywhere	1
+up		1
+folks		1
+scare		1
+nearly		1
+plans		1
+maybe		1
+game		1
+firm		1
+haven		1

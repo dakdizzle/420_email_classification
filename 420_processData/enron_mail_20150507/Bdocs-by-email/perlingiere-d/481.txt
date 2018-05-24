@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+day		1
+well		1
+fine		1
+ct		1
+clerk		1
+miss		1
+dp		1
+being		1
+one		1
+yes		1
+fed		1
+week		1
+having		1
+lunch		1
+gerald		1
+new		1
+next		1
+here		1

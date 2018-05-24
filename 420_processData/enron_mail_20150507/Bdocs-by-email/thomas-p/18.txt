@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+crew		1
+dinner		1
+dog		1
+grab		1
+up		1
+knowpt		1
+tareen		1
+weekend		1
+want		1
+maybe		1
+seeing		1

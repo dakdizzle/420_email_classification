@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+order		1
+mark		1
+rto		1
+language	1
+force		1
+require		1
+know		1
+draft		1
+task		1
+new		1
+elizabeth	1

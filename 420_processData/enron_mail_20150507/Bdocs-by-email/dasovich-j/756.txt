@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+stuff		1
+make		1
+day		1
+distribution	1
+kept		1
+jeff		1
+best		1
+loop		1
+mike		1
+asked		1
+sure		1

@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+sshackl		2
+cn		2
+sara		2
+shackleton	1
+looking		1
+marie		1
+recipients	1
+filename	1
+na		1
+privileged	1
+pstsheila	1
+non		1
+enron		1
+executed	1
+appears		1
+one		1
+ou		1

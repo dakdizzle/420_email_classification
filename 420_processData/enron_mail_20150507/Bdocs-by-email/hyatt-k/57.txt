@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+radio		1
+gunshot		1
+left		1
+wound		1
+note		1
+reports		1
+head		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+montovano	1
+talk		1
+please		1
+steve		1
+gloria		1
+forward		1
+before		1
+move		1
+thanks		1

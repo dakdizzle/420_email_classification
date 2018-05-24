@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+plsdutch	1
+unlisted	1
+phone		1
+need		1
+quigley		1
+number		1

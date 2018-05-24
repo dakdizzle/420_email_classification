@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+day		1
+tomorrow	1
+watch		1
+big		1
+call		1
+news		1

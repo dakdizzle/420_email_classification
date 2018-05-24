@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+both		1
+much		1
+jeff		1
+best		1
+thank		1
+fyi		1
+help		1
+very		1

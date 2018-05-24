@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+www		3
+chttp		1
+findaproperty	1
+om		1
+rentamatic	1
+co		1
+http		1
+uk		1
+londonsalesandlettinghttp	1
+com		1

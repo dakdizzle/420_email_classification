@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+much		1
+look		1
+sent		1
+larry		1
+adjustment	1
+casey		1
+numbers		1
+asking		1
+mail		1
+thankspaul	1
+deal		1
+otherwise	1

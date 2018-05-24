@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+second		1
+fourth		1
+third		1

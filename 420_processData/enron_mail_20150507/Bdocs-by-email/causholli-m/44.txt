@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+info		1
+pulp		1
+risimonika	1
+spreadsheet	1
+attached	1
+taken		1
+mills		1
+containing	1
+paper		1
+karen		1
+chilean		1
+hi		1

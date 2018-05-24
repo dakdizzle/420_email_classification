@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+monday		1
+meetings	1
+friday		1

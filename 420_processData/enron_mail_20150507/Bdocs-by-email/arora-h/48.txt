@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+greg		1
+location	1
+harry		1
+love		1

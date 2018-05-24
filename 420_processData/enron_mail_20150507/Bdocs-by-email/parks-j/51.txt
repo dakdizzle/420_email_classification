@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+liz		1
+right		1
+talk		1
+lets		1
+keep		1
+price		1
+service		1

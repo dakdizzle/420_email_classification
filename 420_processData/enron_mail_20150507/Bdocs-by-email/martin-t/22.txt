@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+virus		1
+fine		1
+looked		1
+sorry		1
+tom		1
+contain		1
+looks		1

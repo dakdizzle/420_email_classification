@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+time		1
+ask		1
+contact		1
+arrange		1
+derrick		1
+jim		1
+out		1
+best		1
+assistant	1
+stephanie	1
+town		1
+lunch		1
+dave		1

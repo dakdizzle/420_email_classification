@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+time		1
+black		1
+tj		1
+yes		1
+coordinate	1

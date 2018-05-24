@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+advising	1
+send		1
+stephanies	1
+items		1
+adding		1
+pls		1
+jessica		1
+updating	1
+bt		1
+thanks		1
+agenda		1
+planned		1
+part		1
+process		1
+note		1
+calendar	1

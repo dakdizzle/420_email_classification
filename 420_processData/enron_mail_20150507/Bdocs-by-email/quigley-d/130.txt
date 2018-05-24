@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+enron		1
+garage		1
+yes		1
+new		1
+parking		1

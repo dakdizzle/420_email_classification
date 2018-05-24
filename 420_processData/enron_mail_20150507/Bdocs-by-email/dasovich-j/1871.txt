@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+unreal		1
+sent		1
+believe		1
+absolutely	1
+note		1

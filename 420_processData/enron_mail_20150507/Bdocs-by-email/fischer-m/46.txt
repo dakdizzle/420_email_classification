@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+m		2
+heard		1
+enjoyed		1
+know		1
+especially	1
+out		1
+sleeping	1
+really		1
+thinking	1
+kept		1
+happy		1
+want		1
+rain		1

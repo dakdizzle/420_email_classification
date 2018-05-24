@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+discuss		1
+eb		1
+fax		1
+legal		1
+houston		1
+street		1
+call		1
+america		1
+enron		1
+texas		1
+confirmation	1
+dperlin		1
+please		1
+north		1
+smith		1
+perlingiereenron	1
+give		1
+debra		1

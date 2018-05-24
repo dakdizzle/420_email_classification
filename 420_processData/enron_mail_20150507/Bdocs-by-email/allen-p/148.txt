@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+stay		1
+party		1
+hope		1
+touch		1
+success		1
+sorry		1
+phillip		1
+attend		1
+richard		1

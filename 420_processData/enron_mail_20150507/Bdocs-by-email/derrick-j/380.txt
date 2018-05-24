@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+thursday	2
+event		1
+washington	1
+campaign	1
+wednesday	1
+houston		1
+returning	1
+currently	1
+schedule	1
+running		1
+michael		1
+jim		1
+way		1
+best		1
+shall		1
+admire		1
+changes		1
+night		1
+scheduled	1
+c		1
+certainly	1

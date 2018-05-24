@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+being		1
+considered	1
+tux		1
+speech		1
+ordered		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+email		1
+tweed		1
+becky		1
+hodge		1
+thanks		1
+please		1
+groups		1
+aronowitz	1
+sager		1
+lawyers		1
+agreement	1
+taylor		1
+trading		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+care		1
+lawyer		1
+agreed		1
+case		1
+mmbtu		1
+morning		1
+way		1
+hope		1
+lets		1
+centana		1
+tomorrow	1
+sell		1
+doesn		1

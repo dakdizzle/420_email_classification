@@ -1,0 +1,27 @@
+NumWords	33
+NumTerms	24
+
+mw		3
+cut		3
+solberg		2
+pm		2
+geir		2
+ciso		2
+epmi		2
+ernie		1
+ends		1
+following	1
+ect		1
+management	1
+total		1
+schedule	1
+portlandcc	1
+volume		1
+both		1
+forwarded	1
+cutsthe		1
+wheel		1
+subject		1
+pdx		1
+toby		1
+realtime	1

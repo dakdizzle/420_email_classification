@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+go		2
+know		1
+marie		1
+anyone		1
+robbi		1
+found		1
+haven		1
+thanks		1

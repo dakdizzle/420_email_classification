@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+gives		1
+type		1
+priceline	1
+name		1
+buy		1
+ticket		1
+hour		1
+site		1
+whats		1

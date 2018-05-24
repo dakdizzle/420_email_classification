@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+users		2
+four		1
+far		1
+due		1
+removed		1
+dan		1
+ve		1
+three		1
+down		1
+rod		1
+numerous	1
+week		1
+cost		1
+next		1
+ll		1

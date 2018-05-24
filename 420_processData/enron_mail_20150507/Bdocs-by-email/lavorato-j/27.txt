@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+time		2
+day		1
+pstdavei	1
+lavo		1
+mothers		1
+filename	1
+sunday		1
+lavorato	1
+killed		1
+jlavora		1
+want		1
+use		1
+johnx		1
+booked		1
+kay		1
+cancel		1
+play		1

@@ -1,0 +1,19 @@
+NumWords	20
+NumTerms	16
+
+kitchen		2
+louise		2
+cn		2
+please		2
+dial		1
+recipients	1
+organize	1
+tammie		1
+filename	1
+na		1
+lkitchen	1
+pstif		1
+office		1
+enron		1
+come		1
+ou		1

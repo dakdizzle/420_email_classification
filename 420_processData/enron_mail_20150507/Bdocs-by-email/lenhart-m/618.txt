@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+dog		2
+dumb		2
+one		2
+sweetest	1
+speak		1
+dogs		1
+name		1
+currently	1
+friends		1
+yeah		1
+retarded	1
+dad		1
+called		1
+c		1
+don		1
+mandy		1
+isnt		1

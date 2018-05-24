@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+tracy		1
+free		1
+please		1
+feel		1
+reviewed	1
+need		1
+call		1

@@ -1,0 +1,19 @@
+NumWords	21
+NumTerms	16
+
+jim		3
+schwieger	2
+ect		2
+hou		2
+redmond		1
+pm		1
+brian		1
+sheet		1
+term		1
+attached	1
+forwarded	1
+storagebrian	1
+pmto		1
+storage		1
+ectcc		1
+subject		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+full		1
+credit		1
+time		1
+someone		1
+paying		1
+transfer	1
+keith		1
+put		1
+analysis	1
+rick		1
+use		1
+capabilities	1
+think		1

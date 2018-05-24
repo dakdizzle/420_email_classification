@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+stick		1
+please		1

@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+mark		1
+make		1
+paul		1
+fyi		1
+names		1
+ar		1
+out		1
+sends		1
+kim		1
+way		1
+look		1
+many		1
+brennan		1
+list		1
+distribution	1
+please		1
+one		1
+lorna		1
+ticles		1
+sure		1
+through		1

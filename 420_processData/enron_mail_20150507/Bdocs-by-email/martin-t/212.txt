@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+discuss		1
+hull		1
+bryan		1
+please		1
+know		1
+analyst		1
+desk		1
+tom		1
+works		1
+appropriate	1
+feedback	1

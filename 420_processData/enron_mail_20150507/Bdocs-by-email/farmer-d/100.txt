@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+changed		1
+gas		1
+daily		1
+price		1
+ticket		1
+correct		1
+waha		1
+deal		1

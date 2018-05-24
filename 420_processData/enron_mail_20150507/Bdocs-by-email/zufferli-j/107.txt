@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+merger		1
+close		1
+yes		1

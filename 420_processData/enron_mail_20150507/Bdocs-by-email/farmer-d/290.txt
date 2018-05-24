@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+under		2
+texas		2
+wellhead	2
+know		1
+george		1
+trade		1
+pipeline	1
+market		1
+hubs		1
+section		1
+questions	1
+adjusted	1
+added		1
+grouped		1
+elizabeth	1

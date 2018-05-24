@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cafe		2
+traderit	1
+know		1
+www		1
+mean		1
+doublemo	1
+m		1
+dumb		1
+go		1
+double		1
+called		1
+mo		1
+don		1

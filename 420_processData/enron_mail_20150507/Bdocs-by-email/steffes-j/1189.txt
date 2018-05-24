@@ -1,0 +1,18 @@
+NumWords	28
+NumTerms	15
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+gdernehl	1
+ginger		1
+shapiro		1
+thanks		1
+dernehl		1
+linnell		1
+rshapiro	1
+elinnell	1
+elizabeth	1
+richard		1

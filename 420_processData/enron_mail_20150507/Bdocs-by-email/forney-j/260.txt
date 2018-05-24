@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+ercot		1
+hourly		1
+four		1
+mcelreathmyselfsteve	1
+saibialex	1
+thursday	1
+eric		1
+attendees	1
+need		1
+tickets		1
+jmf		1
+game		1
+olindethanks	1

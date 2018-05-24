@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+alright		1
+talk		1
+later		1

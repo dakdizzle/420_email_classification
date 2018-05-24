@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+cn		2
+write		1
+power		1
+postlethwaite	1
+stacey		1
+john		1
+ask		1
+recipients	1
+common		1
+someone		1
+na		1
+requested	1
+enron		1
+jpostle		1
+ou		1
+read		1

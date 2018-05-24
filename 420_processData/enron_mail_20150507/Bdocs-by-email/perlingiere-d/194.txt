@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+early		1
+affair		1
+go		1
+afraid		1
+yes		1
+going		1
+sure		1
+same		1

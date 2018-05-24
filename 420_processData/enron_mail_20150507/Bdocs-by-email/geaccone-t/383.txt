@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+shortly		1
+send		1
+million		1
+reformat	1
+actually	1

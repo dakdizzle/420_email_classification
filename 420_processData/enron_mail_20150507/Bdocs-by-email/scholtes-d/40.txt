@@ -1,0 +1,23 @@
+NumWords	41
+NumTerms	20
+
+mw		6
+missing		5
+peak		4
+pge		3
+park		2
+grizz		2
+lend		2
+th		2
+total		2
+second		2
+sets		2
+resale		1
+same		1
+out		1
+sales		1
+sys		1
+less		1
+llh		1
+buy		1
+sure		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+issues		1
+commission	1
+name		1
+involved	1
+trade		1
+see		1
+mails		1
+didn		1

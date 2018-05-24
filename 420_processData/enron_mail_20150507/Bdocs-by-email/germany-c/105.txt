@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+care		1
+little		1
+traci		1
+evening		1
+wood		1
+guess		1
+tuesday		1
+pictures	1
+westheimer	1
+paulie		1
+saw		1
+called		1
+don		1
+resteraunt	1

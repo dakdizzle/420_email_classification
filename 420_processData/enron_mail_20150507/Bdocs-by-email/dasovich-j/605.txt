@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+calger		1
+group		1
+know		1
+tribolet	1
+see		1
+jeff		1
+back		1
+tomorrow	1
+chk		1
+whalley		1
+ll		1
+small		1
+didn		1

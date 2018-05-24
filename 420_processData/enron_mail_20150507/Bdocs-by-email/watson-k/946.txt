@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kim		1
+sonoran		1
+project		1
+kmi		1
+price		1
+kevin		1
+pipeline	1
+offer		1

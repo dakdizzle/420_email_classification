@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+know		1
+serena		1
+scheduling	1
+roll		1
+forward		1
+told		1
+spoke		1
+cf		1
+doesn		1

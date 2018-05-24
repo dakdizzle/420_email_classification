@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+sbaile		2
+cn		2
+craig		1
+attached	1
+review		1
+recipients	1
+susan		1
+bailey		1
+pstfrank	1
+filename	1
+na		1
+breslau		1
+pleae		1
+privileged	1
+sent		1
+non		1
+enron		1
+assignment	1
+ou		1

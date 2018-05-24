@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+andy		1
+right		1
+john		1
+talk		1
+zipper		1
+now		1
+future		1
+griffith	1
+month		1
+ll		1

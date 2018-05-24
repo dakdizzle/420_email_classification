@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+energy		1
+hey		1
+services	1
+please		1
+sitara		1
+change		1
+lizzie		1
+booked		1
+llc		1
+deal		1
+nine		1
+thanks		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jeff		1
+best		1
+crazy		1
+newwest		1
+woman		1
+sue		1
+driving		1

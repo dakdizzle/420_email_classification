@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+latest		1
+option		1
+regarding	1
+zhiyun		1
+conversations	1
+stacey		1
+know		1
+working		1
+index		1
+rac		1
+risktrac	1
+getting		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+good		1
+files		1
+idea		1
+copied		1
+kay		1
+think		1

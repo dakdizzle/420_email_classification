@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+drink		1
+gonna		1
+boone		1

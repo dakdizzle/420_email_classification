@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+phil		1
+jump		1
+somebody	1
+way		1
+diet		1
+larry		1
+anytime		1
+coke		1
+fetch		1
+now		1
+high		1

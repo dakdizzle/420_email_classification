@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+lynn		2
+lblair		2
+cn		2
+sending		1
+thank		1
+blair		1
+recipients	1
+filename	1
+na		1
+thanks		1
+pst		1
+privileged	1
+home		1
+non		1
+enron		1
+bill		1
+ou		1
+address		1
+chance		1
+pat		1

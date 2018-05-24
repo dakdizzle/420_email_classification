@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+time		1
+ill		1
+left		1
+last		1

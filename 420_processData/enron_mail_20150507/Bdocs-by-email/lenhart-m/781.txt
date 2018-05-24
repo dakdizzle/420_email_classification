@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+youre		1
+yeah		1
+best		1
+go		1
+ahead		1
+houstonian	1

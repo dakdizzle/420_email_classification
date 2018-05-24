@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+m		1
+credit		1
+working		1
+agreement	1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+email		1
+permitting	1
+greg		1
+please		1
+update		1
+one		1
+phillip		1
+process		1
+bank		1
+call		1

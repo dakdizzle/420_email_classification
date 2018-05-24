@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+best		1
+one		1
+stephen		1
+hundred		1
+thanks		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ok		1
+david		1
+know		1
+thursday	1
+anytime		1
+wed		1
+thxsregardsdelainey	1
+kay		1
+next		1

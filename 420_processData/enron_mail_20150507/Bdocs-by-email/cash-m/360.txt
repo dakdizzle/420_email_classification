@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+blackberry	2
+info		1
+glen		1
+seems		1
+net		1
+employees	1
+ok		1
+wireless	1
+handheld	1
+jean		1
+publish		1
+www		1
+partners	1
+public		1
+sent		1
+signed		1
+mary		1
+michelle	1
+doing		1
+pr		1
+think		1

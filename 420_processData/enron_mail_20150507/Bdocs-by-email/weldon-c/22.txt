@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+volatility	2
+charlie		1
+account		1
+conversation	1
+alg		1
+tetco		1
+per		1
+detail		1
+model		1
+graphed		1
+taken		1
+avg		1
+summer		1
+plus		1
+basis		1
+recommend	1
+winter		1
+level		1
+need		1
+seasonal	1
+willl		1
+cg		1
+using		1
+note		1

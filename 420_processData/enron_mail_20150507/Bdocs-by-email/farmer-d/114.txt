@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+flow		1
+gd		1
+jw		1
+union		1
+days		1
+hsc		1
+roll		1
+below		1
+listed		1
+southern	1
+lockhart	1

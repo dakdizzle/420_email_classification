@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+rick		1
+know		1
+start		1
+today		1
+meet		1
+don		1
+cover		1

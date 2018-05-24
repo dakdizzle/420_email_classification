@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+today		2
+liz		1
+thank		1
+shipping	1
+trip		1
+anxious		1
+arrived		1
+yesterday	1
+ins		1
+home		1
+m		1
+back		1
+go		1
+night		1
+yes		1
+business	1
+last		1
+town		1
+mail		1
+study		1

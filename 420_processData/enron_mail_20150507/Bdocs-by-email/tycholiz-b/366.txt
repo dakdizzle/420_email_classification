@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+agreement	2
+latest		1
+someone		1
+bt		1
+cochrane	1
+version		1
+sent		1
+check		1
+believe		1
+executed	1
+back		1
+volumes		1
+tiered		1
+thought		1
+don		1
+new		1

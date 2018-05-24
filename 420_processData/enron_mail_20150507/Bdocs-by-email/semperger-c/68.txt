@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+youcxoxo	1
+love		1

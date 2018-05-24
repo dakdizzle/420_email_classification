@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+point		2
+liquid		2
+jill		1
+supply		1
+quot		1
+transport	1
+eex		1
+gas		1
+incurring	1
+wellhead	1
+given		1

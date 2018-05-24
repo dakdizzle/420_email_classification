@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jeff		1
+objections	1
+mcmahon		1
+mary		1
+one		1
+suggestion	1
+need		1
+probably	1
+contacting	1
+kay		1
+help		1
+ll		1

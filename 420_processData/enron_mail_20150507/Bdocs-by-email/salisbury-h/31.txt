@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+holden		1
+email		1
+sent		1
+please		1
+received	1
+thank		1
+know		1
+night		1
+last		1
+worked		1
+see		1
+checking	1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+ok		1
+suggestions	1
+please		1
+more		1
+review		1
+audrey		1
+looks		1
+thanks		1

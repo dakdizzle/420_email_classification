@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+m		1
+hopefully	1
+find		1
+even		1
+chris		1
+date		1

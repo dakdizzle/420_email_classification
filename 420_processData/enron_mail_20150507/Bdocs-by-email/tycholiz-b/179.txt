@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+budget		1
+soft		1
+vs		1
+gas		1
+west		1
+origination	1
+advise		1
+pls		1
+bt		1
+targets		1
+faith		1
+year		1
+date		1
+actuals		1

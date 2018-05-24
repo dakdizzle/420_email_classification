@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lynn		1
+out		1
+send		1
+ava		1
+team		1
+advisors	1
+coordinators	1
+resend		1
+last		1
+notes		1
+weeks		1
+thanks		1

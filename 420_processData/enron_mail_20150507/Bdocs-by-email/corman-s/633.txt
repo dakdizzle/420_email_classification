@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+blackberry	2
+net		1
+evening		1
+wireless	1
+handheld	1
+www		1
+sorry		1
+lobby		1
+head		1
+sent		1
+great		1
+clouds		1
+greeting	1
+unfriendly	1

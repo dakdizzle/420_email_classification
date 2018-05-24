@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+inc		1
+energy		1
+know		1
+steve		1
+gas		1
+attached	1
+find		1
+contracts	1
+oge		1
+serve		1
+jeff		1
+resources	1
+agreement	1
+thoughts	1
+gisb		1
+template	1

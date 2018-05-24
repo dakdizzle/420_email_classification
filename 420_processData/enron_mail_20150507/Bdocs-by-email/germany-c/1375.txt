@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+go		1
+sorry		1
+deal		1
+thru		1
+didn		1

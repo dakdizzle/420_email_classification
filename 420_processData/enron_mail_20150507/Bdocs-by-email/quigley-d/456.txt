@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+spread		1
+adjustment	1
+mid		1
+curve		1
+offer		1

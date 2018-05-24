@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+ticket		2
+broker		1
+enron		1
+know		1
+want		1
+nowcall		1
+going		1

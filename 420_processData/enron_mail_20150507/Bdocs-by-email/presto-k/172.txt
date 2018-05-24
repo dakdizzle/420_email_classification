@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+park		1
+lend		1
+alot		1
+place		1
+best		1
+pay		1
+jea		1
+issue		1
+transmission	1
+given		1

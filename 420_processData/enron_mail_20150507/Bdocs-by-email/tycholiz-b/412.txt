@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+pm		1
+starting	1
+consistent	1
+groups		1
+fine		1
+bt		1

@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+much		1
+thing		1
+iroq		1
+verify		1
+gas		1
+contact		1
+tennessee	1
+same		1
+releasing	1
+problem		1
+see		1
+capacity	1
+sherry		1
+noack		1
+again		1
+tenn		1
+last		1
+week		1
+lunch		1
+pretty		1
+boston		1
+doesn		1

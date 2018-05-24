@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+merger		2
+look		1
+scott		1
+know		1
+post		1
+financials	1
+thoughts	1
+love		1

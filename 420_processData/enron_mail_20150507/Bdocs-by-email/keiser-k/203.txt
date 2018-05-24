@@ -1,0 +1,25 @@
+NumWords	28
+NumTerms	22
+
+physical	3
+managing	3
+those		2
+products	2
+brad		1
+scott		1
+location	1
+john		1
+sandra		1
+books		1
+pete		1
+take		1
+put		1
+look		1
+down		1
+marks		1
+trader		1
+go		1
+before		1
+question	1
+kk		1
+next		1

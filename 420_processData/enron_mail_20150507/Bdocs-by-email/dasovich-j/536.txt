@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+calger		1
+way		1
+christopher	1
+up		1
+amusing		1
+ccalger		1
+enron		1
+portland	1
+recipients	1
+ou		1
+na		1

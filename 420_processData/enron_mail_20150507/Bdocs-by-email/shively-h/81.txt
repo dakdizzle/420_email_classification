@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+airport		1
+around		1
+chicago		1
+hunter		1
+please		1
+know		1
+friday		1
+thursday	1
+leave		1
+need		1
+call		1

@@ -1,0 +1,24 @@
+NumWords	28
+NumTerms	21
+
+com		4
+sbishop		2
+mlk		2
+gfergus		2
+mtuohey		2
+dial		1
+brobeck		1
+passcode	1
+velaw		1
+california	1
+pkns		1
+number		1
+call		1
+bruns		1
+gibbs		1
+please		1
+tomorrow	1
+scheduled	1
+cst		1
+conference	1
+note		1

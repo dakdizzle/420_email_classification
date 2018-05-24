@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+steve		1
+kean		1
+pab		1

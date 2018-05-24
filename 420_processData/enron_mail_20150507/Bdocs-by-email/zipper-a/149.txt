@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+participants	1
+auctions	1
+open		1
+time		1
+wouldn		1
+bids		1
+provides	1
+auction		1
+platform	1
+changing	1
+real		1
+use		1
+bench		1
+deal		1

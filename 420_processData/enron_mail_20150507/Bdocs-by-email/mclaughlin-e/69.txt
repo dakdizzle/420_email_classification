@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+know		1
+errol		1
+need		1
+fix		1
+problem		1
+looks		1
+macro		1
+thanks		1
+talked		1

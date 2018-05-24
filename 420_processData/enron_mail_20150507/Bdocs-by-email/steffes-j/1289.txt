@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+pm		1
+move		1

@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+line		2
+inc		1
+eb		1
+fax		1
+ph		1
+lcnext		1
+ect		1
+street		1
+top		1
+wholesale	1
+snl		1
+securities	1
+investments	1
+services	1
+shackletonenron	1
+sara		1
+ahouston	1
+tx		1
+smith		1

@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+dasovich	2
+cn		2
+jeff		2
+surprised	1
+jdasovic	1
+recipients	1
+pstonly		1
+filename	1
+na		1
+privileged	1
+non		1
+agree		1
+enron		1
+ou		1
+still		1

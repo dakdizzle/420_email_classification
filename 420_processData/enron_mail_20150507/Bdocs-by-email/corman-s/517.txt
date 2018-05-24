@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+blackberry	2
+net		1
+reply		1
+scary		1
+wireless	1
+handheld	1
+www		1
+helen		1
+thanks		1
+concern		1
+sent		1
+m		1
+satisfied	1
+very		1
+randy		1

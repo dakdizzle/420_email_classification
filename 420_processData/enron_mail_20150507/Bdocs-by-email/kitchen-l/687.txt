@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cancel		2
+moment		1
+power		1
+john		1
+forward		1
+yes		1
+need		1
+going		1
+originationyes	1
+doesn		1

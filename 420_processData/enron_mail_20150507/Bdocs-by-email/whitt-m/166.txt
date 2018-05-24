@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+mwhitt		2
+cn		2
+mark		1
+recipients	1
+suprising	1
+filename	1
+na		1
+privileged	1
+non		1
+pstnot		1
+enron		1
+ou		1
+whitt		1

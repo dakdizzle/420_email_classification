@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+mark		2
+pm		2
+photos		2
+taylor		2
+attempts	1
+mcgovernw	1
+embedded	1
+ect		1
+mcgovern	1
+pitiful		1
+william		1
+bvi		1
+trip		1
+sec		1
+gov		1
+hou		1
+forwarded	1
+enron		1
+stdolelink	1
+subject		1
+here		1

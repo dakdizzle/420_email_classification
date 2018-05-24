@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+eb		1
+isdasara	1
+fax		1
+paribas		1
+ph		1
+street		1
+wholesale	1
+ecl		1
+services	1
+shackletonenron	1
+ahouston	1
+rod		1
+tx		1
+smith		1

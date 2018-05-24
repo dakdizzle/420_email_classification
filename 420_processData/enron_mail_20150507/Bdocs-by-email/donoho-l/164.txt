@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+meeting		2
+steve		2
+afternoon	2
+vacation	1
+well		1
+stan		1
+asked		1
+meet		1
+see		1
+reschedule	1
+anything	1
+asap		1
+restructuring	1
+back		1
+want		1
+d		1
+attend		1
+wait		1

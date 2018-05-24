@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+good		1
+topic		1
+go		1
+speech		1
+sounds		1
+give		1
+over		1

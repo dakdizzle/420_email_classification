@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+group		1
+forwarded	1
+vince		1
+pam		1
+message		1
+timeemployees	1
+part		1
+members		1
+use		1
+resume		1
+thanks		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+morning		1
+time		1
+talk		1
+bill		1
+tomorrow	1
+attached	1
+houston		1
+review		1
+conference	1
+monika		1
+call		1

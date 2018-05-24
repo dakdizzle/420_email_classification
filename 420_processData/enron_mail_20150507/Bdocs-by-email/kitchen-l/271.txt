@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+kitchen		2
+louise		2
+cn		2
+hardware	1
+mark		1
+pstcurrent	1
+plans		1
+recipients	1
+filename	1
+na		1
+amortize	1
+lkitchen	1
+around		1
+gets		1
+enron		1
+expensed	1
+ou		1
+probably	1
+software	1
+costs		1
+mm		1

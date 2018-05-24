@@ -1,0 +1,22 @@
+NumWords	59
+NumTerms	19
+
+cn		12
+gwaddr		4
+recipients	4
+na		4
+enron		4
+hq		4
+em		4
+ou		4
+peggy		2
+trosper		2
+jim		2
+barnes		2
+valerie		2
+fowler		2
+mary		2
+giles		2
+earlier		1
+made		1
+sure		1

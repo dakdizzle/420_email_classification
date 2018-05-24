@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+ed		2
+aging		1
+up		1
+nameto		1
+krapels		1
+andamount	1
+screw		1
+later		1
+employed	1
+stay		1
+vince		1
+brain		1
+guy		1
+shall		1
+change		1
+work		1
+sooner		1
+sure		1
+given		1

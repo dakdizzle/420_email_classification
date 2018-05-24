@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+town		2
+together	1
+time		1
+john		1
+brucei		1
+crazy		1
+quite		1
+call		1
+week		1
+still		1
+give		1
+love		1
+next		1

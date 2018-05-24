@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+think		2
+publications	1
+value		1
+stick		1
+kind		1
+known		1
+sounds		1
+add		1
+vague		1

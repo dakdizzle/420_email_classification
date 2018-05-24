@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+cn		2
+received	2
+btychol		2
+others		1
+make		1
+distribute	1
+pg		1
+pls		1
+recipients	1
+wanted		1
+filename	1
+na		1
+bt		1
+privileged	1
+tycholiz	1
+required	1
+psti		1
+non		1
+enron		1
+barry		1
+document	1
+ou		1
+sure		1

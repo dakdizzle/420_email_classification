@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+ready		1
+waiting		1
+ll		1

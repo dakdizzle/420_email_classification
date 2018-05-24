@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+article		1
+mentions	1
+chi		1
+chapter		1
+sigma		1

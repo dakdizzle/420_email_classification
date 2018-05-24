@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+changed		1
+customer	1
+sitara		1
+correct		1
+deal		1

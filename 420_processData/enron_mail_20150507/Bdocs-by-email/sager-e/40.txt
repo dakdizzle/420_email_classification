@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+coming		1
+enjoyed		1
+alot		1
+net		1
+talk		1
+doubles		1
+score		1
+soon		1
+played		1
+kept		1
+sager		1
+plays		1
+elizabeth	1
+allison		1
+mine		1

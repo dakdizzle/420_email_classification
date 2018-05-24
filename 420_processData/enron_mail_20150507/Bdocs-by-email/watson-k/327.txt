@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+msn		1
+show		1
+messenger	1
+logged		1
+btw		1
+don		1
+thanks		1

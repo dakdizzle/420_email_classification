@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+dquigle		2
+dutch		2
+cn		2
+full		1
+others		1
+early		1
+day		1
+pstdo		1
+know		1
+today		1
+recipients	1
+late		1
+wanted		1
+goto		1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+want		1
+work		1
+ou		1
+lunch		1
+quigley		1

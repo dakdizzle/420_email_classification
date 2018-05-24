@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+now		1
+listening	1

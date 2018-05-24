@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+monday		1
+discuss		1
+talk		1
+know		1
+friday		1
+glad		1
+recruiting	1
+future		1
+late		1
+trip		1
+call		1
+afternoon	1
+pullman		1
+out		1
+way		1
+cell		1
+wa		1
+jeff		1
+bill		1
+back		1
+give		1
+door		1

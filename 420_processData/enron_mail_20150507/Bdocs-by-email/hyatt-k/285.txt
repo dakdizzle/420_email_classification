@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+stations	2
+cal		1
+those		1
+thinking	1
+enough		1
+pressure	1
+require		1
+kingman		1
+install		1
+don		1
+border		1
+market		1

@@ -1,0 +1,25 @@
+NumWords	41
+NumTerms	22
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+paul		1
+slandweh	1
+pkaufma		1
+rneusta		1
+susan		1
+kaufman		1
+robert		1
+forwarded	1
+being		1
+landwehr	1
+hkingers	1
+harry		1
+kingerski	1
+comments	1
+neustaedter	1
+supportive	1
+characterized	1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+discussions	1
+attached	1
+elliot		1
+based		1
+richard		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+way		1
+please		1
+pereira		1
+susan		1
+united		1
+contributions	1
+discontinue	1
+thanks		1

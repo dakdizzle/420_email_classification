@@ -1,0 +1,26 @@
+NumWords	28
+NumTerms	23
+
+plus		4
+car		2
+move		2
+value		1
+looking		1
+well		1
+duty		1
+shit		1
+permits		1
+canada		1
+looks		1
+listen		1
+enron		1
+tax		1
+kbb		1
+gst		1
+pay		1
+back		1
+excise		1
+usd		1
+want		1
+import		1
+new		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+both		1
+monday		1
+send		1
+section		1
+lets		1
+critical	1
+toby		1
+till		1
+looks		1
+wait		1
+balancing	1
+notices		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+something	1
+handling	1
+still		1

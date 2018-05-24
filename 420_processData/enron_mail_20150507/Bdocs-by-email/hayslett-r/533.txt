@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+underway	2
+blackberry	2
+situation	1
+net		1
+wireless	1
+handheld	1
+well		1
+www		1
+major		1
+external	1
+rock		1
+red		1
+expexting	1
+sent		1
+enron		1
+use		1
+already		1
+projects	1
+tw		1
+impacted	1
+capital		1
+think		1

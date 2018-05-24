@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+meeting		1
+thinking	1
+thursday	1
+want		1
+night		1
+theater		1
+saturday	1

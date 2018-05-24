@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+email		2
+thing		1
+different	1
+mentioned	1
+sending		1
+attachment	1
+see		1
+afternoon	1
+out		1
+each		1
+sent		1
+good		1
+team		1
+enron		1
+introducing	1
+another		1
+one		1
+before		1

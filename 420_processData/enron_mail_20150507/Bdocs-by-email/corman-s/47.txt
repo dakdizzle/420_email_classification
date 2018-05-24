@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+meeting		2
+notice		1
+out		1
+send		1
+snacks		1
+staff		1
+preference	1
+d		1
+halloween	1

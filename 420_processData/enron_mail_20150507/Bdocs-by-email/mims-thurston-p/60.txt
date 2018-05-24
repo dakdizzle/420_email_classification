@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+mark		1
+between		1
+two		1
+prices		1
+hall		1
+difference	1
+lizzie		1

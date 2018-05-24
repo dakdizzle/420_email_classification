@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+forms		1
+ene		1
+up		1
+john		1
+looking		1
+calls		1
+money		1
+see		1
+confirm		1
+something	1
+contracts	1
+naked		1
+received	1
+sell		1
+want		1
+probably	1
+mike		1
+week		1
+set		1
+checking	1

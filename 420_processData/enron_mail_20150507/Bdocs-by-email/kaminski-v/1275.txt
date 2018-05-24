@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+co		1
+html		1
+http		1
+neta		1
+uk		1
+www		1
+inencogroup	1

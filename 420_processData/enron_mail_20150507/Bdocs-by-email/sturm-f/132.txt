@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+those		1
+m		1
+tomorrow	1
+available	1
+today		1
+fletch		1
+works		1
+ron		1

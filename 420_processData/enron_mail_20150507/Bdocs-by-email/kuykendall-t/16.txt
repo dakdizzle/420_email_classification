@@ -1,0 +1,26 @@
+NumWords	36
+NumTerms	23
+
+com		5
+mail		4
+pam		2
+hadix		2
+susan		2
+macaul		2
+lamprecht	2
+jennifer	2
+dana		1
+mi		1
+kuykendall	1
+bmc		1
+luni		1
+fine		1
+drrichardson	1
+oxy		1
+enron		1
+tkuyken		1
+cmsenergy	1
+elpaso		1
+richardson	1
+tori		1
+think		1

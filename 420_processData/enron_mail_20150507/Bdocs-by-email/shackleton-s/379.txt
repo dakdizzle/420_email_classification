@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+counterparty	2
+each		2
+credit		1
+until		1
+now		1
+review		1
+etc		1
+organize	1
+file		1
+expect		1
+reconcile	1
+approach	1
+basis		1
+trades		1
+sara		1
+need		1
+hindrance	1
+thought		1
+sure		1
+wait		1
+certainly	1
+think		1

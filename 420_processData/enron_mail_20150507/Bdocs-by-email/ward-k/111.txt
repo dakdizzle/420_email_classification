@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+ok		1
+time		1
+try		1
+reservation	1
+grenadine	1
+plans		1
+islands		1
+th		1
+confirm		1
+come		1
+august		1
+thought		1
+previous	1
+suzanne		1
+think		1
+occasion	1
+didn		1

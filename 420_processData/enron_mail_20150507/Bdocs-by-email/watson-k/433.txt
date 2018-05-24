@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+lexus		1
+ily		1
+gary		1
+take		1
+out		1
+long		1
+great		1
+m		1
+agree		1
+distance	1
+sure		1
+mind		1
+doesn		1

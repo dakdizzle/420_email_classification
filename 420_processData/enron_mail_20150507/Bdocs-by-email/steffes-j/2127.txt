@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+brad		1
+nebergald	1
+talk		1
+want		1
+probably	1
+thanks		1

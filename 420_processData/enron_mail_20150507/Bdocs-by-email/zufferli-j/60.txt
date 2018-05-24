@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+steady		2
+well		2
+doing		2
+hectic		1
+mindjess	1
+portland	1
+things		1
+now		1
+left		1
+nowhow		1
+getting		1
+uncomfortable	1
+ubs		1
+bought		1
+more		1
+going		1
+weeks		1
+phase		1

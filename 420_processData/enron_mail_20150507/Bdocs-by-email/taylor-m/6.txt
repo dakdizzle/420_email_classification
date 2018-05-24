@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+objection	1
+regulators	1
+office		1
+governor	1
+regulating	1
+careful		1
+asking		1
+interest	1
+need		1
+someone		1
+system		1
+think		1

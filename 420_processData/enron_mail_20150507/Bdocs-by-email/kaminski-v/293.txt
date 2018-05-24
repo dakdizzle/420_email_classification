@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+vince		1
+m		1
+choice		1
+anne		1

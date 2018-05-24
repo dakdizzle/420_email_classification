@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+care		1
+monday		1
+omaha		1
+take		1
+morning		1
+home		1
+easter		1
+back		1
+tomorrow	1
+happy		1
+yes		1
+going		1
+ll		1

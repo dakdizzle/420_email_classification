@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+fri		1
+rouge		1
+riding		1
+sat		1
+baton		1

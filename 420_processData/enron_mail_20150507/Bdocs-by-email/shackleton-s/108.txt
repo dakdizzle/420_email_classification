@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+ftu		3
+paragraph	2
+lawyer		1
+credit		1
+ena		1
+tanya		1
+draft		1
+calling		1
+review		1
+transact	1
+thanks		1
+call		1
+sent		1
+enron		1
+sara		1
+one		1
+subject		1
+already		1
+corp		1
+comments	1
+blank		1
+give		1

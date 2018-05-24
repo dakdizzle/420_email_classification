@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+holden		1
+information	1
+thank		1
+ehronline	1

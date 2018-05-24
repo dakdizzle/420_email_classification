@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+tidbits		1
+http		1
+pollyscakes	1
+htm		1
+com		1

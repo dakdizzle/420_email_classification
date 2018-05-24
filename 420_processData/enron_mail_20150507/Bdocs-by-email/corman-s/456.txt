@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+make		1
+growth		1
+assumption	1
+comx		1
+expire		1
+rate		1
+fine		1
+corman		1
+major		1
+filename	1
+privileged	1
+contracts	1
+psti		1
+non		1
+enron		1
+desai		1
+scorman		1
+origin		1
+need		1
+sx		1
+jayshree	1
+think		1

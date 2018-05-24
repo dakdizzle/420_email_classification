@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+officerenron	1
+fax		1
+americastel	1
+operating	1
+suplong		1
+well		1
+louise		1
+kitchenchief	1
+someone		1
+think		1

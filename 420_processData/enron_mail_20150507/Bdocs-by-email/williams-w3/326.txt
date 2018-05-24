@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+bill		1
+involved	1
+communications	1
+thanks		1

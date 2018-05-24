@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+assign		1
+point		1
+good		1
+d		1
+mat		1

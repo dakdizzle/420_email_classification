@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+home		1
+premierpumpcompany	1
+com		1

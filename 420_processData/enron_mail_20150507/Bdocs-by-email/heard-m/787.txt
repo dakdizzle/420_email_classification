@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+help		2
+thanks		2
+those		1
+cooper		1
+hopefully	1
+sending		1
+marie		1
+find		1
+isdas		1
+edmund		1
+two		1
+una		1
+again		1
+document	1
+hi		1

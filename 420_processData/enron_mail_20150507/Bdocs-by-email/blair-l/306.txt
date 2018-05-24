@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+blackberry	2
+lynn		1
+carrying	1
+havehad		1
+toy		1
+much		1
+yours		1
+net		1
+wireless	1
+handheld	1
+www		1
+left		1
+efforts		1
+thanks		1
+better		1
+sent		1
+laptop		1
+neatest		1
+before		1
+donna		1

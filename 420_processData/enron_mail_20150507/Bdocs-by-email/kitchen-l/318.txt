@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+europe		1
+kitchen		1
+paul		1
+address		1
+com		1
+txu		1

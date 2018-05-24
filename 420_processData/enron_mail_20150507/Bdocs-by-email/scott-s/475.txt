@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+weekend		1
+maybe		1
+th		1
+c		1
+rd		1

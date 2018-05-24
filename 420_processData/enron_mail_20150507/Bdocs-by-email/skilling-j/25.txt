@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+hardhats	2
+enron		2
+jeff		2
+marekbros	1
+joanniestanmarek	1
+up		1
+stan		1
+lobby		1
+thanks		1
+building	1
+follow		1
+amto		1
+larseni		1
+bill		1
+subject		1
+comcc		1
+skilling	1
+brent		1
+ll		1
+com		1

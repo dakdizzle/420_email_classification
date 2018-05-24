@@ -1,0 +1,26 @@
+NumWords	28
+NumTerms	23
+
+da		2
+burton		2
+davis		2
+against		2
+edison		2
+state		1
+craziness	1
+except		1
+things		1
+speaks		1
+sce		1
+world		1
+problem		1
+loss		1
+bailout		1
+way		1
+respect		1
+worse		1
+m		1
+jeff		1
+best		1
+one		1
+determine	1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cynthia		2
+shortly		1
+wayne		1
+marie		1
+copies		1
+found		1
+help		1
+getting		1
+tracy		1
+look		1
+office		1
+documents	1
+went		1

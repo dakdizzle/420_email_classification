@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+complete	1
+rick		1
+talk		1
+project		1
+think		1

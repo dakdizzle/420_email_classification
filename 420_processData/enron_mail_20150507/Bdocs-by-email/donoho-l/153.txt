@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+puc		1
+understanding	1
+arizona		1
+hyatt		1
+kevin		1

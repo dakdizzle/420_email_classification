@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+week		2
+monday		1
+meeting		1
+wednesday	1
+vince		1
+look		1
+al		1
+traveling	1
+shall		1
+work		1
+forward		1
+rest		1
+through		1
+next		1

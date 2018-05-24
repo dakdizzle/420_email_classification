@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+track		1
+now		1
+kam		1
+pc		1
+tried		1
+msmith		1
+available	1
+nothing		1
+book		1
+simulation	1
+select		1
+mat		1
+trading		1

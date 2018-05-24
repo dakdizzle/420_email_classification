@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+aep		2
+puc		1
+movement	1
+jean		1
+ready		1
+stop		1
+same		1
+see		1
+jim		1
+anything	1
+done		1
+ohio		1
+agree		1
+please		1
+go		1
+noti		1
+below		1
+going		1
+tx		1
+motion		1
+ce		1
+doing		1
+haven		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+under		1
+john		1
+arnold		1
+trades		1
+report		1
+need		1
+r		1
+zippy		1
+michael		1

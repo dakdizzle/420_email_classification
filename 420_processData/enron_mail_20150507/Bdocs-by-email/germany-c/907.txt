@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+show		1
+now		1
+someone		1
+im		1

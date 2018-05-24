@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+meeting		1
+cantrell	1
+becky		1
+please		1
+include		1

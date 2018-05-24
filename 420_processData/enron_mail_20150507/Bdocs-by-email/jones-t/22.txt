@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+lance		1
+thanks		1

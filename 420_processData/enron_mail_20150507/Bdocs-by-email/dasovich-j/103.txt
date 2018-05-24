@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+number		3
+mark		1
+greatly		1
+saying		1
+well		1
+appreciated	1
+trying		1
+hold		1
+gets		1
+m		1
+anymore		1
+baldwin		1
+hope		1
+greetings	1
+jeff		1
+best		1
+recording	1
+ain		1
+circumstances	1
+given		1

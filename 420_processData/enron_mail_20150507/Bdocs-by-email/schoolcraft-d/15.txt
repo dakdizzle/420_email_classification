@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+ds		1
+case		1
+send		1
+complease	1
+enron		1
+etsgascontrollers	1
+dl		1
+spaces		1
+name		1
+test		1
+same		1
+thanks		1

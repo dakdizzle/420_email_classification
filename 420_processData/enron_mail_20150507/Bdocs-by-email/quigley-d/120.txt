@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+curve		2
+john		1
+sending		1
+egyptalso	1
+far		1
+price		1
+adjust		1
+comfortable	1
+due		1
+system		1
+market		1
+out		1
+non		1
+liquidity	1
+forwarddutch	1
+length		1
+eric		1
+want		1
+forward		1
+year		1

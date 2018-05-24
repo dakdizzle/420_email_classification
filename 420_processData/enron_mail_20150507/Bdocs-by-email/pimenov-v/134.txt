@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+thanks		2
+messages	1
+now		1
+victor		1
+pipeline	1
+basis		1
+updates		1
+list		1
+forwarding	1
+please		1
+jon		1
+mckay		1
+vladi		1
+trading		1
+add		1

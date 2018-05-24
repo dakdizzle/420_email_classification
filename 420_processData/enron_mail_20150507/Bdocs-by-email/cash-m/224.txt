@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+fax		1
+please		1
+outcaller	1
+telephoned	1
+phone		1
+bob		1
+call		1
+nelsoncompany	1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+down		1
+welcome		1
+invite		1
+anyone		1
+chance		1

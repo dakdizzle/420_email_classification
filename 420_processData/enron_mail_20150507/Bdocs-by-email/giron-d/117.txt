@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+heard		1
+make		1
+term		1
+continue	1
+wanted		1
+see		1
+ve		1
+long		1
+good		1
+seats		1
+allowing	1
+buy		1
+happy		1
+willing		1
+before		1
+year		1
+dg		1
+sure		1
+pretty		1
+saturday	1
+certainly	1
+through		1

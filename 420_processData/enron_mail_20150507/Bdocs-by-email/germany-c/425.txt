@@ -1,0 +1,21 @@
+NumWords	37
+NumTerms	18
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+troy		1
+kkelly		1
+fyi		1
+mazowita	1
+denetsosie	1
+mmazowit	1
+katherine	1
+tdenets		1
+dinari		1
+sdinari		1
+kelly		1
+mike		1
+sabra		1

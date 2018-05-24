@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+info		1
+need		1
+same		1
+sure		1
+ll		1

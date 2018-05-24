@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+think		2
+doberman	1
+look		1
+shrunk		1
+kicked		1
+pinchers	1
+bite		1
+bark		1
+cockerspaniel	1
+cats		1
+asses		1

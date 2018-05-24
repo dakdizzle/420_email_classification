@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+wow		1
+yr		1
+em		1

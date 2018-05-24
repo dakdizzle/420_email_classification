@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+heard		1
+around		1
+sniffing	1
+values		1
+today		1
+optionality	1
+question	1
+agreement	1

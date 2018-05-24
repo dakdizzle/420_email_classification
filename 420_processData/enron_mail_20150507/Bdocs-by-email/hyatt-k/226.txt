@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+resigned	1
+kim		1
+lorraine	1
+go		1
+harris		1
+work		1
+watson		1
+morgan		1
+business	1
+development	1
+kinder		1
+yesterday	1

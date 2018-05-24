@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+scene		1
+particular	1
+one		1
+shift		1
+night		1
+showtime	1
+stellar		1
+thought		1
+performance	1
+saturday	1
+afternoon	1

@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+semperger	3
+cara		2
+exmerge		1
+sent		1
+version		1
+origin		1
+itemsx		1
+mime		1
+cx		1
+filename	1
+folder		1
+pst		1

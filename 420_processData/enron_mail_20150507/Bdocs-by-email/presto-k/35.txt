@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+cn		2
+redlined	1
+ignore		1
+recipients	1
+folder		1
+na		1
+print		1
+jae		1
+put		1
+version		1
+tamara		1
+enron		1
+please		1
+black		1
+ou		1
+green		1
+tblack		1

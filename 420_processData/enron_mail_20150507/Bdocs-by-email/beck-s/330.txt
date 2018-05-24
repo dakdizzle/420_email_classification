@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+info		1
+early		1
+tournament	1
+details		1
+sally		1
+more		1
+bob		1
+november	1
+thanks		1

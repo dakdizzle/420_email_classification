@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+definately	1
+cabin		1
+back		1
+talent		1
+stabbin		1
+bringing	1

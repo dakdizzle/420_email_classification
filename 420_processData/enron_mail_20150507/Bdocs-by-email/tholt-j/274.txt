@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+care		1
+weinies		1
+together	1
+really		1
+christmas	1
+thing		1
+menu		1
+share		1
+eat		1
+deal		1
+big		1
+important	1

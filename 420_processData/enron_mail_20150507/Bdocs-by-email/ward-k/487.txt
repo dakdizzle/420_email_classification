@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+gas		2
+deal		2
+full		1
+copy		1
+place		1
+came		1
+desk		1
+thanks		1
+special		1
+kim		1
+language	1
+penalty		1
+before		1
+agreement	1
+requirements	1
+think		1

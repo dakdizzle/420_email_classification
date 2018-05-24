@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ran		1
+check		1
+spell		1
+think		1

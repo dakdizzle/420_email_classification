@@ -1,0 +1,24 @@
+NumWords	27
+NumTerms	21
+
+com		3
+fax		2
+chris		2
+enron		2
+germany		2
+support		1
+cindy		1
+contact		1
+cngchris	1
+thanks		1
+sent		1
+please		1
+amto		1
+trades		1
+nisource	1
+oncei		1
+doneesimien	1
+subject		1
+wernecke	1
+imbalance	1
+receive		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+tackett		1
+validation	1
+send		1
+scott		1
+please		1
+thankskam	1
+counterparty	1
+contract	1
+deal		1
+inquiries	1

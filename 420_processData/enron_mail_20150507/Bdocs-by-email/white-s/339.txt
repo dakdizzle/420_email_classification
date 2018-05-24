@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+yeah		1
+stacey		1
+vacation	1
+going		1
+still		1

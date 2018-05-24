@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+pm		1
+now		1
+nymex		1
+thanks		1
+call		1
+red		1
+kim		1
+asap		1
+dennis		1
+right		1
+winter		1
+sell		1
+swap		1

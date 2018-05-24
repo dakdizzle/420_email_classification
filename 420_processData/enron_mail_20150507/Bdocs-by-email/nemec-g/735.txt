@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+latest		1
+version		1
+redlined	1
+changes		1
+attached	1
+sorry		1
+delay		1
+pa		1

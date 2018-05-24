@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+fest		1
+up		1
+partied		1
+go		1
+jazz		1
+still		1
+never		1

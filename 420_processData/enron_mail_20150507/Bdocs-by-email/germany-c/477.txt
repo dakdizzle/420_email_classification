@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+case		1
+plan		1
+day		1
+hero		1
+deliver		1
+gas		1
+dominion	1
+going		1
+backup		1
+doesn		1

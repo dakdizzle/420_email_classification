@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+map		1
+fix		1
+top		1
+monika		1
+shows		1
+cut		1
+doug		1
+thanks		1

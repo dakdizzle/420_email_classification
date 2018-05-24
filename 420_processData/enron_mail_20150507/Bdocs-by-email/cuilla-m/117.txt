@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+soon		1
+flat		1
+sure		1
+imagine		1

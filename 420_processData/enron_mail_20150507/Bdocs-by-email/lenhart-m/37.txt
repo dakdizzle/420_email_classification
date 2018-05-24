@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lifestyle	1
+morning		1
+years		1
+dead		1
+hurting		1
+change		1
+within		1
+next		1

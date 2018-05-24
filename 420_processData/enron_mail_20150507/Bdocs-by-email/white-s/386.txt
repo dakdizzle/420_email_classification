@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+miss		1
+put		1
+meeting		1
+stacey		1
+sorry		1
+calendar	1
+cancel		1

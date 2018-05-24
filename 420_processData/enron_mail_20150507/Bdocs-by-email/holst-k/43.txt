@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+nobody		1
+thankskeith	1
+george		1
+better		1

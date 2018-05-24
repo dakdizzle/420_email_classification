@@ -1,0 +1,20 @@
+NumWords	30
+NumTerms	17
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+schrist		1
+christiansen	1
+darbylaw	1
+kimberly	1
+nbaker		1
+natalie		1
+baker		1
+olinger		1
+rhaygood	1
+suzanne		1
+kolinge		1
+com		1

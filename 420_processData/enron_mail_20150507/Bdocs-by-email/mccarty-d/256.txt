@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+alot		1
+helpful		1
+john		1
+quite		1
+craig		1
+pg		1
+dan		1
+call		1
+done		1
+being		1
+work		1
+tw		1
+new		1
+give		1

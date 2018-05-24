@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+gas		2
+out		1
+producers	1
+aga		1
+crazy		1
+came		1
+buy		1
+bullish		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+mw		1
+mead		1
+wheel		1
+slinger		1
+cut		1
+realtime	1
+ryan		1
+malin		1

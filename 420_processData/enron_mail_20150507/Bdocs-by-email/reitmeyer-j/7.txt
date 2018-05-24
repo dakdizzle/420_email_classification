@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+day		1
+basis		1
+woooooooooodspray	1
+steve		1
+opal		1
+bot		1
+nymex		1
+sold		1
+bom		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+unitedcogen	1
+go		1
+www		1
+com		1

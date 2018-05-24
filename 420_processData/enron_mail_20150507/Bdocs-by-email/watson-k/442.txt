@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+much		1
+walk		1
+drive		1
+try		1
+thank		1
+know		1
+unload		1
+ready		1
+car		1
+meet		1
+lobby		1
+transportation	1
+out		1
+kim		1
+conduit		1
+being		1
+go		1
+work		1
+don		1
+manna		1
+mine		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+recognize	1
+non		1
+one		1
+break		1
+star		1
+stop		1
+uh		1
+unit		1
+jizzing		1
+big		1
+awesome		1

@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+up		2
+live		1
+good		1
+weekend		1

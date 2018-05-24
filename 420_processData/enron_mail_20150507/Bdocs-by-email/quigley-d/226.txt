@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+thanksgiving	2
+day		1
+friday		1
+know		1
+days		1
+vactioni	1
+honey		1
+asked		1
+thoughi		1
+youdq		1
+wish		1
+morning		1
+great		1
+three		1
+ideas		1
+work		1
+before		1
+vegas		1
+babyi		1
+love		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+option		1
+dont		1
+up		1
+whether		1
+lcra		1
+see		1
+call		1
+remember	1
+trued		1
+gets		1
+kayla		1
+questions	1
+tomorrow	1
+im		1
+sure		1
+exercised	1
+jmf		1
+deal		1

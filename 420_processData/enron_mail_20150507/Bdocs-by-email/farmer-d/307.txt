@@ -1,0 +1,17 @@
+NumWords	19
+NumTerms	14
+
+ena		3
+gas		2
+desk		2
+agreement	2
+transaction	1
+transfers	1
+transports	1
+pathed		1
+supply		1
+transport	1
+lone		1
+contract	1
+star		1
+deal		1

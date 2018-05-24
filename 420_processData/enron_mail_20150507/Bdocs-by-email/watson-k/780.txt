@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+kim		1
+march		1
+demo		1
+attend		1
+alma		1
+thanks		1

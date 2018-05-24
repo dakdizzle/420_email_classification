@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+meeting		2
+want		1
+outside		1
+separately	1
+evaluation	1
+prc		1
+better		1

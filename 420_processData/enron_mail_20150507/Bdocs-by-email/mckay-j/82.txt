@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+m		1
+boarder		1
+run		1
+jon		1
+ticket		1
+luck		1
+booked		1
+aug		1
+making		1
+wish		1

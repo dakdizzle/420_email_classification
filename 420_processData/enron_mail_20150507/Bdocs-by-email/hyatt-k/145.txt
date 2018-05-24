@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+call		2
+discuss		1
+ferc		1
+glen		1
+topic		1
+wed		1
+omaha		1
+see		1
+hass		1
+scheduled	1
+conference	1
+tied		1
+checking	1

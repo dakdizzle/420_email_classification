@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+monday		1
+day		1
+meeting		1
+pl		1
+session		1
+attend		1
+pre		1
+existing	1

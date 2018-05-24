@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+america		1
+ned		1
+vladythanks	1
+john		1
+come		1
+update		1
+south		1
+tuesday		1
+see		1
+help		1

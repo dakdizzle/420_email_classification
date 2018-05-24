@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+goodnight	1
+password	1
+poo		1

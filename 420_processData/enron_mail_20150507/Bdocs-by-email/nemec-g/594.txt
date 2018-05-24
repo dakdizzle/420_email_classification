@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+bankruptcy	1
+team		1
+wed		1
+someone		1
+see		1

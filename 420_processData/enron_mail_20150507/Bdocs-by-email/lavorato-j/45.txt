@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+send		1
+interview	1
+up		1
+bring		1
+phone		1
+set		1
+ll		1
+resume		1

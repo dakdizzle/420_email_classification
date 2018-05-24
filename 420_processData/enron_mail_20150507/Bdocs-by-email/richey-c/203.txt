@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+mar		1
+ratio		1
+bid		1
+jan		1
+feb		1
+op		1
+p		1
+offer		1

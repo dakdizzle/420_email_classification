@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+funny		1
+html		1
+http		1
+talented	1
+www		1
+incredibly	1
+laydoff		1
+home		1
+people		1
+enron		1
+believe		1
+gloria		1
+laid		1
+think		1
+com		1

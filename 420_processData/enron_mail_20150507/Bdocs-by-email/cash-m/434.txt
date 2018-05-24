@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+word		1
+solicit		1
+want		1
+allow		1

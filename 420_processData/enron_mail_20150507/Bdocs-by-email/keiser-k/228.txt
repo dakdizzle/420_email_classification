@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+book		2
+up		1
+know		1
+deals		1
+kam		1
+susan		1
+fix		1
+unit		1
+unable		1
+look		1
+sitara		1
+need		1
+business	1
+set		1
+doesn		1

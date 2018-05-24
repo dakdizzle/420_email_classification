@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lynn		1
+care		1
+taken		1
+raetta		1
+thanks		1

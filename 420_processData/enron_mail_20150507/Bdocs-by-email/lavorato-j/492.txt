@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+americas	1
+officerenron	1
+operating	1
+john		1
+streethouston	1
+chief		1
+lavoratopresident	1
+tx		1
+smith		1

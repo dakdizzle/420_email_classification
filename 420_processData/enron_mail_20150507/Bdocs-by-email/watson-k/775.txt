@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+affairs		1
+kim		1
+copy		1
+reg		1
+provide		1
+thanks		1

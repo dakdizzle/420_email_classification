@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+saturday	2
+early		1
+leaving		1
+stacey		1
+well		1
+exciting	1
+etc		1
+see		1
+morning		1
+life		1
+hope		1
+arriving	1
+kristin		1
+work		1
+social		1
+mike		1
+london		1
+wait		1
+november	1
+news		1
+next		1
+through		1

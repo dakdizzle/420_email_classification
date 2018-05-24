@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+congrats	1
+chicago		1
+good		1
+harvard		1
+joking		1
+ok		1
+though		1

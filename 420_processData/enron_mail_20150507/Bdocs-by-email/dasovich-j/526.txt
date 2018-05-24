@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+wonder		1
+up		1
+know		1
+covered		1
+keep		1
+network		1
+wrong		1
+something	1
+soon		1
+good		1
+enough		1
+jeff		1
+best		1
+received	1
+work		1
+sue		1
+note		1
+ll		1

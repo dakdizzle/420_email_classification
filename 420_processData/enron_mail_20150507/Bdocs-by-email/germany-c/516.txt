@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+dominion	2
+ebb		2
+access		2
+internet	1
+cng		1
+http		1
+pipeline	1
+menu		1
+used		1
+escript		1
+go		1
+start		1
+use		1
+called		1
+dom		1
+website		1
+don		1
+think		1
+com		1

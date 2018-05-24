@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+regarding	1
+day		1
+meeting		1
+stock		1
+except		1
+thursday	1
+work		1
+deferral	1
+phillip		1
+allen		1
+phantom		1
+reschedule	1

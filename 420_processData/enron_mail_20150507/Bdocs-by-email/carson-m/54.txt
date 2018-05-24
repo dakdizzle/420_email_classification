@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+christmas	1
+good		1
+wentapb		1
+mc		1
+cement		1
+phoenix		1
+comdid		1

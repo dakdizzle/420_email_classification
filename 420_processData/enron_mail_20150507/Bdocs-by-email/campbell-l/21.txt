@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+phone		2
+cell		1
+numbers		1
+now		1
+lost		1
+reach		1
+call		1

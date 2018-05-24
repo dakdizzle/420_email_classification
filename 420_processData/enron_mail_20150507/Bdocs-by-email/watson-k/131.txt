@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+cal		1
+kim		1
+email		1
+returned	1
+message		1
+ep		1
+failed		1
+permian		1
+transacted	1
+sorry		1
+earlier		1

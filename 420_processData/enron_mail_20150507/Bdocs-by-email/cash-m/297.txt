@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+indeed		1
+yes		1

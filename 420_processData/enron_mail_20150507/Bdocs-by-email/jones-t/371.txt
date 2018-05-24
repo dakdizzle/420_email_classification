@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+give		1
+call		1
+ll		1

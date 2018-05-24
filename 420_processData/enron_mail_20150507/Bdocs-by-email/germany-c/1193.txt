@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+andy		1
+few		1
+elses		1
+book		1
+deals		1
+won		1
+future		1
+anyone		1
+sorry		1
+asked		1
+doing		1

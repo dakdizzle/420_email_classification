@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+open		1
+up		1
+matched		1
+options		1
+cob		1
+ready		1
+along		1
+call		1
+llhgive		1
+morning		1
+good		1
+contracts	1
+go		1
+show		1
+direct		1
+bookouts	1
+here		1

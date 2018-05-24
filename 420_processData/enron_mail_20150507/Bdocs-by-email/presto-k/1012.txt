@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+recipients	1
+na		1
+everyday	1
+jae		1
+kill		1
+tamara		1
+enron		1
+please		1
+black		1
+ou		1
+tblack		1
+request		1

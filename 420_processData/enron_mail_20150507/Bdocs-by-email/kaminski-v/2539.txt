@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+traci		2
+cn		2
+warner		1
+vince		1
+enron		1
+twarner		1
+recipients	1
+ou		1
+na		1
+thanks		1

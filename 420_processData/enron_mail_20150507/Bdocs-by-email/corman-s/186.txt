@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+ve		1
+thinking	1
+track		1
+dates		1
+several		1
+winefest	1
+oops		1
+lost		1
+week		1
+weeks		1
+next		1
+mistake		1

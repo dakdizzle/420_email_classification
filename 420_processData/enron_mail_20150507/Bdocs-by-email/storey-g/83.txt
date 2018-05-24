@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+ll		2
+whatever	1
+point		1
+yeah		1
+pay		1
+guess		1
+meet		1
+transfer	1
+nbpl		1
+vent		1
+still		1
+volume		1

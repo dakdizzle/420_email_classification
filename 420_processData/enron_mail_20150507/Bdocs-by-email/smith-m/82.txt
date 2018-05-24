@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+cycle		2
+th		2
+st		2
+attached	1
+data		1
+kern		1
+file		1
+chris		1
+contains	1
+mat		1
+thanks		1
+through		1

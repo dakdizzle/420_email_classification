@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+put		1
+possible	1
+please		1
+go		1
+probably	1
+hours		1
+calendar	1

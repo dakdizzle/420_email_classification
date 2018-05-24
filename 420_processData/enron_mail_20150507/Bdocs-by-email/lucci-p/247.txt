@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+deprive		1
+legs		1
+won		1
+today		1
+skirt		1
+jeans		1
+look		1
+m		1
+luncheon	1
+wearing		1
+yes		1
+going		1
+brought		1

@@ -1,0 +1,27 @@
+NumWords	30
+NumTerms	24
+
+tp		2
+up		2
+chris		2
+cn		2
+book		2
+germany		2
+pays		1
+know		1
+cgerman		1
+recipients	1
+june		1
+filename	1
+na		1
+total		1
+loss		1
+pstplease	1
+annuity		1
+enron		1
+questions	1
+show		1
+ou		1
+set		1
+england		1
+new		1

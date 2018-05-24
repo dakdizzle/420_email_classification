@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+golfing		1
+message		1
+until		1
+happy		1
+late		1
+called		1
+hour		1
+didn		1

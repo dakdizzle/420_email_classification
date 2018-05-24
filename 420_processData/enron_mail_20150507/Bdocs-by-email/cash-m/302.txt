@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+handle		1
+please		1
+michelle	1
+thanks		1

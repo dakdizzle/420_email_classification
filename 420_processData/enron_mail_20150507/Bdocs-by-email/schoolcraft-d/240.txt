@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+ds		1
+matthews	1
+expertise	1
+david		1
+talk		1
+come		1
+tomorrow	1
+need		1
+roensch		1
+pull		1
+ron		1

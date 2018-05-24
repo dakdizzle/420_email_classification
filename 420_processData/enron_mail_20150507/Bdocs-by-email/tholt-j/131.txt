@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+october		1
+december	1
+go		1
+probably	1
+going		1

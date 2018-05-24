@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+lynn		1
+home		1
+both		1
+bring		1
+reminder	1
+checks		1
+tonight		1
+thanks		1
+ll		1
+richard		1

@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+party		1
+open		1
+jackass		1
+day		1
+job		1
+forgot		1
+well		1
+sorry		1
+couldnt		1
+rsvp		1
+kim		1
+house		1
+m		1
+hope		1
+message		1
+come		1
+knew		1
+already		1
+attend		1
+went		1
+jmf		1
+new		1

@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+steffes		3
+jim		2
+assist		1
+jan		1
+filename	1
+folder		1
+transfer	1
+call		1
+privileged	1
+jx		1
+content		1
+sent		1
+non		1
+encoding	1
+pstchantel	1
+please		1
+questions	1
+jsteffe		1
+origin		1
+itemsx		1
+james		1
+bitx		1

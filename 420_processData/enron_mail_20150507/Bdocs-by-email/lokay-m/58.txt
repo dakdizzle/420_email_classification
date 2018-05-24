@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+asp		2
+wdid		1
+shopping	1
+bag		1
+http		1
+gap		1
+www		1
+wpid		1
+com		1

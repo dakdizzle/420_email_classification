@@ -1,0 +1,21 @@
+NumWords	22
+NumTerms	18
+
+orlando		2
+paso		2
+el		2
+cogen		2
+party		1
+designee	1
+relationship	1
+contact		1
+now		1
+see		1
+orange		1
+sent		1
+m		1
+contract	1
+unclear		1
+correspondence	1
+owner		1
+okay		1

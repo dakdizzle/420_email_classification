@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+discuss		1
+ny		1
+enron		1
+please		1
+metals		1
+robertson	1
+comex		1
+deal		1
+making		1
+joe		1
+market		1
+call		1

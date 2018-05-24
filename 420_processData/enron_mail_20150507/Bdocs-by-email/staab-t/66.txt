@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+morning		1
+consult		1
+back		1
+partner		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+really		1
+mba		1
+heads		1
+turn		1
+hbs		1
+edu		1
+pooks		1
+epao		1
+chance		1
+here		1

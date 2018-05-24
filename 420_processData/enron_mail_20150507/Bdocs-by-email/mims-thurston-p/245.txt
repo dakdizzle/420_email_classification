@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+status		1
+hey		1
+everything	1
+time		1
+thank		1
+well		1
+lady		1
+netting		1
+nicor		1
+holiday		1
+hope		1
+inquiring	1
+agreement	1

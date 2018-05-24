@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+officerenron	1
+fax		1
+americastel	1
+operating	1
+www		1
+kitchenchief	1
+isn		1
+ubsenergy	1
+workinglouise	1
+com		1

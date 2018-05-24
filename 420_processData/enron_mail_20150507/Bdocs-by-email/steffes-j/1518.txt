@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+physical	1
+returned	1
+customers	1
+pjm		1

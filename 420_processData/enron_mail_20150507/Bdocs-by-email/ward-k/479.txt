@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+ward		3
+kim		2
+kward		1
+text		1
+houston		1
+jan		1
+plain		1
+filename	1
+folder		1
+pst		1
+privileged	1
+asciix		1
+content		1
+kx		1
+sent		1
+non		1
+type		1
+origin		1
+itemsx		1
+charset		1

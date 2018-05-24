@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+map		2
+py		2
+maps		2
+tmap		1
+addr		1
+newfl		1
+http		1
+stemmons	1
+yahoo		1
+csz		1
+pyt		1
+use		1
+bfcat		1
+below		1
+tx		1
+address		1
+country		1
+dallas		1
+com		1

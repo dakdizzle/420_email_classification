@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+points		1
+plz		1
+email		1
+talking		1
+jeff		1
+see		1

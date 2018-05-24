@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+affairs		1
+plove		1
+pl		1
+state		1
+filename	1
+transfer	1
+take		1
+privileged	1
+content		1
+non		1
+encoding	1
+px		1
+origin		1
+pstinteresting	1
+bitx		1
+love		1

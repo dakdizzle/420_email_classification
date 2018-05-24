@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+know		1
+thank		1
+contact		1
+houston		1
+phillip		1
+see		1
+right		1
+mike		1
+going		1
+grigsby		1
+allen		1
+behind		1
+sits		1

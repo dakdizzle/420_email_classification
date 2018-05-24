@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+com		2
+users		1
+ksyrah		1
+html		1
+ekskurs		1
+main		1
+studyrussian	1
+http		1
+aimnet		1
+lit		1
+htmlhttp	1
+literature	1

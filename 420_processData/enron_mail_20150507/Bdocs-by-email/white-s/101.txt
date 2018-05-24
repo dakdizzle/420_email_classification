@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+white		2
+stacy		1
+enron		1
+comx		1
+brackett	1
+origin		1
+pstfyistacey	1
+sx		1
+filename	1

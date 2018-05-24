@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+included	1
+redlined	1
+know		1
+attached	1
+review		1
+scanned		1
+left		1
+precedent	1
+same		1
+outs		1
+momentum	1
+hardcopy	1
+please		1
+dates		1
+agreements	1
+questions	1
+changes		1
+added		1
+blank		1
+agreement	1

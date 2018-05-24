@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+come		2
+want		2
+first		1
+champagne	1
+guys		1
+la		1
+meet		1
+folie		1
+great		1
+dinner		1
+jeff		1
+best		1
+restaurant	1
+before		1
+c		1
+glass		1

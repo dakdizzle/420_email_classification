@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+analysis	1
+scranda		1
+west		1
+electric	1

@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+bob		2
+group		1
+energy		1
+interested	1
+know		1
+well		1
+paso		1
+martin		1
+number		1
+capacity	1
+crites		1
+grier		1
+merchant	1
+el		1
+relates		1
+florida		1
+don		1

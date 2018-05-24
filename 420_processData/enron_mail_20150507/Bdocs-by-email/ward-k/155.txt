@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+bhp		1
+doc		1

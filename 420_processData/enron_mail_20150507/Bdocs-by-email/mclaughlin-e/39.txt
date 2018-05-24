@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+yours		1
+please		1
+ones		1
+kori		1
+tell		1
+errol		1
+thanks		1

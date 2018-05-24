@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+group		1
+make		1
+prices		1
+therefore	1
+tightly		1
+keep		1
+outside		1
+due		1
+proprietary	1
+markets		1
+curves		1
+controlled	1
+chosen		1
+analysis	1
+control		1
+perform		1
+available	1
+lose		1
+need		1
+eol		1
+access		1
+reasons		1
+very		1
+through		1

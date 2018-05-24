@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+mcash		2
+cn		2
+michelle	2
+cash		1
+up		1
+pstvaleria	1
+keep		1
+fyi		1
+recipients	1
+filename	1
+na		1
+privileged	1
+good		1
+non		1
+enron		1
+one		1
+work		1
+ou		1
+kudos		1
+clients		1
+here		1

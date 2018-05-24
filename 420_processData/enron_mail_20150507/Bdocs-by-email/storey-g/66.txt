@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+send		1
+tally		1
+enron		1
+houston		1
+yes		1
+geof		1
+going		1
+tx		1
+windsor		1
+reimburse	1

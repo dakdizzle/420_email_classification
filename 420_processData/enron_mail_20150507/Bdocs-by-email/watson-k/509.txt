@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+kim		1
+lee		1
+message		1
+per		1
+phone		1
+mail		1
+thanks		1

@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+please		2
+meeting		1
+zette		1
+up		1
+talk		1
+terry		1
+ppreciated	1
+know		1
+tj		1
+aside		1
+help		1
+setting		1
+black		1
+minutes		1
+calender	1
+coordinate	1
+week		1
+set		1
+don		1
+su		1
+sometime	1
+next		1

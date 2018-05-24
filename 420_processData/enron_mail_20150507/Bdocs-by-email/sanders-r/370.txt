@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+handle		1
+guys		1
+absence		1

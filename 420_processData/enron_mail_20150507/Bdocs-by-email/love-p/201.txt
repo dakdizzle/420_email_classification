@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+phillip		2
+cn		2
+love		2
+plove		1
+gdy		1
+pl		1
+recipients	1
+filename	1
+na		1
+gdm		1
+pstp		1
+enron		1
+ou		1

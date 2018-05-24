@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+work		2
+much		1
+appreciated	1
+nd		1
+returning	1
+rd		1
+schedule	1
+colorado	1
+m		1
+bert		1
+available	1
+feb		1
+dean		1

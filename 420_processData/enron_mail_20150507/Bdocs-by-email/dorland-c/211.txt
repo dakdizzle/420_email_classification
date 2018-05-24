@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+site		2
+thanxchris	1
+make		1
+day		1
+trouble		1
+weather		1
+chris		1
+accessing	1
+house		1
+whole		1
+access		1
+sure		1
+comparison	1
+having		1
+dorland		1
+fundy		1

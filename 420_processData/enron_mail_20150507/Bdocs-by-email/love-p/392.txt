@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+back		2
+good		1
+pl		1
+hope		1
+office		1
+baby		1
+now		1

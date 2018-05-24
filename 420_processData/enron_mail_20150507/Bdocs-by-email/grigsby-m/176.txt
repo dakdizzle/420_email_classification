@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hello		1
+speak		1
+know		1
+mike		1
+sorry		1
+chance		1
+elizabeth	1
+thanks		1

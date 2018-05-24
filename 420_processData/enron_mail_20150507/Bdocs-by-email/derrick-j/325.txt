@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+jim		1
+enron		1
+sharris		1
+harris		1
+yes		1
+recipients	1
+ou		1
+derrick		1
+stephanie	1
+na		1

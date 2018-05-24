@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+talk		2
+tim		1
+want		1
+kevin		1
+don		1

@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+vkamins		2
+vince		2
+cn		2
+dumped		1
+publication	1
+find		1
+recipients	1
+copies		1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+pstjoe		1
+ou		1
+issue		1
+week		1
+london		1
+think		1
+next		1
+kaminski	1

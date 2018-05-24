@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+together	1
+years		1
+ene		1
+concerns	1
+handle		1
+talk		1
+sarah		1
+martin		1
+needed		1
+past		1
+fine		1
+dutch		1

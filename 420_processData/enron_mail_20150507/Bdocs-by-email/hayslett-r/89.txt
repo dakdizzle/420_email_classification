@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+cash		2
+blackberry	2
+done		2
+year		2
+net		1
+pushed		1
+per		1
+wireless	1
+try		1
+handheld	1
+stan		1
+now		1
+www		1
+thepricing	1
+sent		1
+want		1
+need		1
+king		1
+works		1
+still		1
+rest		1
+needs		1
+next		1

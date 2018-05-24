@@ -1,0 +1,19 @@
+NumWords	23
+NumTerms	16
+
+com		4
+reliant		3
+goodell		2
+scott		2
+lindsey		1
+ubswenergy	1
+lhunt		1
+thanks		1
+bill		1
+fraser		1
+silby		1
+bfraser		1
+jsilby		1
+works		1
+hunt		1
+joe		1

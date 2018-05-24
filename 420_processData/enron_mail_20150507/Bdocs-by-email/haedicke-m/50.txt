@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+mhaedic		2
+cn		2
+mark		1
+recipients	1
+pstandy		1
+filename	1
+na		1
+privileged	1
+out		1
+haedicke	1
+look		1
+non		1
+office		1
+enron		1
+ou		1
+richard		1

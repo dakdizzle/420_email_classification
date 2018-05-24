@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+planned		1
+bt		1
+date		1

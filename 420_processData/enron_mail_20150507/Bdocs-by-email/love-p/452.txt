@@ -1,0 +1,22 @@
+NumWords	25
+NumTerms	19
+
+track		4
+trade		3
+books		2
+trdtrck		1
+make		1
+pl		1
+risk		1
+following	1
+halting		1
+bookepmi	1
+thanks		1
+dummy		1
+please		1
+temporarily	1
+inactivated	1
+sure		1
+types		1
+calcing		1
+trading		1

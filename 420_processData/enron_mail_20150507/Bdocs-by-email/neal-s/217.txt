@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+regarding	1
+scott		1
+starting	1
+track		1
+convenience	1
+available	1
+saavas		1
+leonida		1
+karen		1
+thanks		1
+date		1
+trading		1

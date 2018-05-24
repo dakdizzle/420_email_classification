@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+president	1
+mark		1
+fax		1
+know		1
+following	1
+taylorvice	1
+wholesale	1
+general		1
+number		1
+counselenron	1
+services	1
+office		1
+please		1
+use		1
+everyone	1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+info		1
+kim		1
+valuable	1
+customers	1
+know		1
+more		1
+thanks		1

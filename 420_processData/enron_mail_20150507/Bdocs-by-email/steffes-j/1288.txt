@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+naruc		1
+pls		1
+phone		1
+print		1
+call		1

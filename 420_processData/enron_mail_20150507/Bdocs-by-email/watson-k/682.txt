@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+capacity	1
+kim		1
+connecting	1
+up		1
+folks		1
+ena		1
+february	1
+release		1
+luck		1

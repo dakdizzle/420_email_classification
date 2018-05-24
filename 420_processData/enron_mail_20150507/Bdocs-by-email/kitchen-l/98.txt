@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+none		1
+exists		1
+today		1

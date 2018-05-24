@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+space		2
+free		1
+ourphysical	1
+few		1
+contact		1
+left		1
+september	1
+problem		1
+building	1
+suspended	1
+shriram		1
+vince		1
+ourold		1
+sort		1
+please		1
+feel		1
+shall		1
+again		1
+hiring		1
+till		1
+months		1
+kaminski	1
+next		1

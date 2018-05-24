@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+regarding	1
+jeff		1
+please		1
+peter		1
+call		1

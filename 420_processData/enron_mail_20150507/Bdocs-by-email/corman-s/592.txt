@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+great		1
+day		1
+teco		1
+time		1
+please		1
+know		1
+guests		1
+meet		1

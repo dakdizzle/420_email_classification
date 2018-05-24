@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+day		1
+bid		1
+david		1
+language	1
+best		1
+epmi		1
+thx		1
+apply		1
+trade		1
+jmf		1
+given		1

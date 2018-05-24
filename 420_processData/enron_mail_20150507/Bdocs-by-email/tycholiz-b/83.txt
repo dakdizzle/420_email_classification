@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+group		1
+yours		1
+miquel		1
+ena		1
+fyi		1
+wholesale	1
+pursue		1
+bt		1
+decided		1
+stay		1
+anything	1
+good		1
+hopefull	1
+tell		1
+considering	1
+within		1
+luck		1
+still		1

@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+mwhitt		2
+cn		2
+mark		1
+david		1
+recipients	1
+pozner		1
+filename	1
+na		1
+pstplease	1
+privileged	1
+distribution	1
+non		1
+enron		1
+ou		1
+whitt		1
+add		1

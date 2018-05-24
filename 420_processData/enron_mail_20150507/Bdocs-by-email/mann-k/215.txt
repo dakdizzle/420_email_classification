@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+without		1
+survived	1
+obviously	1
+barely		1
+kay		1

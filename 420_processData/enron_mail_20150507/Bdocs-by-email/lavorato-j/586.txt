@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+stuff		1
+assume		1
+peteyou		1
+accrual		1
+time		1
+john		1
+cuiaba		1
+spend		1
+once		1
+bucket		1
+aware		1
+project		1
+aspects		1
+want		1
+more		1
+putting		1
+including	1
+marked		1

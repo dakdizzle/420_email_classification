@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+clickathome	1
+net		1
+https		1
+yahoo		1
+www		1

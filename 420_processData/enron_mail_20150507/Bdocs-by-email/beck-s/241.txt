@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+early		1
+deadline	1
+until		1
+responses	1
+reviews		1
+tuesday		1
+see		1
+extended	1
+many		1
+hr		1
+sally		1
+weekend		1
+more		1
+work		1
+week		1
+next		1
+over		1

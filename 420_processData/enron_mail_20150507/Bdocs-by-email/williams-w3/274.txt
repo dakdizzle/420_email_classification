@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+take		2
+care		1
+leaving		1
+well		1
+message		1
+hope		1
+bill		1
+nw		1
+night		1
+christel	1
+going		1
+last		1
+chance		1
+doing		1
+note		1
+drop		1

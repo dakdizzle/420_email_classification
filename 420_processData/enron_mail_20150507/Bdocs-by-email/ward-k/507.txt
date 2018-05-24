@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+kathy		1
+send		1
+jeanie		1
+contribution	1
+longer		1
+looks		1
+thanks		1
+zero		1
+kim		1
+point		1
+way		1
+change		1
+united		1
+request		1

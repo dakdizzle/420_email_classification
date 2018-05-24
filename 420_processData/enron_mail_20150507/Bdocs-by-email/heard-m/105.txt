@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+company		1
+know		1
+ena		1
+marie		1
+number		1
+anything	1
+roeline		1
+tax		1
+need		1
+d		1
+upstream	1
+llc		1
+here		1

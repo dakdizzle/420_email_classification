@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+farthest	1
+quit		1
+go		1
+jobs		1
+houston		1
+outside		1
+woodlands	1
+applying	1

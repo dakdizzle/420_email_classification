@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+update		1
+tim		1
+thanks		1

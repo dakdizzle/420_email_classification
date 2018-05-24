@@ -1,0 +1,21 @@
+NumWords	22
+NumTerms	18
+
+out		3
+morgan		2
+trades		2
+cash		1
+stanley		1
+sempra		1
+dated		1
+online		1
+today		1
+bank		1
+america		1
+primarily	1
+long		1
+financial	1
+traded		1
+called		1
+charge		1
+door		1

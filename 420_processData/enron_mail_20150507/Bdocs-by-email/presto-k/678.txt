@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+joke		1
+agreed		1
+down		1
+totally		1
+absolute	1

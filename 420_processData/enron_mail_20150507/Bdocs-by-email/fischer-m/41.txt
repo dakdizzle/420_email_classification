@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+day		1
+good		1
+thursday	1
+tuesday		1
+sunday		1

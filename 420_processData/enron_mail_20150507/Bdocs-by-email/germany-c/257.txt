@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+day		2
+chris		2
+cn		2
+germany		2
+burns		1
+cgerman		1
+recipients	1
+low		1
+filename	1
+na		1
+see		1
+looks		1
+littel		1
+good		1
+real		1
+enron		1
+come		1
+pstnope		1
+sell		1
+more		1
+ou		1
+probably	1
+think		1
+next		1

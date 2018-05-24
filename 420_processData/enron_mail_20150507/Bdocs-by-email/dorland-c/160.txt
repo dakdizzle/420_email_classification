@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+usually		1
+late		1
+newspaper	1

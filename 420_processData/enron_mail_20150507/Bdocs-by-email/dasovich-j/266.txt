@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+keep		1
+mind		1
+ll		1

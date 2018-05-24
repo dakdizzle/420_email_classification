@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+network		1
+anything	1
+looking		1
+dated		1
+gas		1
+contract	1
+communications	1
+hometown	1

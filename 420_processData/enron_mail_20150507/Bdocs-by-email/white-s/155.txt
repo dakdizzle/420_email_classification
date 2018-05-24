@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+position	1
+stacey		1
+financial	1
+portfolio	1
+ui		1
+east		1
+still		1

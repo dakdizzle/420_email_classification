@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+charlie		1
+thing		1
+thank		1
+sorry		1
+appreciate	1
+along		1
+doug		1
+help		1
+such		1
+both		1
+way		1
+team		1
+mess		1
+turned		1
+given		1

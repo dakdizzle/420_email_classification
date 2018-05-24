@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+friday		2
+crew		1
+l		1
+wednesday	1
+thanksgiving	1
+proposed	1
+calcing		1
+skeleton	1
+here		1
+trading		1

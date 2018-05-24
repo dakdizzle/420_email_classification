@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+case		1
+free		1
+peco		1
+component	1
+call		1
+jim		1
+capacity	1
+explicity	1
+kw		1
+feel		1
+stranded	1
+jr		1
+year		1
+cost		1
+mo		1

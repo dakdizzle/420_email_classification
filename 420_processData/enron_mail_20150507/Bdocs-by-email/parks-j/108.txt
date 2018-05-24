@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+example		2
+contracts	2
+send		1
+hey		1
+math		1
+show		1
+price		1
+var		1
+vol		1
+joe		1
+callculate	1

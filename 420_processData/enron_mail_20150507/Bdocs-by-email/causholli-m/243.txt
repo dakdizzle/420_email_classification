@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+tomorrow	2
+coming		1
+meeting		1
+everything	1
+international	1
+leaving		1
+keep		1
+won		1
+arranged	1
+see		1
+advisor		1
+wednesdaythanks	1
+texas		1
+touch		1
+work		1
+university	1
+monika		1
+anyways		1
+dave		1
+tonight		1
+dallas		1
+exception	1

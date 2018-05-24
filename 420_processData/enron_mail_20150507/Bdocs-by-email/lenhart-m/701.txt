@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+cn		2
+enron		2
+ou		2
+time		1
+accenture	1
+recipients	1
+na		1
+kevin		1
+rouge		1
+clandry		1
+nu		1
+landry		1
+baton		1
+chad		1
+com		1
+boone		1

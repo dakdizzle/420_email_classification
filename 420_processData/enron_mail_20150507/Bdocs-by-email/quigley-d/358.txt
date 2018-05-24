@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+meeting		2
+dq		1
+up		1
+another		1
+attend		1
+move		1

@@ -1,0 +1,5 @@
+NumWords	4
+NumTerms	2
+
+m		3
+available	1

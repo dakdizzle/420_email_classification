@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+numbers		2
+want		2
+share		1
+becky		1
+know		1
+name		1
+call		1
+put		1
+capapcity	1
+enron		1
+turn		1
+back		1
+willing		1
+don		1

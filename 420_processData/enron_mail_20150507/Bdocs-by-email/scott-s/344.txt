@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+monday		2
+fly		2
+d		2
+email		1
+evening		1
+up		1
+heads		1
+friday		1
+susan		1
+later		1
+afternoon	1
+actually	1
+out		1
+ideally		1
+more		1
+thought		1
+sept		1
+give		1
+think		1
+ll		1

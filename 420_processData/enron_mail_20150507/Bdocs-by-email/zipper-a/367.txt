@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+around		1
+bullshit	1
+floating	1
+confused	1
+lot		1

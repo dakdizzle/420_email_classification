@@ -1,0 +1,27 @@
+NumWords	30
+NumTerms	24
+
+chris		3
+dorland		3
+physical	2
+cn		2
+mar		1
+huntington	1
+recipients	1
+nov		1
+filename	1
+na		1
+manage		1
+enron		1
+cdorlan		1
+index		1
+profile		1
+change		1
+pstclaudia	1
+ou		1
+thanx		1
+manager		1
+eol		1
+eg		1
+stack		1
+product		1

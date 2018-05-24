@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+out		2
+nobody		1
+visit		1
+until		1
+know		1
+boise		1
+houston		1
+find		1
+wanted		1
+better		1
+thanks		1
+hold		1
+nice		1
+one		1
+jobs		1
+expected	1
+idea		1
+sooner		1
+need		1
+thought		1
+think		1
+omewhere	1

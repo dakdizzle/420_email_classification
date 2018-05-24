@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+both		1
+newest		1
+send		1
+counterparties	1
+list		1
+stacey		1
+west		1
+performing	1
+someone		1
+still		1
+east		1
+thanks		1

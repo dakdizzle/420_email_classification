@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+up		2
+doing		2
+forms		1
+know		1
+marie		1
+now		1
+left		1
+omnibus		1
+mails		1
+out		1
+flood		1
+m		1
+before		1
+going		1
+last		1
+cynthia		1
+week		1
+don		1
+given		1
+cleaning	1
+through		1

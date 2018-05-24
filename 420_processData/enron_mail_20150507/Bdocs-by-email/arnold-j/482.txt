@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+lows		1
+enron		1
+fraser		1
+recipients	1
+ou		1
+na		1
+jennifer	1
+overvalued	1
+jfraser		1
+think		1

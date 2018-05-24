@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+group		1
+agenda		1
+type		1
+please		1
+whole		1
+short		1
+prepared	1
+thanks		1

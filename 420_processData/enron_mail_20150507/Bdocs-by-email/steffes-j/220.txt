@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+whatever	1
+support		1
+decide		1
+ll		1
+call		1

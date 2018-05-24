@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+vkamins		2
+vince		2
+cn		2
+meeting		1
+up		1
+recipients	1
+filename	1
+na		1
+thanks		1
+privileged	1
+non		1
+enron		1
+pstclayton	1
+shall		1
+ou		1
+youlater	1
+week		1
+set		1
+kaminski	1

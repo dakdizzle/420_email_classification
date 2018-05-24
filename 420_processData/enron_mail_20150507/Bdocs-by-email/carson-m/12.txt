@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+wire		2
+email		1
+send		1
+make		1
+meeting		1
+beckett		1
+ph		1
+entergykoch	1
+help		1
+confirm		1
+call		1
+out		1
+morning		1
+comher		1
+confirmation	1
+completed	1
+please		1
+thanksmc	1
+melissa		1
+ubs		1
+sure		1
+orientation	1

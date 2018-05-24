@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+email		1
+list		1
+please		1
+more		1
+don		1
+receive		1
+take		1
+wish		1

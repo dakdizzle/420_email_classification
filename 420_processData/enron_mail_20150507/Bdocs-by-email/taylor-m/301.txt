@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+home		2
+president	1
+mark		1
+nj		1
+assume		1
+taylorvice	1
+wholesale	1
+general		1
+correctly	1
+dinner		1
+counselenron	1
+services	1
+ny		1

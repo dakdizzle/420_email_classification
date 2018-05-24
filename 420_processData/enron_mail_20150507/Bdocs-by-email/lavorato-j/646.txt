@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+despite		1
+support		1
+rick		1
+guy		1
+guys		1
+noticed		1
+reasonable	1
+rac		1
+gorte		1
+conjunction	1
+think		1

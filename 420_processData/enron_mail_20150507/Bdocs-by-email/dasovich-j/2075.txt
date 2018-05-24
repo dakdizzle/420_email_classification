@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lead		1
+pounding	1
+calpine		1
+go		1
+generators	1
+interesting	1
+needed		1
+nuts		1
+going		1
+charge		1
+ll		1
+over		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+non		1
+mx		1
+enron		1
+comx		1
+tricia		1
+origin		1
+mwhitt		1
+whitt		1
+filename	1
+pst		1
+privileged	1
+flanigan	1

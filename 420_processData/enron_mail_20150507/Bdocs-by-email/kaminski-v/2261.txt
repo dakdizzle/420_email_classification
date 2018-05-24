@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+cn		2
+iris		2
+imack		1
+recipients	1
+appreciate	1
+involvement	1
+na		1
+thanks		1
+mack		1
+vince		1
+enron		1
+project		1
+ou		1

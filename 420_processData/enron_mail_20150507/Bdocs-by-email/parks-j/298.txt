@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+information	1
+carrie		1
+accountant	1
+wire		1
+txu		1
+dan		1

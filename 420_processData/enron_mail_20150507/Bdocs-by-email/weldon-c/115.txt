@@ -1,0 +1,18 @@
+NumWords	23
+NumTerms	15
+
+energy		3
+lyris		3
+estutenws	2
+williams	2
+confirm		2
+com		2
+live		1
+member		1
+daily		1
+confirmation	1
+update		1
+want		1
+remain		1
+listmanager	1
+news		1

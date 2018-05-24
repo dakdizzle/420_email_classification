@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+affiliate	1
+affiliates	1
+keep		1
+detailed	1
+communications	1
+expand		1
+marketing	1
+pipeline	1
+propose		1
+list		1
+require		1
+rules		1
+records		1
+new		1

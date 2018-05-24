@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+generate	1
+easy		1
+stacey		1
+know		1
+report		1
+work		1
+engine		1
+fast		1
+calculation	1
+straight	1

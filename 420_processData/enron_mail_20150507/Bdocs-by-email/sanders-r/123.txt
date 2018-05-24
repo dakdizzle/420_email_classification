@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+directory	1
+woods		1
+william		1

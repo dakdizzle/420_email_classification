@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+those		1
+everything	1
+action		1
+checked		1
+december	1
+major		1
+although	1
+reload		1
+improperly	1
+loaded		1
+wrong		1
+appears		1
+tara		1
+historicals	1
+back		1
+column		1
+another		1
+kern		1
+item		1
+website		1
+mat		1
+haven		1
+actuals		1

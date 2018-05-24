@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+direction	1
+copy		1
+cooper		1
+graduated	1
+visa		1
+canada		1
+application	1
+thanks		1
+point		1
+right		1
+degree		1
+part		1
+need		1
+process		1
+hi		1

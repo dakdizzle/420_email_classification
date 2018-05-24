@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+think		2
+gracie		1
+europe		1
+travel		1
+time		1
+now		1
+see		1
+market		1
+thanks		1
+jim		1
+down		1
+opportunities	1
+right		1
+come		1
+mom		1
+slowing		1
+go		1
+weekend		1
+want		1
+don		1
+through		1
+over		1
+always		1
+ll		1

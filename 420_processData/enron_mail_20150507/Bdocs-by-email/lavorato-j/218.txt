@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+employed	1
+monteal		1
+vince		1
+come		1
+national	1
+bank		1
+still		1
+resume		1

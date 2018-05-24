@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+stuff		1
+mentioned	1
+hello		1
+days		1
+few		1
+eat		1
+guys		1
+things		1
+flexible	1
+same		1
+see		1
+food		1
+good		1
+m		1
+eric		1
+ya		1
+sound		1
+pretty		1

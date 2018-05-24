@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+monday		1
+scenarios	1
+time		1
+rate		1
+road		1
+brainstorm	1
+middle		1
+treatment	1
+teb		1

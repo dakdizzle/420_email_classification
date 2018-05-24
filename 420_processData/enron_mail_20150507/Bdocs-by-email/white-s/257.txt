@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+associate	1
+rep		1
+contracts	1
+being		1
+stacey		1
+hr		1
+talk		1
+handled		1
+lemmons		1
+idea		1
+billy		1
+unhappy		1

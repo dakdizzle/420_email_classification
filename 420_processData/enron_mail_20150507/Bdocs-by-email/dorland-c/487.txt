@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+stuff		1
+together	1
+seems		1
+mls		1
+act		1
+take		1
+listings	1
+realtor		1
+long		1
+work		1
+looked		1
+don		1
+worry		1

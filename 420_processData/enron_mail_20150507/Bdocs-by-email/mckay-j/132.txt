@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+out		1
+regards		1
+jon		1
+offered		1
+year		1
+aug		1

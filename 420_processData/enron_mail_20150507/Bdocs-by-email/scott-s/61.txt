@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+morning		1
+monday		1
+ambrosia	1
+call		1

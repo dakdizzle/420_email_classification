@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+those		1
+everything	1
+penis		1
+straws		1
+things		1
+don		1

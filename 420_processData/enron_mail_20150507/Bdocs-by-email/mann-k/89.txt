@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+blackberry	2
+mark		1
+net		1
+fax		1
+up		1
+wireless	1
+handheld	1
+www		1
+thanks		1
+opinion		1
+sent		1
+suzanne		1
+llc		1
+adams		1

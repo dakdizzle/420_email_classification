@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+cn		2
+martin		2
+enron		1
+thomas		1
+recipients	1
+ou		1
+tom		1
+filename	1
+na		1
+pst		1
+tmartin		1

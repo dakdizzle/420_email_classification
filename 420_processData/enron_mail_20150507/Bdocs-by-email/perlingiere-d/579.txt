@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+fun		2
+know		2
+requires	1
+much		1
+climbing	1
+try		1
+sounds		1
+longs		1
+lots		1
+great		1
+body		1
+peak		1
+upper		1
+younger		1
+strength	1
+technical	1
+envy		1

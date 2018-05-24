@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+finance		1
+scott		1
+josey		1
+thompson	1
+john		1
+producer	1
+guys		1
+business	1
+doing		1

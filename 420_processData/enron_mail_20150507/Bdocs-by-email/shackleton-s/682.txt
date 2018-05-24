@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+fax		1
+sibyl		1
+faxing		1
+now		1
+prior		1
+problem		1
+pages		1
+call		1
+confirmation	1
+sara		1
+entirety	1
+signature	1
+went		1
+through		1

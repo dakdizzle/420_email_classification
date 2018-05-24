@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lake		1
+scott		1
+contact		1
+city		1
+salt		1
+wanting		1
+still		1
+forget		1
+don		1

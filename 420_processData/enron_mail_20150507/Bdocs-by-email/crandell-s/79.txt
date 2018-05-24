@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ve		1
+mailed		1
+washington	1
+check		1
+today		1
+pick		1

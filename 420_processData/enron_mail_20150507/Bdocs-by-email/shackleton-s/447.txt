@@ -1,0 +1,23 @@
+NumWords	33
+NumTerms	20
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+sbaile		1
+spanus		1
+labdsc		1
+boyd		1
+susan		1
+bailey		1
+debba		1
+samantha	1
+womans		1
+sboyd		1
+cavalier	1
+mail		1
+stephanie	1
+panus		1
+com		1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+calgary		1
+coming		1
+free		1
+course		1
+far		1
+farms		1
+woodlands	1
+layout		1
+yesterday	1
+friends		1
+great		1
+cant		1
+go		1
+cool		1
+went		1
+jmf		1
+glenloch	1

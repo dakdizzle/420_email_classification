@@ -1,0 +1,15 @@
+NumWords	24
+NumTerms	12
+
+mar		4
+day		4
+index		4
+cng		2
+nov		2
+apr		2
+regards		1
+hope		1
+ny		1
+jon		1
+help		1
+offers		1

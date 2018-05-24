@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+together	1
+put		1
+counterparties	1
+latter		1
+patrick		1
+few		1
+emailing	1
+today		1
+calling		1
+trying		1
+geof		1
+thanks		1

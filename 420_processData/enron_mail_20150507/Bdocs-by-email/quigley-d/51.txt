@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+send		1
+l		1
+thanksdutch	1
+file		1
+carlos		1

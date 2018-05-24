@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+mertz		1
+suppose		1
+decent		1
+know		1
+saw		1
+understand	1
+deer		1

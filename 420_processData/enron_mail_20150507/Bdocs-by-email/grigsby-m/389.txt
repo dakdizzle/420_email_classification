@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+access		2
+erequest	1
+sent		1
+zac		1
+grant		1
+analyst		1
+desk		1
+mike		1
+website		1
+new		1
+thanks		1

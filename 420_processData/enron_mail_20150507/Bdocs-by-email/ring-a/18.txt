@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+sitara		1
+deal		1
+hi		1
+thanks		1

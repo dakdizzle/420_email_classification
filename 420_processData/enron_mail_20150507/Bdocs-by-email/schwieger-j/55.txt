@@ -1,0 +1,10 @@
+NumWords	12
+NumTerms	7
+
+contracts	3
+nymex		3
+sell		2
+changed		1
+confirmed	1
+fax		1
+buy		1

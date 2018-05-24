@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+stevenson	1
+scott		1
+work		1
+phone		1
+julia		1
+dave		1
+thanks		1

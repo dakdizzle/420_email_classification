@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+imaginary	2
+kids		1
+reminds		1
+friends		1
+situation	1
+name		1
+friend		1

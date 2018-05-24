@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+omaha		2
+lynn		1
+customers	1
+trip		1
+thanks		1
+cover		1
+good		1
+training	1
+one		1
+idea		1
+coordinate	1
+think		1
+area		1
+randy		1

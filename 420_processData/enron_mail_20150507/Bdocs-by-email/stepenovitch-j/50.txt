@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+taking		1
+little		1
+spy		1
+joseph		1
+talk		1
+thanksgiving	1
+rhi		1
+thanks		1
+morning		1
+soon		1
+nice		1
+picture		1
+good		1
+hope		1
+carla		1
+game		1

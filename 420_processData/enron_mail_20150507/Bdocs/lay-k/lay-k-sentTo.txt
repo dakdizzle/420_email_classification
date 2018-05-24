@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+christie.patrick@enron.com	1
+sharon.butcher@enron.com	1
+michelle.cash@enron.com	1
+wired@condenast.flonetwork.com	1
+pamela.j.allison@dynegy.com	1
+hasan.kedwaii@enron.com	1
+mccann@nc.rr.com	1
+rickbe@microsoft.com	1
+lhjamail@aol.com	1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+first		1
+meeting		1
+present		1
+pg		1
+four		1
+paper		1
+meet		1
+bt		1
+asap		1
+agree		1
+need		1
+still		1
+don		1

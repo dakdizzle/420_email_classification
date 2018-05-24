@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+home		1
+stay		1
+thinking	1
+know		1
+need		1
+don		1
+mistake		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+soon		1
+case		1
+yeah		1
+come		1
+back		1
+timing		1
+bad		1
+last		1
+week		1

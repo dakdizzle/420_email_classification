@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+week		2
+next		2
+look		1
+bruce		1
+end		1
+until		1
+friday		1
+bring		1
+houston		1
+thurs		1
+reschedule	1

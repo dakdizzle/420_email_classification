@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+vitals		1
+lake		1
+hey		1
+tn		1
+missing		1
+sorry		1
+trip		1
+fest		1
+kim		1
+thinking	1
+cell		1
+ward		1
+italian		1
+sally		1
+streethouston	1
+going		1
+tx		1
+here		1

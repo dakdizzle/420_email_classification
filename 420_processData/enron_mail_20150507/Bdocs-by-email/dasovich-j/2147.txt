@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+raiders		1
+atlanta		1
+nyg		1
+gb		1
+sf		1
+jags		1
+sd		1
+skins		1
+miami		1
+bears		1
+indy		1
+baltimore	1
+philly		1

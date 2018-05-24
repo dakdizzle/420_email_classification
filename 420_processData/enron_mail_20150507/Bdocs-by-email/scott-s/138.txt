@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+option		1
+monday		1
+taking		1
+value		1
+adjusting	1
+george		1
+options		1
+today		1
+susan		1
+stop		1
+file		1
+reflect		1
+out		1
+l		1
+questions	1
+ll		1

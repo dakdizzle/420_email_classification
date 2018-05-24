@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+meeting		3
+lorraine	2
+attend		2
+questar		1
+lindberg	1
+john		1
+wednesday	1
+ask		1
+involved	1
+see		1
+thanks		1
+capacity	1
+kim		1
+regarding	1
+agave		1
+team		1
+office		1
+available	1
+mansoor		1
+mainline	1
+absence		1
+travelling	1

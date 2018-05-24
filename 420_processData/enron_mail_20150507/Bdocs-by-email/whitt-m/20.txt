@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+dog		1
+hot		1
+enron		1
+field		1
+cost		1

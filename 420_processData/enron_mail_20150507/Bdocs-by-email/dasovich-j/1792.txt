@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+great		1
+jeff		1
+best		1
+stop		1
+call		1
+ll		1

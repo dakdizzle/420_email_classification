@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+sheet		1
+term		1
+fine		1
+looks		1

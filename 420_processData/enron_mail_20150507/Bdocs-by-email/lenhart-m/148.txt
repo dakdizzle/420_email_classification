@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+waiter		1
+weed		1
+bought		1
+especially	1
+boone		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+nee		1
+anything	1
+ed		1
+received	1
+know		1
+dofr		1
+forward		1
+sorry		1
+loss		1

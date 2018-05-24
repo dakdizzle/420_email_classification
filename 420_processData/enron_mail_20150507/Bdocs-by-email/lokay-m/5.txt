@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+oba		1
+out		1
+cash		1
+williams	1
+old		1
+probably	1
+imbalance	1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+situation	1
+others		1
+curtail		1
+terminations	1
+disruptive	1
+unless		1
+best		1
+cause		1
+michelle	1
+probably	1
+wait		1
+don		1
+think		1

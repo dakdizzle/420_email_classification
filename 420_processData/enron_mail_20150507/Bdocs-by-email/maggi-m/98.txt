@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+dont		1
+go		1
+ask		1
+nope		1
+figure		1

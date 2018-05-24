@@ -1,0 +1,18 @@
+NumWords	19
+NumTerms	15
+
+prices		3
+sitara		2
+cig		2
+coming		1
+theresa		1
+gd		1
+know		1
+contact		1
+fine		1
+input		1
+out		1
+regarding	1
+look		1
+valerie		1
+figure		1

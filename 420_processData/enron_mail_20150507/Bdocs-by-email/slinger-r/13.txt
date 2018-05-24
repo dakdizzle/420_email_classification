@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+gas		1
+systems		1
+enpower		1
+thanks		1
+caps		1
+around		1
+recovery	1
+clock		1
+dollars		1
+mw		1
+built		1
+deal		1
+ryan		1
+sold		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+way		1
+baby		1
+nadine		1

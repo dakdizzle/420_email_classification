@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+good		1
+torrey		1
+production	1
+jay		1
+placed		1
+looks		1
+thanks		1

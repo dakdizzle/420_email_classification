@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+confirmedthanksvince	1
+kaminski	1

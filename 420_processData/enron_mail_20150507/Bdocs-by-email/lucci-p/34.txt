@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+time		1
+talk		1
+well		1
+glad		1
+served		1
+keep		1
+once		1
+bob		1
+hour		1
+see		1
+frustrations	1
+talked		1
+morning		1
+posted		1
+good		1
+m		1
+list		1
+explained	1
+again		1
+happy		1
+yes		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+long		1
+m		1
+saw		1
+camper		1
+happy		1
+change		1
+once		1
+diapers		1
+yeeeech		1
+someone		1
+tv		1
+don		1

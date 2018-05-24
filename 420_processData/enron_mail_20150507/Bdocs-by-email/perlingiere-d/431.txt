@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+eb		1
+fax		1
+legal		1
+houston		1
+street		1
+america		1
+gail		1
+enron		1
+texas		1
+dperlin		1
+north		1
+smith		1
+perlingiereenron	1
+debra		1

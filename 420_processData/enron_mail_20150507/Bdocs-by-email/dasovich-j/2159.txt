@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+tough		1
+maui		1
+visit		1
+ha		1
+now		1
+ah		1
+break		1
+sorry		1
+asking		1
+see		1

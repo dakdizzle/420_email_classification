@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+m		3
+meeting		2
+ok		2
+home		2
+coming		1
+nap		1
+time		1
+left		1
+depending	1
+hair		1
+out		1
+long		1
+hope		1
+feeling		1
+go		1
+work		1
+palm		1
+need		1
+before		1
+going		1
+last		1
+cut		1

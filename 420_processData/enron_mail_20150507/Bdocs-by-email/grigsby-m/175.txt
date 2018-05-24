@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+failed		1
+sheet		1
+today		1
+mike		1
+test		1
+stop		1
+chance		1
+tried		1
+thanks		1

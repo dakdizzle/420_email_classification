@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+chris		2
+cn		2
+germany		2
+heard		1
+sithe		1
+cgerman		1
+margaret	1
+recipients	1
+answer		1
+filename	1
+na		1
+pstruthy	1
+stion		1
+enron		1
+yes		1
+ou		1
+que		1

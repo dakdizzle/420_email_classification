@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+status		1
+greg		1
+employees	1
+cooper		1
+know		1
+ubs		1
+forward		1
+thx		1
+going		1
+vpn		1
+connectivity	1

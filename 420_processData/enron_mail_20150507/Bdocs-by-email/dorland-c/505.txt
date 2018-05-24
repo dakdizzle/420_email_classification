@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+sq		1
+helps		1
+looking		1
+price		1
+chris		1
+later		1
+call		1
+bedrooms	1
+getting		1
+plus		1
+bedroom		1
+something	1
+thinking	1
+hope		1
+den		1
+range		1
+back		1
+one		1
+quickly		1
+thanx		1
+week		1
+give		1
+feet		1
+dorland		1

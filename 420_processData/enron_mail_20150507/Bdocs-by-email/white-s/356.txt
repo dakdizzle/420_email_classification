@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+alberta		2
+position	1
+stacey		1
+ena		1
+incorrect	1
+big		1
+zero		1

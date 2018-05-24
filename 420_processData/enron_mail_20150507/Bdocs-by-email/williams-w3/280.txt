@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+send		1
+good		1
+written		1
+well		1
+kate		1
+away		1
+looks		1

@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+power		2
+cn		2
+apply		2
+mheard		2
+heard		1
+receivables	1
+marie		1
+recipients	1
+netting		1
+related		1
+psttrey		1
+filename	1
+na		1
+privileged	1
+contracts	1
+non		1
+liquids		1
+enron		1
+agreements	1
+epmi		1
+payments	1
+ou		1

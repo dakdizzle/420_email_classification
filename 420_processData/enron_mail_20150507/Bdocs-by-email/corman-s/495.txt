@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+record		2
+please		2
+approx		1
+lynn		1
+addition	1
+make		1
+fpps		1
+items		1
+docent		1
+audobon		1
+deposit		1
+blair		1
+following	1
+aeros		1
+post		1
+guild		1
+thanks		1
+gone		1
+acec		1
+made		1
+wer		1
+sure		1
+gaby		1
+note		1

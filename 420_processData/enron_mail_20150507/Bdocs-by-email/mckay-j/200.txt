@@ -1,0 +1,16 @@
+NumWords	17
+NumTerms	13
+
+iah		2
+rdu		2
+oct		2
+departing	2
+hear		1
+day		1
+hey		1
+friday		1
+glad		1
+sunday		1
+good		1
+jon		1
+book		1

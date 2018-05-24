@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+pm		2
+down		2
+here		2
+time		1
+difference	1
+unless		1
+watched		1
+bet		1
+actually	1
+happened	1
+cameon		1
+kr		1
+c		1
+didn		1

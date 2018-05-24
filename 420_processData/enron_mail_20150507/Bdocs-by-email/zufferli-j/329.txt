@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+tyler		1
+john		1
+please		1
+fichten		1
+murray		1
+mike		1
+messenger	1
+enpower		1
+access		1
+taylor		1
+seminuk		1
+give		1

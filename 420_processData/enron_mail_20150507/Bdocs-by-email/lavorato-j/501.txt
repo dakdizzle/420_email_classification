@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+going		2
+pstif		1
+jlavora		1
+gas		1
+isn		1
+johnx		1
+jackson		1
+filename	1
+lavorato	1

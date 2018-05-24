@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+right		1
+smiller		1
+enron		1
+yes		1
+recipients	1
+ou		1
+stephanie	1
+na		1
+miller		1

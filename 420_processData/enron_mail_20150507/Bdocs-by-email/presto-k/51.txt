@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+headcount	2
+group		1
+wrong		1
+list		1
+incorrect	1
+functional	1
+reconcile	1

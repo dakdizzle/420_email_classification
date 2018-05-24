@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+monday		1
+steelers	1
+case		1
+years		1
+statistically	1
+believe		1
+course		1
+against		1
+lost		1
+speaking	1
+haven		1
+bet		1

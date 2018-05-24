@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+out		1
+m		1
+good		1
+wednesday	1
+sounds		1
+week		1
+rest		1

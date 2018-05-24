@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+vince		2
+reveal		2
+elsathe		1
+discuss		1
+pricing		1
+foot		1
+first		1
+shoot		1
+friday		1
+scope		1
+filename	1
+vkamins		1
+gary		1
+toconsultants	1
+pstnelson	1
+jx		1
+ourselves	1
+technology	1
+shall		1
+go		1
+memphis		1
+kaminski	1

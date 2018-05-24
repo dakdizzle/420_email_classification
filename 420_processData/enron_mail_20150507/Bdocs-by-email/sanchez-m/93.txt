@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+make		1
+puking		1
+crossed		1
+finish		1
+ha		1
+focused		1
+definitely	1
+thanks		1
+out		1
+list		1
+clock		1
+lets		1
+big		1

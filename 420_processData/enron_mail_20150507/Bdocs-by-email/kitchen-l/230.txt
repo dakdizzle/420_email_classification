@@ -1,0 +1,20 @@
+NumWords	22
+NumTerms	17
+
+kerri		3
+fax		2
+rentskis	2
+com		2
+lionshead	1
+officerenron	1
+operating	1
+mailto		1
+vail		1
+eckardt		1
+louise		1
+kitchenchief	1
+phone		1
+colorado	1
+americastel	1
+circlevail	1
+sports		1

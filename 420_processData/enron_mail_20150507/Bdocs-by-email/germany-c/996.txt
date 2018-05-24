@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+rang		1
+up		1
+hung		1
+again		1
+phone		1
+hassel		1
+times		1
+tried		1
+call		1

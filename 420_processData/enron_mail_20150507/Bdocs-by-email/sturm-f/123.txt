@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+today		1
+fletch		1
+min		1

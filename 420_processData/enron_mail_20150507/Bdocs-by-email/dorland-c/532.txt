@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+group		1
+catch		1
+try		1
+talk		1
+chris		1
+gong		1
+afternoon	1
+dead		1
+show		1
+tired		1
+weekend		1
+going		1
+chance		1
+offsite		1
+jl		1
+haven		1

@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+rhaysle		2
+cn		2
+nbp		1
+plan		1
+send		1
+comapny		1
+pstcan		1
+recipients	1
+someone		1
+hayslett	1
+filename	1
+na		1
+privileged	1
+non		1
+services	1
+synopsis	1
+enron		1
+changes		1
+impact		1
+expected	1
+ou		1
+rod		1
+np		1

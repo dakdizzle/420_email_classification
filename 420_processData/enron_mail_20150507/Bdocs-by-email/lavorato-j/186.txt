@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+lavo		1
+owe		1
+household	1
+car		1
+suite		1
+rd		1
+lavorato	1
+interesting	1
+bought		1
+keys		1
+markstill	1
+movie		1
+waiting		1
+package		1
+include		1

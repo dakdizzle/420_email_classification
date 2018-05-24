@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+done		1
+errol		1
+thanks		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+diana		1
+fine		1
+saturday	1

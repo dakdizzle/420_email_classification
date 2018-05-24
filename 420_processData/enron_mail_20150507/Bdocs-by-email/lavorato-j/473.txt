@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+requires	1
+kim		1
+sherriff	1
+people		1
+meeting		1
+up		1
+john		1
+set		1

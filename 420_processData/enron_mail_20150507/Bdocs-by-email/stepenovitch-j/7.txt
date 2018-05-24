@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+morning		1
+good		1
+know		1
+go		1
+night		1
+going		1
+last		1
+didn		1

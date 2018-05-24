@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+wondering	1
+update		1
+peter		1
+pete		1
+hi		1
+keavey		1
+thanks		1

@@ -1,0 +1,24 @@
+NumWords	26
+NumTerms	21
+
+clip		3
+gallery		2
+embedded	2
+microsoft	2
+email		1
+admins		1
+hey		1
+above		1
+showed		1
+outside		1
+trying		1
+see		1
+out		1
+m		1
+enron		1
+graphics	1
+insert		1
+works		1
+figure		1
+art		1
+sentence	1

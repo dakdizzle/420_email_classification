@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+much		1
+job		1
+information	1
+looking		1
+talk		1
+phone		1
+meet		1
+see		1
+objective	1
+go		1
+want		1
+need		1
+don		1
+lunch		1
+here		1

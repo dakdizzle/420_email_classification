@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+seems		1
+fine		1

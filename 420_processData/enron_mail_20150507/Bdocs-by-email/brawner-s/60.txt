@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+story		1
+eddie		1
+party		1
+day		1
+brother		1
+share		1
+adopting	1
+things		1
+susan		1
+later		1
+alex		1
+saving		1
+ball		1
+morning		1
+nice		1
+good		1
+cloths		1
+tammi		1
+ben		1
+start		1
+wife		1
+saturday	1
+couple		1

@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+cn		2
+abayer		1
+travel		1
+html		1
+http		1
+www		1
+recipients	1
+bayer		1
+na		1
+moscowtimes	1
+enron		1
+index		1
+ou		1
+ru		1
+adam		1

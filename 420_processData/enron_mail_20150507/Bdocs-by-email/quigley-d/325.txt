@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+cookies		1
+bring		1

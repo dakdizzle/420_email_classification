@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+roy		2
+keep		2
+boston		2
+jim		1
+texas		1
+recommend	1
+mid		1
+bob		1
+move		1
+pat		1
+keene		1
+frank		1

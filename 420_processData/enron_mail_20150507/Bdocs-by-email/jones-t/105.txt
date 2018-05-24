@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+put		1
+down		1
+ll		1

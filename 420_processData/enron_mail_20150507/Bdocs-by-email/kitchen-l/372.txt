@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+superty		1
+plan		1
+hopefully	1
+logistics	1
+gas		1
+restart		1
+bob		1
+doing		1

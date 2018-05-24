@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+list		1
+mailing		1
+member		1
+now		1
+celestine	1
+year		1
+take		1
+thanks		1
+over		1

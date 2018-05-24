@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+put		1
+good		1
+plan		1
+possible	1
+enough		1
+usually		1
+few		1
+sounds		1
+signs		1
+routes		1
+think		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+vince		1
+shawn		1
+week		1
+tuesday		1
+next		1
+thanks		1

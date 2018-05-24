@@ -1,0 +1,19 @@
+NumWords	24
+NumTerms	16
+
+iroq		4
+tenn		4
+capacity	2
+wright		2
+wadd		1
+tcpl		1
+interested	1
+citygate	1
+gas		1
+ask		1
+whoever		1
+looks		1
+marvin		1
+mendon		1
+goes		1
+boston		1

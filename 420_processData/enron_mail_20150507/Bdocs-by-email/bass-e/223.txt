@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+taking		1
+together	1
+friday		1
+want		1
+golf		1

@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+thanks		2
+longshot	1
+mark		1
+coming		1
+happens		1
+seems		1
+meeting		1
+know		1
+involved	1
+denver		1
+shot		1
+respect		1
+being		1
+again		1
+excellent	1
+think		1

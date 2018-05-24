@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lynn		1
+party		1
+storage		1
+sheet		1
+tariff		1
+michelle	1
+third		1
+thanks		1

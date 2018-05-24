@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+attachment	1
+see		1
+didn		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+much		1
+table		1
+stand		1
+another		1
+now		1
+going		1
+note		1
+tfs		1

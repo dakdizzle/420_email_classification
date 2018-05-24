@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+send		1
+id		1
+lisa		1
+december	1
+counterparty	1
+working		1
+unique		1
+detailed	1
+settlement	1
+m		1
+hafslund	1
+subject		1
+data		1
+issue		1
+dec		1

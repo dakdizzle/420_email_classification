@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+hard		1
+stacey		1
+working		1
+thank		1
+future		1
+netco		1
+min		1
+efforts		1
+put		1
+look		1
+forth		1
+list		1
+react		1
+quickly		1
+moved		1
+happy		1
+forward		1
+work		1
+learn		1
+needs		1

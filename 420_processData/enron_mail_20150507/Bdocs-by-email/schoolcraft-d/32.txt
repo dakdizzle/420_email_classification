@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+cn		2
+dl		2
+enron		1
+controllers	1
+etsgascontrollers	1
+gas		1
+recipients	1
+ou		1
+ets		1
+na		1

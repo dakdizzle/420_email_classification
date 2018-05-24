@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+giving		1
+crazy		1
+estate		1
+web		1
+data		1
+fundy		1

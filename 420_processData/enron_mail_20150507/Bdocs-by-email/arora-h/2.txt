@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+griglia		1
+west		1
+la		1
+gray		1

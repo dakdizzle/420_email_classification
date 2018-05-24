@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+flow		1
+cash		1
+revised		1
+sorry		1
+million		1
+reflect		1
+rd		1
+actually	1
+tracy		1
+forecast	1
+back		1
+change		1
+sooner		1
+need		1
+ce		1

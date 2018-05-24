@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+day		1
+crazy		1
+today		1
+pstfrank	1
+filename	1
+vkamins		1
+feedback	1
+points		1
+jx		1
+vince		1
+agree		1
+back		1
+shall		1
+tomorrow	1
+youvince	1
+principle	1
+give		1
+kaminski	1

@@ -1,0 +1,25 @@
+NumWords	35
+NumTerms	22
+
+person		9
+omni		2
+omnipab		2
+omnitodos	2
+omnicalendarentries	2
+omninotes	2
+gay		1
+stanley		1
+olson		1
+kuykendall	1
+cindy		1
+julia		1
+randall		1
+white		1
+julie		1
+mcgowan		1
+michael		1
+ermis		1
+gomez		1
+tori		1
+horton		1
+frank		1

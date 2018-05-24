@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+enjoy		1
+swig		1
+thought		1
+love		1

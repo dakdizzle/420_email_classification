@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+releases	1
+html		1
+http		1
+texasfootball	1
+www		1
+mackbrown	1
+pages		1
+com		1

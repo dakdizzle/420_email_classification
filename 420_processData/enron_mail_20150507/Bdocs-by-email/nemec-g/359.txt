@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+know		2
+knows		1
+chris		1
+see		1
+call		1
+anything	1
+guy		1
+questions	1
+mary		1
+sandi		1
+asking		1
+called		1
+don		1

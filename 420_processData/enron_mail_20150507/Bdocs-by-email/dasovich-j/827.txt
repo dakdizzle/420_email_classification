@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+useful		1
+press		1
+giving		1
+folks		1

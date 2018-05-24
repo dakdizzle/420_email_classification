@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+card		1
+kim		1
+good		1
+starts		1
+go		1
+everyhting	1
+now		1
+maybe		1
+mail		1
+sale		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+option		1
+retirement	1
+lucky		1

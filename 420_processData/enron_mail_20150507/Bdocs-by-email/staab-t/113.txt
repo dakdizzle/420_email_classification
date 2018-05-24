@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+day		2
+theresa		1
+good		1
+know		1
+bring		1
+one		1
+work		1
+meet		1
+lunch		1
+quick		1
+thanks		1

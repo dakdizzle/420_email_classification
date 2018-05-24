@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+notice		1
+found		1
+termination	1

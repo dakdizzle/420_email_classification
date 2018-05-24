@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+lynn		2
+info		1
+schaffart	1
+gaye		1
+planning	1
+schaffartshe	1
+analysis	1
+northern	1
+director	1
+ms		1
+omahagaye	1
+business	1
+nborder		1
+com		1
+border		1
+here		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+larry		1
+need		1
+teams		1
+raetta		1
+communicate	1
+thanks		1

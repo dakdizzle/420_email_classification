@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+conflict	1
+morning		1
+dq		1
+luv		1
+ya		1
+plans		1
+tee		1
+booked		1
+times		1
+kevin		1
+sunday		1

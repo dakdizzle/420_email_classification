@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+interview	1
+track		1
+gary		1
+think		1
+trading		1
+linhart		1

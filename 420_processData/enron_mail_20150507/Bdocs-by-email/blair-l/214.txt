@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lynn		1
+ava		1
+office		1
+october		1
+th		1
+thanks		1

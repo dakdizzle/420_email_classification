@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+much		1
+fully		1
+vince		1
+free		1
+enron		1
+donate		1
+agree		1
+nelson		1
+want		1
+charity		1
+through		1
+wish		1

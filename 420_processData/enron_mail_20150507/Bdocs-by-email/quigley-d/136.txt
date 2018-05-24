@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+dquigle		2
+cn		2
+enron		2
+ect		1
+recipients	1
+psthttp		1
+filename	1
+na		1
+curves		1
+privileged	1
+dutch		1
+home		1
+non		1
+dept		1
+irfx		1
+ou		1
+quigley		1
+com		1

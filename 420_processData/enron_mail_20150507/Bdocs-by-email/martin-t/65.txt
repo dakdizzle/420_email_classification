@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+texas		1
+spreadsheet	1
+desk		1
+following	1

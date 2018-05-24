@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+central		2
+pl		1
+starting	1
+region		1
+up		1
+october		1
+continue	1
+oc		1
+longer		1
+mich		1
+call		1
+aruba		1
+ft		1
+l		1
+transport	1
+back		1
+roll		1
+need		1
+within		1
+separate	1
+needs		1

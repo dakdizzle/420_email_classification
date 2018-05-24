@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+contracts	2
+ferc		1
+keep		1
+moreover	1
+entities	1
+conduct		1
+material	1
+books		1
+pipelines	1
+found		1
+default		1
+provisions	1
+standards	1
+required	1
+enron		1
+cross		1
+records		1
+separate	1

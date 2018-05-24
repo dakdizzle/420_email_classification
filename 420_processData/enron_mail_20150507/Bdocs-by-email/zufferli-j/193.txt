@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+received	1
+spreadsheet	1
+documentation	1
+contract	1
+richter		1

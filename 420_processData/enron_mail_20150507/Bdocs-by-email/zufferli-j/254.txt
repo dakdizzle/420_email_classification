@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+info		1
+policy		1
+customers	1
+business	1
+provide		1

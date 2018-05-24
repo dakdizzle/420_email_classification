@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+party		1
+without		1
+guys		1
+halloween	1
+doing		1
+telling		1
+birthday	1

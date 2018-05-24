@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+way		1
+sent		1
+folks		1
+toby		1
+note		1
+thanks		1

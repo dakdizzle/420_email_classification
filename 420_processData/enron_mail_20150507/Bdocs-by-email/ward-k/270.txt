@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+time		1
+know		1
+quite		1
+keep		1
+jan		1
+asked		1
+expect		1
+running		1
+kim		1
+decide		1
+start		1
+smurfit		1
+cogen		1
+don		1
+turbine		1
+informed	1

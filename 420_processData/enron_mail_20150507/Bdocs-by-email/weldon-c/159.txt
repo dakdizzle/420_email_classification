@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+ll		3
+texas		2
+financially	1
+job		1
+desk		1
+low		1
+nymex		1
+physically	1
+east		1
+point		1
+three		1
+contracts	1
+july		1
+certainty	1
+start		1
+august		1
+play		1
+trading		1

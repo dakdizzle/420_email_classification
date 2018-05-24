@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+cn		2
+please		2
+perlingiere	2
+debra		2
+know		1
+well		1
+aspect		1
+recipients	1
+filename	1
+na		1
+schedule	1
+pst		1
+privileged	1
+dp		1
+non		1
+enron		1
+dperlin		1
+questions	1
+meter		1
+ou		1
+new		1
+amendment	1
+add		1
+here		1

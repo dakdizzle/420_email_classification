@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+kh		1
+day		1
+ok		1
+up		1
+know		1
+pick		1
+meet		1
+sounds		1
+point		1
+somewhere	1
+great		1
+come		1
+lunch		1

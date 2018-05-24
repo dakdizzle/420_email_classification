@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+sshackl		2
+person		2
+cn		2
+email		1
+credit		1
+shackleton	1
+marie		1
+recipients	1
+filename	1
+na		1
+call		1
+privileged	1
+non		1
+enron		1
+please		1
+sara		1
+approval	1
+ou		1
+pstwho		1

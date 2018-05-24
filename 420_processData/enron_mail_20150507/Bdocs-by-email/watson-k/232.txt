@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+discuss		1
+together	1
+airline		1
+know		1
+late		1
+audrey		1
+schedule	1
+thanks		1
+kim		1
+tomorrow	1
+festival	1
+need		1
+antonio		1
+laguna		1
+week		1
+tickets		1
+san		1
+think		1
+next		1

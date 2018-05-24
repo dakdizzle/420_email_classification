@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+slide		2
+map		1
+stan		1
+center		1
+thankstracy	1
+need		1
+mccarty		1
+danny		1
+quick		1
+pretty		1
+presentation	1

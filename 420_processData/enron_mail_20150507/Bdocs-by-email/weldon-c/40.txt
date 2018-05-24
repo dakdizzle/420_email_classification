@@ -1,0 +1,23 @@
+NumWords	26
+NumTerms	20
+
+john		2
+ect		2
+weldon		2
+hou		2
+charles		2
+stagecoach	2
+know		1
+forwarded	1
+regards		1
+promised	1
+enron		1
+kiani		1
+amto		1
+questions	1
+contractcharlie	1
+ectcc		1
+contract	1
+subject		1
+here		1
+enronxgate	1

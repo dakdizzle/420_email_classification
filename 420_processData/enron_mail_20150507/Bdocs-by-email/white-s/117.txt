@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+much		1
+hear		1
+stacey		1
+myself		1
+more		1
+didn		1

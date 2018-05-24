@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+thanks		2
+return		1
+close		1
+final		1
+review		1
+attorney	1
+revision	1
+out		1
+upon		1
+office		1
+mail		1
+week		1
+next		1

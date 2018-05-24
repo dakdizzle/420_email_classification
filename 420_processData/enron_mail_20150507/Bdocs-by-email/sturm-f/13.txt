@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+sit		1
+together	1
+put		1
+useful		1
+mitch		1
+time		1
+know		1
+dale		1
+fletch		1
+left		1
+before		1
+don		1

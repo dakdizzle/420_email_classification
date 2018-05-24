@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+discuss		1
+confirmations	1
+right		1
+friday		1
+lisa		1
+maybe		1
+meet		1
+appear		1
+afternoon	1

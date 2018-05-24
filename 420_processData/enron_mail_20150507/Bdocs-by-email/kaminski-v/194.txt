@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lawyer		1
+vince		1
+cindy		1
+chonawee	1
+praveen		1
+martin		1
+kaminski	1
+skinner		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+great		1
+hey		1
+sweet		1
+sale		1
+looks		1
+thanks		1

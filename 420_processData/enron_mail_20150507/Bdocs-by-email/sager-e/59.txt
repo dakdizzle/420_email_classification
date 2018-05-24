@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+scheduled	1
+already		1
+sager		1
+thankselizabeth	1
+think		1

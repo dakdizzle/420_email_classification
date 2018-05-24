@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+fr		1
+html		1
+ftppapers	1
+bacry		1
+http		1
+cmap		1
+www		1
+polytechnique	1

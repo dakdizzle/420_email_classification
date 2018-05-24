@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+pm		1
+april		1
+contracts	1
+contract	1
+buy		1
+settled		1
+hours		1
+trading		1

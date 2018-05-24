@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+chocolate	1
+munch		1
+now		1
+tastes		1
+away		1
+threw		1
+better		1
+afternoon	1
+mine		1

@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+electronic	2
+version		2
+latest		1
+rfp		1
+send		1
+helpful		1
+know		1
+gas		1
+origination	1
+help		1
+thanks		1
+out		1
+jim		1
+kim		1
+people		1
+sent		1
+questions	1
+internally	1
+having		1
+wardwest	1

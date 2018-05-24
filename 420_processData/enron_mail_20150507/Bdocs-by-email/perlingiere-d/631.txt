@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+legal		2
+eb		1
+fax		1
+wishes		1
+houston		1
+street		1
+isdas		1
+janie		1
+america		1
+kelly		1
+enron		1
+texas		1
+dept		1
+dperlin		1
+north		1
+tell		1
+smith		1
+perlingiereenron	1
+debra		1

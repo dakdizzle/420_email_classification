@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+discuss		1
+rebecca		1
+dont		1
+heard		1
+until		1
+talk		1
+definitely	1
+high		1
+afternoon	1
+teco		1
+come		1
+handle		1
+frontera	1
+want		1
+resource	1
+jmf		1
+pretty		1
+imbalance	1

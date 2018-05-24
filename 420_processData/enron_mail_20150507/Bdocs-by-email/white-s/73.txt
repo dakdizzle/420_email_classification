@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+stacey		1
+update		1
+sonia		1
+think		1

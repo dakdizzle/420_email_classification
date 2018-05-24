@@ -1,0 +1,5 @@
+NumWords	3
+NumTerms	2
+
+year		2
+cheers		1

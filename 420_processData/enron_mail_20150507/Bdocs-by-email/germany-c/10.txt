@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+invoices	2
+included	1
+littleton	1
+amountj		1
+worksheet	1
+payment		1
+producer	1
+gave		1
+carol		1
+volume		1
+toss		1
+april		1
+list		1
+harris		1
+cnr		1

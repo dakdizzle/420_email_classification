@@ -1,0 +1,27 @@
+NumWords	43
+NumTerms	24
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+info		1
+kh		1
+know		1
+attached	1
+morgan		1
+geaccone	1
+hayslett	1
+steven		1
+tgeacco		1
+rhaysle		1
+tracy		1
+ldonoho		1
+questions	1
+donoho		1
+sharris		1
+harris		1
+jp		1
+rod		1
+lindy		1

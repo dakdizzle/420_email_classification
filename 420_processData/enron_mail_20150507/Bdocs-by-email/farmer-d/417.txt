@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+master		1
+really		1
+basis		1
+jerry		1
+time		1
+learning	1
+eric		1
+spend		1
+such		1
+trading		1

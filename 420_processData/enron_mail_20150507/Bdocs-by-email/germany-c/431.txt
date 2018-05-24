@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+chris		2
+swing		2
+cn		2
+germany		2
+mcv		2
+monday		1
+conversation	1
+cgerman		1
+gas		1
+recipients	1
+th		1
+filename	1
+na		1
+regarding	1
+march		1
+pstfyi		1
+enron		1
+ou		1
+last		1
+anr		1
+trunkline	1
+activity	1

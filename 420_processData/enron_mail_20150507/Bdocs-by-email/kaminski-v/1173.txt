@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+somebody	1
+vince		1
+good		1
+recognize	1
+whocan		1
+jeff		1
+congratulations	1
+sees		1
+insanity	1
+comforting	1
+luck		1

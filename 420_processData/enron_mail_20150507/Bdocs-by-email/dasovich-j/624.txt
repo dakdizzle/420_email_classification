@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jeff		1
+best		1
+hearing		1
+analyst		1
+today		1
+calling		1
+missed		1
+lay		1
+edison		1
+take		1
+call		1

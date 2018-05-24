@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+need		2
+mcconnelltranswestern	1
+company		1
+exchange	1
+furthermore	1
+transact	1
+pipeline	1
+mcconnell	1
+cell		1
+enron		1
+office		1
+thursday	1
+bring		1
+smooootchmarkmark	1
+old		1
+faxmark		1
+tickets		1
+art		1
+november	1
+com		1

@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+make		2
+changes		2
+curve		2
+thankskk	1
+showing		1
+know		1
+now		1
+names		1
+anything	1
+two		1
+torrey		1
+right		1
+consistent	1
+made		1
+columns		1
+need		1
+added		1

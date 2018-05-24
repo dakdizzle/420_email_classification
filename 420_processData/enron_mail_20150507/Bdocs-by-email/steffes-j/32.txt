@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+susan		2
+cn		2
+make		1
+slindber	1
+lindberg	1
+know		1
+recipients	1
+na		1
+jim		1
+point		1
+enron		1
+please		1
+ou		1
+comments	1

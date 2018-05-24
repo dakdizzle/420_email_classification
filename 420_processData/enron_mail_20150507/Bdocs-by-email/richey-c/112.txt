@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ceilis		1
+o		1
+sent		1
+bit		1
+reading		1
+one		1
+oops		1
+stop		1
+note		1

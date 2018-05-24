@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+boondoggle	1
+another		1
+work		1
+going		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+handling	1
+information	1
+jvd		1
+thank		1
+rw		1

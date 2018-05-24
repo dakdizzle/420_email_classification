@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+those		1
+up		1
+set		1
+quick		1
+pretty		1

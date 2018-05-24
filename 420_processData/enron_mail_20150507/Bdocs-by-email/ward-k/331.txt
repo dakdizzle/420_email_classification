@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+lynn		1
+kim		1
+please		1
+october		1
+know		1
+questions	1
+confirms	1
+attached	1
+september	1
+thanks		1

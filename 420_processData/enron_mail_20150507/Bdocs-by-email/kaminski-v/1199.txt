@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+plz		1
+vince		1
+expense		1
+thoughtful	1
+cake		1
+kevin		1
+very		1

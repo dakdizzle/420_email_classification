@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+happens		1
+talk		1
+hate		1
+crazy		1
+chris		1
+later		1
+way		1
+nice		1
+going		1
+half		1
+week		1
+pretty		1
+very		1
+mine		1

@@ -1,0 +1,16 @@
+NumWords	17
+NumTerms	13
+
+austin		2
+twhiteman	2
+com		2
+rr		2
+email		1
+mailto		1
+contact		1
+list		1
+hoffman		1
+please		1
+suzanne		1
+address		1
+add		1

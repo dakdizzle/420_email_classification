@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+one		2
+table		1
+m		1
+puke		1
+back		1
+came		1
+myself		1
+heck		1
+crap		1
+getting		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+kim		1
+steve		1
+harris		1
+susan		1
+include		1
+thanks		1

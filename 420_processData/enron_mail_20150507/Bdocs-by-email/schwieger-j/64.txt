@@ -1,0 +1,12 @@
+NumWords	16
+NumTerms	9
+
+contracts	3
+nymex		3
+june		3
+sell		2
+settlement	1
+acces		1
+buy		1
+price		1
+trading		1

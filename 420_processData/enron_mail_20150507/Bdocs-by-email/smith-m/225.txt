@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+up		1
+office		1
+know		1
+apparently	1
+kam		1
+someone		1
+stephanie	1
+eol		1
+set		1
+mat		1

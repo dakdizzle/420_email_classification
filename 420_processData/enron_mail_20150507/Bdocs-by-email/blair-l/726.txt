@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lynn		1
+update		1
+scheduling	1
+nothing		1
+nng		1
+last		1
+business	1
+same		1
+tw		1
+shelley		1
+new		1
+thanks		1

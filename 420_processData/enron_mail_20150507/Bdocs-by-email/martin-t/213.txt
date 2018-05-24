@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+tmartin		2
+network		1
+weol		1
+matthe		1
+houston		1
+stack		1

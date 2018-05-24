@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+paul		1
+id		1
+ireye		1
+psthttp		1
+filename	1
+site		1
+investor	1
+layout		1
+privileged	1
+script		1
+constellationenergy	1
+thomasx		1
+zhtml		1
+pthomas		1
+non		1
+ir		1
+ceg		1
+item		1
+ticker		1
+com		1

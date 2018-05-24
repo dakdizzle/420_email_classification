@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+blackberry	2
+net		1
+wireless	1
+handheld	1
+www		1
+trying		1
+flexibility	1
+sent		1
+possible	1
+maintain	1
+need		1
+decision	1
+think		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+rick		1
+fyi		1
+review		1
+pls		1
+tx		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+taking		1
+kim		1
+friday		1
+vacation	1
+stptember	1
+thanks		1

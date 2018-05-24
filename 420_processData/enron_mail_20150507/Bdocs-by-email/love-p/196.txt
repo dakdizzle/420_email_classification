@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+know		2
+out		1
+send		1
+directory	1
+pl		1
+filled		1
+saved		1
+same		1
+request		1

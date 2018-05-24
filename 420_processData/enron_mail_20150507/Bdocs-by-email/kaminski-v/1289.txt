@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+following	1
+jan		1
+litigation	1
+untitledmartin	1
+ljm		1
+check		1
+please		1
+lotus		1
+informationrelevant	1
+trswapsvince	1
+folders		1
+notes		1
+kaminski	1

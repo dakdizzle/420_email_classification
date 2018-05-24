@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+cindy		1
+wed		1
+sorry		1
+someone		1
+delay		1
+thanks		1
+back		1
+need		1
+geting		1
+still		1
+elizabeth	1
+hi		1
+play		1

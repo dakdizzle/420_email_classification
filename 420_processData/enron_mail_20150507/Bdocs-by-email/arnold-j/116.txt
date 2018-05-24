@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+between		1
+tomorrow	1
+available	1
+preferably	1

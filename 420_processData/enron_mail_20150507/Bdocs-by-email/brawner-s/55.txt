@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+morning		1
+dont		1
+nice		1
+send		1
+john		1
+gave		1
+nerve		1
+mckay		1
+chuckle		1
+wish		1
+thanks		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+stan		1
+glance		1
+quick		1
+take		1
+dan		1

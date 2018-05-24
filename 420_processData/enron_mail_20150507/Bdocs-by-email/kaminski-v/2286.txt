@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+discuss		1
+vince		1
+paul		1
+want		1
+mike		1
+call		1

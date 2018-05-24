@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+cn		2
+jsteffe		2
+short		1
+procedures	1
+recipients	1
+answer		1
+filename	1
+na		1
+markets		1
+ees		1
+privileged	1
+jim		1
+steffes		1
+pstso		1
+kw		1
+non		1
+right		1
+enron		1
+change		1
+james		1
+ou		1
+needs		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+included	1
+schwieger	1
+john		1
+advise		1
+response	1
+tom		1
+jim		1
+regarding	1
+being		1
+please		1
+part		1
+process		1
+think		1
+prc		1

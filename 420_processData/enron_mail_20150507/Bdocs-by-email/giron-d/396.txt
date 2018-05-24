@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+mention		1
+forgot		1
+bombard		1
+come		1
+well		1
+club		1
+wristbands	1
+sorry		1
+dg		1
+endzone		1
+tix		1

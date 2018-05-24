@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+attend		2
+order		1
+monday		1
+first		1
+meeting		1
+ron		1
+ds		1
+morning		1
+out		1
+pnm		1
+rick		1
+need		1
+flight		1

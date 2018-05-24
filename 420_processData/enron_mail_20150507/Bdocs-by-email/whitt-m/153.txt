@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+kennedy		2
+together	1
+put		1
+recluse		1
+injto		1
+consideration	1
+options		1
+gas		1
+grasslands	1
+take		1
+summary		1
+proposal	1

@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+vince		2
+cn		2
+kaminski	2
+pstpraveen	1
+recipients	1
+filename	1
+na		1
+see		1
+vkamins		1
+vincent		1
+enron		1
+shall		1
+tomorrow	1
+ou		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+seen		1
+welcome		1
+credit		1
+dept		1
+progress	1
+again		1
+contact		1
+provide		1
+prodding	1
+inquire		1
+through		1
+call		1

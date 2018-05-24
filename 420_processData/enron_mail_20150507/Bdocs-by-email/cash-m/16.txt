@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+assume		1
+time		1
+central		1

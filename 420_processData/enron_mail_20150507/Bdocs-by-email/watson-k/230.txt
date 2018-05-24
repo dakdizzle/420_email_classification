@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+day		2
+taking		1
+kim		1
+m		1
+audrey		1
+took		1
+thanks		1

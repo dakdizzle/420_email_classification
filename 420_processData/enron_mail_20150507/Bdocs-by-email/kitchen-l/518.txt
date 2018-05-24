@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+discuss		1
+out		1
+way		1
+meeting		1
+sent		1
+please		1
+know		1
+forward		1
+emails		1

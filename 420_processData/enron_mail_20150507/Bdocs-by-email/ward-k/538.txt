@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+supplying	1
+gas		1
+scheduling	1
+words		1
+authorized	1
+agent		1
+marketer	1

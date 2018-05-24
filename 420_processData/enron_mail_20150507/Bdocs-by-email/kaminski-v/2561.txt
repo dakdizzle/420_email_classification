@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+vkamins		2
+vince		2
+cn		2
+cooperation	1
+interview	1
+crenshaw	1
+up		1
+recipients	1
+filename	1
+na		1
+pstjohnnythanks	1
+privileged	1
+non		1
+enron		1
+please		1
+assistant	1
+ou		1
+shirley		1
+set		1
+kaminski	1

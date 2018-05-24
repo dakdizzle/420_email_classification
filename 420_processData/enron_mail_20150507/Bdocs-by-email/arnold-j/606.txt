@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+cal		1
+america		1
+net		1
+woth		1
+try		1
+bank		1

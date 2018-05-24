@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+theredq		1
+familysee	1
+greatotherwise	1
+bring		1
+want		1
+tray		1
+veggie		1

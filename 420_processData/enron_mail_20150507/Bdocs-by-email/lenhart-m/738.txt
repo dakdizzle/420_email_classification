@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+going		2
+party		1
+garden		1
+night		1
+sat		1
+woodrows	1
+heights		1
+watch		1
+game		1
+saturday	1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+knowledge	1
+second		1
+people		1
+exactly		1
+time		1
+best		1
+fran		1
+paid		1
+probably	1
+request		1

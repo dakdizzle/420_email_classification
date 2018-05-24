@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+rotation	2
+done		1
+huang		1
+please		1
+analyst		1
+west		1
+jason		1
+another		1
+mike		1
+already		1
+move		1
+thanks		1

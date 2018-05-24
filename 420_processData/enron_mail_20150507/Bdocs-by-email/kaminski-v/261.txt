@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+aol		2
+vkaminski	2
+com		2
+moze		1
+adres		1
+mailto		1
+biurowy		1
+odpowiedz	1
+wkrotce		1
+na		1
+byc		1
+dziekuje	1
+nieaktualny	1
+wicek		1
+moj		1
+zosiu		1
+wysylaj		1

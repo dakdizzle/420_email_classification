@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+ve		2
+out		1
+kim		1
+time		1
+office		1
+report		1
+purposes	1
+although	1
+thanks		1
+here		1
+lot		1

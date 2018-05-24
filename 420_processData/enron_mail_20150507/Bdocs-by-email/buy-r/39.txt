@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+others		1
+case		1
+rick		1
+well		1
+consolidated	1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+office		1
+doing		1
+give		1
+call		1
+drop		1

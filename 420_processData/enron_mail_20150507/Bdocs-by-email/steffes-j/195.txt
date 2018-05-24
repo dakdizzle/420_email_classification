@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+steps		1
+fielder		1
+jeff		1
+bob		1
+thoughts	1
+next		1
+talked		1

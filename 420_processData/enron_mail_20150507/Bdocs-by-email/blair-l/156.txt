@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+john		2
+lynn		1
+budget		1
+coming		1
+issues		1
+up		1
+terry		1
+vacation	1
+want		1
+sure		1
+thanks		1

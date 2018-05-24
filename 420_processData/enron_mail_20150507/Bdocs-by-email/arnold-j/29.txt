@@ -1,0 +1,21 @@
+NumWords	22
+NumTerms	18
+
+hbs		2
+edu		2
+epao		2
+mba		2
+pao		1
+dont		1
+respond		1
+john		1
+eva		1
+call		1
+pmplease	1
+enron		1
+arnold		1
+ideas		1
+subject		1
+ini		1
+ll		1
+com		1

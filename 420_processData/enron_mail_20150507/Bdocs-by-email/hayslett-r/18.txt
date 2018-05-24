@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+meeting		1
+run		1
+staff		1
+bad		1

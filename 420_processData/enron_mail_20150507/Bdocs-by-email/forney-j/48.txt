@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+heard		1
+married		1
+true		1
+gotten		1
+jmf		1
+mikey		1

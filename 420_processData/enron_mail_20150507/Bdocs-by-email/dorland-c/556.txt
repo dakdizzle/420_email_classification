@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+picture		1
+happened	1
+annoying	1
+put		1
+cougar		1
+hot		1
+words		1
+sleep		1

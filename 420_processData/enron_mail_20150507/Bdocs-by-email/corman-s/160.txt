@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+files		2
+info		1
+customer	1
+make		1
+copy		1
+contact		1
+ne		1
+home		1
+label		1
+store		1
+please		1
+diskette	1
+save		1
+mail		1

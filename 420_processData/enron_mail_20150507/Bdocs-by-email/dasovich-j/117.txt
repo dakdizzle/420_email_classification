@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+number		2
+home		1
+free		1
+jeff		1
+best		1
+feel		1
+bob		1
+call		1

@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+africa		2
+chile		1
+europe		1
+per		1
+morocco		1
+combined	1
+attached	1
+today		1
+form		1
+karen		1
+shipments	1
+portugal	1
+data		1
+note		1
+request		1
+hardwood	1

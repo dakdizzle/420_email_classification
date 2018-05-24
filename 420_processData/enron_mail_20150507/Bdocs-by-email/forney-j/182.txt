@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+know		1
+fine		1
+meet		1
+jmf		1
+give		1
+call		1

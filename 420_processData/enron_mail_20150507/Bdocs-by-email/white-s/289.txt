@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+discuss		1
+cash		1
+terminations	1
+stacey		1
+following	1
+systemsscheduling	1
+call		1
+employee	1
+moraleterminations	1
+affecting	1
+downstream	1
+tomorrow	1
+already		1
+ensure		1
+paidother	1
+cutsthanks	1

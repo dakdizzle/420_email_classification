@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+full		1
+account		1
+check		1
+fidelity	1
+cashiers	1
+now		1
+deposited	1
+e		1
+post		1
+waiting		1
+amount		1

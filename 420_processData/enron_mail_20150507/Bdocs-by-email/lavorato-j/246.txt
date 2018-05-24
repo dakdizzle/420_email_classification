@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+put		1
+friday		1
+million		1
+jeffincrease	1
+amount		1
+prudency	1

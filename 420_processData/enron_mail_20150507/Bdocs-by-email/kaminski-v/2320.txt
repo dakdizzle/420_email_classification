@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+vince		1
+interview	1
+shirleyplease	1
+zimin		1
+suspects	1
+up		1
+guy		1
+phone		1
+bob		1
+usual		1
+alex		1
+set		1

@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+orig		2
+together	1
+sitting		1
+flip		1
+texas		1
+flop		1
+financial	1
+mean		1
+traders		1
+still		1
+next		1
+trading		1

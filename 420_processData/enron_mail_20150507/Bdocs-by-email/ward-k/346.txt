@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+think		2
+order		1
+guys		1
+response	1
+pursue		1
+thanks		1
+talked		1
+kim		1
+put		1
+one		1
+before		1
+away		1
+jay		1

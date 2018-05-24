@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+fri		1
+playing		1
+things		1
+slow		1
+golf		1
+boring		1
+here		1

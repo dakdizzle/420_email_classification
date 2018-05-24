@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+fastow		1
+andy		1
+personal	1
+hurdle		1
+rate		1
+probably	1

@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+cell		2
+prison		1
+ene		1
+up		1
+lock		1
+mate		1
+attorney	1
+ken		1
+cali		1
+journal		1
+see		1
+general		1
+article		1
+chairman	1
+lay		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+hope		1
+seattle		1
+power		1
+well		1
+know		1
+plant		1
+going		1
+ontario		1
+don		1
+sometime	1
+give		1
+call		1

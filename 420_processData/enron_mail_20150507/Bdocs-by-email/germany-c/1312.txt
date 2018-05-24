@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+enron		2
+pm		1
+magazine	1
+believed	1
+time		1
+until		1
+working		1
+today		1
+never		1
+texas		1
+comments	1
+read		1
+unflattering	1
+admitted	1
+ingrid		1

@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+cn		2
+mgrigsb		2
+mike		2
+thirty		1
+together	1
+try		1
+know		1
+recipients	1
+filename	1
+na		1
+afternoon	1
+keith		1
+privileged	1
+non		1
+enron		1
+pstyou		1
+minutes		1
+ou		1
+grigsby		1

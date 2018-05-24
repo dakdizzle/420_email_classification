@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+monday		1
+group		1
+dinner		1
+idea		1
+lunch		1
+oct		1

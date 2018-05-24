@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+energy		2
+stocks		2
+group		1
+heard		1
+ene		1
+stock		1
+california	1
+until		1
+company		1
+decline		1
+now		1
+street		1
+major		1
+dropmost	1
+dutch		1
+gets		1
+watching	1
+right		1
+settled		1
+wal		1
+bearish		1
+new		1
+purvi		1
+news		1

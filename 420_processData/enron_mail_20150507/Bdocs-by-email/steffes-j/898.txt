@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+discuss		1
+monday		1
+sit		1
+position	1
+friday		1
+susan		1
+thanks		1
+jim		1
+down		1
+tomorrow	1
+want		1
+timing		1
+idea		1
+minutes		1
+maybe		1

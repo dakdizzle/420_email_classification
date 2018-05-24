@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+completed	1
+office		1
+until		1
+please		1
+spreadsheet	1
+one		1
+mike		1
+thanks		1
+sleep		1

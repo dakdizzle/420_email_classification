@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+mlokay		2
+cn		2
+meeting		1
+mentioned	1
+recipients	1
+filename	1
+na		1
+yesterday	1
+call		1
+privileged	1
+pstfyi		1
+non		1
+during		1
+enron		1
+staff		1
+ou		1
+michelle	1
+lokay		1
+d		1
+conference	1

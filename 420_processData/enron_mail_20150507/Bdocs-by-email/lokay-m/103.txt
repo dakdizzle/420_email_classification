@@ -1,0 +1,24 @@
+NumWords	37
+NumTerms	21
+
+mojave		7
+difference	6
+tw		6
+those		1
+location	1
+following	1
+lists		1
+printed		1
+thanks		1
+confirm		1
+each		1
+reconciliation	1
+really		1
+volumes		1
+one		1
+scheduled	1
+helping		1
+months		1
+quantity	1
+summary		1
+richard		1

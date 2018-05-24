@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+gnemec		2
+cn		2
+pstattached	1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+nemec		1
+ou		1
+kachina		1
+gerald		1

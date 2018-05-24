@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+register	1
+until		1
+person		1
+approves	1
+charge		1
+don		1
+think		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+eb		1
+cext		1

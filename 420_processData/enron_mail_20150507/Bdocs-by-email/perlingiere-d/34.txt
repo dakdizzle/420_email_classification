@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+livelink	2
+nodeid		1
+doc		1
+ena		1
+http		1
+fetch		1
+func		1
+pdf		1
+exe		1
+enron		1
+edms		1
+jun		1
+com		1

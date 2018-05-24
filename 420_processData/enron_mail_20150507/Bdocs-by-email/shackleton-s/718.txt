@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+eb		1
+fax		1
+john		1
+ph		1
+attached	1
+street		1
+boilerplate	1
+wholesale	1
+requested	1
+services	1
+shackletonenron	1
+sara		1
+ahouston	1
+tx		1
+smith		1

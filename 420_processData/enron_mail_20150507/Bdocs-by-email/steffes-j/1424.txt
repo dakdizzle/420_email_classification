@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+cn		2
+jsteffe		2
+keep		1
+loop		1
+recipients	1
+filename	1
+na		1
+pstplease	1
+privileged	1
+steffes		1
+opportunities	1
+non		1
+enron		1
+developing	1
+james		1
+ou		1

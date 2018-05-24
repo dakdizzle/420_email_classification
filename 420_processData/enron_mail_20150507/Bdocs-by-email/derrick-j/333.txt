@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+tyler		1
+obtained	1
+please		1
+thank		1
+sally		1
+format		1
+spa		1
+attachment	1
+addresses	1
+print		1
+addressees	1

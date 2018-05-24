@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+map		1
+working		1
+start		1
+large		1
+monika		1
+chance		1
+better		1
+thanks		1

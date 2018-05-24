@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+dont		1
+tracy		1
+look		1
+understand	1
+means		1
+give		1
+call		1

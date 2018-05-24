@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+make		1
+time		1
+leave		1
+need		1

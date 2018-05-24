@@ -1,0 +1,27 @@
+NumWords	29
+NumTerms	24
+
+see		2
+out		2
+probably	2
+don		2
+ll		2
+up		1
+end		1
+know		1
+fyi		1
+wanted		1
+enthusiastic	1
+bryan		1
+feel		1
+thursday	1
+go		1
+again		1
+night		1
+goes		1
+excited		1
+going		1
+last		1
+called		1
+sue		1
+think		1

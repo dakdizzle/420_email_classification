@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+waited		1
+cancelled	1
+guess		1
+conference	1
+min		1
+call		1

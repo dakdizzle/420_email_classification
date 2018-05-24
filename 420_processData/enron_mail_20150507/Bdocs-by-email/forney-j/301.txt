@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+lloyd		1
+fyi		1
+jmf		1

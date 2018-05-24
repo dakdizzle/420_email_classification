@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+house		1
+night		1
+applied		1
+last		1
+pies		1

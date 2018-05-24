@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ok		1
+invite		1
+wadle		1
+susan		1
+ll		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+info		1
+translate	1
+merit		1
+lets		1
+spreadsheet	1
+tomorrow	1
+bonus		1
+form		1
+meet		1
+donna		1

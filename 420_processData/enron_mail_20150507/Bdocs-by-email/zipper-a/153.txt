@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+conferences	1
+check		1
+traveling	1
+please		1
+prior		1
+thanks		1

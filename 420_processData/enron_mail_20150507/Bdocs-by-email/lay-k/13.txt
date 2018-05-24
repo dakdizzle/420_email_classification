@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+mccann		2
+enron		1
+nc		1
+com		1
+rr		1
+michael		1

@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+cn		2
+monday		1
+gmtsubject	1
+raj		1
+recipients	1
+attachment	1
+inline		1
+na		1
+call		1
+april		1
+enron		1
+lcanno		1
+follows		1
+ou		1
+give		1
+date		1

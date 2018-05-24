@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+th		2
+lynn		1
+info		1
+ricki		1
+christine	1
+july		1
+gave		1
+fyi		1
+janet		1
+tickets		1
+thanks		1

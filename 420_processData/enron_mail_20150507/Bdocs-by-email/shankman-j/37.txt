@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+day		1
+indeed		1
+jeffshankman	1
+tomorrow	1
+use		1
+comwacky	1
+last		1
+world		1
+hotmail		1

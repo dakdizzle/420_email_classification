@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+storey		1
+name		1
+james		1
+cameron		1

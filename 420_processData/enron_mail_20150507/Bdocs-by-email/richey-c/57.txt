@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+worse		1
+stratego	1
+even		1

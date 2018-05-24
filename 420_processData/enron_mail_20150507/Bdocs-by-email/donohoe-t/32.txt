@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+trade		2
+early		1
+day		1
+except		1
+wednesday	1
+leave		1
+same		1
+products	1
+al		1
+understand	1
+ahead		1
+move		1
+fro		1
+don		1

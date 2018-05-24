@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+seen		1
+one		1
+sorry		1
+tried		1
+elizabeth	1
+haven		1
+joe		1

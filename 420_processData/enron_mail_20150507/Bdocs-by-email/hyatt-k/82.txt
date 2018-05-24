@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+group		1
+those		1
+people		1
+list		1
+entire		1
+amazes		1
+looked		1
+including	1
+over		1

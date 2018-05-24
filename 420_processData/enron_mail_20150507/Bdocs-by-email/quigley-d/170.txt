@@ -1,0 +1,13 @@
+NumWords	13
+NumTerms	10
+
+plus		2
+same		2
+head		2
+setting		1
+beaveri		1
+up		1
+fourdq		1
+fouri		1
+saturday	1
+golf		1

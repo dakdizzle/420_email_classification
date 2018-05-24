@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+eagles		1
+raiders		1
+under		1
+bears		1
+balt		1
+vikings		1
+wash		1
+bengals		1
+pats		1
+lions		1
+over		1
+rams		1

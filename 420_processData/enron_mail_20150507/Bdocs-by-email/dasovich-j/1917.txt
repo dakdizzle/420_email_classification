@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+hear		1
+soon		1
+thing		1
+jeff		1
+best		1
+spelled		1
+know		1
+yes		1
+calls		1
+correctly	1

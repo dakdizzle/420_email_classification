@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+views		1
+pricing		1
+much		1
+assume		1
+larry		1
+kent		1
+dan		1
+market		1
+point		1
+reasoning	1
+jo		1
+volumetrics	1
+based		1

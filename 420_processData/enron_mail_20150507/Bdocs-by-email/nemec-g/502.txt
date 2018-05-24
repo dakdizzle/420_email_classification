@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+ca		1
+ok		1
+redlined	1
+revised		1
+term		1
+attached	1
+fine		1
+years		1
+version		1
+clean		1
+changes		1
+forward		1
+year		1
+marathon	1

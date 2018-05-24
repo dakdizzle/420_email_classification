@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+put		1
+list		1
+please		1
+yes		1
+swig		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+won		1
+convincing	1
+argument	1

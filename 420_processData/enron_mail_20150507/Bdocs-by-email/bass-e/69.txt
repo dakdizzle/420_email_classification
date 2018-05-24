@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+party		1
+send		1
+http		1
+www		1
+invitees	1
+list		1
+e		1
+need		1
+mail		1
+txtreasure	1
+still		1
+think		1
+date		1
+com		1

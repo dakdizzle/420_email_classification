@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+coverages	2
+insurance	2
+make		1
+ie		1
+different	1
+checked		1
+houston		1
+trip		1
+places		1
+life		1
+regarding	1
+look		1
+non		1
+storey		1
+ny		1
+talking		1
+father		1
+dad		1
+business	1
+death		1
+sure		1
+standard	1

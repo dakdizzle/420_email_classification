@@ -1,0 +1,24 @@
+NumWords	47
+NumTerms	21
+
+ercot		8
+fw		5
+ubs		5
+docs		4
+sign		4
+up		2
+trade		2
+market		2
+set		2
+access		2
+pira		1
+important	1
+out		1
+users		1
+opportunities	1
+office		1
+liquidity	1
+var		1
+manager		1
+stack		1
+mtg		1

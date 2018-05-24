@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+orimulsion	2
+fuel		2
+olan		1
+potential	1
+know		1
+creating	1
+calling		1
+sourced		1
+ken		1
+same		1
+refinery	1
+burned		1
+regarding	1
+former		1
+two		1
+employee	1
+manner		1
+alternative	1
+sources		1
+fpl		1

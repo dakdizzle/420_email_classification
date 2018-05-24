@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+gov		1
+ca		1
+seen		1
+case		1
+http		1
+capowerauthority	1
+www		1
+pdf		1
+hadn		1
+pr		1
+mediarelease	1

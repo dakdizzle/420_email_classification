@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+day		2
+morning		1
+mark		1
+down		1
+tjaecan		1
+feeling		1
+sick		1
+ble		1
+terri		1
+harry		1
+today		1
+half		1

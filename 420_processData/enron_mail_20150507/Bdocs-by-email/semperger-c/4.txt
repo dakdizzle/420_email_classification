@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+picture		1
+device		1
+embedded	1
+error		1
+bitmap		1
+independent	1

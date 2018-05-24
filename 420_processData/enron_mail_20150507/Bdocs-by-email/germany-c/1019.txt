@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+back		1
+buy		1
+chat		1
+created		1
+far		1
+need		1
+later		1
+rd		1
+imbalance	1
+see		1
+ogy		1

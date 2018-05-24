@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+send		3
+want		2
+email		1
+directly	1
+know		1
+tom		1
+respect		1
+nda		1
+need		1
+going		1
+prefer		1
+address		1
+deloitte	1

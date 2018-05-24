@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+meeting		1
+kerry		1
+sally		1
+know		1
+well		1
+want		1
+mike		1
+attend		1
+works		1
+schedule	1
+include		1

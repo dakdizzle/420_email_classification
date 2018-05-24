@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+phones		2
+card		1
+mark		1
+credit		1
+now		1
+susan		1
+put		1
+cell		1
+expense		1
+turn		1
+go		1
+ahead		1
+called		1
+ll		1

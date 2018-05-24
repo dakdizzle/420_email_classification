@@ -1,0 +1,15 @@
+NumWords	19
+NumTerms	12
+
+cn		4
+enron		2
+recipients	2
+ou		2
+na		2
+rogers		1
+jr		1
+rroger		1
+rex		1
+rwalls		1
+rob		1
+walls		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+thisjohn	1
+grap		1
+lets		1
+minutes		1

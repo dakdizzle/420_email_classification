@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+ll		2
+larry		1
+yrs		1
+stuck		1
+desk		1
+watch		1
+same		1
+still		1

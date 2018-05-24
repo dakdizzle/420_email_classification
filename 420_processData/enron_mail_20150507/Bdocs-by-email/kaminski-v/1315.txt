@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+vince		1
+time		1
+stop		1
+sevil		1

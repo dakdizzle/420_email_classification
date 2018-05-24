@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+mailed		1
+come		1
+neil		1
+arizona		1
+e		1
+julia		1
+dave		1
+expect		1
+rock		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kimi		1
+need		1
+data		1
+vladi		1
+thanks		1
+excel		1
+exported	1
+actually	1

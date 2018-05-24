@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+esaibipassword	2
+username	1
+adm		1
+power		1
+web		1
+manager		1
+eol		1
+dec		1
+password	1
+call		1
+putstack	1

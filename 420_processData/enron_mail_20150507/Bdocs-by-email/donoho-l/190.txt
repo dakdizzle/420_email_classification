@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+gear		1
+khalid		1
+sweet		1
+guys		1
+xoxo		1
+act		1
+soo		1
+thanks		1
+oooh		1
+pic		1
+lindy		1
+darling		1
+hi		1
+love		1
+tech		1
+digital		1
+here		1
+ll		1

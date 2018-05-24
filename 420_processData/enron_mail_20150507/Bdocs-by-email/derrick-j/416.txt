@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+without		1
+send		1
+message		1
+attempted	1
+nancy		1
+hopefully	1
+one		1
+success		1
+below		1
+earlier		1
+through		1

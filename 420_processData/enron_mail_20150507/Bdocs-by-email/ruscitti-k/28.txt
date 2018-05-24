@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+jun		2
+mar		1
+kevinfyi	1
+much		1
+free		1
+action		1
+keep		1
+today		1
+la		1
+nov		1
+appreciate	1
+call		1
+thanks		1
+lee		1
+aquila		1
+decent		1
+feel		1
+questions	1
+ngpl		1
+oct		1
+informed	1
+ll		1
+seller		1

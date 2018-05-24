@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+job		2
+fun		1
+press		1
+paul		1
+report		1
+top		1
+unit		1
+getting		1
+soon		1
+guy		1
+reading		1
+unregulated	1
+makes		1
+eric		1
+release		1
+relates		1
+went		1
+spun		1
+named		1
+think		1
+vanderwald	1
+shockley	1

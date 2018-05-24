@@ -1,0 +1,21 @@
+NumWords	24
+NumTerms	18
+
+written		3
+agent		3
+transfer	2
+new		2
+addition	1
+party		1
+well		1
+letter		1
+consenting	1
+form		1
+acknowledge	1
+same		1
+regarding	1
+consent		1
+contract	1
+document	1
+need		1
+previous	1

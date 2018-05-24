@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+find		2
+deal		2
+simply		1
+mark		1
+under		1
+ena		1
+gas		1
+paper		1
+database	1
+see		1
+look		1
+done		1
+global		1
+agreements	1
+contract	1
+intra		1
+binders		1
+ticket		1
+booked		1
+didn		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+bankrupt	1
+stock		1
+company		1
+go		1
+below		1

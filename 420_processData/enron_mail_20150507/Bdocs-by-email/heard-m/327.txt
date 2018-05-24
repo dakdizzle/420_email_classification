@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+go		2
+mama		1
+eat		1
+guess		1
+see		1
+suffer		1
+decided		1
+supper		1
+decide		1
+anne		1
+tomorrow	1
+mass		1
+night		1
+spoke		1
+ll		1

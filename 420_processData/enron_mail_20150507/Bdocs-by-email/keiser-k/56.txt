@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+first		1
+users		1
+list		1
+up		1
+know		1
+errol		1
+web		1
+set		1
+kk		1
+add		1

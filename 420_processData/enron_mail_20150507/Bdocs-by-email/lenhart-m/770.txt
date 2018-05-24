@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+joking		1
+until		1
+back		1
+feet		1
+temporary	1

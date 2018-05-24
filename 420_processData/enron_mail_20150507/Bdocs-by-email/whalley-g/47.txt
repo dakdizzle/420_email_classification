@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+today		1
+maybe		1
+week		1
+later		1

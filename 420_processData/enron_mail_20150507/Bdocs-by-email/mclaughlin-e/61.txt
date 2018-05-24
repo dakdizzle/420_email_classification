@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+make		1
+message		1
+per		1
+everything	1
+please		1
+guys		1
+errol		1
+below		1
+sure		1
+flipped		1
+thanks		1

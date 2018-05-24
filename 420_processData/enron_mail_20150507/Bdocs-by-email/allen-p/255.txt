@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+target		1
+mery		1
+document	1
+fine		1
+phillip		1
+looks		1
+audience	1

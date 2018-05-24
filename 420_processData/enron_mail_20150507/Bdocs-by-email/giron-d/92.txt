@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+see		2
+fun		1
+stros		1
+chicago		1
+leaving		1
+sorry		1
+jinxed		1
+wanted		1
+afternoon	1
+really		1
+come		1
+thursday	1
+ya		1
+tomorrow	1
+kristi		1
+weekend		1
+going		1
+dg		1
+saturday	1
+wrigley		1
+play		1
+through		1

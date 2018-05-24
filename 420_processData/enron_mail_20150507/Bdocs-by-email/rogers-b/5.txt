@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+much		1
+free		1
+time		1
+wierd		1
+someone		1
+hands		1

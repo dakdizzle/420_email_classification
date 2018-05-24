@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+lynn		2
+lblair		2
+cn		2
+blair		1
+recipients	1
+filename	1
+na		1
+thanks		1
+pst		1
+privileged	1
+resolution	1
+non		1
+prompted	1
+enron		1
+questions	1
+ou		1
+finalizing	1
+raetta		1

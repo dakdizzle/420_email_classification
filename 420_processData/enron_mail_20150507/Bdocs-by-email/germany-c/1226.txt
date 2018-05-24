@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+care		1
+m		1
+anymore		1
+starting	1
+doing		1
+don		1
+think		1

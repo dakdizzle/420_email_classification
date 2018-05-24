@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+seen		2
+selling		2
+out		1
+info		1
+calpine		1
+hedged		1
+generators	1
+before		1
+mostly		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+forgot		1
+one		1

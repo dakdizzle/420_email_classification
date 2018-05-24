@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lynn		1
+please		1
+processed	1
+thanks		1
+call		1

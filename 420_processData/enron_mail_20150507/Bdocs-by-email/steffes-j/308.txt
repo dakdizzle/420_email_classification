@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+via		1
+sent		1
+fax		1
+being		1
+one		1
+testimony	1
+attachment	1
+thanks		1
+here		1

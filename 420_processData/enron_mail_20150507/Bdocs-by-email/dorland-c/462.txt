@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+work		2
+calgary		1
+early		1
+moving		1
+free		1
+hard		1
+fulfillment	1
+looking		1
+cheerschrisp	1
+continues	1
+retire		1
+month		1
+actually	1
+really		1
+life		1
+around		1
+finding		1
+enron		1
+feel		1
+back		1
+forward		1
+purpose		1
+isn		1
+move		1

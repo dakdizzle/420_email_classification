@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+think		2
+roan		1
+supporting	1
+top		1
+rtos		1
+take		1
+jim		1
+lead		1
+good		1
+priority	1
+kerry		1
+miso		1
+opportunity	1
+mapp		1
+having		1
+arto		1
+area		1

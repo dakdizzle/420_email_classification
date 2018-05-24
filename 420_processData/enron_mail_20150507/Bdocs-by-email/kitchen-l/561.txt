@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+water		1
+credit		1
+days		1
+above		1
+finally		1
+thought		1
+spending	1
+crappy		1
+read		1
+pretty		1
+head		1

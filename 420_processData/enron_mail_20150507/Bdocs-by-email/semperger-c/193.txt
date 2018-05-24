@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+spare		1
+time		1
+please		1
+few		1
+know		1
+minutes		1
+need		1
+reccomendation	1

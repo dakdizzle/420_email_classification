@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+best		2
+give		2
+story		1
+tina		1
+man		1
+jeff		1
+telco		1
+npr		1
+over		1
+call		1
+ll		1

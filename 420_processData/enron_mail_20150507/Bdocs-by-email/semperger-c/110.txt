@@ -1,0 +1,23 @@
+NumWords	72
+NumTerms	20
+
+cn		15
+gwaddr		5
+recipients	5
+na		5
+enron		5
+hq		5
+em		5
+ou		5
+cowan		2
+wende		2
+thomas		2
+cheri		2
+roger		2
+lea		2
+honeycutt	2
+sue		2
+matthew		2
+richard		2
+good		1
+daycara		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+version		1
+revised		1
+attached	1
+function	1
+work		1
+response	1
+sorry		1
+cpuc		1
+lined		1
+computer	1
+red		1

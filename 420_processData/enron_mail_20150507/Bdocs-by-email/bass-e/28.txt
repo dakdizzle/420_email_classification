@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+mark		1
+dinner		1
+eric		1
+go		1
+sound		1
+night		1
+sunday		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+calger		1
+lavoratochange	1
+tycholiz	1
+two		1
+cheap		1
+guys		1
+milnthorp	1

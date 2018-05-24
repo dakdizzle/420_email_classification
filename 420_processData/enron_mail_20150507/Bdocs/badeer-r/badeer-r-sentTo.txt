@@ -1,0 +1,6 @@
+NumWords	5
+NumTerms	3
+
+ina.rangel@enron.com	2
+mike.grigsby@enron.com	2
+paul.mead@barcap.com	1

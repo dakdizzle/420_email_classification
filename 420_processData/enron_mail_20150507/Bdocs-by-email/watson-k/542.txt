@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+accomplishments	1
+michelle	1
+lokay		1

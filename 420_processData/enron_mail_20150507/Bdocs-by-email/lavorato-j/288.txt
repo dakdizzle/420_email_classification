@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+kids		1
+send		1
+details		1
+pleased		1
+robi		1
+really		1
+down		1
+forward		1
+petro		1
+mail		1
+big		1
+very		1
+here		1

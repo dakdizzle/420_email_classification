@@ -1,0 +1,26 @@
+NumWords	28
+NumTerms	23
+
+meeting		2
+customers	2
+well		2
+good		2
+very		2
+lynn		1
+hear		1
+record		1
+response	1
+nervous		1
+approximately	1
+although	1
+thanks		1
+call		1
+hope		1
+feeling		1
+feel		1
+sheila		1
+tell		1
+one		1
+more		1
+thinkthat	1
+went		1

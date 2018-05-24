@@ -1,0 +1,18 @@
+NumWords	28
+NumTerms	15
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+lizzette	1
+sbutche		1
+fyi		1
+palmer		1
+sullivan	1
+kriste		1
+butcher		1
+lpalmer		1
+ksulliv		1
+sharon		1

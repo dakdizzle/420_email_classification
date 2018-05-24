@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+vince		1
+send		1
+expense		1
+please		1
+report		1
+approve		1
+need		1
+sap		1
+shirley		1

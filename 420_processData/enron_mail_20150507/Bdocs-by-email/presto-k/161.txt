@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+home		1
+blessing	1
+cash		1
+good		1
+questions	1
+additional	1
+reach		1
+approval	1
+committee	1
+proceed		1
+looks		1
+thanks		1

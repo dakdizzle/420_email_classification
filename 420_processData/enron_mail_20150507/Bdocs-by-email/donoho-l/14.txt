@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+open		1
+m		1
+time		1
+know		1
+today		1
+far		1
+meet		1
+here		1

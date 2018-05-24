@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+stuff		2
+support		1
+oatiinc		1
+know		1
+need		1
+mail		1
+oati		1
+com		1

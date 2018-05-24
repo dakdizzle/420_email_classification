@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+right		1
+words		1
+mouth		1
+took		1

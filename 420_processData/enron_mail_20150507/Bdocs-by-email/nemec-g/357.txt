@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+bruce		1
+janel		1
+up		1
+share		1
+know		1
+hotel		1
+beach		1
+trying		1
+car		1
+trail		1
+talked		1
+rental		1
+sea		1
+house		1
+alternative	1
+book		1
+want		1
+myself		1
+going		1
+set		1
+booked		1
+rooms		1
+flight		1

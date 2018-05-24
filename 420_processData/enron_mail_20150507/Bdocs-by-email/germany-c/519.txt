@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+enron		2
+germany		2
+ed		1
+mcmichael	1
+make		1
+comx		1
+gas		1
+cx		1
+later		1
+chris		1
+filename	1
+parks		1
+morning		1
+right		1
+pstsure		1
+purchase	1
+one		1
+origin		1
+before		1
+joe		1
+com		1

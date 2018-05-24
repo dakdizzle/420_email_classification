@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+texaco		2
+cuts		1
+potential	1
+event		1
+stand		1
+details		1
+pg		1
+million		1
+waive		1
+attachment	1
+use		1
+mike		1
+penalties	1
+offset		1
+charge		1
+topock		1

@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+call		2
+latest		1
+pm		1
+jforney		1
+unless		1
+filename	1
+transfer	1
+privileged	1
+jx		1
+content		1
+oome		1
+non		1
+encoding	1
+run		1
+pstthe		1
+frontera	1
+origin		1
+forney		1
+before		1
+need		1
+bitx		1
+jmf		1
+receive		1

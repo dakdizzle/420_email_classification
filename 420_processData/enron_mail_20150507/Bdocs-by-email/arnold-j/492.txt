@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+boxcutter	1
+giving		1
+cardboard	1
+boxster		1
+away		1
+porsche		1

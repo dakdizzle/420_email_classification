@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+out		1
+time		1
+chris		1
+figure		1
+take		1
+weird		1

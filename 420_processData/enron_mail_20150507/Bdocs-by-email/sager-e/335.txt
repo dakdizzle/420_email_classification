@@ -1,0 +1,24 @@
+NumWords	32
+NumTerms	21
+
+elizabeth	4
+ect		3
+flat		2
+hou		2
+monitor		2
+screen		2
+sager		2
+kay		2
+pm		1
+pstapproved	1
+esager		1
+thank		1
+sagerx		1
+filename	1
+privileged	1
+forwarded	1
+non		1
+possible	1
+enron		1
+mann		1
+subject		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+greatly		1
+meeting		1
+california	1
+until		1
+wednesday	1
+afternoon	1
+reschedule	1
+jim		1
+apologize	1
+linda		1
+please		1
+tell		1
+mike		1

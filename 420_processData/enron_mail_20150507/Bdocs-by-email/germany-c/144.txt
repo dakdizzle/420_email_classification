@@ -1,0 +1,16 @@
+NumWords	17
+NumTerms	13
+
+gas		2
+daily		2
+waha		2
+germany		2
+comx		1
+cx		1
+garrick		1
+chris		1
+filename	1
+hill		1
+enron		1
+pstsold		1
+origin		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+crew		1
+up		1
+sheet		1
+focus		1
+things		1
+attached	1
+change		1
+keep		1
+haysletteb	1
+rod		1
+data		1
+think		1

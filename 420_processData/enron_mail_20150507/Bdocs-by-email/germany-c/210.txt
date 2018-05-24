@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+chris		2
+robin		2
+cn		2
+germany		2
+group		1
+cash		1
+generate	1
+worksheet	1
+cgerman		1
+glance		1
+recipients	1
+filename	1
+na		1
+pstplease	1
+everyday	1
+phil		1
+distribution	1
+enron		1
+payments	1
+ou		1
+thx		1
+barbe		1
+add		1

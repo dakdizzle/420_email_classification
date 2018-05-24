@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+jeff		1
+john		1
+vacation	1
+still		1
+sue		1
+help		1
+think		1

@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+gnemec		2
+cn		2
+latest		1
+final		1
+recipients	1
+filename	1
+na		1
+privileged	1
+psti		1
+non		1
+enron		1
+received	1
+update		1
+nemec		1
+ou		1
+still		1
+gerald		1
+haven		1

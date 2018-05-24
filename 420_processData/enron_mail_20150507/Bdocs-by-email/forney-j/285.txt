@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+energy		1
+assume		1
+jerry		1
+true		1
+hour		1
+see		1
+ending		1
+take		1
+thanks		1
+anything	1
+look		1
+check		1
+sell		1
+additional	1
+missed		1
+jmf		1

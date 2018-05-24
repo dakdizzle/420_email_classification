@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+whiskey		1
+coming		1
+takes		1
+under		1
+know		1
+checked		1
+club		1
+talent		1
+chris		1
+out		1
+really		1
+pool		1
+weekend		1
+cool		1
+town		1
+away		1
+still		1
+saturday	1
+next		1

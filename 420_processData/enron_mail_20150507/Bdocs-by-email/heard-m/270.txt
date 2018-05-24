@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+marie		2
+cn		2
+mheard		2
+annex		1
+heard		1
+revised		1
+mere		1
+recipients	1
+filename	1
+na		1
+thanks		1
+privileged	1
+non		1
+enron		1
+technicality	1
+pstjoe		1
+ou		1
+catching	1
+here		1

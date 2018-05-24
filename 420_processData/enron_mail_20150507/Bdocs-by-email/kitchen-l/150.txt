@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+anything	1
+out		1
+sent		1
+directly	1
+wireless	1
+please		1
+handheld	1
+contact		1
+blackberry	1
+need		1
+oxley		1

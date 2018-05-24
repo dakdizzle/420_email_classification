@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+vince		1
+right		1
+enron		1
+kaminskis	1
+several		1
+now		1
+gwyn		1

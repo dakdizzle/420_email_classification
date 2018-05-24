@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+isolocation	1
+html		1
+http		1
+caiso		1
+si		1
+iso		1
+file		1
+oasis		1
+com		1

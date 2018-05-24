@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+long		2
+ercot		1
+front		1
+aggressive	1
+hesitate	1
+wouldn		1
+keep		1
+comfortable	1
+doug		1
+yesterday	1
+better		1
+talked		1
+posted		1
+morning		1
+marks		1
+north		1
+more		1
+told		1
+particularly	1
+feels		1
+ll		1

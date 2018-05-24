@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+touch		1
+golden		1
+buy		1

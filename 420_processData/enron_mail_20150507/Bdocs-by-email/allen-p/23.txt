@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+packet		1
+l		1
+jeff		1
+days		1
+go		1
+going		1
+discrepancy	1
+biggest		1
+gosset		1
+pull		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ed		1
+supervisor	1
+mc		1
+michael		1

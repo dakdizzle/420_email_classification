@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ora		1
+otha		1
+best		1
+mean		1
+thanks		1

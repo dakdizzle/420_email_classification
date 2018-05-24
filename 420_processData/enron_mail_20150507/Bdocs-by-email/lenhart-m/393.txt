@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+problems	1
+nice		1
+shouldn		1

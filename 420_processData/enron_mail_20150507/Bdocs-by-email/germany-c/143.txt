@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+germany		2
+comx		1
+eveyone		1
+pstjust		1
+cx		1
+garrick		1
+chris		1
+filename	1
+hill		1
+gets		1
+enron		1
+origin		1
+sure		1
+making		1

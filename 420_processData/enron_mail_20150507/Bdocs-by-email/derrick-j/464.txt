@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+reply		2
+jim		1
+message		1
+up		1
+following	1
+night		1
+told		1
+hillings	1
+last		1
+bob		1
+joe		1

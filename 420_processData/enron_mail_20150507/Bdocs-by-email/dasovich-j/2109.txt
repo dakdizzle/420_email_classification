@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+right		1
+jeff		1
+best		1
+handling	1
+well		1
+person		1
+sure		1
+call		1

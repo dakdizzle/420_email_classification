@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+plz		1
+clickathome	1
+choices		1
+https		1
+page		1
+slect		1
+vin		1
+pc		1
+see		1
+ds		1
+enron		1
+index		1
+dad		1
+aspthis		1
+access		1
+allows		1
+com		1

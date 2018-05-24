@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ds		1
+repaired	1
+july		1
+station		1
+service		1
+ready		1
+th		1

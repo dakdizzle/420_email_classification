@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+wedding		2
+went		2
+blast		1
+thing		1
+people		1
+type		1
+busted		1
+cops		1
+val		1

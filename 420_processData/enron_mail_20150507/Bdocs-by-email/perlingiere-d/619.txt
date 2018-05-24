@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+free		1
+please		1
+feel		1
+attend		1

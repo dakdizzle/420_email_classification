@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+inc		2
+sheet		2
+today		1
+deals		1
+cali		1
+nov		1
+folder		1
+found		1
+thanks		1
+run		1
+please		1
+sar		1
+slinger		1
+ryan		1
+include		1
+trading		1

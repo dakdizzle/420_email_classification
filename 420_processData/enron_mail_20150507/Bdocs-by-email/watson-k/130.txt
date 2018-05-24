@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+cal		1
+kim		1
+theresa		1
+executed	1
+hedged		1

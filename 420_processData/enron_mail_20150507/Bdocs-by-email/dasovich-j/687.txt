@@ -1,0 +1,27 @@
+NumWords	32
+NumTerms	24
+
+dasovich	4
+jeff		4
+privileged	2
+non		2
+text		1
+adopting	1
+plain		1
+favor		1
+socalgas	1
+filename	1
+folder		1
+filing		1
+settlement	1
+jx		1
+asciix		1
+content		1
+sent		1
+pstfyi		1
+type		1
+best		1
+origin		1
+itemsx		1
+decision	1
+charset		1

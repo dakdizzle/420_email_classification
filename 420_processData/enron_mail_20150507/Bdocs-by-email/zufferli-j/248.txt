@@ -1,0 +1,24 @@
+NumWords	29
+NumTerms	21
+
+new		3
+info		2
+counterparties	2
+power		2
+nella		2
+alberta		2
+cn		2
+ncappel		1
+productin	1
+counterparty	1
+recipients	1
+trade		1
+na		1
+looks		1
+volume		1
+enron		1
+cappelletto	1
+incorrectin	1
+ou		1
+correct		1
+product		1

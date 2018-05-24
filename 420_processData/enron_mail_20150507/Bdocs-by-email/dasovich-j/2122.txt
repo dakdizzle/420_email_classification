@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+hey		1
+ya		1
+doing		1

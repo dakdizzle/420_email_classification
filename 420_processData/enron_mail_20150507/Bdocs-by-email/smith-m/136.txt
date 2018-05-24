@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+send		1
+setup		1
+machine		1
+reinstall	1
+file		1
+chris		1
+thanks		1
+remember	1
+sql		1
+directory	1
+link		1
+need		1
+mat		1

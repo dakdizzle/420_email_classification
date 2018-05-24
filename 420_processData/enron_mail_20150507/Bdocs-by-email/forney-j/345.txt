@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+week		2
+monday		1
+remainder	1
+informal	1
+know		1
+vacation	1
+jforney		1
+earlier		1
+tuesday		1
+out		1
+office		1
+discussion	1
+available	1
+works		1
+erik		1

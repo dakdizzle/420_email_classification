@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+seats		1
+many		1
+respond		1
+need		1
+angela		1
+think		1
+ll		1

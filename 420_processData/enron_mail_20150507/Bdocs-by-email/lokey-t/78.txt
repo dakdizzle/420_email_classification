@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+ecs		2
+case		1
+bankruptcy	1
+technically	1
+looking		1
+perform		1
+options		1
+part		1
+filing		1

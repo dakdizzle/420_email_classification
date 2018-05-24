@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+gnemec		2
+cn		2
+ralco		1
+processing	1
+attached	1
+draft		1
+review		1
+recipients	1
+provide		1
+filename	1
+na		1
+pstfor		1
+privileged	1
+non		1
+enron		1
+please		1
+language	1
+nemec		1
+ou		1
+comments	1
+gerald		1
+riceland	1

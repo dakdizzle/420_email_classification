@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+good		2
+knows		1
+consider	1
+commentator	1
+thankskh	1
+analysis	1
+pay		1
+maybe		1
+sports		1
+espn		1
+pretty		1
+career		1
+new		1

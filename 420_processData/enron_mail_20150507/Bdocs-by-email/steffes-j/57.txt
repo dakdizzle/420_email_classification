@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+wrong		1
+first		1
+sent		1
+time		1
+address		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+andy		1
+jeff		1
+tariff		1
+agreements	1
+service		1
+william		1
+asked		1
+transmission	1
+here		1

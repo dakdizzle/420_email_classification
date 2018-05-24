@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+check		1
+html		1
+index		1
+pookie		1
+www		1
+com		1
+sailmainecoast	1

@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+cn		2
+vweldon		2
+trophy		1
+duncan		1
+weldon		1
+whitetail	1
+www		1
+recipients	1
+outdoors	1
+psthttp		1
+filename	1
+na		1
+privileged	1
+room		1
+non		1
+texas		1
+enron		1
+jeff		1
+charles		1
+ou		1
+tx		1
+htm		1
+com		1

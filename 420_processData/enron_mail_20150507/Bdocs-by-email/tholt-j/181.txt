@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+deposits	1
+pay		1

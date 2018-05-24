@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+very		2
+coming		1
+fax		1
+course		1
+machine		1
+professor	1
+thanks		1
+minute		1
+nice		1
+challenging	1
+holiday		1
+greetings	1
+jeff		1
+best		1
+provoking	1
+interesting	1
+thought		1
+over		1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+part		2
+info		1
+html		1
+http		1
+www		1
+gov		1
+pro		1
+irs		1
+tax		1
+irm		1
+prod		1
+bus		1
+ss		1

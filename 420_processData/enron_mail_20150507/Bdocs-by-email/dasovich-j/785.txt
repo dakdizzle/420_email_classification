@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+sean		1
+name		1
+pronto		1
+steele		1
+number		1
+ll		1

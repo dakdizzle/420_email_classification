@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+regarding	1
+mark		1
+greg		1
+dabhol		1
+thoughtful	1
+piece		1
+ken		1
+hindu		1

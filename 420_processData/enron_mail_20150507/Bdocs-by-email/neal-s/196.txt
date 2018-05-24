@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+info		1
+scott		1
+work		1
+kelley		1
+thanks		1

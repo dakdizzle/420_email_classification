@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+austin		2
+email		1
+wedding		1
+up		1
+head		1
+girl		1
+lets		1
+black		1
+sat		1
+swan		1
+night		1
+lives		1
+saturday	1

@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+group		2
+both		1
+need		1
+external	1
+internal	1

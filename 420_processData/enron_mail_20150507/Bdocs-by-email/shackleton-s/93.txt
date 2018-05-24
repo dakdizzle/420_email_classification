@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+eb		1
+send		1
+ene		1
+fax		1
+stock		1
+receipt		1
+dated		1
+ph		1
+fyi		1
+street		1
+wholesale	1
+confirm		1
+shares		1
+upon		1
+services	1
+shackletonenron	1
+sara		1
+ahouston	1
+forward		1
+tx		1
+smith		1
+ticket		1
+deal		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+attaching	1
+vince		1
+jeff		1
+phone		1
+number		1
+resume		1

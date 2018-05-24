@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+wolak		1
+california	1
+try		1
+now		1
+stanford	1
+vince		1
+right		1
+philip		1
+best		1
+please		1
+university	1
+expert		1
+frank		1

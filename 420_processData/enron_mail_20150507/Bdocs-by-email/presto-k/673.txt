@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+care		1
+please		1
+today		1
+take		1
+thanks		1

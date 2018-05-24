@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+full		1
+circuits	1
+thing		1
+few		1
+report		1
+busy		1
+see		1
+times		1
+tried		1
+movies		1
+call		1
+c		1
+tonight		1

@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+kitchen		2
+louise		2
+cn		2
+pm		1
+recipients	1
+alex		1
+filename	1
+na		1
+pstno		1
+lkitchen	1
+emeet		1
+nice		1
+enron		1
+start		1
+questions	1
+ou		1
+probably	1

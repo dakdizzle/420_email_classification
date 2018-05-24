@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+morning		1
+seen		1
+update		1
+thank		1
+tomorrow	1
+pleased		1
+portion		1
+e		1
+see		1
+paula		1

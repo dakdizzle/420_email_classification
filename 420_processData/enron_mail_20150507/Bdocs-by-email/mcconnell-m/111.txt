@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+com		2
+mcconnelltranswestern	1
+eloundahotels	1
+company		1
+http		1
+www		1
+mare		1
+pipeline	1
+mcconnell	1
+cell		1
+enron		1
+office		1
+faxmark		1
+peni		1
+htmmark		1
+marehome	1

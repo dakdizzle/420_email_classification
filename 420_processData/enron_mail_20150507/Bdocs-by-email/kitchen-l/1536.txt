@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+looking		1
+know		1
+quite		1
+want		1
+amounts		1
+imbalance	1
+margin		1

@@ -1,0 +1,22 @@
+NumWords	31
+NumTerms	19
+
+donohoet@msn.com	5
+scott.dozier@enron.com	4
+todd@mrienergy.com	4
+acullen@firstcallassociates.com	2
+mark.schrab@enron.com	2
+jeanie.slone@enron.com	1
+todd@mrienergi.com	1
+kenneth.lay@enron.com	1
+donnie.myers@enron.com	1
+kevin.ruscitti@enron.com	1
+onservice@telus.net	1
+gsmith@kingsland.org	1
+chamber@flatonia-tx.com	1
+chris.walker@enron.com	1
+orders@amazon.com	1
+jkvillarre@aol.com	1
+register@tdh.state.tx.us	1
+greg.whalley@enron.com	1
+sdonohoe1@austin.rr.com	1

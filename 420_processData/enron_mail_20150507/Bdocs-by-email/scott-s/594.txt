@@ -1,0 +1,20 @@
+NumWords	21
+NumTerms	17
+
+click		3
+name		2
+search		2
+scott		1
+finish		1
+exchange	1
+contact		1
+person		1
+susan		1
+appear		1
+messaging	1
+instant		1
+microsoft	1
+type		1
+go		1
+next		1
+add		1

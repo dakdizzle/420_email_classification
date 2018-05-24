@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+days		2
+fri		1
+know		1
+leave		1
+trendy		1
+morning		1
+tomorrow	1
+sat		1
+kind		1
+going		1
+perfect		1
+six		1
+think		1

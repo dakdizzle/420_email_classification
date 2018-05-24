@@ -1,0 +1,27 @@
+NumWords	29
+NumTerms	24
+
+watch		3
+up		2
+series		2
+stay		2
+time		1
+hard		1
+louis		1
+until		1
+tried		1
+couldn		1
+good		1
+look		1
+awake		1
+start		1
+interesting	1
+probably	1
+c		1
+tv		1
+normal		1
+rest		1
+st		1
+next		1
+here		1
+didn		1

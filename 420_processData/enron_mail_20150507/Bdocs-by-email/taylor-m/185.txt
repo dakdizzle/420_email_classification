@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+attempts	1
+photos		1
+pitiful		1
+trip		1
+here		1

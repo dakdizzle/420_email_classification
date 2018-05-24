@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+good		2
+day		1
+share		1
+along		1
+asap		1
+updates		1
+rick		1
+please		1
+pass		1
+need		1
+tx		1
+particularly	1
+having		1
+news		1
+here		1

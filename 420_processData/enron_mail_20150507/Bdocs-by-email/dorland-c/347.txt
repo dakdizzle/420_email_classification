@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+much		1
+quiet		1
+back		1
+loudmouth	1
+keeping		1
+town		1
+dorland		1

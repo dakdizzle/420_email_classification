@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+john		1
+delay		1
+side		1
+take		1

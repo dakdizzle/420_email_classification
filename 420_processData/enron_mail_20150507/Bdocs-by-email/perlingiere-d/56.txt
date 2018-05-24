@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+cn		2
+dperlin		2
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+pstthe		1
+contract	1
+ou		1
+perlingiere	1
+debra		1

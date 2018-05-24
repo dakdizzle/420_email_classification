@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+gmu		1
+capitolconnection	1
+http		1
+edu		1
+www		1

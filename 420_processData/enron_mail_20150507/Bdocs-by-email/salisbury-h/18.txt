@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+anything	1
+holden		1
+sheet		1
+know		1
+document	1
+jan		1
+need		1
+see		1
+thanks		1
+here		1

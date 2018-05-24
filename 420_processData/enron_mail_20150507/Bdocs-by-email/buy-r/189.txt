@@ -1,0 +1,27 @@
+NumWords	29
+NumTerms	24
+
+credit		3
+confusion	2
+person		2
+new		2
+bridgett	1
+hired		1
+york		1
+houston		1
+sorry		1
+left		1
+meet		1
+wanted		1
+karen		1
+frazer		1
+out		1
+turns		1
+regarding	1
+bryan		1
+message		1
+ny		1
+rick		1
+started		1
+caused		1
+com		1

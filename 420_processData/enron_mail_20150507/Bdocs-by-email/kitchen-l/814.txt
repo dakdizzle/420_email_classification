@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+done		1
+up		1
+well		1
+now		1
+before		1
+even		1
+given		1
+think		1

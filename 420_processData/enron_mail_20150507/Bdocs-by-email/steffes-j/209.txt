@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+rto		1
+submission	1
+please		1
+sarah		1
+ne		1
+epsa		1
+pound		1

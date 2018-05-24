@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+lynn		1
+discuss		1
+plan		1
+ok		1
+time		1
+overall		1
+gas		1
+sounds		1
+imbalances	1
+jodie		1
+marketing	1
+thanks		1
+instead		1
+monitoring	1
+logistics	1
+question	1

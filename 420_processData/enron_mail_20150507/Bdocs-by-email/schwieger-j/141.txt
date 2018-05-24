@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+now		2
+one		2
+new		2
+order		1
+ignore		1
+thanks		1
+jim		1
+building	1
+sent		1
+please		1
+chair		1
+need		1
+already		1
+cut		1

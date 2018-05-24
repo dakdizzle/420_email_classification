@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hand		1
+second		1
+talking		1
+marcello	1
+frustrated	1
+very		1
+matthew		1
+getting		1

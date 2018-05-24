@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+group		1
+vacation	1
+candidate	1
+rick		1
+unfortunately	1
+buy		1
+goo		1
+tx		1
+attend		1
+gorte		1
+dave		1
+think		1
+appropriate	1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+chick		1
+forget		1
+don		1
+connors		1

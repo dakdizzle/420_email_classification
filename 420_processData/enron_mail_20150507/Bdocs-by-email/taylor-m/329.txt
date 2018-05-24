@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+mark		1
+fun		1
+family		1
+company		1
+guest		1
+better		1
+wish		1
+lot		1
+thanks		1
+great		1
+list		1
+incredible	1
+weekend		1
+lunch		1
+don		1
+love		1

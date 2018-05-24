@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+add		2
+look		1
+know		1
+format		1
+etc		1
+necessary	1
+think		1
+letterhead	1
+take		1

@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+grab		2
+chance		2
+deadline	1
+receipt		1
+know		1
+impression	1
+today		1
+golf		1
+thanks		1
+something	1
+done		1
+anna		1
+tournament	1
+please		1
+bill		1
+pay		1
+available	1
+approaching	1
+need		1

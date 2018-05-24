@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+forms		1
+copy		1
+pls		1
+bt		1

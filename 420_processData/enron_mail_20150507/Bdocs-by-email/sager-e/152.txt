@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+ella		2
+coming		1
+class		1
+make		1
+day		1
+grant		1
+noah		1
+talk		1
+thrilled	1
+friend		1
+won		1
+sounds		1
+same		1
+soon		1
+great		1
+hithanks	1
+whistles	1
+again		1
+weekend		1
+invitation	1
+sager		1
+bells		1
+elizabeth	1

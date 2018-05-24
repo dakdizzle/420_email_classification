@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+enron		2
+john		1
+comx		1
+chandler	1
+future		1
+geaccone	1
+someone		1
+bob		1
+filename	1
+tgeacco		1
+help		1
+thanks		1
+privileged	1
+anything	1
+psti		1
+non		1
+control		1
+understand	1
+origin		1
+need		1
+tx		1
+still		1
+cobb		1
+com		1

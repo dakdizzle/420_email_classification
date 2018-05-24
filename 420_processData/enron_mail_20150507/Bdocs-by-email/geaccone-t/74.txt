@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+plan		1
+agenda		1
+please		1
+cindy		1
+attached	1
+stan		1
+ask		1
+lay		1
+reviews		1
+okey		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+day		1
+feeling		1
+post		1
+earnings	1

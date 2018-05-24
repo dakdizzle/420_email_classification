@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+theresa		1
+until		1
+final		1
+won		1
+call		1
+crestone	1
+measurement	1
+questions	1
+purchase	1
+estimated	1
+week		1
+ruth		1
+november	1
+next		1
+here		1

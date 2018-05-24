@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+year		2
+closes		1
+merger		1
+until		1
+fine		1
+problem		1
+think		1
+ll		1
+next		1

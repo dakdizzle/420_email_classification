@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+really		1
+sent		1
+floor		1
+wireless	1
+handheld	1
+ones		1
+ubs		1
+blackberry	1
+signs		1
+take		1
+here		1
+trading		1

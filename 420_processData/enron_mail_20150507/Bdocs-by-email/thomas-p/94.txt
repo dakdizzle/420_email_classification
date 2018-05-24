@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+loveme		1
+bunda		1
+doing		1

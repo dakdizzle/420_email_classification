@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+first		1
+sally		1
+one		1
+asking		1
+before		1
+sorry		1
+mail		1
+seeing		1
+read		1
+talked		1
+head		1
+thanks		1

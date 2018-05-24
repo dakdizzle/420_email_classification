@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+forgot		1
+enron		1
+rika		1
+one		1
+person		1
+laurent		1
+com		1
+dean		1

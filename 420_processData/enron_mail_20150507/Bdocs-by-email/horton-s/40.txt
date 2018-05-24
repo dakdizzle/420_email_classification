@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+needless	1
+ok		1
+leadership	1
+trying		1
+asking		1
+provide		1
+disappointed	1
+doing		1
+thanks		1

@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+deal		2
+baseload	1
+gwwon		1
+month		1
+sale		1
+needles		1
+november	1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+chance		2
+email		1
+together	1
+jacques		1
+pulling		1
+organization	1
+phillip		1
+copies		1
+call		1
+thanks		1
+title		1
+gather		1
+work		1
+documents	1

@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+mcash		2
+cn		2
+michelle	2
+plan		1
+pstmy		1
+cash		1
+speak		1
+comment		1
+legal		1
+themselves	1
+recipients	1
+terms		1
+provide		1
+related		1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+recommendation	1
+advice		1
+ou		1
+waivers		1
+don		1

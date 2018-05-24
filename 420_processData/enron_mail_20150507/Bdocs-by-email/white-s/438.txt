@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+stacey		1
+until		1
+assumption	1
+correct		1
+data		1
+meet		1
+transmission	1
+east		1
+piecemeal	1
+don		1
+wait		1

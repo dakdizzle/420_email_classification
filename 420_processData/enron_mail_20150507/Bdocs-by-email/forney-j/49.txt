@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+monday		1
+meeting		1
+right		1
+check		1
+now		1
+double		1

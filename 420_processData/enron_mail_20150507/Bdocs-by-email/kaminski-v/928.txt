@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+case		1
+vince		1
+university	1
+jennifer	1
+fordham		1
+thanks		1

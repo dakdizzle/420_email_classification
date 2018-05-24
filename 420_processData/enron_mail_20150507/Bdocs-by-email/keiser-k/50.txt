@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+anything	1
+hare		1
+know		1
+bill		1
+counterparty	1
+deals		1
+kam		1
+goldman		1
+found		1
+names		1

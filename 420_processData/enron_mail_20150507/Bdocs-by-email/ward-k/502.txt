@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+houston		2
+stuff		1
+lake		1
+kward		1
+keep		1
+kim		1
+good		1
+please		1
+touch		1
+luck		1
+st		1
+com		1
+rr		1
+here		1

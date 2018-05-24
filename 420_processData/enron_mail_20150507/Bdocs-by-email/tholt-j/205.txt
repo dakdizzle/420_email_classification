@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+people		1
+right		1
+hurting		1
+now		1
+yep		1
+lot		1
+area		1

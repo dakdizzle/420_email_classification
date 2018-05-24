@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+early		1
+up		1
+know		1
+plans		1
+logged		1
+phone		1
+itare		1
+planning	1
+call		1
+sync		1
+papers		1
+cell		1
+check		1
+please		1
+come		1
+back		1
+go		1
+tomorrow	1
+sign		1
+want		1
+work		1
+need		1
+still		1

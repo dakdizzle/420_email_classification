@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+nymex		2
+make		1
+except		1
+markets		1
+volume		1
+arb		1
+settlement	1
+out		1
+point		1
+platform	1
+opportunities	1
+swaps		1
+whole		1
+settle		1
+inconsequential	1
+another		1
+against		1
+curve		1
+fact		1
+pretty		1
+normal		1
+trading		1

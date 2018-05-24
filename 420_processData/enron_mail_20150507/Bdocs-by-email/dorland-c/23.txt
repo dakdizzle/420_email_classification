@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+picture		1
+day		1
+going		1
+occupy		1

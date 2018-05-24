@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+maybe		1
+game		1

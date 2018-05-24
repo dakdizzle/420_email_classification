@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+cn		3
+bea		1
+know		1
+maple		1
+recipients	1
+paper		1
+na		1
+milnthorp	1
+done		1
+leaf		1
+enron		1
+notesaddr	1
+project		1
+ou		1
+e		1
+rob		1
+cf		1
+bbb		1
+don		1
+still		1

@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+rofr		2
+spreadsheet	2
+updated		1
+up		1
+time		1
+term		1
+report		1
+cbs		1
+yesterday	1
+out		1
+long		1
+sync		1
+contracts	1
+dennis		1
+run		1
+last		1
+chance		1
+haven		1
+here		1

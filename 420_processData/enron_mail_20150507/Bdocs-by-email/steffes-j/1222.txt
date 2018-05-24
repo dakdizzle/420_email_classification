@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+nyiso		1
+know		1
+howard		1
+letter		1
+pls		1
+mmu		1
+ees		1
+deal		1

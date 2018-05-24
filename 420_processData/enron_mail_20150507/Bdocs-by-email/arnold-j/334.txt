@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+powerindex	1
+enron		1
+unsubscribe	1
+com		1
+jarnold		1

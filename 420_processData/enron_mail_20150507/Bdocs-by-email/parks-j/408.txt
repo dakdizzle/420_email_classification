@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+time		1
+know		1
+margie		1
+works		1
+joe		1
+schedule	1
+thanks		1
+finalized	1

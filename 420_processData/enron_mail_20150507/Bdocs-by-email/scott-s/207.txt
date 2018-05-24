@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+email		1
+plan		1
+hey		1
+talk		1
+shoot		1
+know		1
+houston		1
+wanted		1
+see		1
+driving		1
+soon		1
+check		1
+weekend		1
+going		1
+chance		1
+sue		1

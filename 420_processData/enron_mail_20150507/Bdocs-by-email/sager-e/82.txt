@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+thanks		2
+everything	1
+again		1
+today		1
+sorry		1
+joy		1
+mail		1
+th		1
+delay		1
+ella		1
+hi		1
+getting		1

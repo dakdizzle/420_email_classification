@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+little		1
+others		1
+pm		1
+hey		1
+free		1
+evening		1
+hopefully	1
+friday		1
+know		1
+casual		1
+susan		1
+wanted		1
+see		1
+soiree		1
+around		1
+feel		1
+bring		1
+having		1
+jennifer	1
+very		1
+ll		1
+edith		1

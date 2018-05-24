@@ -1,0 +1,12 @@
+NumWords	14
+NumTerms	9
+
+daily		2
+total		2
+average		2
+number		2
+volume		2
+quarter		1
+second		1
+trades		1
+know		1

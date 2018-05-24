@@ -1,0 +1,19 @@
+NumWords	25
+NumTerms	16
+
+chris		3
+germany		3
+com		3
+djunek		2
+enron		2
+hotmail		2
+pm		1
+ect		1
+aeglobalmarkets	1
+thanks		1
+daniel		1
+hou		1
+forwarded	1
+pmto		1
+subject		1
+junek		1

@@ -1,0 +1,10 @@
+NumWords	9
+NumTerms	7
+
+kindly		3
+credit		1
+nothing		1
+reject		1
+find		1
+fact		1
+worksheets	1

@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+think		2
+stuff		1
+included	1
+make		1
+pl		1
+under		1
+up		1
+guys		1
+nicor		1
+balances	1
+both		1
+subsidiary	1
+northern	1
+match		1
+numbers		1
+illinois	1
+cpr		1
+outstanding	1
+sure		1
+deal		1
+reports		1

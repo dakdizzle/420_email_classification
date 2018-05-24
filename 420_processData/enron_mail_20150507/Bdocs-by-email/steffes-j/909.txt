@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+please		1
+lisa		1
+discussions	1
+canovas		1
+forward		1
+going		1
+include		1
+thanks		1

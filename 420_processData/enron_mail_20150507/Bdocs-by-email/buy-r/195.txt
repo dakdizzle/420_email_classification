@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+recipients	1
+karen		1
+na		1
+kheathm		1
+put		1
+enron		1
+heathman	1
+rick		1
+please		1
+ou		1
+tx		1
+calendar	1

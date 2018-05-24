@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+together	1
+put		1
+nice		1
+copy		1
+recap		1
+please		1
+john		1
+work		1
+ken		1

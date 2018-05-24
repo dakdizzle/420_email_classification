@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kim		1
+issues		1
+good		1
+stacy		1
+flexible	1
+looks		1
+help		1
+thanks		1

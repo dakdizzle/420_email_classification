@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+papers		1
+enron		1
+positions	1
+consistent	1

@@ -1,0 +1,18 @@
+NumWords	20
+NumTerms	15
+
+mw		4
+hour		2
+hlp		2
+revised		1
+ending		1
+integrate	1
+confirmed	1
+reflected	1
+originally	1
+intra		1
+cut		1
+jmf		1
+agrees		1
+request		1
+oasis		1

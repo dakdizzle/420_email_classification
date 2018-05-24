@@ -1,0 +1,8 @@
+NumWords	9
+NumTerms	5
+
+thomas.rosendahl@ubspainewebber.com	3
+bill.williams@enron.com	3
+amy.fitzpatrick@enron.com	1
+ryan.slinger@enron.com	1
+kpeterso@epelectric.com	1

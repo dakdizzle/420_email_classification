@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+call		3
+group		1
+first		1
+theresa		1
+talk		1
+le		1
+hour		1
+comments	1
+ll		1

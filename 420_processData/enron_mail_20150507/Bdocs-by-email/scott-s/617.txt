@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+syrah		1
+wine		1
+eberle		1
+fscotts		1
+web		1
+address		1
+site		1
+think		1
+restaurantwww	1
+com		1
+here		1

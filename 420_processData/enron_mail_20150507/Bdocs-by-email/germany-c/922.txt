@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+dr		2
+appointment	1
+tomorrow	1
+bonner		1

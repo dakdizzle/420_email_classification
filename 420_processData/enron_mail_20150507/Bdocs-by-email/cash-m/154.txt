@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+days		1
+busy		1
+michelle	1
+below		1
+keeping		1
+comments	1
+pat		1

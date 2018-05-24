@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+scott		2
+care		1
+tackett		1
+sean		1
+thankskam	1
+taken		1
+responsibilities	1
+take		1
+over		1

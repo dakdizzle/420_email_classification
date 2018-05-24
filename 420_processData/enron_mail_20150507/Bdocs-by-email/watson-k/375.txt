@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+thanks		2
+date		2
+usually		1
+john		1
+know		1
+season		1
+cirque		1
+guys		1
+attending	1
+find		1
+tuts		1
+soleil		1
+du		1
+out		1
+kim		1
+tour		1
+message		1
+work		1
+chance		1
+tickets		1
+saturday	1
+mat		1
+richard		1

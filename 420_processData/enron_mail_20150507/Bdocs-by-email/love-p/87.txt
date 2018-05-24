@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+send		2
+confusion	2
+sorry		2
+out		2
+order		1
+pl		1
+sending		1
+today		1
+houston		1
+phillip		1
+money		1
+golf		1
+thanks		1
+emails		1
+o		1
+box		1
+several		1
+balls		1
+tx		1
+address		1
+receive		1
+love		1

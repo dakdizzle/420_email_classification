@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+vince		1
+honored		1
+serve		1
+chairman	1
+angelika	1
+shall		1

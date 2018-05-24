@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+president	1
+mark		1
+approach	1
+counselenron	1
+under		1
+services	1
+agree		1
+control		1
+taylorvice	1
+sounds		1
+wholesale	1
+general		1

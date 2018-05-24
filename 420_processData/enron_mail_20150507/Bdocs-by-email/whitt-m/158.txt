@@ -1,0 +1,22 @@
+NumWords	38
+NumTerms	19
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+plan		1
+theresa		1
+paul		1
+felling		1
+plucci		1
+harrison	1
+tstaab		1
+watching	1
+amy		1
+staab		1
+afellin		1
+tyrell		1
+lucci		1
+tharri		1

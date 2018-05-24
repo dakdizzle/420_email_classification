@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+susan		2
+simply		1
+email		1
+scott		1
+name		1
+address		1
+hotmail		1
+com		1

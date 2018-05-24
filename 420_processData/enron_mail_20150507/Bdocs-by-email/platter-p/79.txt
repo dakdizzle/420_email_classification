@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+company		1
+willingness	1
+pledge		1
+admire		1
+match		1
+gladly		1
+bob		1

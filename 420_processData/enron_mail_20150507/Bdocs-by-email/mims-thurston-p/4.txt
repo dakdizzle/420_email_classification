@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+bad		2
+realize		1
+huh		1
+glad		1
+weather		1
+phone		1
+problem		1
+out		1
+really		1
+cell		1
+stranded	1
+need		1
+pretty		1

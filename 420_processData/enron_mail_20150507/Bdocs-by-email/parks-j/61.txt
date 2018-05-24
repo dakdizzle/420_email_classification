@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+opinion		1
+liz		1
+real		1
+enron		1
+recipients	1
+ou		1
+lhillman	1
+read		1
+na		1
+hillman		1

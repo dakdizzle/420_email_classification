@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+cn		2
+helpful		1
+slindber	1
+talk		1
+lindberg	1
+fyi		1
+recipients	1
+susan		1
+afford		1
+na		1
+jim		1
+enron		1
+ou		1
+sure		1
+think		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+message		1
+copy		1
+please		1
+thank		1
+go		1
+forward		1
+apparently	1
+derrick		1
+tom		1
+through		1
+bres		1

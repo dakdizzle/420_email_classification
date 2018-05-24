@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+message		2
+assume		1
+injury		1
+old		1
+new		1

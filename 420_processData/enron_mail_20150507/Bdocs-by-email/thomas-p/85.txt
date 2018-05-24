@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+co		1
+locations	1
+tax		1
+http		1
+harris		1
+www		1
+tx		1
+htm		1

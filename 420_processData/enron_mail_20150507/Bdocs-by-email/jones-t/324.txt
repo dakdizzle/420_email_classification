@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+agreements	2
+bp		1
+look		1
+list		1
+verify		1
+canadian	1
+provided	1
+whether		1
+canada		1
+listed		1
+take		1
+exist		1

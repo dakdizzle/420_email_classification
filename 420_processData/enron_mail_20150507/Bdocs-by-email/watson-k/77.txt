@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+day		1
+time		1
+know		1
+friday		1
+flexible	1
+thanks		1
+better		1
+kim		1
+talking		1
+please		1
+another		1
+cst		1
+kirk		1
+august		1
+works		1
+pretty		1

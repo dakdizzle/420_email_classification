@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+thursday	2
+m		1
+hey		1
+panel		1
+up		1
+jeff		1
+best		1
+freed		1
+gas		1
+want		1
+now		1
+fine		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+songs		1
+deal		1

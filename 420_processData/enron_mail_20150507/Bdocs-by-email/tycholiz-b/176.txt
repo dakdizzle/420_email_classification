@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+posted		1
+way		1
+forte		1
+please		1
+photo		1
+progress	1
+baby		1
+keep		1
+kissing		1
+sessions	1
+help		1

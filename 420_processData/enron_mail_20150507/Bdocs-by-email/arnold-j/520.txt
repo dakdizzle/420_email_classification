@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+taker		1
+sorry		1
+found		1

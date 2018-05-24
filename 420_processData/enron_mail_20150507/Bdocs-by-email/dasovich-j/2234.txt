@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+eldon		1
+information	1
+ideas		1
+d		1
+thought		1
+add		1

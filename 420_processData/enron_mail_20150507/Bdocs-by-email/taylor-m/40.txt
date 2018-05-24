@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+president	1
+mark		1
+fun		1
+fax		1
+deserved	1
+company		1
+well		1
+legal		1
+phone		1
+taylorvice	1
+along		1
+known		1
+wholesale	1
+general		1
+watching	1
+counselenron	1
+recognize	1
+services	1

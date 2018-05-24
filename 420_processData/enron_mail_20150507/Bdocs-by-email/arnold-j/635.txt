@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+stuckey		1
+guys		1
+maharris	1
+sorry		1
+delay		1
+barker		1
+big		1

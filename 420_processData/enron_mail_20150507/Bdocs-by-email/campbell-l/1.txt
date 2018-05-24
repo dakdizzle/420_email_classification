@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+preoccupations	1
+homosexual	1
+predict		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+uncertaintieswe	1
+traci		1
+vince		1
+best		1
+solution	1
+face		1
+given		1
+thanks		1

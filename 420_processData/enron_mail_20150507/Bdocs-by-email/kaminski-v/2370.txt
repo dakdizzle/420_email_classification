@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+forwarded	1
+vince		1
+al		1
+dietrich	1
+janet		1
+chris		1
+resume		1
+talked		1

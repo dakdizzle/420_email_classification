@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+cn		2
+virginia	1
+williams	1
+recipients	1
+filename	1
+na		1
+good		1
+enron		1
+recommend	1
+bill		1
+iii		1
+omniscient	1
+idea		1
+ou		1
+luck		1
+cara		1
+checking	1
+bwillia		1

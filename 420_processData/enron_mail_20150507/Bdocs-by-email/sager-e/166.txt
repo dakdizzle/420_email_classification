@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+esager		2
+cn		2
+sager		2
+payment		1
+recipients	1
+filename	1
+na		1
+pst		1
+privileged	1
+non		1
+enron		1
+please		1
+ou		1
+process		1
+thankselizabeth	1
+elizabeth	1

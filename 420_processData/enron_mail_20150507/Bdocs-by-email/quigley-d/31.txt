@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+flip		1
+go		1
+buy		1
+ahead		1
+errol		1
+swap		1
+thanksdq	1

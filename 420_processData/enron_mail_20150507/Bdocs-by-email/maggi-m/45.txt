@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+coming		1
+front		1
+porch		1

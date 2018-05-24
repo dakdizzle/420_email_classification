@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+reactivated	1
+enron		1
+online		1

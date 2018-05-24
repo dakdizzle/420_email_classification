@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+problems	1
+comyour		1
+locator		1
+virtuallythere	1
+katehere	1
+know		1
+go		1
+matt		1
+www		1
+flqfdclet	1
+iteninary	1

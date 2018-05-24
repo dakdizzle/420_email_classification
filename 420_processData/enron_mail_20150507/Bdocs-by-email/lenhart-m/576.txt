@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+good		1
+affected	1
+layoffs		1
+economy		1
+satelite	1
+offices		1
+won		1
+affect		1
+houston		1
+c		1
+sure		1
+here		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+send		1
+under		1
+john		1
+create		1
+another		1
+need		1
+question	1
+folder		1
+folders		1
+request		1
+paige		1
+thanks		1

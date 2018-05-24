@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lynn		1
+fyi		1
+nng		1
+tw		1
+same		1
+thanks		1

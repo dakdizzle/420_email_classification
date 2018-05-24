@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+books		2
+up		1
+phillip		1
+selection	1
+listed		1
+inactive	1
+thanks		1
+down		1
+delete		1
+less		1
+includes	1
+box		1
+another		1
+mike		1
+allen		1
+set		1
+tds		1
+drop		1

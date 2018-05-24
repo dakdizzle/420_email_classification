@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+nice		1
+cell		1
+phone		1
+ring		1

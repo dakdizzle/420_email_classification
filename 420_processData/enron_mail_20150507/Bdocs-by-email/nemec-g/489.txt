@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+much		1
+sam		1
+hey		1
+time		1
+try		1
+actually	1
+out		1
+great		1
+control		1
+comes		1
+again		1
+weekend		1
+sometime	1

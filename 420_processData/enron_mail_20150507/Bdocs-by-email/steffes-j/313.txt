@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+support		1
+nerc		1
+filename	1
+transfer	1
+pjm		1
+privileged	1
+jim		1
+steffes		1
+jx		1
+content		1
+attempt		1
+non		1
+encoding	1
+psthere		1
+sense		1
+language	1
+makes		1
+jsteffe		1
+origin		1
+bitx		1
+think		1

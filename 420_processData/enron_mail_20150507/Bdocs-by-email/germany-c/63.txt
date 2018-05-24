@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+lee		1
+germany		1
+phone		1
+chris		1

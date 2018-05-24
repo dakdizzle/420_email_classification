@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+thereelizabeth	1
+great		1
+sager		1
+meet		1
+sounds		1

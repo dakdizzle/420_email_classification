@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+heard		1
+case		1
+enron		1
+cause		1
+marie		1
+guess		1
+mail		1
+com		1

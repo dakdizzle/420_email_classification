@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+send		1
+great		1
+rick		1
+looks		1

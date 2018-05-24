@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+monica		1
+go		1
+over		1

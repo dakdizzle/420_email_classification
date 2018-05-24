@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+number		4
+transactions	2
+day		1
+scott		1
+per		1
+thankskamx	1
+supporting	1
+information	1
+know		1
+working		1
+y		1
+gas		1
+palmer		1
+books		1
+requested	1
+people		1
+rolls		1
+please		1
+active		1
+kristin		1
+dpr		1
+average		1
+otherwise	1
+here		1

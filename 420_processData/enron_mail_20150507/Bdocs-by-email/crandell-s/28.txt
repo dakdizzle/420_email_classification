@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+bpat		1
+gov		1
+email		1
+www		1
+alan		1
+asked		1
+transmission	1
+bpa		1
+oasis		1

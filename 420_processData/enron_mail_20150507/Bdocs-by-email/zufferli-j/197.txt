@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+life		1
+userid		1
+mail		1
+password	1
+don		1
+remember	1

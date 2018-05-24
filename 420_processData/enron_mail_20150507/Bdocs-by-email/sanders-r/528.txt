@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+las		2
+vegas		2
+waivering	1
+thanksgiving	1
+go		1
+probably	1
+though		1
+meet		1
+julie		1
+call		1
+ll		1

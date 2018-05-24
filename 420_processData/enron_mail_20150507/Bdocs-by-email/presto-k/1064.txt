@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+jea		2
+buy		2
+delivery	2
+mwh		1
+power		1
+mid		1
+contingent	1
+ld		1
+curve		1
+below		1
+unit		1
+firm		1

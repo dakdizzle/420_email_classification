@@ -1,0 +1,10 @@
+NumWords	10
+NumTerms	7
+
+non		2
+pv		2
+bought		2
+ve		1
+contracts	1
+zufferli	1
+think		1

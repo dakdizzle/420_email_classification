@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+chris		2
+cn		2
+germany		2
+physical	1
+cornerstone	1
+pstit		1
+invoice		1
+december	1
+cgerman		1
+guys		1
+paid		1
+recipients	1
+filename	1
+na		1
+looks		1
+aware		1
+p		1
+anything	1
+enron		1
+propane		1
+financial	1
+ou		1
+going		1

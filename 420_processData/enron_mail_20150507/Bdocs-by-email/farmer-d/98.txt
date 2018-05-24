@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+flow		1
+saxet		1
+well		1
+farmer		1
+now		1
+daily		1
+deals		1
+ect		1
+adjust		1
+enrongo		1
+balance		1
+daren		1
+hou		1
+bring		1
+ahead		1

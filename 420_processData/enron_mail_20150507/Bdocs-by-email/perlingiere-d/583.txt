@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+eb		1
+fax		1
+company		1
+legal		1
+attached	1
+spot		1
+houston		1
+street		1
+oil		1
+sale		1
+see		1
+america		1
+master		1
+pioneer		1
+enron		1
+texas		1
+dperlin		1
+please		1
+purchase	1
+north		1
+smith		1
+perlingiereenron	1
+agreement	1
+debra		1

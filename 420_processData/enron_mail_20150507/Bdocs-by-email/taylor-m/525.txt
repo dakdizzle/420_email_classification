@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+two		1
+family		1
+thanksgivings	1
+kerry		1
+mike		1
+having		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kh		1
+agave		1
+fmc		1
+paul		1
+back		1
+attached	1
+document	1
+thx		1
+someone		1

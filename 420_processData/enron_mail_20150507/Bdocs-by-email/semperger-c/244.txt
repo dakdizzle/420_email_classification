@@ -1,0 +1,7 @@
+NumWords	6
+NumTerms	4
+
+ha		3
+those		1
+recognize	1
+sunglasses	1

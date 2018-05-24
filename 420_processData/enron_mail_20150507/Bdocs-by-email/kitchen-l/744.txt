@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+two		1
+great		1
+please		1

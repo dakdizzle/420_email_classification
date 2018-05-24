@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+mark		1
+much		1
+up		1
+noel		1
+meet		1
+messed		1
+site		1
+out		1
+ride		1
+hope		1
+needing		1
+change		1
+hasn		1
+gang		1

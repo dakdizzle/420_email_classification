@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+thank		1
+interesting	1
+pretty		1

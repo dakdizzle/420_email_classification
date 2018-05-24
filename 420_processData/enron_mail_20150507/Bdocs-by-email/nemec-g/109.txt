@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+up		1
+tricia		1
+covered		1
+recipients	1
+sorry		1
+delay		1
+na		1
+enron		1
+ou		1
+tflanig		1
+here		1
+flanigan	1

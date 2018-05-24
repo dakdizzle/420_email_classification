@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+lavo		1
+want		1
+derekyour	1
+pebble		1

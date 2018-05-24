@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+letters		1
+kim		1
+sara		1
+review		1
+need		1

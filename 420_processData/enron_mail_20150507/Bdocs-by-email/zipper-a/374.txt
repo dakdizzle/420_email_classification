@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+policy		1
+aig		1
+send		1
+proof		1
+copy		1
+received	1
+problem		1
+new		1

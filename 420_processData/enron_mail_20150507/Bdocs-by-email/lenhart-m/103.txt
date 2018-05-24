@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+email		1
+back		1
+tonight		1
+give		1
+call		1

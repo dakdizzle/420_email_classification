@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+ed		1
+early		1
+make		1
+evening		1
+time		1
+persistence	1
+desk		1
+sorry		1
+late		1
+fast		1
+thanks		1
+connected	1
+morning		1
+kim		1
+gosh		1
+come		1
+run		1
+need		1
+hi		1

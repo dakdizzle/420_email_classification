@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+two		1
+financially	1
+basis		1
+deals		1
+sell		1
+chi		1
+ees		1

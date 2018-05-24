@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+email		1
+chicks		1
+wheelin		1
+pawn		1
+talk		1
+phone		1
+later		1
+yesterday	1
+weshould	1
+chessboard	1
+talking		1
+feel		1
+felt		1
+want		1
+don		1
+yah		1
+over		1
+didn		1

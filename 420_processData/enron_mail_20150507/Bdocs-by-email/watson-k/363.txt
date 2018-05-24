@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+secry		1
+robertson	1
+audrey		1

@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+dquigle		2
+cn		2
+book		2
+place		1
+john		1
+pstcan		1
+recipients	1
+filename	1
+na		1
+privileged	1
+dutch		1
+asapdutch	1
+non		1
+enron		1
+trades		1
+update		1
+ou		1
+new		1
+give		1
+quigley		1

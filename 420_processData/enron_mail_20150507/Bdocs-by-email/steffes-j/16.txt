@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+fax		1
+office		1
+today		1
+pls		1
+sf		1
+thanks		1

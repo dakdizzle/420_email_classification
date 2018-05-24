@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+parents		1
+fun		1
+good		1
+kill		1
+won		1
+staying		1
+deal		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+much		1
+card		1
+items		1
+bid		1
+credit		1
+several		1
+tell		1
+today		1
+need		1
+phone		1

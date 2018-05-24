@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+satp		1
+out		1
+way		1
+ok		1
+air		1
+model		1
+thup		1
+numbers		1
+monp		1
+frip		1
+sunp		1
+pull		1

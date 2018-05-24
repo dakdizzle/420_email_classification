@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+internet	1
+sent		1
+wireless	1
+handheld	1
+screen		1
+price		1
+blackberry	1
+thankscan	1

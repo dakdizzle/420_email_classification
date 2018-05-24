@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+around		1
+facts		1
+sally		1
+rexam		1
+plain		1
+deal		1

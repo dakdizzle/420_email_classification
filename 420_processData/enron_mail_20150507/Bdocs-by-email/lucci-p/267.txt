@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+m		2
+ll		2
+ankle		1
+class		1
+worried		1
+talk		1
+looking		1
+keep		1
+ready		1
+later		1
+ski		1
+posted		1
+around		1
+training	1
+forward		1
+don		1
+tonight		1

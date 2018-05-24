@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+glenspring	1
+mimosa		1
+tx		1

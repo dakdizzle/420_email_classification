@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+hear		1
+know		1
+more		1
+chat		1
+need		1
+cafe		1
+wait		1
+awesome		1
+didn		1

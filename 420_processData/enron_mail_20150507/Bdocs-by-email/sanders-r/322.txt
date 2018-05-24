@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+discuss		1
+ferc		1
+order		1
+refund		1
+meeting		1
+short		1
+ena		1
+complicated	1
+now		1
+guess		1
+ck		1
+liability	1
+issue		1
+read		1
+tra		1
+still		1

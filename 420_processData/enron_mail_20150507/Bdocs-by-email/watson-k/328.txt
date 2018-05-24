@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jan		1
+calendars	1
+already		1
+tracey		1
+bet		1

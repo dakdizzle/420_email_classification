@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+both		1
+those		1
+day		1
+thinking	1
+days		1
+shifts		1
+thdeano		1
+work		1
+nights		1
+sure		1

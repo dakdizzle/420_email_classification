@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+those		1
+guessing	1
+m		1
+hitting		1
+aga		1
+number		1
+thanks		1

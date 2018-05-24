@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+copy		2
+letter		2
+assignment	2
+assigning	1
+send		1
+stacy		1
+interest	1
+susan		1
+asked		1
+thanks		1
+contract	1
+called		1
+prepare		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+title		1
+prizes		1

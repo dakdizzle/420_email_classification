@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+theresa		1
+day		1
+seems		1
+know		1
+pillow		1
+phone		1
+system		1
+thanks		1
+home		1
+gone		1
+ve		1
+m		1
+down		1
+mailing		1
+back		1
+tomorrow	1
+bring		1
+barry		1

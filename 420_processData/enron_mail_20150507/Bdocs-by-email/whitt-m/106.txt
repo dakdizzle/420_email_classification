@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+little		1
+rough		1
+still		1
+better		1

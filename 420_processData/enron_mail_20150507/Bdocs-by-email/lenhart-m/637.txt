@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+sure		2
+those		1
+moving		1
+ok		1
+sis		1
+until		1
+know		1
+guys		1
+glad		1
+split		1
+room		1
+forth		1
+back		1
+wont		1
+year		1
+decision	1
+beginning	1

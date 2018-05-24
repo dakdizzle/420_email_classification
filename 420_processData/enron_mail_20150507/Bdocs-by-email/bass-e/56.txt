@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+party		1
+regarding	1
+heard		1
+know		1
+guys		1
+bachelor	1
+still		1
+haven		1

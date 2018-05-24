@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+coordination	1
+kim		1
+remove		1
+distribution	1
+jerry		1
+outages		1
+nng		1
+tw		1
+help		1
+reports		1
+outage		1
+thanks		1

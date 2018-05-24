@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+waiter		2
+heard		1
+takes		1
+hard		1
+time		1
+bills		1
+know		1
+won		1
+something	1
+house		1
+pay		1
+understand	1
+change		1
+more		1
+isn		1
+year		1
+don		1
+haven		1
+profession	1

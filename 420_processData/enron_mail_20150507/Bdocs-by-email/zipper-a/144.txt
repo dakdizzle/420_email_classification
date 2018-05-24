@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+webb		2
+enron		2
+jay		2
+arvind		1
+zipper		1
+reached		1
+contact		1
+andy		1
+good		1
+propoer		1
+foward		1
+luck		1
+com		1

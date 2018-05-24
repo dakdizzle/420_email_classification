@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+remind		1
+enron		1
+company		1
+please		1
+sara		1
+sheila		1
+thanks		1

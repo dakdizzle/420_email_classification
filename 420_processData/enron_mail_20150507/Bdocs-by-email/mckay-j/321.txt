@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+call		2
+wall		1
+articles	1
+make		1
+time		1
+up		1
+street		1
+interest	1
+car		1
+pick		1
+sorry		1
+journal		1
+times		1
+nice		1
+ny		1
+exercise	1
+night		1
+missed		1
+jonps		1
+last		1
+give		1

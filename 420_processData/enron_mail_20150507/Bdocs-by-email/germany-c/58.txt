@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ferc		1
+inside		1
+please		1
+june		1
+file		1
+thanks		1

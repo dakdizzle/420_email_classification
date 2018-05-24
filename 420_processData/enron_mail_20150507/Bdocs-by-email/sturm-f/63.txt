@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+yahoo		1
+sturmt		1
+com		1

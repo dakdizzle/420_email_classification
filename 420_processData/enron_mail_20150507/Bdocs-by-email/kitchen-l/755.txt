@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+jeff		2
+runs		1
+mentioned	1
+know		1
+beth		1
+tim		1
+west		1
+keep		1
+busy		1
+ees		1
+richter		1
+thanks		1
+thinking	1
+used		1
+barry		1
+concept		1
+idea		1
+already		1
+though		1
+ll		1

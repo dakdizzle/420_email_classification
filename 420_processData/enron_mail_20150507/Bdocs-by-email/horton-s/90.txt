@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+couldn		1
+make		1
+guys		1
+told		1
+wanted		1
+lunch		1
+saturday	1
+golf		1
+lumch		1
+play		1

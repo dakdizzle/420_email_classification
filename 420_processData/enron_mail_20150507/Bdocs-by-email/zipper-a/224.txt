@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+those		1
+put		1
+az		1
+justin		1
+online		1
+book		1
+bot		1
+apr		1
+oct		1

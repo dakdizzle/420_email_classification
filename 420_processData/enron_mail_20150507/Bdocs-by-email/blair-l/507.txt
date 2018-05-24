@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+lynn		1
+bullets		1
+well		1
+friday		1
+leaves		1
+thanks		1
+signifcant	1
+out		1
+put		1
+team		1
+mary		1
+north		1
+want		1
+sure		1
+donna		1

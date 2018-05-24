@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+march		1
+hey		1
+time		1
+feel		1
+baby		1
+winning		1
+th		1
+vegas		1

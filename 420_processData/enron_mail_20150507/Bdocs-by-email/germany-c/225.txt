@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+home		1
+subpoenas	1
+look		1
+down		1
+list		1
+enron		1
+fercivapr	1
+http		1
+pdfscroll	1
+pdfs		1
+names		1
+com		1

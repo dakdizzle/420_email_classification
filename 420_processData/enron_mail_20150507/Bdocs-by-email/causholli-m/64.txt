@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+doctor		2
+tell		2
+need		2
+card		1
+plan		1
+ivonne		1
+hello		1
+contact		1
+find		1
+names		1
+vision		1
+thanks		1
+list		1
+causholli	1
+health		1
+go		1
+provided	1
+before		1
+monika		1
+clarify		1
+insurance	1

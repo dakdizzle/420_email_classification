@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+lynn		1
+budget		1
+hear		1
+know		1
+fyi		1
+purposes	1
+wanted		1
+central		1
+thanks		1
+south		1
+teams		1
+waiting		1
+tw		1
+donna		1
+still		1

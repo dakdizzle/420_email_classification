@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+hold		1
+way		1
+gets		1
+please		1
+presses		1
+before		1
+whoa		1
+billed		1
+jmf		1
+high		1
+yesterday	1

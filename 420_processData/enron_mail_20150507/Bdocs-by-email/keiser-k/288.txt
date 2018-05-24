@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+care		1
+done		1
+ok		1
+sitara		1
+tell		1
+take		1
+kk		1
+ll		1
+needs		1

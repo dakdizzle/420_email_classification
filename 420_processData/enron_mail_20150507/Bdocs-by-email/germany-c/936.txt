@@ -1,0 +1,10 @@
+NumWords	10
+NumTerms	7
+
+out		2
+come		2
+intended	2
+contracts	1
+jan		1
+correct		1
+dec		1

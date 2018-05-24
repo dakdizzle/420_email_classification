@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+email		1
+tammy		1
+hello		1
+know		1
+thanks		1
+anything	1
+home		1
+mcausholli	1
+need		1
+comlet		1
+monika		1
+hotmail		1
+here		1

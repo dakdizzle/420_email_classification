@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+fax		2
+debra		2
+eb		1
+tag		1
+legal		1
+williams	1
+jason		1
+houston		1
+street		1
+thanks		1
+confirm		1
+america		1
+ellen		1
+enron		1
+texas		1
+va		1
+please		1
+north		1
+smith		1
+perlingiereenron	1
+perlingiere	1
+com		1
+satara		1

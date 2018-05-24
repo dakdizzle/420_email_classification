@@ -1,0 +1,24 @@
+NumWords	26
+NumTerms	21
+
+avista		2
+enpower		2
+schedule	2
+mws		2
+deal		2
+care		1
+changed		1
+scl		1
+taken		1
+geir		1
+bpa		1
+sale		1
+getting		1
+zero		1
+put		1
+good		1
+mw		1
+bill		1
+accepted	1
+caiso		1
+work		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+option		1
+email		1
+send		1
+sme		1
+please		1
+yevgeny		1
+describing	1
+pass		1
+phillip		1
+along		1
+zero		1

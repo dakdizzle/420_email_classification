@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+nice		1
+grandmom	1
+sexy		1
+found		1
+very		1

@@ -1,0 +1,27 @@
+NumWords	43
+NumTerms	24
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+asset		1
+migden		1
+reliant		1
+orion		1
+kstroup		1
+transfer	1
+tom		1
+jim		1
+kerry		1
+stroup		1
+ideas		1
+snovose		1
+novosel		1
+sarah		1
+interesting	1
+hoatson		1
+janine		1
+thoatson	1
+jmigden		1

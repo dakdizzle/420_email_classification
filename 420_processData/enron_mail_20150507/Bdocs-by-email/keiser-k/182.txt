@@ -1,0 +1,13 @@
+NumWords	13
+NumTerms	10
+
+cn		2
+kam		2
+keiser		2
+kkeiser		1
+enron		1
+recipients	1
+ou		1
+filename	1
+na		1
+pst		1

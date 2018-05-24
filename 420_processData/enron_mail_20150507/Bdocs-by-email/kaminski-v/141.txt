@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+cn		2
+kaminski	2
+vince		1
+okvince		1
+vincent		1
+enron		1
+pstmaureen	1
+recipients	1
+ou		1
+filename	1
+na		1
+vkamins		1

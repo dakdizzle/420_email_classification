@@ -1,0 +1,18 @@
+NumWords	19
+NumTerms	15
+
+jeff		3
+dasovich	2
+cn		2
+talk		1
+jdasovic	1
+recipients	1
+filename	1
+na		1
+pstno		1
+privileged	1
+steffes		1
+non		1
+enron		1
+best		1
+ou		1

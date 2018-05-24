@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+officerenron	1
+pm		1
+fax		1
+organise	1
+operating	1
+up		1
+kitchenchief	1
+pick		1
+car		1
+take		1
+airport		1
+americastel	1
+thankslouiselouise	1
+please		1
+tomorrow	1
+dad		1
+mum		1

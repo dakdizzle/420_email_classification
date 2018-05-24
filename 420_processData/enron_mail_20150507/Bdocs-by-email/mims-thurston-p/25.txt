@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+sitara		1
+b		1

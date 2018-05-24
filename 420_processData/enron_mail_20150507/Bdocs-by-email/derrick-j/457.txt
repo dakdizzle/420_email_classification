@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+invoice		1
+lisa		1
+paid		1
+mellencamp	1
+endeavoring	1
+rex		1
+joe		1

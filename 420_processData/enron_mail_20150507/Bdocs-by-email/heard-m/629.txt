@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+lawyer		1
+yes		1

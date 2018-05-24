@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+payroll		3
+situation	1
+guarantees	1
+debating	1
+until		1
+therefore	1
+friend		1
+administrative	1
+approve		1
+regards		1
+expense		1
+type		1
+bankruptcy	1
+guaranteed	1
+courts		1
+e		1
+think		1

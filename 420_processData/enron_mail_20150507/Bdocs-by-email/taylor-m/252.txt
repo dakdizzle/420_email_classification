@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+m		2
+mark		1
+drink		1
+together	1
+coming		1
+until		1
+weekend		1
+york		1
+town		1
+chance		1
+tuesday		1
+new		1

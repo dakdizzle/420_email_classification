@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+maureen		1
+vince		1
+make		1
+time		1
+efficent	1
+more		1
+sure		1
+process		1
+next		1

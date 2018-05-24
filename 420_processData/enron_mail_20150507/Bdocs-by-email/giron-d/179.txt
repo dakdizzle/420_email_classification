@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+info		1
+email		1
+returned	1
+guessed		1
+exact		1
+kkopetzy	1
+kent		1
+thanks		1
+utilicorp	1
+undeliverable	1
+please		1
+forward		1
+dg		1
+address		1
+com		1
+didn		1

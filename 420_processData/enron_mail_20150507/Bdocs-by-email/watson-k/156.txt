@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+good		1
+looks		1
+think		1
+date		1

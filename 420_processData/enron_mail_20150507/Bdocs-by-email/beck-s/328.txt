@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+monday		2
+interview	1
+evening		1
+reception	1
+arrive		1
+seeing		1
+tuesday		1
+sunday		1
+interviews	1
+miss		1
+look		1
+sally		1
+night		1
+forward		1
+going		1

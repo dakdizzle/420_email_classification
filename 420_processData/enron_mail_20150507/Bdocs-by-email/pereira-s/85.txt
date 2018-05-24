@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+now		1
+laurie		1
+review		1
+susan		1
+superior	1
+square		1
+christina	1
+change		1
+needed		1
+going		1
+last		1
+week		1
+allocation	1

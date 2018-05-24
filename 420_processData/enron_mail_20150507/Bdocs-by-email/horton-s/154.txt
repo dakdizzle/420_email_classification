@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+good		1
+done		1
+job		1
+ok		1
+bill		1

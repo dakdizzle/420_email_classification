@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+maniac		1
+disgusting	1
+one		1
+watch		1
+dancing		1

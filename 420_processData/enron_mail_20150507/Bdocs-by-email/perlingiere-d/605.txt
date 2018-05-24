@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+feeling		1
+well		1
+go		1
+night		1
+one		1
+togo		1
+week		1
+heat		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+back		1
+lol		1
+craig		1
+came		1
+now		1
+cara		1
+uh		1
+score		1
+bed		1

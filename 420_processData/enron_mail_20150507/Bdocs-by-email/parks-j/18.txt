@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+both		1
+list		1
+looking		1
+one		1
+b		1
+here		1

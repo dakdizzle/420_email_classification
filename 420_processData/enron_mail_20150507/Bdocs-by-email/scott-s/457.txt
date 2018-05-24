@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+going		2
+well		1
+wanted		1
+looks		1
+see		1
+townsue		1
+emily		1
+tomorrow	1
+weekend		1
+night		1
+town		1
+game		1
+ll		1

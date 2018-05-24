@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+email		2
+send		1
+chad		1
+forward		1
+last		1
+joe		1
+sunday		1
+thanks		1
+erik		1

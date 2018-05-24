@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+buddy		1
+jeff		1
+dead		1
+em		1
+knock		1

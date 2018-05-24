@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+ll		2
+friday		1
+wednesday	1
+calling		1
+returning	1
+late		1
+tie		1
+call		1
+wish		1
+morning		1
+out		1
+ins		1
+way		1
+cell		1
+bullshit	1
+office		1
+matt		1
+tell		1
+more		1
+need		1
+going		1
+broncos		1
+cig		1
+here		1

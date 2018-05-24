@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ve		1
+ily		1
+hagd		1
+bcdta		1
+booked		1

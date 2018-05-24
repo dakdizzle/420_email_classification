@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+meeting		1
+wednesday	1
+ng		1
+know		1
+guys		1
+phone		1
+late		1
+call		1
+jim		1
+brown		1
+thursday	1
+numbers		1
+willing		1
+conference	1
+think		1
+ashley		1

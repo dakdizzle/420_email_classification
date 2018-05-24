@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+favor		2
+trigger		2
+show		2
+suggesting	1
+pl		1
+know		1
+december	1
+confirms	1
+price		1
+provide		1
+done		1
+asap		1
+please		1
+signed		1
+change		1
+documentation	1
+e		1
+need		1
+sure		1
+triggered	1

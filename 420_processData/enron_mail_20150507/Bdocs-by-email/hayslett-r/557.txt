@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+blackberry	2
+tell		2
+everyone	2
+much		1
+net		1
+wireless	1
+handheld	1
+know		1
+www		1
+help		1
+calm		1
+home		1
+point		1
+sent		1
+m		1
+done		1
+down		1
+go		1
+work		1
+sure		1
+doesn		1

@@ -1,0 +1,25 @@
+NumWords	47
+NumTerms	22
+
+ect		9
+mark		4
+pdx		4
+tom		3
+round		2
+harrington	2
+holden		2
+enron		2
+alonso		2
+fischer		2
+stephen		2
+guzman		2
+salisbury	2
+pittsburghholden	1
+pittsburghbroker	1
+buffaloit	1
+na		1
+pittsburghsteve	1
+pittsburghguzman	1
+picks		1
+over		1
+here		1

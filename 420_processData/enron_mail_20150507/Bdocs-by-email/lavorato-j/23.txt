@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+morning		1
+coming		1
+mario		1
+go		1
+tell		1
+going		1
+town		1
+wes		1
+steel		1

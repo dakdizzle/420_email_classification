@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+live		1
+look		1
+hey		1
+baby		1
+league		1
+old		1
+need		1
+pleasedqlong	1
+teampassword	1
+website		1
+kevin		1
+rock		1

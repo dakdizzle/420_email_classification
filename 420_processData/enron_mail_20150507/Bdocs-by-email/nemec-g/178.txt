@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+cn		2
+nemec		2
+gerald		2
+monday		1
+up		1
+details		1
+pstmax		1
+guys		1
+recipients	1
+filename	1
+na		1
+afternoon	1
+call		1
+privileged	1
+gnemec		1
+non		1
+enron		1
+back		1
+tyrell		1
+ou		1
+conference	1
+set		1
+attempting	1

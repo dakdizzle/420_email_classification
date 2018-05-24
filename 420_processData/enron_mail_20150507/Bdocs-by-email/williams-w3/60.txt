@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+put		1
+long		1
+key		1
+coke		1
+go		1
+extra		1
+bankbill	1
+money		1
+chance		1
+heroin		1

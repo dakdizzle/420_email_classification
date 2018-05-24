@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+taking		1
+around		1
+good		1
+friday		1
+today		1
+e		1
+mood		1
+sounds		1
+somber		1
+pretty		1
+love		1
+here		1

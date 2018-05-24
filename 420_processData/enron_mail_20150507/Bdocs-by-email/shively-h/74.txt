@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+group		1
+arteaga		1
+airam		1
+enron		1
+please		1
+forward		1
+aarteag		1
+recipients	1
+ou		1
+na		1
+rain		1

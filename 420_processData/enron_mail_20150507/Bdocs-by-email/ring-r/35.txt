@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+information	1
+personal	1
+bromley		1
+unlisted	1
+ring		1
+tx		1
+drivehouston	1
+number		1
+richard		1

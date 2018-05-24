@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+jonathan	1
+please		1
+gaisman		1
+proceed		1

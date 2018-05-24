@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+shot		1
+flu		1
+make		1
+appointment	1
+fischer		1
+mary		1
+thanks		1

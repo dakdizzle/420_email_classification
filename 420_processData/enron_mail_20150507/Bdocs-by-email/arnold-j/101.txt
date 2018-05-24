@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+both		1
+really		1
+stock		1
+jeanie		1
+pleasepleasepleasejohn	1
+options		1
+need		1
+docs		1
+phantom		1

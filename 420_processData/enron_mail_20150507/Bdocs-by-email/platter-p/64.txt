@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+exed		1
+fed		1
+yeaterday	1

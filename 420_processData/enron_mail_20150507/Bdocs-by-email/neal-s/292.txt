@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+follow		1
+up		1
+payment		1
+guys		1
+issue		1

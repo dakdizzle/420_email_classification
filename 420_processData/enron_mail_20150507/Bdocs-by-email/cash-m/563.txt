@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+situation	1
+plan		1
+comment		1
+legal		1
+terms		1
+provide		1
+related		1
+litigation	1
+answer		1
+reiterate	1
+go		1
+michelle	1
+advice		1
+ahead		1
+govern		1
+waivers		1
+pose		1
+question	1
+don		1
+severance	1

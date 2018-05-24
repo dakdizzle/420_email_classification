@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+questions	2
+together	1
+employees	1
+heads		1
+john		1
+desk		1
+phillip		1
+answer		1
+pull		1
+better		1
+out		1
+facts		1
+good		1
+concerns	1
+air		1
+feel		1
+idea		1
+sooner		1
+asking		1
+don		1

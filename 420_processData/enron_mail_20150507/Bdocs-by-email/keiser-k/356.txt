@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+those		1
+egsc		1
+cand		1
+west		1
+deals		1
+variance	1
+management	1
+canada		1
+wasn		1
+ft		1
+look		1
+shouldn		1
+l		1
+please		1
+thankskam	1
+reflected	1
+book		1
+line		1
+amanda		1
+last		1
+booked		1
+liquidate	1
+didn		1

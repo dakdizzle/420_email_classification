@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+know		1
+questions	1
+today		1
+goes		1
+very		1
+important	1

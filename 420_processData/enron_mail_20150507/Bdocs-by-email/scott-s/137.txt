@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+around		1
+holst		1
+talk		1
+price		1
+absolute	1
+curve		1
+sept		1
+jun		1
+looks		1
+keith		1
+ll		1
+marked		1

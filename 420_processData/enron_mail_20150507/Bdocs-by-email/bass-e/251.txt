@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+situation	1
+whole		1
+feel		1
+now		1
+don		1
+better		1

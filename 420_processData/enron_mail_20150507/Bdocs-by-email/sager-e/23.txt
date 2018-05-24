@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+esager		2
+cn		2
+sager		2
+make		1
+know		1
+final		1
+recipients	1
+filename	1
+na		1
+presentation	1
+privileged	1
+room		1
+non		1
+enron		1
+alice		1
+pstsure		1
+ou		1
+sure		1
+conference	1
+thankselizabeth	1
+elizabeth	1
+ll		1

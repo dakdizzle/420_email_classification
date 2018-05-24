@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+both		1
+john		1
+rob		1
+chris		1
+golf		1
+sunday		1

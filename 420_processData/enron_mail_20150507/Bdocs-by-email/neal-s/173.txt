@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+make		1
+received	1
+wanted		1
+sure		1

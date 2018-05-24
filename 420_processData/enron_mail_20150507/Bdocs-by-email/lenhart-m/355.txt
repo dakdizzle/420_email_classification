@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+anything	1
+happy		1
+watch		1
+need		1
+going		1
+hoskina		1
+hour		1
+away		1
+having		1
+doing		1
+hockey		1
+think		1

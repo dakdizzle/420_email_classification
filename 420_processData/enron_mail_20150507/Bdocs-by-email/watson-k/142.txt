@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+ve		1
+kim		1

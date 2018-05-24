@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+official	2
+pl		1
+tp		1
+ids		1
+checked		1
+postids		1
+bas		1
+post		1
+east		1
+thanks		1
+both		1
+respectively	1
+website		1
+prc		1

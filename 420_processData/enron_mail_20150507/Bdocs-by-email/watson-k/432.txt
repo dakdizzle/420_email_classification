@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+meeting		2
+kim		1
+moving		1
+employee	1
+leave		1
+audrey		1
+seat		1
+here		1

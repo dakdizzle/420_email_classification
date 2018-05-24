@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+right		2
+parallel	2
+down		1
+bill		1
+testing		1
+turning		1
+top		1
+fsp		1
+computer	1
+thanks		1
+boxes		1
+volume		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+home		1
+gone		1
+think		1

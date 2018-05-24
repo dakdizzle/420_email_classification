@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+ok		1
+redlined	1
+please		1
+know		1
+questions	1
+changes		1
+attached	1
+mary		1
+document	1
+executables	1
+prepare		1
+thanks		1

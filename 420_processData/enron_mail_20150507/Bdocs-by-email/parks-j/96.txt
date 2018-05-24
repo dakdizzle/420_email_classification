@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+account		1
+outlook		1
+bridgeline	1
+please		1
+weather		1
+gas		1
+chris		1
+product		1
+thanksjoe	1
+add		1

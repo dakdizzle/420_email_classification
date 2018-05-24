@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ki		1
+lled		1
+checked		1
+changes		1
+made		1
+sure		1
+deal		1
+needs		1

@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+luke		2
+robin		2
+one		2
+st		2
+care		1
+edloe		1
+day		1
+up		1
+methodist	1
+gave		1
+sunset		1
+service		1
+later		1
+rice		1
+westheimer	1
+sign		1
+told		1
+barbe		1
+couple		1
+becker		1

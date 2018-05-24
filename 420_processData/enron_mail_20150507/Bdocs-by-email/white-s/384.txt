@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+toll		2
+tag		2
+both		1
+stacey		1
+please		1
+know		1
+martin		1
+need		1
+transponder	1
+white		1
+thanks		1
+parking		1

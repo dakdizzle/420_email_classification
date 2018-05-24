@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+stacey		1
+jeff		1
+talk		1
+back		1
+tim		1
+reserve		1
+richter		1
+schedule	1

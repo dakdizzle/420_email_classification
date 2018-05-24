@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+shivelygeof	1
+hunter		1
+williams	1
+lewisjason	1
+storeyandy	1

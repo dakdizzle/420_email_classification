@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+plus		1
+express		1
+american	1
+please		1
+corporate	1
+attachment	1
+cards		1
+file		1
+print		1
+thanks		1

@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+mdq		2
+contract	2
+primary		1
+maintenance	1
+under		1
+up		1
+looking		1
+receipt		1
+following	1
+review		1
+wrong		1
+leg		1
+points		1
+look		1
+contracts	1
+screen		1
+show		1
+going		1
+passkey		1
+think		1

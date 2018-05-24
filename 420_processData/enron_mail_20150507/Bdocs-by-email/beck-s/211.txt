@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+good		1
+assistance	1
+under		1
+program		1
+right		1
+sally		1
+update		1
+solution	1
+educational	1
+falls		1
+normal		1
+thanks		1

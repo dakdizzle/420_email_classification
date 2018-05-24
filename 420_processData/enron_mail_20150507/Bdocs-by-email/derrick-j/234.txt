@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+much		1
+yours		1
+school		1
+attachment	1
+appreciate	1
+assistance	1
+individuals	1
+forwarding	1
+rogers		1
+law		1
+sincerely	1
+grateful	1
+very		1
+appropriate	1
+dean		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ve		1
+link		1
+lost		1
+com		1
+nymexinfo	1

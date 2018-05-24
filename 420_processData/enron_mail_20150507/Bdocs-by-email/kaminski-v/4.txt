@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+pmaconference	1
+fercmarkets	1
+http		1
+www		1
+pma		1
+pdf		1
+com		1

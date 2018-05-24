@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+credit		2
+px		2
+edison		2
+make		1
+permit		1
+associated	1
+earlier		1
+wanted		1
+negative	1
+call		1
+debts		1
+undercollection	1
+jim		1
+seen		1
+recognize	1
+jeff		1
+language	1
+pay		1
+questions	1
+part		1
+mail		1
+references	1
+sure		1
+explicitly	1

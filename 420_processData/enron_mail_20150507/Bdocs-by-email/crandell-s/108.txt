@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+problems	1
+fixed		1
+know		1
+sorry		1
+think		1

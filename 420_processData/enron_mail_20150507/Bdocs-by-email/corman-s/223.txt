@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+group		1
+care		1
+please		1
+verify		1
+taken		1
+work		1
+need		1
+someone		1
+thanks		1

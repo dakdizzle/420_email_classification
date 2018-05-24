@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+girls		2
+between		1
+drive		1
+baskin		1
+terry		1
+well		1
+susan		1
+robbins		1
+take		1
+space		1
+enough		1
+sequoia		1
+practice	1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+mark		1
+talk		1
+more		1
+bob		1
+developments	1

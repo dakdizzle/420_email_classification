@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+stuff		1
+open		1
+preliminary	1
+power		1
+talk		1
+scheduling	1
+sempergerwest	1
+call		1
+america		1
+morning		1
+good		1
+convenience	1
+please		1
+direct		1
+north		1
+bookouts	1
+cara		1
+supervisorenron	1
+here		1

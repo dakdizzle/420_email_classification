@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+enron		1
+http		1
+www		1
+provider	1
+uhc		1
+com		1

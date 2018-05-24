@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+amy		1
+please		1
+convenience	1
+michelle	1
+review		1
+walter		1
+coffer		1
+give		1
+thanks		1
+call		1

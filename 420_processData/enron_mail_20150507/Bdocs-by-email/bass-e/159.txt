@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+sit		1
+time		1
+hard		1
+guys		1
+kidding		1
+loss		1
+out		1
+tough		1
+giving		1
+one		1
+going		1
+anyways		1
+think		1

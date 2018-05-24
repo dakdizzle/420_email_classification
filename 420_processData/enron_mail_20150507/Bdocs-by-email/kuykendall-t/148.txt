@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+home		1
+little		1
+bit		1
+back		1
+going		1
+chris		1
+tonight		1
+call		1
+talked		1

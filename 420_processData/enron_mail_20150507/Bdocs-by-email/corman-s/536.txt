@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+day		2
+m		2
+here		2
+decisions	1
+try		1
+course		1
+busy		1
+keep		1
+rumor		1
+out		1
+put		1
+friends		1
+spreading	1
+work		1
+nng		1
+yes		1
+making		1
+still		1
+think		1

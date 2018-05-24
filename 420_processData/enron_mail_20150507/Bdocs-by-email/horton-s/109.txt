@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+lessons		1
+way		1
+hard		1
+thank		1
+words		1
+sometimes	1
+kind		1
+learned		1
+better		1
+through		1

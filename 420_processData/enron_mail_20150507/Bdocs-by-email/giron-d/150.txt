@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+fest		1
+great		1
+time		1
+looking		1
+jazz		1
+forward		1
+already		1
+dg		1
+thanks		1

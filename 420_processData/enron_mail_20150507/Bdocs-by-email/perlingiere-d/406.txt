@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+agreement	2
+visit		1
+hello		1
+now		1
+messenger	1
+help		1
+thanks		1
+sent		1
+executed	1
+paramy		1
+week		1
+vis		1
+next		1

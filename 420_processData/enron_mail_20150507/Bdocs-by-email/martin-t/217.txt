@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+vacation	2
+updated		1
+send		1
+try		1
+end		1
+well		1
+know		1
+hearing		1
+days		1
+desk		1
+members		1
+tom		1
+thanks		1
+daren		1
+lot		1
+remaining	1
+list		1
+want		1
+year		1
+dealing		1
+traders		1
+dave		1
+wanting		1
+include		1

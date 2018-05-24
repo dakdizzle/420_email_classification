@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+confirmed	1
+jody		1
+thu		1
+thanks		1

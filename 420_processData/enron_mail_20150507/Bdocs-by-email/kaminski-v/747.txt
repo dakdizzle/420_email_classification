@@ -1,0 +1,21 @@
+NumWords	27
+NumTerms	18
+
+vkamins		3
+com		3
+anurag		2
+ect		2
+saksena		2
+vince		2
+enron		2
+hear		1
+attached	1
+pstanurag	1
+filename	1
+nice		1
+message		1
+amto		1
+again		1
+kaminskix	1
+subject		1
+gmacrfc		1

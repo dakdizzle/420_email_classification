@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ish		1
+around		1
+go		1
+meet		1
+later		1
+think		1

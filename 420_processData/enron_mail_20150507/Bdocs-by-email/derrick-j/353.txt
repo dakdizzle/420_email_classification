@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+mark		1
+send		1
+wood		1
+thank		1
+steph		1
+derrick		1
+tried		1
+talked		1
+jim		1
+marcus		1
+unsuccessfully	1
+attempt		1
+message		1
+dodson		1
+forward		1
+mail		1
+telling		1

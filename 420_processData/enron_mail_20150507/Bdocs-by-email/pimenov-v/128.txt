@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+stuff		1
+gonna		1
+bought		1
+learn		1
+already		1
+cd		1
+spring		1
+next		1

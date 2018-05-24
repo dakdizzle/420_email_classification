@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+moving		1
+ready		1
+thought		1
+process		1
+still		1
+through		1

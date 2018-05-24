@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+monday		1
+master		1
+wrap		1
+hope		1
+up		1
+agree		1
+keep		1
+informed	1
+thanks		1

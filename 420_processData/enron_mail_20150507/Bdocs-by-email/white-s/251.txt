@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+years		1
+directory	1
+position	1
+power		1
+stacey		1
+back		1
+unarchive	1
+dpr		1
+far		1
+common		1

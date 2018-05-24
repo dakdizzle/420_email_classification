@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+production	2
+out		1
+up		1
+estimated	1
+true		1
+origination	1
+need		1
+figure		1
+still		1
+actual		1

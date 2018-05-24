@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+good		1
+jonathan	1
+spoken		1
+recently	1
+idea		1
+thought		1
+think		1
+lot		1

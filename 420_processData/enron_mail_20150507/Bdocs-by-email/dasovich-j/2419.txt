@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+travel		1
+enjoy		1
+cool		1

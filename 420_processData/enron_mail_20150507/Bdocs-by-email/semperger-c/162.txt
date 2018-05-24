@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+mail		2
+full		1
+something	1
+bit		1
+tidy		1
+up		1
+returns		1
+kicked		1
+backcan		1
+tuesday		1
+mailbox		1
+getting		1

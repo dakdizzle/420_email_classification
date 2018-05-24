@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+job		1
+asset		1
+recipients	1
+na		1
+miller		1
+thanks		1
+dmille		1
+good		1
+enron		1
+ou		1
+mktg		1
+don		1

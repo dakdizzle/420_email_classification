@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+refund		1
+anything	1
+regarding	1
+heard		1
+judythat	1
+thanxchris	1
+check		1
+know		1
+thought		1
+trace		1
+dorland		1

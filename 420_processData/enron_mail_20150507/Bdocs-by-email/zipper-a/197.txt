@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+book		2
+put		1
+jv		1
+please		1
+ng		1
+opt		1
+apr		1
+oct		1
+sold		1
+thanks		1

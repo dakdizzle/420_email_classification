@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+care		1
+vaca		1
+talk		1
+thursday	1
+fran		1
+things		1
+go		1
+weekend		1
+ahead		1
+chance		1
+take		1
+thanks		1

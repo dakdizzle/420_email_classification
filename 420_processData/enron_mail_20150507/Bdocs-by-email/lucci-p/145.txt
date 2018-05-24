@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+cell		1
+up		1
+know		1
+want		1
+tonight		1
+call		1

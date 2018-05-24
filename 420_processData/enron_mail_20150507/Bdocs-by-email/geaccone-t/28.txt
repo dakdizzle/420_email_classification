@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+send		1
+class		1
+peggy		1
+ok		1
+prek		1
+know		1
+friday		1
+attached	1
+geaccone	1
+folder		1
+mother		1
+mrs		1
+out		1
+please		1
+thursday	1
+bryant		1
+night		1
+thankstracy	1
+invitation	1

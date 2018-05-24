@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kaminskienron	1
+vince		1
+smithhouston	1
+tx		1
+corp		1

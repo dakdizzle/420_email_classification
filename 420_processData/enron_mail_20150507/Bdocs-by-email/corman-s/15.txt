@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+propose		1
+sheet		1
+west		1
+mainline	1
+use		1

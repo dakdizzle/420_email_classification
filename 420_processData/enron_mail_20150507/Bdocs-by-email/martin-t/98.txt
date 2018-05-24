@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+rates		2
+month		1
+tom		1
+thanks		1
+call		1
+long		1
+questions	1
+lauri		1
+again		1
+d		1
+irrelevant	1
+haul		1
+here		1

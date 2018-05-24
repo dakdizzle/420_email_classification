@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+email		1
+way		1
+contracts	1
+ignore		1
+financial	1
+prior		1
+phone		1
+sorry		1

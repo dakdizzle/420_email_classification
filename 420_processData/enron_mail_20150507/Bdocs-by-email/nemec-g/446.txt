@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+cn		2
+nemec		2
+gerald		2
+letter		1
+recipients	1
+fine		1
+filename	1
+na		1
+looks		1
+pstlarry	1
+privileged	1
+gnemec		1
+non		1
+enron		1
+ou		1

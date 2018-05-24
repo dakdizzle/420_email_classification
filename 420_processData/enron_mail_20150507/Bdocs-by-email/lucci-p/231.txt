@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+yeah		1
+vacation	1
+thursday	1
+going		1
+lunch		1

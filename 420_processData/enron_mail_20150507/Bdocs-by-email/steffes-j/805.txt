@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+mwh		1
+mechanism	1
+analysis	1
+enron		1
+bill		1
+short		1
+indicates	1
+face		1
+brunt		1
+income		1

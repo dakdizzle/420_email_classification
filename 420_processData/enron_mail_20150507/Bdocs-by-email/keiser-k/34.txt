@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+email		1
+first		1
+correction	1
+ignore		1
+below		1

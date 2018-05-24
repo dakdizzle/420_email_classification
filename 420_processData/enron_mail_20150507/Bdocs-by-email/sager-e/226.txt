@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+updated		1
+meeting		1
+definitions	1
+nicolay		1
+dated		1
+well		1
+keep		1
+draft		1
+christi		1
+thanks		1
+products	1
+long		1
+start		1
+impact		1
+more		1
+yes		1
+learn		1
+need		1
+determine	1
+product		1
+discussing	1
+new		1
+ll		1

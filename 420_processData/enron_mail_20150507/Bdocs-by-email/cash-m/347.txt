@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+file		2
+diomedes	1
+please		1
+mhc		1
+thanks		1

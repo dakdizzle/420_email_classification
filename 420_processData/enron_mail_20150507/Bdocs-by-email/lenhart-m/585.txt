@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+gonna		1
+kick		1
+probablyl	1

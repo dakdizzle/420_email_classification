@@ -1,0 +1,26 @@
+NumWords	28
+NumTerms	23
+
+california	3
+credit		2
+sell		2
+going		2
+info		1
+chrispresto	1
+vs		1
+evaluate	1
+seems		1
+lavo		1
+power		1
+legal		1
+true		1
+price		1
+terms		1
+someone		1
+risks		1
+sale		1
+negotiating	1
+great		1
+agree		1
+calpine		1
+margin		1

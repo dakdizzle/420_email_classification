@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+mailed		1
+paul		1
+wil		1
+spreadsheet	1
+electronic	1
+janice		1
+file		1
+view		1
+thanks		1
+excel		1
+something	1
+stubs		1
+pay		1
+save		1
+want		1
+calculattions	1
+website		1
+similar		1

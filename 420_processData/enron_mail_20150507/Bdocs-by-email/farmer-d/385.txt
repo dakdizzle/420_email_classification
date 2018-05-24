@@ -1,0 +1,26 @@
+NumWords	54
+NumTerms	23
+
+cn		12
+recipients	6
+na		6
+enron		6
+ou		6
+baumbach	1
+molsen		1
+hull		1
+joseph		1
+david		1
+ebass		1
+bhull		1
+weldon		1
+bass		1
+jsmith		1
+michael		1
+olsen		1
+dbaumba		1
+bryan		1
+vweldon		1
+charles		1
+eric		1
+smith		1

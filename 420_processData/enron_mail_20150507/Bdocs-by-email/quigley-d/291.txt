@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ut		1
+vs		1
+extra		1
+bought		1
+use		1
+ticket		1
+uh		1
+gamedq		1

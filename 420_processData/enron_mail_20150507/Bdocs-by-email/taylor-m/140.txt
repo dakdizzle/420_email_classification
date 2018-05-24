@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+mtaylo		2
+cn		2
+calgary		1
+mark		1
+greg		1
+pstit		1
+legal		1
+handled		1
+recipients	1
+filename	1
+na		1
+call		1
+privileged	1
+non		1
+office		1
+enron		1
+appears		1
+johnston	1
+ou		1
+taylor		1
+give		1

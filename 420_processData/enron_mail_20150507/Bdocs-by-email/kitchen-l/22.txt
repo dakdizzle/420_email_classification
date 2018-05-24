@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+anything	1
+obviously	1
+filled		1
+information	1
+areas		1
+requiring	1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+email		1
+net		1
+year		1
+going		1
+mexico		1
+number		1
+give		1
+over		1

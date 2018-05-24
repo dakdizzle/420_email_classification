@@ -1,0 +1,21 @@
+NumWords	23
+NumTerms	18
+
+com		4
+austin		2
+mccomb		2
+rightttt	1
+kmccomb		1
+brian		1
+wollam		1
+cmccomb		1
+brianc		1
+erwollam	1
+knipe		1
+msn		1
+constantine	1
+words		1
+hotmail		1
+saltgrass	1
+comin		1
+erik		1

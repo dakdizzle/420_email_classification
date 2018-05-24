@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+gracie		1
+course		1
+again		1
+find		1
+web		1
+offered		1
+monika		1

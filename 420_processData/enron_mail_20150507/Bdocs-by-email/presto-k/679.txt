@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+look		1
+coal		1
+luck		1
+having		1
+markets		1

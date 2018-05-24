@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+early		1
+together	1
+know		1
+well		1
+qb		1
+m		1
+saw		1
+madison		1
+maybe		1
+dg		1
+week		1
+lunch		1
+still		1
+next		1
+here		1

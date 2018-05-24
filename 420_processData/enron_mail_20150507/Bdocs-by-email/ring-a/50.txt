@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+count		1
+hi		1
+thanks		1

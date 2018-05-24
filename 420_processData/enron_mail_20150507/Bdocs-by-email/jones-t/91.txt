@@ -1,0 +1,25 @@
+NumWords	28
+NumTerms	22
+
+tjones		2
+jones		2
+today		2
+privileged	2
+non		2
+going		2
+little		1
+early		1
+pm		1
+beach		1
+leave		1
+tana		1
+filename	1
+folder		1
+sent		1
+version		1
+psti		1
+origin		1
+itemsx		1
+mime		1
+tx		1
+away		1

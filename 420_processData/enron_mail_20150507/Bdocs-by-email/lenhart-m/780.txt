@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+sweet		2
+golf		2
+beer		1
+drink		1
+day		1
+cant		1
+allowance	1
+night		1
+work		1
+need		1
+wait		1

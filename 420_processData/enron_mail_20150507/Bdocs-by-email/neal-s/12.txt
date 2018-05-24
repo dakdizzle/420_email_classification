@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+addition	1
+email		1
+scott		1
+thank		1
+know		1
+neal		1
+help		1
+notification	1
+effective	1
+anything	1
+soon		1
+body		1
+possible	1
+please		1
+need		1
+shopmembership	1
+cancel		1

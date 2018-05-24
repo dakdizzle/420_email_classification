@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+changes		2
+ok		1
+attached	1
+form		1
+kinder		1
+two		1
+please		1
+mary		1
+made		1
+signature	1
+executables	1
+below		1
+prepare		1

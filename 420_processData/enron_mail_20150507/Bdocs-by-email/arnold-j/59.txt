@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+monday		1
+fun		1
+floor		1
+john		1
+now		1
+ect		1
+looks		1
+see		1
+morning		1
+hou		1
+kim		1
+good		1
+enron		1
+ward		1
+arnold		1
+amto		1
+paint		1
+ectcc		1
+subject		1
+probably	1
+antonio		1
+san		1
+enronxgate	1

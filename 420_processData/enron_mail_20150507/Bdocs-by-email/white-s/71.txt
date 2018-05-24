@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+stacey		2
+white		2
+cn		2
+group		1
+stacy		1
+john		1
+talk		1
+houston		1
+recipients	1
+pstmake		1
+filename	1
+na		1
+afternoon	1
+morning		1
+out		1
+swhite		1
+office		1
+enron		1
+casey		1
+ubs		1
+ou		1
+sure		1
+orientation	1

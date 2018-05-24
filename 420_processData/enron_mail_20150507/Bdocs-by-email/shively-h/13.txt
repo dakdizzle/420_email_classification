@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+accurate	2
+data		2
+model		1
+overall		1
+create		1
+well		1
+believes	1
+field		1
+chris		1
+edge		1
+market		1
+receipts	1
+basis		1
+basin		1
+forecast	1
+completions	1
+county		1
+production	1
+give		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+collonges	1
+jx		1
+follow		1
+up		1
+enron		1
+remi		1
+jlavora		1
+comx		1
+origin		1
+pstdave		1
+filename	1
+lavorado	1

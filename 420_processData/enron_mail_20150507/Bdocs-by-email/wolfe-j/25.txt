@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+glen		1
+company		1
+well		1
+series		1
+find		1
+less		1
+start		1
+black		1
+go		1
+cook		1
+entertaining	1
+still		1
+deep		1

@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+go		2
+discuss		1
+group		1
+beer		1
+open		1
+evening		1
+fred		1
+know		1
+sorry		1
+currently	1
+holding		1
+pull		1
+talked		1
+yesterday	1
+call		1
+lagrasta	1
+people		1
+bowl		1
+rice		1
+pattern		1
+game		1
+strong		1
+over		1

@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+gas		2
+proposals	1
+consideration	1
+thank		1
+west		1
+attached	1
+contact		1
+origination	1
+response	1
+jim		1
+kim		1
+supply		1
+wardmanager	1
+enron		1
+please		1
+questions	1
+natural		1
+comments	1
+sincerely	1
+request		1

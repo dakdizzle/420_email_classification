@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+something	1
+met		1
+details		1
+try		1
+go		1
+today		1
+forward		1
+before		1
+going		1
+chris		1
+think		1
+thanks		1

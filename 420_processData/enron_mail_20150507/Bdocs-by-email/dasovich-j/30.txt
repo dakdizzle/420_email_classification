@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+dasovich	2
+jeff		2
+early		1
+hearing		1
+today		1
+filename	1
+transfer	1
+privileged	1
+jx		1
+content		1
+psti		1
+non		1
+encoding	1
+best		1
+tomorrow	1
+origin		1
+bitx		1

@@ -1,0 +1,14 @@
+NumWords	16
+NumTerms	11
+
+out		2
+coming		2
+m		2
+work		2
+over		2
+friday		1
+tomorrow	1
+won		1
+today		1
+saturday	1
+see		1

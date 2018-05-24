@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+send		1
+format		1
+kay		1
+using		1
+resume		1

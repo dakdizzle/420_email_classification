@@ -1,0 +1,22 @@
+NumWords	26
+NumTerms	19
+
+happy		4
+birthday	4
+paul		2
+case		1
+europe		1
+scott		1
+kitchen		1
+know		1
+today		1
+lovesis		1
+lots		1
+txu		1
+marcus		1
+hope		1
+boyxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	1
+thought		1
+doesn		1
+arrives		1
+com		1

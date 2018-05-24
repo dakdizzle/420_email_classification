@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+pricing		1
+click		1
+history		1
+historical	1
+index		1
+below		1
+see		1

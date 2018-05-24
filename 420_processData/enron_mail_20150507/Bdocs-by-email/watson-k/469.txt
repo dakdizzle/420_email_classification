@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+heard		1
+supply		1
+supplying	1
+plant		1
+tk		1
+see		1
+checking	1
+thanks		1

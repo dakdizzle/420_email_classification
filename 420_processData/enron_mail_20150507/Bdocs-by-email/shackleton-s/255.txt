@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+good		1
+great		1
+time		1
+sara		1
+sounds		1
+holler		1
+lunch		1

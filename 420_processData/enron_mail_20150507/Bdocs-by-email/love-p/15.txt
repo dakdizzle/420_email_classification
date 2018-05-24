@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+fest		1
+pl		1
+changes		1
+verdict		1
+jazz		1

@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+know		3
+happens		1
+hey		1
+hanging		1
+bills		1
+see		1
+help		1
+out		1
+anything	1
+kim		1
+pay		1
+more		1
+week		1
+next		1
+here		1

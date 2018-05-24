@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+number		2
+changed		1
+thanxchris	1
+web		1
+phone		1
+stephaniemy	1
+site		1
+new		1
+dorland		1
+needs		1

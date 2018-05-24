@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+thomas		2
+martin		2
+trying		2
+please		2
+communicate	2
+others		1
+word		1
+happening	1
+know		1
+ena		1
+name		1
+gas		1
+selection	1
+tom		1
+mails		1
+thanks		1
+lot		1
+getting		1
+check		1
+believe		1
+pass		1
+trading		1

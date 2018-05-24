@@ -1,0 +1,26 @@
+NumWords	42
+NumTerms	23
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+roan		1
+slindber	1
+lindberg	1
+susan		1
+kstroup		1
+call		1
+maurer		1
+michael		1
+jim		1
+message		1
+kerry		1
+stroup		1
+luiz		1
+relay		1
+lmaurer		1
+mroan		1
+ashley		1
+ll		1

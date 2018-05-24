@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+whatever	1
+name		1
+correct		1
+works		1

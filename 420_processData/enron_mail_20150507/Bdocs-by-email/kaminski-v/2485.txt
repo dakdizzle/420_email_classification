@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+vince		1
+plan		1
+under		1
+projection	1
+above		1
+now		1
+performing	1
+sorry		1
+delay		1
+headcount	1
+slightly	1
+diane		1

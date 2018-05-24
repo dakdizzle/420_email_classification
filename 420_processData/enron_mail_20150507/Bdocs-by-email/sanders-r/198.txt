@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+pain		2
+com		2
+early		1
+meeting		1
+ileana		1
+know		1
+blanco		1
+call		1
+switch		1
+around		1
+great		1
+sanders		1
+two		1
+bracepatt	1
+enron		1
+back		1
+ow		1
+go		1
+subject		1
+maybe		1
+iblanco		1
+checking	1
+richard		1
+ll		1

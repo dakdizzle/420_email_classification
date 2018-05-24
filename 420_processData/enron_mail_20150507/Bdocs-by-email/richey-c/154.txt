@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+eze		2
+extracurricular	1
+time		1
+interested	1
+up		1
+especially	1
+spending	1
+jamie		1
+involve		1
+yoga		1
+want		1
+d		1
+sure		1
+set		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+thank		1
+portland	1
+working		1
+foster		1
+along		1
+system		1
+help		1
+wondering	1
+holden		1
+questions	1
+direct		1
+documentation	1
+salisbury	1

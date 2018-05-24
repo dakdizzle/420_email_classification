@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+hear		1
+under		1
+contact		1
+management	1
+wanted		1
+inquiries	1
+gary		1
+jim		1
+seem		1
+troubles	1
+control		1
+start		1
+financial	1
+still		1
+waste		1

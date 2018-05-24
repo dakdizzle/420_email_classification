@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+today		1
+already		1
+spoke		1
+sure		1
+kk		1

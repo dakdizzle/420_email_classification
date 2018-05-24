@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+list		1
+please		1
+keep		1

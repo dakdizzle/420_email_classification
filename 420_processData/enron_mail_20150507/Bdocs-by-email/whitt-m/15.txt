@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+gone		1
+little		1
+band		1
+bear		1
+back		1
+opie		1
+go		1
+bad		1

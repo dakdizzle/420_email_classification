@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ki		1
+barber		1
+hee		1
+tee		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+option		1
+ground		1
+change		1
+expedited	1
+delivery	1

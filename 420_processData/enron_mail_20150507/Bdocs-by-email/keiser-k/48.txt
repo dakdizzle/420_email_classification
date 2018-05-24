@@ -1,0 +1,14 @@
+NumWords	15
+NumTerms	11
+
+wt		2
+ena		2
+ng		2
+price		2
+cal		1
+those		1
+two		1
+counterparties	1
+socal		1
+currently	1
+thanks		1

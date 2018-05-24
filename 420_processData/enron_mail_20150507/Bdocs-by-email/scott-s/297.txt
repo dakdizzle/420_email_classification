@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+numbers		2
+good		1
+theresa		1
+sitara		1
+july		1
+sinclair	1
+thermo		1
+things		1
+couple		1
+thanks		1

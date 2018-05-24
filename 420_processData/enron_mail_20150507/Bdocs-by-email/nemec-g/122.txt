@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+please		2
+guaranty	1
+redlined	1
+rudwell		1
+questions	1
+attached	1
+forward		1
+review		1
+comments	1
+call		1

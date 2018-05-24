@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+suggestions	1
+sally		1
+ages		1
+eat		1
+vacation	1
+telluride	1
+children	1
+last		1
+june		1
+week		1
+think		1
+thanks		1

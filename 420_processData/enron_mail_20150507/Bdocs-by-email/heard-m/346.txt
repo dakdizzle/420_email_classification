@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+anything	1
+sample		1
+further		1
+please		1
+handling	1
+know		1
+questions	1
+attached	1
+need		1
+mariex		1
+joe		1
+confirm		1

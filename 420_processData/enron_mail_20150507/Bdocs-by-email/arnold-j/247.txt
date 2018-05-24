@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+crude		1
+resid		1
+api		1
+quit		1
+indicate	1
+back		1
+gas		1
+left		1
+traders		1
+fired		1
+switching	1

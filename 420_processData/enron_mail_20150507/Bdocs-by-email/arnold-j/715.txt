@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+out		1
+good		1
+understand	1
+far		1
+montreal	1
+bank		1

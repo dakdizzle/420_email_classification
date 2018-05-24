@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+kids		1
+child		1
+shortly		1
+coming		1
+others		1
+per		1
+know		1
+now		1
+desk		1
+depending	1
+shopper		1
+thankskh	1
+point		1
+good		1
+many		1
+several		1
+cost		1

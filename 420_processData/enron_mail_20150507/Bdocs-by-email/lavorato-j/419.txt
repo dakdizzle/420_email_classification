@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kim		1
+interview	1
+up		1
+guy		1
+phone		1
+week		1
+set		1
+next		1

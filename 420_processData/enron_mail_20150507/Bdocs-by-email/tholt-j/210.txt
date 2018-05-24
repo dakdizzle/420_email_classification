@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+back		1
+today		1
+asked		1
+reminder	1
+comments	1
+thanks		1

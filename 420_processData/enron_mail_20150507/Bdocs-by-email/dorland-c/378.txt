@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+cruisr		2
+matching	1
+personalized	1
+talking		1
+cruisers	1
+pt		1
+plates		1
+getting		1

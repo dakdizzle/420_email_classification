@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+affiliate	1
+organization	1
+continue	1
+attorney	1
+overdue		1
+found		1
+marketing	1
+example		1
+drew		1
+ates		1
+posting		1
+procedure	1
+refine		1
+changes		1
+upd		1
+made		1
+needed		1
+need		1
+hartsoe		1
+frazier		1
+week		1
+website		1
+new		1

@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+kitchen		2
+pstit		1
+http		1
+comx		1
+louise		1
+www		1
+tammie		1
+filename	1
+long		1
+good		1
+lx		1
+enron		1
+origin		1
+oddtodd		1
+schoppe		1
+com		1

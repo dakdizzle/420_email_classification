@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+corrected	1
+counterparties	1
+global		1
+book		1
+sorry		1
+susan		1
+bother		1
+performance	1
+kk		1

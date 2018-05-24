@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+customer	1
+cogan		1
+kim		1
+email		1
+list		1
+john		1
+please		1
+change		1
+phone		1
+audrey		1
+reflect		1
+thanks		1

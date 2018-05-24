@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+info		1
+others		1
+fill		1
+john		1
+back		1
+seven		1
+spreadsheet	1
+work		1
+including	1
+names		1
+thanks		1
+promtly		1

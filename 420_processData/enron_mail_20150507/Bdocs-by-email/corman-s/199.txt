@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+relegated	1
+good		1
+shoulder	1
+being		1
+details		1
+days		1
+guess		1
+world		1
+chip		1
+looks		1
+thanks		1

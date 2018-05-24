@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+call		2
+jim		1
+pm		1
+try		1
+wednesday	1
+want		1
+conference	1
+thanks		1

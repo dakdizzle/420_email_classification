@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+enron		2
+rod		2
+pledge		1
+thank		1
+hayslett	1
+enroncc		1
+jeff		1
+amto		1
+srsfrom		1
+subject		1
+corp		1
+skilling	1
+enronxgate	1

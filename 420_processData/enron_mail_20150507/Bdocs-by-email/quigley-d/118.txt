@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+unsubscribe	1
+gasindex	1

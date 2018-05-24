@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+relations	3
+corporate	2
+much		1
+first		1
+confusion	1
+term		1
+create		1
+won		1
+fine		1
+public		1
+communications	1
+thanks		1
+better		1
+opening		1
+community	1
+please		1
+use		1
+functions	1
+works		1
+don		1
+think		1
+paragraph	1

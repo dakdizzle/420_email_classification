@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+traffic		1
+make		1
+up		1
+hes		1
+pick		1
+played		1
+jon		1
+hatch		1
+before		1
+bad		1
+aint		1
+quick		1
+think		1
+comin		1
+play		1

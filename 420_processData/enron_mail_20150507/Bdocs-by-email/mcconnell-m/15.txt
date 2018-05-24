@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+drhouston	1
+belhaven	1
+tx		1

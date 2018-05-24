@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+close		1
+enough		1

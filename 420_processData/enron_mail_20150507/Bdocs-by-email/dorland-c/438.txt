@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+make		1
+time		1
+details		1
+chris		1
+later		1
+call		1
+house		1
+sense		1
+count		1
+weekend		1
+bought		1
+sure		1
+offsite		1
+wasting		1
+ll		1

@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+number		2
+don		2
+fax		1
+complete	1
+trying		1
+phone		1
+form		1
+award		1
+help		1
+nominate	1
+thanks		1
+m		1
+lorraine	1
+center		1
+kid		1
+need		1
+sure		1
+hi		1

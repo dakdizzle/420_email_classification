@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+dash		1
+up		1
+today		1
+c		1
+give		1
+thanks		1
+over		1
+call		1
+pop		1

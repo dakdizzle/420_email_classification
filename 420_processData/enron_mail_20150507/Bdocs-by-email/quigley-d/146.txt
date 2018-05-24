@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+factors		1
+conversion	1
+wti		1
+send		1
+heating		1
+unleaded	1
+equivalentthanksdutch	1
+oil		1
+jen		1
+mmbtu		1

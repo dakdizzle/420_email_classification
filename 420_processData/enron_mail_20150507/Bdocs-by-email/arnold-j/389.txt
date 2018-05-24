@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+crude		1
+seems		1
+fucked		1
+guys		1
+royally		1
+trade		1
+getting		1

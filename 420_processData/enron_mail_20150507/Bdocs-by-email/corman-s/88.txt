@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+think		2
+lowry		1
+worthwhile	1
+choices		1
+stacy		1
+participating	1
+stan		1
+sounds		1
+phil		1
+breathitt	1
+great		1
+linda		1
+nelson		1
+mike		1
+unavailable	1
+girard		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+wow		1
+house		1
+until		1
+today		1
+deal		1
+here		1
+ll		1

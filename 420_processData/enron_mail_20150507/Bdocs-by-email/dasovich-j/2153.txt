@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+ll		2
+catch		1
+voicemails	1
+report		1
+continue	1
+trade		1
+times		1
+soon		1
+each		1
+jeff		1
+best		1
+back		1
+one		1

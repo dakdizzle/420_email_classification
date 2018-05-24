@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+europe		1
+thank		1
+contact		1
+attending	1
+plans		1
+derrick		1
+prevent		1
+jim		1
+matter		1
+emily		1
+enron		1
+appears		1
+change		1

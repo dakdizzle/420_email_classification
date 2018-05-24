@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+little		2
+disappointing	1
+catch		1
+talk		1
+arms		1
+season		1
+ask		1
+polo		1
+chris		1
+later		1
+worked		1
+advil		1
+yesterday	1
+out		1
+uncomfortable	1
+bring		1
+straighten	1
+match		1
+finale		1
+sopranos	1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+vince		1
+steve		1
+pleasure	1

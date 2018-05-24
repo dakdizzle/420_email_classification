@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+fuller		1
+send		1
+message		1
+now		1
+boyfriend	1
+logged		1
+dave		1
+hi		1
+mine		1

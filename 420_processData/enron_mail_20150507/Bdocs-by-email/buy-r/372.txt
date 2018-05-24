@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+lets		1
+fyi		1
+mtg		1

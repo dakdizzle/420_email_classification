@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+up		3
+sign		3
+order		1
+mark		1
+clickathome	1
+conditions	1
+thank		1
+know		1
+service		1
+terms		1
+way		1
+seen		1
+please		1
+come		1
+equipment	1
+d		1
+mcconnellx	1
+agreement	1
+election	1
+haven		1

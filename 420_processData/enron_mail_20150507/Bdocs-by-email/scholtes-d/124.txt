@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+begin		1
+respond		1
+credit		1
+information	1
+know		1
+anyone		1
+left		1
+stewart		1
+falls		1
+envelope	1
+ds		1
+something	1
+forwarded	1
+regarding	1
+ray		1
+please		1
+approval	1
+need		1
+e		1
+city		1
+mail		1
+sure		1
+process		1

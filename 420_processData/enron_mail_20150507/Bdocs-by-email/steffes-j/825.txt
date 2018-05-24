@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+time		1
+update		1
+claims		1
+parties		1
+houston		1
+pls		1
+alan		1
+ripple		1
+bob		1
+call		1
+afternoon	1

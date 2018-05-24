@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+letting		1
+know		1
+mike		1
+thanks		1

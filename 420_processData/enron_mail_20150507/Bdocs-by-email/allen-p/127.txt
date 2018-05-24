@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+room		1
+meeting		1
+ina		1
+cantrell	1
+becky		1
+thank		1
+know		1
+wednesday	1
+conference	1

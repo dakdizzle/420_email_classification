@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+plucci		2
+cn		2
+pstthis		1
+paul		1
+recipients	1
+blondes		1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+lucci		1
+ou		1

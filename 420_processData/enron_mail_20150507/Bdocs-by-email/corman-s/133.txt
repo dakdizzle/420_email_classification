@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lynn		1
+gave		1
+already		1
+sorry		1
+away		1

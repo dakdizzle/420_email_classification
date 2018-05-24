@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+please		2
+message		1
+thank		1
+arrive		1
+materials	1
+below		1
+see		1

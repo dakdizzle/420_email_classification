@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+cn		2
+rick		2
+buy		2
+rbuy		2
+suttle		1
+bradford	1
+make		1
+john		1
+try		1
+recipients	1
+contacting	1
+filename	1
+na		1
+privileged	1
+psti		1
+non		1
+enron		1
+bill		1
+want		1
+work		1
+ou		1
+tx		1
+think		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+maryland	1
+michigan	1
+hawaii		1
+la		1
+eastern		1
+tech		1

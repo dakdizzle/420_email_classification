@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+adet		1
+morning		1
+vince		1
+breakfast	1
+shall		1
+tuesday		1
+zulie		1
+bus		1
+take		1
+kaminski	1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ellen		1
+stacey		1
+please		1
+wallumrod	1
+contact		1
+richardson	1

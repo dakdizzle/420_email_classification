@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+wall		1
+quot		1
+check		1
+street		1
+chris		1
+journal		1
+see		1

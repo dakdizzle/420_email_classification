@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+asp		1
+pro		1
+http		1
+oilonline	1
+www		1
+equip		1
+serv		1
+com		1

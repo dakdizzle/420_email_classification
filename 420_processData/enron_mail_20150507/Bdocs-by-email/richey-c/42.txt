@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+dude		2
+nelly		1
+flirting	1
+flustered	1
+boring		1
+life		1
+done		1
+hope		1
+real		1
+kryptonomicon	1
+reacting	1
+pulled		1
+isn		1
+chute		1
+voracious	1
+think		1
+over		1

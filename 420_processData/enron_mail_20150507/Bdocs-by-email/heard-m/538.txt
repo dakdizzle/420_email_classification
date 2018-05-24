@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+send		1
+few		1
+ignore		1
+marie		1
+william		1
+left		1
+copies		1
+ago		1
+documentation	1
+matt		1
+minutes		1
+going		1
+mail		1
+morley		1
+voice		1

@@ -1,0 +1,19 @@
+NumWords	22
+NumTerms	16
+
+chris		3
+com		3
+enron		2
+germany		2
+email		1
+deals		1
+aeglobalmarkets	1
+djunek		1
+daniel		1
+done		1
+pmto		1
+many		1
+subject		1
+junek		1
+address		1
+new		1

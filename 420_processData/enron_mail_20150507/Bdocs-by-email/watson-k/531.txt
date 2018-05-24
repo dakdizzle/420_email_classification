@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+taking		1
+kim		1
+m		1
+december	1
+friday		1
+vacation	1
+thanks		1

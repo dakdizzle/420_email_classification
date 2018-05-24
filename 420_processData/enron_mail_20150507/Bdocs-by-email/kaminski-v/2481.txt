@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+invite		1
+christie	1
+hello		1
+location	1
+way		1
+somebody	1
+vince		1
+ray		1
+luncheon	1
+bowen		1
+sense		1
+eim		1
+makes		1

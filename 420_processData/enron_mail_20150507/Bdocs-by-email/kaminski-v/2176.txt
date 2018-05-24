@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+vince		1
+ehud		1
+mentioned	1
+join		1
+zimin		1
+vasant		1
+night		1
+maybe		1
+tickets		1
+shirley		1

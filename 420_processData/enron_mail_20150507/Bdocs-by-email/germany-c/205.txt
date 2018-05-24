@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+tallahassee	1
+west		1
+virgina		1
+florida		1
+st		1

@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+enron		2
+make		1
+scott		1
+up		1
+ciao		1
+pops		1
+susan		1
+matters		1
+ways		1
+really		1
+sscott		1
+check		1
+right		1
+best		1
+one		1
+use		1
+initial		1
+middle		1
+sure		1
+ensure		1
+com		1

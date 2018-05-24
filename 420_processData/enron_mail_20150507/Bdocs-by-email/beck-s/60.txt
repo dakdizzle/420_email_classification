@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+dough		1
+open		1
+today		1
+home		1
+cute		1
+sally		1
+roll		1
+makes		1
+happy		1
+want		1
+year		1
+cookie		1
+pretty		1
+new		1

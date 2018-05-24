@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+thanks		2
+darrell		1
+flows		1
+see		1
+kim		1
+great		1
+list		1
+distribution	1
+please		1
+weekend		1
+michelle	1
+lokay		1
+add		1

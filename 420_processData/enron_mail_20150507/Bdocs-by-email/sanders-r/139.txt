@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+mark		1
+interest	1
+don		1
+think		1
+talked		1

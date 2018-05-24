@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+night		1
+late		1
+yesterday	1

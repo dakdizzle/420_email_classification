@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+catherine	2
+williams	2
+bill		2
+email		1
+difference	1
+comx		1
+clark		1
+assets		1
+filename	1
+thanks		1
+believe		1
+enron		1
+please		1
+origin		1
+technical	1
+addresses	1
+note		1
+meant		1

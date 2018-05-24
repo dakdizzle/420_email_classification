@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+here		2
+group		1
+join		1
+working		1
+beth		1
+left		1
+phone		1
+answer		1
+tried		1
+sunday		1
+convene		1
+pieces		1
+message		1
+cell		1
+office		1
+respective	1
+jeff		1
+sally		1
+update		1
+give		1
+brent		1

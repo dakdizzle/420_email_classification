@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+pricing		1
+theresa		1
+further		1
+genaro		1
+please		1
+fixed		1
+know		1
+draft		1
+system		1
+discrepancies	1
+thanks		1

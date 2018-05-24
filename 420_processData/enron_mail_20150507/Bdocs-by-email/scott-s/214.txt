@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+right		1
+now		1
+surfing		1
+trying		1
+call		1

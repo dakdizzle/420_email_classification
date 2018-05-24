@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+meeting		2
+london		2
+together	1
+peggy		1
+time		1
+wouldn		1
+things		1
+schedules	1
+review		1
+leave		1
+someone		1
+regarding	1
+around		1
+sally		1
+need		1
+critical	1
+allow		1

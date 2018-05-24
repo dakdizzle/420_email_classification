@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+ve		1
+borrowed	1
+donnisi		1
+regards		1
+hope		1
+jeff		1
+well		1
+things		1
+idea		1
+repaying	1
+hi		1

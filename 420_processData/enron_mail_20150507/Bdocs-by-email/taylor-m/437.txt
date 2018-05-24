@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+cn		2
+tjones		1
+jones		1
+enron		1
+recipients	1
+ou		1
+tana		1
+na		1

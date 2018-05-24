@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+m		1
+laggard		1
+insist		1
+started		1
+oh		1
+process		1
+such		1

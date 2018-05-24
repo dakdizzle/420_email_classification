@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+norman		1
+soon		1
+vince		1
+talk		1
+thanks		1

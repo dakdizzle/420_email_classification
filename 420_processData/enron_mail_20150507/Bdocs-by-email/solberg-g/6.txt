@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+home		1
+ro		1
+armata		1
+http		1
+www		1

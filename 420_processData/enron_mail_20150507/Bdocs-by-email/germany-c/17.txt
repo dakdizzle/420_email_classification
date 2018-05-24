@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+monday		1
+between		1
+sending		1
+several		1
+now		1
+probably	1
+sorry		1
+found		1
+thanks		1
+emails		1

@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+differences	3
+permanent	2
+timing		2
+return		1
+recatorgized	1
+orginally	1
+blunder		1
+net		1
+per		1
+huge		1
+thanks		1
+patty		1
+accounting	1
+discussion	1
+mary		1
+change		1
+considered	1
+yes		1
+thought		1
+amount		1
+catching	1
+think		1

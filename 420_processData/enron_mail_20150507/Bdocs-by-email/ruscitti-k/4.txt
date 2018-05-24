@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+moving		1
+good		1
+ok		1
+weekend		1
+isn		1
+though		1
+th		1
+c		1
+kevin		1

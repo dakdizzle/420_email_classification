@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+professional	1
+praise		1
+good		1
+john		1
+endeavors	1
+future		1
+success		1
+appreciate	1
+luck		1
+wish		1

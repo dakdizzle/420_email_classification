@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+astra		1
+power		1
+added		1
+product		1
+needs		1

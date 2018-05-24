@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+rhaysle		2
+cn		2
+enron		2
+rod		2
+need		2
+order		1
+pstsally	1
+recipients	1
+hayslett	1
+filename	1
+na		1
+curves		1
+straight	1
+privileged	1
+inside		1
+non		1
+go		1
+haysletteb	1
+use		1
+ou		1
+told		1
+using		1

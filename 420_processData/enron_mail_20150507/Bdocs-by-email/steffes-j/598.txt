@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+different	2
+jean		1
+ebs		1
+aren		1
+austin		1
+places		1
+jim		1
+way		1
+utilities	1
+restructuring	1
+best		1
+start		1
+dung		1
+ryall		1

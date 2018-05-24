@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+riped		1
+coming		1
+sox		1
+jail		1
+go		1
+another		1
+one		1
+mc		1
+cocktail	1
+astros		1
+town		1
+sphincters	1

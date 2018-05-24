@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+make		1
+keep		1
+wed		1
+today		1
+offer		1
+posted		1
+settlement	1
+conveyed	1
+message		1
+sager		1
+elizabeth	1
+big		1
+hi		1
+ll		1
+news		1

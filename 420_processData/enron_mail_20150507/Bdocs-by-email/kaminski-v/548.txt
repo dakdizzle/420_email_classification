@@ -1,0 +1,26 @@
+NumWords	41
+NumTerms	23
+
+btu		7
+kaminski	4
+weekly		3
+vince		3
+ect		2
+hou		2
+forwarded	2
+pmto		2
+subject		2
+info		1
+latest		1
+aol		1
+pm		1
+fax		1
+net		1
+netphone	1
+pdf		1
+wg		1
+comcc		1
+subs		1
+mail		1
+issue		1
+weeklyattached	1

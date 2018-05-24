@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+group		1
+brad		1
+looking		1
+know		1
+few		1
+ones		1
+now		1
+far		1
+left		1
+ruscitti	1
+kevin		1
+m		1
+arnold		1
+more		1
+charge		1
+sure		1
+mckay		1
+don		1

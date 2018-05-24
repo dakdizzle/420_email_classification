@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+stacey		2
+swhite		2
+cn		2
+hanson		1
+counterparties	1
+pstdo		1
+recipients	1
+white		1
+filename	1
+na		1
+privileged	1
+transactions	1
+non		1
+enron		1
+ou		1
+similar		1

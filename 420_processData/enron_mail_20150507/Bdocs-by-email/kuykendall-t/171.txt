@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+case		1
+m		1
+leave		1
+assuming	1
+think		1

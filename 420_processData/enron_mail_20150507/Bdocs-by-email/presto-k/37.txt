@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+cp		1
+employee	1
+ubs		1
+waive		1

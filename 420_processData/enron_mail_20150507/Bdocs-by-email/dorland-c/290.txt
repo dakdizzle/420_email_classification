@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+dwayne		1
+work		1
+chris		1
+give		1
+call		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+resumes		1
+sort		1
+assoc		1
+pls		1
+etc		1
+copies		1
+bt		1
+analysts	1

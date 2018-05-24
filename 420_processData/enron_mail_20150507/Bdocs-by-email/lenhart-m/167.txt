@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+matthew		2
+dude		1
+lenhartx	1
+corner		1
+filename	1
+food		1
+house		1
+around		1
+psti		1
+store		1
+concert		1
+lenhart		1
+sell		1
+hollywood	1
+tickets		1
+think		1

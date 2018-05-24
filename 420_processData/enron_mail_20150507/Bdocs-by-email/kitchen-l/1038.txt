@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+wondered	1
+true		1
+spend		1
+money		1
+trip		1
+approved	1
+never		1
+knowthankslouise	1
+rumours		1

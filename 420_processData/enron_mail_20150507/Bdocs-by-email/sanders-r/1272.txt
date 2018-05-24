@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+meeting		1
+sweet		1
+up		1
+enron		1
+recipients	1
+ou		1
+set		1
+na		1
+tsweet		1
+twanda		1

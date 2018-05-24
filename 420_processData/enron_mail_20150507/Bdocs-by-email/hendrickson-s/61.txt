@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+html		2
+issues		1
+page		1
+http		1
+houstonpress	1
+www		1
+feature		1
+com		1

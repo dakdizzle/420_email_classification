@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+out		2
+dating		2
+lately		1
+doubt		1
+few		1
+go		1
+again		1
+went		1
+times		1
+lot		1

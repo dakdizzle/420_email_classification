@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+option		1
+wondering	1
+showing		1
+up		1
+pay		1
+exercise	1
+stub		1
+guys		1
+looked		1
+chris		1
+mystery		1
+income		1

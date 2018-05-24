@@ -1,0 +1,19 @@
+NumWords	20
+NumTerms	16
+
+semperger	2
+cn		2
+enron		2
+cara		2
+wishes		1
+recipients	1
+phone		1
+filename	1
+na		1
+longer		1
+surrendering	1
+csemper		1
+cell		1
+psti		1
+pay		1
+ou		1

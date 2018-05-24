@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+page		1
+html		1
+http		1
+www		1
+pressbox	1
+sportsline	1
+com		1

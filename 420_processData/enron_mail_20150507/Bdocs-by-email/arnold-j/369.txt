@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+funds		2
+going		2
+hear		1
+know		1
+opens		1
+lost		1
+nymex		1
+times		1
+hoping		1
+crude		1
+squeezed	1
+long		1
+soon		1
+m		1
+many		1
+fuck		1
+game		1
+squeeze		1
+don		1

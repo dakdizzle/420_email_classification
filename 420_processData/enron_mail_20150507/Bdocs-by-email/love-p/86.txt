@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+those		1
+pl		1
+mailing		1
+balls		1
+mail		1
+address		1
+golf		1
+give		1
+thanks		1

@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+aeco		3
+up		1
+gate		1
+risk		1
+well		1
+therefore	1
+gas		1
+plant		1
+saskatchewan	1
+due		1
+better		1
+actually	1
+call		1
+hedge		1
+hope		1
+trades		1
+jon		1
+match		1
+one		1
+more		1
+going		1
+fact		1
+think		1
+appropriate	1

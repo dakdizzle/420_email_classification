@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+those		1
+up		1
+bills		1
+know		1
+paid		1
+honey		1
+todayi		1
+okilydq		1
+noon		1
+closing		1
+doing		1

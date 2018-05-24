@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+focusing	1
+attention	1
+committee	1
+diversity	1

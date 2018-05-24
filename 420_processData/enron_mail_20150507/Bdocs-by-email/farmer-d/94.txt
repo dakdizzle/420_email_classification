@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+file		2
+changes		2
+make		1
+know		1
+few		1
+today		1
+review		1
+bob		1
+thanks		1
+something	1
+dp		1
+please		1
+sitara		1
+questions	1
+made		1
+comments	1
+adjustments	1
+wellhead	1
+shading		1

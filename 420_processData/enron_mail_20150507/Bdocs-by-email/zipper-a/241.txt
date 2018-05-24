@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+out		1
+tomorow		1
+today		1

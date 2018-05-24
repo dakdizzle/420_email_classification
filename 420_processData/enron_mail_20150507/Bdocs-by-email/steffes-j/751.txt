@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+specifics	2
+help		2
+support		1
+region		1
+customers	1
+proceedings	1
+spin		1
+rtos		1
+jim		1
+message		1
+enron		1
+effort		1
+opportunity	1
+think		1

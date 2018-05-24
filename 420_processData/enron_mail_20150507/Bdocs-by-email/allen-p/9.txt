@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+fax		2
+allenhome	1
+cell		1
+copy		1
+butler		1
+john		1
+sheet		1
+term		1
+phillip		1
+remember	1

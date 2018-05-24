@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+prnews		1
+html		1
+flth		1
+http		1
+yahoo		1
+biz		1
+com		1

@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+kward		2
+kim		2
+cn		2
+account		1
+handling	1
+recipients	1
+houston		1
+filename	1
+na		1
+pstfrom		1
+privileged	1
+out		1
+friends		1
+fuller		1
+non		1
+hesco		1
+enron		1
+ward		1
+ou		1
+dave		1

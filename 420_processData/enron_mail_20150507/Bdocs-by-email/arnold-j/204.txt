@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+wine		1
+interested	1
+belize		1
+night		1
+pizza		1
+tonight		1
+planning	1
+soccer		1

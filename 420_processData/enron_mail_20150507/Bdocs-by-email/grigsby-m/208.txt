@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+going		2
+story		1
+ene		1
+horns		1
+everything	1
+grigs		1
+behind		1
+okay		1
+here		1

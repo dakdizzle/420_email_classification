@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+meet		1
+lobby		1
+sure		1

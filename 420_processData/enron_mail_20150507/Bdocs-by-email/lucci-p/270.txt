@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+take		2
+ll		2
+down		1
+want		1
+abby		1
+don		1
+hunt		1
+call		1

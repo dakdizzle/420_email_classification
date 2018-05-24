@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+board		1
+roger		1
+im		1
+thanks		1

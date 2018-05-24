@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+email		2
+monika		2
+markets		1
+industrial	1
+comthanks	1
+anymore		1
+list		1
+caushollienron	1
+enron		1
+subscription	1
+used		1
+causholli	1
+please		1
+subscribe	1
+data		1
+receive		1

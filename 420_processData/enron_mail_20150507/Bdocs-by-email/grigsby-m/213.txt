@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+email		1
+details		1

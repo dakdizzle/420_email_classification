@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+now		2
+houston		2
+address		2
+job		1
+dump		1
+working		1
+glad		1
+take		1
+toasted		1
+sent		1
+navwhat		1
+electricity	1
+easychris	1
+book		1
+moved		1
+city		1
+going		1
+mail		1
+new		1
+trading		1

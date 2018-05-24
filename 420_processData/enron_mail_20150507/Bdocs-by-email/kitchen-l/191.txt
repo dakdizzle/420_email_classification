@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+now		2
+same		2
+bradford	1
+thinks		1
+happening	1
+port		1
+number		1
+lot		1
+around		1
+bill		1
+numbers		1
+want		1
+double		1
+ring		1
+bad		1
+disclosure	1
+treatment	1
+bonusses	1

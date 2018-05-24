@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+thanks		2
+taking		1
+kim		1
+lead		1
+assistance	1
+please		1
+know		1
+le		1
+need		1
+aware		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+ubs		1
+opps		1

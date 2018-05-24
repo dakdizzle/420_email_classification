@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+oatiinc		1
+http		1
+www		1
+sempergerkitten	1
+ets		1
+cara		1
+com		1

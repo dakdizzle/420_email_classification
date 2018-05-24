@@ -1,0 +1,27 @@
+NumWords	39
+NumTerms	24
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+mark		2
+ellenberg	2
+ed		1
+mcmichael	1
+pm		1
+ecs		1
+eboyt		1
+room		1
+kmann		1
+jr		1
+eric		1
+emcmich		1
+mann		1
+boyt		1
+mail		1
+conference	1
+kay		1
+cwt		1
+com		1

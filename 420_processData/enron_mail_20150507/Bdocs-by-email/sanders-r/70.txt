@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+arbitration	1
+agree		1
+backyard	1
+goes		1
+late		1
+forum		1
+here		1

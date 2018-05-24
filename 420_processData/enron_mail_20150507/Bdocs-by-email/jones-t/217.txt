@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+cn		2
+london		2
+nony		1
+copy		1
+recipients	1
+contacting	1
+copies		1
+na		1
+dawson		1
+suggest		1
+enron		1
+masters		1
+matt		1
+ou		1
+nflores		1
+flores		1
+needs		1

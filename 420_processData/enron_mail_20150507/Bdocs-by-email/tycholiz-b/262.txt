@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+morning		1
+jim		1
+pm		1
+time		1
+back		1
+stephanie	1
+conference	1
+bt		1
+lunch		1
+thanks		1
+call		1
+confirm		1

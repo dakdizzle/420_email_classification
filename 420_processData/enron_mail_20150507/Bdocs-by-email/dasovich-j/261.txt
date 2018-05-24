@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+dorothy		1
+m		1
+great		1
+da		1
+distribute	1
+jeff		1
+best		1
+folks		1
+sending		1
+coalition	1
+biz		1
+delainey	1

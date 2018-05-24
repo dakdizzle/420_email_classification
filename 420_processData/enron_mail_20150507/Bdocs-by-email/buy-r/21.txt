@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+operation	1
+unreal		1
+job		1
+up		1
+catch		1
+end		1
+well		1
+looks		1
+anyway		1
+moment		1
+hope		1
+rick		1
+includes	1
+ubs		1
+bought		1
+need		1
+trading		1

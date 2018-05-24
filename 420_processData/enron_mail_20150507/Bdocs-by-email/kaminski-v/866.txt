@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+sent		1
+krishna		1
+letter		1
+already		1

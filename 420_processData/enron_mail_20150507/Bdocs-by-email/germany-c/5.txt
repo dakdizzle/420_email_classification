@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+until		1
+according	1
+mann		1
+late		1
+shemin		1
+kay		1
+afternoon	1
+here		1

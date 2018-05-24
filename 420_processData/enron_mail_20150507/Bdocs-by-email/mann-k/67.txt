@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+kay		2
+attitude	1
+case		1
+email		1
+yours		1
+net		1
+peter		1
+holidays	1
+currently	1
+objective	1
+home		1
+hope		1
+positive	1
+main		1
+enjoy		1
+mann		1
+maintain	1
+worldnet	1
+still		1
+give		1
+hi		1
+att		1
+here		1

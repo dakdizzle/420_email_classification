@@ -1,0 +1,27 @@
+NumWords	32
+NumTerms	24
+
+aep		3
+time		2
+position	2
+markets		2
+ohio		2
+against		2
+use		2
+territory	1
+energy		1
+prices		1
+ancillary	1
+backyard	1
+ener		1
+testimony	1
+service		1
+gy		1
+effective	1
+market		1
+clearing	1
+without		1
+retail		1
+real		1
+agree		1
+al		1

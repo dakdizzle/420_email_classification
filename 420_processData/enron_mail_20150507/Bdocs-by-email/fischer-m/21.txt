@@ -1,0 +1,27 @@
+NumWords	29
+NumTerms	24
+
+company		3
+state		2
+responsible	2
+registering	2
+group		1
+department	1
+passing		1
+wouldn		1
+know		1
+now		1
+future		1
+corporate	1
+buck		1
+sorry		1
+secretary	1
+falls		1
+out		1
+turns		1
+tax		1
+rick		1
+mary		1
+questions	1
+business	1
+think		1

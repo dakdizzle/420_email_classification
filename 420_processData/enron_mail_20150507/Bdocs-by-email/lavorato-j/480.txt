@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+cn		3
+presto		1
+fa		1
+enron		1
+notesaddr	1
+fcea		1
+recipients	1
+ou		1
+ad		1
+na		1
+cbb		1
+kevin		1

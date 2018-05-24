@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+somethiong	1
+believe		1
+ingaa		1
+following	1
+going		1
+issue		1
+input		1
+filing		1

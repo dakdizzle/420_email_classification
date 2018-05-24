@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+price		1
+gda		1

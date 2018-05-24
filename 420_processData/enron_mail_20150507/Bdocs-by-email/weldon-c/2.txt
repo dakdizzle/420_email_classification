@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+fsa		1
+form		1
+mail		1

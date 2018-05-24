@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+dyn		2
+long		1
+fax		1
+cell		1
+net		1
+power		1
+short		1
+one		1
+left		1
+prestoeast	1
+kevin		1
+tradingphone	1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+kim		1
+sara		1
+fyi		1
+proceed		1

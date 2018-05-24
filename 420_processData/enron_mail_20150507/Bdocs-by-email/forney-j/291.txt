@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+unofficial	1
+heard		1
+make		1
+jeremy		1
+vacation	1
+progress	1
+help		1
+seem		1
+anything	1
+wondering	1
+basis		1
+amy		1
+lately		1
+havent		1
+going		1
+though		1
+decision	1
+jmf		1
+doing		1

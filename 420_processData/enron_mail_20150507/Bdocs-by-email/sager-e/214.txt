@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+honored		1
+enron		1
+travis		1
+tmccull		1
+speaker		1
+invitation	1
+recipients	1
+ou		1
+mccullough	1
+na		1

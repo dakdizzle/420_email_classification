@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+jerk		1
+big		1
+better		1

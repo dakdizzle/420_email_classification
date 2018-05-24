@@ -1,0 +1,20 @@
+NumWords	30
+NumTerms	17
+
+hours		10
+fri		4
+holiday		2
+day		1
+credit		1
+disc		1
+days		1
+balance		1
+hourstotal	1
+total		1
+daysvacation	1
+hoursdisc	1
+vacationrollover	1
+remaining	1
+mon		1
+tue		1
+beginning	1

@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+vkamins		2
+vince		2
+cn		2
+enron		2
+assign		1
+credit		1
+roughly		1
+fyi		1
+recipients	1
+rac		1
+filename	1
+na		1
+thanks		1
+privileged	1
+non		1
+rating		1
+ou		1
+pstvasant	1
+internal	1
+models		1
+bb		1
+kaminski	1

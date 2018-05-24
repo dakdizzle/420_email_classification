@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+presto		2
+kevin		2
+cn		2
+interview	1
+time		1
+kpresto		1
+duran		1
+recipients	1
+interest	1
+filename	1
+na		1
+privileged	1
+m		1
+psti		1
+non		1
+enron		1
+ou		1
+going		1
+told		1
+individual	1
+dave		1
+doing		1
+waste		1

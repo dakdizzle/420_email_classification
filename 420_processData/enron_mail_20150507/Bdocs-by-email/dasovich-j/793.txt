@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+described	1
+m		1
+less		1
+interested	1
+more		1

@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+cqg		2
+don		2
+functionality	1
+needing		1
+additional	1
+recall		1
+use		1
+even		1
+someone		1
+fact		1
+mat		1
+referring	1

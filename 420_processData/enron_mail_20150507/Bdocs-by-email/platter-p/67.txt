@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+beat		2
+ou		2
+game		2
+ut		1
+up		1
+playing		1
+aggies		1
+cu		1
+attacking	1
+rush		1
+tough		1
+title		1
+matter		1
+ksu		1
+isu		1
+again		1
+nu		1
+pass		1
+everyone	1
+boulder		1
+give		1
+think		1
+play		1

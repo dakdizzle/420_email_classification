@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+stacey		2
+white		2
+cn		2
+covers		1
+energy		1
+stacy		1
+deals		1
+find		1
+recipients	1
+filename	1
+na		1
+sale		1
+txu		1
+pstmelissa	1
+master		1
+out		1
+swhite		1
+enron		1
+purchase	1
+ou		1
+agreement	1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+boat		1
+free		1
+show		1
+fyi		1
+passes		1
+looks		1

@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+cn		2
+mheard		2
+annex		1
+pstsarah	1
+heard		1
+support		1
+credit		1
+know		1
+marie		1
+recipients	1
+filename	1
+na		1
+mariex		1
+privileged	1
+anything	1
+non		1
+enron		1
+questions	1
+ou		1
+need		1
+template	1
+here		1

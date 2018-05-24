@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+both		1
+discuss		1
+talk		1
+mhc		1

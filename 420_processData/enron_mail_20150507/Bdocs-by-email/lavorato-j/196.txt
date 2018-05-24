@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+newengland	1
+clear		1
+chiefs		1

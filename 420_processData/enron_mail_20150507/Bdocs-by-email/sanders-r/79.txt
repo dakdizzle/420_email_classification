@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+make		1
+ok		1
+members		1
+proximity	1
+urgency		1
+wanted		1
+tried		1
+firm		1
+remember	1
+call		1
+out		1
+phones		1
+wtc		1
+sure		1

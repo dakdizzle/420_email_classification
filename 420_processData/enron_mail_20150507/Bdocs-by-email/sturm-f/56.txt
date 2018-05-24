@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+copy		1
+hard		1
+tana		1
+fletch		1
+yea		1
+thanks		1
+call		1
+contract	1
+need		1
+went		1
+don		1
+website		1
+actual		1
+ll		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+worth		1
+liked		1
+guy		1
+comment		1
+california	1
+attorney	1
+answer		1
+journal		1
+freak		1
+general		1

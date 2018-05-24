@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+number		2
+hey		1
+ask		1
+phone		1
+congradulations	1
+thanks		1
+call		1
+getting		1
+gets		1
+knew		1
+chance		1
+gerald		1
+gilbert		1
+new		1

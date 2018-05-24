@@ -1,0 +1,8 @@
+NumWords	7
+NumTerms	5
+
+go		3
+rifle		1
+hey		1
+fire		1
+need		1

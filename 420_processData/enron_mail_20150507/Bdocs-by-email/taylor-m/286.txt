@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+day		2
+going		2
+together	1
+coming		1
+return		1
+nyc		1
+extra		1
+won		1
+houston		1
+asked		1
+september	1
+stay		1
+anyway		1
+two		1
+m		1
+traveling	1
+back		1
+date		1

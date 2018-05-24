@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+html		1
+mchttp		1
+know		1
+taranelson	1
+www		1
+theknot		1
+phillipwenta	1
+coupleid	1
+pwpa		1
+co		1
+go		1
+think		1
+com		1
+here		1

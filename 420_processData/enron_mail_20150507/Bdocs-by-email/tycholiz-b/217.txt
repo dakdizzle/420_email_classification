@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+steve		2
+something	1
+brain		1
+talking		1
+position	1
+know		1
+contract	1
+pick		1
+south		1
+months		1
+bt		1

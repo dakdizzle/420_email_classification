@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+copy		2
+cn		2
+guaranty	1
+send		1
+tcooper		1
+cooper		1
+ebs		1
+recipients	1
+na		1
+tracy		1
+enron		1
+yes		1
+ou		1
+receive		1

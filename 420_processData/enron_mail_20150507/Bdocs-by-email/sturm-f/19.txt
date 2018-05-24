@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+portfolio	2
+results		1
+make		1
+up		1
+position	1
+benson		1
+risk		1
+short		1
+gas		1
+adding		1
+fletch		1
+same		1
+measure		1
+thanks		1
+increases	1
+sense		1
+dosn		1
+ubs		1
+forward		1
+var		1
+going		1
+rob		1
+using		1
+vladimir	1

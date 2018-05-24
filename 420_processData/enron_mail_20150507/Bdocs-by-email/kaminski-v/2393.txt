@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+coming		1
+dvn		1
+emc		1
+suggestions	1
+steve		1
+pgn		1
+appreciate	1
+togive		1
+oxy		1
+out		1
+way		1
+vince		1
+great		1
+lu		1
+recommendation	1
+shall		1
+tomorrow	1
+praveen		1
+figure		1
+trading		1
+always		1

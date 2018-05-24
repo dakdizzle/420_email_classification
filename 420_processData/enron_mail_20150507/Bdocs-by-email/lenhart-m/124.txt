@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+time		2
+good		2
+together	1
+seems		1
+met		1
+know		1
+few		1
+tuesday		1
+such		1
+remember	1
+long		1
+friends		1
+ago		1
+night		1
+week		1
+don		1
+think		1
+next		1

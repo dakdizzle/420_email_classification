@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+both		1
+good		1
+pm		1
+time		1
+up		1
+please		1
+tomorrow	1
+works		1
+set		1
+coordinate	1
+kay		1

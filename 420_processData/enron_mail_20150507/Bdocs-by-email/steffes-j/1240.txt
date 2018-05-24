@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+make		1
+helpful		1
+reimbursement	1
+looking		1
+afford		1
+finishing	1
+jim		1
+andy		1
+committments	1
+tuition		1
+rick		1
+pay		1
+forward		1
+going		1
+indicated	1
+thoughts	1
+college		1

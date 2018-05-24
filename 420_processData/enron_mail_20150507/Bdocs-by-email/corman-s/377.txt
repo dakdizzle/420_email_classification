@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+both		1
+sit		1
+down		1
+brad		1
+written		1
+talk		1
+traveling	1
+know		1
+attached	1
+prepared	1
+directions	1
+comments	1

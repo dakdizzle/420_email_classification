@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+status		2
+deal		2
+adm		1
+natts		1
+naes		1
+path		1

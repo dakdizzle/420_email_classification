@@ -1,0 +1,25 @@
+NumWords	30
+NumTerms	22
+
+mm		6
+cn		2
+ldonoho		2
+margins		2
+expenses	1
+net		1
+recipients	1
+contribution	1
+filename	1
+na		1
+total		1
+stretch		1
+pst		1
+privileged	1
+trsp		1
+non		1
+enron		1
+donoho		1
+fuel		1
+ou		1
+lindy		1
+commercial	1

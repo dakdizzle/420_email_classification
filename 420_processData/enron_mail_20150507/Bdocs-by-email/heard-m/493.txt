@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+vt		1
+patrick		1
+marie		1
+provide		1
+deal		1
+hi		1
+thanks		1
+date		1

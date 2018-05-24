@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+two		2
+weeks		2
+full		1
+moving		1
+analyst		1
+know		1
+working		1
+asked		1
+thanks		1
+remaining	1
+shim		1
+focus		1
+project		1
+mike		1
+role		1
+give		1
+new		1
+elizabeth	1

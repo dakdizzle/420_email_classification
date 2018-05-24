@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+trader		1
+claims		1
+var		1
+always		1
+hickerson	1

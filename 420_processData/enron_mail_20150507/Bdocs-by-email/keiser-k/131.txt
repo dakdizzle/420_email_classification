@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+send		1
+quit		1
+know		1
+fyi		1
+kam		1
+once		1
+breakout	1
+thanks		1
+stay		1
+matrix		1
+decide		1
+estate		1
+trader		1
+changes		1
+probably	1
+traders		1
+sure		1
+new		1

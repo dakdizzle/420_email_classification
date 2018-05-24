@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+agree		1
+basedat		1
+keep		1

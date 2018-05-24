@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+more		2
+way		1
+right		1
+jeff		1
+best		1
+know		1
+rank		1
+idea		1
+sure		1
+using		1
+rita		1
+hi		1

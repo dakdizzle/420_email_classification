@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+arnold		1
+john		1
+fixing		1

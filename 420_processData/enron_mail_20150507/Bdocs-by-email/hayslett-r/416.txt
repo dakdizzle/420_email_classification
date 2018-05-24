@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hurdles		1
+enron		1
+deal		1
+here		1
+over		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+without		1
+two		1
+saying		1
+again		1
+goes		1
+probably	1
+dg		1
+tix		1
+face		1

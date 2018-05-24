@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+dynegy		1
+case		1
+rick		1
+know		1
+available	1
+nothing		1

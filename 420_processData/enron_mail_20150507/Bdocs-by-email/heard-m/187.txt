@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+together	1
+put		1
+originals	1
+distribute	1
+sending		1
+yes		1

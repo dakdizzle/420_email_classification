@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+return		1
+those		1
+sending		1
+federal		1
+today		1
+confirm		1
+via		1
+out		1
+express		1
+executed	1
+according	1
+records		1
+fed		1
+agreement	1
+receive		1

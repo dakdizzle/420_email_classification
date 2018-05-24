@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+pics		1
+heartland	1
+geocities	1
+http		1
+www		1
+htm		1
+ranch		1
+com		1

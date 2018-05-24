@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+kim		1
+ellen		1
+confirmation	1
+know		1
+questions	1
+legal		1
+attached	1
+prepared	1
+city		1
+sept		1
+thanks		1
+pasadena	1

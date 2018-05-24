@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+cn		2
+jsteffe		2
+much		1
+alot		1
+deadline	1
+working		1
+recipients	1
+arem		1
+filename	1
+na		1
+privileged	1
+jim		1
+steffes		1
+non		1
+possible	1
+enron		1
+sense		1
+makes		1
+james		1
+pstharry	1
+ou		1
+think		1
+next		1
+through		1

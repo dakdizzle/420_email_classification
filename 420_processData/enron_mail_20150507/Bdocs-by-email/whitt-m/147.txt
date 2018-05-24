@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+interruptible	1
+pioneer		1
+purchase	1
+draft		1
+forward		1
+someone		1
+address		1
+oil		1
+agreement	1

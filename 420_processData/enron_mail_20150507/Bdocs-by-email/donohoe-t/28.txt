@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+experience	1
+power		1
+right		1
+traded		1
+sure		1

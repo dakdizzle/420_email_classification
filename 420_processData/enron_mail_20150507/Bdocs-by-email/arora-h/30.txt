@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+bid		2
+show		2
+greg		1
+know		1
+left		1
+capacity	1
+point		1
+message		1
+indicative	1
+includes	1
+questions	1
+harry		1
+buy		1
+prepared	1
+excited		1
+underline	1
+nevertheless	1

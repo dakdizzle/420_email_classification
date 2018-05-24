@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+phil		1
+levy		1
+telephone	1

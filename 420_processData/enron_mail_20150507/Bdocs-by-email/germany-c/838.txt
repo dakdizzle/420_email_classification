@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+per		2
+capacity	2
+released	1
+factor		1
+assigned	1
+dth		1
+ena		1
+fyi		1
+load		1
+month		1
+ces		1
+via		1
+demand		1
+non		1
+interesting	1
+fuel		1
+release		1
+recallable	1
+cost		1
+charge		1
+commodity	1

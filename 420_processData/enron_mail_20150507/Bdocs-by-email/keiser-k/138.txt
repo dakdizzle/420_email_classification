@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+options		2
+tab		2
+energy		1
+gd		1
+value		1
+thankskamx	1
+company		1
+gas		1
+spreadsheet	1
+attached	1
+deals		1
+price		1
+pbi		1
+carl		1
+nov		1
+see		1
+txu		1
+basis		1
+please		1
+index		1
+show		1
+mtm		1
+trading		1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+aug		2
+monday		1
+home		1
+thursday	1
+arrive		1
+dad		1
+pmchris		1
+august		1
+booked		1
+pmdepart	1
+flight		1

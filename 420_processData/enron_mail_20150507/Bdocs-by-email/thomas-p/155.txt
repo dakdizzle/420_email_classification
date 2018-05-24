@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+quit		1
+sending		1
+mail		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+updated		1
+holst		1
+received	1
+numbers		1
+alan		1
+phillip		1
+receive		1
+call		1
+keith		1

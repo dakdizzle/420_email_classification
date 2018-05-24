@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ercot		1
+interested	1
+one		1
+cy		1
+timers		1

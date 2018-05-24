@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+send		1
+please		1
+attachment	1
+thanks		1

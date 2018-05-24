@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+terminal	1
+bill		1
+server		1
+through		1

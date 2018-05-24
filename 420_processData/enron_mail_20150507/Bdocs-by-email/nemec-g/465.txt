@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+email		1
+previously	1
+thanks		1
+cooperative	1
+via		1
+rusk		1
+two		1
+please		1
+agreements	1
+county		1
+mary		1
+electric	1
+prepared	1
+forward		1

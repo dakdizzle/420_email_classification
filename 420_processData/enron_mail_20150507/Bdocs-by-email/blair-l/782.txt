@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+lynn		1
+dari		1
+comx		1
+blair		1
+lblair		1
+sounds		1
+filename	1
+thanks		1
+pst		1
+privileged	1
+good		1
+non		1
+lx		1
+enron		1
+origin		1
+dornan		1

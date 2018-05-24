@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+everthing	1
+finally		1
+think		1
+thanks		1

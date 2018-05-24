@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+anything	1
+know		1
+understand	1
+guys		1
+kam		1
+involved	1
+controls	1
+process		1
+reports		1
+help		1
+better		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+send		1
+jackie		1
+copy		1
+report		1
+pls		1
+thx		1

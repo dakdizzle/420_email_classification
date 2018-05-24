@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+make		1
+vs		1
+region		1
+socal		1
+specifically	1
+thank		1
+west		1
+gas		1
+pg		1
+phillip		1
+trade		1
+call		1
+malin		1
+morning		1
+products	1
+please		1
+back		1
+spreading	1
+change		1
+need		1
+stephanie	1
+new		1
+spreads		1

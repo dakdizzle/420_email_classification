@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+ferc		1
+stand		1
+ask		1
+approve		1
+pls		1
+thought		1
+alberto		1
+sue		1
+didn		1
+mara		1

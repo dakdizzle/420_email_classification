@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+make		1
+asset		1
+page		1
+know		1
+review		1
+management	1
+same		1
+concerning	1
+please		1
+want		1
+sure		1
+deal		1
+think		1

@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+attitude	1
+group		1
+themi		1
+leaving		1
+join		1
+until		1
+now		1
+ees		1
+mad		1
+out		1
+gone		1
+way		1
+ordid		1
+people		1
+right		1
+go		1
+invited		1
+tell		1
+work		1
+upset		1

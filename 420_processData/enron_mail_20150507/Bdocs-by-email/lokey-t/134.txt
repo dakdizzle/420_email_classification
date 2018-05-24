@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+changes		2
+rob		2
+jeanette	1
+make		1
+copies		1
+kevin		1
+teb		1
+thanks		1
+howard		1
+pleas		1
+forward		1
+minor		1
+give		1

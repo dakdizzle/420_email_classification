@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+cents		2
+pay		2
+harper		2
+closer		1
+years		1
+transport	1
+come		1
+gas		1
+want		1
+d		1
+vent		1
+tony		1

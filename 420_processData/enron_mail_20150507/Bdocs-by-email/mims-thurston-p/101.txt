@@ -1,0 +1,21 @@
+NumWords	23
+NumTerms	18
+
+jones		2
+good		2
+real		2
+hall		2
+going		2
+harlem		1
+dance		1
+angie		1
+fannette	1
+yo		1
+mouth		1
+theatre		1
+out		1
+look		1
+estate		1
+fancy		1
+tonight		1
+shut		1

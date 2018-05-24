@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+pasta		1
+nutricious	1
+yummy		1
+isnt		1

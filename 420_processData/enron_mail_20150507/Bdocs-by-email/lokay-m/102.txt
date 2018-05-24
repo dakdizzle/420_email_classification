@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+asp		1
+ragroup		1
+index		1
+http		1
+www		1
+org		1

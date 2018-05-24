@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+between		1
+liked		1
+good		1
+issues		1
+hunter		1
+physical	1
+experience	1
+liaison		1
+trying		1
+correct		1
+commercial	1
+think		1

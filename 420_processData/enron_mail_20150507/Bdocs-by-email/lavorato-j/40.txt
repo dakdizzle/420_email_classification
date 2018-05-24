@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+fun		1
+cliffgood	1
+lavo		1
+dogs		1
+far		1
+bringing	1
+thanks		1
+ve		1
+down		1
+survived	1
+again		1
+importantly	1
+more		1
+luck		1
+think		1
+big		1
+compete		1
+here		1

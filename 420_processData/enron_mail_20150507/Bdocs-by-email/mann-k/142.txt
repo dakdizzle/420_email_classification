@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+know		1
+members		1
+authority	1
+unclear		1
+ckm		1
+bind		1
+coop		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+master		1
+corrected	1
+please		1
+thankskam	1
+questions	1
+darren		1
+call		1
+robin		1

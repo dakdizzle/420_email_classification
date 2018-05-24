@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+stuff		1
+much		1
+bunch		1
+plate		1
+jared		1
+busier		1
+told		1
+think		1

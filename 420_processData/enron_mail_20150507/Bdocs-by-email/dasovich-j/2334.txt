@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+story		1
+out		1
+hey		1
+ok		1
+hope		1
+jeff		1
+best		1
+weathering	1
+things		1
+still		1
+see		1
+checking	1

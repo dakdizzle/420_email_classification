@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+water		1
+phone		1
+drop		1

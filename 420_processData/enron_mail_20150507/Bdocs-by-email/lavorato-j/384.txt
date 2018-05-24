@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+send		1
+press		1
+name		1
+saw		1
+louise		1
+release		1
+set		1
+mother		1

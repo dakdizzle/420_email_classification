@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+something	1
+up		1
+please		1
+cindy		1
+update		1
+project		1
+assistant	1
+appreciated	1
+idea		1
+stark		1
+set		1
+thanks		1

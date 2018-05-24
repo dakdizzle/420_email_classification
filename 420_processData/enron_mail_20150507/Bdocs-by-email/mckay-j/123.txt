@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+hope		1
+helps		1
+jon		1
+volumes		1
+year		1
+current		1
+oct		1
+offer		1

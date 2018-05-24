@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+down		2
+blown		2
+territory	1
+montebello	1
+details		1
+socal		1
+talk		1
+know		1
+ask		1
+application	1
+field		1
+bt		1
+robert		1
+regarding	1
+storage		1
+started		1
+filed		1
+year		1
+bcf		1
+neustaedter	1
+deal		1
+summary		1

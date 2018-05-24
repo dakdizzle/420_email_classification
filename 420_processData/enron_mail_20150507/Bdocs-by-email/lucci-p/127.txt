@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+mark		1
+early		1
+bored		1
+talk		1
+kinda		1
+today		1
+busy		1
+later		1
+call		1
+out		1
+home		1
+start		1
+want		1
+tonight		1
+date		1
+ll		1
+here		1

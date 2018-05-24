@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+master		1
+stacy		1
+working		1
+constellation	1
+gisb		1

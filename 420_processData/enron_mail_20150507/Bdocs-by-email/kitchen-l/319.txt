@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+thing		2
+netco		2
+whole		2
+taking		1
+case		1
+plan		1
+suit		1
+try		1
+convey		1
+stayed		1
+terms		1
+etc		1
+ngls		1
+system		1
+prevent		1
+solarc		1
+basis		1
+bankruptcy	1
+court		1
+used		1
+obviously	1
+pending		1

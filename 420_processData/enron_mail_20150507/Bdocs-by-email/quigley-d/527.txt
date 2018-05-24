@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+golfdq		1
+hey		1
+ernie		1
+pls		1
+tee		1
+directions	1
+times		1
+hooter		1
+play		1

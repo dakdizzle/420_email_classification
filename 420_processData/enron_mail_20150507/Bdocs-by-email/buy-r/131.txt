@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+surprised	1
+thing		1
+done		1
+rick		1
+somewhat	1
+buffet		1
+hasn		1
+kkr		1
+very		1

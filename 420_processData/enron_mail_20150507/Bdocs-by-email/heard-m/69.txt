@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+veronica	1
+know		1
+marie		1
+want		1
+fyi		1

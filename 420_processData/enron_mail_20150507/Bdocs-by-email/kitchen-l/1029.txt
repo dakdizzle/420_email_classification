@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+incur		2
+group		1
+out		1
+much		1
+detail		1
+thankslouise	1
+bill		1
+know		1
+duran		1
+more		1
+cost		1
+costs		1

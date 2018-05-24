@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+both		1
+commented	1
+track		1
+drafts		1
+saw		1
+last		1

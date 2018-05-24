@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+santanna	1
+ok		1
+words		1
+kind		1
+thanks		1

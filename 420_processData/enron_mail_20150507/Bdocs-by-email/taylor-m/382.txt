@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+entity		2
+counterparty	2
+enron		2
+prospective	1
+providers	1
+party		1
+potential	1
+affiliate	1
+name		1
+whether		1
+application	1
+beneficiary	1
+third		1
+same		1
+eta		1
+password	1
+products	1
+posts		1
+enrononline	1
+product		1
+llc		1
+website		1
+give		1
+extent		1

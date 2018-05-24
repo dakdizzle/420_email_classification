@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+kwatson		2
+cn		2
+meeting		1
+recipients	1
+watson		1
+filename	1
+na		1
+thanks		1
+privileged	1
+kim		1
+good		1
+kimberly	1
+non		1
+enron		1
+psttk		1
+idea		1
+ou		1
+attend		1
+think		1

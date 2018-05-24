@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+via		1
+email		1
+exactly		1
+questions	1
+maybe		1
+need		1
+answer		1
+help		1

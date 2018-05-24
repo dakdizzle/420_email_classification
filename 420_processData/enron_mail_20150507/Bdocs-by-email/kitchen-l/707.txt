@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+talking		2
+territory	1
+codesutilitiesmunisthanks	1
+detail		1
+know		1
+etc		1
+split		1
+names		1
+areasindustrials	1
+really		1
+crossing	1
+sic		1
+list		1
+utilities	1
+specific	1
+enough		1
+areas		1
+munis		1
+need		1

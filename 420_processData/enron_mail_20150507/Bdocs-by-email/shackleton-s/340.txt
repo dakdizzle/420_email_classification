@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+party		1
+eb		1
+chart		1
+fax		1
+ph		1
+above		1
+gas		1
+street		1
+wholesale	1
+call		1
+remember	1
+services	1
+shackletonenron	1
+sara		1
+settle		1
+ahouston	1
+propane		1
+need		1
+tx		1
+smith		1
+star		1
+chance		1

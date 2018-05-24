@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+please		2
+dorlandenron	1
+thanxchris	1
+user		1
+id		1
+power		1
+know		1
+tim		1
+gas		1
+west		1
+canada		1
+someone		1
+formal		1
+cdorlan		1
+need		1
+submit		1
+access		1
+website		1
+request		1
+trading		1
+fundamentals	1

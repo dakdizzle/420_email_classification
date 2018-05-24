@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+chris		2
+cn		2
+germany		2
+release		2
+cgerman		1
+recipients	1
+filename	1
+na		1
+coded		1
+contracts	1
+psti		1
+enron		1
+decide		1
+yellow		1
+highlighted	1
+ou		1
+probably	1
+agency		1
+ll		1

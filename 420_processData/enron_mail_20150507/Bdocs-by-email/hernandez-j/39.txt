@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+soon		2
+oct		2
+day		1
+leaving		1
+up		1
+know		1
+returning	1
+invitations	1
+letme		1
+fly		1
+formal		1
+out		1
+golfing		1
+toh		1
+show		1
+parishotel	1
+staying		1
+spa		1
+need		1
+mike		1
+vegas		1
+town		1
+catching	1
+ll		1

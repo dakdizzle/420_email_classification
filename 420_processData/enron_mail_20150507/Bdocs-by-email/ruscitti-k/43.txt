@@ -1,0 +1,21 @@
+NumWords	23
+NumTerms	18
+
+ml		2
+sounds		2
+dinner		2
+good		2
+ll		2
+fun		1
+up		1
+pick		1
+split		1
+condition	1
+ve		1
+out		1
+show		1
+go		1
+kr		1
+idea		1
+everyone	1
+based		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+taking		1
+down		1
+place		1
+anyone		1
+tori		1
+books		1
+kk		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+great		1
+hope		1
+time		1
+crazy		1
+things		1
+now		1
+yes		1
+headhunter	1
+big		1
+here		1
+thanskgiving	1

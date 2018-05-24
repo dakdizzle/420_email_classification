@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+list		4
+texaco		1
+mark		1
+mentioned	1
+per		1
+stacy		1
+assigned	1
+know		1
+missing		1
+attached	1
+left		1
+names		1
+rash		1
+emails		1
+sent		1
+sara		1
+created		1
+mail		1
+august		1
+town		1
+voice		1

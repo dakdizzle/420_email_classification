@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lynn		1
+fran		1
+approval	1
+approved	1
+shelley		1
+thanks		1

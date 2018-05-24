@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+liz		1
+available	1
+jun		1
+diamonds	1

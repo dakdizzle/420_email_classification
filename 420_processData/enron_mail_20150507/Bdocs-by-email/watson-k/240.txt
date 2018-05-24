@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kim		1
+welcome		1
+meeting		1
+join		1
+steve		1
+attending	1
+thanks		1
+call		1

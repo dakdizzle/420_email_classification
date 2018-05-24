@@ -1,0 +1,14 @@
+NumWords	18
+NumTerms	11
+
+july		4
+contracts	3
+nymex		3
+settlement	1
+open		1
+profit		1
+position	1
+short		1
+buy		1
+sell		1
+date		1

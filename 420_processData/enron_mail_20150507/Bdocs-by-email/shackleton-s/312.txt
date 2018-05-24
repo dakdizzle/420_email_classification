@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+stay		1
+sister		1
+email		1
+send		1
+house		1
+hey		1
+reply		1
+clearly		1
+sas		1
+never		1
+deb		1

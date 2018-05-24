@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+released	2
+know		1
+seperate	1
+permanent	1
+problem		1
+releases	1
+capacity	1
+plus		1
+evergreen	1
+contract	1
+told		1
+doing		1
+peices		1
+clause		1

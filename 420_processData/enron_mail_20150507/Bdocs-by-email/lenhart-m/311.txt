@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+make		1
+fits		1
+type		1
+obviously	1
+know		1
+going		1
+son		1
+boss		1
+take		1
+didn		1

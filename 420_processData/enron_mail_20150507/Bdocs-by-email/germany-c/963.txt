@@ -1,0 +1,23 @@
+NumWords	26
+NumTerms	20
+
+contracts	3
+iroq		2
+contract	2
+tenn		2
+fuel		2
+aec		1
+worksheet	1
+national	1
+gas		1
+attached	1
+light		1
+blue		1
+along		1
+number		1
+three		1
+column		1
+highlighted	1
+ant		1
+nat		1
+boston		1

@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+wired		2
+enron		1
+condenast	1
+com		1
+flonetwork	1

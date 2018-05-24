@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+kim		1
+available	1
+today		1
+stephanie	1
+chance		1
+lunch		1
+hi		1

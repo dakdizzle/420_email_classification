@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+step		1
+sending		1
+spreadsheet	1
+now		1
+ken		1
+asked		1
+thanks		1
+yesterday	1
+out		1
+distribution	1
+office		1
+clint		1
+week		1
+jmf		1
+include		1
+dean		1
+next		1
+laurel		1

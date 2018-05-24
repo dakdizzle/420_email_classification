@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+little		1
+sister		1
+hey		1
+ask		1
+hung		1
+over		1

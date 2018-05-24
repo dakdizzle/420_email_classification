@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+tah		1
+tomorrow	1
+moh		1
+night		1
+see		1
+thanks		1

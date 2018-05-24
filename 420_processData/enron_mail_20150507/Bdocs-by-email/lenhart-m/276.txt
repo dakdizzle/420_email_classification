@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+around		1
+time		1
+tomorrow	1
+want		1
+leave		1
+noon		1

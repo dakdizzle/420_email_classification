@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+kitchen		2
+louise		2
+cn		2
+full		1
+pipes		1
+today		1
+assuming	1
+recipients	1
+trade		1
+filename	1
+na		1
+lkitchen	1
+list		1
+psti		1
+enron		1
+needed		1
+ou		1
+tonight		1

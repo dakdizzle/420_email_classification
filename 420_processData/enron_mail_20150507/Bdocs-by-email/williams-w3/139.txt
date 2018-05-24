@@ -1,0 +1,26 @@
+NumWords	28
+NumTerms	23
+
+answer		3
+questions	3
+each		2
+day		1
+greater		1
+usually		1
+thank		1
+even		1
+phone		1
+inquiry		1
+ken		1
+provide		1
+flexibility	1
+thanks		1
+best		1
+bill		1
+opportunity	1
+feel		1
+available	1
+reach		1
+more		1
+prefer		1
+give		1

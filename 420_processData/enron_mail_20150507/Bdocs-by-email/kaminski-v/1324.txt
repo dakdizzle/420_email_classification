@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+mnie		1
+ok		1
+andrzej		1
+wicek		1
+wszystko	1
+smieszne	1
+bardzo		1

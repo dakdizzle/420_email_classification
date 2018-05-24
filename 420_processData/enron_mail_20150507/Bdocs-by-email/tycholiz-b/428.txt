@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+reply		1
+incorporate	1
+advise		1
+file		1
+problem		1
+tom		1
+bt		1
+symbol		1
+rotating	1
+note		1
+thanks		1

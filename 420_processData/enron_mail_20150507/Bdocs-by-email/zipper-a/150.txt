@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+finance		1
+enough		1
+keep		1
+trying		1
+background	1
+thanks		1

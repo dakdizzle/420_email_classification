@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+leaving		1
+friday		1
+sat		1
+curious		1

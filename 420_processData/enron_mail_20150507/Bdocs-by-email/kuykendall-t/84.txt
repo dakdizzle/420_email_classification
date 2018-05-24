@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+starting	1
+buy		1
+insiders	1
+here		1

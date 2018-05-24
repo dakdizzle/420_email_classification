@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+desk		3
+cash		1
+interview	1
+time		1
+term		1
+both		1
+amy		1
+real		1
+wscc		1
+bert		1
+positions	1
+please		1
+meyersportland	1
+trader		1
+assistant	1
+note		1

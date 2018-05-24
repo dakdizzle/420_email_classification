@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+stand		1
+won		1
+problem		1
+something	1
+people		1
+american	1
+recommendation	1
+again		1
+strike		1
+laden		1
+nothing		1
+bin		1
+don		1
+surely		1

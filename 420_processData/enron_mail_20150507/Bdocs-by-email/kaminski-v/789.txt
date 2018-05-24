@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+vince		2
+releated	1
+free		1
+pstgwyn		1
+time		1
+problem		1
+filename	1
+vkamins		1
+take		1
+exam		1
+jx		1
+expense		1
+athome		1
+feel		1
+prepcourse	1
+work		1
+treat		1
+study		1
+costs		1
+kaminski	1

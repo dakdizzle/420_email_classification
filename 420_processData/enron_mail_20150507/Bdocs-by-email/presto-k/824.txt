@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+dana		1
+mark		1
+davis		1
+benson		1
+rogers		1
+fletch		1
+rob		1
+sturm		1
+smith		1
+doug		1
+herndon		1
+gilbert		1

@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+email		1
+eb		1
+lowry		1
+send		1
+fax		1
+schultz		1
+ph		1
+bradfordsara	1
+street		1
+william		1
+cassandra	1
+wholesale	1
+services	1
+shackletonenron	1
+ahouston	1
+need		1
+tx		1
+smith		1
+donna		1

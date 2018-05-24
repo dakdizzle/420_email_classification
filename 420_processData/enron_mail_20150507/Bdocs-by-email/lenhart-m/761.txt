@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+serious		1
+fat		1
+restaurant	1
+calling		1
+better		1
+ass		1

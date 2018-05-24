@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+form		2
+use		2
+account		1
+stanley		1
+know		1
+attached	1
+marie		1
+authorized	1
+morgan		1
+anything	1
+attaching	1
+list		1
+broker		1
+enron		1
+gil		1
+questions	1
+prepared	1
+need		1
+traders		1
+agreement	1
+margin		1
+prime		1

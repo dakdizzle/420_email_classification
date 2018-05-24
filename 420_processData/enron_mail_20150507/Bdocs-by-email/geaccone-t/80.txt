@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+sent		1
+directly	1
+copy		1
+steve		1
+harris		1
+danny		1

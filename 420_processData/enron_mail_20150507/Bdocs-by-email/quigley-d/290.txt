@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+calling		1
+trying		1

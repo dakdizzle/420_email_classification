@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hand		1
+kim		1
+guys		1
+print		1
+resume		1

@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+sign		2
+generally	1
+enron		1
+michelle	1
+officer		1
+bu		1
+speaking	1
+head		1

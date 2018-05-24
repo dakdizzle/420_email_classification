@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+requests	1
+please		1
+approve		1

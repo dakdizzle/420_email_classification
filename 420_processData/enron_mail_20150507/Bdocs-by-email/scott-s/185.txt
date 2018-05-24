@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+call		2
+around		1
+message		1
+leaving		1
+time		1
+please		1
+disregard	1
+phone		1
+mins		1

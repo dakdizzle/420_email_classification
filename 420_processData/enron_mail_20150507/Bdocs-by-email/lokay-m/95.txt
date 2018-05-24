@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+resurrect	1
+office		1
+needed		1
+utilizing	1
+systems		1
+sorry		1
+currently	1
+deleting	1
+actually	1
+yesterday	1

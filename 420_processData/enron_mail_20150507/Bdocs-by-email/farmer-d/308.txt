@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+pipe		1
+know		1
+flowed		1
+paid		1
+gas		1
+statement	1
+determined	1
+find		1
+out		1
+something	1
+soon		1
+happened	1
+annette		1
+transport	1
+received	1
+discussions	1
+show		1
+lone		1
+star		1

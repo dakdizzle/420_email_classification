@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+shorter		1
+schultz		1
+fyi		1
+rac		1
+cassandra	1

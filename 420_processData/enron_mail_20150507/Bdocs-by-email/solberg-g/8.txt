@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hey		1
+les		1
+john		1
+malowney	1
+call		1

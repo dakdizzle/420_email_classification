@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+really		1
+hr		1
+unchanged	1
+maybe		1
+aug		1
+rest		1

@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+dquigle		2
+cn		2
+email		1
+up		1
+step		1
+recipients	1
+goso		1
+filename	1
+na		1
+golf		1
+privileged	1
+dutch		1
+non		1
+enron		1
+weekend		1
+ou		1
+pstlets		1
+baytown		1
+away		1
+quigley		1

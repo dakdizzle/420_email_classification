@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+christina	2
+cn		2
+monday		1
+valdez		1
+stacey		1
+recipients	1
+phone		1
+cvaldez		1
+answer		1
+na		1
+home		1
+out		1
+cell		1
+office		1
+enron		1
+numbers		1
+questions	1
+ou		1
+need		1
+reminder	1
+here		1

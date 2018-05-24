@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+together	1
+wedding		1
+talk		1
+coffee		1
+etc		1
+both		1
+soon		1
+dinner		1
+deborah		1
+cream		1
+ice		1
+going		1
+week		1
+chance		1
+sue		1

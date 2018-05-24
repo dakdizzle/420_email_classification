@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+mark		1
+back		1
+yes		1
+saturday	1
+very		1
+lucky		1

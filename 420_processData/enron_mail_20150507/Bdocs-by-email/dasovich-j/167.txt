@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+wanna		1
+go		1

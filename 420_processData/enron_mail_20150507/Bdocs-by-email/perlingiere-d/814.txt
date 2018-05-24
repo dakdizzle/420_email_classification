@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+thanks		2
+via		1
+send		1
+assistance	1
+many		1
+please		1
+attention	1
+fed		1
+overnight	1

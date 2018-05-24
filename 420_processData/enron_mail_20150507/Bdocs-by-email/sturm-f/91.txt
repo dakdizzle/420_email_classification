@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+under		1
+talk		1
+back		1
+jon		1
+rika		1
+contract	1
+fletch		1
+kevin		1
+ll		1
+talked		1

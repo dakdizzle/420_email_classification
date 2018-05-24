@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+break		1
+donna		1
+art		1
+bread		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+addition	1
+numbers		1
+adjusted	1
+need		1
+closing		1
+reflect		1
+actual		1
+date		1

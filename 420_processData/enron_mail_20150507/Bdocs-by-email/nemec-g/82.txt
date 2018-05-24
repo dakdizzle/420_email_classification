@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+two		1
+sign		1
+ask		1
+copies		1
+print		1

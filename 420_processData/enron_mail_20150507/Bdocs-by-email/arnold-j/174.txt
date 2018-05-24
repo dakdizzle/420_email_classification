@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+tell		1
+guess		1
+going		1

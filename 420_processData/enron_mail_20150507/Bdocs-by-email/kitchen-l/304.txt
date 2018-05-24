@@ -1,0 +1,11 @@
+NumWords	13
+NumTerms	8
+
+sp		2
+fool		2
+www		2
+specials	2
+com		2
+http		1
+htmhttp		1
+htm		1

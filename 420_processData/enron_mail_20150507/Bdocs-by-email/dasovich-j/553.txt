@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+yank		1
+meeting		1
+under		1
+well		1
+kaufman		1
+et		1
+al		1
+clearly		1
+went		1
+chain		1
+don		1
+stress		1
+horton		1

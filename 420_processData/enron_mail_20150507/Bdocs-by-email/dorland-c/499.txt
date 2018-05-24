@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+time		1
+john		1
+try		1
+guys		1
+west		1
+tee		1
+chris		1
+site		1
+afternoon	1
+call		1
+mid		1
+tell		1
+want		1
+work		1
+sept		1
+think		1
+ll		1

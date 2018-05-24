@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+weekend		2
+behaved		1
+well		1
+conroe		1
+working		1
+alina		1
+today		1
+perhaps		1
+anyway		1
+cold		1
+tomorrow	1
+spent		1
+tx		1
+week		1
+lunch		1
+still		1

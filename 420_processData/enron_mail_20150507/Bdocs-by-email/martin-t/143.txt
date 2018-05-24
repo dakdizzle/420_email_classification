@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+returned	1
+executed	1
+anne		1
+tom		1

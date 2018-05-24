@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+probably	2
+ll		2
+little		1
+calgary		1
+day		1
+benson		1
+know		1
+car		1
+see		1
+room		1
+back		1
+pool		1
+want		1
+below		1
+move		1
+here		1

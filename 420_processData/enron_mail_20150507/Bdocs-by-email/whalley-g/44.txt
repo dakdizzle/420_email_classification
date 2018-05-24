@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+heard		1
+word		1
+haven		1

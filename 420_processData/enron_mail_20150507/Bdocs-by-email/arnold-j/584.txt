@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+customer	1
+dont		1
+hedge		1
+fred		1
+want		1
+today		1
+one		1
+unwound		1
+exposure	1
+spinnaker	1

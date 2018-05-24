@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+wore		1
+think		1
+bra		1
+didn		1

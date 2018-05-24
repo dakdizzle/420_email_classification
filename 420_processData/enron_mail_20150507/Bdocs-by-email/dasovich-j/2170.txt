@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+thanks		2
+between		1
+send		1
+time		1
+talk		1
+understanding	1
+know		1
+estimate	1
+now		1
+ready		1
+materials	1
+see		1
+soon		1
+good		1
+jeff		1
+best		1
+jobs		1
+again		1
+luck		1
+note		1
+summary		1
+ll		1

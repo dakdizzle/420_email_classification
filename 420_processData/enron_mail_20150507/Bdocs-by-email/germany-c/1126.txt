@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+home		1
+stay		1
+something	1
+m		1
+friday		1
+wash		1
+busy		1
+june		1
+hair		1
+don		1
+st		1

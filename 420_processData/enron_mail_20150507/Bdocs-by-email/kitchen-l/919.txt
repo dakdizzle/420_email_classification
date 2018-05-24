@@ -1,0 +1,5 @@
+NumWords	3
+NumTerms	2
+
+ha		2
+bloody		1

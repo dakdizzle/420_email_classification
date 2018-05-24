@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+product		2
+plasma		1
+opal		1
+gas		1
+daily		1
+nwpl		1
+indexes		1
+month		1
+balance		1
+rocky		1
+basis		1
+used		1
+screen		1
+settled		1
+kern		1
+called		1
+mountains	1
+abijeet		1
+mat		1
+accordingly	1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+ogletree	1
+michelle	1
+needed		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+message		1
+received	1

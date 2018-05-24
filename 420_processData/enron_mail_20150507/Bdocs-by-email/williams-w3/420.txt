@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+free		1
+come		1
+bill		1
+know		1
+chance		1
+give		1
+thanks		1
+call		1

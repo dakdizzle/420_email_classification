@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+sorry		2
+tell		2
+monday		1
+urgent		1
+up		1
+know		1
+pick		1
+mumgeir		1
+number		1
+toi		1
+certificate	1
+want		1
+needed		1
+going		1
+week		1
+yoy		1
+england		1

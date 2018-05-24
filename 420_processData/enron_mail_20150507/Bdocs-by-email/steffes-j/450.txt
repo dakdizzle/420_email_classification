@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+affiliates	2
+letter		2
+consistent	2
+send		1
+competitive	1
+gas		1
+pipelines	1
+offer		1
+pipeline	1
+jim		1
+services	1
+enron		1
+affiliated	1
+epmi		1
+sign		1
+guillermo	1
+going		1
+business	1
+mktg		1
+given		1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+check		2
+care		1
+chicago		1
+pl		1
+until		1
+taken		1
+irena		1
+tuesday		1
+thanks		1
+office		1
+please		1
+back		1
+ac		1
+next		1

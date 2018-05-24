@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+tired		1
+afterwards	1
+means		1

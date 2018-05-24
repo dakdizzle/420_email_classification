@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+net		1
+html		1
+http		1
+query		1
+www		1
+sonic		1
+donaldj		1

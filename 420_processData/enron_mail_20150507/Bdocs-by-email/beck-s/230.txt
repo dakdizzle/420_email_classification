@@ -1,0 +1,21 @@
+NumWords	22
+NumTerms	18
+
+june		4
+friday		2
+airline		1
+vacation	1
+well		1
+today		1
+reservations	1
+fly		1
+looks		1
+flyer		1
+miles		1
+husband		1
+sally		1
+frequent	1
+use		1
+finalizing	1
+works		1
+saturday	1

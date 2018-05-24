@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+faxing		1
+now		1

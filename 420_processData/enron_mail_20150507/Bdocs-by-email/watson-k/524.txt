@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+tough		1
+up		1
+catch		1
+tomorrow	1
+uh		1
+weeks		1
+couple		1

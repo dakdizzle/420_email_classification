@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+scott		2
+cn		2
+eb		1
+fax		1
+reviewed	1
+sgriffi		1
+ph		1
+street		1
+recipients	1
+wholesale	1
+na		1
+services	1
+shackletonenron	1
+enron		1
+accuracysara	1
+ahouston	1
+ou		1
+tx		1
+smith		1
+griffin		1

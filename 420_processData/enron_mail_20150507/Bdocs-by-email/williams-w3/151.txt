@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+friday		1
+tomorrow	1
+need		1
+kate		1
+take		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+dance		1
+gaffney		1
+partmer		1
+ask		1
+told		1

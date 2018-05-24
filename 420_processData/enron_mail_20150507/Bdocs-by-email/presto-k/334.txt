@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+improvements	1
+coming		1
+employees	1
+power		1
+risk		1
+explode		1
+etc		1
+premium		1
+wholesale	1
+security	1
+m		1
+guy		1
+idea		1
+going		1
+d		1
+increased	1
+capital		1
+costs		1
+average		1

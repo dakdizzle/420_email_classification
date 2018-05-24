@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+customer	1
+discuss		1
+ie		1
+service		1
+review		1
+rate		1
+fix		1
+top		1
+offer		1
+jim		1
+products	1
+agree		1
+please		1
+utility		1
+financial	1
+swap		1
+placed		1
+jennifer	1
+think		1

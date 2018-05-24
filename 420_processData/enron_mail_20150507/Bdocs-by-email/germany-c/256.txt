@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+flex		2
+pmtrinaneed	1
+event		1
+days		1
+contact		1
+qualifies	1
+current		1
+effective	1
+dollar		1
+life		1
+immer		1
+expense		1
+increase	1
+received	1
+dollars		1
+birth		1
+go		1
+kid		1
+birthmy		1
+within		1
+date		1
+insurance	1

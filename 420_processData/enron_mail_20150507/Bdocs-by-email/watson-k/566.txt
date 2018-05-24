@@ -1,0 +1,20 @@
+NumWords	21
+NumTerms	17
+
+letter		3
+sid		2
+rich		2
+coming		1
+email		1
+invoice		1
+payment		1
+tk		1
+find		1
+nov		1
+drafting	1
+afternoon	1
+kim		1
+water		1
+non		1
+dropped		1
+mm		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+both		1
+john		1
+reviewed	1
+report		1
+thankstracy	1
+forward		1
+preparing	1
+curious		1
+works		1
+ce		1
+rd		1
+michael		1

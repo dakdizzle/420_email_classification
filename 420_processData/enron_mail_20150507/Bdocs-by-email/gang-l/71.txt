@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+right		1
+lisa		1
+yes		1
+sorry		1
+rhonda		1
+hours		1
+thanks		1

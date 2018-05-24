@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+responded	1
+time		1
+office		1
+friday		1
+extra		1
+need		1
+already		1
+meet		1
+okey		1

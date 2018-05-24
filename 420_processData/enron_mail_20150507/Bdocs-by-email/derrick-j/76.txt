@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+return		1
+agreed		1
+lake		1
+time		1
+wednesday	1
+houston		1
+bobby		1
+seeing		1
+east		1
+talked		1
+jim		1
+morning		1
+look		1
+save		1
+another		1
+forward		1
+walt		1

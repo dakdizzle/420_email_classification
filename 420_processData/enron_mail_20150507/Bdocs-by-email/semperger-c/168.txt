@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+semperger	2
+content		1
+encoding	1
+origin		1
+cx		1
+bitx		1
+cara		1
+filename	1
+transfer	1
+pst		1

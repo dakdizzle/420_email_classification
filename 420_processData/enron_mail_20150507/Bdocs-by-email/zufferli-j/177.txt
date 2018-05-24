@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+thanksgiving	1
+won		1
+management	1
+nov		1
+planning	1
+stay		1
+thereconference	1
+down		1
+antonio		1
+tentatively	1
+conference	1
+saturday	1
+san		1

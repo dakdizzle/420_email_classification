@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+up		2
+thanxchris	1
+send		1
+gaskill		1
+weather		1
+flying		1
+site		1
+morning		1
+hasn		1
+set		1
+package		1
+blind		1
+dave		1
+here		1
+fundy		1

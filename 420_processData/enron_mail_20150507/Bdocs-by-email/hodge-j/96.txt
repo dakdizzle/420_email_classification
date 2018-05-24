@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+together	1
+talking		1
+jeff		1
+talk		1
+project		1
+carlos		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+shortly		1
+problem		1
+ll		1

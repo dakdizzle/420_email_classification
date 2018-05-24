@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+cn		2
+dperlin		2
+revised		1
+review		1
+recipients	1
+filename	1
+na		1
+confirm		1
+privileged	1
+non		1
+psthere		1
+enron		1
+please		1
+ou		1
+perlingiere	1
+debra		1

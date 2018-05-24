@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+vince		1
+employee	1
+brian		1
+enron		1
+talk		1
+discount	1
+shecan		1
+nadasky		1
+marge		1

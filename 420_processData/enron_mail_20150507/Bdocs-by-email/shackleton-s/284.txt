@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+sshackl		2
+cn		2
+account		1
+ermt		1
+shackleton	1
+funded		1
+goldman		1
+recipients	1
+filename	1
+na		1
+privileged	1
+psti		1
+non		1
+believe		1
+enron		1
+sara		1
+ou		1
+corp		1

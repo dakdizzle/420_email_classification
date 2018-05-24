@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+houston		2
+fannin		1
+center		1
+phone		1
+ste		1
+coralamy	1
+tx		1
+number		1
+goldtwo		1

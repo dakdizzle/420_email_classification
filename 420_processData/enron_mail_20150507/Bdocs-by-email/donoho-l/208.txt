@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+meeting		1
+thursday	1
+know		1
+need		1
+help		1

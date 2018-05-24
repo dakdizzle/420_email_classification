@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+heard		1
+agreed		1
+make		1
+perspective	1
+legal		1
+along		1
+system		1
+people		1
+sent		1
+language	1
+back		1
+works		1
+sure		1
+eol		1
+haven		1

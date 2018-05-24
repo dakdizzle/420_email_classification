@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+want		1
+nothing		1
+reflect		1

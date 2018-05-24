@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+full		2
+time		2
+kevin		2
+requires	1
+monday		1
+presto		1
+assured		1
+assuming	1
+build		1
+filename	1
+confirm		1
+privileged	1
+pstsounds	1
+non		1
+team		1
+please		1
+obviously	1
+prestox		1
+focus		1
+start		1
+part		1
+already		1
+whalley		1
+process		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+ds		1
+hey		1
+position	1
+time		1
+real		1
+working		1
+mgr		1
+know		1
+wanted		1
+updating	1
+still		1

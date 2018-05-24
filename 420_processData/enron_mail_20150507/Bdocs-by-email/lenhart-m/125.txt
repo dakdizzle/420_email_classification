@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+dog		1
+choice		1
+time		1
+know		1
+tee		1
+golf		1
+better		1
+nice		1
+sat		1
+night		1
+knew		1
+going		1
+saturday	1

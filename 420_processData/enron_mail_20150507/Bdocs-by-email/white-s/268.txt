@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+much		1
+hectic		1
+funny		1
+those		1
+write		1
+hope		1
+visit		1
+time		1
+stacey		1
+come		1
+find		1
+work		1

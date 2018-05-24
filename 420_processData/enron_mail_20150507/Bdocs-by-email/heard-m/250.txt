@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+coming		1
+hope		1
+helps		1
+know		1
+guidelines	1
+supposed	1
+bad		1
+ecp		1
+news		1
+here		1

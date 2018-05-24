@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+weekend		2
+group		1
+plan		1
+free		1
+time		1
+shona		1
+impact		1
+anyone		1
+more		1
+give		1
+over		1

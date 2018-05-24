@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+luv		1
+ya		1
+honey		1

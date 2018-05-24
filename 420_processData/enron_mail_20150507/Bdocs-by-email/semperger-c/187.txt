@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+semperger	2
+cn		2
+cara		2
+kathy		1
+december	1
+recipients	1
+filename	1
+na		1
+afternoon	1
+csemper		1
+enron		1
+please		1
+susie		1
+ou		1
+pass		1
+pstgood		1
+c		1
+parking		1

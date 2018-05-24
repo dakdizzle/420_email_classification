@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+sami		1
+geniaplease	1
+short		1
+epmi		1
+gtc		1
+forward		1
+sager		1
+form		1
+thankselizabeth	1

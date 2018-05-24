@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+status		1
+credit		1
+near		1
+junk		1
+rating		1

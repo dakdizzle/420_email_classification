@@ -1,0 +1,20 @@
+NumWords	37
+NumTerms	17
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+john		2
+cowan		1
+jdistur		1
+fyi		1
+clambie		1
+jzuffer		1
+chris		1
+lambie		1
+disturnal	1
+mcowan		1
+zufferli	1
+mike		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+asp		1
+massagedqhttp	1
+massage		1
+desert		1
+tandem		1
+www		1
+themirage	1
+mirage		1
+pages		1
+stone		1
+out		1
+hot		1
+check		1
+noflash		1
+link		1
+frameset	1
+spanote		1
+com		1

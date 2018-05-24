@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+vkamins		2
+vince		2
+cn		2
+evening		1
+time		1
+finalize	1
+talk		1
+recipients	1
+filename	1
+na		1
+privileged	1
+good		1
+non		1
+enron		1
+dates		1
+shall		1
+paulmon		1
+ou		1
+pstchristian	1
+news		1
+kaminski	1

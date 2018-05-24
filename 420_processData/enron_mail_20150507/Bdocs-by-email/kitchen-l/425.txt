@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+come		1
+again		1
+same		1
+think		1
+over		1

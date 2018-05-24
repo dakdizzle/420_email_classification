@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+executed	1
+amendments	1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+janette		1
+approvedthanks	1

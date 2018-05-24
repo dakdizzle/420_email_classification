@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+changed		1
+exhibit		1
+title		1
+redlined	1
+torch		1
+changes		1
+attached	1
+docs		1
+judy		1

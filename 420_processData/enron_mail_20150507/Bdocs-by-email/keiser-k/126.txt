@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+enron		1
+gossett		1
+jgosset		1
+darren		1
+recipients	1
+ou		1
+phillip		1
+na		1
+doing		1
+jeffrey		1

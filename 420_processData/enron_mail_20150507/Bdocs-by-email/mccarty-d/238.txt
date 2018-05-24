@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+ll		2
+meeting		1
+stan		1
+forgotten	1
+dan		1
+call		1
+afternoon	1
+talking		1
+mary		1
+lay		1
+whalley		1
+still		1
+kay		1
+give		1
+haven		1
+frevert		1

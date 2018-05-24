@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+stuff		1
+nice		1
+enron		1
+recipients	1
+ou		1
+na		1
+genia		1
+fitzgerald	1
+very		1
+gfitzge		1

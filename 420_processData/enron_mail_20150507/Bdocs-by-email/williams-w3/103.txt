@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+out		1
+stuff		1
+sick		1
+check		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+listen		1
+down		1
+ene		1
+time		1
+being		1
+try		1
+know		1
+tomorrow	1
+maybe		1
+swig		1
+reason		1

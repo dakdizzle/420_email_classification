@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+president	1
+mark		1
+counselenron	1
+services	1
+mataylo		1
+taylorvice	1
+wholesale	1
+using		1
+general		1

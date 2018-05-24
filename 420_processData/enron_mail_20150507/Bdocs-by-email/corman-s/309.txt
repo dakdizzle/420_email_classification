@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+good		1
+certain		1
+flights		1
+share		1
+hotel		1
+spend		1
+e		1
+money		1
+d		1
+costs		1

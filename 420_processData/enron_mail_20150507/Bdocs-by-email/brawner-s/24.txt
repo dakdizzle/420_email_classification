@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+customer	1
+story		1
+regular		1
+skillings	1
+client		1
+completly	1
+gas		1
+trim		1
+material	1
+face		1
+smile		1
+rags		1
+put		1
+message		1
+reading		1
+happy		1
+comments	1
+deal		1
+big		1

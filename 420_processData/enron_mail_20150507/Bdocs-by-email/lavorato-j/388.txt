@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+sell		2
+power		1
+pastoria	1

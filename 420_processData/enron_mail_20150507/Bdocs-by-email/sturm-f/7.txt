@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+kobra		1
+talk		1
+glad		1
+use		1
+yes		1
+fletch		1
+someone		1
+d		1
+help		1
+thanks		1

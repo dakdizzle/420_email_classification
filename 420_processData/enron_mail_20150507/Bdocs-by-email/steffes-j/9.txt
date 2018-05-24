@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+group		1
+rick		1
+fiefdom		1
+taken		1
+amr		1
+see		1
+grows		1
+fundamentals	1
+over		1

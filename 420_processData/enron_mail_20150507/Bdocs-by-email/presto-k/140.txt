@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+presto		2
+kevin		2
+cn		2
+calger		1
+send		1
+pstdo		1
+kpresto		1
+recipients	1
+chris		1
+filename	1
+na		1
+thanks		1
+mitch		1
+list		1
+enron		1
+please		1
+robinson	1
+templates	1
+ou		1
+already		1
+sager		1
+elizabeth	1

@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+up		2
+tags		1
+easy		1
+clean		1
+accused		1
+b		1
+rt		1

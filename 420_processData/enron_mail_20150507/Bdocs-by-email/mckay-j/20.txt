@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+much		1
+thank		1
+jon		1
+help		1
+very		1

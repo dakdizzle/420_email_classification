@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+few		1
+quite		1
+signed		1
+deals		1
+guess		1

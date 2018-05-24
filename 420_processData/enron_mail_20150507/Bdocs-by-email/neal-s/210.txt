@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+originators	1
+please		1
+forward		1
+traders		1
+east		1

@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+know		2
+comped		2
+room		2
+didn		2
+little		1
+meals		1
+scott		1
+up		1
+try		1
+share		1
+hotel		1
+ended		1
+elements	1
+money		1
+commander	1
+enough		1
+less		1
+gamble		1
+treated		1
+palace		1

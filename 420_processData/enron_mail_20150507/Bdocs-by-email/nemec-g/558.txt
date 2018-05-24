@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+cfr		1
+sections	1
+section		1
+specifically	1
+part		1

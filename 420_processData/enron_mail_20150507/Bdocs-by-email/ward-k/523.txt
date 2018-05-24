@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+hey		1
+ok		1
+leaving		1
+today		1
+phone		1
+phoenix		1
+number		1
+call		1
+kim		1
+hope		1
+cell		1
+go		1
+work		1
+unorganized	1
+chance		1
+don		1

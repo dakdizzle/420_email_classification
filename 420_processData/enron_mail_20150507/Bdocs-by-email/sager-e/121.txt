@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+today		2
+doe		1
+until		1
+hair		1
+julie		1
+getting		1
+home		1
+around		1
+thinking	1
+being		1
+back		1
+mary		1
+ms		1
+work		1
+sager		1
+cut		1
+elizabeth	1

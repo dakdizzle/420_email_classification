@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+approve		1
+find		1
+recipients	1
+asked		1
+na		1
+couldn		1
+mmcvick		1
+maureen		1
+being		1
+enron		1
+ou		1
+mcvicker	1

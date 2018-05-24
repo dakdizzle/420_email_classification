@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+tour		1
+weekly		1
+meeting		1
+roundtable	1
+rogers		1
+available	1
+trader		1

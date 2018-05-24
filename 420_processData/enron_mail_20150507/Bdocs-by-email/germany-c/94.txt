@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+asp		1
+https		1
+jobops		1
+na		1
+nlp		1
+alz		1
+hope		1
+rid		1
+jobdetail	1
+enron		1
+fjo		1
+link		1
+os		1
+hrglobal	1
+works		1
+com		1

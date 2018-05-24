@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+money		2
+expenses	1
+account		1
+paid		1
+going		1

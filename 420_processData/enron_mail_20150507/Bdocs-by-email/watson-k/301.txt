@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+email		1
+david		1
+dlanning	1
+ypcnm		1
+lanning		1
+address		1
+comkim		1

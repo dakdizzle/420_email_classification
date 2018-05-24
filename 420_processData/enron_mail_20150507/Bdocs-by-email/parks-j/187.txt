@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+parks		2
+cn		2
+joe		2
+taking		1
+energy		1
+day		1
+per		1
+pines		1
+recipients	1
+partners	1
+month		1
+filename	1
+na		1
+mmbtu		1
+pstponderosa	1
+april		1
+enron		1
+jparks		1
+ou		1

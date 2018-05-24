@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+jump		1
+pstgreat	1
+filename	1
+transfer	1
+vkamins		1
+privileged	1
+content		1
+vince		1
+non		1
+encoding	1
+origin		1
+bitx		1
+vx		1
+big		1
+participation	1
+kaminski	1

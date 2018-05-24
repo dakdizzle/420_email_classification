@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+ms		2
+keep		1
+managed		1
+help		1
+rolling		1
+ball		1
+thanks		1
+panic		1
+hold		1
+wondering	1
+rush		1
+greetings	1
+jeff		1
+best		1
+again		1
+want		1
+doll		1
+ryall		1

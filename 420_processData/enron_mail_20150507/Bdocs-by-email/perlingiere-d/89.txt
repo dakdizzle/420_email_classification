@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+article		2
+option		1
+stated		1
+transaction	1
+day		1
+terminate	1
+further		1
+payment		1
+force		1
+paid		1
+plus		1
+regarding	1
+agree		1
+majeure		1
+discussion	1
+provided	1
+damages		1
+period		1
+thoughts	1
+debra		1
+termination	1

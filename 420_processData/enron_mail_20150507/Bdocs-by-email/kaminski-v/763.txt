@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+go		2
+vince		1
+krishna		1
+youyi		1

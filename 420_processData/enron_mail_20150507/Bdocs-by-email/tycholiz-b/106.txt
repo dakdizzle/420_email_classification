@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+co		1
+codebt		1
+rc		1

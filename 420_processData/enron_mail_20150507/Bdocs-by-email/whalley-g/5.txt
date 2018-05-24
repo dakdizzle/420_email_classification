@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+problems	2
+really		1
+europe		1
+ena		1
+corporate	1
+allocations	1
+note		1

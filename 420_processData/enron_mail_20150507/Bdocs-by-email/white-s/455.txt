@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+office		1
+stacey		1
+saw		1
+chair		1
+mail		1

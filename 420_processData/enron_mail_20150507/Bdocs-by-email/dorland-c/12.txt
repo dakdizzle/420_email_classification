@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+really		1
+look		1
+up		1
+progress	1
+weather		1
+chris		1
+access		1
+here		1

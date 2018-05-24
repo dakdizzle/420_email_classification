@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+early		1
+m		1
+around		1
+linda		1
+check		1
+rick		1
+contact		1
+treasury	1

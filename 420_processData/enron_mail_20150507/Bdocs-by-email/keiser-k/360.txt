@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+mcginnis	2
+brackettstephanie	1
+email		1
+powelldebbie	1
+john		1
+please		1
+stephanie	1
+add		1

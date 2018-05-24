@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+mark		1
+presentations	1
+three		1
+send		1
+whole		1
+know		1
+work		1
+doesn		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+terminated	1
+asset		1
+event		1
+selling		1
+ena		1
+know		1
+obligation	1
+assuming	1
+premium		1
+albany		1
+sale		1
+week		1
+new		1
+concur		1

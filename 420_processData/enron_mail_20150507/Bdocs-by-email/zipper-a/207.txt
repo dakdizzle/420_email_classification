@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+book		2
+jv		1
+sld		1
+pls		1
+cy		1
+thx		1

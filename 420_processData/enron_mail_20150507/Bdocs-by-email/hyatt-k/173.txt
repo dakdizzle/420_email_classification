@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+franchiusa	1
+alcione		1
+http		1
+www		1
+sx		1
+com		1

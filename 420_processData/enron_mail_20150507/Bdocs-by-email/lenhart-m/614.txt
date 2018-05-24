@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+dog		1
+fence		1
+know		1
+wooden		1
+unless		1
+hour		1
+see		1
+couldnt		1
+one		1
+before		1
+breaks		1
+c		1
+lunch		1
+surrounded	1
+took		1
+didn		1

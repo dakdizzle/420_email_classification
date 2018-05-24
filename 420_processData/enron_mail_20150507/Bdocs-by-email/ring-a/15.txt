@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+care		1
+group		1
+good		1
+moving		1
+enough		1
+blame		1
+finally		1
+luck		1
+take		1
+hi		1

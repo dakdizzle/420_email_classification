@@ -1,0 +1,10 @@
+NumWords	9
+NumTerms	7
+
+texas		3
+years		1
+history		1
+enjoy		1
+series		1
+last		1
+game		1

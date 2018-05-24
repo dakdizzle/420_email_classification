@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+dasovich	1
+thanks		1
+call		1

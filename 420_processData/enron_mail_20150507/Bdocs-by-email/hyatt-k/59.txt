@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+disk		2
+zip		2
+email		1
+send		1
+drive		1
+ability		1
+try		1
+model		1
+well		1
+kb		1
+mb		1
+m		1
+sun		1
+devil		1
+want		1
+read		1
+sure		1
+backup		1
+pretty		1
+big		1
+over		1

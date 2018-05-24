@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+virginia	1
+nd		1
+june		1
+see		1
+thanks		1
+regarding	1
+wapa		1
+come		1
+please		1
+bill		1
+mike		1
+chance		1
+dispute		1

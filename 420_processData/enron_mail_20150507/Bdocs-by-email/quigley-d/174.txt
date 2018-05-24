@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+deniedcan	1
+andy		1
+open		1
+dq		1
+drive		1
+page		1
+zipper		1
+saved		1
+file		1
+help		1
+felipe		1

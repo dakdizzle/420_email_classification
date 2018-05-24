@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+pays		1
+somewhere	1
+fuller		1
+make		1
+up		1
+know		1
+hidden		1
+money		1
+sure		1
+bt		1
+thanks		1

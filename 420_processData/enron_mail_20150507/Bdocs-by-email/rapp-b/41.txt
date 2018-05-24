@@ -1,0 +1,13 @@
+NumWords	14
+NumTerms	10
+
+december	3
+th		2
+st		2
+plan		1
+emily		1
+days		1
+vacation	1
+tomorrow	1
+following	1
+through		1

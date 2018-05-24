@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+dth		2
+sell		2
+taking		1
+hear		1
+kathy		1
+know		1
+t		1
+see		1
+thanks		1
+morning		1
+fridays		1
+good		1
+tomorrow	1
+want		1
+weekend		1
+don		1
+sold		1
+ll		1
+love		1

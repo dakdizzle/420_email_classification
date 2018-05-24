@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+kim		1
+swenke		1
+rodger		1
+socal		1
+know		1
+steve		1

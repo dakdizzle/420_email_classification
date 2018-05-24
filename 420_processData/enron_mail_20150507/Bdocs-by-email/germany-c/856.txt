@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+sniff		3
+chris		2
+cn		2
+germany		2
+hug		1
+cgerman		1
+guys		1
+pstsniff	1
+street		1
+recipients	1
+crumbs		1
+throw		1
+filename	1
+na		1
+see		1
+everytime	1
+miss		1
+m		1
+enron		1
+gonna		1
+ou		1
+think		1

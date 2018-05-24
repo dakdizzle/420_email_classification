@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+interviewed	1
+others		1
+list		1
+now		1
+past		1
+grads		1

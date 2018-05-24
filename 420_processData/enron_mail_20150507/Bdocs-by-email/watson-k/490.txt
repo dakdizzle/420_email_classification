@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+watson		1
+filename	1
+transfer	1
+privileged	1
+kim		1
+content		1
+kx		1
+pstfyi		1
+non		1
+encoding	1
+kwatson		1
+origin		1
+bitx		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+thinking	1
+jeff		1
+stinson		1
+year		1

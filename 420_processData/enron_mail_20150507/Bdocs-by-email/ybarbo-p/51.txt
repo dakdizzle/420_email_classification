@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+rajesh		1
+paul		1
+shubh		1
+efforts		1
+coordinating	1

@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+cn		2
+jsteffe		2
+recipients	1
+filename	1
+na		1
+privileged	1
+jim		1
+messaging	1
+anything	1
+pstpeggy	1
+steffes		1
+done		1
+non		1
+enron		1
+james		1
+ou		1

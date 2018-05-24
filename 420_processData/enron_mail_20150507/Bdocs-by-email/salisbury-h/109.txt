@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+mwshe		6
+day		1
+time		1
+power		1
+position	1
+epe		1
+enpower		1
+schedule	1
+out		1
+real		1
+bill		1
+mwsplease	1
+follows		1
+mws		1
+length		1
+sell		1
+manager		1
+mwstotal	1
+rt		1
+deal		1

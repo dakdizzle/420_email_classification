@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+gas		2
+put		2
+appetite	1
+price		1
+rate		1
+same		1
+dynamics	1
+places		1
+running		1
+out		1
+resistance	1
+demand		1
+supply		1
+storage		1
+change		1
+quickly		1
+need		1

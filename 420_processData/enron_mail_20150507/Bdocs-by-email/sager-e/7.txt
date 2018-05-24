@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+carolyn		1
+travis		1
+please		1
+sager		1
+thankselizabeth	1

@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+mwhitt		2
+cn		2
+email		1
+first		1
+mark		1
+recipients	1
+filename	1
+na		1
+pstplease	1
+privileged	1
+non		1
+enron		1
+change		1
+one		1
+made		1
+disregard	1
+ou		1
+whitt		1
+slight		1

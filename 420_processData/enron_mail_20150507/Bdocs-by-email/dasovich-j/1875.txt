@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+sb		1
+jeff		1
+best		1
+below		1
+see		1

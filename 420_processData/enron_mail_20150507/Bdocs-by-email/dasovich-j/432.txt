@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+little		1
+favorably	1
+puc		1
+heard		1
+classfies	1
+assume		1
+hopes		1
+today		1
+planets		1
+amazing		1
+happened	1
+great		1
+bit		1
+jeff		1
+best		1
+one		1
+more		1
+aligning	1
+merrier		1
+think		1

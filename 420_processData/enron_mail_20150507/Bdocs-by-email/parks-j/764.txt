@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+thats		1
+beer		1
+pics		1
+cap		1
+take		1
+weird		1
+cameras		1
+out		1
+quess		1
+nice		1
+two		1
+focusing	1
+focus		1
+lense		1
+need		1
+looked		1
+turned		1

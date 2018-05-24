@@ -1,0 +1,21 @@
+NumWords	22
+NumTerms	18
+
+enter		2
+way		2
+mirant		2
+sold		2
+info		1
+annuities	1
+geir		1
+enpower		1
+transmiision	1
+out		1
+without		1
+two		1
+check		1
+entered		1
+mw		1
+bought		1
+aps		1
+ww		1

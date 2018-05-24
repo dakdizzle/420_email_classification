@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+th		2
+home		2
+beer		1
+packed		1
+looking		1
+frig		1
+ready		1
+houston		1
+leave		1
+arrive		1
+june		1
+golf		1
+getting		1
+afternoon	1
+food		1
+matt		1
+foward		1
+booked		1
+flight		1
+love		1

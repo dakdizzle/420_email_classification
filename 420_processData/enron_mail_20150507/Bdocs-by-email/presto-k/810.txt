@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+kevin		2
+presto		1
+prices		1
+forgot		1
+therefore	1
+spreadsheet	1
+today		1
+filename	1
+high		1
+curves		1
+privileged	1
+mention		1
+down		1
+psti		1
+non		1
+prestox		1
+another		1

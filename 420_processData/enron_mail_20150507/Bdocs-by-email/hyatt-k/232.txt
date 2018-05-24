@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+much		1
+kh		1
+done		1
+check		1
+believe		1
+know		1
+steve		1
+already		1
+dickerson	1
+pretty		1
+ll		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+morning		1
+ol		1
+good		1
+questions	1
+tomorrow	1
+today		1
+cara		1
+diane		1
+call		1

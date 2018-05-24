@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+energy		1
+pricing		1
+ld		1
+trade		1
+pjm		1
+capacity	1
+point		1
+interface	1
+fair		1
+agree		1
+eliminate	1
+language	1
+index		1
+preference	1
+use		1
+ratchet		1
+vepco		1
+normal		1

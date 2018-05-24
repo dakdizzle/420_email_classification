@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+video		1
+cost		1
+include		1

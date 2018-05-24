@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+continuing	1
+ok		1
+bowen		1
+steve		1
+work		1
+mona		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+send		1
+rangel		1
+ina		1
+asked		1

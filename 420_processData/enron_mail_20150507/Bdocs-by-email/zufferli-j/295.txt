@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+june		2
+order		1
+value		1
+end		1
+now		1
+nd		1
+adjust		1
+month		1
+take		1
+karim		1
+puts		1
+lets		1
+july		1
+numbers		1
+want		1
+relates		1
+till		1
+wait		1
+don		1

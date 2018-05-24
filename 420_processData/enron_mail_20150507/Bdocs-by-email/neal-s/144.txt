@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+scott		1
+thank		1
+came		1
+accomplished	1
+appreciate	1
+integrity	1
+efforts		1
+smile		1
+look		1
+hopeful		1
+back		1
+words		1
+kind		1
+proud		1
+very		1
+through		1
+here		1
+always		1

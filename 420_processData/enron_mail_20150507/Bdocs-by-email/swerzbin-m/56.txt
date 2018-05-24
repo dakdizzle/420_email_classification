@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+ll		2
+glenn		1
+per		1
+power		1
+river		1
+weather		1
+options		1
+insistent	1
+klamath		1
+desk		1
+flows		1
+columbia	1
+interest	1
+million		1
+correlation	1
+hair		1
+offer		1
+zero		1
+really		1
+whole		1
+lewis		1
+year		1
+deal		1

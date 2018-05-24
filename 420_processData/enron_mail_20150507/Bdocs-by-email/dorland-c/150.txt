@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+way		1
+thinking	1
+come		1
+invited		1
+damn		1
+actually	1

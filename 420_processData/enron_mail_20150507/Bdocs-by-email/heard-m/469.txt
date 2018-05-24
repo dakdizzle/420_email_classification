@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+cn		2
+mheard		2
+case		1
+mark		1
+heard		1
+know		1
+marie		1
+review		1
+recipients	1
+filename	1
+na		1
+mariex		1
+thanks		1
+privileged	1
+pstbob		1
+non		1
+enron		1
+please		1
+forward		1
+ou		1
+taylor		1

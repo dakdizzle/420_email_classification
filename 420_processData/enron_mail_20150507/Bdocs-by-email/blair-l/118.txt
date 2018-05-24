@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+lynn		1
+until		1
+john		1
+alma		1
+see		1
+help		1
+thanks		1
+afternoon	1
+out		1
+gone		1
+ava		1
+tomorrow	1
+sharon		1

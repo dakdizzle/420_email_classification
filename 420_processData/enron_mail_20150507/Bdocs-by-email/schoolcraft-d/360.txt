@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ds		1
+something	1
+suggest		1
+consider	1
+host		1
+houston		1
+need		1
+tw		1

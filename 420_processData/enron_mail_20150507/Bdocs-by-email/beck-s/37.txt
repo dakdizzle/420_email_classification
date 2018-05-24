@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+sally		2
+beck		2
+officerenron	1
+net		1
+operating	1
+enron		1
+reading		1
+happy		1
+chief		1
+discussed	1
+works		1
+llc		1
+com		1
+plane		1

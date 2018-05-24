@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+stacey		2
+white		2
+cn		2
+stacy		1
+name		1
+exact		1
+recipients	1
+system		1
+filename	1
+na		1
+see		1
+georgia		1
+pacific		1
+swhite		1
+transactions	1
+enron		1
+ou		1
+pstwhat		1

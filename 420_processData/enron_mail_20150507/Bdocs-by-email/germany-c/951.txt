@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+pipes		1
+contracts	1
+transport	1
+now		1
+need		1
+pipelines	1
+rita		1
+firm		1
+remember	1

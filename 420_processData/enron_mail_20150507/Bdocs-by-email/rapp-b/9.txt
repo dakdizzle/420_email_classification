@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+id		1
+goodnight	1
+logon		1
+password	1
+poo		1

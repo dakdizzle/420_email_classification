@@ -1,0 +1,26 @@
+NumWords	41
+NumTerms	23
+
+cal		6
+day		4
+mmbtu		4
+john		2
+ng		2
+oil		2
+spec		2
+hedge		2
+pwr		2
+book		2
+z		1
+gascal		1
+cand		1
+nymex		1
+trade		1
+confirm		1
+lavorato	1
+please		1
+zufferli	1
+prcand		1
+receiptjohn	1
+buys		1
+pr		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+shortly		1
+hey		1
+talk		1
+maybe		1
+sounds		1
+later		1
+tom		1

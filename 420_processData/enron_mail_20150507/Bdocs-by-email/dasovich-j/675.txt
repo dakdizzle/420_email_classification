@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+support		2
+file		2
+mike		2
+necessary	2
+ll		2
+word		1
+day		1
+promptly	1
+contact		1
+whether		1
+socalgas	1
+filing		1
+firm		1
+prepared	1
+work		1
+need		1
+adminstrative	1
+charge		1
+don		1
+costs		1

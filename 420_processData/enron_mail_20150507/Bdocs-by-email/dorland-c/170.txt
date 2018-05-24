@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+brother		1
+convened	1
+jury		1
+call		1

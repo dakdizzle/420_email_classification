@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+long		1
+nice		1
+hear		1
+fingers		1
+many		1
+up		1
+well		1
+glad		1
+weekend		1
+went		1
+holding		1

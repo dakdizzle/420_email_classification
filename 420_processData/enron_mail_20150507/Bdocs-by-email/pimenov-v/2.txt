@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+luche		1
+mi		1
+tvoy		1
+rasstraivaisia	1
+zaets		1
+bivaet		1
+ne		1
+liubiashiy	1
+kupim		1
+lapka		1
+novoe		1
+eshe		1
+tebe		1
+eto		1

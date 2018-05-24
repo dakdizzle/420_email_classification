@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+paso		2
+el		2
+word		1
+reply		1
+nancy		1
+today		1
+due		1
+file		1
+comments	1
+shipper		1
+thankskh	1

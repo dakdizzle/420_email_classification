@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+open		1
+marie		1
+thanks		1

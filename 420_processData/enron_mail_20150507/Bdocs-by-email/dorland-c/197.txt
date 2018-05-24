@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+sent		1
+received	1
+wednesday	1
+chirs		1
+wanted		1
+package		1
+dorland		1
+confirm		1

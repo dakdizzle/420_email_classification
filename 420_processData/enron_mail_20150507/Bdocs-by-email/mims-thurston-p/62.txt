@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+discuss		1
+please		1
+call		1

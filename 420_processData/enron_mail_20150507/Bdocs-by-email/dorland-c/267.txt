@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+show		1
+weekend		1
+stewart		1
+martha		1
+think		1
+wtn		1

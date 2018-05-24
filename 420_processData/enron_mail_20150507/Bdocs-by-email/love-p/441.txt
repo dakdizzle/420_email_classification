@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+group		1
+pl		1
+whole		1
+come		1
+invited		1
+want		1
+fyi		1

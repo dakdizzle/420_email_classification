@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+palm		2
+sitting		1
+up		1
+hooked		1
+cradle		1
+desk		1
+computer	1
+call		1

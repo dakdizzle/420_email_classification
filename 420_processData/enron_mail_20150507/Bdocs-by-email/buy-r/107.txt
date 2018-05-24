@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+point		1
+discussion	1
+rick		1
+discussed	1
+more		1
+level		1
+million		1
+same		1
+whalley		1
+lots		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+mack		1
+hey		1
+stacy		1
+eaten		1
+lunch		1

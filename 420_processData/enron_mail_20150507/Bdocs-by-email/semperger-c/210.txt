@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+good		1
+looking		1
+horrible	1
+poolhow		1
+bux		1
+damn		1

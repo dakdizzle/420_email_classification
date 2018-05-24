@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+rick		1
+town		1
+attend		1
+billy		1

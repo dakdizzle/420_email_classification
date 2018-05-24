@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+down		1
+moving		1
+john		1
+talk		1
+now		1
+guess		1
+told		1
+chris		1
+mckay		1
+here		1
+keith		1

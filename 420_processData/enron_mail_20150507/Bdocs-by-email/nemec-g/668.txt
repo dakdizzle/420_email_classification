@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+gnemec		2
+cn		2
+pstattached	1
+redlined	1
+know		1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+nemec		1
+questions	1
+loi		1
+ou		1
+comments	1
+gerald		1

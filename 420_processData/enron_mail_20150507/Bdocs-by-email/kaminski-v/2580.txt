@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+morning		1
+vince		1
+exactly		1
+zimin		1
+sean		1
+gave		1
+advice		1

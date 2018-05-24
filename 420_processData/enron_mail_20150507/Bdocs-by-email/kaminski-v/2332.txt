@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+vkamins		2
+cn		2
+recipients	1
+filename	1
+na		1
+privileged	1
+pstbob		1
+vince		1
+non		1
+enron		1
+ou		1
+fyivince	1
+kaminski	1

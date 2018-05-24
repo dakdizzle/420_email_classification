@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+wondering	2
+mainly		1
+now		1
+matt		1
+manager		1
+smith		1

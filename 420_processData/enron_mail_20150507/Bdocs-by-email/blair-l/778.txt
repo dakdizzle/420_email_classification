@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lynn		1
+status		1
+info		1
+information	1
+please		1
+know		1
+update		1
+appreciate	1
+help		1
+november	1
+gary		1
+thanks		1

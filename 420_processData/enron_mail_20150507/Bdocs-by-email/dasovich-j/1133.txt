@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+hey		1
+supporting	1
+man		1
+jeff		1
+best		1
+mean		1
+goes		1
+adoption	1
+ll		1

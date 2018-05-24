@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+plan		1
+power		1
+stacey		1
+information	1
+risk		1
+know		1
+integration	1
+attached	1
+find		1
+management	1
+consolidated	1
+expanded	1
+thanks		1
+please		1
+need		1

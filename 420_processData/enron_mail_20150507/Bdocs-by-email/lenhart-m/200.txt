@@ -1,0 +1,27 @@
+NumWords	32
+NumTerms	24
+
+ect		3
+mpg		3
+hou		2
+enron		2
+lenhart		2
+matthew		2
+funny		1
+pm		1
+beach		1
+mpeg		1
+heck		1
+ken		1
+branded		1
+diamond		1
+communications	1
+daniel		1
+bike		1
+boat		1
+forwarded	1
+pro		1
+amto		1
+shulklapper	1
+subject		1
+enronxgatecc	1

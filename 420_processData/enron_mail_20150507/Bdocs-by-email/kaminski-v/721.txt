@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+vince		2
+littonmark	1
+chilkinarobert	1
+filename	1
+vkamins		1
+westmorelandgrade	1
+guadettejoseph	1
+elena		1
+jetttodd	1
+helmskenneth	1
+team		1
+another		1
+kaminskix	1
+pstpam		1
+kaminski	1

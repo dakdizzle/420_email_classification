@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+crazy		1
+sooooooo	1
+trading		1
+call		1
+ll		1

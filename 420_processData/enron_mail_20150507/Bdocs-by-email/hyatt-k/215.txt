@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+es		1
+m		1
+quot		1
+know		1
+comparing	1
+yes		1
+week		1
+next		1
+thanks		1

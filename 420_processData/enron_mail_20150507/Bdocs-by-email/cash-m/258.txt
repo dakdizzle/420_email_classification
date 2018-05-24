@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+top		2
+group		1
+percent		1
+percentage	1
+michelle	1
+peer		1
+criteria	1
+remain		1
+thanks		1

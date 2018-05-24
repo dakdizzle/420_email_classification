@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+look		1
+want		1
+thought		1
+joe		1
+thanks		1

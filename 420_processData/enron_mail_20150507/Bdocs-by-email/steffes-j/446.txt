@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+cn		2
+jsteffe		2
+make		1
+pstagreed	1
+pls		1
+recipients	1
+filename	1
+na		1
+privileged	1
+jim		1
+understands	1
+steffes		1
+non		1
+enron		1
+james		1
+ou		1
+sure		1
+puct		1

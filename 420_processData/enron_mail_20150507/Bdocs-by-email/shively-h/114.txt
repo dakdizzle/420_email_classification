@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+front		1
+texas		1
+west		1
+financial	1
+central		1
+total		1
+mostly		1
+east		1

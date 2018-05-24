@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+greatly		1
+brokendown	1
+eb		1
+wolfetrading	1
+information	1
+jason		1
+houston		1
+appreciate	1
+month		1
+same		1
+analystenron	1
+thanks		1
+america		1
+jim		1
+mailing		1
+possible	1
+box		1
+north		1
+epo		1
+tx		1
+address		1
+receive		1

@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+papuc		2
+others		1
+therefore	1
+gas		1
+assessment	1
+jim		1
+sales		1
+suing		1
+argue		1
+rick		1
+utility		1
+going		1
+charge		1
+assessed	1
+dispute		1

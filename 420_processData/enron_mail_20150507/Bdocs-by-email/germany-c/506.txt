@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+make		1
+starting	1
+copy		1
+payment		1
+magaret		1
+tennessee	1
+rita		1
+point		1
+wynne		1
+use		1
+dhont		1
+sure		1
+ruth		1

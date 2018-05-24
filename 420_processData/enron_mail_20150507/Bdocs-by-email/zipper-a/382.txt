@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+heard		1
+friday		1
+late		1

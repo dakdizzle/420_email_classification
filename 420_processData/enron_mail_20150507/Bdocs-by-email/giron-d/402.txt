@@ -1,0 +1,26 @@
+NumWords	54
+NumTerms	23
+
+cn		12
+recipients	6
+na		6
+enron		6
+ou		6
+plove		1
+bruce		1
+greg		1
+scott		1
+bmills		1
+palmer		1
+kam		1
+phillip		1
+jeffrey		1
+kkeiser		1
+gcouch		1
+gossett		1
+couch		1
+jgosset		1
+spalmer		1
+keiser		1
+mills		1
+love		1

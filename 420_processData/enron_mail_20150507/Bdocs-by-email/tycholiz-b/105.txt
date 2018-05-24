@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+starts		1
+time		1
+unday		1
+tell		1
+want		1
+race		1
+tickets		1
+bt		1

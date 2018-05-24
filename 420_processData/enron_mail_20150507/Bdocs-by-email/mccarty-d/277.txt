@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+party		1
+well		1
+know		1
+cancelled	1
+cindy		1
+stan		1
+whether		1
+response	1
+field		1
+dan		1
+christmas	1
+enron		1
+official	1

@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+problems	1
+make		1
+power		1
+thank		1
+tim		1
+west		1
+phillip		1
+password	1
+site		1
+accessing	1
+please		1
+active		1
+mike		1
+sure		1
+having		1
+grigsby		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+between		1
+kh		1
+anytime		1
+tues		1
+wed		1
+works		1
+otherwise	1

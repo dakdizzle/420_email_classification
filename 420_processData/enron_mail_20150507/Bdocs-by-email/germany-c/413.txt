@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+park		1
+showing		1
+loans		1
+statments	1
+balance		1
+invoices	1
+don		1
+think		1

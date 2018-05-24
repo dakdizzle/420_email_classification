@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+plus		1
+employees	1
+bulk		1
+used		1
+try		1
+ones		1
+hospitality	1
+d		1
+tickets		1
+deb		1
+through		1

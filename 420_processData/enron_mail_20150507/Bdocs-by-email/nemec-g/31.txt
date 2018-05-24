@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+gnemec		2
+cn		2
+latest		1
+pstattached	1
+transaction	1
+recipients	1
+split		1
+filename	1
+na		1
+privileged	1
+two		1
+non		1
+enron		1
+agreements	1
+nemec		1
+ou		1
+documents	1
+separate	1
+agreement	1
+gerald		1

@@ -1,0 +1,26 @@
+NumWords	42
+NumTerms	23
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+steve		1
+fyi		1
+kathleen	1
+tom		1
+sullivan	1
+ksulliva	1
+call		1
+jim		1
+montovano	1
+jeff		1
+snovose		1
+novosel		1
+sarah		1
+questions	1
+hoatson		1
+more		1
+smontova	1
+thoatson	1

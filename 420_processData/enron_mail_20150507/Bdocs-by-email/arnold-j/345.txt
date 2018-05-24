@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+dutchesses	1
+those		1
+dutch		1

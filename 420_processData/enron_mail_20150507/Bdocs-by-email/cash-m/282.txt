@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+cn		2
+brian		1
+mediation	1
+schaffer	1
+austin		1
+recipients	1
+na		1
+out		1
+bschaffe	1
+office		1
+enron		1
+michelle	1
+ou		1
+attend		1
+ll		1

@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+msmith		2
+cn		2
+recipients	1
+filename	1
+na		1
+looks		1
+pstlindon	1
+thanks		1
+privileged	1
+done		1
+list		1
+non		1
+enron		1
+matt		1
+ou		1
+need		1
+smith		1
+mat		1
+think		1
+add		1

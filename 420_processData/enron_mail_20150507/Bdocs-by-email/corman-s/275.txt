@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+fri		1
+messages	1
+austin		1
+blackberry	1
+sorry		1
+late		1
+someone		1
+pull		1
+morning		1
+come		1
+volumes		1
+sat		1
+didn		1
+ll		1

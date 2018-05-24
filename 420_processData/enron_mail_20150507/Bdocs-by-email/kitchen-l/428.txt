@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+included	1
+originally	1
+duran		1
+removed		1

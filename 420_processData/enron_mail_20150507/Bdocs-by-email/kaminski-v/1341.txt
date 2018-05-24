@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lotof		1
+vince		1
+good		1
+inspire		1
+interest	1
+sure		1
+luck		1
+yuji		1
+presentation	1

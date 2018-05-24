@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+maureen		1
+vince		1
+office		1
+come		1
+ask		1
+plans		1
+anita		1
+call		1

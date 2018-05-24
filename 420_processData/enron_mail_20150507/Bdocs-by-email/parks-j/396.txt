@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sale		1
+mind		1
+never		1

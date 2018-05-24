@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+galeria		1
+dobrow		1
+pl		1
+http		1
+www		1
+gif		1
+ru		1
+images		1
+polska		1

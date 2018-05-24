@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+way		1
+open		1
+best		1
+positions	1
+obligations	1
+february	1
+month		1
+see		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+celeste		1
+weather		1
+marie		1
+isda		1
+use		1
+deal		1
+confirm		1

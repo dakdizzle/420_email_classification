@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+announcement	1
+heard		1
+socal		1
+workshops	1
+abandoning	1
+holding		1
+announced	1
+ofos		1
+soon		1
+windows		1
+jeff		1
+best		1
+work		1
+haven		1
+ll		1

@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+ddavis		2
+cn		2
+dana		1
+www		1
+recipients	1
+psthttp		1
+filename	1
+na		1
+privileged	1
+shoreshimministries	1
+non		1
+davis		1
+enron		1
+ou		1
+org		1

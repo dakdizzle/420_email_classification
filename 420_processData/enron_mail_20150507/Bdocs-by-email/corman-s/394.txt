@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+cn		2
+scorman		2
+officially	1
+computers	1
+make		1
+abandoned	1
+bid		1
+flat		1
+recipients	1
+screens		1
+corman		1
+filename	1
+na		1
+privileged	1
+court		1
+bankruptcy	1
+non		1
+enron		1
+equipment	1
+pstdid		1
+ou		1
+ets		1
+shelley		1

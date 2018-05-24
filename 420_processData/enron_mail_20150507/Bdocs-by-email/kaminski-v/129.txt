@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+username	2
+password	2
+trial		1
+login		1
+net		1
+vkaminski	1
+please		1
+thank		1
+registering	1
+use		1
+system		1
+fincad		1

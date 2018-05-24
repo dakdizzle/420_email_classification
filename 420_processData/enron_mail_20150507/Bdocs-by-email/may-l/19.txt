@@ -1,0 +1,8 @@
+NumWords	10
+NumTerms	5
+
+omni		2
+omnipab		2
+omnitodos	2
+omnicalendarentries	2
+omninotes	2

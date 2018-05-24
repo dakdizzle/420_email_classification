@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+greg		1
+invite		1
+enron		1
+please		1
+steve		1
+lewis		1
+schwarzbach	1
+recipients	1
+ou		1
+glewis		1
+na		1

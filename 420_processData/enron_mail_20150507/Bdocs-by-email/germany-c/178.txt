@@ -1,0 +1,18 @@
+NumWords	19
+NumTerms	15
+
+items		3
+need		3
+report		1
+desk		1
+invoices	1
+see		1
+highlight	1
+actually	1
+out		1
+put		1
+many		1
+go		1
+tell		1
+still		1
+think		1

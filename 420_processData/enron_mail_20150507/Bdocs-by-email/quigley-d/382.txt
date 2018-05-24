@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+hear		1
+dq		1
+good		1
+drive		1
+comwill		1
+glad		1
+yahoo		1
+relpy		1
+later		1
+quigley		1
+dutch		1

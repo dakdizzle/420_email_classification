@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+obviously	1
+until		1
+michelle	1
+govern		1
+week		1
+later		1
+priorities	1
+wait		1
+think		1
+thanks		1

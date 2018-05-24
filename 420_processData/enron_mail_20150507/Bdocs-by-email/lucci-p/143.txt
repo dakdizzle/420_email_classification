@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+knows		1
+moving		1
+information	1
+construction	1
+know		1
+working		1
+friend		1
+paid		1
+houston		1
+piece		1
+due		1
+standing	1
+getting		1
+out		1
+go		1
+weekend		1
+jp		1
+waiting		1
+laying		1
+doing		1
+process		1
+don		1
+next		1
+over		1

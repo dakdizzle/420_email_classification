@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+done		1
+back		1
+already		1
+thanks		1

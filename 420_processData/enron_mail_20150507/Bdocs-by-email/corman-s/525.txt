@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+anything	1
+heard		1
+ok		1
+clarifications	1
+back		1
+everyone	1
+don		1
+never		1

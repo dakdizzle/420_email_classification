@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+paycheck	1
+scott		1
+deductions	1
+information	1
+help		1
+thanks		1

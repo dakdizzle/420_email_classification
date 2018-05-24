@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+very		2
+open		1
+situation	1
+up		1
+company		1
+looking		1
+juvenile	1
+leave		1
+unprofessional	1
+unhappy		1
+thanks		1
+doesnt		1
+something	1
+internally	1
+jmf		1
+checking	1
+atmosphere	1
+here		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+supervisors	1
+much		1
+god		1
+pushed		1
+work		1
+lot		1

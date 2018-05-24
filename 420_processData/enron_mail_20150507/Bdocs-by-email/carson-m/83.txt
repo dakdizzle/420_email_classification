@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+liked		1
+great		1
+tity		1
+mariny		1
+one		1
+mc		1
+especially	1

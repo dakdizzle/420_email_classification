@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+downloaded	1
+sparky		1
+thankks		1
+fine		1
+st		1

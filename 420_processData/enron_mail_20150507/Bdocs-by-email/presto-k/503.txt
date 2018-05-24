@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+less		1
+power		1
+yr		1
+mid		1
+west		1
+bring		1
+reviews		1
+advantages	1
+east		1

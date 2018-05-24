@@ -1,0 +1,26 @@
+NumWords	30
+NumTerms	23
+
+sellers		3
+com		3
+eldon		2
+nancy		2
+mail		2
+little		1
+net		1
+phone		1
+left		1
+pacbell		1
+later		1
+hold		1
+direcpc		1
+robertmondavi	1
+tough		1
+jeff		1
+psellers	1
+going		1
+need		1
+prentice	1
+cameron		1
+perfect		1
+till		1

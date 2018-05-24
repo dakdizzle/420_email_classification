@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+meeting		2
+friday		2
+discuss		1
+respond		1
+know		1
+lost		1
+trying		1
+meet		1
+thanks		1
+ios		1
+message		1
+office		1
+please		1
+again		1
+rescheduled	1
+lindy		1

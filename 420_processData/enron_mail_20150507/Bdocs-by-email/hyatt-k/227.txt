@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+email		1
+lindberg	1
+steve		1
+lists		1
+pls		1
+leave		1
+watson		1
+thxkh		1
+elected		1
+kim		1
+delete		1
+lorraine	1
+enron		1
+harris		1

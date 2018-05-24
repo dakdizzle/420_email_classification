@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+blackberry	2
+net		1
+wireless	1
+handheld	1
+www		1
+hole		1
+weak		1
+sales		1
+point		1
+sent		1
+discussion	1
+real		1
+unlikely	1

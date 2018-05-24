@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+few		2
+week		2
+next		2
+job		1
+mentioned	1
+bonuses		1
+floor		1
+hard		1
+john		1
+george		1
+things		1
+etc		1
+asked		1
+hit		1
+high		1
+mainly		1
+layoffs		1
+egm		1
+spirits		1
+eim		1
+idea		1
+within		1
+weeks		1
+offers		1

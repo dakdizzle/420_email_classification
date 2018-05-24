@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+reconciliation	1
+forwarded	1
+up		1
+raj		1
+back		1
+shona		1
+need		1
+form		1
+here		1

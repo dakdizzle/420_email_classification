@@ -1,0 +1,20 @@
+NumWords	24
+NumTerms	17
+
+com		6
+aol		2
+enron		2
+situation	1
+day		1
+perspective	1
+lplatter	1
+miller		1
+current		1
+jeffrey		1
+tconl		1
+usg		1
+hondorama	1
+smith		1
+solid		1
+rfranksen	1
+jelvig		1

@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+set		2
+ds		1
+out		1
+way		1
+put		1
+point		1
+mail		1

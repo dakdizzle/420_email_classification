@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+descriptions	1
+send		1
+location	1
+anne		1
+nella		1
+houston		1
+koehler		1
+thanx		1
+chris		1
+file		1
+help		1
+peggycould	1

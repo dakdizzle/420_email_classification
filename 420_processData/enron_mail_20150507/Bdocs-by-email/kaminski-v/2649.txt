@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+hear		1
+moving		1
+potential	1
+andshall	1
+up		1
+attention	1
+glad		1
+centers		1
+thispart	1
+contemplate	1
+academic	1
+candidates	1
+thanks		1
+stay		1
+vince		1
+many		1
+message		1
+gil		1
+academics	1
+touch		1
+bring		1
+country		1

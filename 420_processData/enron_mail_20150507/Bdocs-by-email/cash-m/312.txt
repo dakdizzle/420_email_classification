@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+blackberry	2
+sent		2
+info		1
+net		1
+caplan		1
+wireless	1
+handheld	1
+know		1
+www		1
+help		1
+shiuld		1
+instead		1
+katie		1
+barow		1
+michelle	1
+weil		1
+already		1
+cynthia		1
+think		1
+benefits	1

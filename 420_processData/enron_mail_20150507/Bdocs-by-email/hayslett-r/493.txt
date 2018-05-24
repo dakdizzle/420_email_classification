@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+trying		2
+encumbered	1
+cash		1
+term		1
+short		1
+trouble		1
+improve		1
+getting		1
+done		1
+inventory	1
+again		1
+already		1
+having		1
+think		1
+sold		1

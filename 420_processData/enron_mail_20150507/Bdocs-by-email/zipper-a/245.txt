@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+academy		1
+properties	1
+early		1
+gases		1
+einstein	1
+condensates	1
+studies		1
+condensation	1
+men		1
+alkali		1
+bose		1
+atoms		1
+fundamental	1
+recognized	1
+achievement	1
+dilute		1

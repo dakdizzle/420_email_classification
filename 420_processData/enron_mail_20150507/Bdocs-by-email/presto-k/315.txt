@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+call		2
+ed		1
+quot		1
+options		1
+monthly		1
+exact		1
+daily		1
+capacity	1
+point		1
+harry		1
+arora		1
+include		1
+delivery	1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+live		1
+fun		1
+party		1
+reception	1
+ipams		1
+yeah		1
+count		1
+night		1
+sounds		1

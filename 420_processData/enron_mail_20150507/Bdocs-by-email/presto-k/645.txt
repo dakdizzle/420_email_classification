@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+put		1
+return		1
+asset		1
+one		1
+stable		1
+fund		1
+highest		1
+pick		1

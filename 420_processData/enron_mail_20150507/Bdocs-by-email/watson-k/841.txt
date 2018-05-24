@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+kim		1
+talk		1
+vacation	1
+back		1
+tk		1
+need		1
+thanks		1

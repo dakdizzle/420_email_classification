@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+vince		1
+hope		1
+come		1
+back		1
+enjoy		1
+anne		1
+one		1
+piece		1
+trip		1
+thanks		1

@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+golf		2
+lessons		1
+ed		1
+well		1
+clubs		1
+ne		1
+help		1
+thanks		1
+handed		1
+message		1
+right		1
+jeff		1
+best		1
+one		1
+set		1
+ll		1

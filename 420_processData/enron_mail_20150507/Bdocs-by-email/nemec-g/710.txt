@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+gnemec		2
+cn		2
+pm		1
+gulf		1
+today		1
+faxed		1
+letter		1
+recipients	1
+approximately	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+signed		1
+nemec		1
+ou		1
+gerald		1
+pstchris	1

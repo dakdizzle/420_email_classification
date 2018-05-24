@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+pl		1
+id		1
+unarchive	1
+post		1
+thanks		1

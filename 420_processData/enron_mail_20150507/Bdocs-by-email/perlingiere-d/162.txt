@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+email		1
+many		1
+paso		1
+name		1
+el		1
+speaker		1
+spoke		1
+unrelated	1
+lng		1
+provide		1
+thanks		1

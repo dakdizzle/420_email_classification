@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+paul		1
+appreciative	1
+attachment	1
+jim		1
+both		1
+assistance	1
+forwarding	1
+best		1
+jimi		1
+pursuant	1
+grateful	1
+very		1
+request		1

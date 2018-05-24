@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+party		1
+much		1
+buddy		1
+make		1
+hard		1
+bachelorette	1
+hopefully	1
+now		1
+austin		1
+hit		1
+drunk		1
+remember	1
+out		1
+really		1
+back		1
+night		1
+myself		1
+though		1
+pretty		1
+birthday	1
+ass		1
+didn		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+together	1
+put		1
+roger		1
+ask		1
+pg		1
+review		1
+web		1
+notes		1
+site		1

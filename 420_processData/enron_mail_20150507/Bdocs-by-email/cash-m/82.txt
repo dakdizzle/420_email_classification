@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+today		1
+michelle	1
+discussed	1
+earlier		1
+wait		1
+possibilities	1
+given		1

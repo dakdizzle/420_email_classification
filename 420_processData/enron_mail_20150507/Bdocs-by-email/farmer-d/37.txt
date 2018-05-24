@@ -1,0 +1,26 @@
+NumWords	29
+NumTerms	23
+
+volume		3
+deal		3
+good		2
+mirant		2
+know		1
+farmer		1
+spreadsheet	1
+ect		1
+shows		1
+daren		1
+olsen		1
+hou		1
+dmichael	1
+confirmed	1
+check		1
+enron		1
+please		1
+amto		1
+ectcc		1
+unify		1
+weekend		1
+subject		1
+mike		1

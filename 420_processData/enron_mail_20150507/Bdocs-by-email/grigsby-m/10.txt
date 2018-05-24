@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+position	1
+index		1
+mike		1
+going		1
+file		1
+include		1
+thanks		1
+summary		1

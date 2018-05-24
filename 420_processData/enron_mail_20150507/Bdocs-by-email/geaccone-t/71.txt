@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+tgeacco		2
+cn		2
+make		1
+meeting		1
+time		1
+attending	1
+recipients	1
+handouts	1
+geaccone	1
+filename	1
+na		1
+thanks		1
+privileged	1
+via		1
+tracy		1
+non		1
+enron		1
+please		1
+telephone	1
+dodson		1
+pstkeith	1
+ahead		1
+ou		1
+sure		1

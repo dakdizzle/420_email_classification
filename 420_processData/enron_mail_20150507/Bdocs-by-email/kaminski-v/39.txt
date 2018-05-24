@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+gov		1
+house		1
+energycommerce	1
+http		1
+andersenmemos	1
+pdf		1
+pubs		1

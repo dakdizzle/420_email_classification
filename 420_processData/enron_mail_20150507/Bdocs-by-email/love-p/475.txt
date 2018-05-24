@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+company		2
+still		2
+here		2
+party		1
+destruction	1
+pl		1
+everything	1
+believed	1
+until		1
+know		1
+lost		1
+absolute	1
+guess		1
+really		1
+march		1
+people		1
+contract	1
+year		1
+town		1
+feb		1
+brutal		1
+pretty		1
+next		1
+through		1

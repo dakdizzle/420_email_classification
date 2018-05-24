@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+rains		1
+run		1
+pours		1
+succesful	1
+glad		1
+over		1
+getting		1

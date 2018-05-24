@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+enron		1
+insane		1
+today		1
+far		1
+traded		1
+thus		1
+million		1
+jesus		1
+shares		1

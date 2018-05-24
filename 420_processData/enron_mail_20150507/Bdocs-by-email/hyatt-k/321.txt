@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+stock		1
+usually		1
+time		1
+tax		1
+days		1
+ship		1
+one		1
+price		1

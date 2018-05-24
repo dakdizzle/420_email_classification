@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+animated	1
+mean		1
+cards		1

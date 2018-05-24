@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+between		1
+up		1
+difference	1
+piece		1
+pay		1
+makes		1
+additional	1
+told		1
+irreversibly	1
+shankman	1
+don		1
+committed	1
+tonight		1

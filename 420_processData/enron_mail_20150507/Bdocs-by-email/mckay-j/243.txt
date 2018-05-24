@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+cure		1
+up		1
+right		1
+back		1
+more		1
+pick		1
+even		1
+race		1
+package		1
+takin		1

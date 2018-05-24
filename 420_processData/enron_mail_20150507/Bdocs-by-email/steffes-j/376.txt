@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+group		1
+good		1
+talk		1
+pls		1
+bob		1
+sounds		1
+involvement	1
+frank		1

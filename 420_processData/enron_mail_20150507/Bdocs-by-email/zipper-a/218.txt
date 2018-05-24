@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+greats		1
+m		1
+position	1
+time		1
+one		1
+derek		1
+psyched		1
+jeter		1
+game		1

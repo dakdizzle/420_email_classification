@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+want		2
+up		1
+talk		1
+know		1
+susan		1
+involved	1
+christi		1
+call		1
+jim		1
+soon		1
+issues		1
+possible	1
+mess		1
+understand	1
+tomorrow	1

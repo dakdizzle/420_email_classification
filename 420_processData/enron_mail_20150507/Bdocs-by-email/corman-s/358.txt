@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+up		2
+gas		2
+day		1
+updated		1
+id		1
+attached	1
+keep		1
+supplies	1
+see		1
+looks		1
+getting		1
+nominations	1
+back		1
+fpl		1
+through		1

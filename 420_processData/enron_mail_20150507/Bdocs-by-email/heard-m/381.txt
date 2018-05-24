@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+frank		2
+mark		1
+sayre		1
+attached	1
+marie		1
+draft		1
+proposed	1
+call		1
+kimberly	1
+confirmation	1
+please		1
+questions	1
+changes		1
+show		1
+made		1
+taylor		1
+blacklined	1
+marked		1

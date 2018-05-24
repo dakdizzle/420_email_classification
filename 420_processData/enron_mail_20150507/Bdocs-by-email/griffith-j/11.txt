@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+discuss		1
+much		1
+email		1
+angie		1
+john		1
+ebay		1
+talk		1
+thank		1
+phone		1
+listed		1
+number		1
+leather		1
+please		1
+husband		1
+jacket		1
+vintagegarb	1
+griffith	1
+sincerely	1
+very		1
+hi		1

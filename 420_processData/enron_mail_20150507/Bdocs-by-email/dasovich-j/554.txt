@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+six		1
+deep		1

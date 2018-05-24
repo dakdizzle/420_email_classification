@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+things		2
+good		2
+pl		1
+up		1
+talk		1
+working		1
+glad		1
+ax		1
+sf		1
+bet		1
+soon		1
+hope		1
+message		1
+night		1
+waiting		1
+last		1
+big		1
+drop		1
+here		1

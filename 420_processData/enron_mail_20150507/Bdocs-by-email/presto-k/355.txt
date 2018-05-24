@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+meeting		1
+tj		1
+tommorow	1
+far		1
+christi		1
+se		1
+thanks		1
+confirm		1
+rto		1
+please		1
+leading		1
+works		1
+initiative	1

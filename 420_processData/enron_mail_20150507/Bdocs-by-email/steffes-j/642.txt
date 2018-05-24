@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+good		1
+best		1
+start		1
+harry		1
+idea		1

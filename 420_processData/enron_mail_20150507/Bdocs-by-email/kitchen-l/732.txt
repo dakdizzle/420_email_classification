@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+now		1
+desk		1
+left		1
+dates		1
+jaime		1
+back		1
+sign		1
+want		1
+confidentiality	1
+matt		1
+deposited	1
+before		1
+august		1
+agreement	1

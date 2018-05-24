@@ -1,0 +1,16 @@
+NumWords	17
+NumTerms	13
+
+derrick		2
+cn		2
+jr		2
+james		2
+pstyes		1
+jderric		1
+recipients	1
+filename	1
+na		1
+both		1
+enron		1
+questions	1
+ou		1

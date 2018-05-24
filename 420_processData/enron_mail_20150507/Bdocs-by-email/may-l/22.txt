@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+welcome		1
+thank		1
+work		1
+help		1

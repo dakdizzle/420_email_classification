@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+write		2
+cn		2
+grant		1
+power		1
+postlethwaite	1
+stacey		1
+risk		1
+john		1
+person		1
+recipients	1
+common		1
+na		1
+enron		1
+jpostle		1
+ou		1
+typically	1
+need		1
+capabilities	1
+access		1
+read		1

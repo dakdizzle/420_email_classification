@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+west		3
+power		2
+use		2
+code		2
+methodology	1
+fields		1
+up		1
+stacey		1
+know		1
+portfolio	1
+answer		1
+andrea		1
+same		1
+east		1
+setting		1
+andrew		1
+gets		1
+around		1
+please		1
+book		1
+using		1
+ll		1

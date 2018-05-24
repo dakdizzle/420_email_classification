@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+home		1
+good		1
+celldgiron	1
+now		1
+houston		1
+dg		1
+luck		1
+com		1
+rr		1

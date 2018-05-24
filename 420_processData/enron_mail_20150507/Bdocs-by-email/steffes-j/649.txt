@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+cn		2
+jsteffe		2
+chad		2
+between		1
+meeting		1
+recipients	1
+later		1
+filename	1
+na		1
+pstplease	1
+privileged	1
+jim		1
+steffes		1
+non		1
+enron		1
+myself		1
+james		1
+ou		1
+week		1
+coordinate	1

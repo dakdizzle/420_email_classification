@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+rsvp		1
+coming		1
+make		1
+reservation	1
+know		1
+eric		1
+one		1
+need		1
+last		1

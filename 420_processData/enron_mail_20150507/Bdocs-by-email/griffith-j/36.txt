@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+john		1
+interesting	1
+tested		1
+looks		1
+haven		1
+thanks		1

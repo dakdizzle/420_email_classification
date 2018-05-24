@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+battaglia	1
+group		1
+best		1
+tim		1
+work		1
+person		1
+sooner		1
+sorry		1
+head		1
+didn		1

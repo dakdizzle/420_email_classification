@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+covers		2
+up		2
+bed		2
+butt		1
+hanging		1
+well		1
+waking		1
+slept		1
+covered		1
+look		1
+neck		1
+kept		1
+tired		1
+looked		1
+middle		1
+c		1

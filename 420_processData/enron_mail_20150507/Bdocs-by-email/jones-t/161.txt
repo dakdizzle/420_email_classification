@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+critical	2
+monday		1
+out		1
+attorneys	1
+today		1
+til		1
+unless		1
+offsite		1
+wait		1

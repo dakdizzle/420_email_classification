@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+waltdisneyworld	1
+id		1
+disneyworld	1
+ticketrootindex	1
+http		1
+go		1
+riticketroot	1
+disney		1
+reservations	1
+tickets		1
+com		1

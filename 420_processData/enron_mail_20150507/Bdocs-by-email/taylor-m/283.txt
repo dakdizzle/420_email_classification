@@ -1,0 +1,24 @@
+NumWords	46
+NumTerms	21
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+tjones		1
+sbaile		1
+jones		1
+heard		1
+spanus		1
+fyi		1
+marie		1
+tana		1
+boyd		1
+susan		1
+bailey		1
+samantha	1
+sboyd		1
+stephanie	1
+panus		1
+mheard		1

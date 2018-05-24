@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+put		1
+binder		1
+please		1
+green		1
+print		1
+thanks		1

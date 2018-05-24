@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+premium		2
+call		2
+tomarrow	1
+day		1
+physical	1
+helpful		1
+know		1
+monthly		1
+money		1
+thanks		1
+fest		1
+anything	1
+cal		1
+kim		1
+hope		1
+delivered	1
+juan		1
+questions	1
+need		1
+balloon		1
+art		1
+san		1

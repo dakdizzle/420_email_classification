@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+com		3
+cameron		2
+scotty		1
+sellers		1
+evening		1
+net		1
+scottwl		1
+stanford	1
+jdasovic	1
+pacbell		1
+dasovich	1
+m		1
+enron		1
+psellers	1
+jeff		1
+uggh		1
+perfect		1
+hotmail		1
+think		1
+pp		1

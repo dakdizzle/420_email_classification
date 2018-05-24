@@ -1,0 +1,16 @@
+NumWords	26
+NumTerms	13
+
+net		4
+merlinm		4
+uswest		3
+scott		2
+pederleifkjeseth	2
+morrill		2
+ralee		2
+com		2
+rmi		1
+ellis		1
+grubb		1
+enron		1
+hotmail		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+champ		1
+felt		1
+sat		1

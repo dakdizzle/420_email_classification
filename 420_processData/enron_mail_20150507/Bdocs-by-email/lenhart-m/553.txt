@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+cbs		2
+http		1
+chat		1
+htmthis		1
+really		1
+good		1
+look		1
+girl		1
+pic		1
+photo		1
+isn		1
+bernstein	1
+sportsline	1
+think		1
+com		1

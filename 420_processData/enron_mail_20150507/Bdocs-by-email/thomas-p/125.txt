@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+taking		1
+space		1
+room		1
+worrried	1
+sharing		1
+want		1
+part		1
+yams		1
+confined	1
+think		1

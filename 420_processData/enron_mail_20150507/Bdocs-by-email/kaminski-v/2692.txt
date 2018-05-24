@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+group		1
+vince		1
+message		1
+paul		1
+larry		1
+profile		1
+fit		1
+thanks		1

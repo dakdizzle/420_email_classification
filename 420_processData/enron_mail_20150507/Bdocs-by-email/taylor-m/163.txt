@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+tax		3
+ena		2
+surprised	1
+results		1
+happens		1
+ok		1
+consequences	1
+understanding	1
+uk		1
+purposes	1
+ectric		1
+fix		1
+suggested	1
+people		1
+binding		1
+trader		1
+automatically	1
+assignment	1
+bad		1
+eol		1
+equivalent	1

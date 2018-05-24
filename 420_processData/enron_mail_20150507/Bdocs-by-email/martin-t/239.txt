@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+quarter		1
+marlin		1
+coming		1
+write		1
+osprey		1
+billion		1
+th		1
+tom		1
+looks		1

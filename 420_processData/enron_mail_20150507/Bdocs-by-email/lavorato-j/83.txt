@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+john		2
+group		1
+mlkjohn		1
+day		1
+kjeffrey	1
+luther		1
+martin		1
+ect		1
+lavorato	1
+call		1
+enroncc		1
+enron		1
+gossett		1
+come		1
+amto		1
+questions	1
+subject		1
+yes		1
+king		1
+need		1
+corp		1

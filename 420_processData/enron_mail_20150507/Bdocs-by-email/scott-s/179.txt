@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+flights		1
+end		1
+keep		1
+trying		1
+month		1
+airfareplanet	1
+lisaenron	1
+wrong		1
+out		1
+worth		1
+around		1
+signed		1
+available	1
+msngr		1
+address		1
+supposedly	1
+checking	1
+com		1

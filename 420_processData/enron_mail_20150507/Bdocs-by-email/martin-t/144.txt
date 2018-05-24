@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+home		1
+updates		1
+please		1
+msn		1
+weather		1
+weekend		1
+mike		1
+mail		1
+address		1
+include		1
+com		1
+tmartin		1

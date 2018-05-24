@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+cn		2
+mgrigsb		2
+mike		2
+pgt		1
+handling	1
+know		1
+jan		1
+recipients	1
+filename	1
+na		1
+malin		1
+privileged	1
+deliveries	1
+non		1
+enron		1
+pstare		1
+ou		1
+dec		1
+grigsby		1

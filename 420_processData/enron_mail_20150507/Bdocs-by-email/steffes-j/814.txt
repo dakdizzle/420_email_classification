@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+push		1
+hard		1
+language	1
+tariff		1
+draft		1
+janine		1
+d		1
+pretty		1

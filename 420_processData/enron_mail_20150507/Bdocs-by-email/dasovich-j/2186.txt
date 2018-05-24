@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+big		2
+vote		1
+nonetheless	1
+weather		1
+today		1
+houston		1
+meet		1
+apple		1
+push		1
+m		1
+issues		1
+back		1
+bloomberg	1
+going		1
+dealing		1
+green		1
+pretty		1
+ll		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+here		2
+products	1
+master		1
+conversation	1
+per		1
+draft		1
+corn		1
+bob		1
+hi		1

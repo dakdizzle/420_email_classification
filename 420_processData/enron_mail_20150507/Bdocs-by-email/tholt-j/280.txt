@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+list		1
+parties		1
+third		1

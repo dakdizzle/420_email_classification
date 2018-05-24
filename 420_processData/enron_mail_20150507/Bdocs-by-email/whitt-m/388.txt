@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+support		1
+count		1
+knew		1

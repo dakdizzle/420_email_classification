@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+moving		1
+time		1
+days		1
+thnxdq		1
+th		1
+trip		1
+life		1
+two		1
+great		1
+back		1
+tell		1
+forward		1
+work		1
+vegas		1
+doing		1

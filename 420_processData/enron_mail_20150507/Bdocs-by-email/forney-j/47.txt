@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+please		1
+attached	1
+jforney		1
+see		1

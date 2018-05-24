@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+home		1
+cell		1
+dgiron		1
+houston		1
+com		1
+rr		1

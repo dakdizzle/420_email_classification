@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+discuss		1
+forwarded	1
+vince		1
+theresa		1
+message		1
+project		1
+shall		1
+meet		1
+enronand	1
+executives	1
+number		1

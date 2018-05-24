@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+higher		2
+much		1
+wow		1
+different	1
+time		1
+immediate	1
+blowing		1
+experience	1
+office		1
+smoke		1
+nothing		1
+directors	1
+thought		1
+given		1
+mine		1

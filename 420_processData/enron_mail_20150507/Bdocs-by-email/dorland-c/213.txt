@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+ready		2
+full		1
+lights		1
+ignition	1
+pack		1
+captain		1
+extra		1
+light		1
+waiting		1
+coors		1
+fridge		1

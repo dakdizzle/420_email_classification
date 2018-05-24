@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+cgerman		2
+cn		2
+flow		1
+forgot		1
+recipients	1
+utos		1
+filename	1
+na		1
+chris		1
+privileged	1
+mention		1
+pststeve	1
+non		1
+enron		1
+volumes		1
+contract	1
+germany		1
+ou		1
+leidy		1
+using		1

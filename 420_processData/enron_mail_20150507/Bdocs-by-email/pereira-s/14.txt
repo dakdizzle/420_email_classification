@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+great		1
+pereira		1
+idea		1
+susan		1
+ana		1
+sounds		1
+thanks		1

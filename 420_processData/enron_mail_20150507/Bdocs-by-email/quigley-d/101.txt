@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+digit		1
+guide		1
+close		1
+day		1
+jerry		1
+timetata	1
+prep		1
+checked		1
+national	1
+nowdutchps	1
+willis		1
+houston		1
+trips		1
+even		1
+locales		1
+score		1
+done		1
+texas		1
+proper		1
+texasi		1
+double		1
+baytown		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+again		1
+date		1

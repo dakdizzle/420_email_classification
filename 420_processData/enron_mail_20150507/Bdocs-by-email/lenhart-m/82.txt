@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+sitting		1
+thinking	1
+send		1
+porch		1
+tealas		1
+number		1
+mine		1
+call		1
+didn		1

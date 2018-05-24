@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+festivities	1
+tonight		1
+cancel		1

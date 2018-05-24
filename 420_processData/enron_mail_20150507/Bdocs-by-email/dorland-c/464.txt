@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jackass		1
+lexus		1
+winter		1
+buy		1
+going		1
+sure		1
+wheels		1

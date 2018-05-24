@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+up		1
+hooked		1
+old		1
+break		1
+eh		1
+think		1
+girlfriend	1
+call		1
+over		1

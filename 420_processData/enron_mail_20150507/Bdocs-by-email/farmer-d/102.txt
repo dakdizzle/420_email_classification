@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+equipment	2
+order		1
+space		1
+eb		1
+george		1
+use		1
+d		1
+don		1
+brandee		1
+existing	1
+new		1
+next		1

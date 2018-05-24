@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+out		2
+morning		2
+didn		2
+pm		1
+meeting		1
+duty		1
+usuall		1
+now		1
+find		1
+picked		1
+summons		1
+sounds		1
+anything	1
+right		1
+truck		1
+sell		1
+business	1
+jury		1
+months		1
+new		1
+next		1

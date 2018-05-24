@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lynn		1
+results		1
+done		1
+larry		1
+please		1
+anaylsis	1
+comfortable	1
+work		1
+raetta		1
+ensure		1
+thanks		1
+randy		1

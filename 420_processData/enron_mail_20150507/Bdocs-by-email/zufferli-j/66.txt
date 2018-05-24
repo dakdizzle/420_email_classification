@@ -1,0 +1,20 @@
+NumWords	36
+NumTerms	17
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+kkitaga		1
+kyle		1
+peter		1
+milnthorp	1
+davies		1
+kitagawa	1
+derek		1
+rmilnth		1
+rob		1
+keohane		1
+ddavies		1
+pkeohan		1

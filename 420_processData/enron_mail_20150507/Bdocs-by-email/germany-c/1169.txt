@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+goodell		1
+demand		1
+please		1
+wonderfull	1
+contract	1
+tell		1
+person		1
+told		1
+mr		1
+charge		1
+world		1
+thanks		1

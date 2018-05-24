@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+info		1
+budget		1
+aobut		1
+asking		1
+bob		1
+tom		1
+think		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+info		1
+today		1
+want		1
+need		1
+reasons		1
+think		1
+prc		1

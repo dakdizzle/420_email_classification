@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+m		1
+yeah		1
+looking		1
+know		1
+now		1

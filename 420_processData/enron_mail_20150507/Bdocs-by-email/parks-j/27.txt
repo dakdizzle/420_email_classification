@@ -1,0 +1,27 @@
+NumWords	36
+NumTerms	24
+
+mail		5
+com		5
+fenner		2
+chet		2
+knipe		2
+hogan		2
+quot		1
+brian		1
+wollam		1
+bmc		1
+memories	1
+william		1
+found		1
+brianc		1
+es		1
+erwollam	1
+funniest	1
+msn		1
+constantine	1
+chad		1
+hotmail		1
+saltgrass	1
+anico		1
+erik		1

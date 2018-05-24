@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+answers		2
+draft		1
+see		1
+mad		1
+thanks		1
+team		1
+kinds		1
+questions	1
+michelle	1
+past		1
+types		1
+given		1
+think		1
+ryan		1

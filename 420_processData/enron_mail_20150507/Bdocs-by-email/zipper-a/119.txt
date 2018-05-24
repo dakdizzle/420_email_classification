@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+nm		1
+hrs		1
+total		1

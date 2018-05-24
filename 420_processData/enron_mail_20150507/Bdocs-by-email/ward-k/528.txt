@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+spreadsheet	2
+volumes		2
+shannon		2
+hear		1
+email		1
+terminated	1
+know		1
+files		1
+provide		1
+found		1
+megan		1
+expect		1
+thanks		1
+mara		1
+kim		1
+filled		1
+questions	1
+looked		1
+copied		1
+groenewald	1
+actual		1
+november	1
+add		1
+doesn		1

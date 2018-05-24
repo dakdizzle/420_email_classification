@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+fight		1
+npco		1
+thing		1
+hard		1
+solution	1
+see		1
+jim		1
+intelligence	1
+push		1
+ride		1
+sense		1
+best		1
+going		1
+don		1
+discussing	1
+think		1

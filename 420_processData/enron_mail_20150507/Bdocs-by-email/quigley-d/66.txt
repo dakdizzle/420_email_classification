@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+per		2
+deal		2
+day		1
+vc		1
+check		1
+please		1
+came		1
+month		1
+eol		1
+lots		1
+volume		1

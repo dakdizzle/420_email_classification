@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+tee		2
+starting	1
+time		1
+course		1
+steve		1
+stan		1
+filename	1
+see		1
+shorton		1
+box		1
+tomorrow	1
+old		1
+stanleyx	1
+told		1
+saturday	1
+horton		1
+play		1
+pstchris	1

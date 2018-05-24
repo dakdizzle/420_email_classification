@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+little		1
+taking		1
+early		1
+day		1
+travel		1
+vacation	1
+know		1
+leave		1
+tomorrow	1
+night		1
+don		1
+think		1
+prepare		1

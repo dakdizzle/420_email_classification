@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ut		1
+oh		1
+go		1
+sat		1
+one		1
+sure		1
+game		1
+sunday		1
+play		1

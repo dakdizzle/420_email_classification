@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+soon		1
+between		1
+possible	1
+heads		1
+desk		1
+arrange		1
+mtg		1

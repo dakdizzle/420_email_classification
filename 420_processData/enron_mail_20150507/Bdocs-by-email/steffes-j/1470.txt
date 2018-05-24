@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+cn		2
+jsteffe		2
+pstyes		1
+up		1
+helped		1
+www		1
+recipients	1
+filename	1
+na		1
+privileged	1
+jim		1
+steffes		1
+non		1
+enron		1
+one		1
+james		1
+ou		1
+smith		1
+set		1
+com		1

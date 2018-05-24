@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+together	1
+put		1
+send		1
+mhc		1
+yes		1
+paying		1
+amounts		1
+names		1
+ll		1

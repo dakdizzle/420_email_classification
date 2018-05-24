@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+officerenron	1
+fax		1
+americastel	1
+operating	1
+kitchenchief	1
+pass		1
+millerlouise	1
+don		1

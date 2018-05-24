@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+monday		2
+meeting		1
+lavo		1
+meetings	1
+richter		1
+way		1
+instead		1
+already		1
+separate	1
+attend		1
+indicated	1
+having		1
+weeks		1
+couple		1
+hang		1
+mtg		1
+didn		1

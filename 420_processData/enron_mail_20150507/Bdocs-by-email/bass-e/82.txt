@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+together	1
+place		1
+know		1
+saints		1
+trying		1
+interest	1
+tonight		1
+gauge		1

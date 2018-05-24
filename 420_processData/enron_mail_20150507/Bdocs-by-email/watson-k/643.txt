@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+lim		3
+currently	2
+dynegy		1
+bolks		1
+information	1
+utilize		1
+advise		1
+light		1
+someone		1
+desktop		1
+julie		1
+kim		1
+believe		1
+please		1
+sean		1
+changes		1
+utilizing	1
+nng		1
+coordinate	1
+access		1
+shop		1
+treat		1
+kay		1

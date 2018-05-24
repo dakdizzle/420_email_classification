@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+kids		1
+house		1
+pl		1
+invite		1
+bunch		1
+place		1
+headed		1
+sorry		1
+already		1
+someone		1
+thanks		1

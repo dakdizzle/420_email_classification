@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+case		1
+seems		1
+reply		1
+know		1
+help		1
+gcim		1
+thanks		1
+ve		1
+settlement	1
+something	1
+agree		1
+jeff		1
+best		1
+please		1
+beats		1
+nearly		1
+sure		1
+think		1

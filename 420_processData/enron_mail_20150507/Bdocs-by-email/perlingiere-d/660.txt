@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+email		1
+please		1
+attached	1
+resend		1
+gisb		1
+judy		1

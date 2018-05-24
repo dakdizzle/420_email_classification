@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+ready		1
+whenever	1

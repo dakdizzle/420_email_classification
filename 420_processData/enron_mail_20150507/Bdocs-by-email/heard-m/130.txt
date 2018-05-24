@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+want		2
+roeline		1
+send		1

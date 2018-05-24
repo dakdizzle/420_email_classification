@@ -1,0 +1,22 @@
+NumWords	24
+NumTerms	19
+
+larry		3
+na		2
+campbell	2
+enron		2
+pm		1
+thank		1
+zarin		1
+ees		1
+out		1
+forwarded	1
+look		1
+enroncc		1
+pmto		1
+best		1
+subject		1
+before		1
+thanksz		1
+give		1
+imam		1

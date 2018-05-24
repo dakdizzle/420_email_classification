@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+buddy		1
+beau		1
+invited		1
+prior		1
+tuesday		1

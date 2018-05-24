@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+curves		3
+history		2
+changed		1
+those		1
+publishing	1
+zhiyong		1
+attached	1
+future		1
+continue	1
+names		1
+take		1
+decided		1
+thankskam	1
+bring		1
+column		1
+additional	1
+ubs		1
+curve		1

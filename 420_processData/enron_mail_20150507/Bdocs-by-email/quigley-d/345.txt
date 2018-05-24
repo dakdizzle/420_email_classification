@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+gifts		1
+hear		1
+prayers		1
+send		1
+now		1
+sorry		1
+laterdq		1
+richard		1

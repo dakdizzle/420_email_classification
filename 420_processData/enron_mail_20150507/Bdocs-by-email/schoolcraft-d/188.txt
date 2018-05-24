@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ds		1
+dale		1
+afternoon	1
+call		1

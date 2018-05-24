@@ -1,0 +1,20 @@
+NumWords	27
+NumTerms	17
+
+access		6
+view		3
+employees	2
+database	2
+enron		2
+credit		1
+grant		1
+up		1
+legal		1
+nakesha		1
+help		1
+employee	1
+icon		1
+show		1
+edit		1
+already		1
+set		1

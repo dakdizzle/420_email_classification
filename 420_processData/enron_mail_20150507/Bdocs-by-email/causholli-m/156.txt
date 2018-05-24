@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+sirrine		1
+different	1
+risi		1
+attached	1
+karen		1
+jacobs		1
+capacity	1
+mill		1
+three		1
+ppi		1
+asian		1
+sources		1
+monika		1

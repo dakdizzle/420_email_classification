@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ds		1
+dannis		1
+mops		1
+need		1
+transitioning	1
+system		1
+needs		1
+bellard		1

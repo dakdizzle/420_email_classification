@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+down		1
+ok		1
+hope		1
+days		1
+july		1
+came		1
+english		1
+today		1
+talks		1
+june		1
+curves		1
+explain		1

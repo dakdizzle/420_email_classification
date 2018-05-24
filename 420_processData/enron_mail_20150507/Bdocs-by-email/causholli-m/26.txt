@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+consumption	3
+inventories	2
+higher		1
+those		1
+levels		1
+pricing		1
+deplete		1
+consumers	1
+rose		1
+hopefully	1
+continue	1
+terms		1
+month		1
+faster		1
+good		1
+several		1
+replace		1
+need		1
+monika		1
+months		1
+grow		1
+next		1
+over		1
+news		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+funny		1
+petty		1
+thanks		1
+damn		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+point		1
+jeff		1
+best		1
+recommend	1
+contact		1
+anyone		1
+entry		1
+thanks		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+send		1
+copy		1
+centana		1
+know		1
+sending		1
+draft		1
+forward		1
+someone		1
+gerald		1
+joe		1
+thanks		1
+proposal	1

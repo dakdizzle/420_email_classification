@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+remove		1
+list		1
+please		1
+thank		1

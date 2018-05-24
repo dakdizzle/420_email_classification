@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+make		1
+intend		1
+counter		1
+pg		1

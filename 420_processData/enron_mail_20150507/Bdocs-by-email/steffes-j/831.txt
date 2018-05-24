@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+cn		2
+jsteffe		2
+janel		1
+pstamr		1
+lists		1
+recipients	1
+filename	1
+na		1
+privileged	1
+jim		1
+steffes		1
+people		1
+non		1
+enron		1
+please		1
+james		1
+ou		1
+add		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+anything	1
+heard		1
+further		1
+received	1
+sara		1
+fyi		1
+csfb		1
+puts		1
+forwards	1

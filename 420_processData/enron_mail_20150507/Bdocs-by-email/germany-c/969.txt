@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+pig		1
+fried		1
+guinea		1
+taste		1
+chicken		1

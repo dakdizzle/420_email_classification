@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+email		1
+remove		1
+list		1
+distribution	1
+company		1
+please		1
+blocked		1
+access		1
+address		1
+website		1
+unable		1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+address		2
+parker		1
+ken		1
+comthanks	1
+preschedules	1
+kbparker	1
+e		1
+copied		1
+mail		1
+tecoenergy	1
+jmf		1
+needs		1
+laurel		1

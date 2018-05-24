@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+make		1
+wireless	1
+huge		1
+handheld	1
+mean		1
+blackberry	1
+unless		1
+sounds		1
+pull		1
+sent		1
+believe		1
+project		1
+teally		1
+move		1
+richard		1

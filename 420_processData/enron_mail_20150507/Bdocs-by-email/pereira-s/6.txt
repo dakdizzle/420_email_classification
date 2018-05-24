@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+something	1
+day		1
+less		1
+susan		1
+period		1
+over		1

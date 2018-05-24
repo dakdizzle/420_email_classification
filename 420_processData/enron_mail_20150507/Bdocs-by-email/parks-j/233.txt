@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+imbalance	2
+close		1
+rep		1
+keeping		1
+current		1
+lonstar		1
+thanks		1

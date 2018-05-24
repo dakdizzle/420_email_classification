@@ -1,0 +1,25 @@
+NumWords	36
+NumTerms	22
+
+sonat		4
+march		3
+m		3
+using		3
+tco		3
+value		2
+basis		2
+feb		2
+ferc		1
+pricing		1
+hub		1
+liquid		1
+henry		1
+dan		1
+offer		1
+differential	1
+aes		1
+inside		1
+provided	1
+financial	1
+nymx		1
+junek		1

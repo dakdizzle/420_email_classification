@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+monday		1
+out		1
+remainder	1
+plan		1
+office		1
+working		1
+fyi		1
+week		1
+lobby		1
+thankskh	1
+next		1

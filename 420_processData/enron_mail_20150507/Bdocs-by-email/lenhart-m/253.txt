@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+lenhart		2
+flights		1
+prices		1
+scott		1
+comx		1
+now		1
+filename	1
+saving		1
+around		1
+ellis		1
+psti		1
+mx		1
+grubb		1
+run		1
+morrill		1
+start		1
+origin		1
+going		1
+looked		1
+cost		1
+over		1
+cayman		1
+matthew		1

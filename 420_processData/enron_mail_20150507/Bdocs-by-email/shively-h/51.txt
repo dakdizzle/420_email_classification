@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+info		2
+gas		2
+fundamentalsjulie	1
+power		1
+gaskill		1
+leave		1
+material	1
+chris		1
+enehunter	1
+genkeep		1
+sensitive	1
+want		1
+excellent	1
+gomez		1
+mind		1
+fired		1
+fundamentalslloyd	1

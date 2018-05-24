@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+monday		2
+shall		2
+full		1
+pm		1
+assume		1
+up		1
+window		1
+christie	1
+try		1
+opens		1
+tom		1
+schedule	1
+call		1
+vince		1
+around		1
+office		1
+est		1
+work		1
+already		1

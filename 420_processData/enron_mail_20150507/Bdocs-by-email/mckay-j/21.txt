@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+help		2
+order		1
+greatly		1
+jeanie		1
+thank		1
+appreciated	1
+visa		1
+ginger		1
+offer		1
+stubs		1
+two		1
+slone		1
+pay		1
+jon		1
+work		1
+need		1
+last		1
+new		1
+informed	1

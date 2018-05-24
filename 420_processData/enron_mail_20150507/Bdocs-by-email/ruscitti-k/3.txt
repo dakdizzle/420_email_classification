@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+bout		2
+coming		1
+brother		1
+bruce		1
+yours		1
+everything	1
+wedding		1
+lisa		1
+friend		1
+plans		1
+kevin		1
+seen		1
+great		1
+easter		1
+lately		1
+haveyou		1
+mine		1

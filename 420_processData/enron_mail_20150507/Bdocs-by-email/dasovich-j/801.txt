@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+ll		2
+advance		1
+meeting		1
+well		1
+contact		1
+materials	1
+lydia		1

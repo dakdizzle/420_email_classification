@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+know		2
+good		1
+crashes		1
+ees		1
+pat		1
+thanks		1

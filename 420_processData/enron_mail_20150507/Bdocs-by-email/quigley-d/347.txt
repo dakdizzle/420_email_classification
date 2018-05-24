@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+trading		2
+xls		1
+global		1
+settles		1
+daily		1
+financial	1

@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+gas		2
+structuring	2
+ed		1
+group		1
+mcmichael	1
+plan		1
+floor		1
+near		1
+fred		1
+keep		1
+redone		1
+see		1
+help		1
+head		1
+room		1
+suggest		1
+check		1
+arnold		1
+need		1
+away		1
+big		1
+locating	1

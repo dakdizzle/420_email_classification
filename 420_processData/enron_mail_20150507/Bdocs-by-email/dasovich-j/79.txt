@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+yours		1
+ok		1
+hope		1
+jeff		1
+best		1
+ain		1
+kidding		1
+circumstances	1
+given		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+properties	1
+look		1
+antonio		1
+dallas		1
+san		1

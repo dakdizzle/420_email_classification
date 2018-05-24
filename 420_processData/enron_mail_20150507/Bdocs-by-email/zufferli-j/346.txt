@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+wondering	1
+forms		1
+sent		1
+tricia		1
+gave		1
+eligible	1
+agreement	1
+henry		1
+yesterday	1

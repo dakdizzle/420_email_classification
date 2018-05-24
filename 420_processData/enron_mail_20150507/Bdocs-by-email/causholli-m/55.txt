@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+margaret	2
+fleming		1
+hello		1
+driver		1
+help		1
+thanks		1
+lot		1
+actually	1
+forwarded	1
+husband		1
+messagge	1
+rhonda		1
+monika		1
+licence		1
+obtain		1

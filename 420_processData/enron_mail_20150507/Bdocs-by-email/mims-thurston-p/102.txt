@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+perry		1
+meeks		1
+self		1
+lost		1
+looks		1
+ton		1
+seen		1
+fanette		1
+girl		1
+weight		1
+again		1
+old		1
+jewel		1
+still		1
+here		1

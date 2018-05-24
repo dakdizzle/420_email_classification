@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+hello		1
+gladly		1
+fletch		1
+stop		1
+works		1
+sometime	1
+ll		1

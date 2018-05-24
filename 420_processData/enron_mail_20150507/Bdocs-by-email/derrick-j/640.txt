@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+cn		4
+mark		2
+recipients	2
+thank		1
+ask		1
+legal		1
+advise		1
+review		1
+attorney	1
+na		1
+evans		1
+eu		1
+jim		1
+mevans		1
+enron		1
+please		1
+forward		1
+ou		1
+below		1
+london		1
+request		1
+appropriate	1

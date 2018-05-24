@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+run		1
+want		1
+father		1
+treadmills	1
+squash		1
+tonight		1
+play		1

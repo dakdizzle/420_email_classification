@@ -1,0 +1,5 @@
+NumWords	3
+NumTerms	2
+
+fax		2
+janet		1

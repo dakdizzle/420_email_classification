@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+settings	2
+olk		1
+internet	1
+local		1
+sprintenron	1
+files		1
+mlokay		1
+documents	1
+temporary	1
+jpg		1

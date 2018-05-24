@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+carolyn		1
+card		1
+conversation	1
+per		1
+jeff		1
+received	1
+phone		1

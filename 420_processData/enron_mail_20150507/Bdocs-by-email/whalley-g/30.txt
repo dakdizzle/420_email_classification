@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+make		1
+liz		1
+folks		1
+talk		1
+jet		1
+thaat		1
+authorization	1
+call		1
+zero		1
+clear		1
+tell		1
+want		1
+need		1
+avaition	1
+concerned	1
+hours		1
+allocation	1
+fare		1
+cancel		1

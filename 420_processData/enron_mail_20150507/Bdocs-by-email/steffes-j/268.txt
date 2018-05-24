@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+moving		1
+kerry		1
+today		1
+forward		1
+janine		1
+translink	1
+talked		1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+file		2
+ed		1
+open		1
+resend		1
+appreciate	1
+pdf		1
+wordsand	1
+thanks		1
+concern		1
+docor		1
+vince		1
+sent		1
+message		1
+kind		1

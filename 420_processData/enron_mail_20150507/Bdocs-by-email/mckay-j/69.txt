@@ -1,0 +1,10 @@
+NumWords	10
+NumTerms	7
+
+year		4
+regards		1
+october		1
+jon		1
+start		1
+november	1
+date		1

@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+couldn		1
+pthomps		1
+enron		1
+thompson	1
+sally		1
+tell		1
+recipients	1
+ou		1
+logged		1
+na		1
+patti		1

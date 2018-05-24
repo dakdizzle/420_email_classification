@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+shortly		1
+panic		1
+ve		1
+soon		1
+jeff		1
+best		1
+back		1
+review		1
+hap		1

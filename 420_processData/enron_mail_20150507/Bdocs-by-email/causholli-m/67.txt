@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+cn		2
+enron		1
+thank		1
+recipients	1
+ou		1
+kanji		1
+na		1
+akanji		1
+ayesha		1

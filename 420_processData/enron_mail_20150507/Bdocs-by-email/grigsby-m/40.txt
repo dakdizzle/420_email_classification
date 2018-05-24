@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+participating	1
+lisk		1
+daniel		1

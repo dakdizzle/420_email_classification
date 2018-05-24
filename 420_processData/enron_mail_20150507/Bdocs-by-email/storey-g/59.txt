@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+bought		2
+juvinile	1
+rescue		1
+diabetes	1
+dog		1
+reduction	1
+payroll		1
+paid		1
+houston		1
+closing		1
+qqq		1
+way		1
+real		1
+enron		1
+foundation	1
+tibco		1
+taxes		1
+estate		1
+charties	1
+united		1
+sheppard	1
+charities	1
+german		1

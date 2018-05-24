@@ -1,0 +1,22 @@
+NumWords	28
+NumTerms	19
+
+sellers		3
+berkeley	2
+dasovich	2
+psellers	2
+jeff		2
+nancy		2
+prentice	2
+com		2
+net		1
+haas		1
+wouldn		1
+annie		1
+edu		1
+pacbell		1
+miss		1
+robertmondavi	1
+lil		1
+enron		1
+doing		1

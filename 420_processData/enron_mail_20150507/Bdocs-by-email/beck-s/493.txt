@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+effort		1
+sally		1
+know		1
+big		1
+thanks		1

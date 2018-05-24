@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+summer		2
+cn		2
+next		2
+ish		1
+coming		1
+between		1
+struggle	1
+ground		1
+gas		1
+price		1
+recipients	1
+na		1
+lot		1
+out		1
+enron		1
+forecast	1
+winter		1
+fraser		1
+ou		1
+bullish		1
+last		1
+week		1
+jennifer	1
+jfraser		1

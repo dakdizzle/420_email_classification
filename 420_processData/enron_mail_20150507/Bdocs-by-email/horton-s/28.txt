@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+et		1
+ok		1
+al		1
+name		1
+eottmtbe	1
+lp		1
+sounds		1
+better		1

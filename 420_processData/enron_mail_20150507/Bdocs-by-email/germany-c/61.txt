@@ -1,0 +1,11 @@
+NumWords	11
+NumTerms	8
+
+title		2
+steve		2
+jeanne		2
+facilitator	1
+adkins		1
+lead		1
+stonestreet	1
+manger		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+dc		1
+home		1
+right		1
+time		1
+talk		1
+checked		1
+now		1
+phone		1
+mail		1
+haven		1
+voice		1

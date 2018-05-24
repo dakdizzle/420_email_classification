@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+prices		2
+delivered	2
+bek		2
+europe		1
+pulp		1
+location	1
+vik		1
+risi		1
+price		1
+find		1
+paper		1
+markets		1
+industrial	1
+anything	1
+monika		1
+aske		1
+think		1
+fundamentals	1
+boston		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+sid		1
+out		1
+m		1
+western		1
+gas		1
+now		1
+before		1
+looked		1
+richardson	1
+duke		1
+checking	1

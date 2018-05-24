@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+group		1
+circulate	1
+please		1
+gas		1
+west		1
+orig		1
+bt		1
+thanks		1

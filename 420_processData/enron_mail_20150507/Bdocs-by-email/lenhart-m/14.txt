@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+good		3
+time		2
+venitian	1
+relief		1
+up		1
+load		1
+suite		1
+stay		1
+old		1
+going		1
+hookers		1
+stress		1
+fashioned	1
+rainman		1

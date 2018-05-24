@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+much		1
+stacey		1
+information	1
+well		1
+looks		1
+help		1
+thanks		1
+yesterday	1
+out		1
+hope		1
+office		1
+jeff		1
+received	1
+continued	1
+again		1
+called		1

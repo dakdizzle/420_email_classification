@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+descriptions	1
+tell		1
+find		1
+fasb		1
+thanks		1

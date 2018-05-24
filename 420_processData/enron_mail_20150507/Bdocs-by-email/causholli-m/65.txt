@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+pulp		1
+bek		1
+attached	1
+karen		1
+monika		1
+slides		1
+thanks		1
+presentation	1

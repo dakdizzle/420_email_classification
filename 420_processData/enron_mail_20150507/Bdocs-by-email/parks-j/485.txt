@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+today		1
+woman		1

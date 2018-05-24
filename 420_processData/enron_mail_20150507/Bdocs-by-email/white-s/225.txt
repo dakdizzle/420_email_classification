@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+stacey		1
+volumes		1
+yes		1
+bpa		1

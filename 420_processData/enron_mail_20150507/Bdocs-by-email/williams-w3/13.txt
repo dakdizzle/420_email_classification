@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+email		1
+write		1
+send		1
+williams	1
+filename	1
+transfer	1
+schedule	1
+regarding	1
+content		1
+encoding	1
+please		1
+changes		1
+origin		1
+bitx		1
+sure		1

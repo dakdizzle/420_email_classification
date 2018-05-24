@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+meeting		2
+eric		2
+discuss		1
+place		1
+steve		1
+today		1
+call		1
+mention		1
+happened	1
+possible	1
+calpine		1
+go		1
+want		1
+projects	1
+kindermorgan	1
+merging		1

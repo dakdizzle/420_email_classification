@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+cn		2
+greg		1
+presume		1
+louise		1
+recipients	1
+odonnell	1
+proposed	1
+na		1
+see		1
+look		1
+enron		1
+want		1
+ubsw		1
+ou		1
+gwhalle		1
+thought		1
+whalley		1
+website		1
+pat		1
+new		1
+com		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+morning		1
+kim		1
+asap		1
+paul		1
+accomplishments	1
+need		1

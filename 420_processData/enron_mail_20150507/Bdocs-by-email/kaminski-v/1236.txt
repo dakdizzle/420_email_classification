@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+summer		2
+very		2
+internship	1
+traci		1
+came		1
+isinterested	1
+visited		1
+personable	1
+person		1
+georgia		1
+take		1
+vince		1
+students	1
+thursday	1
+bright		1
+one		1
+indicated	1
+intern		1
+tech		1

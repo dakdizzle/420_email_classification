@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lynn		1
+rick		1
+mid		1
+review		1
+year		1
+jodie		1
+thanks		1
+here		1

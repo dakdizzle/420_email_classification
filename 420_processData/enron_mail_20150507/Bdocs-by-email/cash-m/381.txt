@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+working		1
+michelle	1
+issue		1
+week		1
+through		1

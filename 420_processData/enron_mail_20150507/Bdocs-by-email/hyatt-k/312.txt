@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+shopping	1
+care		1
+bob		1
+take		1
+ll		1
+thanks		1

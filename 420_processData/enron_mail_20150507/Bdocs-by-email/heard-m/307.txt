@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+worksheets	2
+assign		1
+credit		1
+copy		1
+legal		1
+marie		1
+now		1
+mails		1
+carol		1
+thanks		1
+turn		1
+forwarding	1
+please		1
+paralegals	1

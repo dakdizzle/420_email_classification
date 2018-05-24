@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+enron		1
+jrozycki	1
+recipients	1
+ou		1
+asking		1
+rozycki		1
+na		1
+joanne		1
+thanks		1

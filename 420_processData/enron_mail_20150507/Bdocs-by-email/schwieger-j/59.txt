@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+contracts	3
+settlement	1
+open		1
+position	1
+nymexp		1
+thursday	1
+short		1
+settles		1
+buy		1
+month		1
+nymex		1
+date		1

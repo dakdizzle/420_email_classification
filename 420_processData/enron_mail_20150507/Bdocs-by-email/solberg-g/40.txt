@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+pse		2
+crisp		1
+make		1
+huge		1
+geir		1
+district	1
+irrigation	1
+thanks		1
+wapa		1
+sure		1
+pain		1
+everybody	1
+supposedly	1
+agrees		1
+san		1

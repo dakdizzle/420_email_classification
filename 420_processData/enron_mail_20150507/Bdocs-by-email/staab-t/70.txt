@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+theresa		1
+staab		1
+gave		1
+lucci		1
+oakland		1
+bob		1
+week		1
+winner		1
+take		1
+ll		1

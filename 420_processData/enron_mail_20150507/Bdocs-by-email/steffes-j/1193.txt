@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+isos		1
+change		1
+contact		1
+amr		1
+material	1

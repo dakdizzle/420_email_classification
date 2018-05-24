@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+html		1
+petnet		1
+http		1
+dogs		1
+true		1
+www		1
+gonna		1
+au		1
+site		1
+com		1
+love		1

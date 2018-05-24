@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+done		1
+merced		1
+thsi		1
+going		1
+deal		1

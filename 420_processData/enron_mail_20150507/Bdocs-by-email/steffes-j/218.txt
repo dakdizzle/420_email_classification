@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+file		1
+new		1
+here		1

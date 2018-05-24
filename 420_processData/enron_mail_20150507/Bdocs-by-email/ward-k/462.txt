@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+thanks		2
+tomarrow	1
+much		1
+pricing		1
+send		1
+up		1
+talk		1
+calls		1
+system		1
+getting		1
+morning		1
+kim		1
+put		1
+document	1
+contract	1
+throught	1
+hands		1
+lawyers		1
+comments	1
+art		1

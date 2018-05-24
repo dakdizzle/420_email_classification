@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ap		1
+abcnews		1
+html		1
+http		1
+go		1
+www		1
+living		1
+wire		1
+com		1

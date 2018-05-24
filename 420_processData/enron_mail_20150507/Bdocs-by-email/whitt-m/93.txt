@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+really		1
+seems		1
+lower		1
+high		1

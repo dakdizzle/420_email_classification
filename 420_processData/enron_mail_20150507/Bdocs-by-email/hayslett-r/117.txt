@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+talk		1
+modified	1
+back		1
+sally		1
+ect		1
+deals		1
+need		1
+figure		1
+help		1

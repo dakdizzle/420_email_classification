@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+soon		1
+stop		1
+pain		1

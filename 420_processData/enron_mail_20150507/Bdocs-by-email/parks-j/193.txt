@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+bankrupt	1
+list		1
+know		1
+find		1
+companies	1

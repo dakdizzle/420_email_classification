@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+dance		1
+lap		1
+club		1
+want		1
+going		1
+meet		1
+strip		1

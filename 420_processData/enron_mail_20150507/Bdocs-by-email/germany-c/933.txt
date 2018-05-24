@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+chris		2
+cn		2
+germany		2
+pstthis		1
+worksheet	1
+frenchy		1
+cgerman		1
+recipients	1
+filename	1
+na		1
+beautiful	1
+transport	1
+enron		1
+uncle		1
+ou		1
+think		1

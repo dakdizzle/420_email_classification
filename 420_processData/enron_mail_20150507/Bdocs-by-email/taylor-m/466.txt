@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+look		1
+quick		1
+take		1

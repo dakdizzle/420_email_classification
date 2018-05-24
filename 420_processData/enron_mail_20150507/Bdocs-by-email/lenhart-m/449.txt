@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+mail		2
+send		1
+today		1
+night		1
+left		1
+last		1
+address		1
+voice		1

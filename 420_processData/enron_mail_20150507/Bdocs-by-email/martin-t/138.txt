@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+up		2
+time		2
+bored		1
+well		1
+ages		1
+organized	1
+keep		1
+activities	1
+someone		1
+hour		1
+tom		1
+such		1
+generally	1
+long		1
+done		1
+two		1
+bring		1
+before		1
+maybe		1
+lunch		1
+period		1
+think		1

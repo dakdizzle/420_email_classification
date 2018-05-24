@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+remind		1
+attend		1
+diary		1

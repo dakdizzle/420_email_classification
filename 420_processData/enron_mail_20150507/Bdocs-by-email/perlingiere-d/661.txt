@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+spread		1
+sheet		1
+please		1
+add		1

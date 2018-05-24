@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+home		1
+party		1
+definately	1
+tomorrow	1
+before		1
+golf		1
+tonight		1

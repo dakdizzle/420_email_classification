@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+jones		1
+ontalking	1
+plan		1
+interview	1
+evening		1
+jeremy		1
+thomas		1
+talked		1
+tartack		1
+both		1
+monte		1
+bring		1
+think		1
+hicks		1

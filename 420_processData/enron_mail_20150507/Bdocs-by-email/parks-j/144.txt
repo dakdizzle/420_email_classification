@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+hit		2
+monday		1
+further		1
+today		1
+definitely	1
+money		1
+requested	1
+out		1
+phil		1
+tomorrow	1
+sure		1
+jpmorgan	1
+amount		1
+wired		1
+receive		1
+actual		1

@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+hotel		2
+phone		2
+president	1
+dial		1
+mark		1
+park		1
+fax		1
+ok		1
+know		1
+taylorvice	1
+wholesale	1
+general		1
+m		1
+counselenron	1
+cell		1
+services	1
+office		1
+staying		1
+reach		1
+need		1
+called		1
+london		1
+st		1
+here		1

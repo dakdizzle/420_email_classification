@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+outlook		1
+ifr		1
+massively	1
+home		1
+congrats	1
+click		1
+rating		1
+work		1
+sure		1
+ad		1
+jumbled		1
+newsletter	1
+here		1
+ll		1

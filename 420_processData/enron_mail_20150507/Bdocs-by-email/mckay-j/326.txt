@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+regards		1
+meeting		1
+make		1
+run		1
+jon		1
+tomorrow	1
+want		1
+sure		1

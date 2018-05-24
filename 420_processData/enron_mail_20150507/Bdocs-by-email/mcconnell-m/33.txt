@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+productive	2
+mistakes	2
+hand		1
+little		1
+hear		1
+worried		1
+man		1
+anyone		1
+dominated	1
+stoops		1
+less		1
+faith		1
+fewer		1
+go		1
+year		1
+question	1
+hasn		1
+offense		1
+certainly	1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+blackberry	2
+net		1
+employees	1
+wireless	1
+handheld	1
+www		1
+see		1
+newco		1
+sections	1
+sent		1
+office		1
+want		1
+michelle	1
+add		1

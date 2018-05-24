@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+linepack	2
+need		2
+flow		1
+day		1
+enter		1
+paso		1
+once		1
+populate	1
+chris		1
+entry		1
+thanks		1
+call		1
+pipeline	1
+type		1
+manual		1
+el		1
+mat		1
+drn		1
+new		1
+think		1

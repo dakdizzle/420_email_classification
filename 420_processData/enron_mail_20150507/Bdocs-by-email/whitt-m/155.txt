@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+paso		1
+el		1
+contract	1
+need		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+enw		1
+together	1
+put		1
+tina		1
+list		1
+believe		1
+contact		1
+use		1
+need		1

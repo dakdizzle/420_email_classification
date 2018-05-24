@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+info		1
+meeting		1
+credit		1
+up		1
+try		1
+lot		1
+thanks		1
+something	1
+retail		1
+done		1
+rick		1
+effort		1
+update		1
+shawn		1
+everyone	1
+probably	1
+set		1
+ll		1

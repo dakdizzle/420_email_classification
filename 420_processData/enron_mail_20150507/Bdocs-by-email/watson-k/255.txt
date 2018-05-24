@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+thanks		2
+kim		2
+please		2
+discuss		1
+email		1
+plan		1
+wed		1
+find		1
+meet		1
+see		1
+kouri		1
+directory	1
+analysis	1
+sean		1
+forward		1
+below		1
+ps		1
+deal		1
+reason		1
+richard		1
+profitability	1

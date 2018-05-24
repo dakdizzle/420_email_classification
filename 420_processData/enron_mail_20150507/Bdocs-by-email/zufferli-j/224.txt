@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+greg		1
+duncan		1
+up		1
+john		1
+old		1
+set		1
+croasdale	1
+berry		1
+thanks		1
+seat		1

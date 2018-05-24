@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+together	1
+much		1
+again		1
+wait		1
+very		1
+love		1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+slide		2
+value		1
+time		1
+detail		1
+steve		1
+working		1
+aren		1
+draft		1
+review		1
+presentation	1
+market		1
+morning		1
+long		1
+m		1
+significant	1
+completed	1
+changes		1
+last		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+good		1
+hope		1
+words		1
+night		1
+phone		1
+last		1
+dayilydq	1
+thanks		1

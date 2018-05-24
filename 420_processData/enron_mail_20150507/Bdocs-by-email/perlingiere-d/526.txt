@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+status		1
+email		1
+sorry		1
+thanks		1
+long		1
+gty		1
+check		1
+tomorrow	1
+offices		1
+yes		1
+corp		1
+still		1
+execution	1
+debra		1

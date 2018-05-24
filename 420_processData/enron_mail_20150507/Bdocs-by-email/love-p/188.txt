@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+plove		1
+heard		1
+email		1
+send		1
+pl		1
+forgot		1
+talk		1
+houston		1
+sorry		1
+see		1
+pop		1
+anything	1
+home		1
+rid		1
+changes		1
+weekend		1
+auburn		1
+def		1
+coordinator	1
+com		1
+rr		1

@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+folks		2
+jane		1
+meeting		1
+make		1
+joyce		1
+detail		1
+understanding	1
+astray		1
+asked		1
+wanted		1
+revenue		1
+lead		1
+wave		1
+great		1
+contracts	1
+right		1
+length		1
+want		1
+more		1
+incorrect	1
+projects	1
+sure		1
+didn		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+cozumel		1
+travis		1
+count		1
+lc		1

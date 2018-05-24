@@ -1,0 +1,20 @@
+NumWords	36
+NumTerms	17
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+lorenz		1
+rballato	1
+russell		1
+ballato		1
+mlorenz		1
+jeff		1
+mcarson		1
+matt		1
+jking		1
+king		1
+mike		1
+carson		1

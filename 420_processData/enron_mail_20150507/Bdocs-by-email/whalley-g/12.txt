@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+open		3
+both		1
+power		1
+figured		1
+know		1
+go		1
+gas		1
+markets		1

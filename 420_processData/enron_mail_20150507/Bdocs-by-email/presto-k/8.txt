@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+mail		2
+addition	1
+key		1
+day		1
+per		1
+biscayne	1
+hotel		1
+messages	1
+reached		1
+leave		1
+once		1
+carlton		1
+cell		1
+ritz		1
+staying		1
+florida		1
+checking	1
+voice		1

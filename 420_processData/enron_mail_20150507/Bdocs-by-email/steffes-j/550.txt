@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cn		2
+jsteffe		2
+know		1
+recipients	1
+filename	1
+na		1
+privileged	1
+jim		1
+anything	1
+steffes		1
+good		1
+non		1
+enron		1
+sense		1
+james		1
+ou		1
+need		1
+pstmakes	1
+luck		1

@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+email		1
+send		1
+wrap		1
+peggy		1
+know		1
+working		1
+well		1
+report		1
+karen		1
+market		1
+morning		1
+out		1
+soon		1
+sent		1
+hope		1
+tissue		1
+finished	1
+want		1
+edit		1
+monika		1
+hi		1

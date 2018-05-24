@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+want		2
+mark		1
+accrual		1
+don		1
+market		1

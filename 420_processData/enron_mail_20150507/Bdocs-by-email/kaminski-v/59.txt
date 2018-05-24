@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+vince		1
+recommendation	1
+sign		1
+eric		1
+draft		1
+martin		1
+more		1
+prepare		1
+elaborate	1

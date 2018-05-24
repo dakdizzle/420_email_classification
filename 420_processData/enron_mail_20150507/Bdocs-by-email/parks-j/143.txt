@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+missed		1
+sorry		1

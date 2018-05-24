@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+until		2
+th		2
+november	2
+mistake		2
+seems		1
+fixed		1
+options		1
+causes		1
+form		1
+tom		1
+problem		1
+respect		1
+irma		1
+ago		1
+made		1
+waiting		1
+turned		1
+question	1
+called		1
+weeks		1
+six		1
+fact		1
+wait		1

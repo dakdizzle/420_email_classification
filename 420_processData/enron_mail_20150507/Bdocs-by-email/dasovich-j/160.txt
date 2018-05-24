@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+heard		1
+time		1
+enron		1
+jeff		1
+best		1
+quite		1
+tim		1
+know		1
+fyi		1
+still		1
+haven		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+anything	1
+kam		1
+need		1

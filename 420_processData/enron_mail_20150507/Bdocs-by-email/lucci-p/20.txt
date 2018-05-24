@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+email		2
+m		1
+larry		1
+back		1
+sind		1
+checking	1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+customer	1
+meeting		1
+until		1
+hour		1
+last		1

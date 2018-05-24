@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+finance		1
+seems		1
+talk		1
+norelevant	1
+background	1
+quantitative	1
+andno		1
+call		1
+thanks		1
+vince		1
+experience	1
+shall		1
+give		1

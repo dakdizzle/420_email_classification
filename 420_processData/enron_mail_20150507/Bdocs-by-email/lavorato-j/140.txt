@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+look		1
+few		1
+questions	1
+fine		1
+give		1
+call		1

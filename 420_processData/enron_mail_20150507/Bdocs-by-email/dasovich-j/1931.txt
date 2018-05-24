@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+discuss		1
+confidential	1
+highly		1
+share		1
+vacation	1
+anyone		1
+alan		1
+call		1
+good		1
+m		1
+hope		1
+jeff		1
+best		1
+please		1
+going		1

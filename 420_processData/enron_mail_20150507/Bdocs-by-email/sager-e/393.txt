@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+carolyn		1
+cgeorge		1
+enron		1
+george		1
+recipients	1
+ou		1
+sager		1
+na		1
+thankselizabeth	1

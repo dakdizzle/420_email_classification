@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+rsvp		1
+regency		1
+concert		1
+wed		1
+houston		1
+zippers		1
+hyatt		1

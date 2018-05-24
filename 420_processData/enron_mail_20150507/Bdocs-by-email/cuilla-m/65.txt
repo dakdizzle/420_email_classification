@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+little		1
+iberville	1
+party		1
+wouldn		1
+snooze		1
+guys		1
+service		1
+peasants	1
+sleep		1
+anyway		1
+room		1
+come		1
+kings		1
+ritz		1
+lose		1
+mind		1

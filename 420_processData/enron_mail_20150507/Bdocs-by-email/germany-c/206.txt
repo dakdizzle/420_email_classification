@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+ferc		1
+inside		1
+please		1

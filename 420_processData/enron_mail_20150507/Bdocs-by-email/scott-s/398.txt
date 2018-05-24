@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+wrong		1
+ve		1
+married		1
+scott		1
+try		1
+know		1
+unfortunately	1
+name		1
+want		1
+susan		1
+don		1

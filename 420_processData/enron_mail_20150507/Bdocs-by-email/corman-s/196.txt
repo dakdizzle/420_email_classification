@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+starting	1
+complete	1
+postings	1
+mops		1
+related		1
+provide		1
+times		1
+aug		1
+platform	1
+remove		1
+around		1
+please		1
+continued	1
+several		1
+toby		1
+set		1
+outage		1
+extentions	1

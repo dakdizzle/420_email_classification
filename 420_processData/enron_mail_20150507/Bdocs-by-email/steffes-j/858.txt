@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+both		1
+regular		1
+vicki		1
+gets		1
+make		1
+updates		1
+bills		1
+please		1
+sure		1
+jennifer	1
+thanks		1

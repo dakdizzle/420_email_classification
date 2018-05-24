@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+wednesday	2
+stanford	2
+fe		1
+early		1
+liz		1
+hotel		1
+prediction	1
+leave		1
+confirm		1
+santa		1
+morning		1
+stay		1
+vince		1
+tuesdaynight	1
+inn		1
+meetingon	1
+waiting		1
+still		1

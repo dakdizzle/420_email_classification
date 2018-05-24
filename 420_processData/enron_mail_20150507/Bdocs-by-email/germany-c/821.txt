@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+kirkpatrick	1
+sent		1
+department	1
+enron		1
+skirkpatrick	1
+legal		1
+shawn		1
+reliant		1
+thanks		1
+com		1

@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+chris		2
+cn		2
+germany		2
+cgerman		1
+recipients	1
+same		1
+filename	1
+na		1
+pstplease	1
+thanks		1
+kim		1
+enron		1
+ou		1
+access		1
+jeanne		1
+give		1

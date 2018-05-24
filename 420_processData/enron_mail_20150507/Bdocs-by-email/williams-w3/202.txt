@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+man		1
+yourself	1
+hat		1
+attending	1
+revise		1
+trip		1
+names		1
+schedule	1
+put		1
+bert		1
+please		1
+enjoy		1
+redistribute	1

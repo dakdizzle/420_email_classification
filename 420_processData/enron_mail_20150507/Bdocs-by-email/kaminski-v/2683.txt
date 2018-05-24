@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ca		1
+fax		1
+alto		1
+lytton		1
+phone		1
+spago		1
+business	1
+address		1
+ave		1
+palo		1

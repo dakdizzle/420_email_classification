@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+two		1
+one		1
+won		1
+need		1
+guess		1
+told		1
+town		1
+sure		1
+wasn		1

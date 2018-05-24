@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+jim		2
+respond		1
+please		1
+thank		1
+deem		1
+rw		1
+derrick		1
+appropriate	1

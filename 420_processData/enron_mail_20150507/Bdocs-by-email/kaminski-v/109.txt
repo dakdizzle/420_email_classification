@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+vince		2
+cn		2
+enron		2
+shall		2
+kaminski	2
+join		1
+glad		1
+psthill		1
+plans		1
+chat		1
+recipients	1
+january		1
+filename	1
+na		1
+vkamins		1
+vincent		1
+ou		1
+meetingand	1
+till		1
+st		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+contact		2
+co		1
+negotiations	1
+please		1
+draft		1
+forward		1
+steel		1
+thanks		1
+here		1

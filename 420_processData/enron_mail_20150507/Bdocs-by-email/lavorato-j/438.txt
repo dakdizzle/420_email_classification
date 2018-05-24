@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+dynegy		1
+thing		1
+idea		1
+call		1

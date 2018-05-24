@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+heard		1
+back		1
+today		1
+rate		1
+left		1
+though		1
+cut		1
+msg		1

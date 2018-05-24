@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+week		2
+bye		1
+list		1
+injury		1
+expected	1
+mason		1
+ike		1
+snaps		1
+take		1
+give		1

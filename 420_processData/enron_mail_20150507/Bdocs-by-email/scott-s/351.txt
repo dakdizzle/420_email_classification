@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+theresa		1
+hey		1
+volumes		1
+thermo		1
+going		1
+putting		1

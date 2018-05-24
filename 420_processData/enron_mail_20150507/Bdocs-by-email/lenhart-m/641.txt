@@ -1,0 +1,18 @@
+NumWords	21
+NumTerms	15
+
+going		3
+game		3
+up		2
+watch		2
+party		1
+know		1
+later		1
+call		1
+jill		1
+definately	1
+night		1
+last		1
+town		1
+sure		1
+give		1

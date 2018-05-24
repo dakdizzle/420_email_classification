@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+food		1
+down		1
+shoveling	1
+throat		1

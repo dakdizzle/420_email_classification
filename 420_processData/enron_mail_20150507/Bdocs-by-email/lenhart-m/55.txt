@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+much		1
+hear		1
+fun		1
+indication	1
+time		1
+talk		1
+now		1
+shit		1
+month		1
+lot		1
+out		1
+really		1
+something	1
+feel		1
+weekend		1
+recently	1
+vegas		1
+went		1
+took		1
+didn		1

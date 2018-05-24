@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+up		2
+higher		1
+dow		1
+stock		1
+now		1
+bought		1
+nasdaq		1
+chris		1
+exploding	1
+market		1

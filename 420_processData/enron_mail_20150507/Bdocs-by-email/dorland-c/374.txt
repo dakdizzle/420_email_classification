@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+over		2
+home		1
+power		1
+go		1
+austin		1
+watch		1
+going		1
+tonight		1
+movies		1

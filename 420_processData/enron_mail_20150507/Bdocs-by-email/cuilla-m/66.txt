@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+kept		2
+worth		1
+bmw		1
+brand		1
+instead		1
+eog		1
+right		1
+position	1
+whole		1
+now		1
+half		1
+new		1

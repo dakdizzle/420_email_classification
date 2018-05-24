@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+meeting		1
+send		1
+agree		1
+please		1
+before		1
+resume		1

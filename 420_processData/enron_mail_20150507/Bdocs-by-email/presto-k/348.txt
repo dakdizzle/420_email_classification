@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+room		1
+make		1
+please		1
+tj		1
+bigger		1
+need		1
+attend		1
+coordinate	1
+happen		1
+thanks		1

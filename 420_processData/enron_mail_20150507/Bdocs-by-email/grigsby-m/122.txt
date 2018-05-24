@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+please		2
+interested	1
+helps		1
+know		1
+parties		1
+desk		1
+forward		1
+review		1
+mike		1
+works		1
+tom		1
+thanks		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+brian		1
+know		1
+wanted		1
+responding	1

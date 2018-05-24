@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+reagrds		1
+email		1
+ben		1
+john		1
+below		1
+left		1
+called		1
+dutch		1
+call		1
+msg		1

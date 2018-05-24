@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+discuss		1
+confusion	1
+pm		1
+different	1
+further		1
+power		1
+jerry		1
+scenarioaltogether	1
+jforney		1
+sorry		1
+settlement	1
+explained	1
+oom		1
+explanation	1
+please		1
+disregard	1
+need		1
+called		1
+iso		1

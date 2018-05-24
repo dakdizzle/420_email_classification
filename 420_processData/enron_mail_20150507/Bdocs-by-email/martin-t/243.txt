@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+between		1
+ina		1
+time		1
+come		1
+eric		1
+apparently	1
+tom		1
+talked		1

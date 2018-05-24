@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+dwr		1
+jeff		1
+best		1
+folks		1
+october		1
+work		1
+nd		1
+meet		1

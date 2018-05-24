@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+agreed		2
+rate		2
+upon		2
+between		1
+economic	1
+runs		1
+everything	1
+up		1
+payment		1
+except		1
+true		1
+interest	1
+establised	1
+albany		1
+noted		1
+demand		1
+agree		1
+clear		1
+understand	1
+book		1
+llc		1
+new		1
+needs		1

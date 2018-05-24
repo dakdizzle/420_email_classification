@@ -1,0 +1,13 @@
+NumWords	14
+NumTerms	10
+
+newco		3
+marketing	2
+trading		2
+master		1
+stuff		1
+descriptions	1
+description	1
+contents	1
+chris		1
+file		1

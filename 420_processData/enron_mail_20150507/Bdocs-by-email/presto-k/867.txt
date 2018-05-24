@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+options		2
+updated		1
+know		1
+paine		1
+havilend	1
+service		1
+portfolio	1
+webber		1
+provide		1
+hoping		1
+entering	1
+julie		1
+talked		1
+tricky		1
+enron		1
+line		1
+keeping		1
+manager		1

@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+access		2
+tonight		2
+thankskk	1
+applications	1
+make		1
+risk		1
+supposed	1
+today		1
+out		1
+switch		1
+people		1
+list		1
+ubs		1
+need		1
+test		1
+stephanie	1
+don		1
+reports		1
+ll		1

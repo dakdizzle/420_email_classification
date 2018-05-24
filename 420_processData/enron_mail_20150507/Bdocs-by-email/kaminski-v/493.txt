@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+enron		1
+pep		1
+http		1
+italia		1
+com		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+tour		1
+starts		1
+before		1
+pick		1
+need		1
+round		1
+next		1

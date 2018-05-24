@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+list		1
+please		1
+made		1
+mike		1
+manager		1
+thanks		1
+mistake		1
+add		1

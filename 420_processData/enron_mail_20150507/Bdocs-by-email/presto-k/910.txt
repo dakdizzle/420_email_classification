@@ -1,0 +1,23 @@
+NumWords	28
+NumTerms	20
+
+value		3
+stock		2
+options		2
+restricted	2
+valued		2
+portfolio	2
+market		2
+option		1
+addition	1
+calculated	1
+grant		1
+ok		1
+overstates	1
+properly	1
+grossly		1
+basis		1
+upon		1
+underlying	1
+year		1
+based		1

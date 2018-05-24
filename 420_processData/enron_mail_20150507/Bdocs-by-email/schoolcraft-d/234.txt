@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+ds		1
+invite		1
+enron		1
+jbrockwe	1
+recipients	1
+ou		1
+attend		1
+na		1
+jennifer	1
+brockwell	1
+thanks		1

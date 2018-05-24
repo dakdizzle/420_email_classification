@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+setting		1
+vince		1
+interview	1
+up		1
+phone		1
+process		1
+joe		1

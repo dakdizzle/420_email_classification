@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+party		1
+tk		1
+lind		1
+note		1
+love		1
+here		1

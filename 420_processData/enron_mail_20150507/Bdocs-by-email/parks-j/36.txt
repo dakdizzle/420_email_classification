@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+com		5
+fenner		1
+wollam		1
+comso		1
+john		1
+chet		1
+bmc		1
+anyone		1
+hhw		1
+akoenig		1
+bisys		1
+brianc		1
+erwollam	1
+knipe		1
+msn		1
+going		1
+chambers	1
+law		1
+saltgrass	1
+hotmail		1
+erik		1

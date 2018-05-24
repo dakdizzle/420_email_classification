@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+please		1
+barney		1
+smith		1
+post		1
+efs		1

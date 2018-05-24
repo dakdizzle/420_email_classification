@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lynn		1
+looking		1
+forward		1
+test		1
+seeing		1
+tonight		1

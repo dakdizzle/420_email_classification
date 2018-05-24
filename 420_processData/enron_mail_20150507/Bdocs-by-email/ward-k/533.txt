@@ -1,0 +1,10 @@
+NumWords	9
+NumTerms	7
+
+cell		2
+work		2
+home		1
+homemark	1
+paul		1
+lucci		1
+whitt		1

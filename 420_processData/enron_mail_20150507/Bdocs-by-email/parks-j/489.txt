@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+texas		1
+services	1
+fifth		1
+tree		1
+streetkaty	1
+addressadams	1
+east		1
+here		1

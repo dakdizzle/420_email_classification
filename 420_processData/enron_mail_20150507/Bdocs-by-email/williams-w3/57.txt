@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+hear		1
+great		1
+man		1
+sorry		1
+last		1
+months		1
+couple		1

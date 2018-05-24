@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+know		1
+guys		1
+legal		1
+attached	1
+answer		1
+standing	1
+thanks		1
+anything	1
+kim		1
+sample		1
+jeff		1
+questions	1
+need		1
+agreement	1

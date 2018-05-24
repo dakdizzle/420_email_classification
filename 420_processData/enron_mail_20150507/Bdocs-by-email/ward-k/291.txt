@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+day		1
+good		1
+know		1
+find		1

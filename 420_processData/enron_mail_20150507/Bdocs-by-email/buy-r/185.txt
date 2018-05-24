@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+stuff		1
+rick		1
+hachen		1
+speak		1
+tribolet	1
+one		1
+rac		1
+critical	1
+coordinate	1
+sure		1
+here		1

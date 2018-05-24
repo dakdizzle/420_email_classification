@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+view		2
+jeff		2
+surprised	1
+day		1
+job		1
+up		1
+well		1
+left		1
+site		1
+thanks		1
+shocked		1
+good		1
+hope		1
+permission	1
+loves		1
+jay		1
+having		1
+set		1
+doing		1
+royed		1

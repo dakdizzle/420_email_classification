@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+night		3
+ll		2
+banff		1
+ok		1
+up		1
+friday		1
+johnny		1
+following	1
+school		1
+late		1
+site		1
+take		1
+easy		1
+back		1
+going		1
+town		1

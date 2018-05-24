@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+much		1
+down		1
+needing		1
+thank		1
+appreciated	1
+mange		1
+stack		1
+here		1

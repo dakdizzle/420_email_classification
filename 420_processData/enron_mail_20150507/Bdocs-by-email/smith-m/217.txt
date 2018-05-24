@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+one		2
+little		1
+place		1
+company		1
+now		1
+trying		1
+although	1
+planning	1
+m		1
+preserve	1
+right		1
+having		1
+iffy		1
+ll		1

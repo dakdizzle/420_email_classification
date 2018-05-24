@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+file		2
+first		1
+accidentally	1
+send		1
+message		1
+online		1
+attachement	1
+access		1
+deleted		1
+don		1
+elizabeth	1

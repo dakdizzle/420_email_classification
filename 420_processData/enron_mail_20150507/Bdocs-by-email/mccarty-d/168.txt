@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+care		1
+aol		1
+watertree	1
+drive		1
+take		1
+woodlands	1
+dan		1
+home		1
+cell		1
+dandjmccarty	1
+tx		1
+com		1
+mine		1
+here		1
+matthew		1

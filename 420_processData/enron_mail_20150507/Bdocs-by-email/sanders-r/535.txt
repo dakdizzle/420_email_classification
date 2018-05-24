@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+thanks		2
+tell		2
+monday		1
+much		1
+thing		1
+begin		1
+family		1
+up		1
+except		1
+help		1
+mortally	1
+ve		1
+house		1
+entire		1
+dead		1
+moved		1
+one		1
+wife		1
+making		1
+new		1
+wounded		1

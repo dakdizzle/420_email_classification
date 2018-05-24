@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+eei		2
+grant		1
+drive		1
+talk		1
+looking		1
+assuming	1
+sharino		1
+problem		1
+out		1
+soon		1
+colorado	1
+traveling	1
+downtown	1
+go		1
+happy		1
+forward		1
+rescheduling	1
+sager		1
+d		1
+lunch		1
+elizabeth	1
+hi		1

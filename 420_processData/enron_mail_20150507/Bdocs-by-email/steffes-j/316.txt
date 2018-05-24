@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+wednesday	1
+week		1
+oct		1
+next		1

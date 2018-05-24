@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+west		1
+dan		1
+deliveries	1
+gonzales	1
+eric		1
+florida		1
+backhaul	1
+went		1
+note		1
+border		1
+ll		1
+proposal	1
+here		1

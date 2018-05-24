@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+cn		2
+wade		1
+enron		1
+recipients	1
+ou		1
+price		1
+na		1
+wprice		1

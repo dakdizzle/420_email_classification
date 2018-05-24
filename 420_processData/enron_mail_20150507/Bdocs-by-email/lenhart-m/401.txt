@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+lsu		2
+home		1
+ok		1
+came		1
+weekend		1
+night		1
+lost		1
+went		1
+game		1

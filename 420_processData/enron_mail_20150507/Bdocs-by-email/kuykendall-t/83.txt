@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+up		2
+out		2
+think		2
+early		1
+end		1
+meetings	1
+ones		1
+days		1
+til		1
+afternoon	1
+skip		1
+impossible	1
+bigger		1
+virtually	1
+going		1
+having		1
+sucks		1
+okay		1
+here		1

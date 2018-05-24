@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+list		1
+ypur		1
+please		1
+james		1
+mail		1
+tom		1
+shop		1
+don		1
+take		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+building	1
+sally		1
+fyi		1
+week		1
+move		1
+new		1

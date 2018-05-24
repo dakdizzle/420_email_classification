@@ -1,0 +1,26 @@
+NumWords	30
+NumTerms	23
+
+com		3
+chris		2
+joni		2
+enron		2
+germany		2
+veselack	2
+monday		1
+know		1
+leave		1
+road		1
+guess		1
+trip		1
+driving		1
+neg		1
+better		1
+pge		1
+good		1
+pmto		1
+tenn		1
+subject		1
+yep		1
+doing		1
+ll		1

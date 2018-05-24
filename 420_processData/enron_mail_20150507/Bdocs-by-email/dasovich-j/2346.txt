@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+jdasovic	2
+cn		2
+laugh		1
+present		1
+xoxoxox		1
+recipients	1
+even		1
+money		1
+filename	1
+na		1
+dasovich	1
+better		1
+regulah		1
+privileged	1
+non		1
+enron		1
+best		1
+jeff		1
+riot		1
+ou		1
+prentice	1
+psta		1
+birthday	1

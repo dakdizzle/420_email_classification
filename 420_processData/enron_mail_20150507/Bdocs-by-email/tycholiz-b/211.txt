@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+creation	1
+portland	1
+action		1
+gas		1
+advise		1
+bt		1
+puget		1
+preparation	1
+fuller		1
+regards		1
+contracts	1
+please		1
+agreements	1
+discussions	1
+work		1
+dave		1
+item		1
+appropriate	1

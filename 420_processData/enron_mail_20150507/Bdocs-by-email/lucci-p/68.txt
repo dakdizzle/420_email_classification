@@ -1,0 +1,12 @@
+NumWords	12
+NumTerms	9
+
+party		3
+mom		2
+age		1
+year		1
+having		1
+drunk		1
+nickel		1
+goers		1
+average		1

@@ -1,0 +1,17 @@
+NumWords	23
+NumTerms	14
+
+july		6
+order		2
+nd		2
+june		2
+effects		2
+days		1
+following	1
+thatn		1
+cdn		1
+less		1
+going		1
+before		1
+issue		1
+explain		1

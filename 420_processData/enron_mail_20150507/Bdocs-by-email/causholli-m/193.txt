@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+email		1
+great		1
+good		1
+mcausholli	1
+working		1
+friend		1
+touchmy		1
+keep		1
+commonika	1
+hotmail		1
+luck		1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+touchy		1
+coming		1
+backfill	1
+christi		1
+jim		1
+out		1
+m		1
+bit		1
+agree		1
+go		1
+changes		1
+one		1
+jose		1
+necessary	1
+week		1
+ll		1
+next		1

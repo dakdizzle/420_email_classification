@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+soon		1
+look		1
+rick		1
+back		1

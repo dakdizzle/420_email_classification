@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+whatever	1
+email		1
+fo		1
+im		1
+mo		1
+means		1

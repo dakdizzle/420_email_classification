@@ -1,0 +1,10 @@
+NumWords	9
+NumTerms	7
+
+think		2
+didn		2
+officially	1
+know		1
+reported	1
+review		1
+needed		1

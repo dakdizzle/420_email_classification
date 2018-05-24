@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+salsa		1
+exercising	1
+hope		1
+dip		1
+beans		1
+chips		1
+reguarly	1
+given		1

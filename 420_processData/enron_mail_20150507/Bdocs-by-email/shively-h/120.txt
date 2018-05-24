@@ -1,0 +1,20 @@
+NumWords	21
+NumTerms	17
+
+ne		3
+chicago		2
+aaron		2
+petry		1
+herb		1
+scott		1
+mckenna		1
+grahman		1
+williams	1
+reliant		1
+bank		1
+rita		1
+america		1
+rob		1
+joe		1
+pitts		1
+nagel		1

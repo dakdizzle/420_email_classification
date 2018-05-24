@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+care		1
+plan		1
+under		1
+well		1
+ask		1
+wanted		1
+take		1
+holiday		1
+good		1
+hope		1
+going		1
+dg		1
+circumstances	1
+doing		1
+note		1
+drop		1

@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+here		2
+monday		1
+up		1
+playing		1
+blanco		1
+know		1
+austin		1
+definitely	1
+luke		1
+sunday		1
+olsen		1
+head		1
+sun		1
+weekend		1
+night		1
+sat		1
+probably	1
+sue		1
+doing		1
+tonight		1
+think		1
+ll		1

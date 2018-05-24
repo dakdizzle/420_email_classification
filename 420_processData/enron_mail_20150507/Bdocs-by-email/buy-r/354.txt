@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+together	1
+breakfast	1
+crawling	1
+call		1
+home		1
+office		1
+rick		1
+reilly		1
+saw		1
+happy		1
+lunch		1
+underpass	1
+give		1

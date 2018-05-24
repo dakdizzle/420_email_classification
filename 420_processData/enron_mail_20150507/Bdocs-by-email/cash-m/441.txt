@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+those		2
+entity		1
+payroll		1
+up		1
+handled		1
+around		1
+issues		1
+people		1
+michelle	1
+set		1
+sure		1
+llc		1
+benefits	1
+employ		1

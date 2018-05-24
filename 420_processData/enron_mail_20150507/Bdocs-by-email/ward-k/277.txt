@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+examples	2
+different	1
+time		1
+up		1
+know		1
+steve		1
+came		1
+deals		1
+terms		1
+earlier		1
+thanks		1
+extend		1
+kim		1
+each		1
+look		1
+go		1
+questions	1
+volumes		1
+discussed	1
+blend		1
+over		1

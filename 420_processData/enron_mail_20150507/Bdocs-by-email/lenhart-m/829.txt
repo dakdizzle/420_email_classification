@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+r		2
+first		1
+fun		1
+packed		1
+until		1
+sucked		1
+kabul		1
+queda		1
+home		1
+around		1
+al		1
+downtown	1
+felt		1
+going		1
+though		1
+went		1
+didn		1

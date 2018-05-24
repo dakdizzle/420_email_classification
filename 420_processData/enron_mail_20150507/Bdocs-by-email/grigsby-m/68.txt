@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+ca		1
+simply		1
+gay		1
+make		1
+free		1
+online		1
+dailies		1
+gas		1
+markets		1
+thanks		1
+call		1
+ermis		1
+broker		1
+box		1
+feel		1
+mike		1
+frank		1
+randy		1

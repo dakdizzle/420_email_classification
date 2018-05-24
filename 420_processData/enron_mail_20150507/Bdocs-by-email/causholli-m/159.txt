@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+send		1
+stapley		1
+revisions	1
+know		1
+checked		1
+attached	1
+cecil		1
+monika		1
+dave		1
+thanks		1

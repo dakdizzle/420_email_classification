@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+interview	1
+outrageous	1
+interested	1
+vp		1
+dollars		1
+talk		1
+houston		1
+candidate	1
+wasn		1
+call		1

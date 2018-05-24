@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+thank		1
+kind		1
+audrey		1
+driving		1

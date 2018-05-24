@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+list		1
+jeff		1
+california	1
+please		1
+association	1
+metals		1
+signatories	1
+cast		1
+thanks		1
+add		1
+dan		1

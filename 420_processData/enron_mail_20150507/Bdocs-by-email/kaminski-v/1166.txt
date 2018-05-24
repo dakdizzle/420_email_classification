@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+vince		1
+angelika	1
+working		1

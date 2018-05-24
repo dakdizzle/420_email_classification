@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+aep		1
+need		1
+fine		1
+don		1

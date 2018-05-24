@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+home		1
+ruscitti	1
+kevin		1
+call		1

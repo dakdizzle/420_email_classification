@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ve		1
+heard		1
+congrats	1
+bali		1
+cd		1
+beautiful	1

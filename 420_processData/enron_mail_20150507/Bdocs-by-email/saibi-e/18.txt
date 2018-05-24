@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+thanks		2
+xmas		1
+cable		1
+hey		1
+call		1
+nice		1
+holiday		1
+around		1
+cell		1
+eric		1
+d		1
+still		1
+ll		1
+otherwise	1

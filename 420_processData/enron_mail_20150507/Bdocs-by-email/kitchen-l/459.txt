@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+seem		1
+bit		1
+issue		1
+charge		1
+robert		1

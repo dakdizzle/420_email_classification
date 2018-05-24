@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+office		1
+needed		1
+d		1
+big		1

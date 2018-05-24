@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+september	2
+dated		1
+fine		1
+august		1
+agreement	1
+thanks		1

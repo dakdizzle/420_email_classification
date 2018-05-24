@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+domain		1
+rob		1
+involved	1
+milnthorp	1

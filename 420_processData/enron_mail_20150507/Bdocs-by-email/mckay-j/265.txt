@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+little		1
+hectic		1
+around		1
+thing		1
+know		1
+friday		1
+jon		1
+stephen		1
+fine		1
+sorry		1
+here		1

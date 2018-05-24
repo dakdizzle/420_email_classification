@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+forms		1
+know		1
+loose		1
+procedures	1
+daily		1
+schedulers	1
+rankings	1
+volume		1
+represents	1
+hurricane	1
+proper		1
+need		1
+excellent	1
+cut		1
+reports		1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+debra		2
+eb		1
+fax		1
+under		1
+legal		1
+deals		1
+houston		1
+street		1
+america		1
+enron		1
+texas		1
+north		1
+smith		1
+perlingiereenron	1
+outstanding	1
+perlingiere	1
+gisb		1
+com		1

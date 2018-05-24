@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+jtholt		2
+cn		2
+jane		1
+inlcude		1
+pstdo		1
+socal		1
+recipients	1
+problem		1
+filename	1
+na		1
+privileged	1
+tholt		1
+point		1
+krs		1
+non		1
+enron		1
+description	1
+change		1
+ou		1
+doing		1

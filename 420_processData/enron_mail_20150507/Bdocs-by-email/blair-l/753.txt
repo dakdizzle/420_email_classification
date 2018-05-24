@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lynn		1
+report		1
+raetta		1
+same		1
+november	1
+thanks		1

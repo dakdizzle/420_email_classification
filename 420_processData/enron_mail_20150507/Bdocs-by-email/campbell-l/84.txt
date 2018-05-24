@@ -1,0 +1,23 @@
+NumWords	30
+NumTerms	20
+
+know		4
+invoices	3
+care		2
+taken		2
+ipayit		2
+bill		2
+eott		2
+stuff		1
+notice		1
+dont		1
+keep		1
+compliance	1
+someone		1
+midland		1
+form		1
+system		1
+getting		1
+argent		1
+work		1
+outstanding	1

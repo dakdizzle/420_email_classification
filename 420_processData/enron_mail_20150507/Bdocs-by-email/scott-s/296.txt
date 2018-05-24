@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+deal		3
+know		2
+theresa		1
+paul		1
+psco		1
+susan		1
+system		1
+ejw		1
+capability	1
+swing		1
+thanks		1
+supply		1
+petrogulf	1
+july		1
+thought		1
+side		1

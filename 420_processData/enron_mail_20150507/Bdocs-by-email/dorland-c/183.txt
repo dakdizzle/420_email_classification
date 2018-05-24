@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+think		2
+internet	1
+meeting		1
+ok		1
+different	1
+everything	1
+today		1
+chat		1
+chris		1
+call		1
+out		1
+really		1
+upbeat		1
+good		1
+milly		1
+scenarios	1
+feel		1
+want		1
+pretty		1
+doing		1
+don		1
+play		1
+here		1

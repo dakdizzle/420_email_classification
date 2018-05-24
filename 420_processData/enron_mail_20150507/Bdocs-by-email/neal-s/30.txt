@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+shortly		1
+send		1
+meeting		1
+scott		1
+tammy		1
+working		1
+final		1
+now		1
+allocate	1
+bob		1
+people		1
+placeassistants	1
+right		1
+thereafter	1
+supoort		1

@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+cn		2
+jsteffe		2
+dynegy		1
+case		1
+win		1
+pstit		1
+midwest		1
+icap		1
+recipients	1
+sounds		1
+filename	1
+na		1
+privileged	1
+jim		1
+steffes		1
+non		1
+enron		1
+james		1
+ou		1
+critical	1

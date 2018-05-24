@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+therapist	1
+findingstone	1
+find		1
+www		1
+tx		1
+regions		1
+usa		1
+htm		1
+com		1

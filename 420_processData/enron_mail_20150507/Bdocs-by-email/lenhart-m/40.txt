@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+remember	2
+wednesdays	1
+fun		1
+bathroom	1
+night		1
+sierra		1
+isn		1
+half		1
+don		1

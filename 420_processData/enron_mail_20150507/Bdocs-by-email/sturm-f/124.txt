@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+know		1
+king		1
+doug		1

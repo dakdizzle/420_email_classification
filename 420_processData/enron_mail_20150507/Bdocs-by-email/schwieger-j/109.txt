@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+held		1
+adrianne	1

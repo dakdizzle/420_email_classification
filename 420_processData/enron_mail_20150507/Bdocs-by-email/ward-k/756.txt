@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+much		1
+kam		1
+help		1
+thanks		1

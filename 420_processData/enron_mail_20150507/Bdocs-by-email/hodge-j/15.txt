@@ -1,0 +1,14 @@
+NumWords	14
+NumTerms	11
+
+point		2
+less		2
+cove		2
+info		1
+terminal	1
+owns		1
+williams	1
+now		1
+columbia	1
+activity	1
+ruth		1

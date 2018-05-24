@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+breakfast	1
+place		1
+time		1
+name		1
+meet		1
+tom		1
+suggested	1
+times		1
+both		1
+regards		1
+bert		1
+available	1
+delighted	1
+over		1

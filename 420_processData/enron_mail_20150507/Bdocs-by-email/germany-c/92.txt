@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+flash		1
+home		1
+etrata		1
+http		1
+attbi		1
+swf		1
+banana		1
+com		1

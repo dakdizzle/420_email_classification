@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+power		1
+bill		1
+iii		1
+williams	1
+ees		1
+settlements	1

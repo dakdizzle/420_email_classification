@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+base		1
+knows		1
+lawyer		1
+much		1
+paul		1
+except		1
+adjusting	1
+know		1
+perhaps		1
+copies		1
+receiving	1
+seem		1
+way		1
+look		1
+constantly	1
+jeff		1
+touch		1
+tomorrow	1
+another		1
+one		1
+forward		1
+simons		1
+probably	1
+london		1

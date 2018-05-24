@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+mont		1
+regret		1
+attend		1

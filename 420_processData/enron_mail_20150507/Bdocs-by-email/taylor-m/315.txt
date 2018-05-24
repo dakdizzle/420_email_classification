@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+yourself	1
+rolodex		1
+add		1

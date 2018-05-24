@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+pl		1
+come		1
+babysitter	1
+gary		1

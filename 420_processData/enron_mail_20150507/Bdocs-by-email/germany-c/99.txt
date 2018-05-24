@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+info		1
+scal		1
+buddy		1
+hey		1
+gave		1
+volumes		1
+nng		1
+pgen		1
+luck		1

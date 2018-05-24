@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+asp		2
+error		2
+capacity	1
+et		1
+line		1
+infopostings	1
+unspecified	1
+form		1
+unsub		1
+tw		1

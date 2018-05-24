@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+officerenron	1
+meeting		1
+fax		1
+americastel	1
+operating	1
+up		1
+please		1
+steve		1
+kitchenchief	1
+geof		1
+set		1
+stocklouise	1

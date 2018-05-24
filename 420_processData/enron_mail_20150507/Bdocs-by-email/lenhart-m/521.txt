@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+thing		1
+whole		1
+relax		1
+isn		1
+don		1
+deal		1
+big		1

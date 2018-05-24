@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+lynn		1
+case		1
+bill		1
+assuming	1
+pass		1
+thought		1
+address		1
+shelley		1
+weren		1
+thanks		1
+aware		1

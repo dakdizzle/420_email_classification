@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+move		2
+new		2
+simply		1
+pl		1
+completely	1
+copy		1
+know		1
+root		1
+deals		1
+portfolio	1
+books		1
+remove		1
+want		1
+book		1
+old		1
+going		1
+though		1
+sure		1
+means		1

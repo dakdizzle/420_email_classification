@@ -1,0 +1,23 @@
+NumWords	28
+NumTerms	20
+
+ray		3
+gas		2
+points		2
+enron		2
+alvarez		2
+cost		2
+delivery	2
+detail		1
+california	1
+basically	1
+daily		1
+publication	1
+phillip		1
+na		1
+help		1
+proxy		1
+used		1
+language	1
+clarification	1
+average		1

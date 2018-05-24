@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+pull		2
+info		1
+territory	1
+together	1
+websites	1
+information	1
+service		1
+etc		1
+field		1
+bt		1
+thanks		1
+regarding	1
+storage		1
+basin		1
+discussion	1
+need		1
+maps		1
+williston	1

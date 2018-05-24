@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+coming		1
+nightand	1
+visit		1
+friday		1
+change		1
+flying		1
+prepared	1
+diapers		1
+better		1

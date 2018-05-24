@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+gas		2
+meeting		1
+except		1
+understanding	1
+security	1
+gary		1
+solely		1
+control		1
+staff		1
+includes	1
+logistics	1
+use		1
+access		1
+week		1
+okay		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+lane		1
+mean		1
+bob		1

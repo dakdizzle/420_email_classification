@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+interviews	1
+karenjust	1
+harry		1
+doing		1
+confirm		1

@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+email		2
+system		2
+story		1
+hear		1
+send		1
+semail		1
+deleted		1
+upgraded	1
+call		1
+red		1
+neck		1
+j		1
+kr		1
+lowery		1
+weekend		1
+need		1
+addresses	1
+give		1
+rest		1

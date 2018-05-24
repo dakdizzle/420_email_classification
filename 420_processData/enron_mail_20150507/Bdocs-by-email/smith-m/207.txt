@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+m		1
+buying		1

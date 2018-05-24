@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+talkdutch	1
+databasesi	1
+talk		1
+information	1
+options		1
+swing		1
+pull		1
+talked		1
+minute		1
+theremight	1
+collin		1
+people		1
+being		1
+talking		1
+understand	1
+use		1
+franky		1
+upgrading	1
+eol		1
+macro		1

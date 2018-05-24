@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+going		2
+together	1
+wednesday	1
+coffee		1
+susan		1
+sunday		1
+morning		1
+something	1
+really		1
+night		1
+spokane		1
+town		1
+cara		1
+thru		1
+hi		1

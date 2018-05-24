@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+fax		1
+al		1
+signed		1
+ask		1
+letter		1
+ginger		1
+copies		1
+ziemer		1
+bev		1
+hedy		1

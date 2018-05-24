@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+call		2
+calendar	2
+ferc		1
+refund		1
+ca		1
+up		1
+verify		1
+daily		1
+litigation	1
+jim		1
+put		1
+regarding	1
+pacific		1
+linda		1
+hawkins		1
+ray		1
+please		1
+northwest	1
+bernadette	1
+thought		1
+set		1

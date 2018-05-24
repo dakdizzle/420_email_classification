@@ -1,0 +1,7 @@
+NumWords	6
+NumTerms	4
+
+done		2
+need		2
+resources	1
+dea		1

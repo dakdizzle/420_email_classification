@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+bathroom	1
+dark		1
+go		1
+putting		1
+shirt		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+flow		1
+tem		1
+send		1
+please		1
+operational	1
+gas		1
+insight		1
+pipeline	1

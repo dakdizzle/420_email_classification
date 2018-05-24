@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+meeting		1
+terry		1
+wednesday	1
+project		1
+rogers		1
+going		1
+phoenix		1
+discussing	1

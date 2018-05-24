@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+file		2
+email		1
+pl		1
+complete	1
+nymex		1
+miller		1
+thanks		1
+please		1
+breakdown	1
+intra		1
+saved		1
+don		1
+here		1

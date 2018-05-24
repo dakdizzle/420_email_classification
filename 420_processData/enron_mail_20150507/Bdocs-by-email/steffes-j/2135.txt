@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+enron		3
+com		2
+wanda		1
+comx		1
+tribolet	1
+susan		1
+filename	1
+privileged	1
+mara		1
+michael		1
+pstsounds	1
+steffes		1
+jx		1
+approach	1
+curry		1
+non		1
+right		1
+jsteffe		1
+origin		1

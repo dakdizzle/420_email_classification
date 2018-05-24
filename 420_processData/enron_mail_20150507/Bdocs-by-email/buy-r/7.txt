@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+need		2
+transaction	1
+board		1
+meeting		1
+dash		1
+therefore	1
+believe		1
+rick		1
+changes		1
+concluded	1
+discussed	1
+notified	1
+approval	1
+original	1
+pug		1
+deal		1
+quick		1
+include		1
+new		1
+think		1
+summary		1
+next		1

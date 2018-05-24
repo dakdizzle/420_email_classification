@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+latest		1
+events		1
+triggers	1
+wording		1
+comment		1
+applicable	1
+doc		1
+regulatory	1
+review		1
+pls		1
+bt		1
+indicator	1

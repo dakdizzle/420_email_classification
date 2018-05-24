@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+broadband	3
+business	3
+outlook		1
+sector		1
+strategy	1
+conditions	1
+today		1
+pursued		1
+earnings	1
+revenue		1
+announced	1
+without		1
+restructure	1
+opportunities	1
+restructuring	1
+enron		1
+industry	1
+affecting	1
+reduced		1
+quickly		1
+skilling	1
+strong		1
+allow		1

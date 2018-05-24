@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+quot		1
+place		1
+consider	1
+taken		1
+writing		1
+sounds		1
+trip		1
+confused	1
+laura		1
+morning		1
+amaaaazing	1
+seriously	1
+best		1
+naste		1
+night		1
+before		1
+conde		1
+ryan		1
+think		1
+next		1

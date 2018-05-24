@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+andy		1
+sonjay		1
+please		1
+convienence	1
+zipper		1
+give		1
+thanks		1
+call		1

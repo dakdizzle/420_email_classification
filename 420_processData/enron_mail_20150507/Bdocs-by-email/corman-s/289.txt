@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ve		1
+frustrating	1
+hr		1
+asked		1
+problem		1
+address		1

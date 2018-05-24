@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+requires	1
+come		1
+lift		1
+arrange		1
+tv		1
+call		1
+ll		1

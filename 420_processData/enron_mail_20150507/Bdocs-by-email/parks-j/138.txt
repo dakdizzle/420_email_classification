@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+look		1
+hey		1
+helpful		1
+know		1
+go		1
+want		1
+joe		1
+over		1

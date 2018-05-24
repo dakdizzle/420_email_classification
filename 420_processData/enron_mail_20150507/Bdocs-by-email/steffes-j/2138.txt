@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+info		1
+hear		1
+landwehr	1
+yes		1
+sue		1
+thoughts	1
+help		1
+call		1

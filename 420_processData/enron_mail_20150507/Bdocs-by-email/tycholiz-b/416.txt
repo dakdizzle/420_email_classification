@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+time		2
+resolved	1
+meeting		1
+deserved	1
+survey		1
+corporate	1
+once		1
+bt		1
+schedule	1
+bart		1
+issues		1
+spent		1
+week		1
+next		1

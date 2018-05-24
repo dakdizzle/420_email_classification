@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+houston		1
+bmckay		1
+com		1
+rr		1

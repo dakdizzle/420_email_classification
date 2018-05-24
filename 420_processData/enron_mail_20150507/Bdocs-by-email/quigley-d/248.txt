@@ -1,0 +1,25 @@
+NumWords	29
+NumTerms	22
+
+week		4
+full		2
+day		2
+daybid		2
+holidaysbid	2
+monday		1
+sep		1
+fri		1
+bid		1
+friday		1
+tues		1
+wedsoct		1
+thrus		1
+monnovholidays	1
+mon		1
+holidayssep	1
+weds		1
+thur		1
+more		1
+weeks		1
+weddecholidays	1
+here		1

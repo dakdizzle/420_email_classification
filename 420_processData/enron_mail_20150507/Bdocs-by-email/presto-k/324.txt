@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+jae		1
+tamara		1
+enron		1
+black		1
+recipients	1
+ou		1
+calender	1
+na		1
+tblack		1

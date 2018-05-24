@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+enron		3
+resume		2
+group		1
+different	1
+interested	1
+markets		1
+industrial	1
+skills		1
+fit		1
+forwarded	1
+vince		1
+good		1
+networks	1
+units		1
+looked		1
+kaminski	1
+frank		1

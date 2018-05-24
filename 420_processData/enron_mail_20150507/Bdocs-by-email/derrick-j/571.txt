@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+meeting		1
+expressed	1
+fyi		1
+interest	1
+individual	1
+bob		1

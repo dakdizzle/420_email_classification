@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hear		1
+jeff		1
+iso		1
+give		1
+call		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+frame		1
+roger		1
+time		1
+deals		1
+find		1
+need		1
+di		1
+talked		1

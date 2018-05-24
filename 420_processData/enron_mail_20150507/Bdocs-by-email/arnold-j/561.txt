@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+hedges		2
+gas		2
+lot		2
+those		1
+thing		1
+hard		1
+up		1
+world		1
+dynegys		1
+hit		1
+market		1
+plus		1
+really		1
+gets		1
+back		1
+trades		1
+lose		1
+one		1
+against		1
+sold		1
+torn		1

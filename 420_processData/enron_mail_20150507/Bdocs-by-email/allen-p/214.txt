@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+grigsbyscott	1
+connections	1
+hunter		1
+power		1
+following	1
+phillip		1
+chris		1
+east		1
+nealjohn	1
+shivelymike	1
+martinphillip	1
+schwiegerthanks	1
+use		1
+allenjim	1
+arnoldtom	1
+access		1
+website		1
+request		1

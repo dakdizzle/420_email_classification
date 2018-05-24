@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+send		1
+time		1
+up		1
+risk		1
+know		1
+better		1
+boat		1
+two		1
+run		1
+show		1
+numbers		1
+maybe		1
+crappy		1
+sure		1
+website		1
+next		1
+ll		1

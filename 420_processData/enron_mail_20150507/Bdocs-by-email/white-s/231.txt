@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+disaster	1
+hear		1
+despite		1
+hope		1
+stacey		1
+well		1
+scoop		1
+london		1
+chance		1
+wait		1
+give		1
+call		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+day		1
+possibility	1
+waiter		1
+becoming	1
+looks		1
+better		1

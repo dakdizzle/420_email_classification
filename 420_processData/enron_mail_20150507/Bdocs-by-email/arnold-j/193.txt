@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+send		1
+m		1
+cant		1
+commit		1
+bat		1
+flight		1
+continental	1
+next		1

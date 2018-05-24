@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+sara		1
+exchanges	1
+g		1
+nymex		1
+reflect		1
+entries		1
+thanks		1

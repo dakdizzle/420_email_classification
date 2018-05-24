@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+quiet		1
+try		1
+keep		1

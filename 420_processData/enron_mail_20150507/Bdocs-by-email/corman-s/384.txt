@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+ha		2
+gifts		1
+much		1
+day		1
+showered	1
+course		1
+alina		1
+things		1
+exciting	1
+busy		1
+trying		1
+fine		1
+schedule	1
+kindly		1
+each		1
+work		1
+need		1
+isn		1
+feb		1
+making		1

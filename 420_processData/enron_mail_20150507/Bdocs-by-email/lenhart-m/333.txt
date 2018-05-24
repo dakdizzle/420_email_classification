@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+stay		1
+up		1
+until		1
+guys		1
+night		1
+sunday		1

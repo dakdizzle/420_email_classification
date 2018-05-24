@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+com		2
+ebayisapi	1
+ws		1
+ebay		1
+http		1
+viewitem	1
+dll		1
+bigfoot		1
+lokay		1
+cgi		1
+item		1

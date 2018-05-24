@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+two		1
+please		1
+color		1
+copies		1
+bt		1
+print		1

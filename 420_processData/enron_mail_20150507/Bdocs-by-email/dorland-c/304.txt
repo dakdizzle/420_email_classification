@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+david		1
+neil		1
+phone		1
+chris		1
+number		1

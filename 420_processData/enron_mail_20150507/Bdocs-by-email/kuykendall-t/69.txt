@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+points		1
+richey		1
+free		1
+wade		1
+bid		1
+draft		1
+agency		1
+weeks		1

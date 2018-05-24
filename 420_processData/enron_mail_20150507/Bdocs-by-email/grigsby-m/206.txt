@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+resign		1
+know		1
+few		1
+appreciate	1
+approach	1
+made		1
+ultimate	1
+mike		1
+decision	1
+weeks		1
+comments	1
+sure		1
+next		1
+over		1

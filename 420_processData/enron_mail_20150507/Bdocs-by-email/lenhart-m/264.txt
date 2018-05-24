@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+captain		1
+castillo	1
+merlin		1

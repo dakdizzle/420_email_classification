@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+group		1
+rub		1
+forwarded	1
+jenny		1
+information	1
+sally		1
+infrastructure	1
+rosalee		1
+thanks		1

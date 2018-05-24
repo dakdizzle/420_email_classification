@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+receives	1
+stacey		1
+friday		1
+estrada		1
+mistakenly	1
+purposes	1
+israel		1
+removed		1
+please		1
+previous	1
+access		1
+ensure		1
+frank		1

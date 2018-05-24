@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+kim		1
+pm		1
+time		1
+anytime		1
+wednesday	1
+available	1
+yes		1
+jo		1
+meet		1
+hi		1
+thanks		1
+afternoon	1

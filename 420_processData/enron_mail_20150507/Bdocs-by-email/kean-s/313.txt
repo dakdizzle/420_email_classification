@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+skean		2
+cn		2
+relative	1
+discuss		1
+know		1
+engage		1
+recipients	1
+kean		1
+steven		1
+filename	1
+na		1
+pstplease	1
+privileged	1
+vince		1
+non		1
+enron		1
+importance	1
+ou		1
+don		1

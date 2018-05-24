@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lynn		1
+posted		1
+info		1
+interested	1
+keep		1
+fyi		1
+thought		1
+shelley		1
+thanks		1

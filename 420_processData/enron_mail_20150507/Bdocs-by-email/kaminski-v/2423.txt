@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+vince		1
+check		1
+resumeand	1
+shall		1
+presly		1
+person		1
+pr		1
+give		1
+hi		1
+call		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+steffes		2
+jim		1
+cell		1
+jeff		1
+things		1
+phone		1
+couple		1
+kay		1
+thanks		1

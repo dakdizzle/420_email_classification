@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+stay		1
+remind		1
+scada		1
+plan		1
+please		1
+world		1
+tw		1
+fgt		1
+cover		1

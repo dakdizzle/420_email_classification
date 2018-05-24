@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+lynn		1
+outcome		1
+larry		1
+finalize	1
+know		1
+work		1
+janet		1
+raetta		1
+process		1
+thanks		1

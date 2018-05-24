@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+monday		1
+out		1
+early		1
+under		1
+hope		1
+pile		1
+tuesday		1
+week		1
+next		1

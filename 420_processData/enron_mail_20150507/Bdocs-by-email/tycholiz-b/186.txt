@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+rm		1
+gas		1
+final		1
+pls		1
+origination	1
+round		1
+nov		1
+bt		1
+sunday		1
+call		1
+laura		1
+tycholiz	1
+america		1
+enron		1
+questions	1
+barry		1
+north		1
+est		1
+ident		1
+pres		1
+tickets		1
+vice		1

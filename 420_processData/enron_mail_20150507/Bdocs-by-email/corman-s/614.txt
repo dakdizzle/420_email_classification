@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+drew		1
+make		1
+assume		1
+talking		1
+available	1
+chad		1
+work		1
+wk		1
+june		1

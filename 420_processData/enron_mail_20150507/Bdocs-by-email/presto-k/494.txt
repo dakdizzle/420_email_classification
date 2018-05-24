@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+cn		2
+lloyd		1
+enron		1
+lwill		1
+recipients	1
+ou		1
+na		1

@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+going		2
+jim		1
+anything	1
+changed		1
+send		1
+invoice		1
+know		1
+forward		1
+amounts		1
+new		1

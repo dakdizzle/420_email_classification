@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+hear		1
+mozart		1
+day		1
+john		1
+know		1
+hotel		1
+fyi		1
+something	1
+great		1
+availability	1
+emailed		1
+janell		1
+ll		1
+rome		1

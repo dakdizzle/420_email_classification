@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+chicago		1
+weekend		1
+sorry		1
+town		1
+dg		1
+actually	1
+laura		1

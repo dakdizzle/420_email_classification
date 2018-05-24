@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+effective	3
+date		2
+group		1
+credited	1
+stand		1
+fax		1
+page		1
+sheet		1
+find		1
+top		1
+central		1
+states		1
+pacific		1
+titles		1
+received	1
+column		1
+questions	1
+contract	1
+one		1
+february	1
+production	1
+dominion	1

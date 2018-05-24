@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+circle		1
+south		1
+tx		1
+altwood		1
+woodlands	1

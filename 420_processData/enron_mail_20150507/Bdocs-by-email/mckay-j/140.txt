@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+please		3
+regards		1
+best		1
+jeanie		1
+jon		1
+hire		1
+resume		1
+here		1

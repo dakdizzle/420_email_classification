@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+stay		1
+yeah		1
+afraid		1
+isn		1
+jessica		1
+conservative	1
+here		1
+wish		1

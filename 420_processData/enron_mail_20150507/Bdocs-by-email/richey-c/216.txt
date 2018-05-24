@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+soon		1
+visit		1
+interest	1
+sometime	1
+chapter		1

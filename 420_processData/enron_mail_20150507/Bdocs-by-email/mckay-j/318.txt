@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+iiiiiii		1
+login		1
+jmckay		1
+password	1
+computer	1
+general		1

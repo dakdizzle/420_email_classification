@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+tell		1
+use		1
+ready		1
+rac		1
+address		1
+website		1
+new		1
+thanks		1

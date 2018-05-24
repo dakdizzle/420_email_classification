@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+lb		2
+cracked		1
+interested	1
+selling		1
+guy		1
+shelled		1
+anne		1
+bags		1
+orchard		1
+pecans		1
+works		1
+thanks		1

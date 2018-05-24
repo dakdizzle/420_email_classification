@@ -1,0 +1,22 @@
+NumWords	32
+NumTerms	19
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+vshanbh		1
+vasant		1
+left		1
+pinnamaneni	1
+krishnarao	1
+pkrishn		1
+vince		1
+people		1
+many		1
+zimin		1
+recommend	1
+lu		1
+zlu		1
+shanbhogue	1

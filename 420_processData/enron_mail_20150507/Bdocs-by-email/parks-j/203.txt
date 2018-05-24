@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+flow		1
+per		1
+sevices		1
+gas		1
+field		1
+sale		1
+anddeliverd	1
+mrt		1
+oneok		1
+entered		1
+recieved	1
+dates		1
+duke		1
+agreement	1
+dec		1
+pre		1

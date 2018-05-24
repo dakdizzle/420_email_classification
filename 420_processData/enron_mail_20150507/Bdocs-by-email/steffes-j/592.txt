@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+enron		3
+com		2
+make		1
+nicolay		1
+page		1
+lindberg	1
+comx		1
+alan		1
+susan		1
+same		1
+filename	1
+privileged	1
+jim		1
+steffes		1
+jx		1
+publicly	1
+non		1
+please		1
+nancy		1
+jsteffe		1
+pstcharles	1
+origin		1
+comnes		1
+sure		1

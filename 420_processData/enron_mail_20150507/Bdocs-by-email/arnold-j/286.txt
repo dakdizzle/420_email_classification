@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+aga		1
+interval	1
+orders		1
+short		1
+test		1
+conduct		1
+internal	1
+still		1

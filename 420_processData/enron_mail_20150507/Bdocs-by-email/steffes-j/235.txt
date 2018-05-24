@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+jim		2
+breakfast	2
+coming		1
+m		1
+wednesday	1
+tomorrow	1
+wed		1
+night		1
+week		1

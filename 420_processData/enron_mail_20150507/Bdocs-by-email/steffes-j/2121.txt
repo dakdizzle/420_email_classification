@@ -1,0 +1,18 @@
+NumWords	19
+NumTerms	15
+
+steffes		2
+cn		2
+jsteffe		2
+james		2
+recipients	1
+filename	1
+na		1
+filing		1
+privileged	1
+pstca		1
+court		1
+non		1
+enron		1
+supreme		1
+ou		1

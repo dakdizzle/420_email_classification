@@ -1,0 +1,19 @@
+NumWords	44
+NumTerms	16
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+rebecca		2
+grace		2
+rgrace		2
+jmiller		1
+bolt		1
+tom		1
+miller		1
+jeffrey		1
+tmay		1
+lbolt		1
+laurel		1

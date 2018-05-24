@@ -1,0 +1,18 @@
+NumWords	28
+NumTerms	15
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+williams	1
+cutsforth	1
+drobins		1
+bill		1
+dcutsfor	1
+iii		1
+robinson	1
+donald		1
+bwillia		1
+diane		1

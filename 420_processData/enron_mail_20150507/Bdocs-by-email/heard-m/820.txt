@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+cn		2
+mheard		2
+pstattached	1
+heard		1
+paso		1
+marie		1
+review		1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+el		1
+ou		1
+amendment	1

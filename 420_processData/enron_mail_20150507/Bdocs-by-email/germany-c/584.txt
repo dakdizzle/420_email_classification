@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+home		1
+revere		1
+gocha		1
+germany		1
+houston		1
+idea		1
+tx		1
+bad		1
+hotmail		1
+chris		1
+st		1
+com		1

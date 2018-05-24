@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+point		1
+people		1
+photos		1
+great		1
+many		1
+one		1
+ebs		1
+left		1
+london		1

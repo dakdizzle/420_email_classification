@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+back		2
+years		1
+up		1
+step		1
+term		1
+volumes		1
+part		1
+bt		1

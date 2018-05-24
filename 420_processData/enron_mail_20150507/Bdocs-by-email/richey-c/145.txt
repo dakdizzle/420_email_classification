@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+worth		1
+house		1
+seems		1
+sweet		1
+place		1
+plenty		1
+know		1
+want		1
+find		1
+poor		1
+don		1
+think		1

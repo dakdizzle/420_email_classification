@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+plant		2
+blackberry	2
+net		1
+beds		1
+wireless	1
+handheld	1
+planting	1
+guys		1
+www		1
+mulching	1
+help		1
+manage		1
+sent		1
+sat		1
+use		1
+mulched		1
+before		1
+already		1
+last		1
+week		1
+next		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+mark		1
+theresa		1
+look		1
+please		1
+know		1
+questions	1
+take		1
+thanks		1

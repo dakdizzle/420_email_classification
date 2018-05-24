@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+make		2
+something	2
+mas		1
+tiffany		1
+skater		1
+earings		1
+stop		1
+paper		1
+later		1
+perhaps		1
+see		1
+anything	1
+out		1
+picture		1
+draw		1
+bracelet	1
+go		1
+cd		1
+mache		1
+think		1
+ll		1

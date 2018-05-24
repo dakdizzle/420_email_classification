@@ -1,0 +1,19 @@
+NumWords	23
+NumTerms	16
+
+december	3
+nymex		3
+contracts	3
+buy		2
+collect		1
+monthly		1
+now		1
+nice		1
+hope		1
+l		1
+enron		1
+back		1
+sell		1
+maybe		1
+loan		1
+trading		1

@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+out		2
+went		2
+saturday	2
+much		1
+ran		1
+houstons	1
+days		1
+friday		1
+friend		1
+came		1
+exciting	1
+hung		1
+errands		1
+worked		1
+boring		1
+yesterday	1
+house		1
+back		1
+nothing		1
+night		1
+drank		1
+very		1
+dallas		1

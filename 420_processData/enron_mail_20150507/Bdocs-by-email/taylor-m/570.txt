@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+ok		1
+everything	1
+kerry		1
+youmike		1
+go		1
+today		1
+forward		1
+thanksi		1
+hotmail		1
+mails		1
+love		1

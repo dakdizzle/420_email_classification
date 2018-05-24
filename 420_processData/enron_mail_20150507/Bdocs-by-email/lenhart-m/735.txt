@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+home		2
+ish		1
+out		1
+around		1
+go		1
+call		1

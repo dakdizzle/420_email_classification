@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+pm		1
+friday		1
+plane		1
+afternoon	1

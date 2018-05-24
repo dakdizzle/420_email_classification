@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+posted		1
+collateral	1
+front		1
+up		1
+yes		1
+year		1
+form		1
+earlier		1

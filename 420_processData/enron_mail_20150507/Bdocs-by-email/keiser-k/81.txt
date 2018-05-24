@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+thankskk	1
+list		1
+please		1
+sitara		1
+dbailey		1
+derek		1
+baily		1
+access		1
+tds		1
+add		1

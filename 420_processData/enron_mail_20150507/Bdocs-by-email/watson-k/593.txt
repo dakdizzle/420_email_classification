@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+meeting		2
+trans		1
+kim		1
+floor		1
+pecos		1
+prep		1
+available	1
+stan		1
+due		1
+kevin		1
+thanks		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+smooth		1
+make		1
+day		1
+garvey		1
+stand		1
+departure	1
+dawn		1
+jason		1
+th		1
+looks		1
+anything	1
+point		1
+hr		1
+jon		1
+need		1
+august		1
+last		1
+sure		1

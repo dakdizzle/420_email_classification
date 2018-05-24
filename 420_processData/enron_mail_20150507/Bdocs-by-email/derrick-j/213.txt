@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+conferences	1
+hope		1
+best		1
+congratulations	1
+legal		1
+attending	1
+mean		1
+stop		1
+adam		1
+planning	1
+doesn		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+prayers		1
+hope		1
+grant		1
+keep		1
+although	1
+especially	1
+address		1
+don		1
+think		1
+thanks		1

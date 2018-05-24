@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+mk		1
+rick		1
+best		1
+vacation	1
+luck		1
+wish		1

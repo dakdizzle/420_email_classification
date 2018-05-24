@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+up		3
+suzie		1
+hey		1
+crossed		1
+fingers		1
+stock		1
+jeff		1
+best		1
+weather		1
+keep		1
+today		1
+speaking	1

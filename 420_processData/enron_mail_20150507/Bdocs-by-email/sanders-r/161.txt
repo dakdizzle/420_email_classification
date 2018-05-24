@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+asap		1
+talk		1
+today		1
+need		1
+thx		1

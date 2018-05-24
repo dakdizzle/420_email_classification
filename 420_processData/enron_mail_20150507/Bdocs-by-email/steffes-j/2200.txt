@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+funny		1
+place		1
+true		1
+saw		1
+recently	1
+amazing		1

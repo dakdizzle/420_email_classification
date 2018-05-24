@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+extending	1
+coming		1
+relationship	1
+fred		1
+exclusive	1
+houston		1
+appreciate	1
+thanks		1
+look		1
+briefing	1
+forward		1
+accurate	1
+de		1
+summary		1

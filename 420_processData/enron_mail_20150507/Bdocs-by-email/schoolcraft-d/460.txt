@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ds		1
+notice		1
+point		1
+further		1
+until		1
+please		1
+leave		1
+set		1

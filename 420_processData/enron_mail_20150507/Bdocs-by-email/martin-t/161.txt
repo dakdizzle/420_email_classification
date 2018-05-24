@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+conflict	1
+others		1
+vacation	1
+function	1
+desk		1
+schedules	1
+school		1
+th		1
+tom		1
+afternoon	1
+laura		1
+out		1
+put		1
+down		1
+need		1
+sure		1
+allison		1
+november	1

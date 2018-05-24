@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+deals		2
+move		2
+detail		1
+position	1
+west		1
+citygate	1
+pg		1
+phillip		1
+transfer	1
+print		1
+mgmt		1
+market		1
+pge		1
+ft		1
+please		1
+positions	1
+mid		1
+created		1
+last		1
+week		1
+forwards	1
+randy		1

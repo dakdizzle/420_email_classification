@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+note		2
+writer		1
+ability		1
+sending		1
+pls		1
+problem		1
+help		1
+restructure	1
+kill		1
+restrict	1
+agreements	1
+want		1
+probably	1
+hire		1
+outstanding	1
+internally	1
+career		1

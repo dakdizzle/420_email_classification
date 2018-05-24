@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cgerman		2
+cn		2
+tp		1
+gulf		1
+desk		1
+recipients	1
+filename	1
+na		1
+chris		1
+east		1
+privileged	1
+non		1
+enron		1
+please		1
+change		1
+pstwould	1
+germany		1
+ou		1
+deal		1

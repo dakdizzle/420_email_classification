@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+bill		1
+processed	1
+haven		1

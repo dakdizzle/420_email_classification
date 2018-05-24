@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+movement	1
+good		1
+congratz	1
+sounds		1
+pretty		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+mark		1
+information	1
+disregard	1
+mail		1
+previous	1
+answered	1
+question	1
+request		1

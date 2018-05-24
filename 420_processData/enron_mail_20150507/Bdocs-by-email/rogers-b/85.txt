@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+little		1
+day		1
+easier		1
+service		1
+trip		1
+thanks		1
+great		1
+missy		1
+ben		1
+makes		1
+taxi		1
+again		1
+one		1
+change		1

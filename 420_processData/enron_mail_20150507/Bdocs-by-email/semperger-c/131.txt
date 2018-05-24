@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+drink		1
+transplant	1
+covered		1
+work		1
+liver		1
+workmans	1
+making		1
+comp		1
+stress		1
+julie		1
+hi		1

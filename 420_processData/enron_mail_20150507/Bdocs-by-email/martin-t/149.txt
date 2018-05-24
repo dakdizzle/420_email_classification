@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+fun		1
+ina		1
+brian		1
+courtesy	1
+want		1
+fine		1
+tom		1
+habit		1
+checking	1
+coverage	1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+information	1
+plant		1
+txutejasel	1
+pasodowif	1
+points		1
+callthanks	1
+katy		1
+tailgate	1
+alternative	1
+pleas		1
+more		1
+need		1
+exxon		1
+joe		1
+give		1
+delivery	1
+through		1

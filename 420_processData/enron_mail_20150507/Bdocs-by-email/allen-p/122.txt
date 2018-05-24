@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+send		1
+utilities	1
+bills		1
+recap		1
+jeff		1
+utility		1
+paid		1
+going		1
+kuo		1
+original	1
+closing		1
+here		1

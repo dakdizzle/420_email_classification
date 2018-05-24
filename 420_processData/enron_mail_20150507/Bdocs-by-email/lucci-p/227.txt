@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+job		1
+up		1
+now		1
+later		1
+take		1
+out		1
+matter		1
+change		1
+made		1
+week		1
+doing		1
+don		1
+mind		1
+worry		1

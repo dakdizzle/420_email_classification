@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+items		1
+inserts		1
+handle		1
+please		1
+michelle	1
+various		1
+twanda		1
+add		1

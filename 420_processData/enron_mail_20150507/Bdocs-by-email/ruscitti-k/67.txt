@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+heard		1
+everything	1
+up		1
+time		1
+afghanistan	1
+kr		1
+kidding		1
+haven		1

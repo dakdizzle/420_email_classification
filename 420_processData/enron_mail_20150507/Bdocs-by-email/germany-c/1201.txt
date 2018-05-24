@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+cgerman		2
+cn		2
+gas		1
+recipients	1
+filename	1
+na		1
+chris		1
+privileged	1
+differential	1
+non		1
+enron		1
+pstboston	1
+germany		1
+ou		1
+oct		1

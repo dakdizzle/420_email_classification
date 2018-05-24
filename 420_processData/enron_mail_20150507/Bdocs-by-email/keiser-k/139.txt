@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+name		2
+send		1
+m		1
+counterparty	1
+deals		1
+change		1
+inactivated	1
+manually	1

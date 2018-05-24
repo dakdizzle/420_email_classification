@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+status		1
+sara		1
+allegheny	1
+fyi		1

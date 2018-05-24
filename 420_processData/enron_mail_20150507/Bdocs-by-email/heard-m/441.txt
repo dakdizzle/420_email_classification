@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+mail		2
+ll		2
+energy		1
+sending		1
+marie		1
+isda		1
+see		1
+xto		1
+call		1
+good		1
+received	1
+weekend		1
+forward		1
+handful		1
+going		1
+comments	1
+jay		1
+adam		1
+receive		1
+hi		1

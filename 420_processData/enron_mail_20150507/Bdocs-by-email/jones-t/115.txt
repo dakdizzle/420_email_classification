@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+full		1
+company		1
+name		1
+legal		1
+need		1
+address		1
+brandon		1
+thanks		1

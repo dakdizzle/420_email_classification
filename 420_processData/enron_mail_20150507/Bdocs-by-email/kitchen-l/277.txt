@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+group		1
+presume		1
+propane		1
+butane		1
+old		1
+etc		1
+ngl		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+mojave		1
+anyone		1
+going		1

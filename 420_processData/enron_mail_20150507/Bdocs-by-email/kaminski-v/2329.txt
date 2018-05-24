@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+free		1
+glad		1
+interest	1
+paper		1
+chris		1
+call		1
+vince		1
+great		1
+please		1
+feel		1
+shall		1
+comments	1
+read		1
+give		1

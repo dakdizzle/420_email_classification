@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+something	1
+good		1
+gag		1
+usually		1
+try		1
+exchange	1
+bring		1
+pretty		1
+doing		1
+gift		1

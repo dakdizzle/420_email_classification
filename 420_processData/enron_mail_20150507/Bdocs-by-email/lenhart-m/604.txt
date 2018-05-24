@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+dog		1
+look		1
+anymore		1
+pay		1
+havent		1
+want		1
+weekend		1
+old		1
+more		1
+need		1
+looked		1
+think		1

@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+mark		2
+place		1
+exchange	1
+know		1
+true		1
+asked		1
+see		1
+thanks		1
+bizbots		1
+enron		1
+check		1
+please		1
+agreements	1
+confidentiality	1
+corp		1
+greenberg	1

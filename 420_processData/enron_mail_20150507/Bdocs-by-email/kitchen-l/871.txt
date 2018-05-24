@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+done		1
+london		1
+based		1
+allow		1
+doesn		1

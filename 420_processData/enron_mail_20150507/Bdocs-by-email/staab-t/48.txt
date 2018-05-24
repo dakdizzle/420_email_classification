@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+win		1
+bob		1
+denver		1
+take		1
+ll		1

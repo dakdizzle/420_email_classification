@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+com		3
+enron		2
+msanche		2
+rebecca		1
+little		1
+funny		1
+pm		1
+jojo		1
+shakerdge	1
+ect		1
+sanchez		1
+dying		1
+vulgar		1
+jshakerdge	1
+monique		1
+stuffthis	1
+fw		1
+hou		1
+forwarded	1
+sent		1
+pmto		1
+subject		1
+maybe		1
+natsource	1

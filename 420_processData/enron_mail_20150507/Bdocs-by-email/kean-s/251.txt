@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+please		1
+reed		1
+forward		1
+ralph		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+thanxchris	1
+m		1
+upon		1
+tych		1
+looking		1
+know		1
+friday		1
+astros		1
+tickets		1
+game		1
+stumble		1

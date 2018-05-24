@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+master		3
+enter		2
+willing		2
+aron		1
+credit		1
+under		1
+time		1
+information	1
+until		1
+working		1
+goldman		1
+alan		1
+out		1
+point		1
+gtcs		1
+jeff		1
+obviously	1
+prefer		1
+hammered	1
+agreement	1
+sachs		1
+prepare		1
+gisb		1
+appropriate	1

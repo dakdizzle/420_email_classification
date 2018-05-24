@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+terminated	1
+really		1
+sent		1
+effecitve	1
+contracts	1
+fax		1
+looks		1
+yesterday	1

@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+send		1
+hospital	1
+visit		1
+up		1
+zhiyong		1
+car		1
+transfer	1
+issuethat	1
+accident	1
+vince		1
+experience	1
+speakfrom	1
+during		1
+zimin		1
+more		1
+need		1
+brought		1
+don		1
+flowers		1
+stress		1
+think		1

@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+bob		2
+noon		2
+around		2
+ll		2
+appt		1
+time		1
+folks		1
+shoot		1
+houston		1
+phone		1
+secretary	1
+call		1
+doctor		1
+office		1
+jeff		1
+best		1
+back		1
+tell		1
+cst		1
+called		1
+conference	1

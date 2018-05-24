@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+sarah		1
+part		1
+eol		1
+normal		1
+dutch		1
+trading		1

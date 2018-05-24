@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+accept		1
+letter		1
+kern		1
+termination	1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+oops		1
+already		1
+read		1

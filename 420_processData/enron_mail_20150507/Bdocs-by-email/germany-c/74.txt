@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+job		3
+board		1
+know		1
+postings	1
+hopefully	1
+online		1
+today		1
+origination	1
+wholesale	1
+see		1
+thanks		1
+yesterday	1
+both		1
+posted		1
+two		1
+fill		1
+posting		1
+positions	1
+apply		1
+going		1
+thought		1
+using		1
+area		1

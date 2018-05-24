@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+enron		1
+back		1
+germany		1
+chris		1
+lunch		1
+executive	1
+com		1

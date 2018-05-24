@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+status		1
+recent		1
+epe		1
+genstat		1
+enron		1
+dotect		1
+http		1
+csv		1
+ect		1
+com		1

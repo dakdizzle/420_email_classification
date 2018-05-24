@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+put		1
+wil		1
+contact		1
+shults		1
+bob		1
+joe		1
+okay		1

@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+ll		3
+knows		1
+heard		1
+hear		1
+plan		1
+jerry		1
+up		1
+know		1
+beach		1
+calls		1
+tom		1
+hook		1
+call		1
+talked		1
+way		1
+something	1
+soon		1
+jeff		1
+best		1
+back		1
+traded		1
+probably	1
+wait		1
+surprise	1

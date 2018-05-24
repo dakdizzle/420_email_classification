@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+up		1
+grasshopper	1
+meet		1

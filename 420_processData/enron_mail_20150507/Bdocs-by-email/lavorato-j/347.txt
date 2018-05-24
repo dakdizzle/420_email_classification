@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+april		2
+th		2
+come		1
+back		1
+thursday	1
+leave		1
+vegas		1
+sunday		1
+afternoon	1

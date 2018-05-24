@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+months		2
+state		1
+expiration	1
+section		1
+fyi		1
+before		1
+prior		1

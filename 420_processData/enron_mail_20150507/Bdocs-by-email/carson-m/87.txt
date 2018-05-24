@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+shoes		1
+rwaist		1
+neck		1
+seam		1
+rout		1
+kid		1
+sleeve		1
+coat		1

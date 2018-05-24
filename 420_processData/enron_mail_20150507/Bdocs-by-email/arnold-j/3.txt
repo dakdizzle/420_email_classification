@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+mark		2
+natural		2
+com		2
+john		1
+doc		1
+ng		1
+report		1
+gas		1
+msagel		1
+home		1
+crude		1
+pmto		1
+enron		1
+gasoline	1
+arnold		1
+subject		1
+updatelatest	1
+sagel		1
+thoughts	1
+jarnold		1

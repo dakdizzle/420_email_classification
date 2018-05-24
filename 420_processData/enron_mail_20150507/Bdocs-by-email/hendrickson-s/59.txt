@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+time		2
+article		1
+html		1
+health		1
+http		1
+www		1
+com		1

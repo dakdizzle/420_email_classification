@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+card		1
+down		1
+come		1
+change		1
+chris		1
+dorland		1

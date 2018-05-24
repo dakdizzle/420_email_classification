@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+cell		1
+pls		1
+phone		1
+load		1

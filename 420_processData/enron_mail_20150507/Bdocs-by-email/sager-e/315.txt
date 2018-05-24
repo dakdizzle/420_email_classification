@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+waiver		1
+ok		1
+revised		1
+know		1
+janice		1
+attached	1
+letter		1
+review		1
+help		1
+thanks		1
+version		1
+please		1
+accordance	1
+mail		1
+chance		1
+elizabeth	1
+voice		1

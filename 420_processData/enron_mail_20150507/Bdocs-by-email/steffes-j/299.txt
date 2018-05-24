@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+today		2
+discuss		1
+energy		1
+meeting		1
+steve		1
+anyone		1
+ma		1
+ees		1
+thanks		1
+steps		1
+summit		1
+restructuring	1
+go		1
+going		1
+note		1
+next		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+open		1
+mark		1
+season		1
+watson		1
+thanks		1
+call		1
+expansion	1
+kim		1
+sun		1
+please		1
+questions	1
+devil		1
+document	1
+here		1

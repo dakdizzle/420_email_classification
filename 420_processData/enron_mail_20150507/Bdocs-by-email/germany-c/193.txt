@@ -1,0 +1,17 @@
+NumWords	22
+NumTerms	14
+
+dth		3
+txu		3
+cayanosa	3
+germany		2
+sold		2
+comx		1
+cx		1
+garrick		1
+chris		1
+filename	1
+hill		1
+enron		1
+pstsold		1
+origin		1

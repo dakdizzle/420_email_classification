@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+out		1
+email		1
+check		1
+myself		1
+definitely	1
+thanks		1

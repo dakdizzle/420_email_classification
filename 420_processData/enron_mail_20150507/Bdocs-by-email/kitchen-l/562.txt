@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+rains		1
+pours		1
+never		1

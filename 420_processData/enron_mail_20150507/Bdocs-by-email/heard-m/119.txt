@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+ha		2
+partners	2
+catequil	2
+spare		1
+ltd		1
+counterparties	1
+time		1
+know		1
+marie		1
+following	1
+ready		1
+trade		1
+isdas		1
+thanks		1
+p		1
+overseas	1
+earliest	1
+check		1
+dates		1
+sign		1
+outstanding	1
+diane		1
+hi		1

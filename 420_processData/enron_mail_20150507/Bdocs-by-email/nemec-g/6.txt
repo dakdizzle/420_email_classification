@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+files		1
+retrieve	1
+ogden		1
+legal		1
+schedules	1
+karen		1
+help		1
+thanks		1
+aware		1
+contracts	1
+please		1
+agreements	1
+unfortunately	1
+mary		1
+needed		1
+work		1
+through		1
+brief		1

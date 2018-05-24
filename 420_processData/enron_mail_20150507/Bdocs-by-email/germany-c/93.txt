@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+email		1
+buddy		1
+sending		1
+one		1
+last		1
+works		1
+week		1
+see		1
+worked		1
+don		1
+tried		1
+think		1

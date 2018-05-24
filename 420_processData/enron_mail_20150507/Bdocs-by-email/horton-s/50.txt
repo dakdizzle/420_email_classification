@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+early		1
+under		1
+tho		1
+answer		1
+regards		1
+agreements	1
+occur		1
+made		1
+decision	1
+question	1
+last		1
+don		1
+actual		1
+termination	1
+date		1
+cancel		1
+add		1

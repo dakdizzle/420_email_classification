@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+good		1
+guy		1
+scale		1
+poookss		1

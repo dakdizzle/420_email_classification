@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+mucky		1
+try		1
+know		1
+duck		1
+phone		1
+call		1
+ve		1
+seats		1
+cell		1
+right		1
+go		1
+want		1
+buy		1
+work		1
+tickets		1
+actual		1

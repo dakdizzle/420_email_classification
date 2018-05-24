@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+ammo		1
+means		1
+lot		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+m		1
+man		1
+outside		1
+yes		1
+sure		1
+better		1

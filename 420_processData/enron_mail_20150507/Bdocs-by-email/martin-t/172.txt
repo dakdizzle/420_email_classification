@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+august		2
+everything	1
+dated		1
+letter		1
+tom		1
+see		1
+great		1
+instead		1
+needing		1
+knew		1
+change		1
+made		1
+looked		1
+meant		1

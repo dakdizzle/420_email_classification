@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+group		1
+transportation	1
+twosenior	1
+forwarded	1
+vince		1
+storage		1
+recommendation	1
+peter		1
+executives	1
+resume		1

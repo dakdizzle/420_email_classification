@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+board		1
+meeting		1
+go		1
+night		1
+school		1
+mike		1
+phillip		1
+last		1

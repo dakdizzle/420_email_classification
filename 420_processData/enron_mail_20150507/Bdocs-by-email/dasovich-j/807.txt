@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ve		1
+great		1
+hurry		1
+jeff		1
+best		1
+ready		1
+whenever	1
+problem		1

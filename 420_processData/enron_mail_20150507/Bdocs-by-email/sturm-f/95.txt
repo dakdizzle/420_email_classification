@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+good		1
+laughs		1
+fantastic	1
+rogers		1
+fletch		1
+here		1

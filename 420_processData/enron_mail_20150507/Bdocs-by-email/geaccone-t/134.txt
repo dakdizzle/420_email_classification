@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+fas		1
+adj		1
+goodwill	1

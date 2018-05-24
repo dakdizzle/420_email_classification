@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+electronic	1
+discussed	1
+agreement	1
+trading		1
+here		1

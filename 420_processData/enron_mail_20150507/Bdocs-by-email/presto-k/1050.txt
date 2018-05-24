@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+energy		1
+panel		1
+analyst		1
+super		1
+associate	1
+discussion	1
+attend		1
+usual		1
+business	1
+having		1
+saturday	1
+still		1
+treat		1
+certainly	1

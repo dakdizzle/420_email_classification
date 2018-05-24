@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+name		2
+fb		1
+prcthankskamx	1
+tagg		1
+id		1
+end		1
+risk		1
+mean		1
+form		1
+ex		1
+attaching	1
+andrew		1
+type		1
+exactly		1
+appears		1
+book		1
+one		1
+financial	1
+risktrac	1
+question	1

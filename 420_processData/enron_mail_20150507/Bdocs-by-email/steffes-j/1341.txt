@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+pm		1
+please		1
+thursday	1
+arrange		1
+call		1

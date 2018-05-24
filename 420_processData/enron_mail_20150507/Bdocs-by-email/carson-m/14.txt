@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+taking		1
+march		1
+twist		1
+days		1
+vacation	1

@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+jay		2
+long		1
+agree		1
+term		1
+want		1
+max		1
+consultant	1
+months		1
+deal		1
+call		1
+doesn		1
+talked		1

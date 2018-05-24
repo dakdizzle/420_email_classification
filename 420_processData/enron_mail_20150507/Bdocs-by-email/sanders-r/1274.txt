@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+care		1
+don		1

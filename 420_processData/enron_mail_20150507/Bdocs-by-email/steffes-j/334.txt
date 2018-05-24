@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+cheap		1
+course		1
+play		1
+ll		1

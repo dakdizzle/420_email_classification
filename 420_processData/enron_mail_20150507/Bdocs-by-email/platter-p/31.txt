@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+marinate	1
+da		1
+best		1
+fo		1
+turkee		1
+fryin		1

@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+transaction	1
+sp		1
+know		1
+monthly		1
+above		1
+daily		1
+asked		1
+collateralization	1
+delapino	1
+look		1
+chase		1
+familiar	1
+rick		1
+jeff		1
+change		1
+deal		1

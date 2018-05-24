@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+meeting		1
+stand		1
+river		1
+meetings	1
+isda		1
+tuesday		1
+take		1
+thanks		1
+kim		1
+traveling	1
+project		1
+arizona		1
+comments	1
+salt		1
+next		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+mierthanks	1
+deancasey	1
+meyerscraig	1
+group		1
+time		1
+solbergholden	1
+salisburybert	1
+members		1
+real		1
+bill		1
+andersonmike	1
+sure		1
+slingergeir	1
+ryan		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+attending	1
+mc		1
+old		1
+wife		1
+son		1
+mo		1

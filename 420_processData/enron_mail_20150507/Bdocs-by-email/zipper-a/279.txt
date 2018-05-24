@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+dinner		1
+lets		1
+messages	1
+sorry		1
+works		1
+tuesday		1
+next		1
+didn		1

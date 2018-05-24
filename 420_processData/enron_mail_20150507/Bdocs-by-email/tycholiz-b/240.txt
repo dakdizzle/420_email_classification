@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+home		1
+fax		1
+cell		1
+back		1
+sure		1
+bt		1

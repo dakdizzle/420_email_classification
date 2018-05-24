@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+card		1
+gave		1
+faxed		1
+weeks		1
+note		1
+help		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+little		1
+morning		1
+kim		1
+tomorrow	1
+cat		1
+need		1
+approximately	1
+late		1
+vet		1
+tuesday		1
+take		1
+thanks		1

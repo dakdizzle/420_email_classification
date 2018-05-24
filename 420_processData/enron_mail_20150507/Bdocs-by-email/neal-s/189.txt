@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+pm		2
+plays		2
+gobe		1
+stadium		1
+wednesday	1
+school		1
+tuesday		1
+high		1
+spring		1
+brett		1
+mac		1
+branch		1
+colton		1
+haik		1
+old		1
+behind		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+medium		1
+size		1
+gretchen	1
+thanks		1

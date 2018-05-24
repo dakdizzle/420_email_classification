@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+intra		2
+phy		2
+pl		1
+northeast	1
+risktrac	1
+east		1

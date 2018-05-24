@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+support		1
+best		1
+charles		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lynn		1
+terry		1
+well		1
+attend		1
+thanks		1

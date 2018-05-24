@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+know		2
+cuts		1
+kim		1
+soon		1
+sean		1
+occur		1
+future		1
+going		1
+shannon		1
+thanks		1

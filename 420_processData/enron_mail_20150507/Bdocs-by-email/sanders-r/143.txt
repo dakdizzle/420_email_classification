@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+greg		2
+mark		1
+check		1
+talk		1
+rehabilitate	1
+whether		1
+before		1
+going		1
+see		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+m		1
+again		1
+suprise		1
+having		1
+surprise	1
+prblms		1

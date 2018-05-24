@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+vacation	2
+week		2
+funny		1
+hey		1
+jimbo		1
+sorry		1
+take		1
+never		1
+anyway		1
+gone		1
+space		1
+entire		1
+one		1
+ll		1

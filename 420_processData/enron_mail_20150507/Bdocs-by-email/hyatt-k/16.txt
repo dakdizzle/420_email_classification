@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+treasurer	1
+thx		1
+need		1
+copies		1
+receipts	1
+ll		1

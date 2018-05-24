@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+monthly		1
+correct		1
+thanks		1

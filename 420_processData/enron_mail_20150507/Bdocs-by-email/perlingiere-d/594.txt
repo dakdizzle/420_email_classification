@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+begin		1
+reviewing	1
+today		1
+thanks		1

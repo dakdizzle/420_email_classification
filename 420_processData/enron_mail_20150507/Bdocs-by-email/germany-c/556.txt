@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+attorney	2
+enron		2
+mark		1
+hired		1
+specializing	1
+pipeline	1
+special		1
+transportation	1
+proctor		1
+contracts	1
+expertise	1
+bankruptcy	1
+transport	1
+storage		1
+staff		1
+handle		1
+goes		1
+shemin		1
+works		1

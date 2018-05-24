@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+day		1
+free		1
+now		1
+rest		1
+actually	1

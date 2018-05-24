@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+seen		1
+forms		1
+vince		1
+greg		1
+talk		1
+remainsto	1
+anne		1
+yes		1

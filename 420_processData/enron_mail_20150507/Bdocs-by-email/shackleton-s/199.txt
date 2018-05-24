@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+up		1
+jeff		1
+fyi		1
+csfb		1
+foul		1

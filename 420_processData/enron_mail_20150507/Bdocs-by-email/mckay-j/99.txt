@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+good		1
+clock		1
+know		1
+one		1
+sooner		1
+till		1
+always		1
+better		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+don		2
+collect		1
+m		1
+loser		1
+pool		1
+need		1
+going		1
+still		1
+worry		1

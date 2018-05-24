@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+yhoo		4
+cb		1
+asp		1
+story		1
+marketwatch	1
+guid		1
+siteid		1
+http		1
+www		1
+article		1
+good		1
+source		1
+dist		1
+another		1
+blq		1
+e		1
+d		1
+df		1
+bd		1
+b		1
+news		1
+com		1
+here		1

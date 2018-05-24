@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+stood		1
+gas		1
+supplies	1
+going		1
+selection	1
+see		1
+checking	1

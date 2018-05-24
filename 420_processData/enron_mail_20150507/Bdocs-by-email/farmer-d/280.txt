@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+somebody	1
+hey		1
+man		1
+d		1
+fix		1
+week		1
+schedule	1
+play		1

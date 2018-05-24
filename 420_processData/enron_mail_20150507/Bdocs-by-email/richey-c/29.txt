@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+end		1
+going		1
+interest	1
+vegas		1
+feb		1

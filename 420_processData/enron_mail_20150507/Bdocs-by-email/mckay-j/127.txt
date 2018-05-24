@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+care		1
+send		1
+please		1
+july		1
+jon		1
+already		1
+data		1
+take		1
+didn		1

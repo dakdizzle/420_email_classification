@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+miles		2
+upgrades	2
+louise		1
+following	1
+round		1
+trip		1
+way		1
+deducted	1
+please		1
+wa		1
+back		1
+one		1
+netteltonjohn	1
+netteltonwhen	1
+add		1
+netteltonscott	1

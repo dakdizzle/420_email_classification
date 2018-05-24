@@ -1,0 +1,22 @@
+NumWords	30
+NumTerms	19
+
+ect		4
+vince		4
+hou		3
+kaminski	3
+geman		2
+pm		1
+math		1
+helyette	1
+sstinson	1
+edu		1
+reached		1
+contact		1
+stinson		1
+forwarded	1
+pmto		1
+umass		1
+ectcc		1
+subject		1
+gibner		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+defg		1
+mwhitt		1
+abc		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+eticket		1
+forward		1
+pls		1
+thx		1
+hyatt		1
+kevin		1
+ecn		1

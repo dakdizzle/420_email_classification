@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ca		1
+information	1
+know		1
+questions	1
+mary		1
+following	1
+based		1
+prepare		1
+thanks		1

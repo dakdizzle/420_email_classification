@@ -1,0 +1,27 @@
+NumWords	50
+NumTerms	24
+
+cn		11
+recipients	5
+na		5
+enron		5
+ou		5
+dana		1
+mark		1
+rbenson		1
+benson		1
+dsmith		1
+doug		1
+fsturm		1
+robert		1
+davis		1
+notesaddr	1
+harry		1
+fletcher	1
+sturm		1
+smith		1
+eec		1
+harora		1
+arora		1
+ab		1
+gilbert		1

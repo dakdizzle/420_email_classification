@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+name		2
+email		1
+handy		1
+send		1
+used		1
+cooper		1
+thx		1
+last		1
+realtors	1
+deleted		1
+address		1
+movers		1

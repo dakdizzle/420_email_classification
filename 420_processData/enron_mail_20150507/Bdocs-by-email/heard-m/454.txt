@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+send		1
+copy		1
+final		1
+supposed	1
+marie		1
+heck		1
+schedule	1
+thanks		1
+remember	1
+couldn		1
+tracy		1
+paragraph	1
+hi		1
+here		1

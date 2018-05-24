@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+point		2
+drn		2
+eddie		1
+flow		1
+value		1
+enter		1
+until		1
+automate	1
+ihs		1
+corresponding	1
+populate	1
+database	1
+entry		1
+pipeline	1
+type		1
+manual		1
+please		1
+northwest	1
+need		1
+manually	1
+mat		1
+jpinv		1
+new		1
+ll		1

@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+sent		2
+change		2
+campos		1
+anthony		1
+create		1
+counterparty	1
+name		1
+today		1
+won		1
+th		1
+path		1
+message		1
+another		1
+asking		1
+mail		1
+access		1
+deal		1
+don		1
+new		1

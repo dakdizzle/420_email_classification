@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+look		2
+really		1
+picture		1
+send		1
+ok		1
+mean		1
+yes		1
+remember	1

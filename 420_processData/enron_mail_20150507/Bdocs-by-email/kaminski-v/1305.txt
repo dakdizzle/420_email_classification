@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+vince		2
+parents		1
+coming		1
+job		1
+brian		1
+aging		1
+insane		1
+vin		1
+ask		1
+blackbird	1
+otherwisw	1
+thanks		1
+home		1
+two		1
+great		1
+asap		1
+shall		1
+go		1
+staying		1
+weekend		1
+last		1
+think		1
+kaminski	1

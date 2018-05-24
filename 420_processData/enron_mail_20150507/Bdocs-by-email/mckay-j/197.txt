@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+home		1
+regards		1
+golfing		1
+cell		1
+touch		1
+jon		1
+reached		1
+work		1
+need		1
+eg		1

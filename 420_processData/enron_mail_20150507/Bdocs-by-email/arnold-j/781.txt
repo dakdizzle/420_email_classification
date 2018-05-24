@@ -1,0 +1,8 @@
+NumWords	7
+NumTerms	5
+
+ha		3
+right		1
+corporate	1
+yea		1
+marketing	1

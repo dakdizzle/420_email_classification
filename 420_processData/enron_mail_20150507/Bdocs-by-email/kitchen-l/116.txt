@@ -1,0 +1,24 @@
+NumWords	28
+NumTerms	21
+
+tax		3
+return		2
+those		2
+options		2
+covered		2
+last		2
+copy		1
+louise		1
+terms		1
+paying		1
+thanks		1
+confused	1
+years		1
+unforttuantely	1
+check		1
+double		1
+year		1
+concerned	1
+exercised	1
+contatable	1
+here		1

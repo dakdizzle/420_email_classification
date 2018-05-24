@@ -1,0 +1,8 @@
+NumWords	7
+NumTerms	5
+
+day		2
+bad		2
+come		1
+kick		1
+over		1

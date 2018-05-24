@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+chatrooms	1
+honey		1
+post		1

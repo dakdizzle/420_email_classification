@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+salon		1
+agua		1
+appt		1
+manicure	1
+ily		1
+fyi		1
+meds		1
+noon		1
+forget		1
+number		1
+herschel	1
+blood		1
+pressure	1
+medicine	1
+refridgerator	1
+msn		1
+tomorrow	1
+one		1
+book		1
+don		1

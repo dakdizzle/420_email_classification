@@ -1,0 +1,21 @@
+NumWords	24
+NumTerms	18
+
+th		3
+california	2
+friday		2
+schedule	2
+july		2
+problems	1
+case		1
+lisa		1
+scheduling	1
+rd		1
+cover		1
+advance		1
+come		1
+nw		1
+sw		1
+normal		1
+here		1
+resume		1

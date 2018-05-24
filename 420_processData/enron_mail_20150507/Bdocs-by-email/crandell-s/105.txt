@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+seem		1
+easy		1
+make		1
+amy		1
+thanks		1

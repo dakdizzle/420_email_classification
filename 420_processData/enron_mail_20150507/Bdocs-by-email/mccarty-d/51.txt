@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+kim		1
+talk		1
+wouldn		1
+ll		1

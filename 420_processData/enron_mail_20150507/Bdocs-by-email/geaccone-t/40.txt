@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+something	1
+eb		1
+meeting		1
+know		1
+want		1
+thankstracy	1
+briefly		1
+mail		1
+audrey		1
+danny		1
+call		1
+afternoon	1

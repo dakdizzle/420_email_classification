@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+kitchen		2
+louise		2
+cn		2
+mark		1
+now		1
+recipients	1
+filename	1
+na		1
+help		1
+lkitchen	1
+clearly		1
+enron		1
+please		1
+pstthere	1
+ou		1
+asking		1
+resolve		1
+issue		1
+weeks		1
+here		1

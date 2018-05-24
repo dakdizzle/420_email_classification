@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+vitol		1
+attached	1
+comments	1
+see		1

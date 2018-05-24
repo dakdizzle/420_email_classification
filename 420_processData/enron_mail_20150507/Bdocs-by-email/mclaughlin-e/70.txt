@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+calc		2
+connect		1
+saying		1
+up		1
+id		1
+copy		1
+try		1
+post		1
+desktop		1
+shortcut	1
+help		1
+unable		1
+thanks		1
+norman		1
+message		1
+please		1
+errol		1
+set		1
+using		1

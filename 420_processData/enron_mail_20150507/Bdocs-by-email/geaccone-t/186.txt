@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+attachements	1
+forgot		1
+opps		1

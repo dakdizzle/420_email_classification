@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+juan		2
+group		1
+respect		1
+hourly		1
+myself		1
+forney		1
+having		1
+doug		1
+se		1
+carson		1

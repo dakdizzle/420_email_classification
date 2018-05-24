@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+thankskk	1
+out		1
+word		1
+cash		1
+lavo		1
+know		1
+trying		1
+once		1
+traders		1
+figure		1
+still		1
+ll		1

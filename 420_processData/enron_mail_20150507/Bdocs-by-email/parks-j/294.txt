@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+good		1
+cerals		1
+pancakes	1
+up		1
+wheat		1
+weekend		1
+coffee		1
+buck		1
+load		1
+think		1

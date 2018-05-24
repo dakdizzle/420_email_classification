@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+know		2
+friend		2
+music		2
+hear		1
+open		1
+today		1
+snot		1
+see		1
+schedule	1
+call		1
+something	1
+put		1
+listen		1
+professionally	1
+familiar	1
+yes		1
+thought		1
+charge		1

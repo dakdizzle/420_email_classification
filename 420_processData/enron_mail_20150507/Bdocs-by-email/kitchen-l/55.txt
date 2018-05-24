@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+seeking		1
+response	1
+still		1
+help		1

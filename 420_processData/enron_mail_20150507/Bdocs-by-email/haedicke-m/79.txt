@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+mark		2
+mhaedic		2
+cn		2
+ca		1
+looking		1
+portland	1
+pstrichard	1
+person		1
+houston		1
+whether		1
+recipients	1
+tape		1
+filename	1
+na		1
+privileged	1
+haedicke	1
+non		1
+enron		1
+line		1
+ou		1

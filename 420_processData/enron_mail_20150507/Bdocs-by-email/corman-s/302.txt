@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+halliburton	1
+crazy		1
+back		1
+things		1
+ditto		1
+sounds		1
+week		1

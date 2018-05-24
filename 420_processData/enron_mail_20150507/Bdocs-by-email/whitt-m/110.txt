@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+near		1
+today		1
+good		1
+teens		1
+mid		1
+words		1
+buy		1
+bottom		1
+bought		1
+last		1
+famous		1
+very		1
+think		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+welcome		1
+ultimately	1
+aboard		1
+fantastic	1
+happy		1
+tom		1
+worked		1

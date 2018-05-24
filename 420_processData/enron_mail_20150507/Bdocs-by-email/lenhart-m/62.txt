@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+butt		1
+mississippi	1
+looking		1
+following	1
+ready		1
+rock		1
+fucking		1
+go		1
+weekend		1
+tell		1
+foward		1
+don		1
+val		1

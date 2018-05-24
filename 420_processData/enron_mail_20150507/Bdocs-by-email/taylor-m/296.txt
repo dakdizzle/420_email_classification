@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+monday		1
+meeting		1
+enron		1
+scheduled	1
+recipients	1
+ou		1
+already		1
+hardeway	1
+na		1
+gretchen	1
+ghardewa	1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+pays		1
+god		1
+math		1
+thank		1
+grammer		1
+more		1

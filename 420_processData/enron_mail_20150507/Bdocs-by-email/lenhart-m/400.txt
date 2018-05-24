@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+cause		1
+weekend		1
+lost		1
+everyone	1
+pissed		1

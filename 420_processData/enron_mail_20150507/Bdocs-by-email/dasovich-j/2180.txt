@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+want		1
+bev		1
+hedy		1
+call		1

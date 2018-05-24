@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+piper		1
+sense		1
+owns		1
+today		1
+decision	1
+incorrect	1
+eol		1
+code		1
+sale		1
+licence		1

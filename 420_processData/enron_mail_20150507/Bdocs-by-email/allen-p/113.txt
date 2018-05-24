@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+pallen		2
+cn		2
+financial	2
+pstis		1
+commission	1
+understanding	1
+implemented	1
+recipients	1
+phillip		1
+filename	1
+na		1
+markets		1
+privileged	1
+non		1
+gather		1
+enron		1
+trades		1
+jurisdiction	1
+ou		1
+data		1
+chance		1
+allen		1
+request		1
+over		1

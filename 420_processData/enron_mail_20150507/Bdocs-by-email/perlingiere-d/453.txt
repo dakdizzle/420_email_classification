@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+discuss		1
+party		1
+close		1
+greater		1
+negotiating	1
+counter		1
+withthis	1
+months		1
+agreement	1
+give		1
+call		1

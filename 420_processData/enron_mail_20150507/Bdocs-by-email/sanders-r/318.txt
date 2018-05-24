@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+sanders		2
+cn		2
+richard		2
+monday		1
+time		1
+up		1
+talk		1
+recipients	1
+filename	1
+na		1
+pstplease	1
+call		1
+privileged	1
+rsander		1
+non		1
+possible	1
+enron		1
+ou		1
+week		1
+set		1
+next		1

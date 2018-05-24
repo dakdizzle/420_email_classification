@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+conferences	1
+structure	1
+video		1
+detail		1
+hr		1
+enrons		1
+houston		1
+bonus		1
+lined		1
+couple		1
+better		1

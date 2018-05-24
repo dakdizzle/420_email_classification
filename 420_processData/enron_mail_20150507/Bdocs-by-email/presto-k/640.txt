@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+hear		1
+glad		1

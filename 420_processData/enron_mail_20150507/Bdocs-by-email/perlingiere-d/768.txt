@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+debra		2
+discuss		1
+eb		1
+fax		1
+ena		1
+legal		1
+attached	1
+draft		1
+houston		1
+street		1
+provisions	1
+call		1
+special		1
+america		1
+enron		1
+texas		1
+please		1
+north		1
+smith		1
+perlingiereenron	1
+perlingiere	1
+give		1
+gisb		1
+com		1

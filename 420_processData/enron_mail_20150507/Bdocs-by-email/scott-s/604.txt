@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+email		1
+shoot		1
+few		1
+west		1
+ask		1
+susan		1
+curves		1
+hoping		1
+thanks		1
+keith		1
+collecting	1
+holst		1
+questions	1
+charge		1
+chance		1

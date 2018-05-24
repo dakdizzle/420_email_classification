@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+bickerstaff	1
+renee		1
+start		1

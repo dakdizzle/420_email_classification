@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+know		2
+suspension	1
+tough		1
+texas		1
+deals		1
+janet		1
+question	1
+kay		1
+impacted	1
+license		1
+penn		1

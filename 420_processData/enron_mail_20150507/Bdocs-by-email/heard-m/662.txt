@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+calgary		1
+party		1
+place		1
+avenue		1
+w		1
+entities	1
+canada		1
+netting		1
+rd		1
+p		1
+principal	1
+master		1
+alberta		1
+enron		1
+tell		1
+corp		1
+business	1
+agreement	1
+sure		1

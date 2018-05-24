@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lynn		1
+kathy		1
+reviewers	1
+concerns	1
+please		1
+know		1
+one		1
+change		1
+chris		1
+thanks		1
+janzen		1
+randy		1

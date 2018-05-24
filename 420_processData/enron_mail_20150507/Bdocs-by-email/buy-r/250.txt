@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+rick		1
+files		1
+protected	1
+password	1

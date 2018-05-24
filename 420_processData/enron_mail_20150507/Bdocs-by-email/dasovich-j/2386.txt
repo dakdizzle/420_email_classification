@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+greetings	1
+jeff		1
+best		1
+decide		1
+today		1
+walking		1
+wounded		1
+call		1

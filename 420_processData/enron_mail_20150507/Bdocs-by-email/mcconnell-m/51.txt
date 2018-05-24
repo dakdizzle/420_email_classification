@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+care		1
+mark		1
+glad		1
+d		1
+take		1

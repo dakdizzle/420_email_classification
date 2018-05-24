@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+bill		2
+wrong		1
+holly		1
+card		1
+portland	1
+williams	1
+involved	1
+access		1
+think		1
+thanks		1

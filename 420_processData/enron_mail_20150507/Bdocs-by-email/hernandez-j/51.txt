@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+make		1
+up		1
+olds		1
+guys		1
+keep		1
+daddy		1
+behave		1
+seem		1
+nice		1
+good		1
+m		1
+alway		1
+rice		1
+work		1
+year		1
+crowd		1
+mail		1
+big		1

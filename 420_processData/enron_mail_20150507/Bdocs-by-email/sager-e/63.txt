@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+time		2
+thanks		2
+make		1
+invite		1
+elizaabeth	1
+th		1
+bob		1
+golf		1
+hit		1
+ball		1
+played		1
+unfortunately	1
+again		1
+maybe		1
+sager		1
+last		1
+haven		1
+hi		1
+next		1

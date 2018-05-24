@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+policy		1
+ok		1
+rick		1

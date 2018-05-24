@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+eb		1
+office		1
+sara		1
+today		1
+coned		1
+reminder	1
+conference	1
+call		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+down		1
+items		1
+links		1
+baby		1
+web		1
+below		1
+blue		1
+necessary	1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+anyway		1
+cant		1
+go		1
+even		1
+jmf		1
+offer		1
+thanks		1
+head		1

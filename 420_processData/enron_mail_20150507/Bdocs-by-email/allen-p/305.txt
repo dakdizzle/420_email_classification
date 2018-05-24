@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+interview	1
+program		1
+recommend	1
+spoke		1
+phillip		1
+chance		1
+given		1
+brent		1
+adrianne	1

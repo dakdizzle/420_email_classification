@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+please		1
+hr		1
+know		1
+contact		1
+mike		1
+need		1
+pursue		1
+decided		1

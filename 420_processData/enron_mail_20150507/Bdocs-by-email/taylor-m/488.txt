@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+hanging		1
+note		1
+thanks		1

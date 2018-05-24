@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+little		1
+pic		1
+one		1
+thought		1
+see		1

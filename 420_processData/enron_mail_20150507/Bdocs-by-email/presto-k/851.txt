@@ -1,0 +1,27 @@
+NumWords	31
+NumTerms	24
+
+org		3
+presto		2
+chart		2
+ect		2
+kevin		2
+hou		2
+asst		1
+pm		1
+west		1
+fyi		1
+wanted		1
+chartkevin	1
+thanks		1
+jae		1
+forwarded	1
+tjae		1
+pmto		1
+tamara		1
+ectcc		1
+black		1
+want		1
+subject		1
+replicate	1
+here		1

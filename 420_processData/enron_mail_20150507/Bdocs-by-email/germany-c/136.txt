@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+order		1
+until		1
+know		1
+now		1
+effect		1
+following	1
+mean		1
+answer		1
+see		1
+out		1
+court		1
+document	1
+filed		1
+question	1
+shemin		1
+law		1
+becoming	1
+week		1
+guru		1
+next		1

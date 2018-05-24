@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+morning		1
+group		1
+meeting		1
+interesting	1
+pretty		1

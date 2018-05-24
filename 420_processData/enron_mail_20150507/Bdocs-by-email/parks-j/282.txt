@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+see		2
+first		1
+picture		1
+lets		1
+want		1

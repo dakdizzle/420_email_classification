@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+person		1
+thought		1

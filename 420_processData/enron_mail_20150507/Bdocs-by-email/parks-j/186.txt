@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+credit		2
+responded	1
+notice		1
+hear		1
+issues		1
+sent		1
+imediately	1
+williams	1
+letter		1
+waiting		1

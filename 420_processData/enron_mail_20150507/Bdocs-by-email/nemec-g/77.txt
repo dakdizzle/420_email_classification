@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+clear		2
+make		1
+operating	1
+indicate	1
+lisa		1
+installation	1
+arranging	1
+owning		1
+fine		1
+compressors	1
+ecs		1
+wasn		1
+look		1
+section		1
+equipment	1
+changes		1
+portion		1
+added		1
+sentence	1

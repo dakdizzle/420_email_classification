@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+mark		1
+long		1
+waiver		1
+grant		1
+basis		1
+ok		1
+enron		1
+against		1
+litigation	1
+pursue		1
+never		1
+firm		1

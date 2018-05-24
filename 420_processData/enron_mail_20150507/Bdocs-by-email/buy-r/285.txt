@@ -1,0 +1,14 @@
+NumWords	15
+NumTerms	11
+
+cn		4
+recipients	2
+enron		1
+rick		1
+fyi		1
+tmurph		1
+ou		1
+na		1
+ted		1
+murphy		1
+eu		1

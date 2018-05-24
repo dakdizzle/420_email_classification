@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+needed		1
+approval	1
+still		1

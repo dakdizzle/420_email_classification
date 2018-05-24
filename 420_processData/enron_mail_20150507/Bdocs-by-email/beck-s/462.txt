@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+sbeck		2
+cn		2
+sally		2
+know		1
+recipients	1
+flexible	1
+filename	1
+na		1
+expect		1
+call		1
+christina	1
+privileged	1
+pstsounds	1
+good		1
+non		1
+enron		1
+assistant	1
+ou		1
+beck		1

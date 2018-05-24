@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+remove		1
+history		1
+know		1
+available	1
+want		1
+going		1
+never		1
+general		1

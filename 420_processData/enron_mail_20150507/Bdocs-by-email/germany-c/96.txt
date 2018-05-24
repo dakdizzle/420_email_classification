@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+chris		2
+cn		2
+germany		2
+pstdone		1
+cgerman		1
+recipients	1
+filename	1
+na		1
+kevin		1
+bet		1
+pathing		1
+involve		1
+enron		1
+unify		1
+ou		1
+doing		1

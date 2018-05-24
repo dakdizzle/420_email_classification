@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+stacyoctober	1
+fine		1
+sager		1
+rd		1
+thankselizabeth	1
+schedule	1
+hi		1

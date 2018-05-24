@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+energy		1
+class		1
+math		1
+folks		1
+th		1
+schedule	1
+thanks		1
+possible	1
+bert		1
+please		1
+bill		1
+go		1
+attend		1
+november	1

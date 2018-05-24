@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+anything	1
+make		1
+hardly		1
+nobody		1
+talk		1
+want		1
+last		1
+meet		1
+sure		1

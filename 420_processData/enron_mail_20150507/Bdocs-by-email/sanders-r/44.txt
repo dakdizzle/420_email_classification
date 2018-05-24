@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+fear		1
+problems	1
+plan		1
+suggestions	1
+fyi		1
+mninmize	1
+derrick		1
+walls		1
+involvement	1
+many		1
+go		1
+need		1
+told		1
+upset		1
+deal		1
+fcpa		1
+develope	1

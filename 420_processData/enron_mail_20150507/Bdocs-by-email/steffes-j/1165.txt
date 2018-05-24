@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+pm		2
+cn		2
+make		1
+nicolay		1
+time		1
+october		1
+vacation	1
+recipients	1
+susan		1
+phone		1
+canada		1
+christi		1
+central		1
+tuesday		1
+na		1
+call		1
+gmt		1
+cnicola		1
+enron		1
+ou		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+copy		1
+chris		1
+kk		1
+yesterday	1
+thanks		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+michelle	1
+provide		1
+insight		1
+thanks		1

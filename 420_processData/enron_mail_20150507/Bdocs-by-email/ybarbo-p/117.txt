@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+specs		2
+paul		1
+mentioned	1
+comment		1
+gas		1
+spot		1
+sect		1
+operations	1
+see		1
+thanks		1
+circulate	1
+quality		1
+anything	1
+look		1
+engineering	1
+please		1
+equipment	1
+want		1
+added		1
+d		1
+next		1
+add		1
+needs		1

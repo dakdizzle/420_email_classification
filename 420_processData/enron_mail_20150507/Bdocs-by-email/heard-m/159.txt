@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+out		1
+morning		1
+around		1
+meeting		1
+know		1
+yes		1

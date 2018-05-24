@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+year		2
+budget		1
+start		1
+want		1
+timing		1
+perfect		1
+never		1
+next		1

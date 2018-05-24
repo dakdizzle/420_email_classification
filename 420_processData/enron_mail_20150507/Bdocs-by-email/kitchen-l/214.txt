@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+kitchen		2
+louise		2
+cn		2
+enron		2
+ok		1
+thankslouise	1
+webb		1
+recipients	1
+pstjimplease	1
+filename	1
+na		1
+confirm		1
+lkitchen	1
+vince		1
+source		1
+release		1
+ou		1
+jay		1
+code		1

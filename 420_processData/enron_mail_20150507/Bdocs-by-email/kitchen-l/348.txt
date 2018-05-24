@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hectic		1
+time		1
+things		1
+february	1
+now		1
+meet		1
+very		1
+sold		1

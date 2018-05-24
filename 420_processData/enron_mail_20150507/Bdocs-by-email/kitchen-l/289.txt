@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+kill		1
+suggest		1
+end		1
+before		1
+week		1
+thoughts	1

@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+hope		2
+surprised	1
+cheers		1
+beer		1
+hear		1
+day		1
+well		1
+tim		1
+uk		1
+canada		1
+trip		1
+actually	1
+sharing		1
+jon		1
+mail		1
+went		1
+pleasantly	1
+rest		1
+hi		1

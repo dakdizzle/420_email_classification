@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+nice		1
+question	1
+avoided		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+ve		1
+good		1
+working		1
+production	1
+tw		1
+outfit		1
+same		1
+luck		1
+cedar		1
+red		1
+handles		1

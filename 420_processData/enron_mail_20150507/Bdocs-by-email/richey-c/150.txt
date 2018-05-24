@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+notice		1
+mrs		1
+strategy	1
+hawker		1
+nametag		1
+nickname	1
+reads		1
+now		1
+keeping		1
+pretending	1
+jai		1

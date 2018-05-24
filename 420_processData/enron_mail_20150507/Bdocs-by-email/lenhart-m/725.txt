@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+going		1
+zero		1

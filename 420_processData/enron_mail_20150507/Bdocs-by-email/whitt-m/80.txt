@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+pig		1
+way		1
+something	1
+m		1
+totals		1
+barry		1
+reasonable	1
+sure		1
+looks		1
+sizable		1
+add		1

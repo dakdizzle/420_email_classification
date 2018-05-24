@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+care		1
+hear		1
+kill		1
+lavo		1
+distribute	1
+handle		1
+steve		1
+guys		1
+pls		1
+told		1
+bt		1

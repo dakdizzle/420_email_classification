@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+effected	1
+asap		1
+please		1
+plants		1
+names		1
+give		1

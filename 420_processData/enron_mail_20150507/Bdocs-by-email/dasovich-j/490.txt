@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+dwr		2
+attempts	1
+heard		1
+seems		1
+mentioned	1
+california	1
+days		1
+meet		1
+someone		1
+greetings	1
+jeff		1
+best		1
+barry		1
+radioactive	1
+week		1
+checking	1

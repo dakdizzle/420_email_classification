@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+org		2
+chart		1
+send		1
+sent		1
+asap		1
+rick		1
+accidently	1
+person		1
+rac		1
+charts		1
+handles		1

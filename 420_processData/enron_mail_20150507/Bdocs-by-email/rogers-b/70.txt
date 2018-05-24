@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+good		1
+club		1
+meet		1
+sounds		1
+briar		1

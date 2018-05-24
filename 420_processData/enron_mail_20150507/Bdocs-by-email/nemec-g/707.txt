@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+russell		2
+agreed		1
+fax		1
+step		1
+gulf		1
+attached	1
+chris		1
+forwarded	1
+descriptions	1
+signed		1
+document	1
+tract		1
+dave		1
+next		1

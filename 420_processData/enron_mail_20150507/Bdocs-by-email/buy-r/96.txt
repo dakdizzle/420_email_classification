@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+now		2
+laugh		1
+return		1
+hopefully	1
+beach		1
+bank		1
+thanks		1
+asylum		1
+happened	1
+enjoying	1
+right		1
+rick		1
+af		1
+imagine		1
+deal		1
+normal		1

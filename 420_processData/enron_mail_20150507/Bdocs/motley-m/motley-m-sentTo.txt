@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+bjm@jps.net	2
+kevin.paley@cinergy.com	1
+togrady@utilicorp.com	1
+robert.anderson@enron.com	1
+oceanos@jazzfree.com	1
+rhaik@prebon.com	1
+tjkramer@duke-energy.com	1
+bjm30@earthlink.net	1
+billm@trans-tel.com	1
+kswalker@sbcglobal.net	1
+kmcguinn@gsb.uchicago.edu	1

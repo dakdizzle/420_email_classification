@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+talk		1
+through		1

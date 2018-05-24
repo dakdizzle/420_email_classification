@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+events		1
+party		1
+thing		1
+scott		1
+today		1
+filename	1
+transfer	1
+psthate		1
+privileged	1
+shot		1
+content		1
+entire		1
+non		1
+sscott		1
+encoding	1
+origin		1
+sx		1
+bitx		1
+last		1
+contest		1
+week		1
+pooper		1
+mind		1
+based		1

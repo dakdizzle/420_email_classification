@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+done		1
+consider	1
+sure		1

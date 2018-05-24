@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+substantially	1
+reduced		1
+requirementst	1
+margin		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+star		1
+original	1
+trek		1
+pre		1

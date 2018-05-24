@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+forgot		1
+thought		1
+damn		1

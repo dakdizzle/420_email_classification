@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+apr		2
+oct		2
+put		1
+vs		1
+please		1
+justin		1
+options		1
+book		1
+today		1
+mike		1
+trade		1

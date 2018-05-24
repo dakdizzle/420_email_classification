@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+heard		1
+message		1
+back		1
+sara		1
+left		1
+earlier		1
+alex		1

@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+gaby		2
+tami		1
+open		1
+barbara		1
+host		1
+maggie		1
+houston		1
+paniagua	1
+syckle		1
+offer		1
+head		1
+house		1
+linda		1
+many		1
+please		1
+bakanic		1
+yes		1
+tx		1
+address		1
+still		1
+van		1
+leader		1
+here		1
+add		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+preferred	1
+house		1
+pm		1
+dinner		1
+eatzi		1
+catering	1
+jason		1
+casual		1
+see		1
+dress		1

@@ -1,0 +1,22 @@
+NumWords	24
+NumTerms	19
+
+alex		3
+meeting		2
+shapiro		2
+lay		2
+time		1
+working		1
+course		1
+spend		1
+talked		1
+points		1
+people		1
+m		1
+talking		1
+fighting	1
+come		1
+devries		1
+before		1
+town		1
+okay		1

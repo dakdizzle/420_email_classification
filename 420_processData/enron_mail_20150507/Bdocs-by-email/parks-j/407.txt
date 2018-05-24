@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+anything	1
+phil		1
+dont		1
+centana		1
+lets		1
+going		1
+fast		1
+forcast		1
+happen		1
+think		1
+take		1

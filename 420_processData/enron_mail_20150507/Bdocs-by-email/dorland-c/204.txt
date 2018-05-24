@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+april		1
+m		1
+owe		1
+update		1
+aren		1
+untill		1
+going		1
+thanx		1
+chris		1
+mine		1
+getting		1

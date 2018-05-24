@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+hire		2
+copy		1
+sending		1
+gave		1
+today		1
+upstairs	1
+ex		1
+asap		1
+guy		1
+metals		1
+trader		1
+ago		1
+another		1
+level		1
+manager		1
+months		1
+resume		1

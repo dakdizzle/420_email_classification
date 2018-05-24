@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+send		1
+drive		1
+copy		1
+hard		1
+thank		1
+chandler	1
+hodge		1
+application	1
+spring		1
+concern		1
+court		1
+texas		1
+nicole		1
+bhp		1
+jeff		1
+please		1
+center		1

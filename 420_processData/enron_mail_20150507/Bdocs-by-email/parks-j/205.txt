@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+parks		2
+cn		2
+joe		2
+kids		1
+party		1
+make		1
+pstcant		1
+recipients	1
+filename	1
+na		1
+enron		1
+jparks		1
+ou		1
+birthday	1
+date		1

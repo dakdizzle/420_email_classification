@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+forwarded	1
+department	1
+credit		1

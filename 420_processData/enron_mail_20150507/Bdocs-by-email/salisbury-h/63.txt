@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+day		1
+under		1
+used		1
+enpowered	1
+nevada		1
+transmission	1
+abd		1
+never		1
+thanks		1
+tranny		1
+mine		1

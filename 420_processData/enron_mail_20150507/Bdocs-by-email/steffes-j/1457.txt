@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+discuss		1
+happening	1
+today		1
+susan		1
+earlier		1
+weren		1
+call		1
+jim		1
+list		1
+please		1
+charles		1
+understand	1
+want		1
+don		1

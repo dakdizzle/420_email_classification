@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+make		1
+reducing	1
+risk		1
+box		1
+trades		1
+name		1
+thanx		1
+sure		1
+file		1
+helpchris	1
+drop		1

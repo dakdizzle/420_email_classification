@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+items		2
+being		2
+considered	2
+going		2
+ferc		1
+signigicant	1
+meeting		1
+know		1
+ruled		1
+itmes		1
+weekly		1
+agenda		1
+consent		1
+want		1
+ahead		1
+toknow		1
+yes		1
+need		1
+item		1

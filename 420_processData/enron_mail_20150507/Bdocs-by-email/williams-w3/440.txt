@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+good		2
+email		1
+heard		1
+respond		1
+forever		1
+fourth		1
+hello		1
+wanted		1
+wish		1
+morning		1
+july		1
+unfortunately	1
+crystal		1
+last		1
+chance		1
+haven		1

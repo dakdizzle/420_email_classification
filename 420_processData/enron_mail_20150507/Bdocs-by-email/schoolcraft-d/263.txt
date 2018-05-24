@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+flow		1
+looking		1
+know		1
+find		1
+ds		1
+out		1
+something	1
+point		1
+measurement	1
+asap		1
+control		1
+back		1
+week		1
+tech		1

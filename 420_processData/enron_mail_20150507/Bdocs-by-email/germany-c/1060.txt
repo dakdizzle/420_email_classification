@@ -1,0 +1,26 @@
+NumWords	30
+NumTerms	23
+
+com		3
+chris		2
+joni		2
+enron		2
+germany		2
+veselack	2
+taking		1
+doggoneit	1
+late		1
+trip		1
+neg		1
+chic		1
+chick		1
+pge		1
+waited		1
+pmto		1
+go		1
+tenn		1
+subject		1
+toooooooo	1
+business	1
+tickets		1
+doing		1

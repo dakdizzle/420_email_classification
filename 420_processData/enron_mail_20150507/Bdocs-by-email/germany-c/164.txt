@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+asp		1
+growingfamily	1
+webnursery	1
+www		1
+view		1
+thanks		1
+babypage	1
+urlid		1
+k		1
+photohttp	1
+another		1
+yes		1
+com		1

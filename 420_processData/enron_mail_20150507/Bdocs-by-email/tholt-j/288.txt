@@ -1,0 +1,7 @@
+NumWords	8
+NumTerms	4
+
+jo		3
+lo		3
+find		1
+same		1

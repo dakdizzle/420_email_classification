@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+net		1
+multiply	1
+power		1
+calculations	1
+short		1
+opinions	1
+studies		1
+associated	1
+phillip		1
+amounts		1
+see		1
+seen		1
+enough		1
+collected	1
+kristin		1
+rates		1
+cost		1
+compare		1
+through		1

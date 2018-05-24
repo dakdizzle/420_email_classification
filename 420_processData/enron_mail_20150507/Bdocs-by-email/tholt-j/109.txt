@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+make		2
+going		2
+oshow		1
+track		1
+up		1
+gas		1
+provide		1
+top		1
+excuse		1
+system		1
+points		1
+each		1
+received	1
+pools		1
+upsome		1
+numbers		1
+meter		1
+data		1
+individual	1
+think		1

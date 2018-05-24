@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+lkitchen	2
+cn		2
+events		1
+tr		1
+everything	1
+kitchen		1
+thankslouise	1
+louise		1
+recipients	1
+allocate	1
+filename	1
+na		1
+privileged	1
+psti		1
+non		1
+enron		1
+forward		1
+ou		1
+need		1
+going		1
+ansparency	1
+costs		1

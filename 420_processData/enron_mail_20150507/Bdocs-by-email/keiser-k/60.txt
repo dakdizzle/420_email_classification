@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+physical	1
+counterparties	1
+attached	1
+exact		1
+deals		1
+kam		1
+find		1
+trying		1
+help		1
+kim		1
+financial	1
+date		1
+termination	1

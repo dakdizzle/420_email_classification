@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+heifer		1
+officially	1
+knows		1
+first		1
+ol		1
+female		1
+everything	1
+information	1
+third		1
+second		1
+really		1
+produce		1
+great		1
+many		1
+used		1
+cow		1
+fault		1
+go		1
+tortured	1
+business	1
+big		1
+needs		1
+offspring	1

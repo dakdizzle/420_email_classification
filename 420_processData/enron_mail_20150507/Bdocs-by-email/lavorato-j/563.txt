@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+cn		3
+coming		1
+ec		1
+peggy		1
+hedstrom	1
+recipients	1
+na		1
+golf		1
+laura		1
+down		1
+enron		1
+notesaddr	1
+ou		1
+d		1
+cf		1
+game		1

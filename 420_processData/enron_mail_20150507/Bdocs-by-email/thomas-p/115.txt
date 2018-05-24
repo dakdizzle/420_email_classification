@@ -1,0 +1,27 @@
+NumWords	30
+NumTerms	24
+
+gas		2
+price		2
+zone		2
+transco		2
+regional	2
+new		2
+yorknepool	1
+calculated	1
+rika		1
+following	1
+yorkny		1
+pjm		1
+put		1
+good		1
+non		1
+algonquinthe	1
+rates		1
+idea		1
+regions		1
+thankspaul	1
+think		1
+request		1
+appropriate	1
+heat		1

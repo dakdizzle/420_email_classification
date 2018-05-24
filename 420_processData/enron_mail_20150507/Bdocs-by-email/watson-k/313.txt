@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+office		1
+patrick		1
+shall		1
+fine		1
+sounds		1
+hi		1
+thanks		1
+call		1

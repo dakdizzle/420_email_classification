@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+miles		1
+far		1
+houston		1
+drivehome	1

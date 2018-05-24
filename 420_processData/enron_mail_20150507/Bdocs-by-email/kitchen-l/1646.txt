@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+going		2
+sherriff	1
+rang		1
+reserves	1
+john		1
+want		1
+meet		1
+deep		1
+very		1
+joe		1
+gold		1

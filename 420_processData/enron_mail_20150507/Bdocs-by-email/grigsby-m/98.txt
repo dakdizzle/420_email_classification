@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+notify		1
+rep		1
+hr		1
+please		1
+well		1
+mike		1
+pursuing	1
+search		1
+executive	1
+thanks		1
+call		1

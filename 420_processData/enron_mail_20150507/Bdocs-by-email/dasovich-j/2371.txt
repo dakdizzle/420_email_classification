@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+cn		2
+lobbyist	1
+meeting		1
+know		1
+recipients	1
+phone		1
+alan		1
+na		1
+call		1
+great		1
+pure		1
+possible	1
+right		1
+enron		1
+want		1
+acomnes		1
+ou		1
+comnes		1

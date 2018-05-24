@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+good		2
+expect		1
+news		1

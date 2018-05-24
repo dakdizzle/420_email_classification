@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+notice		1
+sally		1
+mail		1
+yesterday	1
+didn		1

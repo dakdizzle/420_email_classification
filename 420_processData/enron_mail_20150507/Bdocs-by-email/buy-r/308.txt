@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+partial		1
+rick		1
+control		1
+know		1
+success		1
+note		1
+thanks		1

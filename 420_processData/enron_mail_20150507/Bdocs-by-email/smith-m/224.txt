@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+completed	1
+information	1
+know		1
+additional	1
+idea		1
+need		1
+stephanie	1
+mat		1
+thanks		1

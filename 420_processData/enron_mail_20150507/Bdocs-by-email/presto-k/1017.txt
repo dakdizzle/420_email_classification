@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+bye		2
+profit		1
+ok		1
+up		1
+selling		1
+know		1
+tim		1
+west		1
+options		1
+calls		1
+premium		1
+blew		1
+happened	1
+summer		1
+ricky		1
+played		1
+verde		1
+game		1
+palo		1
+trading		1

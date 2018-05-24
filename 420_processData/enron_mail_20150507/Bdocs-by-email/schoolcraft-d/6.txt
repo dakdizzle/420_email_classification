@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+ds		1
+point		1
+send		1
+please		1
+questions	1
+careful		1
+fyi		1
+more		1
+refer		1
+need		1
+schedule	1
+call		1

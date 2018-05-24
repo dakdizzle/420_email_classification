@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+hunter		2
+shively		2
+cn		2
+wednesdays	1
+released	1
+aga		1
+pstcan		1
+recipients	1
+hour		1
+delay		1
+filename	1
+na		1
+interviews	1
+enron		1
+one		1
+ou		1
+hshivel		1

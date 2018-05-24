@@ -1,0 +1,9 @@
+NumWords	9
+NumTerms	6
+
+march		2
+february	2
+price		2
+posted		1
+revised		1
+now		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+kari		1
+way		1
+delete		1
+helpful		1
+michelle	1
+names		1
+longer		1
+persons		1
+thanks		1
+here		1

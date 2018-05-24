@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+cn		2
+gdernehl	1
+dernehl		1
+enron		1
+recipients	1
+ou		1
+ginger		1
+na		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+nerc		1
+registration	1
+tisn		1
+apply		1
+com		1

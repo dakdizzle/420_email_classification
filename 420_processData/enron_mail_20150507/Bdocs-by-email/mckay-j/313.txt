@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hell		1
+sick		1
+try		1
+today		1
+interest	1
+thought		1
+still		1
+running		1

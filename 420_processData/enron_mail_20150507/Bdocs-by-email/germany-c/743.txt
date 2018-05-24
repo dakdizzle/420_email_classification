@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+email		1
+day		1
+distribution	1
+need		1
+emails		1

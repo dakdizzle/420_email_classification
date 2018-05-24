@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+here		2
+stuff		1
+class		1
+pl		1
+risk		1
+selling		1
+gave		1
+crazy		1
+sleeve		1
+management	1
+someone		1
+same		1
+out		1
+comes		1
+tomorrow	1
+buy		1
+book		1
+balls		1
+signature	1
+isn		1
+putting		1
+shop		1
+unbelievable	1

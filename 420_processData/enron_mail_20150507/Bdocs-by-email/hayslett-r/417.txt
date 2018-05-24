@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+units		1
+registered	1
+sell		1
+need		1
+before		1

@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+diana		1
+talk		1
+know		1
+ups		1
+grace		1
+glad		1
+today		1
+delay		1
+submitted	1
+yesterday	1
+talked		1
+morning		1
+soon		1
+m		1
+amy		1
+please		1
+back		1
+last		1
+sure		1
+week		1
+don		1
+receive		1
+hi		1

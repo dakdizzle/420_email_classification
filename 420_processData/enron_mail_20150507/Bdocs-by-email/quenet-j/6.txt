@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+win		2
+titans		2
+ok		1
+benson		1
+someone		1
+pot		1
+total		1
+running		1
+out		1
+turns		1
+pts		1
+steelers	1
+weekly		1
+way		1
+m		1
+football	1
+pool		1
+took		1
+over		1
+here		1

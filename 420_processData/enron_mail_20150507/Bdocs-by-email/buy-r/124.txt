@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+list		2
+included	1
+bonuses		1
+reduction	1
+bare		1
+know		1
+attached	1
+keep		1
+bones		1
+protected	1
+password	1
+modify		1
+recommended	1
+heart		1
+way		1
+people		1
+version		1
+non		1
+rick		1
+mary		1
+desires		1
+need		1
+meets		1
+needs		1

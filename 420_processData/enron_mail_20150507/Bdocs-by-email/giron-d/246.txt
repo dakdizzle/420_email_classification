@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+dg		1
+don		1
+note		1
+thanks		1

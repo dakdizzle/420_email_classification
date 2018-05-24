@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+shortly		1
+out		1
+something	1
+send		1
+james		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+dynegy		1
+europe		1
+run		1
+working		1
+orig		1
+cardone		1

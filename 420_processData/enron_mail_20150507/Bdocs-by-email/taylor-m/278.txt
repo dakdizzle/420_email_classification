@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+mentioned	1
+confirms	1
+document	1
+more		1
+here		1

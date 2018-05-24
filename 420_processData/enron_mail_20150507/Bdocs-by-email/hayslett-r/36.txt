@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+allocated	1
+morris		1
+charged		1
+please		1
+back		1
+direct		1
+center		1
+cost		1

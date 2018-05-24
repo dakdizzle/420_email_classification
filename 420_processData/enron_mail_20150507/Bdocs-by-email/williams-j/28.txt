@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+jason		2
+sheedy		1
+friend		1
+williams	1
+pstscrew	1
+williamsx	1
+filename	1
+trading		1

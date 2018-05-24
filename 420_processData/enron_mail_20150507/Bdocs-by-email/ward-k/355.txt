@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+kim		1
+thing		1
+credit		1
+basis		1
+physical	1
+up		1
+again		1
+locking		1
+affect		1
+antoher		1
+brought		1
+thanks		1

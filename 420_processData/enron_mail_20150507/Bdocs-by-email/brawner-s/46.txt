@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+instant		1
+walk		1
+kenny		1
+promise		1
+going		1
+messanger	1
+help		1
+love		1
+getting		1
+through		1
+call		1

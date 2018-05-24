@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+kevin		2
+pstwe		1
+presto		1
+economic	1
+asset		1
+simultaneously	1
+prevail		1
+filename	1
+privileged	1
+buyout		1
+non		1
+prestox		1
+alternative	1
+pursuing	1
+development	1

@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+board		2
+park		1
+meeting		1
+day		1
+glad		1
+daddy		1
+take		1
+call		1
+thanks		1
+home		1
+ride		1
+book		1
+made		1
+prefer		1
+tonight		1
+note		1

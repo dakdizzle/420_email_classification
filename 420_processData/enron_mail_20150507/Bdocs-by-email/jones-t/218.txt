@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+lawyer		1
+db		1
+eta		1
+call		1
+out		1
+sent		1
+executed	1
+signed		1
+back		1
+settled		1
+signature	1
+gotten		1
+give		1
+amendment	1
+here		1
+ll		1

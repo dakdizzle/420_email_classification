@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+info		1
+kysa		1
+thank		1
+appreciate	1

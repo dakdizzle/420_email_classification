@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+notify		1
+put		1
+tych		1
+being		1
+team		1
+west		1
+today		1
+orig		1
+cut		1

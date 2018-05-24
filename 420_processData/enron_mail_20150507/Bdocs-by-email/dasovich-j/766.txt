@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+pm		1
+credit		1
+message		1
+jeff		1
+px		1
+tribolet	1
+cdt		1
+call		1

@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+books		2
+john		1
+ng		1
+associated	1
+oil		1
+prepay		1
+lavorato	1
+gdl		1
+two		1
+hdg		1
+trader		1
+lt		1
+epmi		1
+whalw		1
+given		1
+cd		1
+prc		1

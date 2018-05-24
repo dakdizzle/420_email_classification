@@ -1,0 +1,25 @@
+NumWords	35
+NumTerms	22
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+dparque		1
+pm		1
+david		1
+zavala		1
+metring		1
+central		1
+noon		1
+cristina	1
+michael		1
+parquet		1
+apologies	1
+czavala		1
+centra		1
+before		1
+chance		1
+doing		1
+etringer	1

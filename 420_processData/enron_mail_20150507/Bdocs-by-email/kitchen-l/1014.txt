@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+back		2
+talk		1
+john		1
+opposite	1
+contract	1
+voicemail	1
+see		1
+reflect		1
+badly		1
+doesn		1

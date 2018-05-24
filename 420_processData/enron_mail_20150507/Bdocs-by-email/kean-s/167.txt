@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+support		1
+reconsider	1
+money		1
+someone		1
+see		1
+out		1
+brown		1
+sense		1
+data		1
+still		1
+providing	1
+door		1
+always		1

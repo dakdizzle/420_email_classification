@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+tr		1
+huh		1
+positi		1
+exclusively	1
+working		1
+things		1
+ons		1
+top		1
+puters		1
+home		1
+out		1
+joke		1
+building	1
+house		1
+flooded		1
+downtown	1
+idea		1
+aders		1
+eol		1
+think		1
+com		1
+trading		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+associate	1
+vince		1
+risk		1
+proposition	1
+low		1
+alex		1
+think		1
+thanks		1

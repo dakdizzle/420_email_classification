@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+capacity	1
+make		1
+daily		1
+environment	1
+current		1
+market		1

@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+monday		1
+up		1
+detroit		1
+know		1
+games		1
+prior		1
+wanted		1
+th		1
+ski		1
+kim		1
+great		1
+come		1
+box		1
+opportunity	1
+weekend		1
+one		1
+feb		1
+think		1
+here		1

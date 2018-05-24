@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+promoted	1
+salary		1
+now		1
+leave		1
+adjust		1

@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+think		3
+bid		1
+won		1
+probably	1
+month		1
+last		1

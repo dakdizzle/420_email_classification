@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+transport	2
+financial	1
+central		1
+oct		1

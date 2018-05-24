@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+louise		3
+kitchen		2
+cn		2
+email		1
+officerenron	1
+fax		1
+operating	1
+recipients	1
+kitchenchief	1
+tammie		1
+filename	1
+na		1
+morning		1
+lkitchen	1
+really		1
+done		1
+psti		1
+americastel	1
+enron		1
+ou		1
+need		1

@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+tbtu		2
+approximately	2
+bcf		2
+party		1
+know		1
+gas		1
+third		1
+cavern		1
+mornings	1
+operations	1
+pad		1
+jim		1
+werer		1
+storage		1
+includes	1
+reprt		1
+volumes		1
+according	1
+asking		1
+assumes		1

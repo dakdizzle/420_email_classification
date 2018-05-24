@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+barry		2
+plan		1
+asset		1
+know		1
+now		1
+jim		1
+accounting	1
+estate		1
+before		1
+though		1
+wes		1
+don		1
+thoughts	1
+think		1

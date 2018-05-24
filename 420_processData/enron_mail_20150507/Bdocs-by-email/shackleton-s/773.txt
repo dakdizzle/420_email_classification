@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+week		2
+base		1
+early		1
+hey		1
+later		1
+touch		1
+sara		1
+tell		1
+work		1
+pretty		1
+carson		1
+here		1
+over		1
+rought		1

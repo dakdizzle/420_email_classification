@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+discuss		1
+rick		1
+lets		1
+well		1
+need		1
+gorte		1

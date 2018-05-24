@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+long		1
+prayers		1
+scott		1
+company		1
+cbot		1
+know		1
+thougthts	1
+stop		1
+noon		1
+dutch		1
+trading		1

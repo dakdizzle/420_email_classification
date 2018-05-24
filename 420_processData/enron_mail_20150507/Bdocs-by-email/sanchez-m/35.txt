@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+email		1
+embedded	1
+well		1
+ect		1
+find		1
+sanchez		1
+phillip		1
+monique		1
+evaluation	1
+out		1
+hou		1
+associate	1
+sent		1
+pmto		1
+stdolelink	1
+mid		1
+ectcc		1
+rotation	1
+bombmike	1
+subject		1
+grigsby		1

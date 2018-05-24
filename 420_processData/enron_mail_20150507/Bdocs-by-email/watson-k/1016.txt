@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+cn		2
+ron		2
+matthews	1
+kim		1
+enron		1
+fyi		1
+rmatthe		1
+recipients	1
+ou		1
+na		1

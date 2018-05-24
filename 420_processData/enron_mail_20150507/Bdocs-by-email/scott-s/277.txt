@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+sharp		1
+heart		1
+look		1
+scott		1
+eat		1
+mr		1
+joe		1

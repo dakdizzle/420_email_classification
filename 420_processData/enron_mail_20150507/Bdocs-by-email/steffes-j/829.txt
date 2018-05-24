@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+two		1
+prior		1
+figures		1
+months		1
+sue		1

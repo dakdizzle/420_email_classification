@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+directories	2
+copies		2
+moved		2
+use		2
+together	1
+make		1
+files		1
+lists		1
+netco		1
+both		1
+put		1
+list		1
+thankskam	1
+groups		1
+estate		1
+change		1
+made		1
+already		1
+need		1
+making		1
+over		1

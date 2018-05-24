@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+vkamins		2
+vince		2
+cn		2
+kaminski	2
+option		1
+open		1
+pricing		1
+directly	1
+resend		1
+recipients	1
+filename	1
+na		1
+privileged	1
+forwarded	1
+papers		1
+themto		1
+non		1
+enron		1
+please		1
+pstjeff		1
+ou		1
+shankman	1
+attachments	1

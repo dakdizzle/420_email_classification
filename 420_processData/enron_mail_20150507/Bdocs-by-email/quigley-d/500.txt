@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+order		1
+enjoying	1
+great		1
+learninglatersdq	1
+block		1
+well		1
+pls		1
+mohope		1
+butter		1

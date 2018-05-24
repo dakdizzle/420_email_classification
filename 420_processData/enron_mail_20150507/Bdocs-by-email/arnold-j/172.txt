@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+tomorrow	1
+fine		1

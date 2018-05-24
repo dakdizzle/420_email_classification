@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+right		1
+ng		1
+keep		1
+now		1
+awaiting	1
+loop		1
+plans		1
+spoke		1
+filing		1
+ashley		1
+yesterday	1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+good		1
+understood	1
+message		1
+end		1
+try		1
+derekhave	1
+week		1
+accomodate	1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+pm		1
+teala		1
+tonight		1

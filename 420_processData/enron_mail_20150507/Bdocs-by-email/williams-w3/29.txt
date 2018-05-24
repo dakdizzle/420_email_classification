@@ -1,0 +1,25 @@
+NumWords	28
+NumTerms	22
+
+enron		3
+com		3
+david		2
+williams	2
+board		1
+time		1
+comfortable	1
+filename	1
+folder		1
+richter		1
+exmerge		1
+poston		1
+sent		1
+real		1
+jeff		1
+bill		1
+steiner		1
+questions	1
+iii		1
+origin		1
+itemsx		1
+settlements	1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+diesel		2
+primary		1
+consider	1
+short		1
+well		1
+installation	1
+lincoln		1
+solution	1
+sounds		1
+cover		1
+good		1
+installations	1
+electric	1
+want		1
+beginning	1
+oct		1
+oppd		1
+think		1

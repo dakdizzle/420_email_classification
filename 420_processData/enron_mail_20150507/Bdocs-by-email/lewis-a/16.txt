@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+carl		2
+heard		1
+sam		1
+zavattieri	1
+interview	1
+free		1
+messages	1
+left		1
+yvan		1
+never		1
+call		1
+andy		1
+zhou		1
+onsite		1
+recommend	1
+feel		1
+back		1
+questions	1
+bring		1
+go		1
+spoke		1
+adrianne	1

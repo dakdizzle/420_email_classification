@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+directory	1
+transport	1
+found		1
+agreement	1
+dan		1

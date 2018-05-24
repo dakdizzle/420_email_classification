@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+energy		1
+email		1
+pl		1
+prices		1
+trying		1
+related		1
+derivatives	1
+regarding	1
+textbooks	1
+enron		1
+discount	1
+book		1
+purchases	1

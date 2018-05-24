@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+monday		1
+meeting		1
+met		1
+john		1
+know		1
+ve		1
+people		1
+several		1
+want		1
+stanplease	1
+before		1
+proceed		1
+committee	1
+attachments	1
+read		1
+executi		1
+next		1

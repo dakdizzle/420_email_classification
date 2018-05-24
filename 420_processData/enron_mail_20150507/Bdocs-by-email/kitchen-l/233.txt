@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+th		2
+card		1
+coming		1
+hopefully	1
+january		1
+see		1
+anyway		1
+around		1
+done		1
+camille		1
+alice		1
+hellowe		1
+london		1
+green		1
+wait		1
+crocodile	1
+over		1

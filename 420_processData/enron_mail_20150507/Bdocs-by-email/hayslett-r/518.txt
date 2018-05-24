@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+eeos		1
+portland	1
+need		1
+someone		1
+keith		1
+cover		1

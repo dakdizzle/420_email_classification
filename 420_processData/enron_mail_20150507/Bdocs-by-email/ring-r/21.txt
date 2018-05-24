@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+morning		1
+together	1
+time		1
+arrange		1
+christy		1
+richard		1
+call		1

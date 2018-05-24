@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+lynn		1
+info		1
+plus		1
+interconnect	1
+ena		1
+spreadsheet	1
+sheila		1
+fyi		1
+nng		1
+major		1
+thanks		1

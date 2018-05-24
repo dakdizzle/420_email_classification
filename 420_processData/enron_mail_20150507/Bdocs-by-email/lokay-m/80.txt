@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+info		1
+paul		1
+western		1
+selling		1
+gas		1
+attached	1
+effective	1
+confirm		1
+morning		1
+sales		1
+april		1
+gets		1
+executed	1
+operational	1
+tw		1
+sure		1

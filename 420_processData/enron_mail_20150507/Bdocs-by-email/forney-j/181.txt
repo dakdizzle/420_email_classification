@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+around		1
+meet		1
+noon		1
+jmf		1

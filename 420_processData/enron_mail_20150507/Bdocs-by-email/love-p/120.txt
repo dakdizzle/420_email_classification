@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+make		2
+money		2
+higher		1
+pl		1
+cups		1
+ebay		1
+guys		1
+due		1
+looks		1
+sent		1
+enron		1
+debacle		1
+going		1

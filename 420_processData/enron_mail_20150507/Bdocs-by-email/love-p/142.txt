@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+bosse		2
+vito		1
+chairs		1
+orleans		1
+plp		1
+phone		1
+hahaha		1
+fell		1
+out		1
+both		1
+kill		1
+talking		1
+bring		1
+chef		1
+one		1
+new		1
+ass		1

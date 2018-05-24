@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+moving		1
+everything	1
+working		1
+epsa		1
+fast		1
+call		1
+jim		1
+enough		1
+services	1
+sarah		1
+understand	1
+don		1
+new		1

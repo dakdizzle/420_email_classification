@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+coming		1
+heard		1
+word		1
+scott		1
+seattle		1
+up		1
+know		1
+portland	1
+soon		1
+down		1
+wandering	1
+anytime		1
+b		1
+still		1

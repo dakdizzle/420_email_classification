@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+deals		2
+cdwr		2
+released	1
+yours		1
+cythese		1
+glad		1
+reliant		1
+copies		1
+see		1
+getting		1
+really		1
+done		1
+m		1
+contracts	1
+interesting	1
+weekend		1
+wait		1
+ll		1
+over		1

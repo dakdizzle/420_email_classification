@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+easy		1
+hey		1
+louiseps	1
+fantastic	1
+pleased		1
+still		1
+take		1
+here		1
+crap		1
+news		1

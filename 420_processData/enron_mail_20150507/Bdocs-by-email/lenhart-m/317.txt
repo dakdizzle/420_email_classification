@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+dinner		1
+wouldn		1
+go		1
+won		1
+work		1
+espn		1
+hit		1

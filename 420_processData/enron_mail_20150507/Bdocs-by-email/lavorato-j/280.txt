@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+john		1
+back		1
+games		1
+town		1
+lavorato	1
+play		1
+love		1

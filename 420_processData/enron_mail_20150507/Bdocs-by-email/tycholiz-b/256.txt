@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+being		2
+calger		1
+taking		1
+status		1
+together	1
+lavo		1
+report		1
+today		1
+duran		1
+asked		1
+later		1
+bt		1
+worked		1
+pull		1
+thanks		1
+call		1
+sales		1
+list		1
+contract	1
+frank		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+html		1
+http		1
+edu		1
+uiowa		1
+dermatology	1
+imagebase	1
+tray		1

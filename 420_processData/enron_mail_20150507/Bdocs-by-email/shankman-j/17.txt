@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+cn		2
+pstthanks	1
+guys		1
+jshankm		1
+jskillin	1
+recipients	1
+filename	1
+na		1
+privileged	1
+jeffrey		1
+non		1
+enron		1
+ideas		1
+ou		1
+shankman	1

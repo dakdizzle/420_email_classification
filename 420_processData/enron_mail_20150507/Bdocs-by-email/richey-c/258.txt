@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+greg		1
+sebastien	1
+ask		1
+maybe		1
+nope		1

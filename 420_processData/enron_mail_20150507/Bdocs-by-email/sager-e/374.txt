@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+free		1
+message		1
+still		1
+lunch		1
+sharithanks	1
+thurs		1
+hi		1
+next		1

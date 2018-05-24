@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+lynn		1
+put		1
+ava		1
+up		1
+one		1
+backing		1
+fine		1
+teams		1
+note		1
+thanks		1

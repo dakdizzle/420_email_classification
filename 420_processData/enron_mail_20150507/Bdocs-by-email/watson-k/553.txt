@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+family		1
+up		1
+well		1
+thanks		1
+kim		1
+merry		1
+look		1
+christmas	1
+happy		1
+forward		1
+year		1
+kirk		1
+catching	1
+new		1
+note		1

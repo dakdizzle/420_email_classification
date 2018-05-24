@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+web		2
+much		1
+write		1
+copy		1
+up		1
+came		1
+taken		1
+detailed	1
+nymex		1
+site		1
+presentation	1
+finishing	1
+dq		1
+used		1
+more		1
+ismuch		1
+assignments	1
+over		1

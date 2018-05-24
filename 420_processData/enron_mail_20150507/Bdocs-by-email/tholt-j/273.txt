@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+easy		1
+m		1
+menu		1
+talk		1
+thanksgiving	1
+guys		1
+fine		1
+over		1

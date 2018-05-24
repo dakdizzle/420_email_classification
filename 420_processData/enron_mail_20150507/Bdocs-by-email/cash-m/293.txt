@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+neighbor	1
+bellaire	1
+ted		1
+meyer		1
+hi		1

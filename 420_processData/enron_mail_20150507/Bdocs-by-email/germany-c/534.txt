@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+out		2
+contracts	2
+info		1
+day		1
+find		1
+chat		1
+good		1
+storage		1
+informative	1
+more		1
+work		1
+dominion	1
+need		1
+figure		1

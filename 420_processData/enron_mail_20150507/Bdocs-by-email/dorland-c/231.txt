@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+market		2
+order		1
+lift		1
+limit		1
+use		1
+need		1
+don		1
+falling		1
+offers		1

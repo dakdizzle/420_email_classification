@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+ask		2
+sorry		2
+going		2
+knows		1
+together	1
+day		1
+make		1
+family		1
+interested	1
+tradition	1
+jeannie		1
+excuses		1
+joannie		1
+christmas	1
+tired		1
+one		1
+invitation	1
+need		1
+told		1
+waits		1
+over		1

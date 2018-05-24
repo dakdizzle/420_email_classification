@@ -1,0 +1,26 @@
+NumWords	29
+NumTerms	23
+
+mid		4
+power		2
+transmission	2
+cost		2
+addition	1
+per		1
+helps		1
+position	1
+lisa		1
+montana		1
+price		1
+snohomish	1
+products	1
+hope		1
+fill		1
+sys		1
+air		1
+mw		1
+deliver		1
+purchase	1
+purchasing	1
+added		1
+deal		1

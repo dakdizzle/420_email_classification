@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+stuff		1
+now		1
+leave		1
+unhedged	1
+prudency	1

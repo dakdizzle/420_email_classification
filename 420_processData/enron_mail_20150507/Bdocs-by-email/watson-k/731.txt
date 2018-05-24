@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+kimberly	1
+great		1
+one		1
+sound		1
+watson		1
+pick		1
+places		1
+don		1

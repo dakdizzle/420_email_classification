@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+password	3
+user		2
+schwieger	1
+id		1
+etj		1
+name		1
+swig		1
+jschwie		1
+adm		1
+enron		1
+jjjphone	1
+line		1
+mail		1
+think		1

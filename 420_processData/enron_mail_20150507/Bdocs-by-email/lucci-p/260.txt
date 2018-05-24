@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+down		1
+ok		1
+come		1
+wednesday	1
+night		1
+plans		1
+meaning		1
+sorry		1
+already		1
+lunch		1

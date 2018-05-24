@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+one		2
+without		1
+two		1
+revised		1
+barbara		1
+lists		1
+txu		1
+here		1

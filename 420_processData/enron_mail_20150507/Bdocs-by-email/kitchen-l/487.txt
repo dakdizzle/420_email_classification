@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+cool		1
+ready		1

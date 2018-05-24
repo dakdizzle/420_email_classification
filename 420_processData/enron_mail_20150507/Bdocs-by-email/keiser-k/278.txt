@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+id		1
+today		1
+post		1
+kamx		1

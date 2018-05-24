@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+number		2
+email		1
+down		1
+pl		1
+please		1
+wrote		1
+again		1
+need		1
+expired		1
+deal		1
+thanks		1
+call		1

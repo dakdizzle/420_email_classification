@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+care		1
+relative	1
+mailed		1
+hopefully	1
+know		1
+guys		1
+beat		1
+today		1
+mnot		1
+holidays	1
+wanted		1
+chris		1
+see		1
+take		1
+sherry		1
+check		1
+dead		1
+over		1

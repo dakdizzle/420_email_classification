@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+m		1
+wares		1
+selling		1
+tomorrow	1
+dad		1
+fortune		1
+making		1
+doing		1

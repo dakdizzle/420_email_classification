@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+scott		1
+working		1
+steve		1
+now		1
+remember	1
+basis		1
+rockets		1
+saw		1
+consulting	1
+year		1
+last		1
+dickerson	1
+game		1

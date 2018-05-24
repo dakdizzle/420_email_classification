@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+first		1
+recovery	1
+step		1
+admitting	1

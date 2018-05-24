@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+surgery		2
+lasik		1
+make		1
+stacey		1
+planning	1
+thanks		1
+cover		1
+getting		1
+benefit		1
+elections	1
+recommend	1
+surgeon		1
+year		1
+next		1

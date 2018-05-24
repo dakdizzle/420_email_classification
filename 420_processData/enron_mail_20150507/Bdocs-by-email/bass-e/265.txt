@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sick		1
+fuck		1
+one		1

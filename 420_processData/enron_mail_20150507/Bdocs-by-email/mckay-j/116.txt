@@ -1,0 +1,21 @@
+NumWords	23
+NumTerms	18
+
+fixed		2
+sumas		2
+offered		2
+float		2
+swap		2
+mar		1
+mmbtumay	1
+nov		1
+regards		1
+sent		1
+hope		1
+jon		1
+volumes		1
+mmbtuthese	1
+work		1
+dec		1
+based		1
+offers		1

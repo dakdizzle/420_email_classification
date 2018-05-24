@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+wes		2
+new		2
+agreed		1
+risk		1
+understanding	1
+create		1
+organization	1
+management	1
+colwell		1
+delainey	1
+confirm		1
+retail		1
+please		1
+pay		1
+center		1
+year		1
+cost		1
+costs		1
+needs		1

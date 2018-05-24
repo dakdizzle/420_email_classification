@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+questions	1
+attached	1
+pg		1
+sager		1
+elizabeth	1
+help		1
+schedule	1
+call		1

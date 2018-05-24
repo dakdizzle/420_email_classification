@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+th		5
+first		1
+plan		1
+forgot		1
+december	1
+days		1
+now		1
+sorry		1
+tom		1
+take		1
+planning	1
+out		1
+two		1
+right		1
+update		1
+tenative	1
+weeks		1
+sure		1
+sometime	1
+rest		1

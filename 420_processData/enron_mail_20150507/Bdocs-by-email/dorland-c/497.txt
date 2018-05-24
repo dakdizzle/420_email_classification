@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+hotter		1
+hear		1
+day		1
+up		1
+came		1
+today		1
+million		1
+chris		1
+blew		1
+degress		1
+temps		1
+down		1
+northeast	1
+usd		1
+want		1
+thought		1
+bad		1
+week		1

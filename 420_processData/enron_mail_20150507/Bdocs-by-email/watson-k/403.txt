@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+group		1
+ve		1
+kim		1
+sent		1
+message		1
+vernon		1
+handling	1
+tk		1
+call		1
+ll		1
+deb		1

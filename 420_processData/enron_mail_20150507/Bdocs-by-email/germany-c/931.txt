@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+here		2
+little		1
+fun		1
+funny		1
+plan		1
+tape		1
+duct		1
+m		1
+gets		1
+right		1
+back		1
+kid		1
+going		1
+hands		1
+doing		1

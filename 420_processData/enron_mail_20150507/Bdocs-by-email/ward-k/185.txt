@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+anything	1
+kim		1
+know		1
+mid		1
+trader		1
+use		1
+need		1
+curves		1
+thanks		1

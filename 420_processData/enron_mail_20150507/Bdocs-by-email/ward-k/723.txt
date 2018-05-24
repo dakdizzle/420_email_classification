@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+think		3
+houston		2
+parents		1
+coming		1
+welcome		1
+day		1
+john		1
+know		1
+thanksgiving	1
+turkey		1
+kim		1
+around		1
+come		1
+more		1
+ej		1
+having		1
+hang		1

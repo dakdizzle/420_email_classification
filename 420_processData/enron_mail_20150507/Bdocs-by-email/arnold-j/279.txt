@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+move		2
+much		1
+expectations	1
+huge		1
+even		1
+market		1
+actually	1
+way		1
+really		1
+sidelines	1
+people		1
+enough		1
+mute		1
+range		1
+going		1
+though		1
+don		1
+think		1

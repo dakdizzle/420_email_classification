@@ -1,0 +1,10 @@
+NumWords	9
+NumTerms	7
+
+week		2
+highlight	2
+well		1
+friday		1
+far		1
+seeing		1
+thanks		1

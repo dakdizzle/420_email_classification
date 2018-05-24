@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kim		1
+good		1
+further		1
+tk		1
+comments	1
+defer		1
+looks		1
+thanks		1

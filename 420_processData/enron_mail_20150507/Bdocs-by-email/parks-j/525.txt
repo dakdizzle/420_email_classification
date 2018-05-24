@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+cn		2
+jparks		2
+acting		1
+asshole		1
+brian		1
+pstit		1
+now		1
+recipients	1
+shit		1
+filename	1
+na		1
+take		1
+parks		1
+privileged	1
+non		1
+enron		1
+makes		1
+ou		1
+joe		1
+erik		1

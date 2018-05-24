@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+time		1
+interested	1
+training	1
+available	1
+jmf		1
+very		1

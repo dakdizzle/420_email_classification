@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+justin		2
+eb		1
+fax		1
+working		1
+steve		1
+ph		1
+street		1
+isda		1
+boyd		1
+wholesale	1
+number		1
+fox		1
+regards		1
+anna		1
+services	1
+shackletonenron	1
+ahouston	1
+told		1
+tx		1
+smith		1
+london		1
+sarasara	1

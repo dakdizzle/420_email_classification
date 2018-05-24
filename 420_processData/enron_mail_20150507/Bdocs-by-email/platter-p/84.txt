@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ca		1
+cash		1
+position	1
+california	1
+cascheduling	1
+feb		1
+trading		1

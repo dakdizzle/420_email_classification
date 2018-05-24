@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+something	1
+case		1
+need		1
+th		1
+address		1
+r		1
+ab		1
+swcalgary	1
+ave		1
+here		1

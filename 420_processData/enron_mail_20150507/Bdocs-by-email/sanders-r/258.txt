@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+dont		1
+dle		1
+know		1
+won		1
+leave		1
+han		1
+erase		1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+today		2
+bid		1
+issued		1
+pira		1
+up		1
+huge		1
+know		1
+short		1
+world		1
+vol		1
+winter		1
+go		1
+whee		1
+bullish		1
+comments	1
+covering	1
+don		1
+here		1

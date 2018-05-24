@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+losing		1
+landscape	1
+people		1
+rick		1
+changes		1
+keep		1
+though		1

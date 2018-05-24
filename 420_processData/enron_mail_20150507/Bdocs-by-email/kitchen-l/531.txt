@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+oh		2
+officerenron	1
+day		1
+fax		1
+flights		1
+operating	1
+unt		1
+payment		1
+paid		1
+louise		1
+find		1
+uk		1
+kitchenchief	1
+americastel	1
+show		1
+acco		1

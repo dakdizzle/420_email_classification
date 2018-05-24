@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+order		1
+whatever	1
+immediately	1
+deliver		1
+guys		1
+tell		1
+ring		1
+late		1
+cost		1

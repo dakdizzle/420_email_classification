@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+thanks		2
+lynn		1
+posted		1
+make		1
+please		1
+know		1
+update		1
+keep		1
+phone		1
+need		1
+call		1
+randy		1

@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+blackberry	2
+fmv		1
+sent		1
+net		1
+less		1
+wireless	1
+handheld	1
+www		1
+fifty		1
+probably	1
+think		1
+thanks		1

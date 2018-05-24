@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+leadersonline	1
+kh		1
+friend		1
+recruiter	1
+contact		1
+already		1
+suggested	1
+haven		1
+com		1
+mine		1

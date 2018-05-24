@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+days		1
+mid		1
+late		1
+feb		1

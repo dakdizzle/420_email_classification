@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+kam		2
+cn		2
+keiser		2
+id		1
+today		1
+recipients	1
+post		1
+filename	1
+na		1
+kkeiser		1
+psthere		1
+enron		1
+ou		1

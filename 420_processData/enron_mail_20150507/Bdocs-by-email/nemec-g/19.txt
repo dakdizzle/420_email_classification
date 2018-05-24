@@ -1,0 +1,17 @@
+NumWords	19
+NumTerms	14
+
+know		2
+form		2
+sale		2
+texas		2
+brine		2
+cash		1
+exact		1
+attached	1
+same		1
+executed	1
+questions	1
+discussed	1
+previous	1
+tract		1

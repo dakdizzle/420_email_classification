@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+employment	1
+forwarding	1
+hello		1
+john		1
+know		1
+michelle	1
+matters		1
+litigation	1
+rob		1
+walls		1
+request		1
+summary		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+xmas		1
+day		1
+sweet		1
+course		1
+baby		1
+buy		1
+want		1
+see		1
+gift		1

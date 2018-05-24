@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+guaranty	2
+enron		1
+attached	1
+approval	1
+ken		1
+currently	1
+corp		1
+form		1
+routed		1

@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+up		2
+thats		1
+l		1
+roll		1
+cool		1
+going		1
+books		1
+set		1
+site		1
+johns		1

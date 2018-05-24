@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+updateelizabeth	1
+sager		1
+thanks		1

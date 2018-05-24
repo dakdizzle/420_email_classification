@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+scott		1
+try		1
+know		1
+friday		1
+find		1
+chris		1
+swing		1
+out		1
+people		1
+many		1
+enron		1
+weekend		1
+crystal		1
+tickets		1
+game		1
+checking	1
+think		1
+dallas		1
+ll		1

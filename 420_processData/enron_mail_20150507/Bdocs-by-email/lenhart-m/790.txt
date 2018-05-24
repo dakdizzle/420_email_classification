@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+anyway		1
+up		1
+enron		1
+action		1
+tired		1
+go		1
+want		1
+going		1
+blowing		1
+give		1
+sleep		1
+didn		1

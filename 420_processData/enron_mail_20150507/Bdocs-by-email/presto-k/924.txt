@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+make		1
+tj		1
+calender	1
+sure		1
+puts		1

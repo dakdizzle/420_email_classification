@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+reject		2
+resubmit	1
+stacey		1
+assigned	1
+today		1
+comfortable	1
+approve		1
+system		1
+samantha	1
+approving	1
+please		1
+already		1
+went		1
+dave		1
+request		1

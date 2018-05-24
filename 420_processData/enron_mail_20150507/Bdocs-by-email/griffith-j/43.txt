@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+settles		1
+thanksjohn	1
+here		1

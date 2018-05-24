@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+haedicke	1
+papers		1
+guess		1
+shit		1
+charge		1
+deep		1
+note		1
+call		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+comprehensive	1
+hope		1
+enough		1
+up		1
+save		1
+excell		1
+sorry		1
+delay		1
+blew		1
+twice		1
+didn		1

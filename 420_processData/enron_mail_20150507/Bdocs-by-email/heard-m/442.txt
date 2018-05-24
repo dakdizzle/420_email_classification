@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+those		1
+credit		1
+respond		1
+please		1
+marie		1
+related		1
+comments	1
+xto		1
+appear		1
+thanks		1
+lucky		1
+here		1

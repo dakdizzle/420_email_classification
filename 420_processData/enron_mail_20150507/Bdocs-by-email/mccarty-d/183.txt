@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+dmccarty	2
+cn		2
+pstrod		1
+track		1
+know		1
+ena		1
+recipients	1
+mccarty		1
+filename	1
+na		1
+danny		1
+dan		1
+privileged	1
+down		1
+asap		1
+contracts	1
+non		1
+enron		1
+signed		1
+confidentiality	1
+ou		1
+agreement	1
+ll		1

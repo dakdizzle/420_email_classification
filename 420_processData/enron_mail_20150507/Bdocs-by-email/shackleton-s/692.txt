@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+guaranty	3
+clem		1
+credit		1
+bear		1
+verify		1
+short		1
+know		1
+letter		1
+recall		1
+marie		1
+lost		1
+guess		1
+form		1
+use		1
+don		1
+amendment	1
+ss		1
+ll		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+hd		1
+bikeweek	1
+rick		1
+sites		1
+http		1
+meredith	1
+www		1
+refers		1
+htmit		1
+site		1
+com		1

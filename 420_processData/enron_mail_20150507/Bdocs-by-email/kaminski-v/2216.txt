@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+eugenio		2
+cn		2
+eperez		1
+recipients	1
+same		1
+na		1
+vince		1
+less		1
+enron		1
+perez		1
+changes		1
+more		1
+ou		1
+big		1

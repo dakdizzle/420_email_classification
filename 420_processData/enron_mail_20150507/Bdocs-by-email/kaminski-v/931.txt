@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+advance		1
+vince		1
+operation	1
+blockof		1
+time		1
+please		1
+difficult	1
+commit		1
+keep		1
+trying		1
+reddy		1
+trading		1

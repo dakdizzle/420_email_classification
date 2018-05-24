@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+nice		1
+coming		1
+departure	1
+jeff		1
+best		1
+guy		1
+capable		1
+sense		1
+alan		1
+bad		1
+very		1

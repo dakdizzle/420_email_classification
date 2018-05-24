@@ -1,0 +1,14 @@
+NumWords	21
+NumTerms	11
+
+smud		4
+org		4
+dennis		2
+mailto		2
+dholcom		2
+holcomb		2
+tomarrow	1
+kim		1
+try		1
+told		1
+thanks		1

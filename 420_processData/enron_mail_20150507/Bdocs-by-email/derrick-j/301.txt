@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+certain		1
+austin		1
+trip		1

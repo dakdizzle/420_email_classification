@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+talking		1
+come		1
+again		1

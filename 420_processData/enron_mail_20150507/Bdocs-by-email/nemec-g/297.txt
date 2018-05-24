@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+warranty	3
+changed		1
+end		1
+attached	1
+review		1
+intrastate	1
+gathering	1
+gets		1
+language	1
+please		1
+change		1
+added		1
+agreement	1
+extent		1

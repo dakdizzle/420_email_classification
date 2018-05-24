@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+right		1
+know		1
+now		1
+mean		1
+d		1

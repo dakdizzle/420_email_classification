@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+sign		2
+puc		1
+arm		1
+cmta		1
+letter		1
+chamber		1
+filing		1
+never		1
+thanks		1
+decided		1
+dan		1
+remove		1
+really		1
+list		1
+commerce	1
+jeff		1
+best		1
+please		1
+submit		1
+plays		1
+signatories	1

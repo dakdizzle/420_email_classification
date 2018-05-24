@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+holiday		1
+up		1
+whats		1

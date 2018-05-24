@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+little		1
+look		1
+kelli		1
+message		1
+john		1
+ignore		1
+going		1
+last		1
+deal		1

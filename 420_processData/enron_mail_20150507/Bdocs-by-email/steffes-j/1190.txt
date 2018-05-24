@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+janine		2
+wrong		1
+leslie		1
+m		1
+please		1
+reviewing	1
+understanding	1
+correct		1
+eastern		1
+thanks		1

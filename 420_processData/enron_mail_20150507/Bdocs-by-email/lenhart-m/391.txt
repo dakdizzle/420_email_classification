@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+hotties		1
+pass		1
+cards		1
+given		1

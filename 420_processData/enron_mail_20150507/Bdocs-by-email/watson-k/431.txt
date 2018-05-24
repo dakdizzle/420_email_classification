@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+up		1
+visit		1
+afraid		1
+mean		1
+top		1
+problem		1
+seat		1
+nice		1
+ride		1
+m		1
+back		1
+convertable	1
+ps		1

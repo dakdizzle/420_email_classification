@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+day		1
+around		1
+memorial	1
+sarah		1
+matty		1
+weekend		1
+rico		1
+yes		1
+going		1
+puerto		1

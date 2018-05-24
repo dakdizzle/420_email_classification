@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+paul		1
+bill		1
+friday		1
+invitation	1
+attend		1
+thanks		1

@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+out		2
+lets		2
+option		1
+linedi		1
+care		1
+info		1
+meeting		1
+time		1
+meet		1
+tuesday		1
+graphs		1
+take		1
+dutch		1
+concerns	1
+draw		1
+monica		1
+payout		1
+set		1
+read		1
+next		1
+through		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+together	1
+put		1
+rick		1
+bill		1
+fyi		1
+asked		1
+molly		1
+fwd		1
+joe		1

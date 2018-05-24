@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+kept		1
+jeff		1
+best		1
+information	1
+know		1
+apprised	1
+dan		1

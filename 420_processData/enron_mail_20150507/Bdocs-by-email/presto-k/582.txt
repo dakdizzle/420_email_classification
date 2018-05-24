@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+presto		2
+kevin		2
+cn		2
+summaries	1
+copy		1
+hard		1
+orders		1
+kpresto		1
+recipients	1
+filename	1
+na		1
+executive	1
+privileged	1
+rto		1
+psti		1
+non		1
+enron		1
+ou		1

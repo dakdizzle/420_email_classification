@@ -1,0 +1,22 @@
+NumWords	24
+NumTerms	19
+
+kam		2
+gdm		2
+cn		2
+canadian	2
+keiser		2
+gdy		1
+id		1
+todayprice	1
+recipients	1
+post		1
+filename	1
+na		1
+kkeiser		1
+gdi		1
+basis		1
+psthere		1
+enron		1
+index		1
+ou		1

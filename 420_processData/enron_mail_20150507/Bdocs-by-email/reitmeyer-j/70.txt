@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+sorry		2
+out		1
+check		1
+know		1
+index		1
+christiancouns	1
+www		1
+org		1
+don		1
+site		1
+htmli		1

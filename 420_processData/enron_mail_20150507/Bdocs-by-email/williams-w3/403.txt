@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+williams	2
+mws		2
+bought		2
+more		2
+time		1
+text		1
+messages	1
+plain		1
+filename	1
+folder		1
+exmerge		1
+asciix		1
+content		1
+sent		1
+type		1
+bill		1
+apx		1
+iii		1
+one		1
+origin		1
+itemsx		1
+charset		1

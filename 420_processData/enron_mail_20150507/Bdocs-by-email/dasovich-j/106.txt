@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+much		1
+mark		1
+baldwin		1
+possible	1
+greetings	1
+jeff		1
+best		1
+steve		1
+harris		1
+very		1
+number		1
+thanks		1

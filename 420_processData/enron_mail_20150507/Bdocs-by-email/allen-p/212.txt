@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+monday		2
+afternoon	2
+rangel		1
+ina		1
+floor		1
+leaving		1
+heads		1
+meetings	1
+gas		1
+desk		1
+arrange		1
+phillip		1
+schedule	1
+better		1
+people		1
+several		1
+weekend		1
+offsite		1
+through		1
+erik		1

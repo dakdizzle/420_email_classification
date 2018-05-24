@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+joe		2
+promoted	1
+until		1
+end		1
+service		1
+eligible	1
+year		1
+associates	1
+placed		1
+months		1
+superior	1

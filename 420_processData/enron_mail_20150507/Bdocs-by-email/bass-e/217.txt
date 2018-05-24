@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+few		2
+kids		1
+hear		1
+quite		1
+west		1
+seeing		1
+hit		1
+saturdaylove	1
+driving		1
+points		1
+look		1
+good		1
+netted		1
+saw		1
+night		1
+forward		1
+e		1
+last		1
+figure		1
+couple		1
+through		1

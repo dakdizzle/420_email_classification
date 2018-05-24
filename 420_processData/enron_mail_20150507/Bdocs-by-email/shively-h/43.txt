@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+hunter		2
+ect		2
+shively		2
+hou		2
+meeting		1
+pm		1
+meetinggoing	1
+whatever	1
+forwarded	1
+cary		1
+enron		1
+amto		1
+feel		1
+ectcc		1
+tomaski		1
+want		1
+forward		1
+subject		1
+listening	1
+richard		1

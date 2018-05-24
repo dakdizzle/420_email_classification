@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+buyers		1
+market		1

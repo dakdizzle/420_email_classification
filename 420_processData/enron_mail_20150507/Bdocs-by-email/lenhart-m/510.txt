@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+stay		1
+place		1
+even		1
+though		1
+hog		1
+bed		1

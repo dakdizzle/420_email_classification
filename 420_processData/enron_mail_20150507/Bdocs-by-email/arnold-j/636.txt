@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+thinks		1
+dork		1
+ward		1
+big		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+info		1
+issues		1
+jeff		1
+best		1
+end		1
+thanks		1

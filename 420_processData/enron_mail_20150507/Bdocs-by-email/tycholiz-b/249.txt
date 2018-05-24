@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+agenda		1
+floor		1
+know		1
+interesting	1
+th		1
+b		1
+don		1

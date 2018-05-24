@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+dasovich	2
+cn		2
+jeff		2
+jdasovic	1
+recipients	1
+filename	1
+na		1
+privileged	1
+follow		1
+non		1
+enron		1
+psttee		1
+hee		1
+answers		1
+questions	1
+more		1
+ou		1
+wait		1

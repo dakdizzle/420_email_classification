@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+vince		1
+ok		1
+hope		1
+problem		1
+anita		1
+doing		1

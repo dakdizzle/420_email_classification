@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+fax		1
+returned	1
+best		1
+received	1
+signed		1
+marie		1
+today		1
+document	1
+yes		1
+candace		1
+hi		1
+thanks		1

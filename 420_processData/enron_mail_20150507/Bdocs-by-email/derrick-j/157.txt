@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+derrick		2
+cn		2
+jr		2
+james		2
+thank		1
+report		1
+jderric		1
+recipients	1
+litigation	1
+appreciate	1
+pstandy		1
+filename	1
+na		1
+jim		1
+list		1
+distribution	1
+enron		1
+rogers		1
+ou		1
+rex		1
+including	1

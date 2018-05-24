@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+play		2
+ask		1
+sunday		1
+julie		1
+better		1

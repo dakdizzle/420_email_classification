@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+kim		1
+please		1
+know		1
+faxed		1
+documents	1
+earlier		1
+thanks		1

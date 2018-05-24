@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+annex		1
+long		1
+meeting		1
+collateral	1
+presenting	1
+creating	1
+discussed	1
+sager		1
+form		1
+participate	1
+process		1
+thankselizabeth	1

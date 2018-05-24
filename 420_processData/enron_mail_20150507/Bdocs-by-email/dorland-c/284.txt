@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+office		2
+monday		1
+moving		1
+portland	1
+chris		1
+tuesday		1
+call		1
+keith		1
+rental		1
+out		1
+m		1
+keys		1
+chance		1
+give		1
+drop		1
+ll		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+stacey		1
+unarchive	1
+one		1
+resend		1
+data		1
+shortcut	1

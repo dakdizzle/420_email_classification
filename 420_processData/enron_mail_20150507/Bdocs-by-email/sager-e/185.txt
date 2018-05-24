@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sager		1
+elizabeth	1
+thanks		1

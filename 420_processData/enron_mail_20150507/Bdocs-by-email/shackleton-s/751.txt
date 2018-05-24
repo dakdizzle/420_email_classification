@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+explanation	1
+message		1
+power		1
+evelyn		1
+gas		1
+more		1
+financial	1
+detailed	1
+left		1
+provide		1
+settlements	1
+aucoin		1

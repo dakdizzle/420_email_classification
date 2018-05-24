@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+prepa		1
+perspective	1
+fyi		1
+rate		1
+optimal		1
+looks		1
+dispatching	1

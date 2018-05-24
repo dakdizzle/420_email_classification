@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+tennis		2
+stuff		1
+hijust		1
+talk		1
+friday		1
+today		1
+see		1
+morning		1
+soon		1
+sager		1
+brought		1
+lunch		1
+elizabeth	1
+checking	1
+play		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+stay		1
+good		1
+touch		1
+thank		1
+luck		1

@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+rhaysle		2
+cn		2
+monday		1
+meetings	1
+stan		1
+recipients	1
+hayslett	1
+filename	1
+na		1
+privileged	1
+psti		1
+non		1
+discussion	1
+enron		1
+staff		1
+ou		1
+rod		1
+think		1
+next		1

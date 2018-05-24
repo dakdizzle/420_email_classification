@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+request		2
+send		1
+directly	1
+justification	1
+solid		1
+deny		1
+formal		1
+needs		1
+requester	1

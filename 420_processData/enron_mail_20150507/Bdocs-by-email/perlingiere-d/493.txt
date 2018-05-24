@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+discuss		1
+convenience	1
+please		1
+mail		1
+agreement	1
+give		1
+debra		1
+call		1
+thanks		1

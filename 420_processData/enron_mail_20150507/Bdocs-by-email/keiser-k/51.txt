@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+deals		2
+once		2
+check		2
+thankskk	1
+those		1
+detail		1
+intercompany	1
+form		1
+names		1
+file		1
+remove		1
+redo		1
+used		1
+back		1
+isolated	1
+cross		1
+go		1
+again		1
+james		1
+added		1
+commodity	1
+over		1
+needs		1

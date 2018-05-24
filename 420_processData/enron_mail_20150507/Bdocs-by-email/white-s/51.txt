@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+stacey		2
+white		2
+cn		2
+pstwe		1
+stacy		1
+west		1
+explaining	1
+recipients	1
+tom		1
+filename	1
+na		1
+east		1
+samantha	1
+swhite		1
+enron		1
+chapman		1
+ou		1
+law		1
+process		1

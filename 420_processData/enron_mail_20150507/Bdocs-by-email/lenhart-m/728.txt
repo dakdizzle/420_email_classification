@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+gay		2
+friends		1
+thing		1
+bunch		1
+nancy		1
+boys		1
+guys		1
+strada		1
+trying		1
+la		1
+meet		1

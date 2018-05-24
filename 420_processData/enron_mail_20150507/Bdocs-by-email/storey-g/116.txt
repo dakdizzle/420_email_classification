@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+numbers		1
+phys		1
+dynegyrelianttractebeldukehessaquila	1
+phone		1
+need		1
+traders		1
+head		1

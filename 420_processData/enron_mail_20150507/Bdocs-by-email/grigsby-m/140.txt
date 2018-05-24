@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+winter		1
+approaching	1
+king		1
+file		1
+palo		1

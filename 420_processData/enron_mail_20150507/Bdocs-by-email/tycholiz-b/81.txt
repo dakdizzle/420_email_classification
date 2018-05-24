@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+today		2
+plan		1
+takes		1
+customers	1
+time		1
+john		1
+action		1
+review		1
+pls		1
+phillip		1
+later		1
+names		1
+bt		1
+market		1
+mara		1
+out		1
+fill		1
+need		1
+everyone	1
+including	1
+ensure		1

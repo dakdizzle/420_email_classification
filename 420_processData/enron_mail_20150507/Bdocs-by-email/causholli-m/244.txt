@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+good		1
+comethanks	1
+time		1
+office		1
+causholli	1
+know		1
+today		1
+margaret	1
+monika		1
+see		1

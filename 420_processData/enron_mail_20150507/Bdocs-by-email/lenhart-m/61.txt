@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+heard		1
+right		1
+dead		1
+tired		1
+now		1
+rare		1
+though		1
+form		1
+boone		1
+thanks		1

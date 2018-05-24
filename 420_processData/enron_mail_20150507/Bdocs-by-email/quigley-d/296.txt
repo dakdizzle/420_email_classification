@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ut		1
+cheer		1
+together	1
+put		1
+two		1
+yes		1

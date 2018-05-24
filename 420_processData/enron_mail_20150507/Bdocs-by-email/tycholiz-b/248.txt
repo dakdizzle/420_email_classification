@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+home		1
+stay		1
+time		1
+john		1
+know		1
+changes		1
+line		1
+planning	1
+contacted	1
+drop		1

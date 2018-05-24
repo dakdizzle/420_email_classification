@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+case		1
+details		1
+numbers		1
+need		1
+dg		1
+curves		1

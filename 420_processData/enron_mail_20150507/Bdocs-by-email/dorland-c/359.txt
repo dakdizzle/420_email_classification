@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+car		2
+usd		2
+problems	1
+drive		1
+jeep		1
+guess		1
+canada		1
+chris		1
+enron		1
+mom		1
+pay		1
+year		1
+going		1
+bad		1
+cost		1
+licensed	1
+having		1
+move		1
+sold		1

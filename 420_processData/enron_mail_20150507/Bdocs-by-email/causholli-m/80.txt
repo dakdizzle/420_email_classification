@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+three		1
+probably	1
+months		1

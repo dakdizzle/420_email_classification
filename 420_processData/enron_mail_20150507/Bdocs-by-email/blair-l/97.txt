@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+jean		2
+thanks		2
+lynn		1
+reply		1
+function	1
+now		1
+comfortable	1
+allocations	1
+system		1
+cover		1
+gone		1
+specific	1
+instead		1
+perform		1
+timing		1
+more		1
+need		1
+putting		1
+raetta		1
+specifies	1
+transok		1
+instructions	1
+debra		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+little		1
+together	1
+boy		1
+time		1
+watch		1
+maybe		1
+watches		1

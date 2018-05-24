@@ -1,0 +1,26 @@
+NumWords	29
+NumTerms	23
+
+ect		2
+weldon		2
+hou		2
+leach		2
+saybolt		2
+charles		2
+larry		1
+sulfur		1
+hodson		1
+low		1
+russell		1
+charges		1
+doug		1
+inspectorsits	1
+brett		1
+forwarded	1
+sample		1
+caleb		1
+ectcc		1
+one		1
+tested		1
+subject		1
+diesel		1

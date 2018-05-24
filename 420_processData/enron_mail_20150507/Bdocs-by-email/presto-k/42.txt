@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+power		2
+books		2
+offers		2
+under		1
+rate		1
+interest	1
+fall		1
+fx		1
+se		1
+ellen		1
+pushkar		1
+headcount	1
+su		1

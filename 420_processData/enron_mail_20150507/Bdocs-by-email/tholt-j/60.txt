@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+go		1
+show		1
+honor		1
+buy		1
+price		1
+ahead		1
+favor		1
+thier		1

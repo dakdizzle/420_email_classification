@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+information	1
+bob		1
+thanks		1
+circulate	1
+vince		1
+staff		1
+shall		1
+words		1
+happy		1
+kind		1
+year		1
+associates	1
+new		1

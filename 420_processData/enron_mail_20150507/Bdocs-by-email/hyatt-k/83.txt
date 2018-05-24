@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+taking		1
+plan		1
+know		1
+friday		1
+things		1
+depending	1
+problem		1
+thankskh	1
+out		1
+sun		1
+devil		1
+d		1
+tentatively	1
+week		1
+shake		1

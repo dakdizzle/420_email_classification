@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+cn		2
+scorman		2
+physical	1
+segmentation	1
+pstanother	1
+lost		1
+recipients	1
+once		1
+corman		1
+filename	1
+na		1
+path		1
+privileged	1
+ve		1
+concern		1
+non		1
+enron		1
+best		1
+against		1
+ou		1
+argument	1
+shelley		1

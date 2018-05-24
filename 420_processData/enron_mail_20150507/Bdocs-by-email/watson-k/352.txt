@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+kim		2
+thinking	1
+m		1
+error		1
+message		1
+please		1
+received	1
+name		1
+james		1
+advise		1
+watson		1
+thanks		1

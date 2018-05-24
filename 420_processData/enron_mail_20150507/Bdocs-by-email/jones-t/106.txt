@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+done		1
+team		1
+one		1
+told		1
+application	1
+waiting		1
+went		1
+eol		1
+approved	1
+password	1
+new		1

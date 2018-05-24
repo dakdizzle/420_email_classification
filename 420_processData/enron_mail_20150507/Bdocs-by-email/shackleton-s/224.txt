@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+mark		1
+pstdo		1
+shackleton	1
+sshackl		1
+comx		1
+meet		1
+filename	1
+privileged	1
+aep		1
+thinking	1
+m		1
+non		1
+enron		1
+amendments	1
+sara		1
+origin		1
+briefly		1
+need		1
+sx		1
+eol		1
+greenberg	1
+extent		1

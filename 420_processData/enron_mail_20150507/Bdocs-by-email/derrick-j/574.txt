@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+carrin		1
+much		1
+message		1
+best		1
+thank		1
+chris		1
+means		1

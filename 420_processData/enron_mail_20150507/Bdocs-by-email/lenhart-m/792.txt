@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ene		1
+html		1
+http		1
+yahoo		1
+biz		1
+com		1

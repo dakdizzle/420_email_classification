@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+meeting		1
+checked		1
+legal		1
+now		1
+find		1
+june		1
+scheduled	1
+attend		1
+having		1
+lunch		1
+unlikely	1
+prc		1
+calendar	1

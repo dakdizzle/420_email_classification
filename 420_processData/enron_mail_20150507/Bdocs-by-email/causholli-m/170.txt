@@ -1,0 +1,17 @@
+NumWords	18
+NumTerms	14
+
+privileged	2
+non		2
+causholli	2
+mcaushol	2
+filename	1
+folder		1
+pst		1
+sent		1
+version		1
+mx		1
+origin		1
+itemsx		1
+mime		1
+monika		1

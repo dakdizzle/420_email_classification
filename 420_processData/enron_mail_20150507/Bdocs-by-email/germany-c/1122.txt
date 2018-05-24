@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+tp		1
+under		1
+bought		1
+june		1
+deal		1

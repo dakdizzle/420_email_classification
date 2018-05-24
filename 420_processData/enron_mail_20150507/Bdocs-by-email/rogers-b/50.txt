@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+place		2
+culture		2
+deal		2
+rotten		1
+watchdog	1
+sec		1
+lot		1
+seem		1
+plus		1
+down		1
+right		1
+ben		1
+dealings	1
+clear		1
+comes		1
+bigger		1
+kind		1
+banks		1
+controls	1
+became		1

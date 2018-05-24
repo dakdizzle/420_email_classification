@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+much		1
+office		1
+jeff		1
+best		1
+please		1
+call		1
+thanks		1

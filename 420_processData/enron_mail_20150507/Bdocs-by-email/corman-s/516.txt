@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+email		1
+maintenance	1
+per		1
+company		1
+response	1
+earlier		1

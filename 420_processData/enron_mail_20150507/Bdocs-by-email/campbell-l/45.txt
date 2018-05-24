@@ -1,0 +1,5 @@
+NumWords	3
+NumTerms	2
+
+use		2
+mw		1

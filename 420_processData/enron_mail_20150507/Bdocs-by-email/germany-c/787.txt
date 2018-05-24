@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+agreement	3
+verify		1
+cgas		1
+attached	1
+contact		1
+left		1
+allocations	1
+pooling		1
+help		1
+billing		1
+meters		1
+supply		1
+message		1
+contracts	1
+believe		1
+aggregation	1
+agreements	1
+ipp		1
+contract	1
+sure		1
+wellhead	1
+think		1

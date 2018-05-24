@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+stepelizabeth	1
+fyi		1
+anticipation	1
+sager		1
+next		1

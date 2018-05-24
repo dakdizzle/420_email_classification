@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+monday		1
+fallon		1
+please		1
+add		1

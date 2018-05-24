@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+email		2
+kim		1
+know		1
+sending		1
+questions	1
+another		1
+work		1
+jan		1
+earlier		1
+tried		1
+thanks		1
+didn		1

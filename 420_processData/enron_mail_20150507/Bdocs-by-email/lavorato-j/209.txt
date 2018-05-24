@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+morning		1
+company		1
+trader		1
+var		1
+everyone	1
+need		1
+performance	1
+tommorrow	1

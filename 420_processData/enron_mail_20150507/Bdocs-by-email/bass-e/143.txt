@@ -1,0 +1,22 @@
+NumWords	39
+NumTerms	19
+
+cn		9
+recipients	4
+na		4
+enron		4
+ou		4
+timothy		1
+hull		1
+bhull		1
+blanchard	1
+shanna		1
+bryan		1
+notesaddr	1
+lenhart		1
+shusser		1
+mlenhar		1
+husser		1
+ee		1
+ff		1
+matthew		1

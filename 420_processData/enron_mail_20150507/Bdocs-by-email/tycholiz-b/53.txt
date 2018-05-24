@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+gift		2
+group		1
+mark		1
+send		1
+place		1
+interested	1
+wedding		1
+polsky		1
+pls		1
+chipping	1
+anyone		1
+purchased	1
+bt		1
+total		1
+certificate	1
+stephanie	1

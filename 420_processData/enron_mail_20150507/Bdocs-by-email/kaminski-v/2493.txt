@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+hr		2
+department	1
+scott		1
+details		1
+youregarding	1
+course		1
+procedures	1
+today		1
+leave		1
+contacting	1
+offer		1
+talked		1
+thanks		1
+out		1
+vince		1
+gothrough	1
+message		1
+shall		1
+work		1
+usual		1
+week		1

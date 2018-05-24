@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+clearing	1
+event		1
+john		1
+stick		1
+another		1
+vision		1
+eye		1
+here		1

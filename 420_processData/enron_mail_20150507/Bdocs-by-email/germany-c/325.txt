@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+tomorrow	2
+wire		2
+out		1
+send		1
+cash		1
+moving		1
+friday		1
+request		1

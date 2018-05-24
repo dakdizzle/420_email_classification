@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+paso		2
+pools		2
+el		2
+indication	1
+gas		1
+ask		1
+daily		1
+whether		1
+jan		1
+proposed	1
+system		1
+aug		1
+receipts	1
+aver		1
+furnish		1
+thinking	1
+volumes		1
+scheduled	1
+year		1
+think		1
+behind		1

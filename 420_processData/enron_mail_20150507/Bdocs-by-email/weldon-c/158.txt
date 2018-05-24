@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+enron		1
+cfm		1
+company		1
+index		1
+http		1
+www		1
+corptraining	1
+com		1

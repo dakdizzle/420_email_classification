@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+discuss		1
+meeting		1
+up		1
+please		1
+set		1

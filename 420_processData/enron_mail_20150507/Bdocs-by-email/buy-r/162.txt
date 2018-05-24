@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+check		1
+rick		1
+http		1
+www		1
+laconiamcweek	1
+site		1
+com		1

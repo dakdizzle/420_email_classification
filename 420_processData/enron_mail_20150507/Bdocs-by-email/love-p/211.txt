@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+done		1
+pl		1

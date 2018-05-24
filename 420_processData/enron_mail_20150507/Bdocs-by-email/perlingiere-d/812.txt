@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ok		1
+heartland	1
+ng		1
+attached	1
+additional	1
+move		1
+confirm		1

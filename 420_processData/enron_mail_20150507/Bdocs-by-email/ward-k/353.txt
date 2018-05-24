@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+first		1
+included	1
+helpful		1
+information	1
+know		1
+steve		1
+attached	1
+isda		1
+certificates	1
+form		1
+thanks		1
+kim		1
+required	1
+two		1
+hope		1
+please		1
+executed	1
+questions	1
+additional	1
+use		1
+need		1
+documents	1

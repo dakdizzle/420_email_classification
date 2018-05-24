@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+paul		1
+fax		1
+please		1
+mauricio	1
+change		1
+number		1
+thanks		1

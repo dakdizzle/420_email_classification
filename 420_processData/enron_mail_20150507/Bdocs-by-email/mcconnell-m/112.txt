@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+sunny		1
+highs		1
+low		1
+winds		1
+light		1
+although	1
+chilly		1
+yuk		1
+bit		1
+upper		1
+perfect		1
+saturday	1
+southwest	1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lynn		1
+come		1
+guys		1
+raetta		1
+curious		1
+sap		1
+access		1
+thanks		1

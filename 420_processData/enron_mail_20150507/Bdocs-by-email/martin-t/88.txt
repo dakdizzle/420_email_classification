@@ -1,0 +1,26 @@
+NumWords	29
+NumTerms	23
+
+thomas		2
+ect		2
+martin		2
+transportation	2
+hou		2
+supply		2
+meeting		1
+updated		1
+redmond		1
+pm		1
+per		1
+brian		1
+following	1
+tom		1
+thanks		1
+forwarded	1
+pmto		1
+ideas		1
+ectcc		1
+subject		1
+ideasthe	1
+hpl		1
+dave		1

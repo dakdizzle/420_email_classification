@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+resurrect	1
+attempt		1
+up		1
+avoid		1
+recreating	1
+one		1
+wheel		1
+mike		1
+smith		1
+dig		1
+note		1
+call		1

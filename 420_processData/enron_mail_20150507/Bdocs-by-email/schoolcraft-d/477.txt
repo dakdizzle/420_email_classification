@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+westtexas	1
+sheet		1
+schoolcraft	1
+dx		1
+filename	1
+transfer	1
+sheets		1
+privileged	1
+ds		1
+cal		1
+content		1
+non		1
+encoding	1
+tabs		1
+dschool		1
+origin		1
+bottom		1
+pstthere	1
+bitx		1

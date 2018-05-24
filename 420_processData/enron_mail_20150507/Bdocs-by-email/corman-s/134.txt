@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+join		1
+walking		1
+shirts		1
+shirt		1
+contribution	1
+years		1
+put		1
+jdf		1
+down		1
+past		1
+need		1
+year		1
+though		1
+still		1
+don		1

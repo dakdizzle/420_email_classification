@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+usno		1
+http		1
+navy		1
+data		1
+mil		1
+aa		1

@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cn		2
+jsteffe		2
+meeting		1
+arrangements	1
+lisa		1
+contact		1
+recipients	1
+sce		1
+filename	1
+na		1
+privileged	1
+jim		1
+steffes		1
+non		1
+enron		1
+pstmike		1
+spirit		1
+james		1
+ou		1

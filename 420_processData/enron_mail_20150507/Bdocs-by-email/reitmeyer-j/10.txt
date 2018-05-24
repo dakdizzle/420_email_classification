@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+time		2
+leave		2
+order		1
+meeting		1
+steve		1
+sounds		1
+general		1
+afternoon	1
+discussion	1
+led		1
+rockies		1
+want		1
+probably	1
+mike		1
+jay		1
+frank		1

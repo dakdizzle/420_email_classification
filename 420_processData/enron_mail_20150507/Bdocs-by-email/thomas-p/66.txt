@@ -1,0 +1,26 @@
+NumWords	28
+NumTerms	23
+
+items		3
+know		2
+toolbox		2
+need		2
+send		1
+paul		1
+ok		1
+short		1
+rika		1
+future		1
+continue	1
+file		1
+compiled	1
+market		1
+put		1
+list		1
+northeast	1
+questions	1
+start		1
+go		1
+one		1
+added		1
+data		1

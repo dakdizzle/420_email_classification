@@ -1,0 +1,14 @@
+NumWords	14
+NumTerms	11
+
+cn		2
+germany		2
+chris		2
+enron		1
+hero		1
+cgerman		1
+recipients	1
+ou		1
+pstkevin	1
+filename	1
+na		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+talking		1
+id		1
+kind		1
+form		1

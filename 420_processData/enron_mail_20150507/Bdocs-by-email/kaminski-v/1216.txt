@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+file		2
+encoded		1
+ed		1
+case		1
+happens		1
+decoded		1
+files		1
+somee		1
+doc		1
+fileor		1
+dat		1
+systems		1
+ekrapels	1
+pdf		1
+correctly	1
+vince		1
+esaibos		1
+comes		1
+mail		1
+don		1
+winmail		1
+com		1

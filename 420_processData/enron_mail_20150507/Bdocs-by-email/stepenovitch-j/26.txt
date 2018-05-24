@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+little		1
+crushed		1
+gets		1
+sweet		1
+understand	1
+baby		1
+nothing		1
+tell		1
+niece		1
+birthday	1
+ll		1

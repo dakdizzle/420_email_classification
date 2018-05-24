@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+many		1
+melba		1
+location	1
+name		1
+want		1
+ngpl		1
+manhatten	1
+characters	1

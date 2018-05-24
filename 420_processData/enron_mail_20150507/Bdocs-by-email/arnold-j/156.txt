@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+little		1
+bid		1
+desk		1
+settled		1
+jan		1
+called		1
+strip		1
+dec		1
+high		1
+call		1
+referencing	1

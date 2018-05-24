@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+sager		1
+later		1
+thankselizabeth	1
+call		1
+ll		1

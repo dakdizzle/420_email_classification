@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+service		3
+knows		2
+desk		2
+pissed		2
+involving	1
+citizens	1
+job		1
+paid		1
+today		1
+fyi		1
+continue	1
+expect		1
+better		1
+products	1
+issues		1
+feel		1
+one		1
+sell		1
+isn		1
+going		1
+grigsby		1
+addressing	1

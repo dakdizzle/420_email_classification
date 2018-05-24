@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+today		2
+notice		1
+others		1
+letters		1
+send		1
+louise		1
+really		1
+aep		1
+seriously	1
+started		1
+tomorrow	1
+need		1
+margin		1
+period		1
+note		1

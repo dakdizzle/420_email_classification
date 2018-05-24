@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+really		1
+fundies		1
+know		1
+work		1
+need		1
+bait		1
+sounds		1
+cut		1
+weekends	1
+move		1
+trust		1

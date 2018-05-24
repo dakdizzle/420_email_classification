@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+little		1
+calgary		1
+first		1
+camera		1
+until		1
+puzzled		1
+anyone		1
+found		1
+stay		1
+picture		1
+real		1
+being		1
+saw		1
+another		1
+want		1
+year		1
+everyone	1
+knock		1
+chance		1
+think		1
+doubts		1

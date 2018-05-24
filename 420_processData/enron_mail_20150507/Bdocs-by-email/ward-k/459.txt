@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+copy		2
+order		1
+citizens	1
+between		1
+send		1
+fax		1
+invoices	1
+chris		1
+processed	1
+thanks		1
+kim		1
+one		1
+contract	1
+need		1
+don		1
+earms		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lynn		1
+both		1
+issues		1
+oneok		1
+thel		1
+keep		1
+fyi		1
+oop		1
+thanks		1

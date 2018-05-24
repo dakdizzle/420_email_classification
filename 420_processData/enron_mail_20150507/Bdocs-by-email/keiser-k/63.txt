@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+power		1
+casey		1
+work		1
+forward		1
+evans		1
+side		1
+kk		1
+thanks		1

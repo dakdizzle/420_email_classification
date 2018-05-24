@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+marie		1
+thanks		1

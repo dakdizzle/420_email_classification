@@ -1,0 +1,24 @@
+NumWords	26
+NumTerms	21
+
+gas		3
+sitara		2
+regions		2
+access		2
+ability		1
+create		1
+ena		1
+well		1
+desk		1
+trying		1
+central		1
+authorization	1
+look		1
+m		1
+positions	1
+update		1
+need		1
+activity	1
+tickets		1
+don		1
+give		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+fashion		1
+secret		1
+show		1
+watch		1
+last		1
+week		1
+victoria	1

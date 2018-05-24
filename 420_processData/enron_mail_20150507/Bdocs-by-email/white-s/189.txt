@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+stacey		2
+white		2
+cn		2
+stacy		1
+recipients	1
+filename	1
+na		1
+see		1
+call		1
+swhite		1
+believe		1
+enron		1
+congratulations	1
+tell		1
+ou		1
+ring		1
+pstfran		1
+wait		1
+didn		1

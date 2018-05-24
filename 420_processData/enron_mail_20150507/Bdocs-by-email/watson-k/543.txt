@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+lorraine	1
+lindberg	1
+accomplishments	1

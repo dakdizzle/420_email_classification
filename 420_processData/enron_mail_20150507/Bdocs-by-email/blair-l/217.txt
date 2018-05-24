@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+lynn		1
+meeting		1
+interested	1
+ions		1
+know		1
+attached	1
+ops		1
+thanks		1
+quest		1
+sent		1
+please		1
+reviewing	1
+winter		1
+nng		1
+attendees	1
+thought		1
+ext		1
+summary		1

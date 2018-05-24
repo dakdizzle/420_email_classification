@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+stillon		1
+enron		1
+up		1
+msn		1
+service		1
+chat		1
+nick		1

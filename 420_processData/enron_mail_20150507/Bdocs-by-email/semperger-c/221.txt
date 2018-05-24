@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+tag		2
+happened	1
+confirmed	1
+few		1
+create		1
+nothing		1
+more		1
+same		1
+copies		1
+times		1
+hit		1
+confirm		1

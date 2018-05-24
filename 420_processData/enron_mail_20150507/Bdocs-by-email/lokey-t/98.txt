@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+tlokey		2
+cn		2
+problems	1
+lokey		1
+recipients	1
+filename	1
+na		1
+pstno		1
+privileged	1
+teb		1
+non		1
+enron		1
+regulatory	1
+ou		1

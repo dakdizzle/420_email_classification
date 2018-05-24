@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+haedicke	1
+issues		1
+dotted		1
+people		1
+desks		1
+know		1
+report		1
+line		1
+going		1
+having		1
+commercial	1

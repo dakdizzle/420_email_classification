@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+anything	1
+park		1
+corey		1
+id		1
+anwser		1
+fixed		1
+contract	1
+tried		1
+loan		1
+password	1
+call		1
+thanks		1

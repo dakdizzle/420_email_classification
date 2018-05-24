@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+term		1
+whole		1
+please		1
+volumes		1
+start		1
+throught	1
+dec		1
+take		1

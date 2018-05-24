@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+xmas		2
+day		1
+leaving		1
+time		1
+style		1
+know		1
+slip		1
+late		1
+longer		1
+afternoon	1
+suede		1
+stay		1
+shoes		1
+come		1
+black		1
+dad		1
+bought		1
+work		1
+critical	1
+saturday	1
+new		1

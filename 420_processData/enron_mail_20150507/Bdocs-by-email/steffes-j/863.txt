@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+monday		1
+meeting		1
+up		1
+becky		1
+please		1
+set		1
+thanks		1

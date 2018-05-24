@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+really		1
+office		1
+company		1
+happy		1
+want		1
+trying		1
+stop		1
+new		1

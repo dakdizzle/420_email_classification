@@ -1,0 +1,21 @@
+NumWords	22
+NumTerms	18
+
+flat		2
+cn		2
+mw		2
+dec		2
+agreed		1
+remainder	1
+scranda		1
+spreadsheet	1
+recipients	1
+month		1
+filename	1
+na		1
+enron		1
+delivered	1
+sean		1
+numbers		1
+ou		1
+crandall	1

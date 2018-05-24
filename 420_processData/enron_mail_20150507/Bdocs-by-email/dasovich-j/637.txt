@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+mday		1
+gmssr		1
+com		1

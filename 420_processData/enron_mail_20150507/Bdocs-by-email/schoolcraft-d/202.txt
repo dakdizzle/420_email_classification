@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+operating	1
+paso		1
+plant		1
+refer		1
+operations	1
+suggestingthe	1
+ds		1
+points		1
+sent		1
+memo		1
+start		1
+el		1
+griffith	1
+need		1
+previous	1
+tw		1

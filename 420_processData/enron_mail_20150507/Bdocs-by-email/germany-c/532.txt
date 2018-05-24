@@ -1,0 +1,24 @@
+NumWords	26
+NumTerms	21
+
+cingular	3
+account		2
+wireless	2
+bill		2
+per		1
+cancelled	1
+lisa		1
+know		1
+paid		1
+service		1
+nd		1
+asked		1
+ipayit		1
+going		1
+told		1
+before		1
+last		1
+called		1
+dec		1
+don		1
+cancel		1

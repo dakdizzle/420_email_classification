@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+customer	1
+title		1
+company		1
+transwestern	1
+initiatives	1
+absolutely	1
+service		1
+director	1
+currently	1
+marketing	1
+think		1
+pipeline	1

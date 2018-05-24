@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lynn		1
+usually		1
+steve		1
+name		1
+approve		1
+don		1
+see		1
+thanks		1

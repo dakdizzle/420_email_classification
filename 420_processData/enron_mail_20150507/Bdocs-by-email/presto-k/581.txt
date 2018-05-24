@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+day		1
+used		1
+start		1
+again		1
+var		1
+mail		1
+component	1
+receiving	1

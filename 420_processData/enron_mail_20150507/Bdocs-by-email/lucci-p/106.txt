@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+together	1
+wyoming		1
+m		1
+leaving		1
+time		1
+try		1
+things		1
+tomorrow	1
+week		1

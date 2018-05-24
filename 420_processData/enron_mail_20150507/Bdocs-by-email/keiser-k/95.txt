@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+up		3
+sums		1
+create		1
+know		1
+west		1
+russ		1
+total		1
+both		1
+roll		1
+northwest	1
+south		1
+break		1
+tds		1

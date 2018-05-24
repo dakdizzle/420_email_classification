@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ventures	1
+good		1
+stacey		1
+future		1
+missed		1
+luck		1
+extremely	1

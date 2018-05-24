@@ -1,0 +1,27 @@
+NumWords	31
+NumTerms	24
+
+cn		4
+recipients	2
+na		2
+enron		2
+ou		2
+lynn		1
+seems		1
+brad		1
+bradley		1
+time		1
+up		1
+bump		1
+dietz		1
+bholmes		1
+thanks		1
+lot		1
+holmes		1
+concern		1
+rdietz		1
+down		1
+rick		1
+already		1
+level		1
+need		1

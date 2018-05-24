@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+approach	2
+object		1
+send		1
+managing	1
+letter		1
+busy		1
+strongly	1
+someone		1
+trade		1
+forgetting	1
+recommended	1
+lead		1
+kill		1
+agree		1
+stacks		1
+inform		1
+termination	1
+settlements	1

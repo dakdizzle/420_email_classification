@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+getting		2
+resolved	1
+ina		1
+message		1
+run		1
+invoicing	1
+keep		1
+susan		1
+thanks		1
+through		1

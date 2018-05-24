@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+credit		1
+stanley		1
+tighter		1
+far		1
+requiring	1
+terms		1
+morgan		1

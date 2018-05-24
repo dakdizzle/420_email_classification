@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+customer	1
+kim		1
+dinner		1
+evening		1
+planned		1
+know		1
+unfortunately	1
+change		1
+plans		1
+thanks		1

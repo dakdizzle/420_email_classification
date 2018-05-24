@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+mexicana	1
+attached	1
+prepared	1
+new		1
+confirm		1

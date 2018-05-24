@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+sun		1
+leaving		1
+know		1
+sat		1
+mike		1
+town		1
+works		1
+problem		1

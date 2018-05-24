@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+up		1
+tighter		1
+keep		1
+even		1
+markets		1
+getting		1

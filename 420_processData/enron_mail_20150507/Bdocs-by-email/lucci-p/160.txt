@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+time		1
+well		1
+now		1
+future		1
+paths		1
+take		1
+whatever	1
+look		1
+good		1
+hope		1
+believe		1
+come		1
+cross		1
+again		1
+work		1
+pleasure	1
+carepaul	1
+skiing		1
+luck		1
+always		1

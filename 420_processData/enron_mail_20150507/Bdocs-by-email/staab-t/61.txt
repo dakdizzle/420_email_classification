@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+liked		1
+hope		1
+free		1
+theresai	1
+lunch		1
+give		1
+thanks		1
+ll		1

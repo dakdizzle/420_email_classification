@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hold		1
+event		1
+pls		1
+dorie		1
+tickets		1
+bt		1
+sunday		1
+thanks		1

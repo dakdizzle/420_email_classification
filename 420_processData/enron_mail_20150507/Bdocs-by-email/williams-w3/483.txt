@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+easy		1
+everything	1
+okay		1

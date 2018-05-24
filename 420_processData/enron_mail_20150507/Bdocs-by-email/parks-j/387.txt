@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+ed		1
+gas		1
+batch		1
+petition	1
+sell		1
+against		1
+need		1
+told		1
+post		1
+funding		1
+request		1

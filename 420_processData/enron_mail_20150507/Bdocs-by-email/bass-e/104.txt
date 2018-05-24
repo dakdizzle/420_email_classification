@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+deme		2
+cpg		1
+html		1
+http		1
+medscape	1
+www		1
+clinreviews	1
+com		1

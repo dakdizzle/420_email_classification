@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+unofficial	1
+invoice		1
+january		1
+tennessee	1
+here		1

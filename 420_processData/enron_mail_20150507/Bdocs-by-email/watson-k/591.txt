@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+announcement	1
+dynegy		1
+discuss		1
+monday		1
+kim		1
+meeting		1
+floor		1
+stan		1
+below		1
+see		1
+deal		1

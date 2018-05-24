@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+pm		2
+sacramento	2
+cn		2
+jeff		2
+meeting		1
+john		1
+supposed	1
+jshankm		1
+jdasovic	1
+recipients	1
+pstdave		1
+white		1
+perhaps		1
+filename	1
+na		1
+dasovich	1
+privileged	1
+tight		1
+non		1
+enron		1
+best		1
+timing		1
+ou		1

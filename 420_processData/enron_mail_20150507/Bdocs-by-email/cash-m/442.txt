@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+discuss		1
+meeting		1
+john		1
+talk		1
+well		1
+michelle	1
+mike		1
+need		1
+went		1
+think		1

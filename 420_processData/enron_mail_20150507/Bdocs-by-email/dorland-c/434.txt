@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+back		3
+know		2
+coming		1
+calgary		1
+heard		1
+thanxchris	1
+royal		1
+moving		1
+bid		1
+avoid		1
+huge		1
+currency	1
+cnd		1
+gas		1
+september	1
+trade		1
+bank		1
+offer		1
+laura		1
+spread		1
+mid		1
+usd		1
+swap		1
+don		1

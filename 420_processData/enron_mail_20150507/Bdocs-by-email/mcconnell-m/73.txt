@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+card		2
+mcconnelltranswestern	1
+company		1
+pipeline	1
+mcconnell	1
+deactivate	1
+carolyn		1
+cell		1
+enron		1
+office		1
+received	1
+faxmark		1
+markmark	1
+new		1
+com		1
+att		1

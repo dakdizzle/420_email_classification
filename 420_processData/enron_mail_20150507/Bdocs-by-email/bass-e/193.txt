@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+www		1
+com		1
+laydoff		1

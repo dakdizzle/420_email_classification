@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+look		1
+vacation	1
+joann		1
+hill		1
+ll		1

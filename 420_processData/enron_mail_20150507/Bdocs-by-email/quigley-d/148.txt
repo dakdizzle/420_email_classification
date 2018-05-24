@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+gas		2
+until		1
+term		1
+know		1
+today		1
+now		1
+later		1
+longer		1
+centshe		1
+right		1
+cents		1
+back		1
+sat		1

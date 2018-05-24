@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+ferc		1
+eia		1
+wood		1
+until		1
+gas		1
+s		1
+reuters		1
+weekly		1
+storage		1
+chairman	1
+data		1
+issue		1
+pat		1
+nat		1

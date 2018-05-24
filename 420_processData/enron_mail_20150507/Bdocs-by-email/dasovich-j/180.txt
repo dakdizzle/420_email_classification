@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+ability		1
+covered		1
+whether		1
+trying		1
+out		1
+clearly		1
+jeff		1
+july		1
+back		1
+voted		1
+go		1
+renewal		1
+determine	1
+date		1

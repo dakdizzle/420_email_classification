@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+thoreau		1
+much		1
+send		1
+slipped		1
+ones		1
+know		1
+thank		1
+west		1
+tiny		1
+kim		1
+apologies	1
+contracts	1
+brain		1
+juan		1
+sometimes	1
+need		1
+reminder	1
+away		1
+rest		1
+san		1
+think		1
+ll		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+thanksvince	1
+diane		1

@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+sally		2
+valdezasst	1
+list		1
+mari		1
+contact		1
+forward		1
+beck		1
+asked		1
+christina	1
+here		1

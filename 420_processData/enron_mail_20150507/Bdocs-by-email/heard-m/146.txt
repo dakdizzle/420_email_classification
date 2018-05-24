@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+sign		3
+wrapped		1
+originals	1
+up		1
+time		1
+friday		1
+hopefully	1
+parties		1
+marie		1
+letter		1
+same		1
+out		1
+roeline		1
+office		1
+enough		1
+tomorrow	1
+fee		1
+yes		1
+documents	1
+prefer		1
+original	1
+assignments	1
+hi		1

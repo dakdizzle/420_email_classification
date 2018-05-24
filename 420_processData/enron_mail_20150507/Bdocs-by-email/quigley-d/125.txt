@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+changed		1
+angie		1
+notdutch	1
+risk		1
+know		1
+guys		1
+deals		1
+shald		1

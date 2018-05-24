@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+energy		1
+support		1
+consumers	1
+competitive	1
+term		1
+markets		1
+view		1
+take		1
+aware		1
+long		1
+none		1
+positions	1
+need		1

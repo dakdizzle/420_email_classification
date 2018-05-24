@@ -1,0 +1,18 @@
+NumWords	19
+NumTerms	15
+
+physical	3
+energy		2
+marketing	2
+aec		1
+paso		1
+gasel		1
+gas		1
+gaswilliams	1
+canada		1
+gascalpine	1
+merchant	1
+encal		1
+natural		1
+partnership	1
+feb		1

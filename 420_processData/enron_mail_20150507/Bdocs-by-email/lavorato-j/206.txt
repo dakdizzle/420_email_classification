@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+distribute	1
+please		1
+want		1
+traders		1
+color		1
+week		1
+copies		1
+print		1
+reports		1
+head		1

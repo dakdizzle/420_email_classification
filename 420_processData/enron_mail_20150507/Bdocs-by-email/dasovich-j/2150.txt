@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+good		2
+time		1
+glad		1
+see		1

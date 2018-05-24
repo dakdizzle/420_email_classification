@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+president	1
+mark		1
+review		1
+taylorvice	1
+form		1
+wholesale	1
+general		1
+talked		1
+remember	1
+seem		1
+thinking	1
+counselenron	1
+hope		1
+services	1
+anne		1
+doing		1
+wishful		1
+here		1

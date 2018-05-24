@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+erms		2
+central		2
+help		2
+those		1
+lists		1
+ontario		1
+netco		1
+xlsi		1
+curves		1
+current		1
+darron		1
+sort		1
+adm		1
+want		1
+saved		1
+curve		1
+kk		1
+through		1

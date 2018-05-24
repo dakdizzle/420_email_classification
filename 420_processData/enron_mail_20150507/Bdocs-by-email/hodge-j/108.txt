@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+tetco		1
+john		1
+know		1
+dth		1
+now		1
+plus		1
+wla		1
+rickey		1
+right		1
+best		1
+index		1
+show		1
+work		1

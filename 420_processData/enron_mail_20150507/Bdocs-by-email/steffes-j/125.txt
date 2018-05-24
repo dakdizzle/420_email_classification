@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+m		1
+timeline	1
+known		1
+internally	1
+still		1
+discussing	1

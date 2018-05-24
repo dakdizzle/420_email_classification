@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+cn		2
+nemec		2
+gerald		2
+word		1
+barbara		1
+complete	1
+removes		1
+meta		1
+recipients	1
+filename	1
+na		1
+referring	1
+privileged	1
+gnemec		1
+non		1
+program		1
+enron		1
+document	1
+ms		1
+more		1
+pstjanette	1
+ou		1
+data		1
+voicemail	1

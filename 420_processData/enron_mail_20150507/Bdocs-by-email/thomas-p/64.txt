@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+think		2
+little		1
+sun		1
+fine		1

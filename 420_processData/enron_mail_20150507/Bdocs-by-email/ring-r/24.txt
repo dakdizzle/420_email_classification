@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+december	2
+th		2
+via		1
+friday		1
+thursday	1
+vacation	1
+rogers		1
+reached		1
+pager		1
+richard		1

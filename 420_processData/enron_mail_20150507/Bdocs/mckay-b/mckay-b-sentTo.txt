@@ -1,0 +1,17 @@
+NumWords	43
+NumTerms	14
+
+davis.thames@enron.com	10
+bmckay@houston.rr.com	10
+8888915473@archwireless.net	6
+dmburkett@houston.rr.com	4
+feedback@intcx.com	2
+eric.shaw@dynegy.com	2
+angusmcka@aol.com	2
+jason.jennaro@enron.com	1
+greg_hathaway@dom.com	1
+ashley.worthing@enron.com	1
+kimberly.bates@enron.com	1
+rex@arn.net	1
+adam.bayer@enron.com	1
+larry.may@enron.com	1

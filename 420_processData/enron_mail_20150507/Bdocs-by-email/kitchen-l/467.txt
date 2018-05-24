@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+m		1
+ok		1
+hope		1
+go		1
+things		1
+sorry		1

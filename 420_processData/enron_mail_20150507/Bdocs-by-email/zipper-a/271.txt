@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+addis		1
+aep		1
+interests	1
+leaving		1
+paul		1
+know		1
+friend		1
+saw		1
+pursue		1
+don		1
+mine		1

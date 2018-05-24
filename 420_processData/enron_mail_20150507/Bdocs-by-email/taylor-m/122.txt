@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+respond		1
+ok		1
+hope		1

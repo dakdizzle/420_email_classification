@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+changes		2
+keep		1
+take		1
+thanks		1
+posted		1
+kim		1
+lead		1
+sent		1
+many		1
+possible	1
+decide		1
+finally		1
+contract	1
+want		1
+nng		1
+mike		1
+thought		1
+don		1
+jorge		1
+mind		1

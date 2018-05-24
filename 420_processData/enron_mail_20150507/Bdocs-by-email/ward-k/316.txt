@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+jack		1
+gets		1
+make		1
+message		1
+larry		1
+sure		1
+unable		1
+thanks		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+enform		1
+beth		1
+cherry		1
+com		1

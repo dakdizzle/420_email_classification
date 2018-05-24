@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+stuff		1
+overseeing	1
+alot		1
+directly	1
+mariella	1
+orlando		1
+selling		1
+targeted	1
+keep		1
+involved	1
+operations	1
+assets		1
+pete		1
+out		1
+transition	1
+team		1
+going		1
+year		1
+figure		1
+mind		1
+next		1

@@ -1,0 +1,22 @@
+NumWords	24
+NumTerms	19
+
+nestle		4
+inc		2
+comments	2
+knowledge	1
+ed		1
+drafted		1
+revised		1
+holdings	1
+form		1
+reflect		1
+schedule	1
+happened	1
+quinn		1
+delivered	1
+deliver		1
+originally	1
+nothing		1
+locate		1
+usa		1

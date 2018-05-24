@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+cn		2
+nemec		2
+gerald		2
+place		1
+attached	1
+deals		1
+gtc		1
+recipients	1
+previously	1
+filename	1
+na		1
+pstplease	1
+privileged	1
+forwarded	1
+gnemec		1
+non		1
+enron		1
+forward		1
+use		1
+ou		1
+going		1

@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+jeff		3
+dasovich	2
+cn		2
+option		1
+prudent		1
+jdasovic	1
+recipients	1
+filename	1
+na		1
+path		1
+pstfor		1
+preferable	1
+privileged	1
+worth		1
+non		1
+enron		1
+best		1
+ou		1
+mike		1
+concur		1

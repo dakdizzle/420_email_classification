@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+dynegy		1
+send		1
+distribute	1
+sempra		1
+marie		1
+review		1
+copies		1
+uom		1
+sent		1
+torch		1
+drafts		1
+signed		1
+needed		1
+diane		1
+ll		1

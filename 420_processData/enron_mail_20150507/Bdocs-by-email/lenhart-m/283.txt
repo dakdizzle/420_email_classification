@@ -1,0 +1,17 @@
+NumWords	18
+NumTerms	14
+
+weekend		3
+go		2
+town		2
+party		1
+day		1
+memorial	1
+try		1
+tubing		1
+stay		1
+something	1
+rouge		1
+baton		1
+going		1
+engagement	1

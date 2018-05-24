@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+documentation	2
+green		2
+mountain	2
+sent		1
+stacey		1
+show		1
+luong		1
+anita		1
+requested	1
+doug		1
+schedule	1
+thanks		1

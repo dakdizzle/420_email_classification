@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+escape		1
+hey		1
+cafateria	1
+center		1
+even		1
+d		1
+thought		1
+allen		1
+lunch		1
+hit		1
+mins		1
+think		1

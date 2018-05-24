@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+miss		1
+board		1
+meeting		1
+time		1
+stan		1
+glad		1
+th		1
+see		1

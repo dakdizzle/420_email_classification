@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+party		1
+much		1
+leaving		1
+thank		1
+today		1
+caballo		1
+amigo		1
+home		1
+chrisito	1
+m		1
+around		1
+natalie		1
+moscow		1
+tomorrow	1
+go		1
+restaurant	1
+thursdaya	1
+clockwe		1
+vladi		1
+tu		1
+big		1
+very		1
+ll		1

@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+crib		2
+plus		1
+gym		1
+monitor		1
+chair		1
+months		1
+toys		1
+high		1
+mths		1
+tub		1

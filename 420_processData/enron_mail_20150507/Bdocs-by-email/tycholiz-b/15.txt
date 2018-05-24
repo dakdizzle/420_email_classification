@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+saying		1
+tacoma		1
+closed		1
+monthly		1
+gas		1
+buying		1
+report		1
+plants		1
+kaiser		1
+bt		1
+both		1
+basis		1
+mead		1
+one		1
+process		1
+dave		1
+fundy		1

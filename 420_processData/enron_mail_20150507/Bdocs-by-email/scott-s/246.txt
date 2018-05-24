@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+sscott		2
+cn		2
+changed		1
+ferc		1
+scott		1
+monthly		1
+price		1
+recipients	1
+susan		1
+system		1
+filename	1
+na		1
+privileged	1
+inside		1
+non		1
+enron		1
+index		1
+pstthe		1
+ou		1
+deal		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+gulfsouth	1
+email		1
+claire		1
+copy		1
+invoice		1
+please		1
+sending		1
+letter		1
+forward		1

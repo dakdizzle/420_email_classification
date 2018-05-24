@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+kwatson		2
+cn		2
+mark		1
+paul		1
+recipients	1
+watson		1
+pstglen		1
+filename	1
+na		1
+barbo		1
+marketing	1
+thanks		1
+privileged	1
+mcconnell	1
+kim		1
+kimberly	1
+list		1
+distribution	1
+non		1
+enron		1
+please		1
+ou		1
+add		1

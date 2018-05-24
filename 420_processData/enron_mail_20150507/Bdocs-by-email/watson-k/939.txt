@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+enron		3
+com		2
+paul		1
+comx		1
+tk		1
+watson		1
+filename	1
+barbo		1
+privileged	1
+kim		1
+kx		1
+lohman		1
+pstfyi		1
+non		1
+kwatson		1
+origin		1
+donoho		1
+lindy		1

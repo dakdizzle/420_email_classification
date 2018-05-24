@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+deal		2
+happens		1
+up		1
+time		1
+adjustment	1
+know		1
+prior		1
+along		1
+system		1
+killed		1
+kill		1
+come		1
+please		1
+ago		1
+old		1
+errol		1
+year		1
+ns		1
+last		1
+period		1

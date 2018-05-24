@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+room		1
+yes		1
+conference	1
+ll		1

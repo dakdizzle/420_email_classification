@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+vkamins		2
+vince		2
+cn		2
+recent		1
+lowertheir	1
+reducing	1
+customers	1
+risk		1
+recipients	1
+exposure	1
+filename	1
+na		1
+engaging	1
+privileged	1
+non		1
+enron		1
+sense		1
+trades		1
+volumes		1
+ou		1
+pstmakes	1
+curious		1
+kaminski	1

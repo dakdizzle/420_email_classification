@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+davies		1
+derek		1
+myself		1
+ontario		1
+works		1
+prepare		1
+presentation	1
+market		1

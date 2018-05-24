@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+sbeck		2
+cn		2
+sally		2
+piper		1
+helpful		1
+contact		1
+recipients	1
+filename	1
+na		1
+privileged	1
+anything	1
+pstfyi		1
+non		1
+enron		1
+numbers		1
+weekend		1
+ou		1
+need		1
+beck		1
+thought		1

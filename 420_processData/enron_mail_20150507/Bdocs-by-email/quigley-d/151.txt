@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+dquigle		2
+cn		2
+dog		1
+recipients	1
+filename	1
+na		1
+privileged	1
+dutch		1
+non		1
+enron		1
+come		1
+sausage		1
+pstbrock	1
+ou		1
+quigley		1
+here		1

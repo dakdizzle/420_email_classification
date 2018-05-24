@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+week		1
+tentatively	1
+sacramento	1

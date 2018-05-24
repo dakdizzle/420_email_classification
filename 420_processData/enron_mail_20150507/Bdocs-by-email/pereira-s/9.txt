@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+home		1
+email		1
+send		1
+undeliverable	1
+tried		1

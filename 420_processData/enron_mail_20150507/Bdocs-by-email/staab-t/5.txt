@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+working		2
+one		2
+time		1
+talk		1
+try		1
+know		1
+draft		1
+now		1
+longer		1
+take		1
+emails		1
+soon		1
+m		1
+good		1
+amy		1
+citation	1
+think		1
+here		1
+ll		1
+next		1

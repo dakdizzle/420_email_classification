@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+revised		1
+rick		1
+bill		1
+again		1
+want		1
+see		1
+presentation	1

@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+mail		3
+access		2
+job		1
+thank		1
+responsibilities	1
+resolution	1
+affected	1
+expedient	1
+being		1
+enron		1
+please		1
+beginning	1
+unlock		1
+website		1
+allow		1
+com		1

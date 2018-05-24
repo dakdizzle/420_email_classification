@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+morning		2
+anything	1
+email		1
+scott		1
+connie		1
+don		1
+entertain	1

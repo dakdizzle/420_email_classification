@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+group		1
+leaving		1
+company		1
+johnny		1
+fletch		1
+huntman		1
+truth		1
+rumor		1

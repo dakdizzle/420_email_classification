@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+lblair		2
+cn		2
+please		2
+lynn		1
+blair		1
+recipients	1
+referenced	1
+file		1
+filename	1
+na		1
+requested	1
+call		1
+pst		1
+privileged	1
+non		1
+enron		1
+questions	1
+ou		1
+below		1
+restore		1
+ext		1

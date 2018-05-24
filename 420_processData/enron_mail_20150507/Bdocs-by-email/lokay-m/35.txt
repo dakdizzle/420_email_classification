@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+bid		1
+html		1
+http		1
+guys		1
+twdb		1
+today		1
+www		1
+due		1
+etfr		1
+avcap		1
+hope		1
+enron		1
+tw		1
+com		1

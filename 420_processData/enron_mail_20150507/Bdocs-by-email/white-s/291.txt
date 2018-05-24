@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+miss		1
+stacey		1
+cuero		1
+weekend		1
+brunch		1
+sorry		1
+going		1
+sunday		1

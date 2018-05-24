@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+david		2
+wanted		2
+grill		1
+together	1
+email		1
+hey		1
+terry		1
+know		1
+cake		1
+plans		1
+outside		1
+see		1
+sunday		1
+something	1
+m		1
+house		1
+bring		1
+want		1
+works		1
+sure		1
+address		1
+don		1
+new		1
+over		1

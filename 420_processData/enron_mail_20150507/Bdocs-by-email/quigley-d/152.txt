@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+time		2
+morning		1
+dq		1
+done		1
+good		1
+store		1
+go		1
+babytee		1
+today		1
+sat		1
+furniture	1
+okanything	1

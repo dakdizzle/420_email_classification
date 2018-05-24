@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+m		1
+place		1
+information	1
+exact		1
+need		1
+address		1
+sure		1
+certainly	1

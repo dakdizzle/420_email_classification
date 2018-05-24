@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+mar		1
+watching	1
+enough		1
+started		1
+moved		1
+sumas		1
+guess		1
+nov		1
+chris		1
+vol		1

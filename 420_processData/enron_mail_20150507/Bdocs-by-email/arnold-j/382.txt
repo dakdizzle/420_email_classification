@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+goals		1
+dont		1
+agree		1
+position	1
+today		1
+advise		1
+trading		1
+summary		1

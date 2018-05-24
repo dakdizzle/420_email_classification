@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+realize		1
+everything	1
+rick		1
+lets		1
+set		1
+date		1
+here		1
+didn		1

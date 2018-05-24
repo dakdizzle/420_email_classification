@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+chris		2
+cn		2
+germany		2
+tallahassee	1
+friday		1
+cgerman		1
+paid		1
+recipients	1
+reliant		1
+forcasting	1
+filename	1
+na		1
+psti		1
+enron		1
+ou		1
+deal		1

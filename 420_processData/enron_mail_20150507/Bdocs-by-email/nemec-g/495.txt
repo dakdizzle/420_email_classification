@@ -1,0 +1,27 @@
+NumWords	35
+NumTerms	24
+
+nemec		4
+enron		3
+gerald		3
+com		3
+privileged	2
+non		2
+discuss		1
+pstattached	1
+higgins		1
+redmond		1
+brian		1
+letter		1
+draft		1
+review		1
+filename	1
+folder		1
+gx		1
+rainer		1
+eva		1
+sent		1
+ned		1
+please		1
+origin		1
+itemsx		1

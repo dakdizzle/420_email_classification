@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+around		1
+still		1

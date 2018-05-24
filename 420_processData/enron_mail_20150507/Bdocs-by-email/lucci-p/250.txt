@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+forward		1
+emails		1
+ll		1

@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+stacey		2
+swhite		2
+cn		2
+case		1
+pstgeoff	1
+worst		1
+know		1
+recipients	1
+pager		1
+white		1
+filename	1
+na		1
+privileged	1
+anything	1
+home		1
+cell		1
+non		1
+enron		1
+please		1
+husband		1
+ou		1
+need		1
+data		1
+here		1

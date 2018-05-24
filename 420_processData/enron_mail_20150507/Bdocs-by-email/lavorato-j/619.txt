@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+support		1
+mcmahon		1
+recipients	1
+kidding		1
+na		1
+jeffrey		1
+definately	1
+m		1
+enron		1
+ou		1
+going		1
+jmcmaho		1

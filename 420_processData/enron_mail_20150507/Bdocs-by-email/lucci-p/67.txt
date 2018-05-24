@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+out		3
+gives		1
+hip		1
+put		1
+those		1
+age		1
+girls		1
+unfortunately	1
+know		1
+puts		1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+copy		2
+morning		1
+chuck		1
+looking		1
+procedures	1
+prepared	1
+detailed	1
+biliana		1
+reports		1
+kk		1
+excel		1

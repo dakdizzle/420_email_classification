@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+discuss		1
+consider	1
+sally		1
+want		1

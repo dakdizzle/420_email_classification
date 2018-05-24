@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+stuff		1
+make		1
+people		1
+few		1
+work		1
+more		1
+need		1
+probably	1
+hands		1
+smoothly	1

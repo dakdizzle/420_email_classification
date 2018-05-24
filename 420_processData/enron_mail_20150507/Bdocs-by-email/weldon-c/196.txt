@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+weatherunderground	1
+html		1
+http		1
+kiah		1
+houston		1
+www		1
+tx		1
+com		1

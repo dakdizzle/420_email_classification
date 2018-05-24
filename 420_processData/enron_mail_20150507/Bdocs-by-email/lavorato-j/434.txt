@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+stuff		1
+m		1
+know		1
+ena		1
+one		1
+bidding		1
+balancing	1
+confused	1

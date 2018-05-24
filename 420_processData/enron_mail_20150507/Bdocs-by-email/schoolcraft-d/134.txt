@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+non		2
+physical	1
+schoolcraft	1
+dx		1
+filename	1
+transfer	1
+excluded	1
+privileged	1
+ds		1
+points		1
+content		1
+psti		1
+encoding	1
+agree		1
+dschool		1
+origin		1
+lindy		1
+bitx		1

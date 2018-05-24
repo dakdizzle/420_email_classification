@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+great		2
+babykeep	1
+up		1
+work		1

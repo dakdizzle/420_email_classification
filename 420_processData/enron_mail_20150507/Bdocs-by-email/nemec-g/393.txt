@@ -1,0 +1,21 @@
+NumWords	22
+NumTerms	18
+
+ok		2
+cn		2
+nemec		2
+gerald		2
+wfec		1
+few		1
+recipients	1
+filename	1
+na		1
+pstbill		1
+privileged	1
+gnemec		1
+non		1
+enron		1
+changes		1
+forward		1
+made		1
+ou		1

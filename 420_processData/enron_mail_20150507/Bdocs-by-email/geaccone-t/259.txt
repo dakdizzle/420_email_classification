@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+blackberry	2
+bill		2
+go		2
+account		1
+net		1
+wireless	1
+payment		1
+handheld	1
+well		1
+paid		1
+final		1
+www		1
+thanks		1
+home		1
+sent		1
+buy		1
+want		1
+need		1
+corp		1
+address		1
+through		1

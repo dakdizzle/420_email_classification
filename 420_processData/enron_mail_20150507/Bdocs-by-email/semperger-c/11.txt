@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+walk		1
+support		1
+oatiinc		1
+contact		1
+need		1
+thru		1
+comthey		1

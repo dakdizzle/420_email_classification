@@ -1,0 +1,22 @@
+NumWords	26
+NumTerms	19
+
+tax		3
+bill		3
+weldon		2
+pdf		2
+cr		2
+passed		1
+filename	1
+transfer	1
+newly		1
+content		1
+good		1
+pstfyi		1
+encoding	1
+charles		1
+origin		1
+bitx		1
+vx		1
+very		1
+summary		1

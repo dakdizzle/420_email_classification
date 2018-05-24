@@ -1,0 +1,19 @@
+NumWords	20
+NumTerms	16
+
+center		4
+enron		2
+moving		1
+interested	1
+company		1
+rc		1
+number		1
+regards		1
+jonathan	1
+available	1
+nothing		1
+work		1
+south		1
+mckay		1
+cost		1
+allen		1

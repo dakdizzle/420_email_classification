@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+send		1
+chuck		1
+copy		1
+know		1
+anyone		1
+find		1
+detailed	1
+extremely	1
+seem		1
+morning		1
+down		1
+made		1
+saved		1
+notes		1
+still		1
+reports		1
+kk		1
+here		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+houson		1
+revere		1
+phone		1
+tx		1
+st		1

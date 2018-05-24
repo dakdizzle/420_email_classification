@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+october		1
+know		1
+anyone		1
+mean		1
+th		1
+september	1
+see		1
+mails		1
+ds		1
+really		1
+hope		1
+instead		1
+rich		1
+reads		1
+doing		1

@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+inbox		1
+gas		1
+statement	1
+came		1
+plant		1
+left		1
+phone		1
+cleburne	1
+txu		1
+morning		1
+being		1
+delivered	1
+before		1
+lunch		1
+imbalance	1
+shipper		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+rp		1
+steve		1
+attached	1
+draft		1
+response	1
+cpuc		1
+appreciate	1
+input		1
+thanks		1
+protest		1
+filed		1
+initial		1
+frank		1

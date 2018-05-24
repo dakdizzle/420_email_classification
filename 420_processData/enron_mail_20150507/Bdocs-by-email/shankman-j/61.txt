@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+send		2
+chairs		2
+mies		1
+legs		1
+everywhere	1
+low		1
+form		1
+shown		1
+classic		1
+seat		1
+pictures	1
+check		1
+jeff		1
+description	1
+curvy		1
+back		1
+tomorrow	1
+yes		1
+asking		1
+intersect	1
+chrome		1
+bench		1
+very		1
+ll		1

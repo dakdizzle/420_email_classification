@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+please		2
+put		1
+maureen		1
+milestones	1
+check		1
+christie	1
+accuracy	1
+attached	1
+career		1
+see		1
+letterhead	1

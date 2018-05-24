@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+please		2
+sheilads	1
+team		1
+attached	1
+foward		1
+include		1

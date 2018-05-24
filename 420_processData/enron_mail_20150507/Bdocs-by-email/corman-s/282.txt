@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+payable		2
+rick		2
+info		1
+together	1
+information	1
+dietz		1
+call		1
+oba		1
+both		1
+office		1
+please		1
+putting		1
+coordinate	1
+give		1

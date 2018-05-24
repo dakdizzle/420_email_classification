@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+comments	2
+transaction	1
+isolates	1
+brooklyn	1
+appreciated	1
+related		1
+thanks		1
+employment	1
+mhc		1
+navy		1
+yard		1
+pat		1
+think		1

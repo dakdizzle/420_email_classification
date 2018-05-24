@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+meeting		1
+free		1
+invite		1
+help		1
+sec		1
+talking		1
+rick		1
+feel		1
+unfortunately	1
+gorte		1
+week		1
+dave		1
+think		1
+next		1

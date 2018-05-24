@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+care		1
+thksmc		1
+again		1
+today		1
+another		1
+houstonian	1
+deal		1
+doug		1
+take		1

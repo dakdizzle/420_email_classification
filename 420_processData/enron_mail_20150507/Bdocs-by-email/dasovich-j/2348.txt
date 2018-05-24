@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+make		1
+working		1
+continue	1
+stop		1
+thanks		1
+really		1
+jeff		1
+sense		1
+want		1
+don		1
+deal		1
+big		1
+doesn		1

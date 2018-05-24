@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+useful		2
+loretta		2
+confidential	1
+views		1
+distribute	1
+know		1
+letter		1
+welcomed	1
+jeff		1
+best		1
+please		1
+concerned	1
+evie		1
+don		1
+think		1

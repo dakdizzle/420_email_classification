@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+baird		1
+notify		1
+please		1
+thank		1
+derrick		1
+bob		1
+molly		1
+approved	1
+request		1

@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+consumers	2
+michcon		2
+guy		1
+baby		1
+left		1
+iyt		1
+having		1
+zero		1
+here		1

@@ -1,0 +1,5 @@
+NumWords	3
+NumTerms	2
+
+dog		2
+getting		1

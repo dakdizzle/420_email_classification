@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+thing		1
+time		1
+happening	1
+jay		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+m		1
+started		1
+tricianot	1
+chris		1
+counting	1

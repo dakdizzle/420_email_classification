@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+kim		1
+complete	1
+power		1
+sara		1
+melissa		1
+templates	1
+review		1
+financial	1
+waiting		1
+package		1
+hundle		1

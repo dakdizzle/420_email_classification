@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+please		2
+changes		2
+need		2
+pl		1
+files		1
+ask		1
+today		1
+russ		1
+currently	1
+database	1
+help		1
+modify		1
+thanks		1
+loading		1
+incorporate	1
+myself		1
+made		1
+curve		1

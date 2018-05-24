@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+back		1
+night		1
+line		1
+pumped		1
+sorry		1
+last		1
+paige		1
+didn		1

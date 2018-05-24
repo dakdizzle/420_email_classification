@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ileana		1
+thursday	1
+blanco		1
+go		1
+lunch		1

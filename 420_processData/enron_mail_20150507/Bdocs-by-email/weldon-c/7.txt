@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+fun		2
+friday		2
+deal		2
+charlie		1
+up		1
+judge		1
+employer	1
+few		1
+today		1
+sounds		1
+approved	1
+offer		1
+closes		1
+gets		1
+signed		1
+nothing		1
+ubs		1
+turned		1
+weeks		1
+new		1
+screwed		1
+next		1

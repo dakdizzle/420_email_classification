@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+talk		1
+try		1
+minutes		1
+going		1
+dg		1
+carve		1
+expect		1
+thanks		1
+laura		1

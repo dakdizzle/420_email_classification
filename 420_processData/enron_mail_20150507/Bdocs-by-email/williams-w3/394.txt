@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+monday		1
+email		1
+up		1
+try		1
+indoor		1
+working		1
+show		1
+nate		1
+getting		1

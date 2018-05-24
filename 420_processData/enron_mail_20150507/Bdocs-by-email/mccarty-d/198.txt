@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+cn		2
+rick		2
+ena		1
+recipients	1
+due		1
+dietz		1
+na		1
+dan		1
+capacity	1
+rdietz		1
+enron		1
+shippers	1
+release		1
+ou		1
+thought		1
+original	1
+november	1

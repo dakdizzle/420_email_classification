@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ve		1
+way		1
+send		1
+received	1
+mhc		1
+elkins		1
+advice		1
+looks		1
+vinson		1

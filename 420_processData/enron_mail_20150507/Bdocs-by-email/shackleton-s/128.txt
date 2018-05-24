@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+account		1
+done		1
+opening		1
+time		1
+ago		1
+sound		1
+marie		1
+thought		1
+sept		1
+weird		1
+ss		1

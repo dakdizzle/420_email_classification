@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kim		1
+case		1
+fyi		1
+see		1
+kent		1
+note		1
+thanks		1
+yesterday	1

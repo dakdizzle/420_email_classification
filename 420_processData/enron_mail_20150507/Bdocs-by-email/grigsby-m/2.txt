@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+please		2
+email		1
+begin		1
+l		1
+sending		1
+tell		1
+desk		1
+mike		1
+thanks		1
+randy		1
+summary		1

@@ -1,0 +1,23 @@
+NumWords	28
+NumTerms	20
+
+http		3
+www		3
+com		3
+mcuilla		2
+cn		2
+recruitersonline	1
+cuilla		1
+links		1
+martin		1
+recipients	1
+airsdirectory	1
+filename	1
+na		1
+careerxroads	1
+privileged	1
+non		1
+psthere		1
+enron		1
+dad		1
+ou		1

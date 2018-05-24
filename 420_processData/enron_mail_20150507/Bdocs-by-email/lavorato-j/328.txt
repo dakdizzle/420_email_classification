@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+john		2
+deals		2
+close		1
+comx		1
+pstjohn		1
+outsourcing	1
+filename	1
+getting		1
+jx		1
+enron		1
+please		1
+arnold		1
+update		1
+jlavora		1
+aronld		1
+origin		1
+pursuing	1
+curious		1
+lavorado	1

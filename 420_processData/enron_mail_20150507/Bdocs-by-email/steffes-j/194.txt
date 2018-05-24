@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+date		2
+retroactive	1
+talks		1
+draft		1
+ready		1
+cpuc		1
+guess		1
+even		1
+bob		1
+file		1
+jim		1
+anything	1
+concerns	1
+language	1
+july		1
+want		1
+ordering	1
+filed		1
+before		1
+going		1
+d		1
+sure		1
+sue		1

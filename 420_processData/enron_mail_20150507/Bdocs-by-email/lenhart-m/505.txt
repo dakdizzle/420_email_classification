@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+party		1
+girl		1

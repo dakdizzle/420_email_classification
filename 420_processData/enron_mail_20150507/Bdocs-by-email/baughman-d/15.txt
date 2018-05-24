@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+amigo		1
+db		1
+gracias		1

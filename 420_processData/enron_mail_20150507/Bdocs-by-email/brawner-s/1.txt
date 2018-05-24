@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+hello		1
+idea		1
+chance		1
+referring	1

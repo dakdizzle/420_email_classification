@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+find		2
+thanks		2
+out		2
+transaction	1
+credit		1
+up		1
+customers	1
+information	1
+trying		1
+jim		1
+maureen		1
+edi		1
+work		1
+held		1
+mail		1
+amount		1
+process		1
+ll		1
+standard	1
+through		1
+switching	1

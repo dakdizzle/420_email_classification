@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+point		1
+gate		1
+lets		1
+start		1
+pg		1
+city		1
+delivery	1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+fastow		1
+moment		1
+long		1
+people		1
+sort		1
+rick		1
+interesting	1
+use		1
+sounds		1
+bet		1

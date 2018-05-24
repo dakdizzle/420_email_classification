@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+marie		1
+today		1
+max		1
+amendment	1

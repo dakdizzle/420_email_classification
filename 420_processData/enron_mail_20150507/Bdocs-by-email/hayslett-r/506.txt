@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+saunders	1
+accounting	1
+anyone		1

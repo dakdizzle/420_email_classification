@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+lynn		2
+lblair		2
+cn		2
+penny		1
+john		1
+blair		1
+recipients	1
+th		1
+filename	1
+na		1
+buchanan	1
+thanks		1
+pst		1
+privileged	1
+non		1
+enron		1
+ou		1
+participate	1

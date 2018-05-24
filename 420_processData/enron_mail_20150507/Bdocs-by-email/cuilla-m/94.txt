@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+group		1
+fun		1
+coming		1
+know		1
+kinda		1
+johnny		1
+although	1
+nov		1
+getting		1
+et		1
+something	1
+people		1
+renaissance	1
+go		1
+festival	1
+steep		1
+everyone	1
+coon		1
+thought		1
+town		1
+big		1
+ass		1

@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+susposed	1
+lake		1
+time		1
+humidity	1
+conroe		1
+austin		1
+chris		1
+trip		1
+take		1
+better		1
+retreat		1
+easy		1
+great		1
+feel		1
+destination	1
+weekend		1
+work		1
+crystal		1
+last		1
+week		1
+wait		1
+think		1
+next		1

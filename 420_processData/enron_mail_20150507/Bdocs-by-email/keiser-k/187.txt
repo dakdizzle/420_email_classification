@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+up		1
+need		1
+phillip		1
+set		1
+books		1
+looks		1
+new		1
+kk		1

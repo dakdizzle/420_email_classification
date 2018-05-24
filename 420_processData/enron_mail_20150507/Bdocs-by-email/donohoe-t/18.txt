@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+drew		1
+day		1
+evening		1
+during		1
+collection	1
+ebay		1
+nancy		1
+pay		1
+visa		1
+bought		1
+phone		1
+number		1

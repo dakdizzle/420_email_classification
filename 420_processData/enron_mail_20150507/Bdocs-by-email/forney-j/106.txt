@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+good		1
+power		1
+fornicatio	1
+refer		1
+pretty		1
+looks		1
+deal		1
+new		1

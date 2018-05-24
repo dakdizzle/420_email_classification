@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+info		1
+point		1
+those		1
+follow		1
+sweet		1
+jeff		1
+best		1
+short		1
+messages	1
+more		1

@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+shorton		2
+cn		2
+stanley		1
+recipients	1
+expedited	1
+filename	1
+na		1
+see		1
+gary		1
+privileged	1
+way		1
+psti		1
+non		1
+agree		1
+enron		1
+memo		1
+awful		1
+timing		1
+ou		1
+asking		1
+smith		1
+horton		1

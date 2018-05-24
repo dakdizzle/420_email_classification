@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+fun		1
+sounds		1
+definitely	1

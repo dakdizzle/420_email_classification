@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+divorced	2
+little		1
+heard		1
+cute		1
+yeah		1
+young		1
+sure		1
+wasn		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+explanation	1
+packet		1
+bring		1
+ll		1

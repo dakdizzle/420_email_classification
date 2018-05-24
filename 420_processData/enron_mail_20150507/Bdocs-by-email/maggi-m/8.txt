@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+saturday	2
+coming		1
+back		1
+vacation	1
+following	1
+going		1
+sunday		1
+next		1
+actually	1

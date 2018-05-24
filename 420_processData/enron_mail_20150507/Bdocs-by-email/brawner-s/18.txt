@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+pictures	1
+dont		1
+fyi		1

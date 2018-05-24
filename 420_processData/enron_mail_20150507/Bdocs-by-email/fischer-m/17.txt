@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+carol		2
+fischer		2
+mary		2
+leesa		1
+sapp		1
+becky		1
+guests		1
+susan		1
+white		1
+fall		1
+help		1
+patty		1
+christina	1
+rush		1
+lee		1
+kenny		1
+luncheon	1
+murray		1
+debroah		1
+knightthanks	1
+rhonda		1
+topol		1
+sue		1
+ryan		1

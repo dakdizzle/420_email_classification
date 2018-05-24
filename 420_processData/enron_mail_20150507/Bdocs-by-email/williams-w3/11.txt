@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+mollie		2
+cn		2
+resend		1
+recipients	1
+attachment	1
+na		1
+thanks		1
+mgustaf		1
+enron		1
+bill		1
+gustafson	1
+ou		1
+original	1

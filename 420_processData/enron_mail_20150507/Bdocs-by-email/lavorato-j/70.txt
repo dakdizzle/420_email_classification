@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+structure	1
+meeting		1
+up		1
+talk		1
+dpr		1
+week		1
+set		1
+chris		1
+next		1

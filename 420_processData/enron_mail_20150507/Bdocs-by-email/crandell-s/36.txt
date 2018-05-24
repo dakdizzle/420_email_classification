@@ -1,0 +1,27 @@
+NumWords	56
+NumTerms	24
+
+mc		15
+bpa		10
+montana		4
+cob		2
+pac		2
+s		2
+busbar		2
+puget		2
+louisiana	2
+douglas		1
+counterparty	1
+price		1
+midesto		1
+mcminn		1
+holnam		1
+spp		1
+sale		1
+grays		1
+point		1
+intel		1
+luzenaca	1
+buy		1
+deal		1
+chelan		1

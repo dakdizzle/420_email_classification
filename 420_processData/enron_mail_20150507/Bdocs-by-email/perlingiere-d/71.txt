@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+party		1
+ndr		1
+stop		1
+third		1
+operate		1
+cease		1
+delivery	1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+master		1
+kim		1
+lawyer		1
+know		1
+steve		1
+questions	1
+pass		1
+once		1
+phone		1
+thanks		1

@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+respect		2
+dana		1
+continuing	1
+directly	1
+heads		1
+personnel	1
+steve		1
+guatum		1
+desk		1
+responsibility	1
+wang		1
+thanks		1
+push		1
+issues		1
+down		1
+gupta		1
+agree		1
+includes	1
+please		1
+rogers		1
+harry		1
+work		1
+narsima		1

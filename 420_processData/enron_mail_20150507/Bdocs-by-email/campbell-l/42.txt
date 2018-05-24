@@ -1,0 +1,13 @@
+NumWords	14
+NumTerms	10
+
+trans		2
+id		2
+ny		2
+pjm		2
+notice		1
+further		1
+until		1
+fixed		1
+lc		1
+deals		1

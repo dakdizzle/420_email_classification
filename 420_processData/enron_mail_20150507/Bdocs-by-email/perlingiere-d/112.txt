@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+few		2
+cn		2
+mud		1
+send		1
+revisions	1
+now		1
+recipients	1
+docs		1
+na		1
+sylvia		1
+finishing	1
+enron		1
+minutes		1
+ou		1
+spollan		1
+agreement	1
+execution	1
+pollan		1

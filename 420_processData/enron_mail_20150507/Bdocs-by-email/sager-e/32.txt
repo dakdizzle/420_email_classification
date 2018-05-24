@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+hithought	1
+talk		1
+playing		1
+kick		1
+smoothly	1
+home		1
+soon		1
+hope		1
+weekend		1
+spent		1
+made		1
+sager		1
+elizabeth	1
+soccer		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+anything	1
+sweatbands	1
+those		1
+sweet		1
+talking		1
+ordering	1

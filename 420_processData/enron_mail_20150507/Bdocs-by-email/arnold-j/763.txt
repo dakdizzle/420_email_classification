@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+days		1
+another		1
+couple		1

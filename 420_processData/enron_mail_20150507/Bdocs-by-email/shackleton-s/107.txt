@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+please		1
+refresh		1
+sara		1
+marie		1
+memory		1

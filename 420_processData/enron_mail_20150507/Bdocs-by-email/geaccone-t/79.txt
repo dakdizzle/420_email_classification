@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+accountability	1
+format		1
+attached	1
+want		1
+slide		1
+use		1
+nng		1
+lindy		1
+examples	1
+presentation	1

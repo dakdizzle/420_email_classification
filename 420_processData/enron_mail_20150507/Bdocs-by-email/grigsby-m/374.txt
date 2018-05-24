@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+track		1
+dornier		1
+claim		1
+west		1
+rotation	1
+grigsby		1
+chris		1
+thoughts	1
+brent		1
+trading		1
+begins		1

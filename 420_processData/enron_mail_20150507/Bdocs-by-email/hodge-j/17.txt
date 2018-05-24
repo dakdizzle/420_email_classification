@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+info		1
+collecting	1
+start		1
+spreadsheet	1
+attached	1
+discussed	1
+june		1
+ll		1

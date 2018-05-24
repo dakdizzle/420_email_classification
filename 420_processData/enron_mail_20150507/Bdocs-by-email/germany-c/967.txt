@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+hey		1
+night		1
+germany		1
+bad		1
+last		1
+drinking	1
+went		1
+chris		1
+weren		1
+talked		1

@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+team		2
+care		1
+harvard		1
+season		1
+know		1
+thanksgiving	1
+kate		1
+take		1
+good		1
+great		1
+hope		1
+football	1
+matt		1
+brianlooks	1
+ou		1
+okc		1
+pulled		1
+going		1
+excited		1
+game		1

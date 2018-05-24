@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+kam		2
+cn		2
+keiser		2
+group		1
+pstattached	1
+listing		1
+thankskamx	1
+id		1
+information	1
+recipients	1
+names		1
+file		1
+filename	1
+na		1
+call		1
+kkeiser		1
+login		1
+enron		1
+please		1
+additional	1
+nt		1
+ou		1
+need		1

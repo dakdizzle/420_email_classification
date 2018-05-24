@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+cheque		2
+texas		2
+jon		2
+wisely		1
+beer		1
+send		1
+avenue		1
+spend		1
+now		1
+houston		1
+money		1
+lots		1
+regards		1
+sent		1
+hope		1
+please		1
+received	1
+apt		1
+mckay		1
+c		1

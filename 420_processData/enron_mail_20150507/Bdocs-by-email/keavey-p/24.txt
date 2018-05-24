@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+pictures	1
+vin		1
+tomorrow	1
+original	1
+don		1
+owner		1

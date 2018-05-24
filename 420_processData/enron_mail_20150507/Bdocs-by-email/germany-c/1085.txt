@@ -1,0 +1,26 @@
+NumWords	30
+NumTerms	23
+
+com		3
+chris		2
+immer		2
+enron		2
+germany		2
+ingrid		2
+showing		1
+wuz		1
+bidweek		1
+williams	1
+greenway	1
+sounds		1
+good		1
+thinking	1
+m		1
+pmto		1
+retirement	1
+real		1
+memento		1
+subject		1
+gonna		1
+survive		1
+hi		1

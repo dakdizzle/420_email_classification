@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+swbell		1
+home		1
+email		1
+aazccb		1
+net		1

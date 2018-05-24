@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+demand		2
+charge		2
+pse		2
+agreed		1
+asset		1
+starting	1
+trco		1
+sheet		1
+zeroed		1
+effective	1
+transco		1
+out		1
+capacity	1
+long		1
+sitara		1
+bill		1
+contract	1
+year		1
+mini		1
+deal		1
+took		1
+haul		1

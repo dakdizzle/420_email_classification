@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+chime		1
+simply		1
+bathroom	1
+returned	1
+out		1
+gone		1
+two		1
+m		1
+straw		1
+figured		1
+back		1
+needed		1
+minutes		1
+break		1
+issue		1
+bother		1
+didn		1

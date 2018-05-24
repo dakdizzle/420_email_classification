@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+out		2
+stuff		1
+babysit		1
+each		1
+want		1
+mins		1
+here		1

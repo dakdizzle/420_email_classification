@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+things		1
+yo		1
+going		1

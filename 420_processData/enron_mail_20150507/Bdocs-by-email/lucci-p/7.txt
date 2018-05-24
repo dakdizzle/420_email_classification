@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+night		1
+lost		1
+find		1
+use		1
+drunk		1
+saturday	1
+very		1

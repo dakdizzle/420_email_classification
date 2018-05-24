@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+email		1
+sent		1
+copy		1
+jeff		1
+max		1
+here		1

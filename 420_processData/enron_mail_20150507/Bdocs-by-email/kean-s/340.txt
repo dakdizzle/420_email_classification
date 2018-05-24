@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+pace		1
+mandate		1
+means		1
+think		1
+reform		1

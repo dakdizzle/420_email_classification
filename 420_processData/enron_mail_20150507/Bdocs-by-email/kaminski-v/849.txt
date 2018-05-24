@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+italy		1
+vince		1
+shall		1
+today		1
+month		1
+went		1
+molly		1
+call		1

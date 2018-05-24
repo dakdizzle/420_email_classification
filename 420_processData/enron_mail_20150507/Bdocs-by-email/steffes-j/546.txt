@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sharp		1
+greg		1
+call		1

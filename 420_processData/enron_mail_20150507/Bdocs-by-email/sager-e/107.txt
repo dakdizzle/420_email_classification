@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+enjoyed		1
+send		1
+meeting		1
+complete	1
+join		1
+tues		1
+organized	1
+school		1
+help		1
+getting		1
+thanks		1
+really		1
+back		1
+paperwork	1
+joyella		1
+sager		1
+elizabeth	1
+hi		1
+through		1

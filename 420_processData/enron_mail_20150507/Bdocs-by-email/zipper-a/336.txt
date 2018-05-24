@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+know		2
+andy		1
+hell		1
+tough		1
+time		1
+going		1
+honestly	1
+don		1
+very		1
+thanks		1

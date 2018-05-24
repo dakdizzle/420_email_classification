@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+cn		3
+dc		1
+mark		1
+vicki		1
+day		1
+moving		1
+different	1
+up		1
+end		1
+recipients	1
+na		1
+sharp		1
+enron		1
+best		1
+notesaddr	1
+ou		1
+probably	1

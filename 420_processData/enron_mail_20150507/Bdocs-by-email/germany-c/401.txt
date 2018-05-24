@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+kim		2
+run		2
+reports		2
+group		1
+thing		1
+wukasch		1
+know		1
+now		1
+service		1
+find		1
+charges		1
+out		1
+demand		1
+l		1
+transport	1
+believe		1
+used		1
+olinger		1
+unify		1
+use		1
+called		1
+jeanne		1

@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+time		2
+relations	1
+until		1
+fyi		1
+excess		1
+terms		1
+efforts		1
+looks		1
+thanks		1
+capacity	1
+way		1
+employee	1
+hr		1
+mhc		1
+approval	1
+valeria		1

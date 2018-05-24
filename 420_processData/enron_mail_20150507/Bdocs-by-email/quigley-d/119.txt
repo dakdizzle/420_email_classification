@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+gasindexdutch	1
+enron		1
+unsubscribe	1
+quigley		1
+com		1

@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+dfarmer		2
+cn		2
+user		1
+farmer		1
+recipients	1
+filename	1
+na		1
+olsen		1
+privileged	1
+daren		1
+non		1
+texas		1
+enron		1
+pstmike		1
+ou		1
+critical	1

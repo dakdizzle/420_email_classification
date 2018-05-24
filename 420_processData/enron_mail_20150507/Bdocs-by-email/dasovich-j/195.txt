@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+steffes		1
+reporting	1
+begin		1
+hey		1
+sense		1
+change		1
+reasoning	1
+directors	1
+behing		1
+org		1
+regional	1

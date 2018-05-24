@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+m		1
+floor		1
+right		1
+fourth		1
+know		1
+now		1
+stop		1
+see		1
+don		1

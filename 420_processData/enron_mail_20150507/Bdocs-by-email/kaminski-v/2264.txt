@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+maureen		1
+vince		1
+problem		1

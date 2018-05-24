@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+without		1
+good		1
+explanation	1
+rick		1
+jeff		1
+sign		1
+quickly		1
+deals		1
+want		1
+looks		1
+dashes		1

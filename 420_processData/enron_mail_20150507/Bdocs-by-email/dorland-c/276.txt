@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+send		1
+stats		1

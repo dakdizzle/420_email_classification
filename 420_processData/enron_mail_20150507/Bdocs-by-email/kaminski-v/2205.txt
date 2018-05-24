@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+vkamins		2
+vince		2
+cn		2
+mail		2
+pstpiotr	1
+place		1
+up		1
+location	1
+messages	1
+recipients	1
+pick		1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+ou		1
+fortonight	1
+here		1
+kaminski	1

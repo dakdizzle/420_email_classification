@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+camille		2
+know		1
+well		1
+oh		1
+working		1
+probobly	1
+morning		1
+out		1
+gone		1
+want		1
+knew		1
+missed		1
+thought		1
+dean		1

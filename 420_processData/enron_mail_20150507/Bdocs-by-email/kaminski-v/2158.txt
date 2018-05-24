@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+connect		1
+vince		1
+come		1
+back		1
+steve		1
+week		1
+london		1

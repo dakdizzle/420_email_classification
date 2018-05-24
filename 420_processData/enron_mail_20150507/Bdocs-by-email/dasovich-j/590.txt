@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+discuss		1
+up		1
+came		1
+weren		1
+call		1
+morning		1
+jeff		1
+best		1
+interesting	1
+topics		1
+d		1
+couple		1
+pretty		1

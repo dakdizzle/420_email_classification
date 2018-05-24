@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+direction	1
+wind		1
+under		1
+action		1
+http		1
+fishtexas	1
+www		1
+webcam		1
+directions	1
+camps		1
+call		1
+out		1
+speed		1
+good		1
+linus		1
+texas		1
+check		1
+go		1
+one		1
+city		1
+bait		1
+jmf		1

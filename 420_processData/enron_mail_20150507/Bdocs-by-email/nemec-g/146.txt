@@ -1,0 +1,22 @@
+NumWords	25
+NumTerms	19
+
+enron		3
+eprod		2
+webster		2
+kyle		2
+com		2
+discuss		1
+redlined	1
+attached	1
+reached		1
+review		1
+proposed	1
+ckwebster	1
+ecom		1
+imceanotes	1
+please		1
+language	1
+happy		1
+comments	1
+kwebster	1

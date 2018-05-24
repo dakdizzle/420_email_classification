@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+finally		2
+ran		1
+pictured	1
+seems		1
+met		1
+up		1
+man		1
+ciao		1
+face		1
+ve		1
+put		1
+strange		1
+nice		1
+conjured	1
+store		1
+expected	1
+mace		1
+d		1
+saturday	1
+image		1
+cd		1
+ashley		1

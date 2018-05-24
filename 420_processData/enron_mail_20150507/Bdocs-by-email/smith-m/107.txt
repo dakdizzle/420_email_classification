@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+withdraw	1
+hey		1
+portland	1
+back		1
+fpp		1
+night		1
+going		1
+last		1
+through		1
+ll		1
+thanks		1

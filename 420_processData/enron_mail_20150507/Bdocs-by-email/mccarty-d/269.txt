@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+tickets		3
+bowl		2
+playoffs	1
+allocated	1
+selected	1
+assume		1
+until		1
+won		1
+refers		1
+bcs		1
+julie		1
+dan		1
+playoff		1
+bowls		1
+teams		1
+dallas		1
+means		1
+deb		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+close		1
+match		1
+games		1
+controlled	1
+carlos		1

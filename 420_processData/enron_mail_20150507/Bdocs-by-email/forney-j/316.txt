@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+day		1
+calc		1
+hsc		1
+final		1
+gas		1
+dahlke		1
+purchased	1
+moneyjmf	1
+s		1
+doug		1
+take		1
+prints		1
+mmbtud		1
+each		1
+please		1
+wont		1
+bought		1
+deal		1
+give		1
+profitability	1
+through		1

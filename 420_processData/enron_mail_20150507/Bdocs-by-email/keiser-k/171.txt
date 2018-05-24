@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+list		1
+time		1
+last		1
+take		1

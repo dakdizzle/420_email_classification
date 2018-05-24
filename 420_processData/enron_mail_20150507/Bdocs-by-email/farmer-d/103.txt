@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+month		2
+buyback		2
+allocated	1
+first		1
+days		1
+throughout	1
+effect		1
+deals		1
+shortages	1
+pull		1
+nom		1
+confirmed	1
+kept		1
+whole		1
+equistar	1
+goes		1
+tickets		1
+didn		1

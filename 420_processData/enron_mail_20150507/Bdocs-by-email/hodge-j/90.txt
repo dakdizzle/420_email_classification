@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+mercy		1
+send		1
+per		1
+copy		1
+discussion	1
+jeff		1
+letter		1
+faxed		1
+thanks		1

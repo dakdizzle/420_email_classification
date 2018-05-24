@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+down		1
+go		1
+want		1
+thx		1

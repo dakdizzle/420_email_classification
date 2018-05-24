@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+territory	1
+power		1
+service		1
+light		1
+wisconsin	1

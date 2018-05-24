@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+submitted	2
+expense		1
+again		1
+resend		1
+reports		1
+receipts	1

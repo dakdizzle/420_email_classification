@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+david		1
+rick		1
+sullo		1
+tx		1
+provide		1
+sharon		1

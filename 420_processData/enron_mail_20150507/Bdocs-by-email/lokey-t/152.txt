@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+fun		1
+great		1
+back		1
+now		1
+blackberry	1
+having		1

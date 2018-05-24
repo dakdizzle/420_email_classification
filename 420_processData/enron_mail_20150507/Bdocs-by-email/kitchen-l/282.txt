@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+people		2
+support		1
+cutting		1
+legal		1
+guys		1
+clue		1
+top		1
+bit		1
+numbers		1
+want		1
+more		1
+issue		1
+ringing		1
+telling		1
+ll		1

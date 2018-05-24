@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+sold		2
+spreadsi	1
+nov		1
+apr		1

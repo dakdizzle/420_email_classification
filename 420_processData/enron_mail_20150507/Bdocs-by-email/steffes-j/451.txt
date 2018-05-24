@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+list		1
+project		1
+sarah		1
+replace		1
+reg		1
+need		1
+tom		1

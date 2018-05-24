@@ -1,0 +1,6 @@
+NumWords	5
+NumTerms	3
+
+yes		3
+looking		1
+forward		1

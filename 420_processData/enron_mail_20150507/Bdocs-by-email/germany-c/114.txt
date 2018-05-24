@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+sweet		1
+revere		1
+houston		1
+tx		1
+sure		1
+st		1

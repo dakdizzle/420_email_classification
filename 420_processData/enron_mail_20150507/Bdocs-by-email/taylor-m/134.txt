@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+chris		2
+monday		1
+soon		1
+long		1
+forwarded	1
+send		1
+message		1
+know		1
+back		1
+ken		1
+left		1
+signs		1

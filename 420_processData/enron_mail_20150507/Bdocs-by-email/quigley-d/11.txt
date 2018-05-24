@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+theredq		1
+sexual		1
+babythnx	1
+yours		1
+count		1
+preference	1
+though		1
+see		1
+head		1

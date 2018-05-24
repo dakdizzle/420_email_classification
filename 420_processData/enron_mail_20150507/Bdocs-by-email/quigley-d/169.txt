@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+send		1
+weeksif		1
+check		1
+leavefor	1
+itdq		1
+know		1
+em		1
+rate		1
+before		1
+material	1
+cut		1
+next		1

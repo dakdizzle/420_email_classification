@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+know		2
+lynn		1
+meeting		1
+ok		1
+tim		1
+far		1
+thanks		1
+ava		1
+staff		1
+minutes		1
+having		1
+shelley		1
+otherwise	1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+theresa		1
+interconnect	1
+cleared		1
+finish		1
+need		1
+issue		1

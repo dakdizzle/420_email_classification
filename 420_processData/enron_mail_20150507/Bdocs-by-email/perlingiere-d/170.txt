@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+cn		2
+begin		1
+credit		1
+stacy		1
+wallumrod	1
+recipients	1
+na		1
+thanks		1
+confirm		1
+finsh		1
+ewallumr	1
+ellen		1
+enron		1
+language	1
+please		1
+ou		1

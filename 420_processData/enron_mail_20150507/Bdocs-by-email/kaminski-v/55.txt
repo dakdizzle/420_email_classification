@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+jim		1
+hawkinsvince	1
+kaminski	1

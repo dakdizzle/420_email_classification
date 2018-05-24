@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+williams	2
+login		2
+enron		2
+www		1
+filename	1
+folder		1
+password	1
+exmerge		1
+sent		1
+version		1
+friedwire	1
+bill		1
+iii		1
+origin		1
+itemsx		1
+mime		1
+new		1
+com		1

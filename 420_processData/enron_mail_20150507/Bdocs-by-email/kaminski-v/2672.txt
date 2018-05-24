@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+vince		1
+dinner		1
+look		1
+candice		1
+friday		1
+forward		1
+lot		1
+thanks		1

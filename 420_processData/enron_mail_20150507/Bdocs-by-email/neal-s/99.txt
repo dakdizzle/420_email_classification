@@ -1,0 +1,18 @@
+NumWords	20
+NumTerms	15
+
+neal		3
+scott		2
+ect		2
+hou		2
+airam		1
+pm		1
+fw		1
+arteaga		1
+forwarded	1
+pmto		1
+enron		1
+ectcc		1
+subject		1
+itin		1
+enronxgate	1

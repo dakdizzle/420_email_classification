@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+cn		2
+taking		1
+weighted	1
+prices		1
+avista		1
+rounded		1
+difference	1
+steve		1
+spreadsheet	1
+recipients	1
+na		1
+wire		1
+sthome		1
+aep		1
+l		1
+enron		1
+purchase	1
+stephen		1
+ou		1
+correct		1
+amount		1
+request		1
+average		1
+thome		1

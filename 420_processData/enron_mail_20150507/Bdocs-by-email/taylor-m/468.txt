@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+space		1
+thing		1
+office		1
+consider	1
+one		1
+service		1
+more		1
+need		1
+add		1

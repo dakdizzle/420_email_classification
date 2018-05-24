@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+budget		2
+lloyd		2
+problems	1
+email		1
+close		1
+reduction	1
+up		1
+thankslouise	1
+know		1
+today		1
+managed		1
+earlier		1
+see		1
+getting		1
+picking		1
+concerns	1
+reduced		1
+sign		1
+fairly		1
+development	1
+mm		1

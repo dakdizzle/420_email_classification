@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+put		1
+great		1
+calendar	1
+ll		1

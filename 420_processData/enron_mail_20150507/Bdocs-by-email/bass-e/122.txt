@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+points		1
+record		1
+goes		1

@@ -1,0 +1,23 @@
+NumWords	45
+NumTerms	20
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+jerrigo		1
+jkinser		1
+padron		1
+john		1
+errigo		1
+laurent		1
+jpadron		1
+garcia		1
+juan		1
+miguel		1
+mlauren		1
+mgarcia		1
+joe		1
+kinser		1
+dean		1

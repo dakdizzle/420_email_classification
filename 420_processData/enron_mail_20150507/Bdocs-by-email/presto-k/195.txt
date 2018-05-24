@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+over		2
+wansley		1
+location	1
+mw		1
+coal		1
+ld		1
+gas		1
+plants		1
+turbines	1
+offer		1

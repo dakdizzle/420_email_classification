@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+heartburn	1
+court		1
+supreme		1
+attorneys	1
+mm		1

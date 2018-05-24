@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+boat		1
+length		1
+d		1
+cover		1

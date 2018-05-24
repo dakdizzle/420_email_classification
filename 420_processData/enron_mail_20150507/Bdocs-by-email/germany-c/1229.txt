@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+deal		2
+send		1
+contract	1
+effective	1
+thanks		1
+confirm		1

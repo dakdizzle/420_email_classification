@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+look		1
+stand		1
+aluminum	1
+northwest	1
+cos		1
+consultant	1
+currently	1
+here		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+leagueinfo	1
+http		1
+clubmonkey	1
+houston		1
+www		1
+wiffle		1
+htm		1
+com		1

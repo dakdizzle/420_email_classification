@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+vince		1
+shallsee	1
+brian		1
+message		1
+shall		1
+tomorrow	1
+contact		1
+gina		1
+thanks		1

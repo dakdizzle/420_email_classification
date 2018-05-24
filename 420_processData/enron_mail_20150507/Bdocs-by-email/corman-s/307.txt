@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+slightest	1
+thank		1
+leadership	1
+qualm		1
+frankly		1
+anything	1
+way		1
+faced		1
+team		1
+handle		1
+comes		1
+directors	1
+kind		1
+year		1
+challenges	1
+don		1
+note		1

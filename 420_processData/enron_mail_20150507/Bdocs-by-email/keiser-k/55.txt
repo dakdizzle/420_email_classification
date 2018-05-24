@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+notice		1
+info		1
+further		1
+time		1
+until		1
+supposed	1
+now		1
+intended	1
+attachment	1
+enron		1
+project		1
+ubs		1
+isn		1
+don		1
+paused		1
+waste		1
+here		1

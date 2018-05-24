@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+jim		2
+good		1
+best		1
+update		1
+safe		1
+trip		1
+thanks		1

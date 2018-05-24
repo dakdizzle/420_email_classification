@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+mention		1
+gone		1
+ok		1
+believe		1
+stacey		1
+now		1

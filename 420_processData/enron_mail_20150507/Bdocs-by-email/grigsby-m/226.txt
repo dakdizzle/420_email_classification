@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+please		2
+problems	1
+directly	1
+hesitate	1
+detail		1
+assist		1
+west		1
+daily		1
+contact		1
+sullivan	1
+christiansen	1
+call		1
+deliveries	1
+basis		1
+kept		1
+require		1
+whole		1
+happy		1
+mike		1
+suzanne		1
+grigsby		1
+sincerely	1
+informed	1
+patti		1

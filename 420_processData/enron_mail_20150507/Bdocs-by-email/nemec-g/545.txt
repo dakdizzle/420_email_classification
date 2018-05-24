@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+pm		1
+know		1
+central		1
+dave		1
+tommorrow	1

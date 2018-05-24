@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+nice		1
+hear		1
+sempra		1
+diego		1
+calls		1
+dave		1
+jen		1
+san		1

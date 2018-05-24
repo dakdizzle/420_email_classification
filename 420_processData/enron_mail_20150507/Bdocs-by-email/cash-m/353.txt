@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+monday		1
+forgot		1
+believe		1
+friday		1
+michelle	1
+cake		1
+missed		1
+d		1
+diane		1
+twanda		1
+afternoon	1
+birthday	1

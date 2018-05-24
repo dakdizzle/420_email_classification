@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+manage		1
+really		1
+something	1
+theta		1
+dia		1
+thinking	1
+know		1
+see		1
+scares		1

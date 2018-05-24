@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+physical	1
+mentioned	1
+stacey		1
+tanya		1
+legal		1
+wanted		1
+out		1
+point		1
+kim		1
+update		1
+numbers		1
+financial	1
+still		1
+delivery	1
+here		1
+broken		1

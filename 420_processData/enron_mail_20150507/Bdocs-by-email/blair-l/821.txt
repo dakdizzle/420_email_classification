@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lynn		1
+make		1
+dari		1
+rick		1
+letter		1
+thanks		1

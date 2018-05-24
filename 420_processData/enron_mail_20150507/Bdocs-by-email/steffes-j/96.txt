@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+incorporate	1
+pls		1
+presentation	1
+appropriate	1

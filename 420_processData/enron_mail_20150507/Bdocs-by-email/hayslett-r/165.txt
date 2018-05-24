@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+value		1
+fair		1
+gaap		1
+comparing	1
+form		1
+figure		1
+financials	1

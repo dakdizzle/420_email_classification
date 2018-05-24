@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+saw		1
+going		1
+denne		1
+karen		1
+sue		1
+agrees		1
+call		1
+presentation	1
+talked		1

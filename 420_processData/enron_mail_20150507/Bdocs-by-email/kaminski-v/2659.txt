@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+vince		2
+cn		2
+budget		1
+aol		1
+recipients	1
+na		1
+vkamins		1
+enron		1
+vkaminski	1
+ou		1
+diane		1
+kaminski	1
+com		1

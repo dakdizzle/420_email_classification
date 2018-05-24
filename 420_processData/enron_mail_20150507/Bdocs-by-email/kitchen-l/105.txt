@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+counterparty	1
+yes		1
+jay		1
+names		1

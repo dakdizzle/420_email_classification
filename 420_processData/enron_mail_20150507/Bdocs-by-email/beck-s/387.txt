@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+posted		1
+sally		1
+keeping		1
+thanks		1

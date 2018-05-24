@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+need		2
+call		2
+asap		1
+conf		1
+crescendo	1
+today		1
+loop		1
+attys		1
+outside		1
+jesus		1
+melendrez	1

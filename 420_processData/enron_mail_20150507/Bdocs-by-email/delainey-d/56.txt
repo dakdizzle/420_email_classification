@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+cn		2
+sharp		1
+vicki		1
+enron		1
+thank		1
+recipients	1
+ou		1
+vsharp		1
+na		1

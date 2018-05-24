@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+respond		1
+chance		1

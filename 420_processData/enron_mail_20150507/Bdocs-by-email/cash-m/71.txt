@@ -1,0 +1,11 @@
+NumWords	11
+NumTerms	8
+
+amount		3
+weeks		2
+increments	1
+years		1
+salary		1
+service		1
+top		1
+premium		1

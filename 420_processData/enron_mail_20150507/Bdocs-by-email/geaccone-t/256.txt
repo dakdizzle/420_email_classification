@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+makes		1
+happy		1
+very		1

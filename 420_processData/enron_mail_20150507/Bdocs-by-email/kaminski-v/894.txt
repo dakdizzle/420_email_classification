@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+presentation	2
+enron		2
+quarter		1
+mark		1
+wharton		1
+risk		1
+borrow		1
+professors	1
+january		1
+schools		1
+management	1
+vince		1
+fromwhich	1
+fee		1
+going		1
+business	1
+slides		1
+st		1
+give		1
+summary		1

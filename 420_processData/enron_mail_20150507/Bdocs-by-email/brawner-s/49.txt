@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+life		2
+full		1
+now		1
+refreshing	1
+postive		1
+call		1
+wish		1
+miss		1
+thinking	1
+whinning	1
+more		1
+looked		1
+away		1
+half		1
+stopped		1
+glass		1
+thoughts	1

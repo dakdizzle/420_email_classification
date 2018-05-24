@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+care		1
+put		1
+being		1
+daytimer	1
+taken		1

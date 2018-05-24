@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ve		1
+thank		1
+happy		1
+won		1
+although	1
+sure		1
+contest		1
+paymentcraig	1
+amount		1
+receive		1

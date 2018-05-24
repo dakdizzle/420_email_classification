@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+job		1
+paul		1
+hard		1
+require		1
+difficult	1
+work		1
+ton		1

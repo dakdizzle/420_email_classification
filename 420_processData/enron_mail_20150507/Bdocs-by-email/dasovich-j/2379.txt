@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+reimbursed	2
+make		1
+plan		1
+send		1
+expectations	1
+december	1
+ginger		1
+low		1
+likelihood	1
+late		1
+extremely	1
+getting		1
+soon		1
+attempt		1
+hope		1
+tuition		1
+grades		1
+jeff		1
+best		1
+sense		1
+mid		1
+don		1
+worry		1
+ll		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+m		1
+jeff		1
+best		1
+chance		1
+give		1
+call		1

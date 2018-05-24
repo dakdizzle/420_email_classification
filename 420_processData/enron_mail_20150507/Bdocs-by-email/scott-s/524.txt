@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+back		3
+m		2
+ll		2
+hey		1
+time		1
+stick		1
+few		1
+well		1
+things		1
+glad		1
+now		1
+running		1
+loo		1
+around		1
+office		1
+minutes		1
+going		1
+went		1
+still		1
+here		1

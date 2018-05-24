@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+represent	1
+jvd		1
+rw		1
+derrick		1
+london		1
+qc		1

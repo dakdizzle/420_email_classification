@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+ricardo		1
+joanne		1
+using		1

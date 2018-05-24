@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+thanks		2
+freeland	2
+cara		2
+group		1
+changed		1
+stuff		1
+support		1
+consider	1
+wishes		1
+now		1
+system		1
+help		1
+yesterday	1
+friends		1
+done		1
+asap		1
+real		1
+signed		1
+want		1
+kind		1
+very		1
+small		1
+over		1

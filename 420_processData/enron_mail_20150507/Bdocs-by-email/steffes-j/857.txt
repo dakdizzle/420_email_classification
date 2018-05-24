@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+linda		2
+cn		2
+wisely		1
+copy		1
+report		1
+recipients	1
+spending	1
+na		1
+thanks		1
+jim		1
+hubs		1
+noske		1
+lnoske		1
+enron		1
+please		1
+want		1
+ou		1
+below		1
+don		1
+private		1
+costs		1

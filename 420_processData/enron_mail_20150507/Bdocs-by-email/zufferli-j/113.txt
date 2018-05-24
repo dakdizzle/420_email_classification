@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+going		2
+stay		1
+anyway		1
+seems		1
+ok		1
+go		1
+jessica		1
+fly		1
+think		1
+thurs		1

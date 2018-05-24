@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+paso		1
+pawpawjmf	1
+que		1

@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+nasdaq		2
+money		2
+rally		1
+dow		1
+rolls		1
+interesting	1
+last		1
+looks		1
+rolling		1

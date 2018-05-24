@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+time		1
+wouldn		1
+working		1
+friday		1
+name		1
+anything	1
+office		1
+handle		1
+want		1
+told		1
+called		1
+bother		1
+kay		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+discuss		1
+meeting		1
+information	1
+claim		1
+attached	1
+additional	1
+sce		1
+ctc		1
+negative	1
+call		1
+summary		1

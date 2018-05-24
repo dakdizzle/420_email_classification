@@ -1,0 +1,15 @@
+NumWords	19
+NumTerms	12
+
+contracts	3
+july		3
+nymex		3
+buy		2
+anything	1
+open		1
+different	1
+position	1
+please		1
+know		1
+show		1
+sell		1

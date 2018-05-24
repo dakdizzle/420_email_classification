@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+best		1
+memo		1
+thank		1
+ask		1
+draft		1
+suggestion	1
+e		1
+dave		1

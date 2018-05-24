@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+cn		2
+rick		2
+rbuy		2
+pm		1
+wed		1
+recipients	1
+karen		1
+meet		1
+filename	1
+na		1
+schedule	1
+call		1
+privileged	1
+psti		1
+non		1
+enron		1
+buy		1
+ou		1
+tx		1

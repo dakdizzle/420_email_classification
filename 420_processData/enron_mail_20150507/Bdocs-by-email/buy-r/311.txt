@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+way		1
+check		1
+rick		1
+think		1
+properly	1

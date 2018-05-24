@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+cn		2
+shirley		2
+distribute	1
+crenshaw	1
+recipients	1
+na		1
+scrensh		1
+vince		1
+enron		1
+please		1
+direct		1
+ou		1
+reports		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+order		1
+cons		1
+discuss		1
+soon		1
+bill		1
+available	1
+today		1
+ready		1
+alan		1
+meet		1
+pros		1
+thanks		1

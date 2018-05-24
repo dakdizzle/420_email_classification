@@ -1,0 +1,12 @@
+NumWords	12
+NumTerms	9
+
+igservice	2
+mbaldwin	2
+com		2
+email		1
+message		1
+mailto		1
+another		1
+left		1
+number		1

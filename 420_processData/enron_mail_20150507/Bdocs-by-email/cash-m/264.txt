@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+mark		1
+lawyer		1
+looking		1
+handling	1
+ask		1
+appreciate	1
+thanks		1
+call		1
+ava		1
+asap		1
+please		1
+turnaround	1
+ip		1
+michelle	1
+work		1
+forward		1
+d		1
+quick		1

@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+cn		2
+christi		2
+jim		1
+ferc		1
+nicolay		1
+cnicola		1
+enron		1
+come		1
+recipients	1
+ou		1
+na		1

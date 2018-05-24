@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+group		1
+mitch		1
+investments	1
+missing		1
+robinson	1
+think		1
+generation	1

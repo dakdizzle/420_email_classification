@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+approach	2
+situation	1
+talk		1
+nowhere		1
+workable	1
+delainey	1
+help		1
+finesse		1
+agree		1
+guy		1
+rogers		1
+go		1
+need		1
+hang		1

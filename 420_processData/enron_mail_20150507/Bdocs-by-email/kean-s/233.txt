@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+energy		1
+situation	1
+buddy		1
+scott		1
+rep		1
+broader		1
+briefed		1
+speak		1
+california	1
+ken		1
+see		1
+forget		1
+out		1
+go		1
+newt		1
+need		1
+told		1
+mcginnis	1
+issue		1
+don		1
+colo		1

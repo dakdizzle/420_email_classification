@@ -1,0 +1,21 @@
+NumWords	24
+NumTerms	18
+
+com		4
+fenner		2
+chet		2
+knipe		2
+bored		1
+brian		1
+wollam		1
+bmc		1
+brianc		1
+erwollam	1
+come		1
+constantine	1
+msn		1
+work		1
+chad		1
+saltgrass	1
+hotmail		1
+erik		1

@@ -1,0 +1,10 @@
+NumWords	18
+NumTerms	7
+
+pge		4
+mc		3
+dj		3
+rtn		2
+sys		2
+nov		2
+loss		2

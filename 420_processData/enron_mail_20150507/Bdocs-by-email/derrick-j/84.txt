@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+friday		1
+unfortunately	1
+thank		1
+night		1
+houston		1
+invitation	1
+derrick		1
+attend		1
+thus		1

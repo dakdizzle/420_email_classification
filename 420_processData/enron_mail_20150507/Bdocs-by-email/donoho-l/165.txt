@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+yipee		1
+collected	1
+far		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+normally	1
+way		1
+sleeves		1
+although	1
+billed		1
+efs		1
+appropriate	1
+love		1

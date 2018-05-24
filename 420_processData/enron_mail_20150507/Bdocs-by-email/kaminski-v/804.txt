@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+vince		1
+great		1
+frontline	1
+mike		1
+asked		1
+late		1
+appearance	1
+tonight		1
+pq		1
+call		1

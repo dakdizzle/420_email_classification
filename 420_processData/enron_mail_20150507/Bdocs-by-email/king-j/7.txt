@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+cal		1
+natty		1
+bid		1
+power		1
+closed		1
+gas		1
+unchanged	1
+nov		1
+deal		1

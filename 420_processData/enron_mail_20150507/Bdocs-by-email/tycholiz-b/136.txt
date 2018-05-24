@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+structure	1
+time		1
+please		1
+roll		1
+nothing		1
+origination	1
+jm		1
+bt		1
+huber		1
+add		1

@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+sanders		3
+richard		3
+com		2
+brobeck		1
+retention	1
+pm		1
+ect		1
+fw		1
+gary		1
+hou		1
+forwarded	1
+gfergus		1
+enron		1
+fyithanksgary	1
+document	1
+subject		1
+reminder	1
+mail		1
+esq		1
+fergus		1

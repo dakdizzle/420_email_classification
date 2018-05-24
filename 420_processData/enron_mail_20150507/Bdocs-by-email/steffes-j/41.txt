@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+send		1
+being		1
+ray		1
+final		1
+tomorrow	1
+today		1
+filing		1
+ll		1
+finalized	1

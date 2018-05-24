@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+nerc		2
+board		1
+together	1
+signing		1
+make		1
+seems		1
+grab		1
+elcon		1
+land		1
+letter		1
+epsa		1
+jim		1
+chairman	1
+tell		1
+reasonable	1

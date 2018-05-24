@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+erv		2
+taking		1
+email		1
+publishing	1
+pl		1
+shout		1
+track		1
+publish		1
+desk		1
+kam		1
+books		1
+east		1
+suggested	1
+thanks		1
+regarding	1
+concerns	1
+please		1
+questions	1
+keiser		1
+need		1
+access		1
+trading		1
+over		1

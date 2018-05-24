@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+party		1
+coming		1
+weekend		1
+wife		1
+birthday	1

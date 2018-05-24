@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+approach	1
+sense		1
+update		1
+makes		1
+thanks		1

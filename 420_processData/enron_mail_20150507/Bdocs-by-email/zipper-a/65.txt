@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+thank		2
+enron		2
+president	1
+value		1
+potential	1
+techspan	1
+enter		1
+evaluating	1
+arvind		1
+zippervice	1
+dialogue	1
+contact		1
+ready		1
+interest	1
+once		1
+andy		1
+bring		1
+again		1
+note		1

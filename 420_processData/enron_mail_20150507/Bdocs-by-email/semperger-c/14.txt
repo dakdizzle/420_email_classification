@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+layoffs		1
+enron		1
+more		1
+going		1
+conference	1
+call		1

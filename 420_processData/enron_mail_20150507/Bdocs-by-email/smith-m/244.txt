@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+ina		1
+kobra		1
+work		1
+logged		1
+still		1
+mat		1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+ees		2
+meeting		1
+ie		1
+prices		1
+hate		1
+tariff		1
+attending	1
+see		1
+people		1
+expense		1
+side		1
+based		1
+ledger		1
+ews		1

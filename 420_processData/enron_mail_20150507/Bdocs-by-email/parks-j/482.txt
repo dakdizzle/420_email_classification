@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+done		1
+lastnight	1
+pork		1
+took		1

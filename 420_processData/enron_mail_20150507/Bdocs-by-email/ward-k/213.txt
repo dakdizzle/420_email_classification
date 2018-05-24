@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+info		1
+ve		1
+hesco		1
+right		1
+travis		1
+want		1
+now		1
+phone		1
+conference	1

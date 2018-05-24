@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+m		2
+office		2
+between		1
+together	1
+barely		1
+elevator	1
+sinus		1
+planning	1
+better		1
+out		1
+less		1
+riding		1
+back		1
+tomorrow	1
+though		1
+infection	1
+sometime	1
+hi		1
+here		1

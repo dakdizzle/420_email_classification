@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+offsystemgtc	1
+place		1
+mtpower		1
+http		1
+gas		1
+tarriff		1
+rates		1
+www		1
+find		1
+pdf		1
+com		1

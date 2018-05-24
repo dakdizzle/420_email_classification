@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+info		1
+service		1
+unsubscribe	1
+tx		1
+businesswire	1
+industrial	1
+res		1
+com		1

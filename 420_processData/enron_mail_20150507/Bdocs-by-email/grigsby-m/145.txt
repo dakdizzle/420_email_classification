@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+demo		1
+know		1
+thank		1
+ready		1
+mike		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+specifics	1
+stacey		1
+know		1
+portland	1
+communicated	1
+find		1
+whenever	1
+talked		1
+thanks		1
+out		1
+samantha	1
+message		1
+please		1
+update		1
+estate		1
+finally		1
+more		1
+told		1

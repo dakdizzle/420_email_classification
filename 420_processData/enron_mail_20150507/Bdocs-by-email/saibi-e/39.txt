@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+pm		1
+m		1
+looking		1
+eric		1
+forward		1
+arrive		1
+scheduled	1
+nov		1
+flight		1
+hi		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+balanced	2
+ds		1
+stay		1
+agree		1
+nng		1
+need		1
+th		1
+tw		1
+gary		1

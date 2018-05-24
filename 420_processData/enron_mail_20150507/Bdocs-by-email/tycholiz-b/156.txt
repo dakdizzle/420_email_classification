@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+copy		1
+pls		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+time		1
+houston		1

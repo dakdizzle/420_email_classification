@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+courtney	1
+thank		1
+ou		1
+going		1
+tx		1
+game		1
+offer		1

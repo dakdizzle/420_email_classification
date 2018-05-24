@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+schoolcraft	2
+privileged	2
+non		2
+dschool		2
+text		1
+darrell		1
+plain		1
+dx		1
+filename	1
+folder		1
+ds		1
+asciix		1
+content		1
+sent		1
+psti		1
+type		1
+origin		1
+itemsx		1
+charset		1

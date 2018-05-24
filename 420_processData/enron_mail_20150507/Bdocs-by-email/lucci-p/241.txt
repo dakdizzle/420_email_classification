@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+directly	1
+want		1
+contact		1
+involved	1
+always		1

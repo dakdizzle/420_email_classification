@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+something	1
+need		1
+called		1
+dave		1
+kevin		1

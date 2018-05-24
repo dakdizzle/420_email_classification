@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+boy		1
+findsen		1
+marc		1
+chance		1

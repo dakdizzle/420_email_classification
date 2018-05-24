@@ -1,0 +1,26 @@
+NumWords	31
+NumTerms	23
+
+epe		3
+little		2
+schedules	2
+tuesday		2
+fw		2
+plus		2
+doing		2
+breakfast	1
+model		1
+days		1
+gap		1
+machine		1
+ads		1
+morning		1
+two		1
+trader		1
+buffalo		1
+nothing		1
+assistant	1
+past		1
+production	1
+saturday	1
+laid		1

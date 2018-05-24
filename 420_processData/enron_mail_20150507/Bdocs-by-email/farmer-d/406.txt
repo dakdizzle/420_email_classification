@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+tanya		1
+report		1
+smith		1
+doing		1
+brandee		1

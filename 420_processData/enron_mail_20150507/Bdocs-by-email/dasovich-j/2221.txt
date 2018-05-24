@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+crazy		2
+cn		2
+kdenne		1
+hey		1
+ok		1
+days		1
+well		1
+recipients	1
+karen		1
+denne		1
+na		1
+hope		1
+non		1
+list		1
+darlin		1
+enron		1
+ou		1
+isn		1

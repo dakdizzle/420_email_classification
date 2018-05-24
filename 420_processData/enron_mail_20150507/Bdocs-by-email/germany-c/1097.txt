@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+chris		2
+interstate	1
+terminating	1
+start		1
+germany		1
+pipelines	1
+filename	1
+shipper		1
+pstshould	1
+germanyx	1
+ces		1

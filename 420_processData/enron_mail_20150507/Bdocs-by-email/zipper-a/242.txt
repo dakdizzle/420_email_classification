@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+andy		1
+seen		1
+account		1
+ina		1
+sign		1
+supposed	1
+deposited	1
+haven		1

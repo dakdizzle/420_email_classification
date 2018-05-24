@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+tjones		2
+cn		2
+forms		1
+jones		1
+pstall		1
+now		1
+attorney	1
+recipients	1
+tana		1
+form		1
+filename	1
+na		1
+bank		1
+privileged	1
+non		1
+enron		1
+back		1
+ou		1
+swap		1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+cn		2
+rebecca		1
+recipients	1
+na		1
+list		1
+distribution	1
+enron		1
+please		1
+cantrell	1
+ou		1
+mike		1
+bcantre		1
+grigsby		1
+add		1

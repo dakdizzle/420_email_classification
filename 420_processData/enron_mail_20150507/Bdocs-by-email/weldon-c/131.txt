@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+mark		1
+asked		1
+fw		1

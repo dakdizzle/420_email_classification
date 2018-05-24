@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+aol		1
+greg		1
+vkaminski	1
+personal	1
+comvince	1
+mail		1
+address		1

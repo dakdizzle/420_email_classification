@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+something	1
+writing		1
+janet		1
+need		1
+still		1

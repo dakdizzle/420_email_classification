@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+vince		1
+membership	1
+please		1
+wincenty	1
+kaminski	1
+cancel		1

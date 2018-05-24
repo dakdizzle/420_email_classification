@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+map		1
+smud		1
+stree		1
+location	1
+printout	1
+sacremento	1
+bt		1

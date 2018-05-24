@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+presto		2
+kevin		2
+cn		2
+outlook		1
+pira		1
+kpresto		1
+gas		1
+price		1
+recipients	1
+balance		1
+material	1
+releasing	1
+filename	1
+na		1
+looks		1
+privileged	1
+soon		1
+pstfyi		1
+non		1
+enron		1
+ou		1
+bearish		1

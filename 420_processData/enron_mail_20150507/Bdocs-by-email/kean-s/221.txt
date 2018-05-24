@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+non		1
+skean		1
+attached	1
+steven		1
+filename	1
+see		1
+keanx		1
+pstplease	1
+privileged	1

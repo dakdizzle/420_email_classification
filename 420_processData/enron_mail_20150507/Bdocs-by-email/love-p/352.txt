@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+way		1
+pl		1
+check		1
+var		1
+souad		1
+high		1
+still		1
+looks		1
+thanks		1

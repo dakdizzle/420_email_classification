@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+click		1
+icon		1
+ck		1

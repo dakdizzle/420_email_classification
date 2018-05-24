@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+eci		2
+account		1
+eb		1
+guaranty	1
+ene		1
+fax		1
+up		1
+bear		1
+ph		1
+marie		1
+street		1
+find		1
+wholesale	1
+file		1
+offer		1
+services	1
+shackletonenron	1
+sara		1
+ahouston	1
+tx		1
+smith		1

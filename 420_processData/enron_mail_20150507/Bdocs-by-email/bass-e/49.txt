@@ -1,0 +1,23 @@
+NumWords	27
+NumTerms	20
+
+room		3
+night		3
+breakfast	2
+premium		2
+want		2
+day		1
+difference	1
+breakfasts	1
+same		1
+stays		1
+each		1
+alright		1
+pkg		1
+jets		1
+clarification	1
+mail		1
+last		1
+deal		1
+rooms		1
+tub		1

@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+shell		2
+ca		1
+send		1
+attached	1
+review		1
+redline		1
+chris		1
+down		1
+please		1
+come		1
+changes		1
+forward		1
+executables	1
+agreement	1
+richard		1

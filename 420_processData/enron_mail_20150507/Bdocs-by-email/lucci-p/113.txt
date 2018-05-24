@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+day		1
+hey		1
+up		1
+new		1

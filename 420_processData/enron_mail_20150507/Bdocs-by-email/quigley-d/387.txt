@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+info		2
+project		2
+needed		2
+group		1
+meeting		1
+know		1
+slow		1
+dutch		1
+laura		1
+getting		1
+done		1
+monica		1
+themasap	1
+theaccenture	1
+work		1
+kirk		1
+turned		1
+week		1

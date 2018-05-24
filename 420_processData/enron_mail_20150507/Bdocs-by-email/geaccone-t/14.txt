@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+miss		1
+morning		1
+little		1
+nice		1
+really		1
+good		1
+being		1
+feeling		1
+thank		1
+shakey		1
+knowing		1
+love		1

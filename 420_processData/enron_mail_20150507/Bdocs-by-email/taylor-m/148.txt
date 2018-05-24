@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+kim		1
+mark		1
+m		1
+familiar	1
+touch		1
+topic		1
+humbarger	1
+sure		1
+ll		1
+thanks		1

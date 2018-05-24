@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+lkitchen	2
+cn		2
+kitchen		1
+days		1
+attached	1
+reported	1
+pulling		1
+pstjay		1
+louise		1
+far		1
+recipients	1
+filename	1
+na		1
+privileged	1
+good		1
+non		1
+enron		1
+ou		1
+need		1
+last		1
+couple		1
+reports		1
+over		1

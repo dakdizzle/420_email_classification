@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+hey		2
+yes		2
+vega		1
+wedding		1
+keep		1
+sunday		1
+m		1
+understand	1
+invited		1
+want		1
+idea		1
+going		1
+sure		1
+still		1
+doesn		1
+small		1

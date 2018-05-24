@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+stuff		1
+hey		1
+well		1
+houston		1
+wk		1
+bobby		1
+good		1
+hope		1
+dbaughman	1
+goes		1
+don		1
+comcell		1
+rr		1
+here		1

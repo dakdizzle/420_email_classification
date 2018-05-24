@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+build		2
+product		2
+live		1
+m		1
+time		1
+know		1
+go		1
+ready		1
+before		1
+test		1
+internally	1
+thanks		1

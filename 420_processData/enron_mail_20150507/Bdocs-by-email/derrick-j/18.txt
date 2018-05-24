@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+knowledge	1
+discuss		1
+mark		1
+matter		1
+y		1
+made		1
+peter		1
+going		1
+decision	1

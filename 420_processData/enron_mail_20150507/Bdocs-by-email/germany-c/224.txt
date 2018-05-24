@@ -1,0 +1,20 @@
+NumWords	21
+NumTerms	17
+
+pam		2
+mccullers	2
+number		2
+roger		2
+tallahassee	1
+speak		1
+jared		1
+contact		1
+phone		1
+left		1
+kaiser		1
+mcdonald	1
+title		1
+ubs		1
+asking		1
+voicemail	1
+give		1

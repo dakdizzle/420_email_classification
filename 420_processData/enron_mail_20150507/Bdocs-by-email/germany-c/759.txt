@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+fax		2
+number		2
+changed		1
+contract	1
+current		1
+thanks		1

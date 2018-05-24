@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+mwhitt		2
+cn		2
+mark		1
+credit		1
+fax		1
+letter		1
+houston		1
+recipients	1
+filename	1
+na		1
+pstplease	1
+privileged	1
+room		1
+non		1
+enron		1
+war		1
+ou		1
+whitt		1

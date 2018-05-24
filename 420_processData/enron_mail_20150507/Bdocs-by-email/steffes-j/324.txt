@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+testifying	1
+austin		1
+sorry		1
+ll		1

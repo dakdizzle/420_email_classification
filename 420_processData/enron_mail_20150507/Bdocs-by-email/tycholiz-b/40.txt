@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+first		1
+time		1
+sorry		1
+bt		1
+receive		1
+note		1
+think		1

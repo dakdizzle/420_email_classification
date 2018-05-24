@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+mark		1
+vote		1
+thank		1
+working		1
+sending		1
+advise		1
+attorney	1
+appreciate	1
+related		1
+requested	1
+jim		1
+message		1
+forwarding	1
+several		1
+more		1
+asking		1

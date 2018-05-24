@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+kirk		2
+heard		1
+know		1
+wanted		1
+see		1
+thanks		1
+anything	1
+kim		1
+bp		1
+ketchekl	1
+check		1
+please		1
+igi		1
+resources	1
+ketcherside	1
+approval	1
+going		1
+commissioners	1
+process		1
+hi		1
+acc		1
+com		1

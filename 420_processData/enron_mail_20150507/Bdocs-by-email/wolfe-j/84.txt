@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+up		2
+houston		2
+xmas		1
+willend		1
+knows		1
+merger		1
+fri		1
+leaving		1
+know		1
+beth		1
+jason		1
+sweetpea	1
+th		1
+thurs		1
+driving		1
+head		1
+backfor		1
+completed	1
+before		1
+need		1
+months		1
+trading		1
+next		1
+over		1

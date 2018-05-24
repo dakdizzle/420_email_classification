@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+m		1
+enough		1
+bother		1
+sure		1
+candidates	1

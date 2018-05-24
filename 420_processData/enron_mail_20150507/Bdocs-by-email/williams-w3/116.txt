@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+knowledge	1
+useful		1
+truly		1
+fount		1

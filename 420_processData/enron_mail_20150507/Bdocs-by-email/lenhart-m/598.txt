@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+lying		1
+hurt		1
+erin		1
+deceit		1
+lies		1
+lie		1
+know		1
+honest		1
+now		1
+poodle		1
+yesterday	1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+stated		1
+depose		1
+wfec		1
+well		1
+attached	1
+provided	1
+draft		1
+ecs		1
+requested	1
+counsel		1

@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+email		2
+below		2
+inbox		1
+reply		1
+producer	1
+gas		1
+cgas		1
+find		1
+once		1
+balance		1
+out		1
+producers	1
+without		1
+maintaining	1
+talking		1
+use		1

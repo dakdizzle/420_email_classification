@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+look		1
+list		1
+things		1
+canadian	1
+one		1
+identify	1
+lawyers		1
+sharon		1

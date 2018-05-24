@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+figured		1
+questions	1
+jan		1
+th		1
+deal		1
+thankskim	1
+call		1
+here		1

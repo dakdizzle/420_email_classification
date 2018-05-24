@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+arrage		1
+key		1
+lavo		1
+list		1
+yourself	1
+need		1
+top		1
+trade		1
+don		1
+companies	1
+neeed		1

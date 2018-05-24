@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+know		1
+land		1
+well		1
+worries		1
+tea		1
+enron		1
+affect		1
+everyone	1
+going		1
+including	1
+fate		1
+doing		1
+feet		1
+think		1
+love		1
+ll		1

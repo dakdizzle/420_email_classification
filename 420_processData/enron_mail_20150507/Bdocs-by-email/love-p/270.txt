@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+those		1
+pl		1
+mighty		1
+games		1
+definitely	1
+down		1
+bolts		1
+weekend		1
+scare		1
+year		1
+broncos		1
+bout		1
+took		1

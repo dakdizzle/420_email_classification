@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+gmtsubject	1
+enron		1
+lcanno		1
+follows		1
+recipients	1
+ou		1
+attachment	1
+inline		1
+tuesday		1
+na		1
+date		1

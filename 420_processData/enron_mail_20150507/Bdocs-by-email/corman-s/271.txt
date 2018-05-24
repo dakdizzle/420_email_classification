@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+honoring	2
+make		1
+saying		1
+cutting		1
+fyi		1
+bob		1
+transco		1
+transportation	1
+supply		1
+nominations	1
+contracts	1
+sense		1
+statements	1
+understand	1
+eol		1
+don		1
+doesn		1

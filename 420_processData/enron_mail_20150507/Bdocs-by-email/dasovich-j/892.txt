@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jeff		1
+best		1
+participating	1
+thanks		1
+ll		1

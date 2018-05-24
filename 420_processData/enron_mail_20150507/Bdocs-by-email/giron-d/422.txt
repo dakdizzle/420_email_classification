@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ap		1
+anymore		1
+poll		1
+dg		1
+espn		1

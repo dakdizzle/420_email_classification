@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+company		1
+hiring		1
+dg		1
+gary		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+buy		1
+auburn		1
+trying		1
+forward		1
+ticket		1
+mail		1

@@ -1,0 +1,5 @@
+NumWords	6
+NumTerms	2
+
+rebecca.quenet@eds.com	5
+john.knock@elpaso.com	1

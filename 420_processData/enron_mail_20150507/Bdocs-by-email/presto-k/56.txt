@@ -1,0 +1,27 @@
+NumWords	29
+NumTerms	24
+
+please		3
+vacation	2
+th		2
+march		2
+addition	1
+fax		1
+power		1
+disneyworld	1
+block		1
+report		1
+prestoeast	1
+trip		1
+file		1
+kevin		1
+ct		1
+miami		1
+remind		1
+cell		1
+expense		1
+change		1
+florida		1
+calender	1
+feb		1
+tradingphone	1

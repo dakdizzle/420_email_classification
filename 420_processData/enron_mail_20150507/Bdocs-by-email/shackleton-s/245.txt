@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+alarm		1
+false		1

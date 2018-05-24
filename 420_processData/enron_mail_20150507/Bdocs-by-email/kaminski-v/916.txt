@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+vince		2
+time		1
+review		1
+major		1
+pstrakesh	1
+filename	1
+vkamins		1
+jx		1
+please		1
+memo		1
+changes		1
+one		1
+more		1
+additions	1
+magenta		1
+kaminski	1

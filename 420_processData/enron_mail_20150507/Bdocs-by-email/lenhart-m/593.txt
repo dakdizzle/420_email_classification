@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+universal	1
+math		1
+jerk		1

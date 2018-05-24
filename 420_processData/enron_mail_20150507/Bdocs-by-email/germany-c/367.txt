@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+chris		2
+cn		2
+germany		2
+much		1
+cgerman		1
+psthow		1
+recipients	1
+filename	1
+na		1
+mon		1
+enron		1
+sat		1
+sell		1
+ou		1
+thx		1

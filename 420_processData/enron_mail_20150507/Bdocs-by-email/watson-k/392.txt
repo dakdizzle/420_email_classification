@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+status		1
+reply		1
+returned	1
+lets		1
+know		1
+yes		1
+away		1
+instantly	1
+think		1

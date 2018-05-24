@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+st		2
+account		1
+credit		1
+community	1
+state		1
+union		1
+numbers		1
+needed		1
+below		1
+bank		1

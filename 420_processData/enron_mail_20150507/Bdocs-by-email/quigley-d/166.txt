@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+go		2
+meet		2
+coming		1
+around		1
+liz		1
+up		1
+shopto		1
+back		1
+before		1
+car		1
+pick		1
+ot		1

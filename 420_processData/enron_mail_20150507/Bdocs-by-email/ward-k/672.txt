@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+welcome		1
+hope		1
+well		1
+going		1

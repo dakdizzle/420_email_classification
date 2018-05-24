@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+monday		1
+mark		1
+early		1
+up		1
+tues		1
+friday		1
+fine		1
+bt		1
+see		1
+fransisco	1
+tycholiz	1
+m		1
+barry		1
+sacremento	1
+going		1
+san		1

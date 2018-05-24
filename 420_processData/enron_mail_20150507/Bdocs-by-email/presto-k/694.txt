@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+kevin		2
+reconcile	2
+option		1
+pstthis		1
+presto		1
+fixed		1
+grace		1
+continue	1
+price		1
+million		1
+discrepancy	1
+filename	1
+thanks		1
+privileged	1
+spread		1
+kim		1
+pure		1
+l		1
+non		1
+please		1
+positions	1
+prestox		1
+tve		1
+big		1

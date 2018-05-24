@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+chris		2
+cn		2
+germany		2
+pstthis		1
+ena		1
+cgerman		1
+gas		1
+recipients	1
+related		1
+purchased	1
+filename	1
+na		1
+sonat		1
+transport	1
+enron		1
+ou		1

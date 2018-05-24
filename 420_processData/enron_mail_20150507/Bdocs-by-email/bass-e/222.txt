@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+row		1
+hard		1
+looking		1
+come		1
+sect		1
+game		1
+tkts		1

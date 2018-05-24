@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+time		1
+bill		1
+tomorrow	1
+today		1
+kate		1
+till		1
+perhaps		1
+wait		1
+thanks		1

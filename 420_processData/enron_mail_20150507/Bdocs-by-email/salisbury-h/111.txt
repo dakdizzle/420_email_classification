@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+pnm		1
+day		1
+length		1
+buy		1
+shape		1
+total		1
+deal		1
+number		1
+thanks		1

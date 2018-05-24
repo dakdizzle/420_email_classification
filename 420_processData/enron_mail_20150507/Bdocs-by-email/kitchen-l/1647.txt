@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+down		1
+talk		1
+need		1
+wes		1
+shut		1
+think		1
+ll		1

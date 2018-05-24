@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+kids		1
+account		1
+kh		1
+support		1
+credit		1
+matched		1
+deposit		1
+prior		1
+money		1
+submitted	1
+thanks		1
+union		1
+enron		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+people		1
+many		1
+expecting	1
+okay		1

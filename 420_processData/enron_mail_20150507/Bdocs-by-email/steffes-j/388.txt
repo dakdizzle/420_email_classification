@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cn		2
+jsteffe		2
+respond		1
+end		1
+recipients	1
+filename	1
+na		1
+see		1
+privileged	1
+jim		1
+steffes		1
+non		1
+enron		1
+drafts		1
+james		1
+ou		1
+d		1
+week		1
+psttry		1

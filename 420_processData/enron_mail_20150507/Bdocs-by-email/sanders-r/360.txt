@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+pathetically	1
+enron		1
+convenience	1
+talk		1
+back		1
+today		1
+sorry		1
+late		1
+opposed		1
+pathologically	1
+very		1
+getting		1

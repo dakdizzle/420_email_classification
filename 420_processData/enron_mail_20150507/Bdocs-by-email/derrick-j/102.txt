@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+iniviting	1
+sit		1
+carrin		1
+table		1
+meeting		1
+thank		1
+conflicts	1
+legal		1
+jim		1
+enron		1
+unfortunately	1
+delighted	1
+attend		1
+lunch		1
+misha		1
+prc		1

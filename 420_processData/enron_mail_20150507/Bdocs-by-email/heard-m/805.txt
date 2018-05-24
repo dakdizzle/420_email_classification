@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+anything	1
+comments	1
+give		1

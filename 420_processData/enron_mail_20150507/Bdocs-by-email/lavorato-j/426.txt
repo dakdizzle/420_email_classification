@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+much		1
+decorators	1
+paying		1
+reuters		1
+number		1

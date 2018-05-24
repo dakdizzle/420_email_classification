@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+option		1
+message		1
+portfolio	1
+valuation	1

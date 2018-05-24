@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+enron		1
+http		1
+corp		1
+com		1
+gasmsgboard	1

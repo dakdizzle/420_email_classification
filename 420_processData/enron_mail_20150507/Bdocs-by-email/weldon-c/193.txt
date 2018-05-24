@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+charlie		1
+directory	1
+cash		1
+l		1
+gave		1
+now		1
+saved		1
+path		1

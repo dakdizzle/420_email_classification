@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+presto		2
+kevin		2
+cn		2
+credit		1
+donny		1
+stacey		1
+kpresto		1
+recipients	1
+albany		1
+filename	1
+na		1
+pstplease	1
+privileged	1
+non		1
+enron		1
+work		1
+ou		1
+llc		1
+new		1
+vinson		1

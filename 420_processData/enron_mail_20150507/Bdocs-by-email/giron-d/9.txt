@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+weekend		2
+kids		1
+dog		1
+village		1
+ok		1
+mutt		1
+titan		1
+planned		1
+kristi		1
+excited		1
+going		1
+traders		1
+pretty		1
+named		1

@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+book		2
+cost		2
+travel		1
+up		1
+yourself	1
+know		1
+options		1
+spend		1
+keep		1
+now		1
+pick		1
+via		1
+remove		1
+two		1
+less		1
+incremental	1
+night		1
+one		1
+lower		1
+want		1
+e		1
+mind		1
+insurance	1
+reimburse	1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+message		1
+assume		1
+happier		1

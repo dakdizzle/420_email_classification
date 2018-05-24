@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ok		1
+valerie		1
+now		1
+vintage		1
+susan		1

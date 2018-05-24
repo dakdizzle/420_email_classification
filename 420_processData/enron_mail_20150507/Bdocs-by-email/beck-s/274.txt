@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+whatever	1
+meeting		1
+fill		1
+copy		1
+sally		1
+fyi		1
+review		1
+afternoon	1

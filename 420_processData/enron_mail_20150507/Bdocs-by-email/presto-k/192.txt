@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+energy		1
+facilities	1
+nuclear		1
+plants		1
+purchased	1
+canada		1
+answer		1
+tripp		1
+never		1
+hedging		1
+better		1
+anything	1
+transition	1
+seen		1
+respect		1
+hedge		1
+utilities	1
+contracts	1
+believe		1
+british		1
+questions	1
+forward		1
+garret		1

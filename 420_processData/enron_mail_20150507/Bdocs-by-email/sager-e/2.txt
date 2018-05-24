@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+group		2
+credit		2
+full		1
+trying		1
+tried		1
+help		1
+thanks		1
+call		1
+margining	1
+regarding	1
+issues		1
+cell		1
+babakcould	1
+please		1
+touch		1
+unsuccessful	1
+sonnet		1
+sager		1
+voicemail	1
+elizabeth	1
+give		1
+hi		1

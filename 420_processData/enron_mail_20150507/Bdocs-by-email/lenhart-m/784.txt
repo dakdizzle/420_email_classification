@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+login		1
+wont		1
+need		1

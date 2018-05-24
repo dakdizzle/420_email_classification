@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+gnemec		2
+cn		2
+review		1
+recipients	1
+provide		1
+filename	1
+na		1
+privileged	1
+asap		1
+non		1
+discussion	1
+enron		1
+please		1
+nemec		1
+ou		1
+pstper		1
+comments	1
+gerald		1

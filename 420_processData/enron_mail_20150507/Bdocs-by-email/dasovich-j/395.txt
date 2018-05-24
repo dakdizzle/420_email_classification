@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+dasovich	2
+cn		2
+jeff		2
+palms		1
+pg		1
+jdasovic	1
+recipients	1
+same		1
+greasing	1
+filename	1
+na		1
+see		1
+privileged	1
+non		1
+talking		1
+enron		1
+jumps		1
+pstpure		1
+wagon		1
+more		1
+ou		1
+everyone	1
+wait		1
+ll		1

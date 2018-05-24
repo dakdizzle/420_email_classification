@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+sshackl		2
+cn		2
+sara		2
+credit		1
+calculations	1
+shackleton	1
+know		1
+recipients	1
+rely		1
+filename	1
+na		1
+worked		1
+mexico		1
+privileged	1
+pstfyi		1
+non		1
+enron		1
+jaime		1
+ou		1
+don		1
+ll		1

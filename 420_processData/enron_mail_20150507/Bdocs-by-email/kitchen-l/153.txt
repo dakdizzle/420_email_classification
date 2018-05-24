@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+fax		1
+ready		1

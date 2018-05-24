@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+time		2
+out		2
+credit		1
+somehow		1
+looking		1
+well		1
+guys		1
+jforney		1
+stay		1
+good		1
+great		1
+texas		1
+enron		1
+touch		1
+again		1
+work		1
+year		1
+gig		1
+luck		1
+having		1
+new		1
+think		1
+trading		1
+deb		1

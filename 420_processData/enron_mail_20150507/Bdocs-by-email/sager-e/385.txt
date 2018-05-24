@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+johngive	1
+houston		1
+help		1
+carol		1
+thanks		1
+nettelton	1
+call		1
+marcus		1
+thinking	1
+go		1
+part		1
+one		1
+timing		1
+depend		1
+clair		1
+think		1
+st		1
+hi		1

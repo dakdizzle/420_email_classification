@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+send		1
+list		1
+monika		1
+companies	1
+thanks		1

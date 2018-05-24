@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+info		1
+contacts	1
+put		1
+please		1
+russell		1

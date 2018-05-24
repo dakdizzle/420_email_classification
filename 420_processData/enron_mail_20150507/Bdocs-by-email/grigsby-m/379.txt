@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+better		2
+day		1
+gets		1
+place		1
+fiction		1
+piece		1

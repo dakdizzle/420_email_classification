@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+leslie		1
+people		1
+respond		1
+ena		1
+barry		1
+gas		1
+communications	1
+commercial	1

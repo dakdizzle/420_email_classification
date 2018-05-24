@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+more		2
+counterparties	1
+one		1
+fyi		1
+having		1
+side		1
+deal		1
+market		1

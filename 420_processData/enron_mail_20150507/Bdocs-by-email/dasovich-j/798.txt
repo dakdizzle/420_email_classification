@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+th		2
+work		1
+november	1

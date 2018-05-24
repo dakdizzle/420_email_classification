@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+prioritize	1
+hope		1
+well		1
+words		1
+need		1
+year		1
+refocus		1
+month		1
+week		1
+given		1
+reminders	1
+thanks		1

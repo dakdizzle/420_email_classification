@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+home		3
+out		2
+busy		1
+far		1
+phone		1
+call		1
+super		1
+ve		1
+flood		1
+way		1
+cell		1
+flooding	1
+go		1
+definitley	1
+pat		1
+suburbs		1
+here		1
+over		1

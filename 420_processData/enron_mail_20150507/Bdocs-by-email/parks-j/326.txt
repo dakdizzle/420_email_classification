@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+go		2
+park		1
+usually		1
+want		1
+arround		1
+lunch		1

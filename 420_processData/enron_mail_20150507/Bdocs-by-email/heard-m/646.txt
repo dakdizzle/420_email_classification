@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+send		1
+passed		1
+copy		1
+castrol		1
+attorney	1
+russ		1
+along		1
+agreement	1
+cavanaugh	1
+thanks		1

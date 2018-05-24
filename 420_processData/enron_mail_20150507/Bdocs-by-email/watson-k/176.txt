@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+kim		1
+thank		1
+rich		1
+loop		1
+keeping		1
+unit		1

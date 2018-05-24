@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hey		1
+ami		1
+looking		1
+sorry		1
+monika		1

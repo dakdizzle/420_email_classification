@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+stub		2
+option		1
+stock		1
+pay		1
+tricia		1
+line		1
+looked		1
+accurate	1
+chris		1
+item		1
+think		1
+number		1

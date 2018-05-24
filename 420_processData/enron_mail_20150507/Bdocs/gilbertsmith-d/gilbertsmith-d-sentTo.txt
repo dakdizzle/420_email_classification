@@ -1,0 +1,11 @@
+NumWords	15
+NumTerms	8
+
+d..steffes@enron.com	6
+melba.lozano@enron.com	2
+frank.hayden@enron.com	2
+mike.curry@enron.com	1
+daniel.diamond@enron.com	1
+jeff.king@enron.com	1
+bill.williams@enron.com	1
+jae.black@enron.com	1

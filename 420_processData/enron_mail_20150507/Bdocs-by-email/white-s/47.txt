@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+group		1
+plan		1
+floor		1
+stacey		1
+attached	1
+desk		1
+fyi		1
+th		1
+here		1

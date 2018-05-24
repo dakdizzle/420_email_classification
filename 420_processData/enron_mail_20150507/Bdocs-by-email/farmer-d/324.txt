@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+changed		1
+hear		1
+bridgett	1
+anthony		1
+know		1
+responsibilities	1
+found		1
+anything	1
+out		1
+soon		1
+forwarded	1
+message		1
+ll		1

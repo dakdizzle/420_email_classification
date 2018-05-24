@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+moving		1
+company		1
+problem		1
+over		1

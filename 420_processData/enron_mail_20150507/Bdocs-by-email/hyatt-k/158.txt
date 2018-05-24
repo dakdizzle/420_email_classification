@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+open		1
+up		1
+row		1
+pipe		1
+files		1
+pulling		1
+review		1
+once		1
+someone		1
+see		1
+help		1
+thanks		1
+roger		1
+pioneer		1
+please		1
+available	1
+start		1
+before		1
+below		1
+d		1
+note		1

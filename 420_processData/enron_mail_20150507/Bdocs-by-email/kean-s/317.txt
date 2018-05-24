@@ -1,0 +1,18 @@
+NumWords	28
+NumTerms	15
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+lrobert		1
+stanley		1
+fyi		1
+shapiro		1
+shorton		1
+linda		1
+rshapiro	1
+robertson	1
+horton		1
+richard		1

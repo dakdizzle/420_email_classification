@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+blackberry	2
+sent		1
+net		1
+wireless	1
+handheld	1
+back		1
+www		1
+yes		1
+tonight		1

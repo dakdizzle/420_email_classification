@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+thank		1
+msoutha		1
+recipients	1
+swirl		1
+na		1
+southard	1
+kim		1
+enron		1
+dates		1
+miranda		1
+helping		1
+ou		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+champ		1
+feel		1
+today		1

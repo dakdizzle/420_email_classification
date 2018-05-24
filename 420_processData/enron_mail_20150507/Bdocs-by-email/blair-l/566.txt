@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+lblair		2
+cn		2
+pool		2
+lynn		1
+blair		1
+recipients	1
+filename	1
+na		1
+mps		1
+pst		1
+privileged	1
+transactions	1
+non		1
+enron		1
+vernon		1
+yes		1
+ou		1
+agreement	1

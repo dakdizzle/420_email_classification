@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+go		2
+jim		1
+network		1
+good		1
+opportunity	1
+want		1
+going		1
+ll		1

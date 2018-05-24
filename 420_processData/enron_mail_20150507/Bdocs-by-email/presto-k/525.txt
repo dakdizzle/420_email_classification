@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+morning		1
+forwarded	1
+day		1
+one		1
+letter		1
+yes		1
+phone		1
+wait		1
+number		1
+cover		1
+resume		1

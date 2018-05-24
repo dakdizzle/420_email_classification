@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+book		2
+ami		1
+know		1
+risi		1
+asia		1
+mills		1
+locate		1
+th		1
+monika		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+marie		1
+oops		1
+sorry		1
+here		1

@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+inc		2
+louisiana	2
+gas		1
+following	1
+entities	1
+companylrci	1
+sheets		1
+marketing	1
+pull		1
+thanks		1
+companylgmi	1
+resources	1
+data		1
+deb		1

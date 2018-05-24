@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+houston		1
+monika		1
+markets		1
+industrial	1
+here		1

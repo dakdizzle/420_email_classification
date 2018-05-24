@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+day		2
+life		1
+crazy		1
+plans		1
+week		1
+tonight		1
+took		1

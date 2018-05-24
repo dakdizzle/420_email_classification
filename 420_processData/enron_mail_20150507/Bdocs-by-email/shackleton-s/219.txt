@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+sara		1
+chair		1
+left		1
+markup		1

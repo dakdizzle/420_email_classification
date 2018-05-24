@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+wsj		1
+ljm		1
+article		1
+ene		1
+associated	1
+today		1
+fund		1
+see		1

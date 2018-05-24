@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+discussion	1
+year		1
+duke		1
+problem		1
+tonight		1
+initiate	1
+call		1

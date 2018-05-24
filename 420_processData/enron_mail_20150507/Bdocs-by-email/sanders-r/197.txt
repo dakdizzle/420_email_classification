@@ -1,0 +1,24 @@
+NumWords	33
+NumTerms	21
+
+ect		5
+hou		3
+richard		3
+linda		2
+sanders		2
+please		2
+vivian		2
+know		1
+guinn		1
+report		1
+print		1
+nguyen		1
+out		1
+forwarded	1
+m		1
+april		1
+enron		1
+questions	1
+understand	1
+subject		1
+enronxgate	1

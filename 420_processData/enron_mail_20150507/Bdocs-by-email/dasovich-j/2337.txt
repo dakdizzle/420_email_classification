@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+good		2
+m		1
+up		1
+man		1
+offered		1
+regret		1
+though		1
+chance		1
+extremely	1
+having		1
+take		1
+thanks		1

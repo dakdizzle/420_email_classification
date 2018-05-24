@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+texadelphia	1
+yes		1
+otto		1

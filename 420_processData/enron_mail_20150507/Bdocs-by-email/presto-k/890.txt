@@ -1,0 +1,19 @@
+NumWords	20
+NumTerms	16
+
+pjm		2
+nepool		2
+ent		2
+cin		2
+ed		1
+ercot		1
+tva		1
+soco		1
+locations	1
+fixed		1
+price		1
+etc		1
+biggest		1
+cal		1
+positions	1
+com		1

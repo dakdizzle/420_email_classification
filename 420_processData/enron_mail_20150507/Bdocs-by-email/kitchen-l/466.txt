@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+group		2
+back		2
+support		1
+marketers	1
+under		1
+fred		1
+meterologists	1
+gas		1
+weather		1
+nothe		1
+marketing	1
+fold		1
+crude		1
+lagrasta	1
+office		1
+maffett		1
+mid		1
+need		1
+brought		1
+spun		1
+original	1
+don		1
+randy		1

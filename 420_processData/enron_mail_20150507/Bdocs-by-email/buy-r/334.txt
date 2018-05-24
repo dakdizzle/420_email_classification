@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+rick		1
+buy		1
+accurate	1
+looks		1

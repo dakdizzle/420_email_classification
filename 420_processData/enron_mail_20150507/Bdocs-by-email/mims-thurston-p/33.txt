@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+march		1
+april		1
+m		1
+sheet		1
+well		1
+final		1
+bobbi		1
+preparing	1
+here		1

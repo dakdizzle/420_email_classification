@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+waited		1
+time		1
+last		1
+hour		1
+half		1

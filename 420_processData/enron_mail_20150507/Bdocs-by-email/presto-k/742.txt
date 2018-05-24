@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+deal		2
+through		2
+transaction	1
+john		1
+asked		1
+remember	1
+suggest		1
+significant	1
+agree		1
+go		1
+yes		1
+going		1
+lunch		1
+over		1

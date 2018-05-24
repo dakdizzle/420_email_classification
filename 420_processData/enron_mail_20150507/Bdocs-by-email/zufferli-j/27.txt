@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+others		1
+hear		1
+thing		1
+dole		1
+until		1
+one		1
+before		1
+wait		1

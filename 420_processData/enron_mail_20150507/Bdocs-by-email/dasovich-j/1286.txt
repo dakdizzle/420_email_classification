@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+cell		1
+join		1
+jeff		1
+best		1
+know		1
+want		1
+phone		1
+call		1

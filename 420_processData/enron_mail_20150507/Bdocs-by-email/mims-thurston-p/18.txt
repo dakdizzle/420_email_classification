@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+honey		1
+car		1
+bringing	1
+dying		1
+sunday		1
+gown		1
+put		1
+m		1
+anytime		1
+ya		1
+church		1
+weekend		1
+yes		1
+hi		1
+love		1

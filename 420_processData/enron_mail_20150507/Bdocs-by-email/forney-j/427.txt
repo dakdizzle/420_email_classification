@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+need		2
+bryan		1
+talking		1
+come		1
+thx		1
+involved	1
+chance		1
+jmf		1
+gerald		1
+gary		1
+feedback	1

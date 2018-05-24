@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+account		1
+enter		1
+paine		1
+following	1
+phone		1
+webber		1
+thanks		1
+please		1
+book		1
+mail		1
+address		1
+reps		1
+include		1

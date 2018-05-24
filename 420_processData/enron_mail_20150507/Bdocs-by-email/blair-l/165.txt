@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+sure		2
+lynn		1
+info		1
+up		1
+terry		1
+reviewed	1
+covered		1
+thanks		1
+bases		1
+capacity	1
+please		1
+back		1
+want		1
+work		1
+release		1
+reps		1
+elizabeth	1
+richard		1

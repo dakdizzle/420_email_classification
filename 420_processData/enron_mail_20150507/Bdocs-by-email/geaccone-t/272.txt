@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+tgeacco		2
+cn		2
+base		1
+pstits		1
+gas		1
+recipients	1
+geaccone	1
+sba		1
+filename	1
+na		1
+privileged	1
+tracy		1
+non		1
+enron		1
+ou		1
+deal		1
+fees		1

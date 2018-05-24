@@ -1,0 +1,10 @@
+NumWords	9
+NumTerms	7
+
+procedures	2
+problem		2
+simplethe	1
+place		1
+followedfollow	1
+plain		1
+here		1

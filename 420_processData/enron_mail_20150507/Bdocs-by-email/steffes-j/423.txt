@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+minute		1
+meeting		1
+linda		1
+up		1
+tomorrow	1
+pls		1
+set		1
+melinda		1
+thanks		1

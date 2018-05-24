@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+login		2
+csemper		1
+denied		1
+id		1
+estate		1
+est		1
+enpower		1
+tried		1

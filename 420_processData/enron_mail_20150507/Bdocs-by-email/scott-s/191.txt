@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+going		2
+apartment	1
+up		1
+talk		1
+few		1
+phone		1
+call		1
+out		1
+soon		1
+around		1
+m		1
+cell		1
+come		1
+katy		1
+minutes		1
+heading		1
+probably	1
+sue		1
+think		1
+tonight		1
+over		1
+here		1

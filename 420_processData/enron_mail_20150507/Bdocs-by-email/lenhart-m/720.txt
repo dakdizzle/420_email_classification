@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+party		2
+going		2
+lsu		1
+fun		1
+finish		1
+garden		1
+know		1
+go		1
+sat		1
+heights		1
+watch		1
+celebration	1

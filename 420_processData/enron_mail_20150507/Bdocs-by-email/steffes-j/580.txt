@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+discuss		1
+upcoming	1
+power		1
+friday		1
+phone		1
+arrange		1
+christi		1
+market		1
+call		1
+jim		1
+linda		1
+novosel		1
+please		1
+sarah		1

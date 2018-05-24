@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+seating		1
+send		1
+floor		1
+tammy		1
+copy		1
+john		1
+another		1
+th		1
+chartthanks	1

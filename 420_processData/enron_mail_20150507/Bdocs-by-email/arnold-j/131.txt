@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+m		1
+up		1
+msn		1
+messenger	1
+set		1
+think		1

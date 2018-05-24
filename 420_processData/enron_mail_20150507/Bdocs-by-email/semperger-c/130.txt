@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+between		1
+make		1
+glisan		1
+itc		1
+nw		1
+one		1
+hoythope	1
+going		1
+st		1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+dough		1
+time		1
+know		1
+keep		1
+plant		1
+june		1
+mexico		1
+times		1
+remember	1
+cashout		1
+july		1
+go		1
+year		1
+before		1
+august		1
+thought		1
+buring		1

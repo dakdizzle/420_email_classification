@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+wsj		1
+point		1
+vince		1
+david		1
+made		1
+same		1

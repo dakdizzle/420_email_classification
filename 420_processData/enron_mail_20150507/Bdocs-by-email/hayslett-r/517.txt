@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+continuity	1
+need		1
+attend		1
+reasons		1

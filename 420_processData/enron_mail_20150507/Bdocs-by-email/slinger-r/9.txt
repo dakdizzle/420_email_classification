@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+sp		1
+short		1
+price		1
+enpower		1
+ees		1
+thanks		1
+caps		1
+long		1
+two		1
+mw		1
+apx		1
+offset		1
+deal		1
+ryan		1

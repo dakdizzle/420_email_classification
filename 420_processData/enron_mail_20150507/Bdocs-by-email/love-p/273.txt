@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+bin		3
+tech		2
+between		1
+report		1
+captured	1
+detained	1
+la		1
+losin		1
+names		1
+wire		1
+football	1
+possible	1
+louisiana	1
+students	1
+cryin		1
+violations	1
+university	1
+auburn		1
+game		1
+immigration	1
+whinin		1

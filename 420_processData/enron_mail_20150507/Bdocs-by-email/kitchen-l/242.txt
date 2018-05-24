@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+kitchen		2
+louise		2
+cn		2
+email		1
+psttammie	1
+tim		1
+houses		1
+nwlink		1
+recipients	1
+comtbelden	1
+toocscalger	1
+chris		1
+filename	1
+na		1
+thanks		1
+comcould	1
+lkitchen	1
+milly		1
+enron		1
+please		1
+ou		1
+ring		1
+attbi		1

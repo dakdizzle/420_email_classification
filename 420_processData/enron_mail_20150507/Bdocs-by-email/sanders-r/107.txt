@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+call		3
+hand		1
+know		1
+supposed	1
+adkin		1
+today		1
+want		1
+knew		1
+atty		1

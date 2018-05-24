@@ -1,0 +1,23 @@
+NumWords	38
+NumTerms	20
+
+pm		3
+tim		3
+belden		3
+ect		3
+enron		3
+corp		3
+john		2
+lavodeal	2
+lavorato	2
+hou		2
+forwarded	2
+subject		2
+attached	1
+trade		1
+see		1
+michael		1
+resources	1
+ectcc		1
+driscoll	1
+capital		1

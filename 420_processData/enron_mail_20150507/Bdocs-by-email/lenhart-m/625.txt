@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+moving		2
+lisa		2
+buddy		1
+india		1
+up		1
+back		1
+still		1
+here		1

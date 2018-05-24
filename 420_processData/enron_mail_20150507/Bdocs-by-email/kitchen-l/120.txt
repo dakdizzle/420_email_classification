@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+expensive	1
+live		1
+floor		1
+place		1
+whole		1
+world		1
+pillars		1
+big		1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+counterparties	1
+barbara		1
+know		1
+netting		1
+gray		1
+chris		1
+mariex		1
+anything	1
+master		1
+attaching	1
+list		1
+please		1
+questions	1
+pursuant	1
+need		1
+agreement	1
+request		1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+ecologyproject	1
+send		1
+www		1
+girlhttp	1
+dream		1
+wanted		1
+berkeley	1
+julie		1
+reference	1
+down		1
+used		1
+staff		1
+htmlscroll	1
+work		1
+org		1
+sectioni	1
+osborn		1

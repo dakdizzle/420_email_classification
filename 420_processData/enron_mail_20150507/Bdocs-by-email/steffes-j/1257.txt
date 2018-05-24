@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+refund		1
+ferc		1
+make		1
+wanda		1
+due		1
+money		1
+jim		1
+settlement	1
+out		1
+issues		1
+consistent	1
+px		1
+need		1
+break		1
+iso		1
+sure		1

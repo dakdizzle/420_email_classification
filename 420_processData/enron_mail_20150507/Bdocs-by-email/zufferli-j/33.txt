@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+week		2
+calgary		1
+up		1
+buying		1
+everywhere	1
+snow		1
+etc		1
+fundies		1
+steps		1
+look		1
+powder		1
+come		1
+go		1
+garrett		1
+weekend		1
+advanced	1
+btw		1
+ticket		1
+mountains	1
+feet		1
+next		1
+through		1

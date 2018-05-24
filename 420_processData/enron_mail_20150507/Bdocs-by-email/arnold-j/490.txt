@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+tomorrow	1
+go		1
+hookie		1
+want		1
+noon		1
+game		1
+bb		1
+play		1

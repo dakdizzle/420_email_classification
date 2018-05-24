@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+good		2
+anything	1
+stuff		1
+party		1
+meetings	1
+didn		1

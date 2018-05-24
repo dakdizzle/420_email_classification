@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+becasue		1
+really		1
+overwhelming	1
+lower		1
+idea		1
+trend		1
+probably	1
+view		1
+bearish		1
+market		1

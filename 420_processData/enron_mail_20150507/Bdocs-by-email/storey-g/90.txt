@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+point		1
+bid		1
+sure		1
+transfer	1
+nbpl		1
+vent		1
+ventura		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+send		1
+write		1
+hope		1
+up		1
+well		1
+things		1
+harry		1
+everyone	1

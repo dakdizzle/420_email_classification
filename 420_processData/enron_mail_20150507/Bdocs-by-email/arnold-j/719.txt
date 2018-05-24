@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+order		1
+flow		1
+prices		1
+per		1
+trade		1
+juice		1
+tick		1
+refco		1
+pay		1
+widen		1
+going		1
+give		1
+add		1
+proposing	1

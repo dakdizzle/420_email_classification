@@ -1,0 +1,25 @@
+NumWords	43
+NumTerms	22
+
+enron		5
+ect		3
+miller		3
+corp		3
+stephanie	3
+pm		2
+plants		2
+julie		2
+hou		2
+forwarded	2
+lenhart		2
+subject		2
+generation	2
+matthew		2
+listing		1
+listinghere	1
+enroncc		1
+shim		1
+amto		1
+ectcc		1
+gomez		1
+elizabeth	1

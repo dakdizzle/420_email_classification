@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+those		1
+pl		1
+signed		1
+nothing		1
+currently	1
+books		1
+still		1
+deal		1

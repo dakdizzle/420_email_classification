@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+mentioning	1
+hate		1
+well		1
+days		1
+working		1
+one		1
+tell		1
+d		1
+mind		1
+offer		1
+janie		1
+actually	1

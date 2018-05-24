@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+wine		1
+much		1
+nice		1
+todd		1
+scott		1
+wedding		1
+saw		1
+pendy		1
+drank		1
+yes		1

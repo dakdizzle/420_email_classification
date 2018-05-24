@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+gas		2
+kam		2
+cn		2
+keiser		2
+thankskk	1
+pstz		1
+daily		1
+recipients	1
+netco		1
+filename	1
+na		1
+database	1
+mappings	1
+curves		1
+kkeiser		1
+enron		1
+h		1
+provided	1
+columns		1
+ou		1
+curve		1
+move		1
+new		1
+over		1

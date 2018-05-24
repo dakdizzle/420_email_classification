@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+contract	2
+confirm		2
+customer	1
+send		1
+working		1
+want		1
+still		1
+here		1

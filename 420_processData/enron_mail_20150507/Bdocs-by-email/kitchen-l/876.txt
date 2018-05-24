@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+board		2
+chicago		1
+presenting	1
+time		1
+meetings	1
+john		1
+wednesday	1
+invited		1
+wed		1
+thought		1
+lunch		1

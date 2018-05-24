@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+manage		1
+retail		1
+done		1
+everything	1
+positions	1
+end		1
+sure		1
+ees		1
+making		1
+effective	1
+liquidate	1

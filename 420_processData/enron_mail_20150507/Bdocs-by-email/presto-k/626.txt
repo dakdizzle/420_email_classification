@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+meeting		2
+markets		2
+approx		1
+mwh		1
+open		1
+rarely		1
+position	1
+except		1
+now		1
+keep		1
+zone		1
+shown		1
+east		1
+pjm		1
+ears		1
+afternoon	1
+summer		1
+regarding	1
+work		1
+yes		1
+attend		1
+deal		1
+nrg		1
+spreads		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+script		1
+done		1
+stacey		1
+john		1
+please		1
+casey		1
+thanks		1
+call		1

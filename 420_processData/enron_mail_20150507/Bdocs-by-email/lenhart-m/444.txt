@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+soon		1
+penny		1
+stock		1
+enron		1
+now		1
+investigating	1
+going		1
+pretty		1
+sec		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+thinking	1
+david		1
+rick		1
+apprised	1
+already		1
+issue		1
+whalley		1

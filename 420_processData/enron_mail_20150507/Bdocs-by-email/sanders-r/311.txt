@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+years		1
+disputes	1
+none		1
+past		1
+aware		1

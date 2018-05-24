@@ -1,0 +1,11 @@
+NumWords	13
+NumTerms	8
+
+plus		3
+pricing		2
+index		2
+commodity	2
+trco		1
+fuel		1
+looks		1
+think		1

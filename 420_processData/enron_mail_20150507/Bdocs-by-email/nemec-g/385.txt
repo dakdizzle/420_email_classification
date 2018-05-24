@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+stuff		1
+out		1
+shawna		1
+guy		1
+know		1
+questions	1
+moved		1
+departed	1
+sorry		1
+delay		1
+figure		1

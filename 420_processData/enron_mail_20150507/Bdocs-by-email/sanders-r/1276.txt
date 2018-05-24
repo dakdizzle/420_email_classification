@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ca		1
+issues		1
+concerns	1
+battles		1
+ag		1
+related		1
+see		1
+trading		1
+over		1

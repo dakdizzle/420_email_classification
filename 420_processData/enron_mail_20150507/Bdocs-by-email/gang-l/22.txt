@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+both		1
+day		1
+lisa		1
+discrepancy	1
+dec		1
+thanks		1

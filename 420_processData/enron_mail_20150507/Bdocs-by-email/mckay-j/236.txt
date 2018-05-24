@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+map		1
+further		1
+overall		1
+few		1
+today		1
+areas		1
+jon		1
+noticed		1
+weekend		1
+work		1
+need		1
+looked		1
+bad		1
+over		1

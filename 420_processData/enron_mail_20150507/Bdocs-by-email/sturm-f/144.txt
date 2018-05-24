@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+thanksfletch	1
+floor		1
+up		1
+copy		1
+gas		1
+nd		1
+don		1
+iris		1
+lot		1

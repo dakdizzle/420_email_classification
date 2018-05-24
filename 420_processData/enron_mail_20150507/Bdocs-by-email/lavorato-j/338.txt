@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+continuing	2
+kill		1
+spell		1

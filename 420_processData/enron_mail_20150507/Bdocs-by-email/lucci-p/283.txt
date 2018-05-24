@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+ha		3
+out		1
+teeth		1
+interesting	1
+part		1
+thought		1

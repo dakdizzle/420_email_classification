@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+ercot		2
+service		2
+duties		1
+addition	1
+latest		1
+hey		1
+working		1
+price		1
+kick		1
+cap		1
+tom		1
+world		1
+face		1
+crap		1
+services	1
+opportunity	1
+work		1
+iso		1
+jmf		1
+side		1

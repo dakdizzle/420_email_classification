@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+make		1
+funds		1
+basically	1
+rate		1
+money		1
+out		1
+int		1
+proper		1
+putting		1
+cost		1
+charge		1
+sure		1
+deal		1
+door		1

@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+sager		2
+incorporating	1
+recent		1
+david		1
+esager		1
+comx		1
+filename	1
+ex		1
+privileged	1
+non		1
+psthere		1
+enron		1
+ideas		1
+another		1
+origin		1
+portz		1
+elizabeth	1

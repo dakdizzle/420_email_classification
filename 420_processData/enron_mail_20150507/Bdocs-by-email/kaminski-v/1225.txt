@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+vince		1
+talent		1
+exceptional	1
+work		1
+michelle	1
+based		1
+needs		1

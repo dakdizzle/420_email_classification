@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+concerns	1
+please		1
+admin		1
+direct		1
+assistant	1
+chanaba		1
+nyree		1
+ext		1

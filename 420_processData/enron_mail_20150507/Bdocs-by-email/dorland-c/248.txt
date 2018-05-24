@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+takes		1
+up		1
+guy		1
+msn		1
+ask		1
+messenger	1
+need		1
+set		1
+seconds		1

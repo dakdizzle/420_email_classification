@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+term		1
+today		1
+disagree	1
+machine		1
+answer		1
+high		1
+running		1
+jim		1
+points		1
+long		1
+fair		1
+dogma		1
+business	1
+works		1
+don		1
+thoughts	1

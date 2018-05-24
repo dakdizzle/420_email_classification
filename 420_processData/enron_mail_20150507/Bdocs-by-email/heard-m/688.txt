@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+legal		1
+marie		1
+netting		1
+thanks		1
+master		1
+regarding	1
+please		1
+questions	1
+direct		1
+agreement	1
+comments	1
+sequent		1
+frank		1

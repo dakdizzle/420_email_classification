@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+number		2
+day		1
+hourly		1
+today		1
+enpower		1
+purchased	1
+transmission	1
+firm		1
+thanks		1
+tranny		1
+holden		1
+aps		1
+deal		1
+oasis		1

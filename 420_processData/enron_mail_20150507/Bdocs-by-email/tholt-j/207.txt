@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+time		1
+well		1
+another		1
+work		1
+week		1
+next		1
+doesn		1

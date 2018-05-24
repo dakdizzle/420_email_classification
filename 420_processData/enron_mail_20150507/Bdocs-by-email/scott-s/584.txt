@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+home		1
+wondering	1
+welcome		1
+ride		1
+evening		1
+join		1
+one		1
+more		1
+janie		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+message		1
+describe	1
+gave		1
+michelle	1
+yes		1
+below		1
+same		1
+fact		1

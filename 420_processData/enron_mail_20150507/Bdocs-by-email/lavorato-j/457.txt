@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+met		1
+until		1
+working		1
+houston		1
+canada		1
+lambie		1
+face		1
+broach		1
+call		1
+puts		1
+tc		1
+m		1
+good		1
+happy		1
+loves		1
+recently	1
+issue		1
+shea		1
+sure		1
+think		1
+always		1
+didn		1

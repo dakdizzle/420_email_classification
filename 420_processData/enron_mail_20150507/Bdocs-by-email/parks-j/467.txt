@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+detox		1
+krammer		1
+guy		1
+http		1
+work		1
+yahoo		1
+www		1
+htmldoesnt	1
+thestreet	1
+read		1
+markets		1
+com		1

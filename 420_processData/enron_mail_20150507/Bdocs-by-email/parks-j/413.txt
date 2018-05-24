@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+dollar		1
+prettier	1
+two		1
+whore		1
+use		1
+tongue		1

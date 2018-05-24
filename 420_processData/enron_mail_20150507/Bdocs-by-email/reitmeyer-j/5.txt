@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+nice		1
+day		1
+pm		1
+sprayedbasis	1
+sprayedkern	1
+sprayedene	1
+opal		1
+tighter		1
+nymex		1
+sprayedhave	1
+cdt		1
+bom		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+brad		1
+couch		1
+want		1
+night		1
+theway		1
+ast		1
+sleep		1

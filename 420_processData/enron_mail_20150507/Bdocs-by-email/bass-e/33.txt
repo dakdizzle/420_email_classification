@@ -1,0 +1,13 @@
+NumWords	13
+NumTerms	10
+
+hotmail		2
+com		2
+dominator	2
+send		1
+mexican		1
+mailto		1
+resorts		1
+e		1
+mail		1
+thanks		1

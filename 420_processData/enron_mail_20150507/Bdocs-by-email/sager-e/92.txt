@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+soonelizabeth	1
+talk		1
+fyi		1
+sager		1

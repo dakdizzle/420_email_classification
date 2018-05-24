@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+going		2
+went		2
+little		1
+party		1
+friday		1
+tues		1
+even		1
+out		1
+home		1
+mon		1
+dinner		1
+tomorrow	1
+chill		1
+maybe		1
+already		1
+week		1
+saturday	1

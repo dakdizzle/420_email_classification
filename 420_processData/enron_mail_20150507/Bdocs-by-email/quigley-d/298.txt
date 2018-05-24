@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+kelli		1
+cents		1
+centsvolume	1
+settled		1
+strip		1
+volume		1

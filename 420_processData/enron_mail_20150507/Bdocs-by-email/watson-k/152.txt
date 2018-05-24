@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+budget		1
+kim		1
+put		1
+lorraine	1
+need		1
+capital		1

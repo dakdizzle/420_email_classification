@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+looking		1
+zhiyong		1
+friday		1
+know		1
+won		1
+kam		1
+ready		1
+beleive		1

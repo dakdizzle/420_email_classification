@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+long		1
+wow		1
+time		1
+july		1
+back		1
+came		1
+more		1
+thought		1
+weeks		1
+june		1

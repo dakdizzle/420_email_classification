@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+baytowni	1
+up		1
+ask		1
+lost		1
+coarse		1
+flood		1
+gets		1
+good		1
+texas		1
+anytime		1
+playi		1
+back		1
+weekend		1
+gokevin		1
+nation		1
+ticket		1
+still		1
+play		1
+richard		1
+next		1

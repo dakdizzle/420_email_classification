@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+gas		1
+attached	1
+jersey		1
+natural		1
+comments	1
+see		1
+new		1

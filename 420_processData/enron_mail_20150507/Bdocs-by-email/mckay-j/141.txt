@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+down		1
+prices		1
+term		1
+gj		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+please		1
+attached	1
+see		1
+kay		1
+thanks		1

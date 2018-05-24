@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+monday		1
+mention		1
+meeting		1
+up		1
+heads		1
+staff		1
+please		1
+steve		1
+thanks		1

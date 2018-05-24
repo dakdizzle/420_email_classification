@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+cherry		1
+elizabeth	1

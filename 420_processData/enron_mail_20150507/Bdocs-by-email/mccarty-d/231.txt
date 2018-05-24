@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+hear		1
+first		1
+day		1
+up		1
+heads		1
+looking		1
+cancelled	1
+management	1
+dan		1
+something	1
+two		1
+bit		1
+being		1
+official	1
+mary		1
+rescheduled	1
+year		1
+probably	1
+conference	1
+kay		1
+november	1
+next		1

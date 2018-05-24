@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+fill		1
+assets		1
+thanks		1

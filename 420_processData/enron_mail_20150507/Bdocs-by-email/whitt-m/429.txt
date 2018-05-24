@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+status		1
+customers	1
+devotion	1
+once		1
+consumate	1
+great		1
+unending	1
+enron		1
+proffesional	1
+admire		1
+restore		1
+desire		1
+constant	1
+always		1

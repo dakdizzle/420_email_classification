@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+beer		1
+bid		1
+above		1
+meet		1
+later		1
+offer		1
+point		1
+good		1
+run		1
+go		1
+one		1
+loft		1
+ll		1

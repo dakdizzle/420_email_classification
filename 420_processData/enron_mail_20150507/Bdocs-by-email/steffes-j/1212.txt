@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+impact		2
+identify	2
+situation	1
+seems		1
+further		1
+today		1
+environment	1
+jim		1
+downgrade	1
+rating		1
+one		1
+lose		1
+occur		1
+yes		1
+given		1
+think		1

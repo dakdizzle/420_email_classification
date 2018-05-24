@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+dont		1
+day		1
+isac		1
+rep		1
+job		1
+helps		1
+recall		1
+th		1
+oil		1
+vitol		1
+hope		1
+hr		1
+last		1
+jmf		1
+took		1
+november	1
+area		1
+trading		1

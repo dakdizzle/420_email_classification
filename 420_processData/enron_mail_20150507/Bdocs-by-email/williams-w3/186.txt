@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+nice		1
+bit		1
+looking		1
+bill		1
+honda		1
+reliability	1
+oooohhh		1
+cbr		1
+cheaper		1
+sweeter		1
+better		1
+rr		1

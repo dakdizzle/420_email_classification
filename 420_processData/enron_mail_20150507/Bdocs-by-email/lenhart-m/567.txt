@@ -1,0 +1,9 @@
+NumWords	9
+NumTerms	6
+
+win		2
+lets		2
+go		2
+grill		1
+applebys	1
+redwood		1

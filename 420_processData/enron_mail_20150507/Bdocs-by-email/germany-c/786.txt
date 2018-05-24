@@ -1,0 +1,22 @@
+NumWords	24
+NumTerms	19
+
+cgas		3
+metered		2
+contract	2
+production	2
+verify		1
+steve		1
+attached	1
+service		1
+stonestreet	1
+schedule	1
+contracts	1
+talking		1
+transport	1
+aggregation	1
+ipp		1
+work		1
+dominion	1
+similar		1
+very		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+covers		1
+teeth		1
+sound		1
+snoring		1
+chattering	1
+isn		1
+c		1

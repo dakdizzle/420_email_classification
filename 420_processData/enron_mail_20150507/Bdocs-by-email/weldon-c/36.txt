@@ -1,0 +1,15 @@
+NumWords	16
+NumTerms	12
+
+business	3
+consumer	2
+commerce	2
+internet	1
+usually		1
+consumerc	1
+electronic	1
+line		1
+c		1
+b		1
+based		1
+referring	1

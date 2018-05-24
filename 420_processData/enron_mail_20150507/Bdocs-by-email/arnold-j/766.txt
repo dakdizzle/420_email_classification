@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+wanna		1
+playground	1
+school		1
+smoothie	1

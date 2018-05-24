@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+care		1
+painful		1
+hope		1
+feeling		1
+yourself	1
+stones		1
+well		1
+sound		1
+michelle	1
+pat		1
+take		1
+kidney		1

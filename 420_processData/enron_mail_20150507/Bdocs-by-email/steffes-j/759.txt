@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+please		1
+pg		1
+response	1
+see		1

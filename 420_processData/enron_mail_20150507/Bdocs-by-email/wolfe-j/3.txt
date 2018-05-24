@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+week		2
+willbe		1
+duringthis	1
+bid		1
+time		1
+somehow		1
+vacation	1
+jason		1
+busy		1
+sorry		1
+someone		1
+karen		1
+wolfe		1
+approved	1
+impossible	1
+covering	1
+lunch		1

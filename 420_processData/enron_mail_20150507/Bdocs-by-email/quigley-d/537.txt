@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+peoplehttp	1
+dq		1
+restaurants	1
+reservation	1
+change		1
+today		1
+www		1
+delmonicolv	1
+emerils		1
+com		1
+call		1

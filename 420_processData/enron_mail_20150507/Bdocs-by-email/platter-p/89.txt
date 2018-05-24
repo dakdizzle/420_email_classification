@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+program		1
+scratch		1
+critisize	1
+again		1
+throw		1
+basketball	1
+belly		1
+hair		1
+pull		1
+ll		1
+futba		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+look		1
+seems		1
+please		1
+difference	1
+gas		1
+daily		1
+major		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+pays		1
+transaction	1
+per		1
+exchange	1
+know		1
+trying		1
+commissions	1
+month		1
+dutch		1
+gerri		1
+each		1
+gather		1
+pay		1
+brokers		1
+costs		1

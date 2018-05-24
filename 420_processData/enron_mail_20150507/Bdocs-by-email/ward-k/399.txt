@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+kim		1
+monica		1
+talk		1
+review		1
+once		1
+chance		1
+thanks		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+myself		1
+spend		1
+minutes		1
+ll		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+gotta		1
+pass		1
+wgr		1
+see		1
+yhis		1
+alumni		1

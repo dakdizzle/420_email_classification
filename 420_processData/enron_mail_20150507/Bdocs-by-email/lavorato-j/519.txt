@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+helpful		1
+below		1
+cases		1

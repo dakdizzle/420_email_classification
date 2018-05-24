@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+metafile	1
+picture		1
+embedded	1

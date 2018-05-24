@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+house		1
+asap		1
+fax		1
+enron		1
+please		1
+attached	1
+tremont		1
+marilou		1
+print		1
+letterhead	1
+thanks		1

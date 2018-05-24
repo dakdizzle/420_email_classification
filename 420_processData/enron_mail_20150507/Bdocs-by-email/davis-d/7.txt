@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+shackles	1
+friend		1
+silly		1
+jesus		1
+wasn		1
+st		1
+song		1

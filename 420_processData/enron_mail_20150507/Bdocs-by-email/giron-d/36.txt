@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+please		2
+anything	1
+out		1
+begin		1
+office		1
+thanksdg	1
+know		1
+resopnse	1
+need		1
+susan		1
+process		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+cfm		1
+condo		1
+http		1
+financing	1
+har		1
+one		1
+www		1
+mlnum		1
+search		1
+indexdetail	1
+com		1

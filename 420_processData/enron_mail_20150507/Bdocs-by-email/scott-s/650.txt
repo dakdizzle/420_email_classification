@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+know		2
+lunch		2
+time		1
+easily		1
+accomplished	1
+meet		1
+crunched	1
+mins		1
+hit		1
+ridiculous	1
+anyway		1
+food		1
+building	1
+court		1
+work		1
+break		1
+sue		1

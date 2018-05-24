@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+position	2
+file		2
+day		1
+partial		1
+talk		1
+epsa		1
+take		1
+nopr		1
+jim		1
+hartsoe		1
+need		1
+recalls		1
+joe		1

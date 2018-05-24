@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+two		2
+little		1
+make		1
+close		1
+tickleknees	1
+john		1
+predict		1
+gas		1
+deals		1
+ect		1
+tiny		1
+hou		1
+kim		1
+three		1
+pmto		1
+enron		1
+ward		1
+arnold		1
+killing		1
+ectcc		1
+drinks		1
+subject		1
+dofrom		1
+enronxgate	1

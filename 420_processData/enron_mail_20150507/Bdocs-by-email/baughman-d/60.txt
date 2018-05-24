@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+grief		1
+yeah		1
+clinton		1
+saw		1
+happy		1
+dawg		1
+very		1
+shame		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+internet	1
+thanx		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lynn		1
+flowing		1
+follow		1
+up		1
+gas		1
+raetta		1
+reports		1
+thanks		1

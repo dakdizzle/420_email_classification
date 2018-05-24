@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+wind		1
+japhetdid	1
+hey		1
+enron		1
+guy		1
+name		1
+now		1
+forget		1

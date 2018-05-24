@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+ltd		2
+counterparty	2
+canadian	2
+execution	2
+albchem		1
+status		1
+send		1
+hunter		1
+garden		1
+sending		1
+files		1
+attached	1
+marie		1
+draft		1
+industries	1
+plaza		1
+sent		1
+resources	1
+mary		1
+city		1

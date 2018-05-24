@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+skean		2
+cn		2
+ferc		1
+physical	1
+recipients	1
+kean		1
+steven		1
+filename	1
+na		1
+markets		1
+privileged	1
+conducting	1
+people		1
+non		1
+enron		1
+staff		1
+pstjerry	1
+one		1
+financial	1
+seminar		1
+ou		1
+mercatus	1

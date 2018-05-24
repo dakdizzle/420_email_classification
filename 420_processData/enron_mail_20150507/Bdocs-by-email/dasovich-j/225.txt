@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+best		2
+paths		1
+loss		1
+gain		1
+soon		1
+hope		1
+enron		1
+centrica	1
+jeff		1
+cross		1
+certainl	1
+again		1
+pleasure	1
+luck		1
+very		1

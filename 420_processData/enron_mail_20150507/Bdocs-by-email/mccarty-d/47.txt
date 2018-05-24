@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+m		1
+thinking	1
+easily		1
+prefer		1
+revenue		1
+shelley		1
+dan		1

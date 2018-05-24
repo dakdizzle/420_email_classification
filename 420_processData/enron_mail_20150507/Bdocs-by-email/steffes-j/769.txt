@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+together	1
+potential	1
+da		1
+charged		1
+try		1
+surcharges	1
+continue	1
+pull		1
+properly	1
+jim		1
+facts		1
+gets		1
+book		1
+buckets		1
+ensure		1
+marked		1
+surrounding	1

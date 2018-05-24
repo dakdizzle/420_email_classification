@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+dana		1
+approach	1
+moving		1
+larry		1
+talk		1
+scheduling	1
+chance		1
+kevin		1
+request		1
+hi		1
+over		1

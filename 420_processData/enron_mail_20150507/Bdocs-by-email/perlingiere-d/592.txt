@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+cn		2
+gnemec		1
+enron		1
+nemec		1
+recipients	1
+ou		1
+na		1
+gerald		1

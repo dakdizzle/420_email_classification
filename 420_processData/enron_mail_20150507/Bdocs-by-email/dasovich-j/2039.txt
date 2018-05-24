@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+ll		2
+monday		1
+mark		1
+dwr		1
+up		1
+shoot		1
+livermore	1
+sf		1
+tuesday		1
+east		1
+sacramento	1
+miles		1
+good		1
+jeff		1
+best		1
+firday		1
+set		1

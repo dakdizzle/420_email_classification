@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+mcash		2
+cn		2
+cash		1
+leave		1
+recipients	1
+filename	1
+na		1
+alone		1
+privileged	1
+psti		1
+non		1
+agree		1
+enron		1
+best		1
+ou		1
+michelle	1

@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+presentation	2
+want		2
+group		1
+pipes		1
+board		1
+busy		1
+anyone		1
+list		1
+priority	1
+services	1
+global		1
+everyone	1
+sure		1
+doing		1

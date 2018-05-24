@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+group		1
+early		1
+hunter		1
+liz		1
+left		1
+disappointed	1
+messaging	1
+instant		1
+deirdre		1
+var		1
+using		1
+here		1
+needs		1

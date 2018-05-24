@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+posted		1
+both		1
+kim		1
+paul		1
+cellular	1
+reached		1
+one		1
+calling		1
+tk		1
+lindy		1
+week		1

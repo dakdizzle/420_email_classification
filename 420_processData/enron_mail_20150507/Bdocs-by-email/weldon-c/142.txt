@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+long		1
+basis		1
+numbers		1
+sorry		1
+joan		1
+took		1
+here		1

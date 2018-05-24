@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+thepage		1
+vince		1
+message		1
+available	1
+line		1
+approve		1
+system		1
+access		1
+request		1
+kaminski	1

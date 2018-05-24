@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+probably	2
+around		1
+pay		1
+sell		1
+below		1
+new		1

@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+meeting		2
+know		2
+tomorrowlouise	1
+case		1
+officerenron	1
+chicago		1
+fax		1
+operating	1
+up		1
+john		1
+information	1
+meetings	1
+missing		1
+kitchenchief	1
+found		1
+such		1
+follow		1
+americastel	1
+please		1
+needed		1

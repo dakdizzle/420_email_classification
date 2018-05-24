@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+worth		1
+nice		1
+events		1
+cheap		1
+rick		1
+know		1
+aren		1
+note		1
+thanks		1

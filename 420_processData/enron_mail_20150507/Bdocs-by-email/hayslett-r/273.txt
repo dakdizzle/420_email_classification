@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ok		1
+check		1
+stan		1
+want		1
+think		1

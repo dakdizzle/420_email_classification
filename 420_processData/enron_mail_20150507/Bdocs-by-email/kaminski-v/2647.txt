@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+cn		2
+vasant		2
+vshanbh		1
+enron		1
+recipients	1
+ou		1
+na		1
+shanbhogue	1
+fyivince	1

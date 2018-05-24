@@ -1,0 +1,21 @@
+NumWords	24
+NumTerms	18
+
+ect		2
+default		2
+rakesh		2
+hou		2
+vince		2
+kaminski	2
+pm		1
+martingale	1
+bharati		1
+getting		1
+forwarded	1
+pmto		1
+enron		1
+ectcc		1
+probability	1
+subject		1
+probabilityvince	1
+based		1

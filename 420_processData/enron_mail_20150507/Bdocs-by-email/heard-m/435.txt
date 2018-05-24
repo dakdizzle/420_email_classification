@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+file		2
+cn		2
+mheard		2
+heard		1
+wayne		1
+gtc		1
+marie		1
+recipients	1
+blue		1
+copies		1
+filename	1
+na		1
+psttracy	1
+thanks		1
+confirm		1
+privileged	1
+networks	1
+non		1
+enron		1
+drawer		1
+bottom		1
+ou		1

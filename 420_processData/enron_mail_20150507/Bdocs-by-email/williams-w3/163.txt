@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+kathy		1
+pm		1
+day		1
+meet		1
+earlier		1
+later		1
+tuesday		1
+thanks		1
+regarding	1
+bill		1
+available	1
+idea		1
+britt		1

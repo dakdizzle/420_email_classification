@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+confusion	1
+meeting		1
+apreviously	1
+scott		1
+staff		1
+unfortunately	1
+sarah		1
+scheduled	1
+sorry		1
+attend		1
+neal		1
+unable		1

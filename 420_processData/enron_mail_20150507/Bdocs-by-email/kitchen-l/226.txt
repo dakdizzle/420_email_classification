@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+th		3
+marcus		1
+seen		1
+first		1
+day		1
+scott		1
+family		1
+time		1
+embassy		1
+green		1
+afternoon	1
+cardso		1

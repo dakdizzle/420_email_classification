@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+put		1
+down		1
+ok		1
+fil		1
+s		1
+chic		1

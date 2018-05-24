@@ -1,0 +1,14 @@
+NumWords	14
+NumTerms	11
+
+rafael		2
+pm		2
+herrera		2
+ubspainewebber	1
+appt		1
+please		1
+know		1
+need		1
+prefer		1
+calendar	1
+com		1

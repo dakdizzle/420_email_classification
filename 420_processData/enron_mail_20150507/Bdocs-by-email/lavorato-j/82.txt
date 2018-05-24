@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+compressor	1
+point		1
+look		1
+less		1
+deals		1
+one		1
+busy		1
+service		1

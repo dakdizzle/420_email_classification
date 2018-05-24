@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ready		1
+mail		1
+sure		1
+call		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+out		1
+m		1
+war		1
+civil		1
+checking	1
+sold		1

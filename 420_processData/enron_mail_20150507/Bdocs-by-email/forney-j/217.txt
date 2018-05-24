@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+out		1
+check		1
+juan		1
+jmf		1

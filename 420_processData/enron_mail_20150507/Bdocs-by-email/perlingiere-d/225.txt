@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+email		1
+send		1
+make		1
+exhibit		1
+revisions	1
+oversight	1
+concerning	1
+thanks		1
+noted		1
+many		1
+please		1
+disregard	1
+previous	1
+agreement	1
+execution	1
+debra		1

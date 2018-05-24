@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+vince		1
+risk		1
+project		1
+scope		1
+enterprise	1
+management	1
+cassandra	1
+wide		1
+outline		1

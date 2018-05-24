@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+reply		1
+end		1
+sending		1
+know		1
+reached		1
+response	1
+mails		1
+puts		1
+m		1
+enron		1
+again		1
+automatically	1
+don		1

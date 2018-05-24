@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+mar		1
+open		1
+make		1
+guessing	1
+season		1
+know		1
+dth		1
+dungannon	1
+rate		1
+nov		1
+zl		1
+m		1
+sell		1
+want		1
+one		1
+another		1
+work		1
+max		1
+sure		1
+apr		1
+oct		1
+here		1

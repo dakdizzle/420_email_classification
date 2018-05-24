@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+john		1
+unsuspecting	1
+ect		1
+phil		1
+hou		1
+liked		1
+kim		1
+pmto		1
+enron		1
+ward		1
+pawned		1
+arnold		1
+ectcc		1
+subject		1
+more		1
+palatesfrom	1
+maybe		1
+sophisticated	1
+coworker	1
+enronxgate	1

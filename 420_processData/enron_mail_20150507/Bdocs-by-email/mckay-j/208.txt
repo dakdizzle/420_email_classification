@@ -1,0 +1,13 @@
+NumWords	13
+NumTerms	10
+
+day		2
+index		2
+offered		2
+mar		1
+regards		1
+cng		1
+jon		1
+nov		1
+dec		1
+feb		1

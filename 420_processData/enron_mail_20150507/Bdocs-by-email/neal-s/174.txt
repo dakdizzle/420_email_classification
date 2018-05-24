@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jeff		1
+leonidas	1
+saavas		1
+royed		1
+add		1

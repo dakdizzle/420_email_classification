@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+instant		1
+enron		1
+msn		1
+today		1
+ready		1
+messenger	1

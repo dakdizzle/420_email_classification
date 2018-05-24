@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+via		1
+email		1
+scott		1
+office		1
+come		1
+thank		1
+go		1
+contact		1
+ahead		1
+susan		1
+address		1
+decided		1

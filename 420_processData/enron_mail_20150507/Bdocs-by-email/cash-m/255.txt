@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+send		1
+please		1
+short		1
+janice		1
+michelle	1
+form		1
+priddy		1
+blank		1
+thanks		1

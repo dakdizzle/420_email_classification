@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+lessons		1
+email		1
+longhorn	1
+up		1
+consistently	1
+austin		1
+wanted		1
+money		1
+sounds		1
+hook		1
+celebration	1
+see		1
+take		1
+gambling	1
+lose		1
+gamble		1
+need		1
+address		1
+tristan		1

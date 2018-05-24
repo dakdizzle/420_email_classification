@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+cell		1
+msn		1
+fourknees	1
+jmf		1
+number		1
+com		1

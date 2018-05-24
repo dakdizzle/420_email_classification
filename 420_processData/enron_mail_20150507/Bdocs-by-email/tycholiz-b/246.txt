@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+please		2
+ensure		2
+expenses	1
+handle		1
+today		1
+bt		1
+current		1
+processed	1
+thanks		1

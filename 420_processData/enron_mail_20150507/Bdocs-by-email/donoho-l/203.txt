@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+revised		1
+sheet		1
+wouldn		1
+know		1
+go		1
+one		1
+faxed		1
+sorry		1
+print		1
+think		1

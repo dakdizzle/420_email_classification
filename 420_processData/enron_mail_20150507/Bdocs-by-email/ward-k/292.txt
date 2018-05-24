@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+term		2
+counterparties	1
+place		1
+short		1
+attached	1
+transact	1
+thanks		1
+morning		1
+kim		1
+long		1
+attempt		1
+contracts	1
+need		1
+discussing	1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+mrkt		1
+looking		1
+selling		1
+producer	1
+production	1
+data		1
+stabilizes	1
+expect		1

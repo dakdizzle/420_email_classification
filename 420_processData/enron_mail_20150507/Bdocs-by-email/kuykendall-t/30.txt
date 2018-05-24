@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+email		1
+first		1
+send		1
+takes		1
+directs		1
+page		1
+time		1
+permission	1
+sight		1
+view		1

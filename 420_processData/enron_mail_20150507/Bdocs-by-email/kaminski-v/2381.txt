@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+utexas		1
+ehudfyivince	1
+edu		1
+eronn		1
+mail		1

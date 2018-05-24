@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+vince		2
+stock		1
+shirleyplz	1
+zimin		1
+angelika	1
+well		1
+know		1
+price		1
+workshop	1
+kaminski	1

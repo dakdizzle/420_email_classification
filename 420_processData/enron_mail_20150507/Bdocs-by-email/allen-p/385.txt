@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+october		1
+permit		1
+variance	1
+phillip		1
+th		1
+application	1
+bob		1
+states		1
+building	1
+inspector	1
+constitute	1
+discussions	1
+rejected	1
+applied		1
+denial		1

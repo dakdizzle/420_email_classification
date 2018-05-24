@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+good		1
+coffee		1
+idea		1
+yep		1
+jmf		1

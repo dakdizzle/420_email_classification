@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+understood	1
+kayne		1
+working		1
+kay		1
+help		1
+think		1
+mdea		1
+through		1
+needs		1

@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+detail		2
+chart		1
+well		1
+portland	1
+plant		1
+fyi		1
+bar		1
+click		1
+outages		1
+use		1
+double		1
+code		1
+characteristics	1
+website		1
+similar		1
+allows		1

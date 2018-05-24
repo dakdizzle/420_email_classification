@@ -1,0 +1,20 @@
+NumWords	36
+NumTerms	17
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+dunton		1
+fchang		1
+postlethwaite	1
+john		1
+slaw		1
+chang		1
+samantha	1
+hdunton		1
+heather		1
+fran		1
+jpostle		1
+law		1

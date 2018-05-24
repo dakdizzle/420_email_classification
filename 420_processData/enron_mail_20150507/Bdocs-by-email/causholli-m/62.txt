@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+appointment	1
+made		1
+andrea		1
+monika		1
+thanks		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+keeps		1
+leaving		1
+john		1
+roll		1
+trying		1
+bob		1
+don		1
+stack		1
+date		1

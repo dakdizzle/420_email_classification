@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+yd		1
+pal		1
+ive		1
+name		1
+weekend		1
+line		1
+game		1
+think		1
+seat		1

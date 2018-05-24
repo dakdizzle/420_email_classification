@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+monday		1
+early		1
+visit		1
+up		1
+hopefully	1
+sight		1
+guys		1
+supposed	1
+review		1
+projector	1
+system		1
+hook		1
+home		1
+sound		1
+entertainment	1
+week		1
+requirements	1
+next		1

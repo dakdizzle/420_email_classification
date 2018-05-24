@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+andy		1
+monica		1
+section		1
+information	1
+added		1
+forwards	1

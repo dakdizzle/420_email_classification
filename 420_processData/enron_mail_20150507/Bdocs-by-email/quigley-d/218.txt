@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+dq		1
+make		1
+time		1
+passed		1
+guys		1
+grandmother	1
+away		1
+next		1
+yesterday	1

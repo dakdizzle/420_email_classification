@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+kevin		2
+sign		2
+initial		2
+originals	1
+ask		1
+marie		1
+pages		1
+kidding		1
+mad		1
+thanks		1
+really		1
+down		1
+m		1
+boy		1
+run		1
+tell		1
+signature	1
+going		1
+town		1
+thought		1
+ll		1
+here		1

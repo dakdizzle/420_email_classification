@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+both		1
+agressive	1
+put		1
+win		1
+bid		1
+gave		1
+short		1
+pool		1
+tomorrow	1
+jmf		1
+think		1

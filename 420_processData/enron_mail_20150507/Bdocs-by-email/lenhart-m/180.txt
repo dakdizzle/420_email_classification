@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+matthew		2
+vey		1
+pstoy		1
+lenhart		1
+lenhartx	1
+filename	1

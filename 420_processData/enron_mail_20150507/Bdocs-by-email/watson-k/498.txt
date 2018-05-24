@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+discuss		1
+items		1
+jodi		1
+see		1
+help		1
+thanks		1
+call		1
+kim		1
+room		1
+list		1
+please		1
+data		1
+give		1
+here		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+put		1
+pls		1
+file		1
+swepco		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+case		1
+happened	1
+being		1
+nepco		1
+handled		1

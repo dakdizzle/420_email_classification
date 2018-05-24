@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+full		1
+those		1
+m		1
+near		1
+planes		1
+part		1
+sure		1
+brutal		1
+yah		1

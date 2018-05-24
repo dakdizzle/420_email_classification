@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+mark		1
+good		1
+job		1
+come		1
+funds		1
+saw		1
+keep		1
+night		1
+going		1
+last		1
+bt		1

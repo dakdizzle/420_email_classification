@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+second		1
+confusion	1
+section		1
+draft		1
+sorry		1
+correct		1
+agreement	1

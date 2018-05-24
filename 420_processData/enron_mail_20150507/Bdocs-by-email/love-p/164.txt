@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+list		2
+send		1
+pl		1
+sending		1
+russ		1
+netco		1
+thanks		1
+people		1
+sitara		1
+need		1
+traders		1
+access		1
+mind		1

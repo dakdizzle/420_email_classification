@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+know		2
+things		1
+standards	1
+way		1
+capture		1
+articulate	1
+change		1
+michelle	1
+criteria	1
+use		1
+business	1
+reasons		1
+solid		1
+fact		1
+using		1
+based		1
+explain		1
+doesn		1

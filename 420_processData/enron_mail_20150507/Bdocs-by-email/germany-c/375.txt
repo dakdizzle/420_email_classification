@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+info		1
+via		1
+email		1
+people		1
+send		1
+different	1
+selling		1
+friday		1
+dth		1
+forward		1
+price		1
+thanks		1

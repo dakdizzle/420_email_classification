@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+officerenron	1
+fax		1
+americastel	1
+operating	1
+index		1
+http		1
+skihomerental	1
+www		1
+kitchenchief	1
+htmlouise	1
+com		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+wow		1
+starting	1
+personal	1
+pay		1
+resigns		1
+reasons		1
+skilling	1
+move		1
+patented	1
+cd		1

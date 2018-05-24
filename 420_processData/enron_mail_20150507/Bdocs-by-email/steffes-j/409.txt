@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+much		1
+leslie		1
+done		1
+lately		1
+talk		1
+arizona		1
+lawner		1
+pat		1
+haven		1
+keene		1

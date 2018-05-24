@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+blackberry	2
+early		1
+appt		1
+net		1
+carry		1
+wireless	1
+handheld	1
+woukd		1
+www		1
+fine		1
+dr		1
+sent		1
+assignment	1
+nedd		1
+give		1
+otherwise	1

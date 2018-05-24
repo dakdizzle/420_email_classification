@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+wedding		1
+mc		1
+whether		1
+going		1
+decided		1

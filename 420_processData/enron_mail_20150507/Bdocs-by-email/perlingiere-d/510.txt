@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+wmbe		1
+below		1
+agreement	1
+see		1
+requested	1
+daren		1

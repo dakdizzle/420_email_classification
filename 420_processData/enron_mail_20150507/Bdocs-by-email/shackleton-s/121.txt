@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kim		1
+further		1
+sara		1
+questions	1
+attachement	1
+contact		1
+theriot		1
+see		1

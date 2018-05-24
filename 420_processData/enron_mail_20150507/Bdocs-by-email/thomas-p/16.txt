@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+rebecca		1
+know		1
+paulx		1
+differences	1
+see		1

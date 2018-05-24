@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+sent		1
+marchs		1
+trades		1
+kori		1
+bot		1
+s		1
+dec		1
+feb		1
+sold		1

@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+visit		3
+nasim		2
+khan		2
+subject		2
+early		1
+time		1
+stanley		1
+know		1
+houston		1
+th		1
+afternoon	1
+wish		1
+youstan		1
+regards		1
+enroncc		1
+matter		1
+possible	1
+please		1
+amto		1
+work		1
+transredes	1
+horton		1

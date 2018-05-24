@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ipayit		1
+unpaid		1
+invoice		1
+signed		1
+impossible	1
+before		1
+tom		1
+addressed	1
+never		1
+yesterday	1

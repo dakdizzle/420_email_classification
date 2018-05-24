@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+confusion	1
+susan		1
+sorry		1
+help		1
+thanks		1

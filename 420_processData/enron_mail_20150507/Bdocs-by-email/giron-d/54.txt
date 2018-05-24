@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+enjoy		1
+sappy		1
+dg		1
+pretty		1
+think		1

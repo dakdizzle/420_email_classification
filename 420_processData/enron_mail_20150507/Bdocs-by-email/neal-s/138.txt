@@ -1,0 +1,20 @@
+NumWords	22
+NumTerms	17
+
+neal		4
+scott		3
+time		1
+response	1
+sorry		1
+late		1
+filename	1
+folder		1
+great		1
+pstcolton	1
+sent		1
+version		1
+origin		1
+itemsx		1
+mime		1
+sx		1
+attend		1

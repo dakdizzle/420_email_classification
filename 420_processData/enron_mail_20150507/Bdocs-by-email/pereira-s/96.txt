@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+changed		1
+pricing		1
+stevens		1
+tricia		1
+susan		1
+rate		1
+problem		1
+see		1
+ve		1
+anything	1
+transport	1
+emailed		1
+fuel		1
+don		1
+average		1
+think		1

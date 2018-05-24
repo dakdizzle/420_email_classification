@@ -1,0 +1,12 @@
+NumWords	13
+NumTerms	9
+
+language	3
+sp		2
+np		2
+spread		1
+use		1
+eol		1
+same		1
+transact	1
+kevin		1

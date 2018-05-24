@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+tj		1
+fletch		1
+balance		1
+current		1

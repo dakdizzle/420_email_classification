@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+fatal		1
+something	1
+annie		1
+ain		1
+poor		1
+idea		1
+sure		1
+pepcid		1

@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+make		1
+compression	1
+further		1
+enter		1
+know		1
+lisa		1
+parties		1
+fine		1
+defintive	1
+red		1
+anything	1
+services	1
+please		1
+language	1
+changes		1
+change		1
+highlighted	1
+need		1
+agreement	1
+read		1

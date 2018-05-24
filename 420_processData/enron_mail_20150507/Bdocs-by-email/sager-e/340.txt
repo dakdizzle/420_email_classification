@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+greg		2
+end		1
+back		1
+name		1
+johnston	1
+same		1
+feed		1
+thanks		1

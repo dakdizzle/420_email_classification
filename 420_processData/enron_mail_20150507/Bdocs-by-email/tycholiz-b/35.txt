@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+denver		2
+home		1
+office		1
+until		1
+houston		1
+drove		1
+occured		1
+attacks		1
+bt		1
+hours		1
+thurs		1
+afternoon	1

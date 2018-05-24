@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+home		2
+kim		1
+m		1
+sick		1
+caroline	1
+work		1
+chad		1
+stayed		1
+phone		1
+planning	1
+afternoon	1
+ll		1

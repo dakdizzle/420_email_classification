@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+enron		2
+coming		1
+kitchen		1
+comx		1
+tammie		1
+filename	1
+colwell		1
+privileged	1
+lkitchen	1
+non		1
+lx		1
+pstwoopsanother	1
+origin		1
+minutes		1
+schoppe		1
+wes		1
+com		1

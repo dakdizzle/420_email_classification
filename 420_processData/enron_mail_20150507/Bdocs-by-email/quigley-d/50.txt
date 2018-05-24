@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+need		3
+mount		2
+order		1
+ina		1
+under		1
+shoulder	1
+donedutch	1
+know		1
+things		1
+desk		1
+divider		1
+left		1
+put		1
+associate	1
+desklet		1
+three		1
+program		1
+please		1
+line		1
+business	1
+cards		1
+rest		1
+tray		1
+through		1

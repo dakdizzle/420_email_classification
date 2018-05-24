@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+thanxchris	1
+send		1
+up		1
+swerzbin	1
+tim		1
+today		1
+web		1
+earlier		1
+site		1
+suggested	1
+url		1
+great		1
+mike		1
+spoke		1
+set		1
+access		1

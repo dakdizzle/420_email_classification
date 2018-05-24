@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+discuss		1
+questar		1
+together	1
+time		1
+today		1
+review		1
+later		1
+thanks		1
+oba		1
+kim		1
+sent		1
+bill		1
+chance		1
+hi		1

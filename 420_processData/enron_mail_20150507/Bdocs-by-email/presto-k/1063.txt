@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+kpresto		2
+cn		2
+presto		1
+job		1
+interested	1
+hourly		1
+scheduling	1
+recipients	1
+filename	1
+na		1
+kevin		1
+privileged	1
+non		1
+talking		1
+enron		1
+jt		1
+pstdana		1
+ou		1

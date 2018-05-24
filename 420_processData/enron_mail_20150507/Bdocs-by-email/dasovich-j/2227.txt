@@ -1,0 +1,17 @@
+NumWords	18
+NumTerms	14
+
+new		3
+customers	2
+west		2
+position	1
+supplemental	1
+themselves	1
+taken		1
+fyi		1
+ve		1
+notify		1
+upon		1
+appears		1
+notified	1
+large		1

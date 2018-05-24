@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+system		2
+put		2
+make		1
+copy		1
+socal		1
+counterparty	1
+pg		1
+etc		1
+names		1
+bt		1
+offsetting	1
+transactions	1
+check		1
+positions	1
+executed	1
+go		1
+change		1
+need		1
+going		1
+documents	1
+sure		1
+jay		1
+new		1

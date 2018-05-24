@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+phil		1
+wedding		1
+going		1
+carson		1

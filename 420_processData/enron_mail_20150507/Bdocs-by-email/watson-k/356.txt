@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+bullets		1
+kim		1
+tk		1
+finishing	1
+thanks		1

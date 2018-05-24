@@ -1,0 +1,13 @@
+NumWords	14
+NumTerms	10
+
+per		2
+contracts	2
+month		2
+sold		2
+cal		1
+mar		1
+bought		1
+nov		1
+dec		1
+feb		1

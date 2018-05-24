@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+inlet		1
+unwind		1
+l		1
+position	1
+vm		1
+book		1
+cook		1
+trade		1
+deal		1
+take		1

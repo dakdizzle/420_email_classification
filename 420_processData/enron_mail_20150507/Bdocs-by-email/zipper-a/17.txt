@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+intalking	1
+interested	1
+furthermore	1
+mr		1
+alexander	1
+frank		1

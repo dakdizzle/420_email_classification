@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+chitwood	1
+bring		1
+houston		1
+tx		1
+crt		1
+shirt		1
+threadgills	1
+saturday	1
+see		1

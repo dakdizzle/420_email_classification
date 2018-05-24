@@ -1,0 +1,27 @@
+NumWords	31
+NumTerms	24
+
+revenue		4
+mws		4
+congestion	2
+conversation	1
+thanksbill	1
+per		1
+kourtney	1
+williams	1
+filename	1
+transfer	1
+see		1
+path		1
+volume		1
+content		1
+encoding	1
+please		1
+questions	1
+follows		1
+volumes		1
+origin		1
+ectrt		1
+bitx		1
+mwstotal	1
+receive		1

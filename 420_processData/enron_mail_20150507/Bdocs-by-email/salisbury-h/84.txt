@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+afitzpat	1
+amy		1
+enron		1
+thank		1
+recipients	1
+ou		1
+attend		1
+na		1
+fitzpatrick	1

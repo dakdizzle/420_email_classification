@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+master		1
+status		1
+hey		1
+nicor		1
+enerchange	1
+firm		1

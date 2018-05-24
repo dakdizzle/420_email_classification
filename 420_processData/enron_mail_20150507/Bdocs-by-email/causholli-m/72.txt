@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+helpful		1
+danilo		1
+monika		1
+very		1
+thanks		1

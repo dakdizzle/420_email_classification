@@ -1,0 +1,11 @@
+NumWords	11
+NumTerms	8
+
+year		4
+out		1
+greg		1
+prices		1
+list		1
+october		1
+jon		1
+here		1

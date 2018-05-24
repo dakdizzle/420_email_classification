@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ask		1
+go		1
+michelle	1
+attorney	1
+ahead		1
+call		1

@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+hours		2
+oct		2
+out		1
+appt		1
+dr		1
+rd		1

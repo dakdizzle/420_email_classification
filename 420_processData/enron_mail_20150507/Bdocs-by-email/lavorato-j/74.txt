@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+john		2
+deal		2
+ability		1
+amerex		1
+phone		1
+filename	1
+take		1
+out		1
+accept		1
+lavoratox	1
+execute		1
+kill		1
+psti		1
+jlavora		1
+having		1
+over		1

@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+video		2
+getting		2
+kim		1
+something	1
+palu		1
+ideas		1
+one		1
+portion		1
+conference	1
+rooms		1
+thanks		1

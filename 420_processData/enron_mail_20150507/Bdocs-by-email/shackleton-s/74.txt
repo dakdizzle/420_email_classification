@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+talk		2
+timetable	1
+mark		1
+utility		1
+service		1
+reasonable	1
+thx		1
+involved	1
+lawyers		1
+companies	1
+ss		1

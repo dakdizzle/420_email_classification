@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+those		1
+modified	1
+response	1
+fine		1
+haswell		1
+stone		1
+earliest	1
+jeff		1
+received	1
+convenience	1
+please		1
+bill		1
+answers		1
+forward		1
+mr		1
+still		1

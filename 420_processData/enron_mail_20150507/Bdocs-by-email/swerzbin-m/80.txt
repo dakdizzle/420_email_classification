@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+dr		1
+clackamas	1
+e		1
+blaine		1
+address		1

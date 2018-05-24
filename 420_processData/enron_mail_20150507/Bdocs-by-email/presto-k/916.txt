@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+hear		1
+something	1
+ignore		1
+signed		1
+going		1
+unless		1
+already		1
+mail		1
+otherwise	1

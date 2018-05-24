@@ -1,0 +1,21 @@
+NumWords	23
+NumTerms	18
+
+credit		2
+worksheet	2
+marie		2
+cn		2
+mheard		2
+heard		1
+recipients	1
+filename	1
+na		1
+privileged	1
+without		1
+non		1
+enron		1
+pstmike		1
+ou		1
+waiting		1
+proceed		1
+still		1

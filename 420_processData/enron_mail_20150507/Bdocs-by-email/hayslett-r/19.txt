@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+meeting		1
+scheduled	1
+before		1
+result		1

@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+gas		2
+out		2
+account		1
+paul		1
+kitchen		1
+ground		1
+days		1
+know		1
+steve		1
+guys		1
+frnaki		1
+anyway		1
+clay		1
+interruptible	1
+storage		1
+basin		1
+called		1
+ing		1
+sure		1

@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+exhibit		2
+regards		1
+make		1
+changes		1
+draft		1
+corrections	1
+mail		1
+include		1
+debra		1
+confused	1
+noted		1
+thanks		1

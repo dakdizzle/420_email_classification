@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+email		1
+ava		1
+expense		1
+thank		1
+report		1
+here		1

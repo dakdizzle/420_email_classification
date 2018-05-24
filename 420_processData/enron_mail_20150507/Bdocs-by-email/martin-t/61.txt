@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+scott		1
+starting	1
+vickers		1
+tbg		1
+four		1
+tom		1
+worked		1
+neal		1
+years		1
+matter		1
+suggest		1
+want		1
+probably	1
+haven		1
+frank		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+cash		1
+collateral	1
+amr		1
+use		1
+pjm		1

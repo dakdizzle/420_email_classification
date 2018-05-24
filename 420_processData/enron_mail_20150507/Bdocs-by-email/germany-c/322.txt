@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+moving		1
+time		1
+up		1
+working		1
+lost		1
+systems		1
+yesterday	1
+wrong		1
+something	1
+phones		1
+stood		1
+knew		1
+chair		1
+availabe	1
+though		1
+till		1
+lunch		1
+took		1
+movers		1

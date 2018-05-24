@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+regards		1
+talk		1
+chance		1
+hours		1
+reportdutch	1
+laura		1

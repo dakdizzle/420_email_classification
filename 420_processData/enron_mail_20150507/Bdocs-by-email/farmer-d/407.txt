@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+aol		2
+ec		1
+ok		1
+messenger	1
+confirm		1
+instant		1
+dfarmer		1
+enron		1
+bfade		1
+newman		1
+dcf		1
+c		1
+oscar		1
+com		1
+ee		1

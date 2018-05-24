@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+snafu		1
+m		1
+hey		1
+hotel		1
+tomorrow	1
+barring		1
+gang		1
+sue		1
+see		1
+think		1
+ll		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+way		1
+great		1
+go		1
+weekend		1
+lose		1

@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cn		2
+jeff		2
+latest		1
+make		1
+up		1
+recipients	1
+na		1
+richter		1
+soon		1
+two		1
+enron		1
+best		1
+ou		1
+jrichte		1
+sure		1
+week		1
+date		1
+ll		1
+next		1

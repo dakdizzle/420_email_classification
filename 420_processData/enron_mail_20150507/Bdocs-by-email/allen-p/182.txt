@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+pm		1
+jacques		1
+today		1
+work		1
+phillip		1
+permits		1
+later		1
+schedule	1

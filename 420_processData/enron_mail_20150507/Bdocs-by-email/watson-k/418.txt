@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+floor		1
+lonely		1
+thank		1
+th		1
+seeing		1
+face		1
+help		1
+thanks		1
+miss		1
+kim		1
+linda		1
+smiling		1
+here		1

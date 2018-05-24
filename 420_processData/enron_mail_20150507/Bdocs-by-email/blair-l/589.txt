@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+lynn		1
+info		1
+thinkpad	1
+know		1
+today		1
+ibm		1
+pc		1
+thanks		1
+portable	1
+please		1
+more		1
+need		1
+donna		1
+using		1

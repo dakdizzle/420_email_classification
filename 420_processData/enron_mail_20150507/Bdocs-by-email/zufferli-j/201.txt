@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+gave		1
+ladies		1
+reviewed	1
+ago		1
+weeks		1
+think		1
+resume		1

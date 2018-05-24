@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+please		1
+guys		1
+handled		1
+ensure		1
+regardsdelainey	1

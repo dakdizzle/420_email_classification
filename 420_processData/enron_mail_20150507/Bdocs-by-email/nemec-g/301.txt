@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+need		2
+body		1
+membership	1
+terminate	1
+effect		1
+shop		1

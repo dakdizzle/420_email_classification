@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+cpuc		1
+complaint	1
+bob		1
+file		1

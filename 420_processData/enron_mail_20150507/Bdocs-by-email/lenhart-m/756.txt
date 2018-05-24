@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+go		1
+depends		1
+week		1

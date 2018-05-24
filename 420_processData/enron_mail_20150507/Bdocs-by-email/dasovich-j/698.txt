@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ish		1
+dorothy		1
+percent		1
+net		1
+drothrock	1
+rothrock	1
+cmta		1

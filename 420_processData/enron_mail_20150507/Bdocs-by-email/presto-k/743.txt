@@ -1,0 +1,8 @@
+NumWords	7
+NumTerms	5
+
+free		2
+money		2
+enough		1
+contract	1
+referring	1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+settlement	1
+april		1
+l		1
+contracts	1
+buy		1
+nymex		1
+total		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+net		1
+oregon		1
+verizon		1
+platter		1

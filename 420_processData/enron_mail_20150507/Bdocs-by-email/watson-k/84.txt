@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+kim		1
+lake		1
+lou		1
+thanks		1

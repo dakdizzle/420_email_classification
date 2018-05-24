@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+lynn		1
+chart		1
+courtney	1
+copy		1
+hard		1
+larry		1
+wednesday	1
+sms		1
+appreciate	1
+omaha		1
+help		1
+thanks		1
+out		1
+office		1
+back		1
+tomorrow	1
+one		1
+line		1
+raetta		1

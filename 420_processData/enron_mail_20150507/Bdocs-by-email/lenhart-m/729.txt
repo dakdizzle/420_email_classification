@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+nice		1
+really		1
+smelling	1
+up		1
+end		1
+find		1
+need		1
+probably	1
+though		1
+oil		1
+doing		1

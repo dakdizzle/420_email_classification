@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+those		1
+powers		1
+stacey		1
+online		1
+know		1
+austin		1
+lost		1
+donnie		1
+remember	1
+pictures	1
+dressed		1
+received	1
+sure		1
+don		1

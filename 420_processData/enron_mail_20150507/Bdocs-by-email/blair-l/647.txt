@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lynn		1
+jim		1
+good		1
+idea		1
+thought		1
+thanks		1

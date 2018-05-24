@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+morning		1
+error		1
+position	1
+until		1
+tomorrow	1
+won		1
+deal		1
+entry		1

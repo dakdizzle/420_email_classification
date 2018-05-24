@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+homes		1
+pt		1
+town		1

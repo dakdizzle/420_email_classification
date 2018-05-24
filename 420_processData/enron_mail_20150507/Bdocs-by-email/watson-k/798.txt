@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+oneok		2
+steve		1
+gas		1
+mean		1
+ets		1
+issue		1
+releasing	1
+ann		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+discuss		1
+look		1
+please		1
+nikki		1

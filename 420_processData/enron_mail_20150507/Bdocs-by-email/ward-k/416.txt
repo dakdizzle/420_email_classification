@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+socal		1
+helpkim		1
+thanks		1
+border		1

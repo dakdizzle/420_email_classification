@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+format		2
+panel		1
+talk		1
+major		1
+incredibly	1
+pursued		1
+weak		1
+something	1
+really		1
+hope		1
+change		1
+again		1
+session		1
+year		1
+last		1
+thought		1
+don		1
+think		1
+frevert		1
+ll		1

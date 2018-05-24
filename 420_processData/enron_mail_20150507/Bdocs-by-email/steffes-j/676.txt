@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+ok		2
+dc		1
+ferc		1
+make		1
+support		1
+parties		1
+houston		1
+outlined	1
+bu		1
+cover		1
+jim		1
+uessing		1
+way		1
+team		1
+sarah		1
+going		1
+before		1
+town		1
+sure		1
+donna		1
+needs		1

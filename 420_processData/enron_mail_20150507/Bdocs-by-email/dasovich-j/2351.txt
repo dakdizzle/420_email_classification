@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+work		2
+email		1
+buddy		1
+day		1
+working		1
+today		1
+phone		1
+home		1
+easy		1
+m		1
+cell		1
+office		1
+jeff		1
+best		1
+reach		1
+going		1
+though		1
+imagine		1
+hang		1
+rest		1

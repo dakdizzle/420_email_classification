@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+something	1
+support		1
+logistics	1
+gas		1
+financial	1

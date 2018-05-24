@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+ll		3
+calls		2
+fear		1
+rise		1
+ability		1
+cindy		1
+stan		1
+random		1
+dan		1
+priority	1
+shouldn		1
+control		1
+screen		1
+eric		1
+lose		1
+level		1
+give		1
+mine		1

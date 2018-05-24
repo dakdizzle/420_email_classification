@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+word		2
+document	2
+thanks		2
+kim		1
+open		1
+send		1
+list		1
+convert		1
+trouble		1
+perferct	1
+katy		1
+sorry		1

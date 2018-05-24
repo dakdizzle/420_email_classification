@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+night		1
+plans		1
+last		1

@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+friday		2
+monday		1
+lawyer		1
+first		1
+day		1
+supporting	1
+following	1
+june		1
+murphy		1
+thanks		1
+employee	1
+enron		1
+training	1
+fyialice	1
+alice		1
+start		1
+harlan		1
+new		1
+st		1

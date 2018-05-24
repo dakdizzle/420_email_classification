@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+days		2
+haedicke	1
+mark		1
+greg		1
+further		1
+reduced		1
+mail		1
+deleted		1
+voice		1

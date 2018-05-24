@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+both		1
+plan		1
+attending	1
+stephanie	1
+panus		1

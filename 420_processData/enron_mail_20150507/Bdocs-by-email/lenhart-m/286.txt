@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+avs		1
+blues		1
+two		1
+good		1
+close		1
+games		1
+looked		1
+last		1
+haven		1
+tonight		1
+think		1

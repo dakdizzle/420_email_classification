@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+stacey		2
+full		1
+coming		1
+make		1
+well		1
+know		1
+name		1
+white		1
+hope		1
+enron		1
+back		1
+mail		1
+address		1
+sure		1
+doing		1
+don		1
+com		1

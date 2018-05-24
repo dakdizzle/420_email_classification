@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+heard		1
+true		1
+guys		1
+hiring		1
+rumor		1

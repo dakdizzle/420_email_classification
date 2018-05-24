@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+ela		1
+term		1
+find		1
+stx		1
+thanksjoe	1
+market		1
+trunk		1
+basis		1
+cant		1
+index		1
+need		1
+trunkline	1
+dec		1
+jun		1
+indications	1
+give		1

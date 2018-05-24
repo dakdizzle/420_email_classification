@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+fans		1
+ut		1
+out		1
+numbered	1
+whe		1

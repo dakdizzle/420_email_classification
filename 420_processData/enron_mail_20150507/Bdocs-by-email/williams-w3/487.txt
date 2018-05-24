@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+bill		1
+changes		1
+reminder	1
+called		1
+schedule	1

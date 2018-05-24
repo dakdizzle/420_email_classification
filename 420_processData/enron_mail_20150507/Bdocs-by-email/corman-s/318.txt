@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+morning		1
+few		1
+minutes		1
+meet		1

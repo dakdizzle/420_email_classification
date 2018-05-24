@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+group		1
+row		1
+anyone		1
+tix		1
+tonight		1
+sec		1

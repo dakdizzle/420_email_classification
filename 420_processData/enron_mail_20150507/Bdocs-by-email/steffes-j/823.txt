@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+fight		1
+appreciate	1
+decision	1
+proposed	1
+thoughts	1
+here		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+mark		1
+interview	1
+cftc		1
+page		1
+know		1
+attached	1
+york		1
+take		1
+retail		1
+look		1
+three		1
+swaps		1
+please		1
+prepared	1
+comments	1
+quick		1
+new		1
+summary		1

@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+chris		2
+cn		2
+dorland		2
+cowan		1
+deliviering	1
+peggy		1
+pstgrigs	1
+know		1
+ask		1
+jan		1
+far		1
+recipients	1
+filename	1
+na		1
+planning	1
+christmas	1
+good		1
+hope		1
+enron		1
+cdorlan		1
+back		1
+ou		1
+chrisps		1

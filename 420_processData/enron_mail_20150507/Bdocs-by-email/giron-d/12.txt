@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+gulf		1
+dg		1
+coast		1

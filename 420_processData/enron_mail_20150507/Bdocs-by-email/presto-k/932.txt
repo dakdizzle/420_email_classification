@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+please		1
+adjust		1
+calender	1
+thanks		1

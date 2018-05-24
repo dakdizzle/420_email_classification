@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+problems	1
+minethanks	1
+eric		1
+university	1
+logon		1
+having		1
+password	1

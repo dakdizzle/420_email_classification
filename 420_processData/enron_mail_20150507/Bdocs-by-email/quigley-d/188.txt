@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+golf		2
+stuff		1
+put		1
+bid		1
+weekendi	1
+again		1
+use		1
+balls		1
+knowdq		1
+always		1
+thanks		1

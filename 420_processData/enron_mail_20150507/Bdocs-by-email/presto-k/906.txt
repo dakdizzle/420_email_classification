@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+portfolio	2
+good		1
+enron		1
+options		1
+rename		1
+looks		1
+thanks		1
+properly	1
+valuing		1

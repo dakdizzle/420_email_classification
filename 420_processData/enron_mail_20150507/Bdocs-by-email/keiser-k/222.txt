@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ramesh		1
+john		1
+ready		1
+forward		1
+once		1
+valdes		1
+file		1

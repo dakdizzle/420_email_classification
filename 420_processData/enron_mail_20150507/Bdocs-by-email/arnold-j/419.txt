@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+funny		1
+well		1
+oh		1
+update		1
+nothing		1
+won		1
+ospraie		1
+banks		1
+thx		1
+deal		1

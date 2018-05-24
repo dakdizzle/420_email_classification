@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+inc		2
+merrill		2
+lynch		2
+pierce		1
+fenner		1
+cheryl		1
+futures		1
+acquisition	1
+global		1
+verify		1
+below		1
+smith		1

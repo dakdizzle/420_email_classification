@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+clay		1
+walker		1
+again		1
+tickets		1
+thanks		1

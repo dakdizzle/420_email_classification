@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+kim		1
+enron		1
+cammi		1
+mursch		1
+authorizing	1
+mail		1
+asked		1
+jmf		1
+extension	1
+thanks		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+care		1
+well		1
+taken		1
+dg		1

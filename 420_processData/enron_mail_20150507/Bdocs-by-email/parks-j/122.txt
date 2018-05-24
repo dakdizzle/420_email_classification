@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+morning		1
+sometime	1

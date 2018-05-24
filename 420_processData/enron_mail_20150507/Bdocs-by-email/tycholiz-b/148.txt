@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+please		1
+circulation	1
+removed		1
+bt		1
+longer		1

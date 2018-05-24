@@ -1,0 +1,24 @@
+NumWords	29
+NumTerms	21
+
+enron		3
+ect		2
+weldon		2
+hou		2
+charles		2
+eric		2
+corp		2
+upromise	1
+pm		1
+savings		1
+planhttp	1
+www		1
+moon		1
+america		1
+forwarded	1
+ectcc		1
+north		1
+subject		1
+boyt		1
+com		1
+college		1

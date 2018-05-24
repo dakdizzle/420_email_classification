@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+meeting		2
+jim		1
+monday		1
+evening		1
+derrick		1
+attend		1
+tuesday		1

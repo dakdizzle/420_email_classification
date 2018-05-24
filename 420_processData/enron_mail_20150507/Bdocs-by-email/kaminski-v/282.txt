@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+floor		1
+pak		1
+today		1
+th		1
+meet		1
+executive	1
+vince		1
+shall		1
+ho		1
+ziminwe		1
+dining		1
+extension	1
+roomon		1

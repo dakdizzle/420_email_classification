@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+mlokay		2
+cn		2
+course		1
+recipients	1
+tuesday		1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+pstof		1
+ou		1
+michelle	1
+lokay		1

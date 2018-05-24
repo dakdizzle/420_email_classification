@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+tremendous	1
+guys		1
+buy		1
+service		1
+provide		1
+help		1
+thanks		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+kim		1
+ith		1
+time		1
+try		1
+dates		1
+conflicts	1
+more		1
+future		1
+schedule	1
+ll		1
+thanks		1

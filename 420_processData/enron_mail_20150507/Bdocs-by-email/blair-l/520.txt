@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lynn		1
+effort		1
+well		1
+response	1
+mike		1
+quick		1
+help		1
+thanks		1

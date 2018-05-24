@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+letter		2
+revisions	1
+know		1
+rakhi		1
+questions	1
+sign		1
+attached	1
+neyman		1
+mr		1

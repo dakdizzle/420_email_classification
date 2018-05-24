@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+cn		2
+ok		1
+jean		1
+final		1
+attached	1
+letter		1
+recipients	1
+na		1
+wiring		1
+version		1
+mrha		1
+enron		1
+ou		1
+instructions	1
+jmrha		1

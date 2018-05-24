@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+horns		1
+wear		1
+go		1
+buck		1
+play		1
+doesn		1

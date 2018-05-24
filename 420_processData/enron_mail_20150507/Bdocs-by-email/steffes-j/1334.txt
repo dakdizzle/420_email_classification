@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+mail		2
+jim		1
+information	1
+please		1
+referenced	1
+chip		1
+call		1
+voice		1

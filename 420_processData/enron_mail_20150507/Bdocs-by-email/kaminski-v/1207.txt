@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+vkaminsvince	1
+shirley		1

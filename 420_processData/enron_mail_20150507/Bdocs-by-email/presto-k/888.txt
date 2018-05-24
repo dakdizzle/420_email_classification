@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+replacement	2
+required	1
+meeting		1
+until		1
+hired		1
+find		1
+thanks		1

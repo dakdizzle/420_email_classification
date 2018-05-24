@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+group		1
+space		1
+please		1
+additional	1
+inundated	1
+erequests	1
+work		1
+mailbox		1
+longer		1

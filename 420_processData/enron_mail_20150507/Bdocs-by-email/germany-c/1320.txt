@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+wla		1
+fuels		1
+production	1
+nov		1
+dec		1
+apr		1
+marela		1
+area		1

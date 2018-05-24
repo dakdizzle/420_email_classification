@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+amsterdam	2
+continental	2
+warsaw		1
+fly		1
+airports	1
+long		1
+vince		1
+change		1
+another		1
+question	1
+london		1
+don		1
+flight		1
+rome		1
+through		1

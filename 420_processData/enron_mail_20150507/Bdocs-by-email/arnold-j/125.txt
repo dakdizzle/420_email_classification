@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+value		1
+company		1
+poolie		1

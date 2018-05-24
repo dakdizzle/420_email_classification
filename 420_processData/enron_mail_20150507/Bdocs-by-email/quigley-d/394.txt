@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+dquigle		2
+cn		2
+pstthis		1
+options		1
+today		1
+future		1
+recipients	1
+file		1
+filename	1
+na		1
+privileged	1
+dutch		1
+done		1
+crosses		1
+non		1
+enron		1
+ou		1
+contain		1
+quigley		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+anything	1
+heard		1
+more		1
+thanks		1

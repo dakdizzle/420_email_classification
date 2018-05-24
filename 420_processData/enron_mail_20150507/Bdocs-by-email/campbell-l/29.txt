@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+adorable	1
+mom		1
+take		1

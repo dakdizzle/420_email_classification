@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+rush		1
+probabilities	1
+hotlist		1
+thankslouise	1
+know		1
+deals		1

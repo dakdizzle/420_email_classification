@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+letter		2
+tracy		1
+send		1
+legislators	1
+draft		1
+refers		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lice		1
+come		1
+go		1
+school		1
+didn		1

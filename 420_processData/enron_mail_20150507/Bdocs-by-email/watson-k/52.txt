@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+ramona		2
+cn		2
+sit		1
+meeting		1
+tk		1
+recipients	1
+asked		1
+na		1
+betancourt	1
+rbetanc		1
+thanks		1
+ve		1
+kim		1
+enron		1
+ou		1
+lindy		1

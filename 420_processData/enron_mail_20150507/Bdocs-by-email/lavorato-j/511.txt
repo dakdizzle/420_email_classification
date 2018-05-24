@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+life		1
+wescan		1
+himlavo		1
+facts		1
+milly		1
+explain		1
+call		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+example		1
+send		1
+stacey		1

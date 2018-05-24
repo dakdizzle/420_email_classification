@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+day		2
+mark		1
+holiday		1
+down		1
+sick		1
+please		1
+friday		1
+vacation	1
+lindy		1
+hours		1
+thanks		1

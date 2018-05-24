@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+steve		1
+apparently	1
+contacting	1
+transmission	1
+ds		1
+regarding	1
+al		1
+hall		1
+contract	1
+already		1
+issue		1
+paske		1
+discussing	1

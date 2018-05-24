@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+word		1
+send		1
+scrambled	1
+format		1
+attachment	1

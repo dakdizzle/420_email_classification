@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+m		1
+office		1
+tomorrow	1
+won		1
+lindy		1
+sorry		1

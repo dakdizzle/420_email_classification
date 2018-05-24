@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+aol		1
+bennet		1
+steve		1
+com		1
+steveb		1

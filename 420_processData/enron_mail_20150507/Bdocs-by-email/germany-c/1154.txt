@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+finished	1
+risk		1
+one		1
+person		1
+management	1
+need		1
+mine		1

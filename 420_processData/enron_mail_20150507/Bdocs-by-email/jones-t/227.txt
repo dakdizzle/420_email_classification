@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+leslie		1
+per		1
+physical	1
+power		1
+above		1
+approve		1
+trade		1
+east		1
+puget		1
+ve		1
+list		1
+sound		1
+want		1
+approval	1
+below		1
+hansen		1
+note		1

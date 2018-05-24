@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+kitchen		2
+louise		2
+cn		2
+wireless	1
+handheld	1
+recipients	1
+blackberry	1
+filename	1
+na		1
+lkitchen	1
+sent		1
+pstok		1
+enron		1
+ou		1

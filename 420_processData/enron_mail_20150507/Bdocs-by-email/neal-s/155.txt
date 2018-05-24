@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+remind		1
+meeting		1
+please		1

@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+day		2
+two		1
+sick		1
+days		1
+vacation	1
+hour		1
+tuesday		1
+took		1

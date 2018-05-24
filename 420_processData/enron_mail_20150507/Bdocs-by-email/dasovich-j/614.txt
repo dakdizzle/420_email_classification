@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+concise		2
+little		1
+siting		1
+responded	1
+ca		1
+poking		1
+recall		1
+compatible	1
+seem		1
+around		1
+jef		1
+best		1
+simple		1
+back		1
+forgive		1
+already		1
+sure		1
+process		1
+doesn		1
+summary		1

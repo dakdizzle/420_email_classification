@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+la		2
+trk		2
+ferc		1
+per		1
+prices		1
+price		1
+high		1
+looks		1
+way		1
+great		1
+april		1
+inside		1
+appears		1
+trunkline	1
+tx		1
+goodpepl	1
+midlandanr	1
+average		1

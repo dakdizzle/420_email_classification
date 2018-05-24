@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+thursday	2
+discuss		1
+group		1
+make		1
+outlook		1
+recent		1
+meeting		1
+company		1
+tim		1
+th		1
+thanks		1
+call		1
+please		1
+bill		1
+changes		1
+dec		1

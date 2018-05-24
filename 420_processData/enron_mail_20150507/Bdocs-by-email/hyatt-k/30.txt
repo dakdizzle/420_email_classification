@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+taking		1
+kh		1
+signing		1
+jolly		1
+leaving		1
+interested	1
+someone		1
+retiring	1
+collection	1
+team		1
+enron		1
+jeff		1
+rich		1
+sure		1

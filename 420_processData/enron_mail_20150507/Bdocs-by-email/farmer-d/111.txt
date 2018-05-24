@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lee		1
+talk		1
+need		1
+papayoti	1
+gary		1
+lamphier	1

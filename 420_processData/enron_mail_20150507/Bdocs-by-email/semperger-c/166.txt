@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+semperger	2
+pstthis		1
+return		1
+poses		1
+sheet		1
+worldi		1
+cx		1
+filename	1
+transfer	1
+call		1
+content		1
+losses		1
+encoding	1
+history		1
+please		1
+origin		1
+problemcara	1
+smallest	1
+bitx		1
+cara		1
+over		1

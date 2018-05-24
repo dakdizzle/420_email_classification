@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+smart		1
+hexanes		1
+john		1
+know		1
+education	1
+thanks		1

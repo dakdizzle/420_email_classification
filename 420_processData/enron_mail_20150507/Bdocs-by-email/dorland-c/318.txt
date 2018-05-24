@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+snow		1
+before		1
+thanxhopefully	1
+chris		1
+falls		1
+sometime	1

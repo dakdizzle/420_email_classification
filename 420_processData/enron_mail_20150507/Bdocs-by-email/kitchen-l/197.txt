@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+spare		1
+moment		1
+schweiger	1
+assuming	1

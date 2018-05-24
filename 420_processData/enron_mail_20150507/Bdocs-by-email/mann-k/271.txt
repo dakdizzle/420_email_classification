@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+power		2
+certificate	2
+changed		1
+way		1
+execute		1
+language	1
+signed		1
+yes		1
+seemed		1
+someone		1
+reflect		1
+actually	1

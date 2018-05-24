@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+changed		1
+people		1
+cancelled	1
+need		1
+d		1
+address		1
+companies	1

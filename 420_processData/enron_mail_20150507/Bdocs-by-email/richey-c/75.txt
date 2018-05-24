@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+s		2
+residing	2
+citizen		2
+think		2
+forms		1
+cooper		1
+dawn		1
+attached	1
+advise		1
+houston		1
+u		1
+karen		1
+canada		1
+looks		1
+non		1
+list		1
+please		1
+buckley		1
+touch		1
+immigration	1
+based		1

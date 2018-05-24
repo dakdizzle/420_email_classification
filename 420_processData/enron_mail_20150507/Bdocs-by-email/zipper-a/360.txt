@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+value		1
+m		1
+finding		1
+customers	1
+corportae	1
+raj		1
+gratified	1
+service		1
+product		1
+see		1
+congrat		1
+talked		1

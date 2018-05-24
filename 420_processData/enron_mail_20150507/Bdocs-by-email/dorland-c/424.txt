@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+hope		1
+rid		1
+conditions	1
+signed		1
+now		1
+faxed		1
+cook		1
+release		1
+girlfriend	1
+getting		1

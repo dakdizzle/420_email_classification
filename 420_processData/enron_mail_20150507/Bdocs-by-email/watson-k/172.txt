@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+jean		1
+another		1
+fraud		1
+thanks		1

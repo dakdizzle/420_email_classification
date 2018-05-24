@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+row		1
+remember	1
+really		1
+good		1
+lowest		1
+seats		1
+cant		1
+section		1
+one		1
+within		1
+though		1
+baselines	1
+pretty		1

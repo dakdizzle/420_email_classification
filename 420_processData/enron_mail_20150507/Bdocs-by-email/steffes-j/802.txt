@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+bill		1
+last		1
+see		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+cn		2
+enron		1
+jrozycki	1
+recipients	1
+ou		1
+going		1
+rozycki		1
+na		1
+joanne		1

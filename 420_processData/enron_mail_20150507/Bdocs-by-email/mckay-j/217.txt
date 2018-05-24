@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+brad		1
+grant		1
+well		1
+future		1
+kam		1
+load		1
+curves		1
+thanks		1
+directory	1
+please		1
+jon		1
+absence		1
+set		1
+mckay		1
+access		1
+tds		1

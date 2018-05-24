@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+those		1
+used		1
+run		1
+york		1
+mayor		1
+blackmail	1
+new		1
+remember	1

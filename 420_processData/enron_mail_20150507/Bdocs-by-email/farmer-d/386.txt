@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+dfarmer		2
+cn		2
+deal		2
+pstisn		1
+farmer		1
+recipients	1
+reliant		1
+filename	1
+na		1
+ranch		1
+privileged	1
+daren		1
+pathed		1
+non		1
+enron		1
+ou		1
+king		1
+exxon		1

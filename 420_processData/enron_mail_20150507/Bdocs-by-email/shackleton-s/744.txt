@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+template	2
+isda		1
+yes		1

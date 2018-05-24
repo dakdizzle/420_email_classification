@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+mwhitt		2
+cn		2
+mark		1
+recipients	1
+filename	1
+na		1
+looks		1
+pst		1
+privileged	1
+good		1
+non		1
+enron		1
+one		1
+line		1
+ou		1
+added		1
+whitt		1
+otherwise	1

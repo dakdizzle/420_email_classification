@@ -1,0 +1,21 @@
+NumWords	24
+NumTerms	18
+
+enron		3
+cash		2
+sanders		2
+michelle	2
+com		2
+vote		1
+gave		1
+comx		1
+lisa		1
+robichaux	1
+filename	1
+privileged	1
+robert		1
+psti		1
+non		1
+origin		1
+rx		1
+richard		1

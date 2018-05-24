@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+jim		1
+jarmogi		1
+enron		1
+sara		1
+armogida	1
+recipients	1
+ou		1
+usual		1
+na		1
+help		1
+thanks		1

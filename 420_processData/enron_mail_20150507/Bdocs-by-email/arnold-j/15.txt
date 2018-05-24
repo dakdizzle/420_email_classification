@@ -1,0 +1,20 @@
+NumWords	21
+NumTerms	17
+
+hbs		2
+edu		2
+epao		2
+mba		2
+pao		1
+respond		1
+john		1
+course		1
+eva		1
+pmplease	1
+right		1
+enron		1
+arnold		1
+subject		1
+wait		1
+always		1
+com		1

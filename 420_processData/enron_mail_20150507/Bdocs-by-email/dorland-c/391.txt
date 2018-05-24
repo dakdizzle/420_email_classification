@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+miles		1
+base		1
+totally		1
+silver		1
+model		1
+black		1
+options		1
+loaded		1
+mine		1

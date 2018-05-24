@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+access		2
+beyond		1
+drive		1
+rectified	1
+d		1
+role		1
+don		1

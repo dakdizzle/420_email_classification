@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+send		1
+enron		1
+please		1
+yeung		1
+charles		1
+cyeung		1
+recipients	1
+ou		1
+na		1
+thanks		1
+summary		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+hear		1
+nice		1
+thanks		1

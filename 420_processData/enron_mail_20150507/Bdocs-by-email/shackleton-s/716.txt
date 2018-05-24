@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+eb		1
+fax		1
+friday		1
+ph		1
+street		1
+goldman		1
+nov		1
+wholesale	1
+services	1
+shackletonenron	1
+received	1
+executed	1
+sara		1
+ahouston	1
+tx		1
+smith		1
+agreement	1

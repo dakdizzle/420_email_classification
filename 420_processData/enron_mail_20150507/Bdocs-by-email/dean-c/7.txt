@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+entered		1
+manually	1
+scrape		1

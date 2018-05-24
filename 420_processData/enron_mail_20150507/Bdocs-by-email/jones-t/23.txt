@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lines		1
+fax		1
+numbers		1
+tell		1
+meet		1
+analog		1
+faxes		1

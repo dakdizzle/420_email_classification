@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+highly		1
+ability		1
+know		1
+now		1
+once		1
+meet		1
+years		1
+todd		1
+good		1
+guarantee	1
+charles		1
+several		1
+confident	1

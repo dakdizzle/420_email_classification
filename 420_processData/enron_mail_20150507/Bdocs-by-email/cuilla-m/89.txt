@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+paul		1
+dax		1
+land		1
+bill		1
+woodway		1
+tell		1
+houston		1
+guess		1
+tx		1
+address		1

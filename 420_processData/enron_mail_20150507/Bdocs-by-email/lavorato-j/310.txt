@@ -1,0 +1,18 @@
+NumWords	23
+NumTerms	15
+
+chair		4
+good		3
+arms		2
+bad		2
+news		2
+arm		1
+john		1
+specifically	1
+end		1
+room		1
+two		1
+dining		1
+luck		1
+broke		1
+side		1

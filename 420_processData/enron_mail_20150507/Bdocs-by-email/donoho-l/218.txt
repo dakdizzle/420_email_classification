@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+cn		2
+ldonoho		2
+volumes		2
+day		1
+usgt		1
+final		1
+west		1
+today		1
+recipients	1
+pstamy		1
+filename	1
+na		1
+total		1
+volume		1
+privileged	1
+confirmed	1
+non		1
+enron		1
+ctrcc		1
+donoho		1
+scheduled	1
+ou		1
+lindy		1
+including	1

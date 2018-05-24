@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+look		1
+man		1
+hottie		1

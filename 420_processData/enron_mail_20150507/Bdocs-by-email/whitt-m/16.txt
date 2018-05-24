@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+today		2
+knows		1
+make		1
+hired		1
+know		1
+paid		1
+tommorow	1
+problem		1
+expect		1
+gets		1
+started		1
+sure		1
+temp		1

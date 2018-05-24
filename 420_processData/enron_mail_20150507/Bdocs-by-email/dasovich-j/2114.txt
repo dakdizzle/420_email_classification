@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+soon		1
+jeff		1
+best		1
+back		1
+plants		1
+teh		1
+ll		1

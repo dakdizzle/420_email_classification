@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+marie		1
+want		1
+probably	1
+fine		1
+original	1

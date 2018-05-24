@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+discuss		1
+kim		1
+mansoor		1

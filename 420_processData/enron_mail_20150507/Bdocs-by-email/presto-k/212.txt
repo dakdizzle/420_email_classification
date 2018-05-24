@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+kpresto		2
+cn		2
+group		1
+direction	1
+presto		1
+support		1
+lavo		1
+risk		1
+recipients	1
+management	1
+filename	1
+na		1
+kevin		1
+delainey	1
+privileged	1
+retail		1
+psti		1
+non		1
+headed		1
+enron		1
+consistent	1
+ou		1
+whalley		1

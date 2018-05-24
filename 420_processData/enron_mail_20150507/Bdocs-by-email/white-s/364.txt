@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+first		1
+distribution	1
+stacey		1
+left		1
+sorry		1

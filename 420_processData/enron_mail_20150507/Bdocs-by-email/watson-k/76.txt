@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+thanks		2
+kwatson		2
+cn		2
+pstgreat	1
+baby		1
+keep		1
+recipients	1
+watson		1
+filename	1
+na		1
+privileged	1
+posted		1
+kim		1
+kimberly	1
+non		1
+enron		1
+krishna		1
+please		1
+ou		1
+shirley		1
+new		1

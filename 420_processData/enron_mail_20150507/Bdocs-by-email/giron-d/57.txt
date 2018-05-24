@@ -1,0 +1,25 @@
+NumWords	30
+NumTerms	22
+
+hou		4
+id		3
+news		3
+mlb		2
+story		1
+fc		1
+gxhc		1
+http		1
+gx		1
+schedule	1
+article		1
+team		1
+link		1
+collegeclassic	1
+session		1
+jsp		1
+af		1
+astros		1
+ad		1
+nasapp		1
+com		1
+here		1

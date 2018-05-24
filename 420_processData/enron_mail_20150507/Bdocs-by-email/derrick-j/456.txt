@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+notice		1
+waiver		1
+being		1
+david		1
+best		1
+signed		1
+faxed		1

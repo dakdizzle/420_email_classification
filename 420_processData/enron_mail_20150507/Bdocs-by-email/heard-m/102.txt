@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+look		1
+files		1
+counterparty	1
+know		1
+name		1

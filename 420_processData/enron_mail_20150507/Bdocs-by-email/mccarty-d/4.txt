@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+anything	1
+heard		1
+time		1
+progress	1
+quite		1
+dropped		1
+pacer		1
+dave		1
+haven		1
+dan		1

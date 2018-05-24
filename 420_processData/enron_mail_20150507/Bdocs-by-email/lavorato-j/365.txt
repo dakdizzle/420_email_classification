@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+peak		2
+curve		2
+send		1
+want		1
+cleaner		1
+year		1
+total		1
+summary		1

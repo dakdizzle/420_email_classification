@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+up		1
+hook		1
+number		1
+blast		1
+happened	1
+leather		1
+brown		1
+girl		1
+jacket		1
+night		1
+want		1
+though		1
+paige		1

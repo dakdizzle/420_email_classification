@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+cn		2
+jsteffe		2
+fax		1
+respond		1
+legal		1
+contact		1
+recipients	1
+filename	1
+na		1
+ees		1
+pstdavid	1
+privileged	1
+jim		1
+steffes		1
+non		1
+enron		1
+one		1
+james		1
+ou		1
+allegation	1
+mike		1
+smith		1

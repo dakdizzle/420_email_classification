@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+home		1
+full		1
+day		1
+today		1
+going		1
+agayea		1
+big		1

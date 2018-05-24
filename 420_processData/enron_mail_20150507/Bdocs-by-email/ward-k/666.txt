@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+tomarrow	1
+out		1
+work		1
+going		1
+dean		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+send		1
+evening		1
+johnny		1
+documentation	1
+speaking	1
+thanks		1

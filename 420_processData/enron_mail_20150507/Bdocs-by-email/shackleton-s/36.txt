@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+return		2
+day		2
+successful	1
+knows		1
+lynn		1
+hey		1
+details		1
+trip		1
+never		1
+survivor	1
+m		1
+hope		1
+fill		1
+sara		1
+one		1
+ll		1

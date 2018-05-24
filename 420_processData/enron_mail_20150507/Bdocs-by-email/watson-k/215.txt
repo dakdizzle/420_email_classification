@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+case		1
+affiliate	1
+message		1
+epng		1
+jo		1
+marketing	1
+thanks		1
+here		1

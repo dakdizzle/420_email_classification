@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+information	1
+hours		1
+total		1
+refaxed		1

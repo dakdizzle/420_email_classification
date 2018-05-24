@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+call		2
+jim		1
+morning		1
+ricardo		1
+today		1
+pls		1
+answer		1
+tried		1
+give		1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+energy		2
+clearing	1
+done		1
+prices		1
+agree		1
+reduces		1
+sense		1
+uplift		1
+going		1
+charges		1
+reduce		1

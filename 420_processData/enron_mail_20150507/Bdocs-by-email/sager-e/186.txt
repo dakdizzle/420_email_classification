@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+gf		1
+talk		1
+west		1
+cy		1
+reliant		1
+sh		1
+sager		1
+thankselizabeth	1
+request		1

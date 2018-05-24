@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+chris		2
+cn		2
+germany		2
+hear		1
+cgerman		1
+recipients	1
+unless		1
+sounds		1
+min		1
+filename	1
+na		1
+toss		1
+good		1
+enron		1
+pstthat		1
+ou		1
+ll		1

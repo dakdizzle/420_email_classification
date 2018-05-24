@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+posted		1
+ok		1
+john		1
+pulse		1
+ill		1
+keep		1
+hows		1
+doing		1
+thanks		1

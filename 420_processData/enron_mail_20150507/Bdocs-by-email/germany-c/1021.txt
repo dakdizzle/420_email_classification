@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+copy		2
+ena		2
+between		1
+fax		1
+looking		1
+files		1
+humbly		1
+copies		1
+see		1
+sweetie		1
+ces		1
+please		1
+agencies	1
+cem		1
+agreements	1
+yourschris	1
+agency		1

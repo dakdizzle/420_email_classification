@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+talk		1
+tonight		1
+think		1
+okay		1
+thanks		1

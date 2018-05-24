@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+holden		1
+opportunities	1
+amy		1
+interested	1
+thank		1

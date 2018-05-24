@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+express		1
+american	1
+please		1
+corporate	1
+cards		1
+file		1
+print		1
+thanks		1

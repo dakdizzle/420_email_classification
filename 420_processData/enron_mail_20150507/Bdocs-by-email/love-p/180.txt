@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+html		1
+http		1
+go		1
+espn		1
+news		1
+ncf		1
+com		1

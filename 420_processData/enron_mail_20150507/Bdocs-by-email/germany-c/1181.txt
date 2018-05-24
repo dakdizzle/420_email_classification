@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+rerun		1
+send		1
+invoice		1
+sorry		1
+thanks		1

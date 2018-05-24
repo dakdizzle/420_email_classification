@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+out		2
+m		2
+john		1
+ect		1
+guess		1
+kidding		1
+worked		1
+call		1
+getting		1
+hou		1
+kim		1
+pmto		1
+fair		1
+enron		1
+ward		1
+haircut		1
+arnold		1
+ectcc		1
+considering	1
+subject		1
+deal		1
+dean		1
+enronxgate	1
+ll		1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+com		2
+csbs		1
+ubspainewebber	1
+https		1
+html		1
+newlook		1
+stockoptions	1
+pw		1
+www		1
+painewebber	1
+cefs		1

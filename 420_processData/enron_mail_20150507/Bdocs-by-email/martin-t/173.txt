@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+discuss		1
+redmond		1
+send		1
+interested	1
+share		1
+desk		1
+interest	1
+tom		1
+another		1
+texans		1
+maybe		1
+mail		1
+don		1
+hockey		1
+think		1

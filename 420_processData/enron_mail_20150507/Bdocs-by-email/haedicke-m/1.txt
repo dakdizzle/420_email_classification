@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+mark		1
+list		1
+try		1
+recommendation	1
+akin		1
+gump		1

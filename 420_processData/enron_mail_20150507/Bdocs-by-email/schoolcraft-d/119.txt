@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ds		1
+out		1
+came		1
+want		1
+thought		1
+last		1
+read		1
+week		1

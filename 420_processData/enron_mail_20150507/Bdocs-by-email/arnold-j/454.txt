@@ -1,0 +1,27 @@
+NumWords	30
+NumTerms	24
+
+cash		4
+up		3
+go		2
+relative	1
+between		1
+first		1
+coming		1
+much		1
+moving		1
+easily		1
+december	1
+stronger	1
+nov		1
+spread		1
+without		1
+gets		1
+futures		1
+comes		1
+cent		1
+dec		1
+weeks		1
+think		1
+inclination	1
+over		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+meeting		1
+up		1
+heads		1
+rick		1
+know		1
+goes		1
+thanks		1

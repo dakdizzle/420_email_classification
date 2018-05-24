@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+cn		2
+kmann		2
+kay		2
+hear		1
+heard		1
+steve		1
+recipients	1
+filename	1
+na		1
+privileged	1
+anything	1
+psti		1
+non		1
+enron		1
+mann		1
+ou		1
+mike		1
+wait		1
+haven		1
+ll		1

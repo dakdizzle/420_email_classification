@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+comed		2
+jim		1
+legislation	1
+option		1
+open		1
+issues		1
+talk		1
+isn		1
+better		1

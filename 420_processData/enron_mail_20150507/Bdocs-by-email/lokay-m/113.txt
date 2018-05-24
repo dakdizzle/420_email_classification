@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+asp		1
+auctions	1
+auctiondetail	1
+http		1
+www		1
+dovebid		1
+auctionid	1
+com		1

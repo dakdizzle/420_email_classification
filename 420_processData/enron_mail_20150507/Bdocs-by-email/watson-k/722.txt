@@ -1,0 +1,24 @@
+NumWords	26
+NumTerms	21
+
+ll		3
+floor		2
+thanks		2
+three		2
+moving		1
+make		1
+placement	1
+looking		1
+plans		1
+slots		1
+consensus	1
+both		1
+kim		1
+soon		1
+room		1
+hope		1
+tentative	1
+come		1
+back		1
+made		1
+decision	1

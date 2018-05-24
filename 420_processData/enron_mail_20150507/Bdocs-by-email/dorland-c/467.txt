@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+belgium		2
+spellings	1
+power		1
+try		1
+know		1
+fat		1
+austin		1
+confuse		1
+reference	1
+confused	1
+good		1
+graces		1
+dip		1
+dumb		1
+back		1
+kid		1
+use		1
+called		1

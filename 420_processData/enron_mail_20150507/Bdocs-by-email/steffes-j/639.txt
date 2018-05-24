@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+make		1
+formally	1
+tally		1
+officials	1
+commissions	1
+running		1
+jim		1
+good		1
+issues		1
+list		1
+informally	1
+discussed	1
+sure		1
+sue		1

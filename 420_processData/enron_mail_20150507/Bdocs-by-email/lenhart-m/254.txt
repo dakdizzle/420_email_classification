@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+party		1
+chicago		1
+friday		1
+call		1
+out		1
+something	1
+rouge		1
+back		1
+bag		1
+go		1
+nothing		1
+again		1
+knew		1
+baton		1
+work		1
+maybe		1
+probably	1
+going		1
+week		1
+engagement	1
+saturday	1
+give		1
+next		1

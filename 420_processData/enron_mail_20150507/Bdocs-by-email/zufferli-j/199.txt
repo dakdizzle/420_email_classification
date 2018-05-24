@@ -1,0 +1,19 @@
+NumWords	21
+NumTerms	16
+
+info		3
+page		2
+print		2
+excel		2
+assume		1
+up		1
+setup		1
+call		1
+out		1
+printing	1
+kim		1
+want		1
+one		1
+set		1
+don		1
+think		1

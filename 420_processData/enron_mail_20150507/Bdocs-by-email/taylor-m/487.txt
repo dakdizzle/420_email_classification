@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+president	1
+mark		1
+eb		1
+fax		1
+houston		1
+street		1
+taylorvice	1
+wholesale	1
+general		1
+number		1
+call		1
+thanks		1
+counselenron	1
+message		1
+texas		1
+services	1
+smith		1

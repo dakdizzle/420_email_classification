@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+moved		1
+past		1
+thought		1
+loc		1
+bothering	1

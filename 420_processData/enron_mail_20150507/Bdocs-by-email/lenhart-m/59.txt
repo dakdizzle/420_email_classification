@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+see		1
+rash		1

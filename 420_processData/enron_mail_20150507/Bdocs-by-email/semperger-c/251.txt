@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+build		3
+route		3
+need		2
+copy		1
+speak		1
+now		1
+preschedule	1
+dart		1
+out		1
+anything	1
+version		1
+done		1
+please		1
+changes		1
+old		1
+phasing		1
+developers	1
+cara		1
+using		1
+workspace	1

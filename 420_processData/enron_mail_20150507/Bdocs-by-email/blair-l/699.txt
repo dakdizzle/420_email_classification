@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lynn		1
+concerns	1
+please		1
+end		1
+know		1
+change		1
+review		1
+year		1
+chris		1
+joe		1
+thanks		1
+robert		1

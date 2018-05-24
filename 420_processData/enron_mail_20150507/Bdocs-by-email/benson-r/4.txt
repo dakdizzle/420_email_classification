@@ -1,0 +1,22 @@
+NumWords	94
+NumTerms	19
+
+pjm		12
+long		12
+short		8
+aug		5
+cal		5
+july		5
+sept		5
+day		4
+per		4
+gas		4
+zone		4
+nymex		4
+mmbtu		4
+ny		4
+summers		4
+western		3
+portfolio	3
+hub		3
+q		1

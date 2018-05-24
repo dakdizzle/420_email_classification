@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+required	1
+attendance	1
+saunders	1
+probably	1
+peters		1

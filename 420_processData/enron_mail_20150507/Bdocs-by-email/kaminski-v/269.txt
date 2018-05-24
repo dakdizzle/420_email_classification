@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+vince		1
+wednesday	1
+gwyn		1
+meet		1
+week		1
+next		1

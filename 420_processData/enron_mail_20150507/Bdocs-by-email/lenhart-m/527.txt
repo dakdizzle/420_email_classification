@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+little		1
+blast		1
+rally		1
+really		1
+tired		1
+tonight		1

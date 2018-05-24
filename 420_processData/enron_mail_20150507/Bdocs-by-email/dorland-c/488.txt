@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+little		1
+day		1
+goat		1
+fuck		1
+one		1
+housing		1
+already		1
+decision	1
+concerned	1
+minature	1
+making		1

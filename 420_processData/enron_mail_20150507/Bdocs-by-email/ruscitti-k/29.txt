@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+day		1
+talk		1
+lisa		1
+friday		1
+kevin		1
+llget		1
+murli		1
+actually	1
+house		1
+tough		1
+check		1
+back		1
+tomorrow	1
+bought		1
+sure		1
+c		1
+move		1
+new		1
+next		1

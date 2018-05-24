@@ -1,0 +1,5 @@
+NumWords	3
+NumTerms	2
+
+john		2
+one		1

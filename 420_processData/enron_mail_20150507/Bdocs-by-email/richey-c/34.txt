@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+m		2
+sure		2
+day		1
+cheryl		1
+invoice		1
+cooper		1
+know		1
+gave		1
+stan		1
+same		1
+submitted	1
+anything	1
+regarding	1
+forwarded	1
+two		1
+appears		1
+ago		1
+invoiced	1
+weeks		1
+couple		1
+hi		1

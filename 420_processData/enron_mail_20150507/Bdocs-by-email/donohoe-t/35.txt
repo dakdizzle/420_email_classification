@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+know		2
+soon		1
+todd		1
+possible	1
+please		1
+represented	1
+donohoe		1
+phone		1
+tom		1
+companies	1
+number		1
+result		1

@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+happy		2
+woman		2
+hey		1
+job		1
+man		1
+carefull	1
+things		1
+really		1
+happened	1
+something	1
+stomach		1
+going		1
+big		1

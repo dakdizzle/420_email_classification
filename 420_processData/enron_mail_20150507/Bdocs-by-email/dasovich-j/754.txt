@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+bleeping	1
+tired		1
+ask		1
+issue		1
+ps		1
+hang		1

@@ -1,0 +1,26 @@
+NumWords	31
+NumTerms	23
+
+cn		4
+credit		2
+recipients	2
+na		2
+enron		2
+ou		2
+vespino		1
+veronica	1
+power		1
+company		1
+jason		1
+williams	1
+advise		1
+see		1
+espinoza	1
+jwilli		1
+states		1
+sections	1
+regarding	1
+northern	1
+please		1
+below		1
+comments	1

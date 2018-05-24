@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+deals		2
+ed		1
+those		1
+mcmichael	1
+agreed		1
+value		1
+few		1
+perform		1
+separately	1
+kk		1
+needs		1

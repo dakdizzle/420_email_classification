@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+leslie		2
+entities	2
+updated		1
+send		1
+barbara		1
+gave		1
+marie		1
+morgan		1
+left		1
+p		1
+chase		1
+list		1
+one		1
+duke		1
+called		1
+ll		1

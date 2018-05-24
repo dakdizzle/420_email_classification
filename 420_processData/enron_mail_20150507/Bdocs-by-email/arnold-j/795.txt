@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+job		1
+finding		1
+time		1
+right		1
+easier		1
+now		1
+bad		1
+sounds		1
+asked		1
+cheaper		1
+reason		1
+ll		1

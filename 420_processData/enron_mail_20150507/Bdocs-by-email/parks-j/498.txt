@@ -1,0 +1,23 @@
+NumWords	30
+NumTerms	20
+
+com		4
+fenner		3
+chet		3
+enron		3
+bmc		2
+aol		1
+ffenner		1
+make		1
+job		1
+wollam		1
+cchet		1
+ecom		1
+imceanotes	1
+brianc		1
+erwollam	1
+knipe		1
+comjust		1
+saltgrass	1
+hotmail		1
+erik		1

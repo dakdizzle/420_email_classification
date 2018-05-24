@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+night		1
+sat		1
+cool		1
+mail		1
+game		1
+very		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+buddy		1
+folks		1
+information	1
+sorry		1
+guess		1
+defect		1
+smattering	1
+both		1
+second		1
+attempt		1
+go		1
+jobs		1
+contract	1
+probably	1
+cara		1
+donald		1
+big		1
+hi		1

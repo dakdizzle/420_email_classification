@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+chris		2
+cn		2
+germany		2
+monday		1
+tallahassee	1
+takes		1
+except		1
+cgerman		1
+desk		1
+recipients	1
+fine		1
+min		1
+filename	1
+na		1
+pstanytime	1
+morning		1
+around		1
+serve		1
+enron		1
+ou		1
+need		1
+though		1
+deal		1

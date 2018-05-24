@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+version		1
+confirmation	1
+used		1
+need		1
+prepare		1
+think		1
+dan		1

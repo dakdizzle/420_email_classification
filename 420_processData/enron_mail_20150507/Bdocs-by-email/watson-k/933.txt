@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+bullets		1
+kim		1
+lorraine	1
+team		1
+week		1
+audrey		1
+providing	1
+thanks		1

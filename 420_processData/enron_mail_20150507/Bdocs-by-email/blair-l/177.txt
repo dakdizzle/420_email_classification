@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+thanks		2
+lynn		1
+ava		1
+staying		1
+keys		1
+top		1
+appreciate	1

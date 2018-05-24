@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+being		1
+negotiated	1
+deal		1
+new		1

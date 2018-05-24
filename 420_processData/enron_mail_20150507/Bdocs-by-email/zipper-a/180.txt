@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+hash		1
+early		1
+together	1
+peggy		1
+end		1
+sides		1
+guys		1
+thanksaz	1
+definitely	1
+fast		1
+june		1
+out		1
+both		1
+ideally		1
+kenny		1
+finished	1
+differences	1
+work		1
+need		1
+mike		1
+move		1
+next		1

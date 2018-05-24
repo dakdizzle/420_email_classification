@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+computer	1
+extension	1

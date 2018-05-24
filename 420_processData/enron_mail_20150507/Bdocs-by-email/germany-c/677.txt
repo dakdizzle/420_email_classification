@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+gas		2
+swing		2
+forecast	2
+tallahassee	1
+cash		1
+time		1
+up		1
+worksheet	1
+fyi		1
+ve		1
+put		1
+manual		1
+bumped		1
+weekend		1
+week		1
+took		1
+date		1
+next		1

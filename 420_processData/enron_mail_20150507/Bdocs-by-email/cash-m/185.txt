@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+good		1
+words		1
+michelle	1
+appreciate	1
+input		1
+thanks		1

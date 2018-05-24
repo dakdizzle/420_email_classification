@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+mcash		2
+cn		2
+cash		1
+know		1
+starters	1
+ask		1
+recipients	1
+sorry		1
+filename	1
+na		1
+privileged	1
+clueless	1
+psti		1
+non		1
+suggest		1
+enron		1
+mhc		1
+ou		1
+michelle	1
+cynthia		1
+don		1
+barrow		1

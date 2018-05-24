@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+jhtml		2
+artcol		1
+indexw		1
+id		1
+doc		1
+http		1
+channel		1
+www		1
+fortune		1
+com		1

@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+possibly	2
+night		2
+going		2
+lynn		1
+flights		1
+know		1
+hotel		1
+attached	1
+wed		1
+find		1
+unless		1
+la		1
+depending	1
+ridiculous	1
+looks		1
+thanks		1
+out		1
+stay		1
+ava		1
+message		1
+thursday	1
+cost		1

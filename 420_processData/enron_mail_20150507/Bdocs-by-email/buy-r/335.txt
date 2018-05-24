@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+meeting		2
+jump		1
+rick		1
+jeff		1
+bod		1
+sorry		1
+week		1
+next		1

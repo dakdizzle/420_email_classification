@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+whatever	2
+yeah		1
+completly	1
+oh		1
+makes		1
+happy		1
+want		1
+indifferent	1
+deal		1

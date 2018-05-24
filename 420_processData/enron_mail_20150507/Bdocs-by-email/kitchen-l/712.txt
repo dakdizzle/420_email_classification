@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+away		2
+kim		1
+officerenron	1
+plan		1
+fax		1
+americastel	1
+operating	1
+up		1
+back		1
+louise		1
+kitchenchief	1
+need		1

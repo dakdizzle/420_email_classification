@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+vince		1
+day		1
+eat		1
+go		1
+weekend		1
+one		1
+want		1
+paula		1

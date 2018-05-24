@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+group		1
+shouldn		1
+retaining	1
+go		1

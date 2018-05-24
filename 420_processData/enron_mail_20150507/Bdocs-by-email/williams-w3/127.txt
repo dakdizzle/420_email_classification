@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+sleeping	1
+local		1
+put		1
+keeps		1
+job		1
+monitor		1
+bill		1
+enpower		1
+computer	1
+chip		1
+help		1
+thanks		1

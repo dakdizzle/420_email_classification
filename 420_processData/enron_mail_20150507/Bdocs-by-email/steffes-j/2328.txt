@@ -1,0 +1,23 @@
+NumWords	29
+NumTerms	20
+
+cn		5
+recipients	2
+na		2
+enron		2
+ou		2
+sure		2
+fc		1
+jdasovic	1
+arem		1
+file		1
+dasovich	1
+input		1
+jim		1
+diann		1
+talking		1
+jeff		1
+notesaddr	1
+want		1
+huddleson	1
+c		1

@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+entirely	1
+enron		1
+convenience	1
+sglover		1
+understand	1
+sheila		1
+recipients	1
+ou		1
+na		1
+ss		1
+glover		1

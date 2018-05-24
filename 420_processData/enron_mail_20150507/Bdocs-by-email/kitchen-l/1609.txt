@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+horrible	2
+more		2
+officially	1
+well		1
+ends		1
+houston		1
+gettting	1
+worked		1
+actually	1
+better		1
+straight	1
+crap		1
+building	1
+hope		1
+come		1
+night		1
+buyers		1
+week		1
+weeks		1
+still		1
+over		1
+here		1

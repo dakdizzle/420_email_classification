@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+hear		1
+debbie		1
+know		1
+lisa		1
+ask		1
+picked		1
+pick		1
+something	1
+lower		1
+retainer	1
+one		1
+smallest	1
+amount		1
+stopped		1
+richard		1

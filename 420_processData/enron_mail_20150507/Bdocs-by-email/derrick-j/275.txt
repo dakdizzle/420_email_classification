@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+thank		1
+invitation	1
+derrick		1
+attend		1

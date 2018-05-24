@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+latest		1
+oct		1
+schedule	1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jimboman	1
+go		1
+want		1
+bigfoot		1
+com		1

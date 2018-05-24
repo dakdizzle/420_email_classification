@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+kward		2
+kim		2
+cn		2
+pstjaney	1
+respond		1
+recipients	1
+houston		1
+bob		1
+filename	1
+na		1
+planning	1
+thanks		1
+privileged	1
+regarding	1
+non		1
+enron		1
+ward		1
+shall		1
+ou		1
+pettinato	1
+agreement	1

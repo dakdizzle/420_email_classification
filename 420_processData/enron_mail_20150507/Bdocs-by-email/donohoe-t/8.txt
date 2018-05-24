@@ -1,0 +1,5 @@
+NumWords	3
+NumTerms	2
+
+confirming	2
+deal		1

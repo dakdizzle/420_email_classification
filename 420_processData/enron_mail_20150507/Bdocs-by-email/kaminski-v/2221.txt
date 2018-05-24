@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+vkamins		2
+vince		2
+cn		2
+send		1
+written		1
+ask		1
+recipients	1
+piece		1
+filename	1
+na		1
+privileged	1
+rakesh		1
+non		1
+enron		1
+liquidity	1
+shall		1
+pstsam		1
+use		1
+ou		1
+kaminski	1

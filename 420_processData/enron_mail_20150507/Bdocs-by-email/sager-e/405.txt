@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+kids		1
+email		1
+make		1
+talk		1
+calls		1
+home		1
+stay		1
+soon		1
+great		1
+husband		1
+back		1
+need		1
+sager		1
+sure		1
+elizabeth	1
+amysounds	1
+hi		1
+ll		1

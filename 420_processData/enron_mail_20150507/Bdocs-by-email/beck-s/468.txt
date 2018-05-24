@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+know		2
+lindsey		1
+mark		1
+revised		1
+working		1
+review		1
+schedule	1
+something	1
+soon		1
+sally		1
+one		1
+yes		1
+lay		1
+corp		1
+whalley		1
+don		1
+still		1
+frevert		1

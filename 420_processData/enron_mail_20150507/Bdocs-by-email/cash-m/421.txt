@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+case		1
+fyi		1
+michelle	1
+already		1
+don		1

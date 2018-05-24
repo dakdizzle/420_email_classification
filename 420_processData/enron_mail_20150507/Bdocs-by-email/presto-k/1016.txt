@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+please		1
+sending		1
+report		1
+stop		1

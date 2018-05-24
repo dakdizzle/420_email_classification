@@ -1,0 +1,27 @@
+NumWords	32
+NumTerms	24
+
+lenhart		5
+matthew		4
+com		2
+thing		1
+net		1
+filename	1
+folder		1
+jen		1
+such		1
+chick		1
+rmi		1
+friends		1
+cougar		1
+sent		1
+psti		1
+mx		1
+pederleifkjeseth	1
+enron		1
+ralee		1
+one		1
+origin		1
+itemsx		1
+hotmail		1
+think		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+executable	1
+ca		1
+agreements	1
+know		1
+project		1
+attached	1
+want		1
+nng		1
+discussed	1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ve		1
+value		1
+interested	1
+row		1
+dg		1
+still		1
+face		1
+sec		1

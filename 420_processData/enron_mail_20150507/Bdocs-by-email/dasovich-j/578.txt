@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+puc		2
+rate		2
+component	2
+cover		2
+ought		1
+pg		1
+convince	1
+s		1
+pursue		1
+concern		1
+both		1
+good		1
+go		1
+forward		1
+deal		1
+thoughts	1
+agrees		1
+dedicated	1
+include		1
+think		1

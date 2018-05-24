@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+free		1
+larry		1
+call		1
+reference	1
+fell		1
+thanks		1
+good		1
+sean		1
+touch		1
+staying		1
+use		1
+luck		1
+give		1

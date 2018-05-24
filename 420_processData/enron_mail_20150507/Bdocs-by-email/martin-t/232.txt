@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+stuff		1
+little		1
+something	1
+ok		1
+serious		1
+sounds		1
+concerned	1
+tom		1

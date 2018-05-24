@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+under		2
+legal		2
+hpl		2
+eb		1
+renamed		1
+fax		1
+employees	1
+files		1
+directories	1
+fyi		1
+houston		1
+street		1
+previously	1
+found		1
+america		1
+aep		1
+employee	1
+enron		1
+texas		1
+dperlin		1
+north		1
+smith		1
+perlingiereenron	1
+debra		1

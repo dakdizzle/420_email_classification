@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+te		2
+preocupes	1
+amigo		1
+diferencia	1
+boy		1
+llamar		1
+tiempo		1
+miedo		1
+estoy		1
+vladi		1
+de		1
+gracias		1

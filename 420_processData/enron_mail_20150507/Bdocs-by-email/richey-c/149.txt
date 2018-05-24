@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+notice		1
+much		1
+alot		1
+lease		1
+days		1
+herald		1
+spend		1
+pad		1
+places		1
+looks		1
+thinking	1
+classifieds	1
+according	1
+need		1

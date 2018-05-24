@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+option		1
+transaction	1
+talk		1
+model		1
+vasant		1
+marc		1
+vince		1
+shall		1
+adapt		1
+forthis		1
+already		1
+sandeep		1
+basket		1

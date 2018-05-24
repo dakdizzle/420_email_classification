@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+theresa		1
+questions	1
+ruth		1
+thanks		1
+call		1

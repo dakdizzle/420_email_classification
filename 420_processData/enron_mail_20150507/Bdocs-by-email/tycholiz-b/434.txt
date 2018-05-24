@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+full		1
+first		1
+arrangements	1
+assume		1
+customers	1
+msa		1
+talk		1
+service		1
+response	1
+highest		1
+appreciate	1
+wanted		1
+wholesale	1
+extremely	1
+bt		1
+thanks		1
+important	1
+quality		1
+kim		1
+obligations	1
+maintain	1
+mike		1
+requirements	1
+item		1

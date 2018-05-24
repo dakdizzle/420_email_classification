@@ -1,0 +1,26 @@
+NumWords	32
+NumTerms	23
+
+mail		4
+com		4
+fenner		2
+chet		2
+knipe		2
+brian		1
+wollam		1
+bmc		1
+mean		1
+suffer		1
+enjoys		1
+out		1
+brianc		1
+diarrhea	1
+people		1
+erwollam	1
+constantine	1
+msn		1
+one		1
+chad		1
+saltgrass	1
+hotmail		1
+erik		1

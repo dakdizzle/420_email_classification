@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+wind		1
+first		1
+pl		1
+saying		1
+quiet		1
+friday		1
+record		1
+keep		1
+watch		1
+school		1
+asked		1
+fly		1
+long		1
+confirmed	1
+promoted	1
+show		1
+sign		1
+confidentiality	1
+minutes		1
+vet		1
+agreement	1
+strong		1
+next		1

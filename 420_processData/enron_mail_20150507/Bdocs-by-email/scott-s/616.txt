@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+fun		1
+check		1
+findyourspot	1
+www		1
+already		1
+website		1
+haven		1
+lots		1
+com		1

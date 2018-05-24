@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+white		2
+cn		2
+support		1
+stacy		1
+stacey		1
+recipients	1
+enpower		1
+filename	1
+na		1
+swhite		1
+pstfyi		1
+enron		1
+estate		1
+ou		1

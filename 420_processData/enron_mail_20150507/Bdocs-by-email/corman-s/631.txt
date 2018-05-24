@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+moving		1
+steve		1
+offices		1
+old		1
+yes		1

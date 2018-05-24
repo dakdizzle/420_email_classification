@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+good		1
+look		1
+end		1
+bill		1
+update		1
+thank		1

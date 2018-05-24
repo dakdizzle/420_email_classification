@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+soon		1
+those		1
+jeff		1
+folks		1
+back		1
+forward		1
+ll		1

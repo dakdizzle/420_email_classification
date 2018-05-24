@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+answer		3
+different	1
+invoice		1
+tariff		1
+somewhat	1
+course		1
+favor		1
+although	1
+overrules	1
+pete		1
+appear		1
+thanks		1
+remember	1
+official	1
+work		1
+question	1
+mail		1
+jmf		1
+receive		1
+ll		1

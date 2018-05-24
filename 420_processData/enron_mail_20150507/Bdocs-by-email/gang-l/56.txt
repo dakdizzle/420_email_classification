@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+alls		1
+put		1
+favorite	1
+hey		1
+hope		1
+list		1
+lisa		1
+well		1
+already		1
+hows		1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+much		1
+know		1
+kisses		1
+giants		1
+convenient	1
+whenever	1
+rush		1
+check		1
+barry		1
+go		1
+year		1
+need		1
+ps		1
+jeffgo		1
+wait		1
+next		1
+ll		1

@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+m		2
+aol		1
+chick		1
+rudythe		1
+please		1
+nope		1

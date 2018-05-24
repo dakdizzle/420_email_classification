@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+please		2
+sturmx		1
+latest		1
+consumer	1
+send		1
+runs		1
+vp		1
+risk		1
+fletch		1
+management	1
+east		1
+ees		1
+herndon		1
+thanks		1
+soon		1
+weekly		1
+list		1
+distribution	1
+edition		1
+rogers		1
+amanda		1
+include		1

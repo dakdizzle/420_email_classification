@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+group		2
+park		1
+join		1
+up		1
+friday		1
+definitely	1
+denver		1
+lokayaccount	1
+afternoon	1
+head		1
+immediately	1
+winter		1
+want		1
+directortranswestern	1
+michelle	1
+mail		1
+commercial	1
+snowmobiling	1
+voice		1

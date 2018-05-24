@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+info		1
+status		1
+mark		1
+meeting		1
+credit		1
+gave		1
+know		1
+post		1
+yesterday	1
+baldwin		1
+thursday	1
+barry		1
+financial	1
+prepare		1

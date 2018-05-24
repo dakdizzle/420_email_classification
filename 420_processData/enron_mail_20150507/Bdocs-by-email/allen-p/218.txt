@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+bike		1
+each		1
+riding		1
+came		1
+matt		1
+lifting		1
+work		1
+thought		1
+later		1
+week		1
+times		1
+couple		1

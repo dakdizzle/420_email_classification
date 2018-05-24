@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+make		1
+drive		1
+myself		1
+uhhhhh		1
+think		1
+ll		1

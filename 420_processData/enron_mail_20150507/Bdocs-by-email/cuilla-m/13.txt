@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+james		2
+cook		2
+little		1
+email		1
+open		1
+scared		1
+up		1
+man		1
+arthurandersen	1
+mail		1
+com		1

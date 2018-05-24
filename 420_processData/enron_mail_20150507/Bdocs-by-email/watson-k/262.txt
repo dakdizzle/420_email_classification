@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+kim		1
+linda		1
+thank		1

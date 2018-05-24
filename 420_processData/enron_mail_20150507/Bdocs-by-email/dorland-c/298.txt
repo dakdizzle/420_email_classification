@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+minute		1
+forms		1
+completed	1
+know		1
+tricia		1
+need		1
+chris		1
+drop		1

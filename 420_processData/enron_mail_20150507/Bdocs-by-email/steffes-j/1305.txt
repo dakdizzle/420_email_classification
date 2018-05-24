@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+taking		1
+cash		1
+payment		1
+term		1
+committment	1
+options		1
+assuming	1
+rate		1
+npv		1
+single		1
+jim		1
+transforming	1
+long		1
+issues		1
+tough		1
+discount	1
+part		1
+question	1

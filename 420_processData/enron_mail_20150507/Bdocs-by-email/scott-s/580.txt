@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+hey		1
+hanging		1
+west		1
+noble		1
+susan		1
+mr		1
+town		1
+question	1
+week		1
+quick		1
+coast		1

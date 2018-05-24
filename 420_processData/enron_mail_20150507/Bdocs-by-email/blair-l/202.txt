@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lynn		1
+make		1
+up		1
+enough		1
+glad		1
+session		1
+interest	1
+doing		1
+see		1
+certainly	1
+joni		1
+thanks		1

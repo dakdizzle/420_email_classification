@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+matter		1
+please		1
+know		1
+sigcorp		1
+attached	1
+discussed	1
+review		1
+briefly		1
+agency		1
+think		1
+gisb		1
+yesterday	1

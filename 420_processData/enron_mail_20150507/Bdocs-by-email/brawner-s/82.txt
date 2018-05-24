@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+around		1
+rotten		1
+enron		1
+one		1
+yes		1
+read		1
+appear		1
+tomatoes	1

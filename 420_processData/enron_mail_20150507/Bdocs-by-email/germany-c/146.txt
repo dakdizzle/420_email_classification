@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+day		2
+try		1
+problem		1
+twice		1
+doctor		1
+closer		1
+home		1
+pictures	1
+m		1
+section		1
+yech		1
+part		1
+ingy		1
+uhhh		1
+going		1
+brought		1
+c		1
+week		1
+lunch		1
+ll		1
+next		1

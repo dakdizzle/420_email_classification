@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+budget		2
+lavo		1
+leave		1
+billion		1
+million		1

@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+jeff		3
+dasovich	2
+cn		2
+legislature	1
+key		1
+california	1
+bills		1
+working		1
+cmta		1
+jdasovic	1
+recipients	1
+indicates	1
+filename	1
+na		1
+privileged	1
+out		1
+way		1
+pstfyi		1
+non		1
+enron		1
+best		1
+wacked		1
+ou		1
+through		1

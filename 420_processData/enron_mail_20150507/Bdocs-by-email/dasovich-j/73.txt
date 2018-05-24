@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+cn		2
+fun		1
+kirby		1
+recipients	1
+kean		1
+alan		1
+na		1
+gibb		1
+lots		1
+enron		1
+jeff		1
+best		1
+acomnes		1
+ou		1
+comnes		1

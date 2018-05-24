@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+info		1
+first		1
+more		1
+mail		1
+related		1

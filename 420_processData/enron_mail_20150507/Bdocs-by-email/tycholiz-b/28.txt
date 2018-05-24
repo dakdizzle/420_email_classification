@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+together	2
+put		1
+plan		1
+time		1
+today		1
+spending	1
+package		1

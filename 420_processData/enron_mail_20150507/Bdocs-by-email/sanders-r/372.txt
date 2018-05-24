@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+andy		1
+berry		1
+thanks		1
+call		1

@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+august		2
+mark		1
+down		1
+ina		1
+please		1
+vacation	1
+phillip		1
+through		1

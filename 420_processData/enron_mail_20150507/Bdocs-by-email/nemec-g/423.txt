@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+professional	1
+status		1
+services	1
+agreement	1
+susanne		1

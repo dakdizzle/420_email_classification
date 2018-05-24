@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+jim		1
+meeting		1
+harry		1

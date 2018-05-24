@@ -1,0 +1,27 @@
+NumWords	33
+NumTerms	24
+
+database	4
+agreement	4
+see		3
+brokerage	2
+bear		1
+legal		1
+marie		1
+viewed		1
+goldman		1
+outside		1
+anyone		1
+morgan		1
+listed		1
+tom		1
+wasn		1
+listings	1
+aware		1
+couldn		1
+master		1
+error		1
+sara		1
+spoke		1
+separate	1
+stearns		1

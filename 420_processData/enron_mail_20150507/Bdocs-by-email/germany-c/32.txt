@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+cash		1
+know		1
+operational	1
+counterpart	1
+yes		1
+disbursements	1
+accountant	1
+area		1

@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+know		2
+keep		2
+begin		1
+convenience	1
+use		1
+need		1
+subscriber	1
+don		1
+thanks		1
+didn		1

@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+gas		2
+daily		2
+file		2
+send		1
+under		1
+try		1
+working		1
+runm		1
+maint		1
+once		1
+load		1
+month		1
+split		1
+database	1
+curves		1
+excel		1
+done		1
+thankskam	1
+intra		1
+curve		1
+import		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+nothing		1
+give		1
+call		1
+ll		1

@@ -1,0 +1,19 @@
+NumWords	25
+NumTerms	16
+
+buys		4
+ng		3
+opt		2
+sells		2
+apr		2
+oct		2
+sep		1
+guys		1
+following	1
+interbook	1
+stripcounterpart	1
+aug		1
+lot		1
+trades		1
+book		1
+jvthanks	1

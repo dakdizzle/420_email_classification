@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+please		2
+meeting		1
+mcconnelltranswestern	1
+company		1
+until		1
+know		1
+wednesday	1
+reliant		1
+audrey		1
+pipeline	1
+thanks		1
+mcconnell	1
+room		1
+cell		1
+enron		1
+office		1
+book		1
+faxmark		1
+already		1
+booked		1
+dec		1
+markmark	1
+com		1

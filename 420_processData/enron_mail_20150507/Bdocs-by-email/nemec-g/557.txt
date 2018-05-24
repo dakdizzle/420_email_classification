@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+become		1
+hey		1
+crazy		1
+guitar		1
+really		1
+long		1
+focusing	1
+run		1
+rich		1
+back		1
+tired		1
+start		1
+weekend		1
+more		1
+need		1
+going		1
+famous		1
+survive		1
+jennifer	1
+deal		1
+pretty		1
+here		1

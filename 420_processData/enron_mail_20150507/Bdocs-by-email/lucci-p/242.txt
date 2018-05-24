@@ -1,0 +1,14 @@
+NumWords	15
+NumTerms	11
+
+enron		4
+america		2
+ene		1
+stock		1
+company		1
+working		1
+north		1
+web		1
+site		1
+symbol		1
+com		1

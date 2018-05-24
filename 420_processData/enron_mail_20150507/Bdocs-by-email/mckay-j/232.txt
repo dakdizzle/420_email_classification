@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hand		1
+lovejon		1
+m		1
+time		1
+racket		1
+ready		1
+squash		1
+play		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+officially	1
+hooky		1
+playing		1
+tomorrow	1
+work		1

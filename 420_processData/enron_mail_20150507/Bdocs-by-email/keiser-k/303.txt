@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+kam		2
+cn		2
+keiser		2
+west		1
+recipients	1
+form		1
+filename	1
+na		1
+pst		1
+kkeiser		1
+instead		1
+enron		1
+please		1
+filethanks	1
+use		1
+ou		1
+previous	1

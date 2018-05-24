@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+years		2
+week		2
+prices		1
+bid		1
+up		1
+hard		1
+socal		1
+sorry		1
+better		1
+out		1
+kim		1
+indicative	1
+work		1
+year		1
+august		1
+next		1
+offers		1

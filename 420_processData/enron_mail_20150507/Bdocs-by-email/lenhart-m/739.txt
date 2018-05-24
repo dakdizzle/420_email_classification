@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+fastow		1
+hear		1
+ene		1
+time		1
+sinking		1
+hour		1
+looks		1
+out		1
+boy		1
+good		1
+right		1
+sunk		1
+ship		1
+work		1
+weeks		1
+making		1
+skilling	1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+jeff		2
+left		1
+tuesday		1
+message		1
+enron		1
+comvince	1
+mail		1
+called		1
+address		1
+skilling	1
+joe		1
+hi		1
+voice		1

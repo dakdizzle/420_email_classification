@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+backs		1
+well		1
+guys		1
+yankees		1
+gloating	1
+getting		1
+both		1
+crushed		1
+hope		1
+jeff		1
+best		1
+fact		1
+hi		1
+over		1

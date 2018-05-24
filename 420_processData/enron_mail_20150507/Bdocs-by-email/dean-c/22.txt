@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+pge		2
+fill		1
+source		1
+details		1
+mw		1
+midc		1
+rt		1
+see		1
+schedule	1
+dean		1
+call		1
+parking		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+cpe		1
+certificate	1
+grace		1

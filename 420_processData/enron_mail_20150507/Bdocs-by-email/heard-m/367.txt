@@ -1,0 +1,22 @@
+NumWords	25
+NumTerms	19
+
+credit		3
+respond		2
+message		2
+sara		2
+waiting		2
+hear		1
+send		1
+department	1
+know		1
+checked		1
+martin		1
+response	1
+sent		1
+obviously	1
+another		1
+want		1
+mr		1
+reminder	1
+receive		1

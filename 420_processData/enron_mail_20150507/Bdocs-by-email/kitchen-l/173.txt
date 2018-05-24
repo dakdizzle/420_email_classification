@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+bp		1
+officerenron	1
+fax		1
+americastel	1
+operating	1
+hired		1
+louise		1
+kitchenchief	1
+someone		1

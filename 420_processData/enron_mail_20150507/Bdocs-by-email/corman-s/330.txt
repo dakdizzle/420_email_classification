@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+fine		1
+whenever	1
+don		1
+here		1
+worry		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+expenses	1
+meeting		1
+liz		1
+well		1
+trip		1
+help		1
+thanks		1
+receipts	1
+dinner		1
+rick		1
+buy		1
+tell		1
+went		1
+process		1

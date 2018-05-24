@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+party		1
+chicks		1
+send		1
+down		1
+hot		1
+pro		1
+share		1
+rata		1
+shut		1

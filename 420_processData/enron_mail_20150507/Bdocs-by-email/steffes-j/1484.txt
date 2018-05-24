@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+customers	3
+include		2
+ca		1
+make		1
+up		1
+thanks		1
+home		1
+sales		1
+analysis	1
+discusion	1
+follow		1
+effort		1
+want		1
+g		1
+going		1
+depot		1
+tx		1
+angela		1
+sure		1
+including	1

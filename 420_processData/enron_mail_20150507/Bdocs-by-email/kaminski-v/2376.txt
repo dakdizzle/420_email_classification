@@ -1,0 +1,20 @@
+NumWords	30
+NumTerms	17
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+vshanbh		1
+tanya		1
+vasant		1
+interest	1
+vince		1
+zimin		1
+tamarchenko	1
+lu		1
+ttamarc		1
+james		1
+shanbhogue	1
+zlu		1

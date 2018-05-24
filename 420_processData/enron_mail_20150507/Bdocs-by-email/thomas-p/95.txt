@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+paul		2
+username	1
+applications	1
+up		1
+broderick	1
+ask		1
+yes		1
+set		1
+password	1
+pjm		1
+administrator	1

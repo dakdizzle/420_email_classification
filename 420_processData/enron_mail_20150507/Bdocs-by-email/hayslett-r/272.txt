@@ -1,0 +1,26 @@
+NumWords	31
+NumTerms	23
+
+enron		3
+com		3
+hayslett	2
+privileged	2
+rhaysle		2
+non		2
+pstwe		1
+chandler	1
+bob		1
+filename	1
+folder		1
+help		1
+drew		1
+saunders	1
+sent		1
+asap		1
+origin		1
+itemsx		1
+james		1
+rx		1
+rod		1
+need		1
+fossum		1

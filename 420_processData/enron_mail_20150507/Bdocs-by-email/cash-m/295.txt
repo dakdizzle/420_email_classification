@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+m		1
+until		1
+package		1
+pr		1
+holding		1

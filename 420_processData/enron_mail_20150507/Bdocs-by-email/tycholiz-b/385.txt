@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+probably	2
+holes		1
+hear		1
+make		1
+catch		1
+know		1
+friday		1
+watch		1
+slip		1
+sorry		1
+bt		1
+see		1
+sunday		1
+out		1
+employed	1
+years		1
+ya		1
+go		1
+going		1
+tv		1
+couple		1

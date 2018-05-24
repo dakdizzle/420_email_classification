@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+flow		1
+chart		1
+pulp		1
+attached	1
+karen		1

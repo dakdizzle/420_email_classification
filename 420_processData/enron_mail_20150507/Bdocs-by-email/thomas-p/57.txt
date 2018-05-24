@@ -1,0 +1,22 @@
+NumWords	24
+NumTerms	19
+
+final		3
+l		3
+number		2
+approx		1
+profit		1
+showing		1
+paul		1
+therefore	1
+flowed		1
+showed		1
+month		1
+call		1
+please		1
+mw		1
+casey		1
+charge		1
+reconciled	1
+give		1
+incur		1

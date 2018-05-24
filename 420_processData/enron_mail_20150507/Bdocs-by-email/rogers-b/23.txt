@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+number		3
+harry		2
+home		1
+cell		1
+ben		1
+touch		1
+gave		1
+use		1
+phone		1
+think		1
+better		1
+michael		1

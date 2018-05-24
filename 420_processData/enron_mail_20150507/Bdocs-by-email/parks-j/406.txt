@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+put		1
+back		1
+few		1
+go		1
+questions	1
+ahead		1
+more		1
+answered	1
+think		1

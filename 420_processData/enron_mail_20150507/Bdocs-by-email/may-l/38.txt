@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+enough		1
+fair		1
+thanks		1

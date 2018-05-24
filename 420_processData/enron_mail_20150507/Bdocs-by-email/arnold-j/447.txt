@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+huh		1
+sucks		1
+mediocre	1

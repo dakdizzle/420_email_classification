@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+kyle		2
+something	2
+fastow		1
+walk		1
+truly		1
+interested	1
+know		1
+counterparty	1
+working		1
+missing		1
+unless		1
+recourse	1
+non		1
+otherwords	1
+sign		1
+told		1
+dave		1
+ppa		1

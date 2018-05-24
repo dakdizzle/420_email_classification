@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+check		1
+come		1
+forecast	1
+before		1
+r		1
+big		1
+ll		1

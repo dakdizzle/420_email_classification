@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+send		1
+fax		1
+member		1
+sager		1
+form		1
+hta		1
+thankselizabeth	1
+ll		1

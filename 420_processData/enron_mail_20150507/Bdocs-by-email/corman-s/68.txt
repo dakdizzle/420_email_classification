@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+another		2
+day		1
+meeting		1
+now		1
+hour		1
+week		1
+perhaps		1
+lunch		1
+over		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+less		1
+accounts	1
+settle		1
+nothing		1
+want		1
+var		1
+accurate	1

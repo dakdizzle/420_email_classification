@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+termination	3
+notices		2
+suspension	1
+letters		1
+those		1
+reply		1
+calculations	1
+payment		1
+see		1
+responding	1
+something	1
+check		1
+program		1
+want		1
+need		1
+reasons		1
+kay		1
+think		1
+new		1

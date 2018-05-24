@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+bearpaw		2
+nng		2
+posted		1
+affiliate	1
+transport	1
+contract	1
+fact		1
+website		1
+such		1
+marketing	1
+actual		1
+referring	1

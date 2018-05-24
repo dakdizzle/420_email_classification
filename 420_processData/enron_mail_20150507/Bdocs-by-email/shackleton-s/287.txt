@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+advance		1
+warning		1
+give		1
+ss		1
+marked		1
+ll		1

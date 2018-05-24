@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+cn		2
+per		1
+thank		1
+recipients	1
+na		1
+print		1
+enron		1
+please		1
+sharris		1
+harris		1
+ou		1
+signature	1
+below		1
+stephanie	1
+attachments	1
+give		1
+instructions	1

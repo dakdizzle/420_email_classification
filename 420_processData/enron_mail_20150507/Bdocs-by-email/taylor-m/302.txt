@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+track		1
+programs	1
+time		1
+available	1
+start		1
+numbers		1
+now		1
+one		1
+etc		1
+phone		1
+keeping		1
+names		1

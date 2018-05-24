@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+president	1
+mark		1
+counterparties	1
+credit		1
+terms		1
+taylorvice	1
+wholesale	1
+general		1
+counselenron	1
+specific	1
+services	1
+require		1
+additional	1

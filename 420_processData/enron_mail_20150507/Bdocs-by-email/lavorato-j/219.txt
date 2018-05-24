@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+email		1
+thing		1
+credit		1
+helpful		1
+received	1
+intermediation	1
+anthonythanks	1
+last		1
+think		1

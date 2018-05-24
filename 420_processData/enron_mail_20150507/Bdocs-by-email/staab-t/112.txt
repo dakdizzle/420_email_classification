@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+know		2
+theresa		1
+attending	1
+hotels		1
+planning	1
+thanks		1
+special		1
+getting		1
+staab		1
+downtown	1
+jeff		1
+husband		1
+night		1
+rates		1

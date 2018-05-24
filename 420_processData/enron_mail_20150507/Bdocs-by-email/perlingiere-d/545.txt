@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+aosire		1
+revised		1
+enron		1
+osire		1
+recipients	1
+ou		1
+na		1
+amendment	1
+here		1
+ann		1

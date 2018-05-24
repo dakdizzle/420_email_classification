@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+tanya		2
+cn		2
+inc		1
+rohauer		1
+marie		1
+draft		1
+person		1
+review		1
+recipients	1
+along		1
+na		1
+trohaue		1
+marketing	1
+thanks		1
+niagara		1
+enron		1
+received	1
+ou		1
+pass		1
+mohawk		1
+appropriate	1

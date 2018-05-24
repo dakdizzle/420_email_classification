@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+formatting	1
+done		1
+send		1
+one		1
+michelle	1
+week		1
+ll		1

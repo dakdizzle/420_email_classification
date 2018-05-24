@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+ds		1
+attending	1

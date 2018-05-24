@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+baumbach	1
+jim		1
+farmer		1
+eric		1
+weldon		1
+parks		1

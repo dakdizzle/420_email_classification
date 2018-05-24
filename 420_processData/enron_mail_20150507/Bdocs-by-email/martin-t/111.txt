@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+family		1
+four		1
+sorry		1
+tom		1
+including	1
+delay		1
+thanks		1
+matthew		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+together	1
+put		1
+plan		1
+john		1
+jlavora		1
+pstcongratsplease	1
+johnx		1
+filename	1
+lavorato	1

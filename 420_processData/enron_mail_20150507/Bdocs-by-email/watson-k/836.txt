@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+kim		1
+time		1
+duty		1
+report		1
+audrey		1
+thanks		1

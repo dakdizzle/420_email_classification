@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+changed		1
+right		1
+price		1
+deal		1
+thanks		1

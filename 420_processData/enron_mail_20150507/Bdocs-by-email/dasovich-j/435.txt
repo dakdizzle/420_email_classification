@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+morph		1
+loretta		1
+another		1
+carl		1

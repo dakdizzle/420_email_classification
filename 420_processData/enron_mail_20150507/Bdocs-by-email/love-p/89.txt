@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+pl		1
+risk		1
+mccarroll	1
+steve		1
+following	1
+zach		1
+thanks		1
+remove		1
+list		1
+trader		1
+south		1
+stephanie	1
+hopkins		1
+add		1

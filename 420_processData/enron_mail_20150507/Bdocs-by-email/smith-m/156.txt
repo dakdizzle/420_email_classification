@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+goat		1
+pledges		1
+fraternity	1
+true		1
+think		1

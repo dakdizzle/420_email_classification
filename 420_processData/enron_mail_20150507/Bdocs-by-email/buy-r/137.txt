@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+group		1
+discuss		1
+something	1
+march		1
+meeting		1
+make		1
+rick		1
+above		1
+guys		1

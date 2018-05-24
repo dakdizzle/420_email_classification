@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+tgeacco		2
+cn		2
+eb		1
+plan		1
+october		1
+wednesday	1
+stan		1
+review		1
+recipients	1
+geaccone	1
+wessex		1
+filename	1
+na		1
+privileged	1
+tracy		1
+non		1
+enron		1
+pstthe		1
+thankstracy	1
+ou		1

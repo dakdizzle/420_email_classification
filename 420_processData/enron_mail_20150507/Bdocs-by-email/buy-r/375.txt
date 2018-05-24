@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+expertise	1
+develop		1
+rick		1
+keep		1
+unfortunate	1
+mind		1
+area		1
+ll		1
+thanks		1

@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+aol		1
+email		1
+hey		1
+reply		1
+respond		1
+forever		1
+takes		1
+html		1
+http		1
+above		1
+web		1
+myhomepage	1
+hit		1
+hope		1
+enron		1
+index		1
+trogg		1
+link		1
+log		1
+works		1
+hometown	1
+com		1

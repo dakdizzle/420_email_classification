@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+mcash		2
+cn		2
+michelle	2
+cash		1
+recipients	1
+filename	1
+na		1
+call		1
+privileged	1
+psti		1
+non		1
+enron		1
+understand	1
+ou		1
+question	1
+chance		1
+sure		1
+give		1

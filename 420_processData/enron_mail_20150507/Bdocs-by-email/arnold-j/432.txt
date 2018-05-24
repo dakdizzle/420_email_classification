@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+yep		1
+later		1
+doing		1

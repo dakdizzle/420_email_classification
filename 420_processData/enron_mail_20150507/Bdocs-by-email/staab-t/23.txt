@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+counterparty	2
+changed		1
+theresa		1
+leyda		1
+gas		1
+contact		1
+thanks		1
+namea		1
+services	1
+lori		1
+old		1
+kn		1
+new		1

@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+interested	2
+position	2
+diana		1
+make		1
+everything	1
+hello		1
+john		1
+well		1
+keep		1
+now		1
+appreciate	1
+hope		1
+right		1
+touch		1
+nw		1
+recommendation	1
+more		1
+going		1
+move		1
+discussing	1
+here		1

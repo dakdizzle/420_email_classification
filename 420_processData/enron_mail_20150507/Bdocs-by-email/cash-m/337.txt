@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+blackberry	2
+net		1
+wireless	1
+handheld	1
+fyi		1
+www		1
+light		1
+yesterday	1
+reference	1
+suspended	1
+sent		1
+layoffs		1
+neutral		1
+practice	1

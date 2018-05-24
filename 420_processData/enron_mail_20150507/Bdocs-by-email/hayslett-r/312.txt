@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+group		1
+merger		1
+people		1
+lose		1
+afraid		1
+haysletteb	1
+rod		1
+critical	1

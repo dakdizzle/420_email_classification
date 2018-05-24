@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+day		1
+brad		1
+further		1
+up		1
+know		1
+kam		1
+answer		1
+nymex		1
+help		1
+ve		1
+hell		1
+em		1
+issue		1
+question	1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+those		1
+m		1
+diversify	1
+lesson		1
+sad		1
+younger		1
+sure		1

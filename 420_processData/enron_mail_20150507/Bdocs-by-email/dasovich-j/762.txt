@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+dc		1
+jeff		1
+still		1

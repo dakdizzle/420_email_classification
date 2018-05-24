@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+chronicle	1
+content		1
+enron		1
+html		1
+http		1
+chron		1
+www		1
+comp		1
+special		1
+com		1

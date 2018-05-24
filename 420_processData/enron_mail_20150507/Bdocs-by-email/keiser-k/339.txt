@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+im		2
+thankskk	1
+changed		1
+exists		1
+friday		1
+west		1
+fyi		1
+longer		1
+cal		1
+wc		1
+book		1
+booked		1
+deal		1

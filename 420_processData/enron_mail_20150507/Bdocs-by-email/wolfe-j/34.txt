@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+stuff		1
+fishy		1
+crusty		1
+boat		1
+hull		1
+clean		1
+tara		1
+commit		1
+bottom		1
+big		1

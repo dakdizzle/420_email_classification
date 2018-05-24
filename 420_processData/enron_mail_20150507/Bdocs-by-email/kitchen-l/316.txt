@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+recognize	1
+truck		1

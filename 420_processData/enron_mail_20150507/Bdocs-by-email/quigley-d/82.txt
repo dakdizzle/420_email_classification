@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+order		1
+ina		1
+please		1
+speakers	1
+mic		1
+computerdutch	1

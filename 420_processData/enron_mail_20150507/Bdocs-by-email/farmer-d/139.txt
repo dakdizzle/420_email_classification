@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+deal		2
+verify		1
+book		1
+price		1
+find		1
+below		1
+listed		1
+danny		1
+see		1
+sabrae		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+those		1
+directory	1
+files		1
+additional	1
+netco		1
+doing		1
+kk		1
+thanks		1

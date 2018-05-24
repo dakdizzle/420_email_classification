@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+vince		2
+send		1
+psttodd		1
+speak		1
+glad		1
+ready		1
+detailed	1
+filename	1
+vkamins		1
+jx		1
+agenda		1
+please		1
+shall		1
+conference	1
+kaminski	1

@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+cn		2
+ldonoho		2
+psthow		1
+recipients	1
+filename	1
+na		1
+privileged	1
+look		1
+non		1
+enron		1
+donoho		1
+ou		1
+lindy		1

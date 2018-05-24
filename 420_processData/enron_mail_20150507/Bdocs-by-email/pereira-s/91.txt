@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+sabine		2
+interconnect	1
+koch		1
+mapped		1
+kam		1
+susan		1
+already		1

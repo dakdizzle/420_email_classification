@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ene		1
+champ		1
+size		1
+trading		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+roger		1
+call		1
+here		1

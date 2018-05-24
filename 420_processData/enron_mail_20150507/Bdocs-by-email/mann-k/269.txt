@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+queue		1
+time		1
+checked		1
+told		1
+last		1
+kay		1
+wire		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+morning		1
+tallahassee	1
+free		1
+up		1
+time		1
+msn		1
+gas		1
+swing		1
+see		1
+don		1
+call		1

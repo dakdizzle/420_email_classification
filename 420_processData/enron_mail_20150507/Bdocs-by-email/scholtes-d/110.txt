@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+diana		2
+password	2
+cn		2
+incase		1
+scholtes	1
+aren		1
+fyi		1
+recipients	1
+someone		1
+filename	1
+dscholt		1
+na		1
+tsin		1
+around		1
+enron		1
+figured		1
+ou		1
+need		1
+cara		1
+dave		1
+registry	1
+here		1

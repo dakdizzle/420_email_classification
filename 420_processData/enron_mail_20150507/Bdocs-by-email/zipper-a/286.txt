@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+limits		2
+position	2
+nymex		2
+var		2
+governed	1
+place		1
+overall		1
+authorized	1
+desk		1
+size		1
+trade		1
+such		1
+instead		1
+enron		1
+instrument	1
+particular	1
+desks		1
+contract	1
+swap		1
+generates	1
+using		1

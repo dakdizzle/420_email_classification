@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+clothes		1
+girl		1

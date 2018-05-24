@@ -1,0 +1,20 @@
+NumWords	21
+NumTerms	17
+
+day		2
+power		2
+times		2
+believe		2
+inappropriate	1
+west		1
+desk		1
+excess		1
+trade		1
+east		1
+alberta		1
+trades		1
+settle		1
+more		1
+willing		1
+allocation	1
+generation	1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+overstating	1
+massively	1
+two		1
+charged		1
+aid		1
+yrs		1
+right		1
+corp		1
+executives	1
+earnings	1
+ending		1
+over		1

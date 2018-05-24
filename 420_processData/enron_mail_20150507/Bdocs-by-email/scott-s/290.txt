@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+tell		1
+more		1
+cara		1

@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+tgeacco		2
+cn		2
+pstrod		1
+day		1
+portland	1
+recipients	1
+geaccone	1
+filename	1
+na		1
+privileged	1
+tracy		1
+non		1
+enron		1
+ou		1

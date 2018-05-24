@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+setting		1
+customize	1
+up		1
+please		1
+show		1
+portfolio	1
+data		1
+view		1
+thanks		1
+relevant	1

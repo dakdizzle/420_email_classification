@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+approx		1
+morning		1
+leaving		1
+arriving	1
+portland	1
+flying		1
+rd		1
+give		1

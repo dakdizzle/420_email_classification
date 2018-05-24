@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+advance		1
+dr		1
+meeting		1
+visit		1
+appointment	1
+sorry		1
+sinus		1
+teb		1

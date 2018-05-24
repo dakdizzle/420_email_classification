@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+consultation	1
+used		1
+few		1
+words		1
+letter		1
+pg		1
+more		1
+laboeuf		1
+form		1
+here		1

@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+feedback	2
+lynn		1
+forms		1
+diana		1
+meeting		1
+ok		1
+unsolicited	1
+sounds		1
+encouraged	1
+thanks		1
+yesterday	1
+out		1
+without		1
+people		1
+fill		1
+team		1
+talke		1
+additional	1
+one		1
+told		1
+having		1
+give		1
+randy		1

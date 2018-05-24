@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+pm		1
+wed		1
+fletch		1
+later		1
+schedule	1
+thanks		1
+brooks		1
+heaviest	1
+need		1
+sturm		1
+jennifer	1
+ll		1
+trading		1

@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+sshackl		2
+cn		2
+sara		2
+meeting		1
+shackleton	1
+recipients	1
+susan		1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+anytime		1
+available	1
+ou		1
+pstcarol	1
+trading		1

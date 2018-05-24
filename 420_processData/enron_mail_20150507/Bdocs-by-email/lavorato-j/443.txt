@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+soon		1
+right		1
+power		1
+ignore		1
+guys		1
+change		1
+now		1
+want		1
+don		1
+trading		1
+frank		1

@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+nyiso		2
+csv		2
+files		1
+http		1
+loads		1
+www		1
+graphs		1
+markets		1
+com		1

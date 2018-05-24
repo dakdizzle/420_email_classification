@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+iod		1
+officerenron	1
+secondly	1
+fax		1
+operating	1
+thankslouise	1
+know		1
+member		1
+trying		1
+kitchenchief	1
+fiind		1
+out		1
+soon		1
+americastel	1
+possible	1
+please		1
+still		1
+became		1
+date		1

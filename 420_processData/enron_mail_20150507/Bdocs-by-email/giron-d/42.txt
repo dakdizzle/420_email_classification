@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+giron		2
+darron		2
+cn		2
+conversation	1
+day		1
+meeting		1
+catch		1
+looking		1
+recipients	1
+later		1
+filename	1
+na		1
+ve		1
+enron		1
+dgiron		1
+ubs		1
+pstsorry	1
+forward		1
+ou		1
+dg		1

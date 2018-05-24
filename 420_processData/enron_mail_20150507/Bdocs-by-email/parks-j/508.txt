@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+favoritism	1
+situation	1
+lease		1
+poor		1
+pittiful	1
+offered		1
+perhaps		1
+deer		1

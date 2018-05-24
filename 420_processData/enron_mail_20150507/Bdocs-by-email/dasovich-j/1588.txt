@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+first		1
+consumer	1
+thing		1
+apologist	1
+florio		1
+resend		1
+better		1
+advocate	1
+turn		1
+jeff		1
+best		1
+document	1
+mflorio		1
+org		1
+mike		1
+ll		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ve		1
+prices		1
+right		1
+now		1
+susan		1
+system		1
+think		1

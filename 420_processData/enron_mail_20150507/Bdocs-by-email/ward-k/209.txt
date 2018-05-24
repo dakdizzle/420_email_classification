@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+one		2
+griffith	1
+related		1
+deal		1
+meant		1
+thanks		1

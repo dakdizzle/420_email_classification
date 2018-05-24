@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+forwarded	1
+iihave		1
+ward		1
+request		1

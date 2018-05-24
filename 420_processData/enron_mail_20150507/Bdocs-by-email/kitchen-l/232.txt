@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+problems	1
+huge		1
+looking		1
+reduced		1
+round		1
+netco		1
+peg		1
+having		1
+square		1
+hole		1

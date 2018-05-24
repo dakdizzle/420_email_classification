@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+hourly		2
+go		2
+notice		1
+showing		1
+day		1
+tag		1
+additionally	1
+even		1
+interest	1
+offer		1
+tags		1
+issues		1
+less		1
+clear		1
+part		1
+crystal		1
+ahead		1
+sink		1
+use		1
+minutes		1

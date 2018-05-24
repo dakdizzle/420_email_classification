@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+case		1
+myeol		1
+bid		1
+looking		1
+know		1
+sell		1
+more		1
+kevin		1
+better		1
+thanks		1

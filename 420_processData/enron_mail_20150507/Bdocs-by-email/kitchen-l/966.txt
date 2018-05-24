@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+site		2
+please		2
+email		1
+thankslouise	1
+etc		1
+doyle		1
+expect		1
+aes		1
+each		1
+asap		1
+l		1
+basis		1
+list		1
+sites		1
+need		1
+year		1
+onondaga	1
+development	1
+include		1
+sold		1

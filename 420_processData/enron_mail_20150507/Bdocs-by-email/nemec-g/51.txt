@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+mark		1
+few		1
+attached	1
+made		1
+comments	1
+see		1
+small		1

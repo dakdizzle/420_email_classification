@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+asp		1
+pwenergy	1
+plantinfo	1
+description	1
+http		1
+fourcorners	1
+default		1
+com		1

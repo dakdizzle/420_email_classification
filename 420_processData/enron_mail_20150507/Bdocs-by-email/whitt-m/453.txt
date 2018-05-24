@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+things		1
+bad		1
+getting		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+send		1
+asap		1
+rick		1
+information	1
+pls		1
+thx		1
+submit		1

@@ -1,0 +1,20 @@
+NumWords	21
+NumTerms	17
+
+pm		5
+brad		1
+redmond		1
+brian		1
+power		1
+vickersfriday	1
+today		1
+following	1
+meetingtomorrow	1
+tycholiz	1
+richterthankslouise	1
+weekly		1
+lagrasta	1
+please		1
+barry		1
+frank		1
+cancel		1

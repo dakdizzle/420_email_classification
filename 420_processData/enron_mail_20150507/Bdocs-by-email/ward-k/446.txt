@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+home		1
+sit		1
+around		1
+house		1
+until		1
+stick		1
+cool		1
+meet		1
+patio		1

@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+office		2
+ed		1
+mcmichael	1
+list		1
+front		1
+back		1
+mid		1
+hall		1
+bob		1
+kk		1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+life		2
+successful	1
+reassured	1
+mean		1
+failure		1
+low		1
+relationships	1
+take		1
+seem		1
+point		1
+something	1
+really		1
+please		1
+recently	1

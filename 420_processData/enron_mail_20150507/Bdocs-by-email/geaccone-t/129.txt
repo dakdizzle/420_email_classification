@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+issues		1
+cash		1
+handle		1
+going		1
+surrounding	1

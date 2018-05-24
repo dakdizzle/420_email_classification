@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+much		1
+look		1
+looking		1
+hearing		1
+thank		1
+jon		1
+forward		1
+very		1
+youregards	1

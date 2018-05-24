@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+yes		1
+fletch		1
+fine		1
+thanks		1

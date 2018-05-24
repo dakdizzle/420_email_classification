@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+chris		2
+calgary		1
+coming		1
+traci		1
+shout		1
+hard		1
+up		1
+seeing		1
+albertat	1
+swcalgary	1
+great		1
+enron		1
+h		1
+again		1
+work		1
+hotmail		1
+sure		1
+comcdorland	1
+don		1
+st		1
+give		1
+catching	1
+com		1
+dorland		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+yahoo		1
+jtownse		1
+com		1

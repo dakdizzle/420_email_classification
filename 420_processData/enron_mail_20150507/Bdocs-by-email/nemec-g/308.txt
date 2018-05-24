@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+form		2
+amendment	2
+sake		1
+days		1
+attached	1
+letter		1
+sorry		1
+clarity		1
+delay		1
+extend		1
+dow		1
+instead		1
+used		1
+brine		1
+rusty		1
+agreement	1
+period		1

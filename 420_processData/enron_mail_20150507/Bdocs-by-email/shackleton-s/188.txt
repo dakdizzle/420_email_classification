@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+discuss		1
+mark		1
+recent		1
+meeting		1
+included	1
+rmt		1
+attorney	1
+review		1
+continue	1
+susan		1
+form		1
+mention		1
+masters		1
+sara		1
+changes		1
+rotation	1
+swap		1
+ll		1

@@ -1,0 +1,18 @@
+NumWords	19
+NumTerms	15
+
+ferc		2
+fully		2
+control		2
+ero		2
+under		1
+ok		1
+assume		1
+regulating	1
+john		1
+self		1
+organization	1
+thanks		1
+jim		1
+long		1
+update		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+harris		1
+want		1
+coordinate	1
+colin		1
+keith		1
+through		1

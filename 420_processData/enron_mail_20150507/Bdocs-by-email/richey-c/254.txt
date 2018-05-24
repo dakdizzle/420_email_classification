@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+feel		1
+bitch		1
+matinee		1

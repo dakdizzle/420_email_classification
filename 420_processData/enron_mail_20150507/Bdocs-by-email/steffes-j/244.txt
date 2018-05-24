@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+first		1
+memo		1
+fyi		1

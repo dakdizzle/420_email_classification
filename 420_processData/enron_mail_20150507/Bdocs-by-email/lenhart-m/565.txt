@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+dog		1
+spend		1
+money		1
+spending	1
+times		1
+yesterday	1
+getting		1
+liked		1
+really		1
+house		1
+tight		1
+saw		1
+figure		1

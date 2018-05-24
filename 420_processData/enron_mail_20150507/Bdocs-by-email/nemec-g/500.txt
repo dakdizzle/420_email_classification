@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+cn		2
+nemec		2
+gerald		2
+revised		1
+pstjohn		1
+review		1
+recipients	1
+variance	1
+filename	1
+na		1
+privileged	1
+gnemec		1
+non		1
+discussion	1
+enron		1
+please		1
+language	1
+ou		1
+based		1

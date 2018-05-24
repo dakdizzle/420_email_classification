@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+unofficial	1
+track		1
+vacation	1
+mean		1
+keeping		1
+system		1

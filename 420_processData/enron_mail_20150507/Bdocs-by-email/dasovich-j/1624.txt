@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+cn		3
+jeremy		1
+up		1
+know		1
+recipients	1
+sounds		1
+na		1
+call		1
+good		1
+enron		1
+jeff		1
+best		1
+notesaddr	1
+f		1
+ou		1
+set		1
+blachman	1

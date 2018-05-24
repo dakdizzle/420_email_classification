@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+case		2
+basis		1
+decide		1
+ppas		1
+whether		1
+pre		1
+process		1
+looks		1

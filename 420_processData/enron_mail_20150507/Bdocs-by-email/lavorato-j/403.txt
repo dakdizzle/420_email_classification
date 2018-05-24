@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+accounting	2
+taking		1
+budget		1
+dwr		1
+make		1
+meeting		1
+place		1
+john		1
+commication	1
+deals		1
+lists		1
+million		1
+currently	1
+high		1
+please		1
+one		1
+sure		1
+whalley		1
+deal		1
+prob		1

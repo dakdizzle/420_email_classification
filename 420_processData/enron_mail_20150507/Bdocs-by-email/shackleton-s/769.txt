@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+reports		2
+georganne	1
+eb		1
+whiting		1
+greg		1
+fax		1
+hodges		1
+calculations	1
+ph		1
+street		1
+wholesale	1
+names		1
+gregkevin	1
+todd		1
+services	1
+shackletonenron	1
+warwick		1
+accounting	1
+whitesara	1
+ahouston	1
+tx		1
+smith		1
+margin		1

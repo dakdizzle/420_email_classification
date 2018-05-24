@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+together	1
+time		1
+friday		1
+keep		1
+won		1
+even		1
+wasn		1
+out		1
+touch		1
+invited		1
+go		1
+night		1
+figure		1

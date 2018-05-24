@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+shot		1
+lee		1
+buck		1
+bass		1

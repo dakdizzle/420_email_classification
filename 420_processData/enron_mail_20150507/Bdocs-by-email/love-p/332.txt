@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+make		2
+pl		1
+chucks		1
+up		1
+trouble		1
+wanted		1
+thanks		1
+call		1
+barbque		1
+follow		1
+run		1
+numbers		1
+tomorrow	1
+sure		1
+still		1
+give		1

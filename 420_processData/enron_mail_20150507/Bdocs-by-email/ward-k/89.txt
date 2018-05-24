@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+price		2
+charlie		1
+kim		1
+floor		1
+movements	1
+reprice		1
+today		1
+mesa		1
+based		1
+thanks		1

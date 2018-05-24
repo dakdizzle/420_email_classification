@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+jones		1
+yearly		1
+monthly		1
+phone		1
+pager		1
+lynne		1
+revenue		1
+reuters		1
+good		1
+basis		1
+subscription	1
+luck		1
+product		1
+sold		1
+give		1
+asid		1

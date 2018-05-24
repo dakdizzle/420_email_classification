@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+thinks		1
+talk		1
+katy		1
+go		1
+idea		1
+going		1
+vegas		1
+see		1
+think		1
+ll		1
+over		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+thankschris	1
+know		1
+germany		1
+see		1

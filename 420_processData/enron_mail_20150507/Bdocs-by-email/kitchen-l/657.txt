@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+see		2
+example		1
+americas	1
+position	1
+enron		1
+please		1
+ones		1
+report		1
+access		1
+perfectly	1
+reports		1
+explain		1

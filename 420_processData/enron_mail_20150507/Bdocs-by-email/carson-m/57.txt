@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+gooooooooooood	1
+cold		1
+end		1
+guys		1
+sound		1
+beers		1
+mc		1
+plans		1
+wk		1
+usc		1
+game		1

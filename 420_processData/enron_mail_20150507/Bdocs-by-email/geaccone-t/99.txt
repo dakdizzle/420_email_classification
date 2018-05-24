@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+working		1
+steve		1
+tomorrow	1
+ask		1
+mary		1
+harris		1
+thankstracy	1
+tw		1
+kay		1
+still		1
+call		1
+presentation	1

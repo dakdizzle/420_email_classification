@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cn		2
+jsteffe		2
+interchange	1
+function	1
+recipients	1
+filename	1
+na		1
+privileged	1
+jim		1
+steffes		1
+consolidation	1
+rto		1
+non		1
+enron		1
+pstcharles	1
+james		1
+needed		1
+ou		1
+virtual		1

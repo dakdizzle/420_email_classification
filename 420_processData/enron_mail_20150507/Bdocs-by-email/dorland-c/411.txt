@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+kim		2
+cn		2
+grant		1
+stock		1
+thank		1
+options		1
+price		1
+restricted	1
+kmelodi		1
+recipients	1
+chris		1
+na		1
+vesting		1
+schedule	1
+oustanding	1
+enron		1
+dates		1
+please		1
+ou		1
+melodick	1
+including	1

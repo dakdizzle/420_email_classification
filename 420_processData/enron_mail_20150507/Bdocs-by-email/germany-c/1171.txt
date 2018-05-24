@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+doing		2
+something	1
+extended	1
+hope		1
+niteline	1
+wasn		1
+embarrissssssing	1

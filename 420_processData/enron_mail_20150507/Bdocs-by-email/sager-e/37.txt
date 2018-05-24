@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+group		1
+meeting		1
+credit		1
+today		1
+ees		1
+paulmike	1
+call		1
+questions	1
+representing	1
+told		1
+sager		1
+smith		1
+thankselizabeth	1
+new		1
+hi		1

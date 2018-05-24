@@ -1,0 +1,25 @@
+NumWords	39
+NumTerms	22
+
+oct		5
+gj		4
+vs		3
+aeco		3
+di		3
+eolsold		2
+basis		2
+fin		2
+mm		2
+order		1
+cowan		1
+thanxchris	1
+eoland		1
+eolbought	1
+working		1
+today		1
+rocks		1
+malin		1
+trades		1
+buy		1
+bought		1
+carlosthese	1

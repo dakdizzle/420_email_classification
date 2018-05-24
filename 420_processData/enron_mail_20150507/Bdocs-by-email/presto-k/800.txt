@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+defined		1
+rotations	1
+track		1
+finished	1
+essentially	1
+already		1
+candidates	1
+trading		1
+through		1

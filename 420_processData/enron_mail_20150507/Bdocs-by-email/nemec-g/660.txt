@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+ok		2
+those		1
+long		1
+counterparties	1
+removal		1
+changes		1

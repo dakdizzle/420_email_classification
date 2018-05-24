@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+soon		1
+something	1
+look		1
+word		1
+near		1
+ben		1
+end		1
+call		1

@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+chris		2
+cn		2
+germany		2
+cgerman		1
+recipients	1
+meet		1
+filename	1
+na		1
+alain		1
+out		1
+pstsounds	1
+good		1
+hope		1
+believe		1
+enron		1
+thur		1
+ou		1
+before		1
+till		1

@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+trading		2
+spare		1
+coming		1
+officerenron	1
+interview	1
+fax		1
+operating	1
+power		1
+position	1
+talk		1
+gas		1
+louise		1
+houston		1
+kitchenchief	1
+east		1
+kevin		1
+slots		1
+really		1
+americastel	1
+tomorrow	1
+marcello	1
+financial	1
+south		1
+think		1

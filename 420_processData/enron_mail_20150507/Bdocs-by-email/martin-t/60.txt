@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+info		1
+heard		1
+situation	1
+rollover	1
+know		1
+season		1
+tom		1
+see		1
+anything	1
+holiday		1
+great		1
+error		1
+hope		1
+new		1
+checking	1
+esop		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+long		1
+toss		1
+conversastion	1
+back		1
+shall		1
+going		1
+rings		1

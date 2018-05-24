@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+send		1
+net		1
+haas		1
+psellers	1
+need		1
+prentice	1
+pacbell		1
+address		1
+longer		1
+ll		1
+valid		1

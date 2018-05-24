@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+magnani		1
+thesearchcenter	1
+com		1

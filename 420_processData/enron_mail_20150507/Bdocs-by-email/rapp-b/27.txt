@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+received	1
+recall		1
+haven		1

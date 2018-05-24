@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+centana		2
+ed		1
+know		1
+final		1
+attached	1
+currently	1
+inventory	1
+approval	1
+waiting		1
+comments	1
+joe		1
+liquidation	1
+proposal	1

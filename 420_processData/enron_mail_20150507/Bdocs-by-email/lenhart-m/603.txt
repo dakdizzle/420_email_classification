@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+pay		2
+out		1
+go		1
+now		1
+want		1
+more		1
+need		1

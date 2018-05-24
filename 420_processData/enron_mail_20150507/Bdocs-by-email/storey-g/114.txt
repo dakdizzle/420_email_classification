@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+consumers	1
+gas		1
+enbridge	1
+cut		1
+trading		1

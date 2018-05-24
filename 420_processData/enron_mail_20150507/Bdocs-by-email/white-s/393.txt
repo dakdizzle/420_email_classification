@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+cn		2
+enron		1
+postlethwaite	1
+john		1
+jpostle		1
+recipients	1
+ou		1
+na		1
+thanks		1

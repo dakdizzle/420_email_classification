@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+awhile		1
+give		1
+haven		1
+call		1
+talked		1

@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+articles	2
+msn		2
+asp		1
+laugh		1
+womencentral	1
+http		1
+artfeed		1
+crap		1
+decided		1
+ve		1
+anymore		1
+shouldn		1
+weddings	1
+one		1
+made		1
+read		1
+com		1

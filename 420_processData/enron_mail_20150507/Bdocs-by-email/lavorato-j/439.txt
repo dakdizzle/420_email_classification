@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+cn		3
+dana		2
+ec		1
+talk		1
+recipients	1
+na		1
+mention		1
+kim		1
+enron		1
+recommend	1
+notesaddr	1
+contract	1
+ou		1
+d		1
+melodick	1
+oxley		1
+cd		1

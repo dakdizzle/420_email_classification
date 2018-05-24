@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+avs		1
+going		1
+denver		1
+play		1
+better		1

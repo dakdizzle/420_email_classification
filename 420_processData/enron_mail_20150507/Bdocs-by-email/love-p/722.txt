@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+sitting		1
+bathroom	1
+pl		1
+front		1
+personnel	1
+stadium		1
+bartender	1
+future		1
+even		1
+talked		1
+understands	1
+out		1
+instead		1
+fucking		1
+right		1
+kicked		1
+pour		1
+drinks		1
+hilarious	1
+year		1
+already		1
+funnier		1
+next		1

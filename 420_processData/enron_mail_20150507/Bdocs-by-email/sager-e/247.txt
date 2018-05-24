@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+soon		1
+copy		1
+talk		1
+received	1
+signed		1
+today		1
+help		1
+thanks		1

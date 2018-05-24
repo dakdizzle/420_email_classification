@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+great		1
+fax		1
+details		1
+creating	1
+nc		1
+deal		1
+don		1
+mind		1
+here		1
+ll		1
+over		1
+thanks		1

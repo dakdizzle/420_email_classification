@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+mom		2
+doing		2
+story		1
+stuff		1
+up		1
+quite		1
+now		1
+audrey		1
+picture		1
+good		1
+great		1
+advocate	1
+anymore		1
+fair		1
+control		1
+birth		1
+struggleing	1
+hop		1
+book		1
+dad		1
+hoped		1
+still		1
+big		1
+new		1

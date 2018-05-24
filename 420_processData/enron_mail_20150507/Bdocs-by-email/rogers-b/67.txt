@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+home		1
+rogersofenron	1
+yahoo		1
+mail		1
+com		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+week		2
+out		1
+info		1
+attached	1
+want		1
+discussed	1
+last		1
+looks		1
+amendment	1

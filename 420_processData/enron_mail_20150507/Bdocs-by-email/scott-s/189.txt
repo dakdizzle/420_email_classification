@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+duncan		1
+comes		1
+tickets		1

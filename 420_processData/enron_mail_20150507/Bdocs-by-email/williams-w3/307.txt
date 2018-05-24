@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+influence	1
+journalism	1
+article		1
+enron		1
+tell		1
+pretty		1
+thoughts	1
+big		1

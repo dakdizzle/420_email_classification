@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+first		1
+pm		1
+meeting		1
+available	1
+another		1
+minutes		1

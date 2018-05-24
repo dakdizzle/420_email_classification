@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+together	1
+make		1
+loop		1
+obligation	1
+fine		1
+allegretti	1
+improving	1
+help		1
+dan		1
+market		1
+jim		1
+something	1
+nepool		1
+going		1
+putting		1
+bad		1
+sure		1
+still		1
+think		1
+mistake		1

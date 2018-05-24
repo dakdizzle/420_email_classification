@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+dp		1
+know		1
+questions	1
+here		1

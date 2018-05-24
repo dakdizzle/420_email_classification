@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+nails		2
+toes		1
+heard		1
+close		1
+up		1
+micheal		1
+keep		1
+watch		1
+schedule	1
+yesterday	1
+getting		1
+call		1
+tic		1
+nice		1
+kim		1
+done		1
+sign		1
+part		1
+want		1
+waiting		1
+checking	1

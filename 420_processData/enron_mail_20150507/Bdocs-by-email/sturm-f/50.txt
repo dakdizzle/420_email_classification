@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+quietly		1
+problems	1
+ok		1
+net		1
+up		1
+confusing	1
+deeper		1
+trying		1
+find		1
+fletch		1
+companies	1
+clean		1
+many		1
+publicly	1
+come		1
+available	1
+interesting	1
+forward		1
+dad		1
+going		1
+thought		1
+read		1

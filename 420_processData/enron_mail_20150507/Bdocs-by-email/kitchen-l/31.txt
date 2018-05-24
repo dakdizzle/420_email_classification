@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+each		1
+much		1
+people		1
+ok		1
+real		1
+sachsi		1
+essentially	1
+material	1
+money		1
+problem		1
+think		1

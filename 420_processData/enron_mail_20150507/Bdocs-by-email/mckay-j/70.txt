@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+agreeing	1
+currency	1
+jon		1
+helping		1
+nymex		1
+offer		1

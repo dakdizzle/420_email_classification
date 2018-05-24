@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+stacey		1
+meetings	1
+attending	1
+still		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+sit		1
+feel		1
+pay		1
+tuesday		1
+crappy		1
+game		1
+ripped		1
+tix		1
+tonight		1
+through		1

@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+paul		2
+simons		2
+lawyer		1
+enron		1
+phone		1
+mail		1
+address		1
+number		1
+com		1

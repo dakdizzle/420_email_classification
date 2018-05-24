@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+phillip		2
+cn		2
+love		2
+plove		1
+wt		1
+pl		1
+grant		1
+calc		1
+socal		1
+ena		1
+following	1
+pstcan		1
+recipients	1
+filename	1
+na		1
+ft		1
+people		1
+enron		1
+please		1
+ebradydgironplovethanks	1
+book		1
+ou		1
+access		1

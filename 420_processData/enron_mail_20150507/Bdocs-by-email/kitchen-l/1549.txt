@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+higher		1
+bradford	1
+plan		1
+bit		1
+bill		1
+fyi		1
+thought		1
+number		1

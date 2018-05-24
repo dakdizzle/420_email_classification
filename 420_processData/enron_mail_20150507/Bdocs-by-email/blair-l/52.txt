@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lynn		1
+first		1
+look		1
+ava		1
+please		1
+meet		1
+week		1
+schedule	1
+thanks		1
+next		1
+mine		1
+randy		1

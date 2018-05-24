@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+blackberry	2
+net		1
+wireless	1
+handheld	1
+www		1
+pages		1
+substitute	1
+sent		1
+perfume		1
+signed		1
+yes		1
+need		1
+don		1
+new		1

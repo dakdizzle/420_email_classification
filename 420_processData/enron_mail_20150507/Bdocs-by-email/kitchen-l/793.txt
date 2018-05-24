@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+lkitchen	2
+cn		2
+hey		1
+track		1
+kitchen		1
+louise		1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+originator	1
+enron		1
+update		1
+ou		1
+dave		1
+pstprobably	1

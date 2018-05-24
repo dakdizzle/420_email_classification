@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+info		1
+copy		1
+lisa		1
+know		1
+faxed		1
+total		1
+thanks		1
+please		1
+another		1
+last		1
+week		1
+don		1
+hours		1
+receive		1

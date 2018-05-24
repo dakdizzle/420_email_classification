@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+enron		3
+resigned	1
+comgail		1
+ages		1
+left		1
+netkaren	1
+owens		1
+isdavid		1
+seen		1
+vince		1
+cox		1
+evidently	1
+btw		1
+haven		1
+joe		1
+bibi		1
+here		1

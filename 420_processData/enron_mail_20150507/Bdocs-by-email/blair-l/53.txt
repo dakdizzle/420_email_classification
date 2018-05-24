@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+well		2
+lynn		1
+care		1
+situation	1
+becky		1
+trip		1
+mauro		1
+acknowledge	1
+take		1
+enjoyedthe	1
+hope		1
+opportunity	1
+impressed	1
+work		1
+yes		1
+timeto		1
+took		1
+very		1
+note		1

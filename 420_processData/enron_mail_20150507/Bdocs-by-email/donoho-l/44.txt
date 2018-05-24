@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+m		1
+hope		1
+time		1
+wonderful	1
+sorry		1
+attend		1

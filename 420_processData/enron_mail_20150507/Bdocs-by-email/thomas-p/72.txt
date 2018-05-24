@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+traffic		1
+plus		1
+grill		1
+go		1
+weekend		1
+work		1
+loveme		1
+bad		1
+wanted		1
+thought		1

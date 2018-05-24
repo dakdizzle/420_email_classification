@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+kward		2
+kim		2
+cn		2
+know		1
+december	1
+recipients	1
+houston		1
+filename	1
+na		1
+thanks		1
+privileged	1
+non		1
+alto		1
+pstpalo		1
+enron		1
+ward		1
+questions	1
+ou		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+tariffs		1
+customer	1
+pge		1
+services	1
+html		1
+pxdy		1
+http		1
+www		1
+business	1
+com		1

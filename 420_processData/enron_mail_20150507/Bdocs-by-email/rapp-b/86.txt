@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+comments	2
+look		1
+anyone		1
+fine		1
+see		1
+wait		1

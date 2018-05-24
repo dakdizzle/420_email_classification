@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+sent		1
+greg		1
+nightmare	1
+real		1
+knoe		1
+wireless	1
+handheld	1
+back		1
+numbers		1
+blackberry	1
+don		1
+still		1

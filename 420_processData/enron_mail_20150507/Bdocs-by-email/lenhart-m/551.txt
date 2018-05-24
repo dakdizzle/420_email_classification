@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+dont		1
+look		1
+talking		1
+up		1
+skinny		1
+know		1
+c		1
+pretty		1

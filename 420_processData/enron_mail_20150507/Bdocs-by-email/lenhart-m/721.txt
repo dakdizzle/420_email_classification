@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+divorced	1
+happened	1
+girl		1
+up		1
+know		1
+nothing		1

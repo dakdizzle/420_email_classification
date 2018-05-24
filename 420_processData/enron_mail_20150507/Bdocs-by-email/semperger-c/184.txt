@@ -1,0 +1,22 @@
+NumWords	24
+NumTerms	19
+
+button		3
+pressed		3
+now		2
+results		1
+stacy		1
+sheet		1
+light		1
+twice		1
+see		1
+help		1
+out		1
+grey		1
+done		1
+possible	1
+please		1
+before		1
+data		1
+new		1
+given		1

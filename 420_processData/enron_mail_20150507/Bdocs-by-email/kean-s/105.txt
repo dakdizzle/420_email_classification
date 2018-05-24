@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+french		2
+useful		1
+exposition	1
+girls		1
+penetrating	1
+prep		1
+culture		1
+test		1
+next		1

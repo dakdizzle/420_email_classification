@@ -1,0 +1,10 @@
+NumWords	9
+NumTerms	7
+
+yeah		3
+texadelphia	1
+around		1
+going		1
+still		1
+loveben		1
+call		1

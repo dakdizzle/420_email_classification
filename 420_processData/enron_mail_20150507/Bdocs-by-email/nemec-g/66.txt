@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+version		1
+revised		1
+clean		1
+up		1
+changes		1
+attached	1
+loi		1
+redline		1
+picked		1
+previous	1
+tried		1
+paragraph	1

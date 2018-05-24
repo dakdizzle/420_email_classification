@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+group		1
+possibly	1
+tax		1
+thankslouise	1
+know		1
+need		1
+colette		1
+here		1

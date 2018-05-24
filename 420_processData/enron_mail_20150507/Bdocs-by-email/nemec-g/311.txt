@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+username	1
+gnemecpass	1
+jbkg		1
+grn		1

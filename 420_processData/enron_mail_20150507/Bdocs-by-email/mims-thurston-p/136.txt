@@ -1,0 +1,20 @@
+NumWords	21
+NumTerms	17
+
+jeff		3
+know		2
+document	2
+csn		1
+hear		1
+hodge		1
+currently	1
+sale		1
+back		1
+reviewing	1
+bill		1
+update		1
+more		1
+spoke		1
+proceed		1
+ll		1
+obtain		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+stelzer		1
+irwin		1
+article		1
+abut		1
+further		1
+enron		1
+talk		1
+wrote		1
+willing		1
+phone		1
+number		1
+call		1

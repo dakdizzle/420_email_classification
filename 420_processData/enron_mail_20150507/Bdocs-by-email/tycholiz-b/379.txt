@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+packet		1
+location	1
+forward		1
+pls		1
+bt		1
+number		1
+thanks		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+discuss		1
+kim		1
+thing		1
+office		1
+mansoor		1
+trying		1
+thanks		1
+afternoon	1
+remember	1

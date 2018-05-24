@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+pictures	1
+great		1
+paul		1
+thanks		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+rick		1
+person		1
+tx		1
+attend		1
+ll		1

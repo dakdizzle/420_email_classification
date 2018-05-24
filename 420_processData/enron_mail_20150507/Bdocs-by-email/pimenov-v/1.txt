@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+lapka		1
+bespokoisia	1
+vse		1
+takoy		1
+ne		1
+zhe		1
+konechno	1
+mozhno		1
+sdelaem		1
+kamen		1
+naiti		1

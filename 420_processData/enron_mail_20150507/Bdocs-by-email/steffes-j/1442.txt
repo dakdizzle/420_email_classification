@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+cn		2
+jsteffe		2
+discuss		1
+ca		1
+job		1
+gottfredson	1
+pls		1
+recipients	1
+filename	1
+na		1
+call		1
+privileged	1
+steffes		1
+openings	1
+bryan		1
+non		1
+possible	1
+enron		1
+pstjeff		1
+james		1
+ou		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+sensitivity	1
+jeff		1
+best		1
+know		1
+find		1
+don		1
+thanks		1
+ll		1

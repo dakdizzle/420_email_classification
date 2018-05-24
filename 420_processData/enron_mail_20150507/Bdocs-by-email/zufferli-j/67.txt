@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+products	1
+counterparties	1
+list		1
+here		1

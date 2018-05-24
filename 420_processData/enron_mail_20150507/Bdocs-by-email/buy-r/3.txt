@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+chart		1
+send		1
+rick		1
+please		1
+fyi		1
+org		1
+tx		1

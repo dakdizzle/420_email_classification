@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+title		1
+john		1
+casaucoumeq	1
+anne		1
+document	1
+work		1
+read		1

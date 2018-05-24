@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+someone		2
+coordinated	1
+make		1
+everything	1
+responsible	1
+wanted		1
+entering	1
+evan		1
+getting		1
+market		1
+jim		1
+point		1
+issues		1
+lately		1
+team		1
+completing	1
+paperwork	1
+knew		1
+sure		1
+new		1
+cec		1

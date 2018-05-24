@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+word		1
+make		1
+power		1
+slide		1
+jan		1
+copies		1
+print		1
+thanks		1
+out		1
+kim		1
+point		1
+documents	1
+ll		1

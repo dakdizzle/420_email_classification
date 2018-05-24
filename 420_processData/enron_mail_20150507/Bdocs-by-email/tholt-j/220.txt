@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+rally		1
+know		1
+opionion	1
+want		1
+don		1
+call		1

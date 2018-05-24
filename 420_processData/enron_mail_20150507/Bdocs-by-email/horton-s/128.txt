@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+resources	1
+corporate	1
+limited		1
+cut		1
+newsletter	1
+given		1

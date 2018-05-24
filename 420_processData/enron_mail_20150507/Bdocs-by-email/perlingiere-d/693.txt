@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+threshold	1
+please		1
+neil		1
+contact		1
+brandenmark	1
+amount		1
+thanks		1
+mm		1

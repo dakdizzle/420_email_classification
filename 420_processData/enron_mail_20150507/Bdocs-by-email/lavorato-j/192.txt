@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+under		1
+indi		1
+seattle		1
+pickmphil	1
+giants		1
+balance		1
+sf		1
+denver		1
+tease		1
+jack		1
+pitt		1
+jets		1
+cinci		1
+work		1
+carolina	1
+over		1

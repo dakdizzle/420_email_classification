@@ -1,0 +1,7 @@
+NumWords	6
+NumTerms	4
+
+kitty		3
+funny		1
+oh		1
+here		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+stock		1
+thoughts	1
+market		1

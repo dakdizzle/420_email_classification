@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+possibly	1
+monday		1
+day		1
+job		1
+ami		1
+meetings	1
+taken		1
+meet		1
+tuesday		1
+call		1
+good		1
+believe		1
+monika		1
+luck		1
+extension	1
+new		1
+here		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+first		1
+until		1
+working		1
+confirms	1
+desk		1
+anxious		1
+hoping		1
+confirm		1
+forward		1
+more		1
+before		1
+set		1
+comments	1
+move		1
+wait		1
+amendment	1
+next		1
+here		1

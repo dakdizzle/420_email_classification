@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+america		1
+email		1
+enron		1
+cancelled	1
+confirms	1
+north		1
+deal		1

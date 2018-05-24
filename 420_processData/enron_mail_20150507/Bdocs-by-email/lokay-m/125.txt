@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+point		1
+paso		1
+el		1
+february	1
+price		1
+topock		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lloyd		1
+up		1
+tj		1
+attend		1
+set		1
+thanks		1

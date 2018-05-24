@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+job		2
+thanks		2
+fun		1
+much		1
+make		1
+hard		1
+well		1
+easier		1
+trips		1
+administrative	1
+appreciate	1
+issues		1
+great		1
+amy		1
+update		1
+makes		1
+again		1
+work		1
+sure		1
+don		1
+doing		1
+worry		1

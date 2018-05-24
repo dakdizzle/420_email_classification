@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+jforney		3
+cn		2
+john		1
+vacation	1
+recipients	1
+phone		1
+filename	1
+na		1
+thanks		1
+privileged	1
+via		1
+cell		1
+non		1
+enron		1
+psttj		1
+ou		1
+forney		1
+week		1
+checking	1
+next		1

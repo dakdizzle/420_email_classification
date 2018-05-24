@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+point		1
+updated		1
+power		1
+information	1
+phillip		1
+presentation	1
+here		1

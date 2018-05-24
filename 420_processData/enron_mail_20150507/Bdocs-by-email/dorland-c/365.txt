@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+cherokee	1
+grand		1
+changes		1
+made		1
+limited		1

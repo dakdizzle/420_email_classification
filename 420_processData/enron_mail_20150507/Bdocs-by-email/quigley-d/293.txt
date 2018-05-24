@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+adjustment	1
+settle		1
+based		1
+volume		1
+offer		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+html		1
+http		1
+spot		1
+culprit		1
+take		1
+minute		1
+wrong		1
+picture		1
+look		1
+networks	1
+secure		1
+whatswrong	1
+falcon		1
+closely		1
+com		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+pl		1
+bill		1
+total		1
+thanks		1

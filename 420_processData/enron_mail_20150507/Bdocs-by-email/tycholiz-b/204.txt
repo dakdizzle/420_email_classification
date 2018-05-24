@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+forthcoming	1
+first		1
+years		1
+start		1
+paid		1
+isn		1
+need		1
+bt		1
+efforts		1
+tommorrow	1
+otherwise	1

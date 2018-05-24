@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+up		1
+back		1
+yes		1
+picked		1
+stalford	1
+wang		1
+yesterday	1

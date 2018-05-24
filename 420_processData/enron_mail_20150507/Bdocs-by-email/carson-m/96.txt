@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+pm		1
+york		1
+mc		1
+ready		1
+lincoln		1
+rock		1

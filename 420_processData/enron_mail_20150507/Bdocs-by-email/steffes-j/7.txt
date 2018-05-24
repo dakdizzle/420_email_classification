@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+time		1
+please		1
+update		1
+ginger		1
+bob		1
+see		1
+call		1
+rcr		1
+next		1

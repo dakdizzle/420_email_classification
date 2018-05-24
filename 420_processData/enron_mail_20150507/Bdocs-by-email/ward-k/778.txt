@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sending		1
+art		1
+overnight	1

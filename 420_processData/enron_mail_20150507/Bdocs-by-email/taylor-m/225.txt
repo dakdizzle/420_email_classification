@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+travelers	1
+mobile		1
+checks		1

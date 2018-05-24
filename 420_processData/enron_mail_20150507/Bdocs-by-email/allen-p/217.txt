@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+latest		1
+ok		1
+jacques		1
+faxed		1
+draft		1
+fine		1
+phillip		1
+looks		1
+kevin		1
+finalized	1
+hope		1
+sign		1
+kolb		1
+stagecoach	1
+release		1
+wife		1
+waiting		1
+comments	1
+move		1

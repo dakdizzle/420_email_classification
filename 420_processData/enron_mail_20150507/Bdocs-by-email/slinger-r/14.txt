@@ -1,0 +1,13 @@
+NumWords	14
+NumTerms	10
+
+services	2
+book		2
+bought		2
+deal		2
+via		1
+mw		1
+generator	1
+purchase	1
+apx		1
+price		1

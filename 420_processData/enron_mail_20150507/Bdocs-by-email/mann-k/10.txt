@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+open		1
+right		1
+connection	1
+looking		1
+jeff		1
+season		1
+suggestion	1
+tennessee	1
+pa		1
+pipeline	1

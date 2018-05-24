@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+know		2
+meeting		1
+agree		1
+one		1
+shankman	1
+wanted		1
+critical	1

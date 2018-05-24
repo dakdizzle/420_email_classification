@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+honor		1
+ticket		1
+original	1
+grants		1

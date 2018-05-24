@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+starts		1
+paid		1
+production	1
+ticket		1
+months		1

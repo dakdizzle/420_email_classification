@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+enron		2
+time		1
+john		1
+comx		1
+jean		1
+find		1
+pls		1
+christi		1
+filename	1
+call		1
+privileged	1
+jim		1
+steffes		1
+jx		1
+linda		1
+non		1
+sarah		1
+jsteffe		1
+origin		1
+work		1
+pstthane	1
+ryall		1
+robertson	1
+com		1

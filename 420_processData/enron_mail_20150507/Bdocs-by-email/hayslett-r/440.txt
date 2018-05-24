@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+debt		1
+assume		1
+afudc		1

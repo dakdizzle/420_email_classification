@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ok		1
+mom		1
+back		1
+bring		1
+want		1
+work		1
+guess		1
+pats		1
+looks		1
+sunday		1

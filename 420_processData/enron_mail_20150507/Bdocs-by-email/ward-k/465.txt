@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+fun		1
+much		1
+ran		1
+party		1
+brad		1
+up		1
+ended		1
+friend		1
+wasn		1
+bar		1
+fagan		1
+went		1
+loud		1

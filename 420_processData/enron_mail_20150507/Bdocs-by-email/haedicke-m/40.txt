@@ -1,0 +1,21 @@
+NumWords	23
+NumTerms	18
+
+mark		2
+mhaedic		2
+haedicke	2
+cn		2
+london		2
+stuck		1
+person		1
+recipients	1
+filename	1
+na		1
+privileged	1
+psti		1
+non		1
+office		1
+video		1
+enron		1
+ou		1
+attend		1

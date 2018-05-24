@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+mwhitt		2
+cn		2
+mark		1
+october		1
+pstcan		1
+recipients	1
+th		1
+meet		1
+tuesday		1
+filename	1
+na		1
+afternoon	1
+privileged	1
+non		1
+enron		1
+prefferable	1
+ou		1
+whitt		1
+next		1

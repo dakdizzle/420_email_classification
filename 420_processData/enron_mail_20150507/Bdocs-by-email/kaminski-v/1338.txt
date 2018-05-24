@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+salon		1
+mess		1
+html		1
+index		1
+http		1
+www		1
+deregulation	1
+feature		1
+news		1
+com		1

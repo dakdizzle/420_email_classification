@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+question	2
+think		2
+transaction	1
+respond		1
+marie		1
+ect		1
+uk		1
+susan		1
+books		1
+help		1
+thanks		1
+tax		1
+back		1
+backed		1
+remain		1
+below		1
+e		1
+mail		1
+laurel		1

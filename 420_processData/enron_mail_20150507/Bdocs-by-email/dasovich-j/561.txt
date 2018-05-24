@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+movie		2
+great		1
+fishes		1
+message		1
+family		1
+yeah		1
+brazzie		1
+notified	1
+luca		1
+corleone	1
+beginning	1
+sleeps		1

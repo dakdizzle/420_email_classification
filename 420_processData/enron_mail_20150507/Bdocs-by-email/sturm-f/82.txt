@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+down		1
+great		1
+thomas		1
+come		1
+fletch		1

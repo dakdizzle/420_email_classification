@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+early		1
+becky		1
+everyone	1
+left		1
+comments	1
+yesterday	1

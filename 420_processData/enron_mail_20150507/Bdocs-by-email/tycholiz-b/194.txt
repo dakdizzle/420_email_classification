@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+bt		1
+thanks		1
+always		1

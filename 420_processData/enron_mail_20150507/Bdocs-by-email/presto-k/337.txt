@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+sale		2
+normally	1
+monday		1
+holdings	1
+up		1
+share		1
+report		1
+missing		1
+today		1
+assuming	1
+shown		1
+thanks		1
+corrected	1
+enron		1
+line		1
+last		1
+week		1

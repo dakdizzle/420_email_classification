@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+expenses	1
+try		1
+paid		1
+guys		1
+biggest		1
+chunk		1
+careful		1
+go		1
+already		1
+still		1
+very		1
+think		1
+minimize	1

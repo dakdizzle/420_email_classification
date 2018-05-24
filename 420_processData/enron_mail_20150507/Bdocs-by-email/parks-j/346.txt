@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+again		1
+once		1
+lawyers		1
+wait		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+bring		1
+bout		1

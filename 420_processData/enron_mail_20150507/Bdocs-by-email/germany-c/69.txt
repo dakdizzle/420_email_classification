@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+joni		2
+veselack	2
+dc		1
+open		1
+send		1
+interested	1
+name		1
+scheduling	1
+pg		1
+person		1
+outside		1
+phone		1
+neg		1
+pge		1
+mention		1
+jobs		1
+maryland	1
+bethesda	1
+com		1
+resume		1

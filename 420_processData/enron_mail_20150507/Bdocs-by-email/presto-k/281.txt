@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+loss		2
+generator	1
+part		1
+due		1
+occurred	1
+million		1
+repairs		1

@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+please		2
+kennedy		2
+paul		1
+attached	1
+forward		1
+review		1
+acceptable	1
+amendment	1

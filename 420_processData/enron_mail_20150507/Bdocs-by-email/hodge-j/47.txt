@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+anything	1
+coh		1
+aiysha		1
+quot		1
+volumes		1
+firm		1
+through		1

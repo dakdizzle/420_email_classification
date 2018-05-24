@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+retail		1
+issues		1
+texas		1
+right		1
+messages	1
+jean		1
+considered	1
+going		1
+doug		1

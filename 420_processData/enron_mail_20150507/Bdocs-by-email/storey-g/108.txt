@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+thats		1
+day		1
+enron		1
+settle		1
+yes		1
+sorry		1
+last		1
+nymex		1
+code		1
+system		1

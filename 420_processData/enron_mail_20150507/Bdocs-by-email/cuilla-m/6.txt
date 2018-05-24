@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+forwarded	1
+midcontinent	1
+sorry		1
+canada		1
+souad		1
+trade		1
+eastern		1
+mahmassani	1

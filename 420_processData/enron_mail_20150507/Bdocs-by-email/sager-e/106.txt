@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+need		2
+apart		1
+met		1
+talk		1
+wed		1
+falls		1
+see		1
+hit		1
+call		1
+soon		1
+somebody	1
+body		1
+tournament	1
+another		1
+sat		1
+night		1
+proam		1
+cindyi		1
+maybe		1
+sager		1
+elizabeth	1
+hi		1
+love		1
+play		1

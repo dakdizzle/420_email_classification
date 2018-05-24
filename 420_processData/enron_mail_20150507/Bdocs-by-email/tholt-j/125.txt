@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+socal		1
+responsible	1
+now		1
+matt		1
+smith		1
+imbalance	1
+trading		1

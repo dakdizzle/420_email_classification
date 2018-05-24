@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+type		1
+tired		1

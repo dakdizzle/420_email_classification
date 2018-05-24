@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+latest		1
+drift		1
+xlscan		1
+position	1
+power		1
+stacey		1
+ena		1
+rho		1
+sorry		1
+common		1
+yesterday	1
+cal		1
+reconciliation	1
+dpr		1
+thought		1
+give		1

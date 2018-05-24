@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+send		2
+sempra		2
+up		1
+please		1
+one		1
+trade		1
+agreement	1
+set		1
+gisb		1
+thanks		1

@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+good		2
+notes		2
+both		1
+informative	1
+looking		1
+bill		1
+steve		1
+weekend		1
+work		1
+detailed	1
+appreciate	1
+very		1

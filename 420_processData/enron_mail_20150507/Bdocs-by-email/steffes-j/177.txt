@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+egm		1
+becky		1
+nurf		1
+advocacy	1
+fyi		1
+past		1

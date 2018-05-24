@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+group		1
+accounting	1
+received	1
+purchase	1
+wire		1
+tied		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+monday		1
+vince		1
+greg		1
+meeting		1
+great		1
+idea		1
+built		1
+mike		1
+son		1
+mins		1
+computer	1
+help		1

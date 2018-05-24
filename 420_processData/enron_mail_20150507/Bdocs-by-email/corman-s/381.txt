@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+corman		1
+filename	1
+transfer	1
+privileged	1
+content		1
+non		1
+encoding	1
+psthere		1
+scorman		1
+origin		1
+sx		1
+bitx		1
+thoughts	1

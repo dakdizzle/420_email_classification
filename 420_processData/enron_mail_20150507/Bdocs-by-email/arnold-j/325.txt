@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+dinner		1
+blow		1
+again		1
+going		1
+tonight		1

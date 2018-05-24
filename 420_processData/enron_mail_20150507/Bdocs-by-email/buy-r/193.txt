@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+dash		1
+fax		1
+rick		1
+guy		1
+tx		1
+stephanie	1
+blank		1

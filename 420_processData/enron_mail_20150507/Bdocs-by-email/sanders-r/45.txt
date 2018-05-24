@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+make		1
+family		1
+inlaws		1
+try		1
+third		1
+son		1
+celebration	1
+bring		1
+pass		1
+maybe		1
+joint		1
+rest		1
+birthday	1

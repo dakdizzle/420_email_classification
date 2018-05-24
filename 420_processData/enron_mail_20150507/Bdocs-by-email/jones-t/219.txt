@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+problems	1
+tjones		1
+jones		1
+pstdo		1
+keep		1
+now		1
+filename	1
+transfer	1
+privileged	1
+out		1
+ve		1
+content		1
+non		1
+encoding	1
+figured		1
+trades		1
+origin		1
+keeping		1
+bitx		1
+tx		1
+ll		1

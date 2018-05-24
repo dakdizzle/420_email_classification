@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+home		1
+send		1
+houston		1
+jparks		1
+sure		1
+com		1
+rr		1
+appropriate	1

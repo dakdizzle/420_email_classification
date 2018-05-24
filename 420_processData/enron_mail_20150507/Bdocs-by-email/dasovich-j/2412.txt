@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+best		2
+transaction	1
+hanging		1
+time		1
+talk		1
+folks		1
+days		1
+well		1
+desk		1
+contact		1
+keep		1
+loop		1
+wanted		1
+worries		1
+getting		1
+thanks		1
+jeff		1
+enjoy		1
+back		1
+everyone	1
+luck		1
+couple		1

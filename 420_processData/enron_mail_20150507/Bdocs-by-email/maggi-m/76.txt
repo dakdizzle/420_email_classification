@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+know		2
+now		1
+want		1
+tell		1
+bday		1
+im		1
+kidding		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+ceases		1
+possibility	1
+leaving		1
+india		1
+exists		1
+mean		1
+c		1
+remember	1
+doesn		1

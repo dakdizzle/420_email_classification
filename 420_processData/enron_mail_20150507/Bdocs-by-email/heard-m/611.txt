@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+out		1
+know		1
+once		1
+sure		1
+figure		1
+ll		1

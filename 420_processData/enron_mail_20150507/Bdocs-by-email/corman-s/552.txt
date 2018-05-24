@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ve		1
+email		1
+track		1
+time		1
+please		1
+know		1
+final		1
+lost		1
+replies		1

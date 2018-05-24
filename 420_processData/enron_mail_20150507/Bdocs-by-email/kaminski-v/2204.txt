@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+send		1
+operation	1
+copy		1
+hello		1
+looking		1
+darrell		1
+report		1
+things		1
+trying		1
+creditdesk	1
+web		1
+protected	1
+password	1
+site		1
+vince		1
+access		1
+week		1
+london		1
+expert		1
+com		1

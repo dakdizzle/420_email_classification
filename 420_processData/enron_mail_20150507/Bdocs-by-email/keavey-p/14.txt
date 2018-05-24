@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+group		1
+hear		1
+floor		1
+time		1
+fopr		1
+days		1
+few		1
+well		1
+safe		1
+nd		1
+pete		1
+drink		1
+fundamental	1
+go		1
+staying		1
+visiting	1
+extn		1
+flight		1

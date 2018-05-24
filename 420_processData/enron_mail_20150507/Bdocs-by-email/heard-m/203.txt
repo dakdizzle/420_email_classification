@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+original	2
+dynegy		1
+status		1
+send		1
+sempra		1
+well		1
+files		1
+marie		1
+uom		1
+each		1
+forwarded	1
+roeline		1
+great		1
+hope		1
+received	1
+back		1
+weekend		1
+going		1
+assignments	1
+execution	1
+checking	1
+hi		1

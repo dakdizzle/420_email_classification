@@ -1,0 +1,26 @@
+NumWords	31
+NumTerms	23
+
+know		4
+eat		3
+place		2
+before		2
+don		2
+escalators	1
+hard		1
+near		1
+coffee		1
+wortham		1
+guess		1
+meet		1
+cafe		1
+bayou		1
+places		1
+barbecue	1
+theatre		1
+rock		1
+matter		1
+go		1
+want		1
+bottom		1
+doesn		1

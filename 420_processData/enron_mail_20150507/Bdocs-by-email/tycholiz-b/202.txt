@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+roadrunner	2
+install		2
+mainframe	1
+seems		1
+talk		1
+disappeared	1
+now		1
+bt		1
+forget		1
+thanks		1
+box		1
+back		1
+printer		1
+need		1
+mail		1
+software	1
+address		1
+don		1
+drop		1

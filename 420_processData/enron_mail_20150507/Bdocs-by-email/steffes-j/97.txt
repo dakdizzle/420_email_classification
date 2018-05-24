@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+out		1
+enron		1
+linnell		1
+recipients	1
+ou		1
+elinnell	1
+town		1
+na		1
+elizabeth	1

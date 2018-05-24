@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+tgeacco		2
+cn		2
+slides		2
+transpecos	1
+revised		1
+steve		1
+recipients	1
+geaccone	1
+filename	1
+na		1
+thanks		1
+privileged	1
+tracy		1
+psti		1
+non		1
+enron		1
+eric		1
+ou		1
+including	1

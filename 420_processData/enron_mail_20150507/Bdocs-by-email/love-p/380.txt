@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+pl		1
+man		1

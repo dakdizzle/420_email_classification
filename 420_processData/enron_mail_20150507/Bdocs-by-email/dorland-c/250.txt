@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+home		1
+talk		1
+going		1
+chris		1
+later		1
+give		1
+ryan		1
+call		1

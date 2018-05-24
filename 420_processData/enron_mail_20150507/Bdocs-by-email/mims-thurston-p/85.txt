@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+national	1
+gas		1
+price		1
+sale		1
+mmbtu		1
+confirm		1
+dan		1
+nipscoquantity	1
+america		1
+point		1
+enron		1
+shall		1
+north		1
+d		1
+natural		1
+mail		1
+delivery	1
+steel		1
+date		1

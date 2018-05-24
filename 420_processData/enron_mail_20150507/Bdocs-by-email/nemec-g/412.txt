@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+two		1
+doc		1
+mary		1
+initials	1
+executables	1
+prepare		1
+thanks		1

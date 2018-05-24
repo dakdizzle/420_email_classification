@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+rhaysle		2
+believe		2
+cn		2
+support		1
+time		1
+recipients	1
+currently	1
+hayslett	1
+filename	1
+na		1
+privileged	1
+capacity	1
+jim		1
+point		1
+absorb		1
+psti		1
+non		1
+enron		1
+ou		1
+rod		1
+request		1

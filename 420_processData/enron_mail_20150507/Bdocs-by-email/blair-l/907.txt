@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+good		1
+brad		1
+overlap		1
+looks		1
+see		1
+thanks		1

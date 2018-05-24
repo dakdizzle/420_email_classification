@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+great		1
+job		1
+sager		1
+elizabeth	1
+unbelievable	1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+addition	1
+invite		1
+ones		1
+name		1
+audrey		1
+thanks		1
+ve		1
+kim		1
+list		1
+brown		1
+please		1
+one		1
+more		1
+already		1
+elizabeth	1
+given		1
+add		1

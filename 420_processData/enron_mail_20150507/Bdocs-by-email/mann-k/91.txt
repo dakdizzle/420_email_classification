@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+blackberry	2
+guaranty	1
+net		1
+fax		1
+debbie		1
+copy		1
+wireless	1
+handheld	1
+ask		1
+www		1
+call		1
+sent		1
+executed	1
+please		1

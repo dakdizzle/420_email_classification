@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+problems	1
+calgary		1
+thanxchris	1
+make		1
+guys		1
+chris		1
+site		1
+getting		1
+having		1
+access		1
+sure		1
+new		1
+dorland		1
+fundy		1

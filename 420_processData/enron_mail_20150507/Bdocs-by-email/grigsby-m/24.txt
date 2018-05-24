@@ -1,0 +1,12 @@
+NumWords	12
+NumTerms	9
+
+access		3
+file		2
+directory	1
+specific	1
+mike		1
+need		1
+curves		1
+requested	1
+thanks		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+sure		2
+enforceablepar	1
+okpar		1
+sara		1
+understand	1
+atthanks	1
+getting		1
+par		1
+call		1

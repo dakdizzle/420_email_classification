@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+thanks		2
+group		1
+setting		1
+kim		1
+up		1
+regulatory	1
+houston		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+seen		1
+ben		1
+felicity	1

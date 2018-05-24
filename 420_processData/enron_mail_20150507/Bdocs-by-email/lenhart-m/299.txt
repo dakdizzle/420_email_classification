@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+out		1
+case		1
+something	1
+know		1
+sat		1
+cook		1

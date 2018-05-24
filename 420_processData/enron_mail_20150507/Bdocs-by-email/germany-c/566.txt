@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+little		1
+jim		1
+beer		1
+ok		1
+go		1
+need		1

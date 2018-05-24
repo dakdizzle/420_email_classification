@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+attached	1
+redline		1
+stephanie	1
+comments	1

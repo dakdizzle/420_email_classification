@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+rick		1
+buy		1
+approve		1
+request		1
+thanks		1

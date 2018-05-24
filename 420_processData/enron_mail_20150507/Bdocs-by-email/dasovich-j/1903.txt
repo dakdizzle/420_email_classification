@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+want		1
+lurch		1
+leave		1
+though		1
+don		1

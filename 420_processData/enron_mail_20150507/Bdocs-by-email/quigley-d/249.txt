@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+look		2
+okhttp		1
+goodfor		1
+www		1
+take		1
+dutch		1
+htmllove	1
+stadiumfund	1
+two		1
+section		1
+psl		1
+lower		1
+more		1
+thought		1
+sitei		1
+tickets		1
+com		1

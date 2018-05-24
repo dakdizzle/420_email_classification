@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+back		1
+thank		1
+available	1
+tomorrow	1
+funeral		1
+attending	1
+meet		1
+tuesday		1
+jmf		1
+checking	1

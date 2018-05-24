@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+heavy		1
+group		1
+out		1
+fully		1
+experience	1
+consider	1
+staffed		1
+lc		1
+applicants	1
+forward		1
+going		1
+found		1

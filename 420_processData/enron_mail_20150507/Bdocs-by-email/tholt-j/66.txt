@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+anything	1
+make		1
+try		1
+buck		1
+ll		1

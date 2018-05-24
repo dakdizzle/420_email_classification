@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+funny		1
+ceo		1
+mixed		1
+response	1
+new		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+weekend		1
+town		1

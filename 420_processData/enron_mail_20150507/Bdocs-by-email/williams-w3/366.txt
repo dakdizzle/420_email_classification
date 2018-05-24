@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+deal		3
+new		2
+summary		2
+flash		1
+changed		1
+simply		1
+recalculate	1
+know		1
+paso		1
+price		1
+prior		1
+shown		1
+revenue		1
+help		1
+thanks		1
+zero		1
+morning		1
+out		1
+way		1
+heather		1
+bill		1
+electric	1
+el		1
+receive		1

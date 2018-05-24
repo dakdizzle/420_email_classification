@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+talk		1
+lewis		1
+want		1
+leads		1
+probably	1
+names		1
+jay		1
+product		1
+ll		1

@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+term		2
+cn		2
+short		1
+williams	1
+recipients	1
+lean		1
+na		1
+longer		1
+robert		1
+out		1
+rwillia		1
+enron		1
+one		1
+ou		1
+need		1
+week		1

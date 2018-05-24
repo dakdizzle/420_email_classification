@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+morning		1
+around		1
+m		1
+except		1
+anytime		1
+available	1

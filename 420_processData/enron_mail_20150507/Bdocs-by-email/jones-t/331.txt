@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sam		1
+best		1
+thanks		1

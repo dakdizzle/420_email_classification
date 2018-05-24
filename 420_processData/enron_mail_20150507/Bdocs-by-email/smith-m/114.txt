@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+msmith		2
+cn		2
+id		1
+now		1
+woodstrom	1
+recipients	1
+filename	1
+na		1
+privileged	1
+pstif		1
+non		1
+enron		1
+query		1
+want		1
+matt		1
+ou		1
+smith		1
+access		1
+dave		1

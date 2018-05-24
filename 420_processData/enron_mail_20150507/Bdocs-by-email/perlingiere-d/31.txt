@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+leslie		1
+fax		1
+david		1
+power		1
+following	1
+contact		1
+number		1
+regarding	1
+please		1
+portz		1
+one		1
+hansen		1
+trading		1

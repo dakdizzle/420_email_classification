@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+miles		2
+kim		1
+account		1
+redeposit	1
+assume		1
+amex		1
+thanks		1

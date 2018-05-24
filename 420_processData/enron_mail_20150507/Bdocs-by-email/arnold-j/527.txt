@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+again		2
+something	1
+really		1
+good		1
+welcome		1
+before		1
+maybe		1
+months		1
+see		1

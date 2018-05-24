@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+recommend	1
+fyi		1
+anybody		1

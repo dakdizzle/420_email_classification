@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+aosire		1
+drafted		1
+enron		1
+osire		1
+recipients	1
+ou		1
+agreement	1
+na		1
+ann		1

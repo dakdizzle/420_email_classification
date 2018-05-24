@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+dude		1
+royal		1
+place		1
+left		1
+th		1
+faaaaar		1
+ave		1
+message		1
+tomorrow	1
+mt		1
+scheduled	1
+called		1
+tentatively	1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+really		1
+coastal		1
+put		1
+up		1
+sale		1

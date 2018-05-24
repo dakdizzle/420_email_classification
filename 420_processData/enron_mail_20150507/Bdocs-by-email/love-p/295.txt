@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+pl		1
+guys		1
+today		1
+future		1
+trying		1
+continue	1
+thanks		1
+anyway		1
+screen		1
+bharat		1
+according	1
+log		1
+access		1
+still		1

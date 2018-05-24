@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+care		1
+take		1
+ll		1
+thanks		1

@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+leslie		2
+working		2
+williams	2
+bradford	1
+aron		1
+credit		1
+barbara		1
+gave		1
+marie		1
+goldman		1
+morgan		1
+looks		1
+p		1
+soon		1
+bill		1
+pulled		1
+already		1
+duke		1
+called		1
+jay		1

@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+mmc		2
+seay		1
+gretta		1
+victims		1
+company		1
+outsourced	1
+sandy		1
+cna		1
+fund		1
+laura		1
+cassey		1
+metlife		1
+mislin		1
+coyne		1
+works		1
+pat		1

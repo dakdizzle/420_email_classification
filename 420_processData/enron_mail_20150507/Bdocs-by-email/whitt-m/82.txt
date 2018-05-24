@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+enron		1
+heidi		1
+approve		1
+recipients	1
+ou		1
+hdubose		1
+na		1
+dubose		1
+see		1
+thanks		1

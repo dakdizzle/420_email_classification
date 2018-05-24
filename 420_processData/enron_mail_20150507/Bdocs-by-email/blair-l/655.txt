@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+sent		2
+lynn		1
+out		1
+agenda		1
+reply		1
+power		1
+virginia	1
+vernon		1
+found		1
+sharon		1
+thanks		1

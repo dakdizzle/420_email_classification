@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+kim		1
+citizens	1
+done		1
+please		1
+questions	1
+spreadsheet	1
+deals		1
+lastest		1
+thanks		1
+call		1
+here		1

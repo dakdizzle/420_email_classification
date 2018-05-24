@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+little		1
+michelle	1
+needed		1
+levity		1
+thanks		1

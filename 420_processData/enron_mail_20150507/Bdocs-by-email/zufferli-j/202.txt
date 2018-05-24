@@ -1,0 +1,25 @@
+NumWords	28
+NumTerms	22
+
+currency	3
+houston		2
+markets		2
+allowed		2
+traders		2
+make		1
+corporately	1
+outside		1
+even		1
+post		1
+ways		1
+same		1
+trade		1
+products	1
+way		1
+two		1
+inside		1
+enough		1
+screen		1
+numbers		1
+unsure		1
+eol		1

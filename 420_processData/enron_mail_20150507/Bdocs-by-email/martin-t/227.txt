@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+wrong		1
+little		1
+something	1
+talk		1
+ago		1
+crying		1
+wihile		1
+tom		1
+went		1
+help		1
+laura		1
+over		1

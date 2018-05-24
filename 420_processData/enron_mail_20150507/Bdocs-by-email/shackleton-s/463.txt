@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+discuss		1
+sam		1
+eb		1
+items		1
+maintenance	1
+fax		1
+ph		1
+street		1
+review		1
+wholesale	1
+services	1
+shackletonenron	1
+please		1
+ahouston	1
+contract	1
+log		1
+tx		1
+smith		1
+sarasara	1
+calendar	1

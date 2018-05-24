@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+cara		2
+meeting		1
+divorce		1
+guys		1
+final		1
+now		1
+month		1
+copies		1
+yesterday	1
+freeland	1
+done		1
+papers		1
+go		1
+want		1
+records		1

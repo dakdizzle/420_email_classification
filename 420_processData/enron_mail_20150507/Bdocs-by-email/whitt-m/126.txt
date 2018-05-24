@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+possible	1
+steve		1
+works		1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+shanna		2
+boudreaux	1
+doc		1
+gaspipe		1
+letter		1
+leah		1
+judy		1
+cover		1
+call		1
+backup		1
+wbk		1
+resume		1
+here		1

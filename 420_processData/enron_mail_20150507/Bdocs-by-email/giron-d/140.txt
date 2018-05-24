@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+great		2
+way		1
+closes		1
+open		1
+oklahoma	1
+zydeco		1
+state		1
+friday		1
+going		1
+dg		1
+schedule	1
+cancel		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+sid		1
+board		1
+type		1
+action		1
+messages	1
+http		1
+yahoo		1
+bbs		1
+com		1

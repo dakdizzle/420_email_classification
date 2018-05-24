@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+invoice		1
+thank		1
+show		1
+approve		1
+phillip		1
+system		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+gas		1
+weekend		1
+sold		1

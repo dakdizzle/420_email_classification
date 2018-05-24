@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+going		2
+meeting		1
+thomas		1
+october		1
+steve		1
+well		1
+th		1
+really		1
+walton		1
+another		1
+probably	1
+attend		1
+jake		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+board		1
+bulletin	1
+dont		1
+scott		1
+occasionally	1
+keep		1
+someone		1
+sale		1
+eye		1
+offer		1
+out		1
+tickets		1
+jmf		1
+ll		1
+discounted	1

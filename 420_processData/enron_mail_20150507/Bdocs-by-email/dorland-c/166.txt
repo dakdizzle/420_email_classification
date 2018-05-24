@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+little		1
+home		1
+oz		1
+come		1
+please		1
+thank		1
+pay		1
+eau		1
+spray		1
+toilette	1
+chris		1
+very		1

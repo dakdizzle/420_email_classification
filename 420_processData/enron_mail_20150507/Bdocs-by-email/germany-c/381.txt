@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+energy		1
+payables	1
+elvis		1
+see		1

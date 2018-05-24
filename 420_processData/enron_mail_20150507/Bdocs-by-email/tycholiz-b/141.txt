@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+please		1
+questions	1
+bt		1
+couple		1
+call		1

@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+initial		2
+middle		2
+send		1
+scott		1
+compression	1
+looking		1
+information	1
+thank		1
+susan		1
+even		1
+shown		1
+system		1
+emails		1
+services	1
+please		1
+nothing		1
+more		1
+probably	1
+below		1
+access		1
+don		1

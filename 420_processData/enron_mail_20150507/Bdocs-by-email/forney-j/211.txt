@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+oasis		2
+ercot		1
+zpzzhttp	1
+copy		1
+create		1
+htmlyou		1
+attached	1
+password	1
+ljester		1
+site		1
+see		1
+existing	1
+requests	1
+please		1
+index		1
+logon		1
+iso		1
+jmf		1
+new		1
+com		1

@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+semperger	2
+cn		2
+cara		2
+today		1
+recipients	1
+filename	1
+na		1
+csemper		1
+enron		1
+pstmike		1
+work		1
+ou		1
+going		1
+tully		1

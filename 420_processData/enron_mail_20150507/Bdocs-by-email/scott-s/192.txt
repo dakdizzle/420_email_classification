@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+flights		1
+up		1
+know		1
+checked		1
+paid		1
+anything	1
+roomie		1
+soon		1
+really		1
+regarding	1
+thinking	1
+m		1
+around		1
+air		1
+come		1
+available	1
+tell		1
+going		1
+sure		1
+sights		1
+fare		1
+ll		1
+mine		1

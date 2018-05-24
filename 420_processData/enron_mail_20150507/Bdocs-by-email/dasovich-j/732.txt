@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+christmas	1
+m		1
+hanging		1
+jeff		1
+hee		1
+kisses		1
+planter		1
+tee		1
+forget		1
+new		1
+expecting	1

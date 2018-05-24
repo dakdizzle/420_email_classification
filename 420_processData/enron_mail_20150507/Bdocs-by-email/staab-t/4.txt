@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+paid		2
+believe		1
+until		1
+know		1
+pay		1
+before		1
+waiting		1

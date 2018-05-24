@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+enjoyed		1
+john		1
+files		1
+thank		1
+vladis		1
+attached	1
+see		1
+call		1
+soon		1
+great		1
+go		1
+chance		1
+over		1
+here		1

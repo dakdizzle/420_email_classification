@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+kpd		1
+cell		1
+message		1
+try		1
+phone		1
+mucho		1
+hi		1
+love		1
+call		1
+thanks		1

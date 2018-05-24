@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+resolved	1
+kim		1
+everything	1
+paid		1
+michelle	1
+thanks		1

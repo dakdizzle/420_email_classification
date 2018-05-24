@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+iso		2
+username	1
+https		1
+epmipassword	1
+si		1
+timbers		1

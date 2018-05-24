@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+cypress		1
+millstone	1
+tx		1
+estates		1
+ln		1

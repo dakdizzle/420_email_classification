@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+seems		1
+complete	1
+comfortable	1
+once		1
+phillip		1
+hour		1
+wasteful	1
+extravagant	1
+trip		1
+boat		1
+project		1
+happy		1
+kirk		1
+deal		1
+small		1

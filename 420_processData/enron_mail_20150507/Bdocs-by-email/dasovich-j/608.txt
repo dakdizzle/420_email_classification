@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hey		1
+please		1
+ay		1
+faxing		1
+leeeen		1
+lol		1
+tell		1
+thanks		1

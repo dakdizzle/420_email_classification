@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+aol		1
+messenging	1
+up		1
+instatnt	1
+msn		1
+messenger	1
+set		1

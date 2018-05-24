@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+today		3
+pm		2
+monday		1
+pricing		1
+class		1
+maria		1
+hello		1
+leave		1
+meet		1
+eugenio		1
+thanks		1
+teaching	1
+scholes		1
+black		1
+teresa		1
+monika		1

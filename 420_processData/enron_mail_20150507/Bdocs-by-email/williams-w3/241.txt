@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+security	2
+cn		2
+bill		2
+cindy		1
+williams	1
+houston		1
+recipients	1
+involved	1
+filename	1
+na		1
+badge		1
+help		1
+remove		1
+list		1
+enron		1
+please		1
+iii		1
+ou		1
+bwillia		1
+obtain		1
+otherwise	1

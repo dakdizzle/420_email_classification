@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+maybe		1
+new		1
+lot		1
+parking		1

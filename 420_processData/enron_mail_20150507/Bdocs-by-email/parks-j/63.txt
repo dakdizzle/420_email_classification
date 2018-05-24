@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+counterparties	1
+credit		1
+ice		1
+today		1
+more		1
+going		1
+thanksjoe	1
+red		1
+lot		1
+established	1

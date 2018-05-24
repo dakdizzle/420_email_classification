@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+group		1
+copy		1
+know		1
+report		1
+talks		1
+depth		1
+executive	1
+former		1
+enron		1
+ben		1
+global		1
+jeff		1
+change		1
+wrote		1
+associates	1
+called		1
+still		1

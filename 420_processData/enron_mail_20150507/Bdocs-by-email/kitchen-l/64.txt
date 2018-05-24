@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+guarantees	1
+confirmation	1
+appears		1
+working		1
+ya		1
+awaiting	1
+shankman	1
+offer		1

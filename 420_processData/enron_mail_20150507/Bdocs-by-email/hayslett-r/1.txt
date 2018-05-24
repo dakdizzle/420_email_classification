@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+place		1
+end		1
+until		1
+december	1
+won		1
+permanent	1
+sometime	1

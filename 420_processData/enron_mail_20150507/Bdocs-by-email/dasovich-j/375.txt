@@ -1,0 +1,16 @@
+NumWords	17
+NumTerms	13
+
+up		3
+keep		2
+doing		2
+moving		1
+stock		1
+man		1
+attention	1
+baby		1
+now		1
+ve		1
+whatever	1
+jeff		1
+best		1

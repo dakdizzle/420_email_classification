@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+stuff		1
+sneaky		1
+send		1
+anymore		1
+back		1
+ask		1
+money		1
+oxy		1
+call		1

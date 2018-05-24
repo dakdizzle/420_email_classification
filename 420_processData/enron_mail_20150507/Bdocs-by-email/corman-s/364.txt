@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+sent		2
+blackberry	2
+net		1
+wireless	1
+handheld	1
+www		1

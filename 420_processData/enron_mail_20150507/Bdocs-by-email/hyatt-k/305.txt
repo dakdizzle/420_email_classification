@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+austin		2
+son		2
+david		1
+baseball	1
+saw		1
+night		1
+last		1
+practice	1
+basketball	1
+think		1
+play		1
+didn		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+pl		1
+shouldn		1
+spend		1
+watch		1
+fine		1
+booze		1
+money		1
+half		1
+tickets		1
+game		1

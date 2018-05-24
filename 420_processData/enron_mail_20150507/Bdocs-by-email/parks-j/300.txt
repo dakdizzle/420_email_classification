@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+wall		1
+journal		1
+read		1

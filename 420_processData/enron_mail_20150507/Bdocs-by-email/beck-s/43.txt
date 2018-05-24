@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+few		2
+kristin		2
+more		2
+minutes		2
+meetings	1
+stacey		1
+talk		1
+short		1
+tomorrowl	1
+detailed	1
+stayed		1
+meet		1
+download	1
+delainey	1
+building	1
+jeff		1
+sally		1
+cut		1
+give		1

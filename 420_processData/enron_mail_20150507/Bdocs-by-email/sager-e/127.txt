@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+good		1
+lap		1
+testing		1
+sager		1
+top		1
+willelizabeth	1
+luck		1
+computer	1
+tonight		1
+new		1
+small		1
+skills		1

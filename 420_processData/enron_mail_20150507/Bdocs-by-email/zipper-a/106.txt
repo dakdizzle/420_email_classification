@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+bruce		1
+garner		1
+list		1
+enron		1
+discussions	1
+barrick		1
+extensive	1
+gold		1
+add		1

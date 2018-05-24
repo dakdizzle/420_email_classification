@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+morning		1
+first		1
+thing		1
+signed		1
+directors	1
+added		1
+need		1
+documents	1
+correct		1
+names		1

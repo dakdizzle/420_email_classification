@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+everything	1
+up		1
+screws		1
+yes		1
+move		1
+don		1

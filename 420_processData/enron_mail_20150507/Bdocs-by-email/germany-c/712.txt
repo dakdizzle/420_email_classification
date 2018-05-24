@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+walk		1
+man		1
+congratulations	1
+hassle		1
+see		1
+don		1
+over		1

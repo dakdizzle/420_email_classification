@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+vince		1
+breakfast	1
+regency		1
+friday		1
+again		1
+work		1
+shawn		1
+sorry		1
+hyatt		1

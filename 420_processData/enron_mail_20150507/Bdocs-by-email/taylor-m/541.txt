@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+printed		2
+commands	1
+make		1
+up		1
+revisions	1
+john		1
+copies		1
+take		1
+holding		1
+both		1
+out		1
+tomorrow	1
+understand	1
+one		1
+made		1
+documents	1
+read		1
+doesn		1

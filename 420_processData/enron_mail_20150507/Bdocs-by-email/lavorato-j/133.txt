@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+pushing		1
+lavo		1
+go		1
+keep		1
+forward		1
+figure		1
+ll		1

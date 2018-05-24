@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+baylor		1
+html		1
+index		1
+http		1
+edu		1
+hsb		1
+tff		1
+martinj		1
+htm		1

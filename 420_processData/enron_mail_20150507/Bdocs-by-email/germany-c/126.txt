@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+com		2
+asp		1
+aol		1
+little		1
+growingfamily	1
+ebay		1
+http		1
+angle		1
+webnursery	1
+www		1
+myhomepage	1
+view		1
+sale		1
+m		1
+babypage	1
+urlid		1
+k		1
+pic		1
+index		1
+trogg		1
+htmlhttp	1
+hometown	1
+here		1

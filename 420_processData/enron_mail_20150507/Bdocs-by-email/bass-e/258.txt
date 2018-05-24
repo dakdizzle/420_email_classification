@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+net		1
+join		1
+larry		1
+eric		1
+bass		1
+love		1
+alltel		1
+lwbthemarine	1

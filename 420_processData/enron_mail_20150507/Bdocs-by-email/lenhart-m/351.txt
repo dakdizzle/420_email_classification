@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+forgot		2
+up		2
+out		2
+go		2
+much		1
+usually		1
+wedding		1
+austin		1
+th		1
+places		1
+stay		1
+good		1
+down		1
+again		1
+work		1
+told		1
+sure		1
+hang		1
+don		1
+st		1
+here		1

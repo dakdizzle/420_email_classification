@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+talk		1
+supposed	1
+think		1
+tonight		1

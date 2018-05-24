@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+girl		2
+hot		1
+up		1
+want		1
+won		1
+million		1
+thought		1
+hook		1
+think		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+starting	1
+time		1
+lodge		1
+highland	1
+lift		1
+nights		1
+found		1
+total		1
+stay		1
+ehh		1
+bad		1
+dec		1
+period		1
+receive		1
+tkts		1

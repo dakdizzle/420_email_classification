@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+cn		2
+bill		2
+inc		1
+relieved	1
+congestion	1
+up		1
+heads		1
+sheet		1
+williams	1
+recipients	1
+filename	1
+na		1
+thanks		1
+morning		1
+enron		1
+volumes		1
+iii		1
+ou		1
+hours		1
+quick		1
+bwillia		1

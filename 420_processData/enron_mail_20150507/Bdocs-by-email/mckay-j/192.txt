@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+mar		1
+regards		1
+jon		1
+jan		1
+offered		1
+offeed		1
+feb		1
+oct		1

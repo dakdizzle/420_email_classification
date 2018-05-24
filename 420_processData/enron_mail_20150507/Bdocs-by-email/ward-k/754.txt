@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+stuff		1
+party		1
+fun		1
+day		1
+make		1
+carry		1
+suz		1
+today		1
+keep		1
+fam		1
+see		1
+posted		1
+hope		1
+hood		1
+dip		1
+terri		1
+lets		1
+go		1
+kind		1
+going		1
+maybe		1
+rotel		1
+think		1

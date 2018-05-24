@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+knows		1
+everything	1
+place		1
+know		1
+today		1
+absolutely	1
+appreciate	1
+audrey		1
+help		1
+thanks		1
+actually	1
+kim		1
+really		1
+linda		1
+check		1
+wehring		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+case		1
+items		1
+takes		1
+forgot		1
+days		1
+working		1
+now		1
+far		1
+highlight	1
+done		1
+m		1
+needing		1
+max		1
+couple		1
+ll		1

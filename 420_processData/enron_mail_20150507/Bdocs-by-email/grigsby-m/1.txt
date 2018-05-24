@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+day		2
+mar		1
+know		1
+looks		1
+thanks		1
+check		1
+please		1
+positions	1
+change		1
+formulas	1
+mike		1
+large		1
+correct		1
+dec		1

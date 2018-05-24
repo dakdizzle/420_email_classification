@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+something	1
+try		1
+rope		1
+before		1
+heck		1
+doing		1
+figure		1
+don		1

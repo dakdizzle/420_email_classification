@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+day		1
+come		1
+friday		1
+vacation	1
+anytime		1
+though		1
+thurs		1

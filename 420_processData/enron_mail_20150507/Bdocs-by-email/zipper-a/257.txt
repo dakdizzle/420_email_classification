@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+remove		1
+list		1
+mailing		1
+please		1
+thanks		1

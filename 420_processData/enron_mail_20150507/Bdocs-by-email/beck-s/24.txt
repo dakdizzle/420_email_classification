@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+soon		1
+leslie		1
+breakfast	1
+message		1
+finish		1
+jeff		1
+stacey		1
+john		1
+response	1
+left		1
+mail		1
+call		1

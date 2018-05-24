@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+lkitchen	2
+cn		2
+lcs		1
+included	1
+kitchen		1
+obvious		1
+know		1
+louise		1
+recipients	1
+filename	1
+na		1
+schedule	1
+privileged	1
+non		1
+pstnot		1
+enron		1
+ou		1
+decision	1
+expiring	1
+think		1
+mm		1

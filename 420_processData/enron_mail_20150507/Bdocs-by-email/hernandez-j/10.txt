@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ve		1
+type		1
+time		1
+already		1
+mail		1
+gotten		1
+th		1
+stop		1

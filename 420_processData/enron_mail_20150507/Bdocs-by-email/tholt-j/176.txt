@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+sullivan	2
+numberpatti	1
+fax		1
+enron		1
+work		1
+number		1
+com		1
+patty		1

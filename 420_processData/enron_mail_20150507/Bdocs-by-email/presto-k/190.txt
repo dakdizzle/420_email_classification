@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+block		1
+mw		1
+show		1

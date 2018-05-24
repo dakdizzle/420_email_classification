@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+together	1
+calgary		1
+greg		1
+know		1
+sorry		1
+month		1
+long		1
+back		1
+again		1
+maybe		1
+probably	1
+sometime	1
+took		1
+ll		1

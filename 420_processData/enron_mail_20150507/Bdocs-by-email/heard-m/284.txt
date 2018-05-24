@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+monday		1
+holly		1
+exceptions	1
+days		1
+vacation	1
+marie		1
+june		1
+tuesday		1
+hi		1
+thanks		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+good		1
+up		1
+keep		1
+work		1
+healthy		1

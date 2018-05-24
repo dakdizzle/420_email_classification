@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+one		2
+addition	1
+step		1
+subtraction	1
+attached	1
+changes		1
+smith		1
+doug		1
+see		1
+gilbert		1
+joe		1

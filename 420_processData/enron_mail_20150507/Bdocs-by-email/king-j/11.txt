@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+thing		1
+caribou		1
+looked		1

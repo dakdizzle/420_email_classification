@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+august		2
+meeting		1
+institute	1
+location	1
+friday		1
+fine		1
+shown		1
+proposed	1
+tuesday		1
+falls		1
+suggested	1
+jim		1
+believe		1
+mid		1
+year		1
+date		1

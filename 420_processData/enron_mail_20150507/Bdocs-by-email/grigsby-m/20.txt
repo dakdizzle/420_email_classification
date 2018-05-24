@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+iferc		1
+language	1
+bidweek		1
+nightly		1
+including	1
+summary		1

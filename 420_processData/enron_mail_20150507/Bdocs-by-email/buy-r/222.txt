@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+unusual		1
+rick		1
+daily		1
+interest	1
+post		1
+checking	1
+thanks		1

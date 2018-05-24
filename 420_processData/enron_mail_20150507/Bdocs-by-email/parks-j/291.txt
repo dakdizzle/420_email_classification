@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+put		1
+centana		1
+phone		1
+waiting		1
+gloves		1
+call		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+everything	1
+receipt		1
+please		1
+ones		1
+report		1
+missing		1
+tell		1
+last		1
+outstanding	1
+don		1
+think		1
+receipts	1

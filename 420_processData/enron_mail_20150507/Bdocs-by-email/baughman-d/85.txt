@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+dbaughm		2
+cn		2
+recipients	1
+filename	1
+na		1
+pst		1
+privileged	1
+baughman	1
+non		1
+enron		1
+jr		1
+ou		1
+don		1

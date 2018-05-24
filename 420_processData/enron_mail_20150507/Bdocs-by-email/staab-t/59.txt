@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+know		2
+transactions	1
+please		1
+thankstheresa	1
+left		1
+wanted		1
+mail		1
+chris		1
+give		1
+call		1
+voice		1

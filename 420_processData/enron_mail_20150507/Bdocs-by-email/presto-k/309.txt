@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+shell		2
+deal		2
+ercot		1
+understanding	1
+now		1
+zero		1
+remember	1
+retail		1
+put		1
+supply		1
+calpine		1
+back		1
+obligations	1
+requirements	1

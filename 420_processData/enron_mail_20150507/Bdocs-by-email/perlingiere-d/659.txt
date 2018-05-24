@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ok		1
+alisha		1
+advise		1
+work		1

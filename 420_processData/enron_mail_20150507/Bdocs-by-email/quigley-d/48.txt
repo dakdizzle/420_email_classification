@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+picking		1
+good		1
+up		1
+time		1
+please		1
+later		1
+call		1
+market		1

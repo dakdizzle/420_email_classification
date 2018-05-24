@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+email		1
+scott		1
+hello		1
+know		1
+susan		1
+pick		1
+pete		1
+hoping		1
+thanks		1
+bit		1
+brain		1
+correct		1
+address		1

@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+couple		2
+frame		1
+trans		1
+those		1
+time		1
+page		1
+looking		1
+sheet		1
+stan		1
+provide		1
+kevin		1
+presentation	1
+kim		1
+used		1
+pecos		1
+ago		1
+happy		1
+narrative	1
+prepared	1
+d		1
+weeks		1
+fact		1
+quick		1
+slides		1

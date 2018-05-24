@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+monday		1
+frankdid	1
+show		1
+var		1

@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+sedan		2
+facility	1
+stand		1
+up		1
+know		1
+leave		1
+ready		1
+four		1
+srs		1
+pick		1
+reserved	1
+asked		1
+wanted		1
+kevin		1
+take		1
+ve		1
+regards		1
+shepherd	1
+north		1
+directed	1
+seasons		1
+beal		1
+through		1

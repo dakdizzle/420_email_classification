@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+great		1
+house		1
+idea		1
+excellent	1
+meet		1

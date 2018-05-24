@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lynn		1
+ava		1
+jean		1
+covered		1
+thanks		1

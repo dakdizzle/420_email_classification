@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+pm		1
+best		1
+dg		1

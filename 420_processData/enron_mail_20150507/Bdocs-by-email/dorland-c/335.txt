@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+thanxchris	1
+make		1
+today		1
+ian		1
+sure		1
+package		1
+ops		1
+yesterday	1
+didn		1

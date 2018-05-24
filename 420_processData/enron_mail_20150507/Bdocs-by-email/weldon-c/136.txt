@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+story		1
+coming		1
+stock		1
+travis		1
+days		1
+few		1
+swamped		1
+patient		1
+call		1
+ve		1
+long		1
+m		1
+house		1
+good		1
+enron		1
+bus		1
+think		1
+rain		1
+ll		1

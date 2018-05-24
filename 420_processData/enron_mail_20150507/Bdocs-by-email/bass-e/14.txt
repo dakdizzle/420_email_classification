@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+id		1
+php		1
+index		1
+http		1
+breeders	1
+dogbreedinfo	1
+com		1

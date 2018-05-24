@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+group		1
+deals		1
+person		1
+referenced	1
+someone		1
+bryce		1
+zero		1
+look		1
+actualized	1
+please		1
+sitara		1
+forward		1
+below		1
+need		1
+deal		1
+appropriate	1

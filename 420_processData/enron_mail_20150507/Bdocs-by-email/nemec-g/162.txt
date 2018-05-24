@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+coming		1
+gt		1
+hey		1
+town		1

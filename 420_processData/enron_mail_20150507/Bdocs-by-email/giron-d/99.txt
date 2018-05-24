@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+know		2
+kids		1
+make		1
+july		1
+kristi		1
+plans		1
+willing		1
+need		1
+dg		1
+week		1
+still		1

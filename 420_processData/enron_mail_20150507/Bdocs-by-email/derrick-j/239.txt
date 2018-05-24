@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+jim		2
+become		1
+thank		1
+keep		1
+continue	1
+broadband	1
+dimichele	1
+aware		1
+forwarded	1
+opportunities	1
+message		1
+enron		1
+best		1
+rich		1
+reagan		1
+san		1
+mind		1
+area		1
+francisco	1

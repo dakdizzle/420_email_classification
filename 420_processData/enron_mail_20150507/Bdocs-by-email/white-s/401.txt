@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+allocated	2
+power		2
+stacey		1
+west		1
+center		1
+cost		1
+east		1
+thanks		1

@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+scott		2
+neal		2
+cn		2
+sneal		1
+gave		1
+recipients	1
+filename	1
+na		1
+fitzgerald	1
+amy		1
+psti		1
+enron		1
+ou		1
+last		1
+week		1

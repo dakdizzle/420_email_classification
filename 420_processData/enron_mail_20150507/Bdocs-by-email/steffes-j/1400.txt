@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+please		1
+approve		1
+ginger		1

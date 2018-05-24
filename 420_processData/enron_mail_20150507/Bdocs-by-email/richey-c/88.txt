@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+being		1
+calculating	1
+sandy		1
+one		1
+selfish		1
+someone		1
+machination	1
+mad		1

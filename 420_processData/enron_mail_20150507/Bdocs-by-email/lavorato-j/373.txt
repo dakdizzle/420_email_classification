@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+cn		3
+ff		2
+david		1
+recipients	1
+someone		1
+na		1
+enron		1
+please		1
+notesaddr	1
+cae		1
+ou		1
+oxley		1
+deal		1

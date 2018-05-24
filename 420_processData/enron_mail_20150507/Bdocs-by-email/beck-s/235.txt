@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+paul		2
+something	1
+go		1
+want		1
+meet		1
+preparing	1
+help		1

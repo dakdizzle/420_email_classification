@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+cn		2
+order		1
+thanxchris	1
+plan		1
+administered	1
+ira		1
+paine		1
+contact		1
+kmelodi		1
+recipients	1
+webber		1
+na		1
+wondering	1
+kim		1
+enron		1
+roll		1
+ou		1
+need		1
+melodick	1

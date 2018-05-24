@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+hell		1
+things		1
+yep		1
+waiting		1
+slow		1
+pretty		1
+still		1
+here		1

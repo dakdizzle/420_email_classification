@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+john		2
+ve		1
+psti		1
+received	1
+jlavora		1
+one		1
+response	1
+projects	1
+filename	1
+inquiries	1
+coleen		1
+lavorato	1

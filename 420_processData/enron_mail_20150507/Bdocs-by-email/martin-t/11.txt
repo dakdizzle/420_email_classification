@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+talk		1
+guys		1
+leave		1
+tom		1
+daren		1

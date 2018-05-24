@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+auctions	1
+seen		1
+vince		1
+papers		1
+mentioned	1
+dennis		1
+one		1
+aboutdiscriminative	1
+missed		1
+kaminski	1
+thanks		1

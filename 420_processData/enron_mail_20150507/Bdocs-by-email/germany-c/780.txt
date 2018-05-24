@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+salon		1
+list		1
+enron		1
+html		1
+index		1
+http		1
+feature		1
+politics	1
+com		1

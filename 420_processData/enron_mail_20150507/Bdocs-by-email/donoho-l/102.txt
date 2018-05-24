@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+bullet		1
+volatility	1
+insert		1
+steve		1
+capitalizing	1
+due		1
+phrase		1
+market		1
+talked		1

@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+told		2
+taking		1
+kids		1
+much		1
+turning		1
+oils		1
+alicia		1
+really		1
+way		1
+eating		1
+tricks		1
+start		1
+need		1
+business	1
+think		1

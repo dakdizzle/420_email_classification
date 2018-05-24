@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+scheduling	2
+march		1
+california	1

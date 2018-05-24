@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+up		1
+alarm		1
+minutes		1
+wake		1
+took		1
+couldnt		1

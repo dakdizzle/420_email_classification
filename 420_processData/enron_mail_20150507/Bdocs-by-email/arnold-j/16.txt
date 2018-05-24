@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+hbs		2
+edu		2
+epao		2
+mba		2
+energy		1
+pao		1
+respond		1
+company		1
+john		1
+extra		1
+goldman		1
+constellation	1
+eva		1
+pmplease	1
+enron		1
+arnold		1
+subject		1
+yes		1
+creditis	1
+com		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+huh		1
+days		1
+ago		1
+service		1
+old		1
+convenient	1
+week		1
+went		1
+biz		1
+carrier		1

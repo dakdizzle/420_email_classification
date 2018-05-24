@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+hand		1
+ciao		1
+bells		1
+cards		1
+kay		1
+ll		1

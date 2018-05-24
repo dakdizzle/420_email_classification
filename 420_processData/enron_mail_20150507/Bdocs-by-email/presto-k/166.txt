@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+assumed		1
+terminal	1
+cancelled	1
+ago		1
+someone		1
+months		1
+over		1

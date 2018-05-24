@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+over		2
+coming		1
+greg		1
+chuck		1
+spoken		1
+days		1
+few		1
+working		1
+stan		1
+ken		1
+blackberry	1
+better		1
+hope		1
+understand	1
+expected	1
+one		1
+correct		1
+last		1
+dave		1
+mine		1

@@ -1,0 +1,13 @@
+NumWords	14
+NumTerms	10
+
+access		3
+grant		2
+curves		2
+full		1
+granted		1
+agreed		1
+power		1
+coal		1
+understanding	1
+based		1

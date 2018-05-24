@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+report		2
+position	1
+fixed		1
+gas		1
+price		1
+lambie		1
+mackay		1
+thanks		1
+basis		1
+l		1
+positions	1
+trader		1
+changes		1
+change		1
+natural		1
+making		1

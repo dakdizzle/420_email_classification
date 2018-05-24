@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+airport		1
+vicki		1
+something	1
+time		1
+cool		1
+geof		1
+maybe		1
+meet		1
+eats		1
+flight		1

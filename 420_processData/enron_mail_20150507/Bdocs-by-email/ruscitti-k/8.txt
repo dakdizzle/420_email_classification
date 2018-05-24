@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+up		1
+chairs		1
+lookingto	1
+kr		1
+adirondack	1
+more		1
+bought		1
+pick		1
+couple		1
+website		1

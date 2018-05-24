@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+centana		2
+via		1
+per		1
+invetory	1
+ground		1
+price		1
+transfer	1
+sold		1
+mmbtu		1

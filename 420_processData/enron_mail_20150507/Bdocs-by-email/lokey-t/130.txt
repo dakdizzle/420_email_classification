@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+day		3
+much		1
+great		1
+hope		1
+forgotten	1
+valentines	1
+today		1
+happy		1
+going		1
+teb		1
+love		1
+here		1

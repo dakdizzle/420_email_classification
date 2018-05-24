@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+williams	2
+exactly		1
+place		1
+nda		1
+sure		1
+companies	1
+kay		1
+getting		1

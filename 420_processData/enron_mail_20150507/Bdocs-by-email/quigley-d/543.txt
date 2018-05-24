@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+boarding	1
+dq		1
+hey		1
+place		1
+name		1
+use		1
+kevin		1

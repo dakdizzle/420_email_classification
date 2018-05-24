@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+regards		1
+up		1
+jon		1
+tomorrow	1
+show		1
+fedex		1
+rest		1

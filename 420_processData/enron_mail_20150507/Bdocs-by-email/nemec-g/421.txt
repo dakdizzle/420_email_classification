@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+asap		1
+revised		1
+please		1
+attached	1
+review		1
+provide		1
+form		1
+comments	1
+affidavit	1

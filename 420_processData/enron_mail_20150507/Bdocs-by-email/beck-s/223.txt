@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+beth		3
+make		2
+james		2
+return		1
+supervisor	1
+wednesday	1
+days		1
+thanks		1
+out		1
+point		1
+two		1
+sent		1
+message		1
+talking		1
+office		1
+apollo		1
+sally		1
+opportunity	1
+sure		1
+note		1
+next		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+click		1
+up		1
+blown		1
+double		1
+attachment	1
+see		1
+image		1

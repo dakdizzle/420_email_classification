@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+walmart		2
+m		1
+place		1
+york		1
+racetrac	1
+shell		1
+niffer		1
+pizza		1
+abc		1
+bookstore	1
+beverages	1
+new		1

@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+kids		1
+talk		1
+houston		1
+pls		1
+ktycholiz	1
+tic		1
+home		1
+soon		1
+pictures	1
+mail		1
+address		1
+new		1
+com		1
+rr		1
+love		1
+always		1

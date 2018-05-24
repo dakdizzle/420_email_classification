@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+group		1
+magazines	1
+looking		1
+friday		1
+know		1
+libraryand	1
+find		1
+vince		1
+one		1
+pile		1
+issueyou	1
+luck		1
+still		1
+big		1
+reorganizing	1
+joe		1
+hi		1

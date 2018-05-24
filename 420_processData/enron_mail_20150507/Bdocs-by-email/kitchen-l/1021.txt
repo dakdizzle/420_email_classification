@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+officerenron	1
+fax		1
+americastel	1
+operating	1
+up		1
+duranlouise	1
+please		1
+ask		1
+fuel		1
+kitchenchief	1
+set		1
+cells		1

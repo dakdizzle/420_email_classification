@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+cn		2
+paul		1
+today		1
+cob		1
+recipients	1
+pkaufma		1
+na		1
+kaufman		1
+call		1
+down		1
+agree		1
+enron		1
+nailed		1
+ain		1
+ou		1
+need		1
+chance		1
+period		1

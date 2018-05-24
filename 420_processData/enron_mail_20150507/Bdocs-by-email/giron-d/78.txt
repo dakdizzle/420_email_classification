@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+need		1
+better		1
+cheat		1

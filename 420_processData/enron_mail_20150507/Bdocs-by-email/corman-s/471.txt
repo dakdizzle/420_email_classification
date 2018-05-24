@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+home		2
+sister		1
+things		1
+fine		1
+sounds		1
+kim		1
+good		1
+happy		1
+night		1
+going		1
+saturday	1
+ll		1
+here		1

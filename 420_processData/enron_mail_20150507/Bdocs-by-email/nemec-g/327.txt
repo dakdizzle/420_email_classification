@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+gerald		3
+nemec		2
+further		1
+information	1
+know		1
+legal		1
+approve		1
+filename	1
+nemecx		1
+rc		1
+clerk		1
+privileged	1
+summer		1
+co		1
+non		1
+dept		1
+please		1
+nabil		1
+need		1
+subsidy		1
+law		1
+pstlouis	1
+nachawati	1
+parking		1

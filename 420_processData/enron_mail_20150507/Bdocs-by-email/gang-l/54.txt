@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+work		2
+don		2
+included	1
+hard		1
+lisa		1
+thank		1
+know		1
+steve		1
+rate		1
+major		1
+documentation	1
+need		1
+going		1
+original	1
+think		1

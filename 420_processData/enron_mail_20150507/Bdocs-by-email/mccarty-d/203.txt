@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+lump		1
+send		1
+well		1
+sheets		1
+julie		1
+dan		1
+thanks		1
+gadd		1
+sum		1
+merit		1
+fran		1
+eric		1
+column		1
+move		1
+over		1
+needs		1

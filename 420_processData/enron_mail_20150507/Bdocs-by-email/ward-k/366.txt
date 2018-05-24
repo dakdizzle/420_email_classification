@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+hear		1
+ok		1
+things		1
+came		1
+today		1
+sorry		1
+better		1
+wondering	1
+hope		1
+want		1
+work		1
+deal		1
+still		1
+certainly	1
+didn		1

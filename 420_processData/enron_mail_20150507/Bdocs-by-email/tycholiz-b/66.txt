@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+tonights	1
+out		1
+make		1
+float		1
+tickets		1
+bt		1
+game		1
+see		1

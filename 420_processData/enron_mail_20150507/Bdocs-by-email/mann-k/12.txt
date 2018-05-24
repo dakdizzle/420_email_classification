@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+enron		1
+change		1
+log		1
+password	1
+figure		1
+thanks		1

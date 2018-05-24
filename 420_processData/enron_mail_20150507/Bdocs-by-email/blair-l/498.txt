@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+lynn		1
+make		1
+john		1
+review		1
+thanks		1
+plus		1
+people		1
+list		1
+distribution	1
+dennis		1
+please		1
+sociates	1
+sure		1

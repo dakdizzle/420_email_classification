@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+fits		1
+happening	1
+talk		1
+before		1
+priorities	1
+take		1
+cover		1

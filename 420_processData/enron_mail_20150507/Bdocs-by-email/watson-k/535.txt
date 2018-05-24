@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+rene		1
+plan		1
+cocktail	1
+seeing		1
+sunday		1
+kim		1
+something	1
+look		1
+wonderful	1
+wear		1
+myself		1
+festive		1
+fairly		1
+forward		1
+dress		1
+think		1

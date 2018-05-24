@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+hr		2
+product		2
+much		1
+tva		1
+minimum		1
+day		1
+greg		1
+starting	1
+prices		1
+interested	1
+yr		1
+hour		1
+size		1
+min		1
+harry		1
+ahead		1
+made		1
+asking		1

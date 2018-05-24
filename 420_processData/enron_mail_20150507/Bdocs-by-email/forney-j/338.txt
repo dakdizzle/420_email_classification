@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+meeting		1
+office		1
+friday		1
+thursday	1
+attending	1
+austin		1
+jmf		1

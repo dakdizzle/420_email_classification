@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+anything	1
+know		1
+mid		1
+adjust		1
+need		1
+curve		1
+deal		1
+offer		1

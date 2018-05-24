@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+month		2
+months		2
+problems	1
+prices		1
+up		1
+selling		1
+looking		1
+lock		1
+go		1
+gas		1
+amoco		1
+going		1

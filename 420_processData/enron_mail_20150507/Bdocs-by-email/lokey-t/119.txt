@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+improvement	1
+counteroffer	1
+previous	1
+over		1

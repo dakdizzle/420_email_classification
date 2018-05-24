@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+worth		1
+tycholiz	1
+look		1
+value		1
+less		1
+yes		1
+sees		1
+definitely	1
+think		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+questar		1
+kim		1
+mark		1
+expressions	1
+several		1
+use		1
+interest	1
+examples	1
+here		1

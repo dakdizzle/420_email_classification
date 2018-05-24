@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+mention		1
+problems	1
+vince		1
+rice		1
+written		1
+studenttat	1
+nelson		1
+paper		1
+see		1
+don		1
+number		1

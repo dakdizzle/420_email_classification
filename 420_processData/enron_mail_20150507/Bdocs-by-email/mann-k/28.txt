@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ca		1
+forms		1
+past		1
+negotiated	1
+previously	1
+couple		1
+approved	1

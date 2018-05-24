@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+mark		1
+included	1
+quinn		1
+urquhart	1
+bill		1
+emanuel		1
+query		1
+whether		1

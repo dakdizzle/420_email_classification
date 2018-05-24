@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+office		2
+ny		1
+working		1
+london		1
+here		1

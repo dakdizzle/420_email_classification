@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+work		2
+darron		1
+net		1
+enron		1
+dgiron		1
+kristi		1
+comkristi	1
+cfisd		1
+giron		1

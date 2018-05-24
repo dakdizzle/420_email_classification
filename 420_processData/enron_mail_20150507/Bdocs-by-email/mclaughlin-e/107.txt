@@ -1,0 +1,25 @@
+NumWords	47
+NumTerms	22
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+plove		1
+winfree		1
+kam		1
+phillip		1
+owinfre		1
+neal		1
+jeffrey		1
+bike		1
+kkeiser		1
+gossett		1
+handle		1
+anne		1
+jgosset		1
+abike		1
+keiser		1
+think		1
+love		1

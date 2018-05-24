@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+jforney		2
+cn		2
+sheet		1
+john		1
+recipients	1
+hour		1
+filename	1
+na		1
+ending		1
+take		1
+thanks		1
+privileged	1
+look		1
+non		1
+enron		1
+obviously	1
+mw		1
+pstken		1
+tomorrow	1
+additional	1
+sell		1
+ou		1
+forney		1
+jmf		1

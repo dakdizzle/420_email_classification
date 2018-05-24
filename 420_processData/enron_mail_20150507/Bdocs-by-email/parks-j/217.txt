@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+hey		1
+fowarding	1
+know		1
+questions	1
+joe		1
+resume		1
+thanks		1

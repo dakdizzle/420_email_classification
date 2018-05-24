@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+privileged	2
+non		2
+mgrigsb		2
+competitive	1
+afghanistan	1
+attacks		1
+filename	1
+folder		1
+fw		1
+pst		1
+sent		1
+analysis	1
+mx		1
+update		1
+origin		1
+itemsx		1
+subject		1
+grigsby		1

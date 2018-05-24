@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+inc		1
+states		1
+coastal		1
+veronica	1
+marie		1
+isda		1
+trading		1
+here		1

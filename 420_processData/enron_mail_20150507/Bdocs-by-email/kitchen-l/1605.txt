@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+announce	1
+strucutre	1
+obviously	1
+know		1
+portland	1
+change		1
+now		1
+duran		1
+left		1
+though		1

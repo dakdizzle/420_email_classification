@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+money		2
+sending		1
+few		1
+sarah		1
+keep		1
+made		1
+yes		1
+calls		1
+phone		1
+thnxdq		1
+tried		1

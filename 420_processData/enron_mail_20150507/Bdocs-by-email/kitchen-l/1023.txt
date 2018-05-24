@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+order		1
+send		1
+mousepads	1
+attached	1
+louise		1
+contact		1
+design		1
+following	1
+houston		1
+road		1
+chilton		1
+nettelton	1
+home		1
+mugsplease	1
+texas		1
+check		1
+want		1
+work		1
+cost		1

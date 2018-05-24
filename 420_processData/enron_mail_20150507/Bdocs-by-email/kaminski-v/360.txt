@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+week		2
+resolved	1
+end		1
+information	1
+glad		1
+chat		1
+call		1
+vince		1
+uncertainty	1
+please		1
+shall		1
+more		1
+give		1
+receive		1
+next		1
+randy		1

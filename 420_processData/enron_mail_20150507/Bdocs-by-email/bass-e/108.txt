@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+eddie		1
+want		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+m		1
+messages	1
+yoga		1
+austin		1
+going		1
+still		1
+wait		1
+flight		1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+offer		2
+welcome		1
+join		1
+guys		1
+today		1
+take		1
+thanks		1
+check		1
+drinks		1
+work		1
+going		1
+rain		1
+think		1

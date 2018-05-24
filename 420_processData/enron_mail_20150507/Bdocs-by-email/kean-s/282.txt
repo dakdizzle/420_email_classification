@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+coordinated	1
+recommended	1
+greg		1
+believe		1
+john		1
+willing		1
+ken		1
+whalley		1
+very		1
+lavorato	1

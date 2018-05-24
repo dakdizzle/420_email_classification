@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+dynegy		1
+building	1
+nice		1
+bit		1
+see		1
+very		1
+getting		1

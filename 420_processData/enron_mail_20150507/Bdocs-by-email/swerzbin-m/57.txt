@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+cn		2
+flow		1
+wonder		1
+swerzbin	1
+suggestions	1
+recipients	1
+filename	1
+na		1
+see		1
+proxy		1
+out		1
+whatever	1
+broker		1
+check		1
+enron		1
+want		1
+mswerzb		1
+use		1
+ou		1
+regulated	1
+mike		1

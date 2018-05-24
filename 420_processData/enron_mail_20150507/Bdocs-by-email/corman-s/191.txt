@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+send		1
+ricki		1
+handling	1
+jean		1
+gas		1
+terrific	1
+emergencies	1
+summer		1
+dozen		1
+team		1
+ideas		1
+logisitics	1
+logistics	1
+half		1
+flowers		1
+move		1
+give		1
+gift		1

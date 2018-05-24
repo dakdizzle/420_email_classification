@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+trading		3
+performance	2
+group		1
+different	1
+customizing	1
+system		1
+ways		1
+markets		1
+measures	1
+improving	1
+out		1
+creative	1
+consistency	1
+handicapping	1
+incorporate	1
+more		1
+traders		1
+compare		1
+figure		1
+process		1
+profitability	1
+add		1
+prc		1

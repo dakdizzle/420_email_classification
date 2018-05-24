@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+paul		1
+links		1
+adding		1
+thanks		1

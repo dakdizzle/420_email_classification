@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+yeah		1
+know		1
+paincourtville	1
+fuck		1
+la		1
+don		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+updated		1
+usually		1
+labdsc		1
+debba		1
+ve		1
+womans		1
+barbie		1
+forward		1
+cavalier	1
+sas		1
+waiting		1
+mail		1
+don		1
+com		1

@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+cell		2
+home		1
+catcha		1
+phone		1
+later		1
+jmf		1
+number		1
+deb		1

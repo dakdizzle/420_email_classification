@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+traffic		1
+definately	1
+feel		1
+staying		1
+town		1
+battling	1
+don		1

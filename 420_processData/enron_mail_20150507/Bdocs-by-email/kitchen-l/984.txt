@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+rebecca		1
+job		1
+move		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+vince		1
+rice		1
+grade		1
+top		1

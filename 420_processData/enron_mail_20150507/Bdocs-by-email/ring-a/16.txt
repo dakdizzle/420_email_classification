@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+care		1
+good		1
+take		1
+very		1
+hi		1
+thanks		1

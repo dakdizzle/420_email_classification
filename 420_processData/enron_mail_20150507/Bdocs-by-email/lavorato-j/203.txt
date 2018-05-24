@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+under		3
+seattle		1
+gb		1
+clev		1
+det		1
+phil		1
+minn		1
+tb		1
+jack		1
+teaseas		1
+pitt		1
+jets		1
+cinnci		1
+tenn		1
+discussed	1
+england		1
+new		1
+over		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+goodthanks	1
+looks		1

@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+capacity	2
+vs		1
+showing		1
+percentage	1
+total		1
+subscribed	1

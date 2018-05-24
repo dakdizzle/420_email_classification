@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+master		1
+bp		1
+up		1
+show		1
+marie		1
+amoco		1
+netting		1
+agreement	1
+sharon		1
+hi		1

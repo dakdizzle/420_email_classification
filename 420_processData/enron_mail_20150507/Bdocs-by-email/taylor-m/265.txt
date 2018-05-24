@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+mark		2
+early		1
+board		1
+make		1
+silence		1
+david		1
+try		1
+september	1
+schedule	1
+something	1
+apologies	1
+good		1
+suggest		1
+check		1
+idea		1
+need		1
+sure		1
+still		1
+think		1

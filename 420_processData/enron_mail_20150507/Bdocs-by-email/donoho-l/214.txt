@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+people		3
+allocated	2
+being		2
+tw		2
+partial		1
+meeting		1
+up		1
+risk		1
+personnel	1
+desk		1
+associated	1
+houston		1
+management	1
+omaha		1
+anyway		1
+storage		1
+come		1
+tell		1
+nng		1
+probably	1

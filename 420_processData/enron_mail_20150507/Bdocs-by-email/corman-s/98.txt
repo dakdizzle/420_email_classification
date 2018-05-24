@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+info		1
+please		1
+contact		1
+teacher		1
+add		1

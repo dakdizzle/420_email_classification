@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+couldn		1
+jokes		1
+know		1
+well		1
+buried		1
+guys		1
+resist		1
+types		1
+don		1

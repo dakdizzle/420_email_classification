@@ -1,0 +1,19 @@
+NumWords	20
+NumTerms	16
+
+group		2
+credit		2
+information	2
+help		2
+order		1
+accelerate	1
+ask		1
+public		1
+stretched	1
+pull		1
+moment		1
+kim		1
+heavily		1
+domaine		1
+going		1
+process		1

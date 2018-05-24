@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+monitored	1
+brother		1
+being		1
+big		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+alls		1
+hope		1
+paul		1
+state		1
+company		1
+lisa		1
+well		1
+hopefully	1
+now		1

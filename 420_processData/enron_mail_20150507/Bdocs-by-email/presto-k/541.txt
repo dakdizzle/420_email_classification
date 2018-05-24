@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+agreed		1
+aggressive	1
+being		1
+think		1
+actually	1

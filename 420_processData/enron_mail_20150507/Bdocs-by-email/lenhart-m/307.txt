@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+nevermind	1
+type		1
+girl		1
+go		1
+night		1
+last		1
+game		1
+think		1
+didn		1

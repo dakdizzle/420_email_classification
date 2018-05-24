@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+dynegy		1
+mark		1
+protocols	1
+man		1
+ay		1
+interpret	1
+lost		1
+thang		1
+temper		1
+good		1
+bit		1
+talking		1
+wouldnt		1
+wont		1
+sound		1
+kind		1
+told		1
+probably	1
+monkey		1
+jmf		1
+tap		1

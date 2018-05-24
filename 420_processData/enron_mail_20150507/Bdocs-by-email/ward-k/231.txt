@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+send		1
+signing		1
+originals	1
+ok		1
+fax		1
+copy		1
+know		1
+confirms	1
+faxed		1
+thanks		1
+overnight	1
+morning		1
+kim		1
+soon		1
+printing	1
+please		1
+signed		1
+karla		1

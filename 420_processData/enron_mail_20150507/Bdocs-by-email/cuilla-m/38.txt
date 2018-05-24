@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+real		2
+appearantly	1
+happened	1
+zwharton	1
+wharton		1
+web		1
+zooey		1
+found		1
+curious		1
+dawray		1
+com		1

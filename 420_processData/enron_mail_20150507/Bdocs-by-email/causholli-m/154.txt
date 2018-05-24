@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+class		1
+causholli	1
+please		1
+yes		1
+thanksmonika	1
+include		1

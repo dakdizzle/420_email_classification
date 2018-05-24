@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+eb		1
+fax		1
+free		1
+up		1
+ph		1
+street		1
+wholesale	1
+awhile		1
+later		1
+call		1
+minute		1
+services	1
+shackletonenron	1
+ahouston	1
+tx		1
+smith		1
+sarasara	1
+tied		1
+ll		1

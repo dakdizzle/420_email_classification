@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+info		1
+kim		1
+good		1
+looks		1
+thanks		1

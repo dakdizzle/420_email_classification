@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+john		2
+out		1
+sign		1
+logged		1
+hi		1

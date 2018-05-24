@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+know		1
+pops		1
+mops		1
+megan		1
+see		1
+thanks		1
+cover		1
+pathed		1
+gets		1
+supply		1
+completed	1
+please		1
+created		1
+mike		1
+deal		1

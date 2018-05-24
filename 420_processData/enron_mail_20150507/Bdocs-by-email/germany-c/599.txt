@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+sonat		1
+notes		1

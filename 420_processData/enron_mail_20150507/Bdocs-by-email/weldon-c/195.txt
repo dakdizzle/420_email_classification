@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+ok		1
+sheet		1
+post		1
+thanks		1
+directory	1
+l		1
+global		1
+submint		1
+need		1
+soundlike	1
+access		1
+request		1
+ll		1
+trading		1

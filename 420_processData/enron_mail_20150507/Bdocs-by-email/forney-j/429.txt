@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+website		2
+realize		1
+changed		1
+administrators	1
+plan		1
+up		1
+savings		1
+didnt		1
+seeing		1
+admit		1
+kim		1
+incapacitated	1
+change		1
+e		1
+mail		1
+jmf		1

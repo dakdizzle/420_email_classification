@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+need		2
+nite		1
+walk		1
+know		1
+schedule	1
+gary		1
+thanks		1
+anyway		1
+drink		1
+one		1
+thankstracy	1
+still		1
+through		1

@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+cn		2
+jsteffe		2
+time		1
+talk		1
+pstlinda	1
+recipients	1
+arrange		1
+filename	1
+na		1
+privileged	1
+jim		1
+steffes		1
+good		1
+non		1
+aleck		1
+enron		1
+please		1
+thursday	1
+tomorrow	1
+james		1
+ou		1

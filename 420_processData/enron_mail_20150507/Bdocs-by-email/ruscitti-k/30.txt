@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+moving		2
+new		2
+little		1
+everything	1
+talk		1
+jazzfest	1
+orleans		1
+th		1
+conway		1
+soon		1
+ourselves	1
+house		1
+great		1
+capt		1
+hitting		1
+hope		1
+kr		1
+weekend		1
+one		1
+going		1
+frank		1
+justbought	1

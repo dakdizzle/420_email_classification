@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+return		1
+mark		1
+gave		1
+leave		1
+guess		1
+ted		1
+message		1
+rick		1
+going		1
+pass		1
+ll		1
+didn		1
+frevert		1

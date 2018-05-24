@@ -1,0 +1,24 @@
+NumWords	46
+NumTerms	21
+
+pdf		10
+argentina	3
+lavorato	3
+enron		3
+brazil		3
+com		3
+latinamerica	2
+brian		2
+portfolio	2
+september	2
+gs		2
+edgeworth	2
+pm		1
+latin		1
+john		1
+america		1
+research	1
+forwarded	1
+pmto		1
+subject		1
+corp		1

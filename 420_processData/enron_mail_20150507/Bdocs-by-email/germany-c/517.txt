@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+those		1
+letters		1
+send		1
+desk		1
+confirm		1

@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+trading		3
+regional	2
+region		1
+stacey		1
+information	1
+west		1
+management	1
+once		1
+stop		1
+answer		1
+same		1
+physically	1
+east		1
+follows		1
+nothing		1
+again		1
+decision	1
+question	1

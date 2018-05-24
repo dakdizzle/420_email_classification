@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jan		1
+data		1
+dec		1
+file		1
+contains	1
+mat		1
+through		1
+keith		1

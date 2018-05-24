@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+potentially	1
+job		1
+reallisticly	1
+don		1

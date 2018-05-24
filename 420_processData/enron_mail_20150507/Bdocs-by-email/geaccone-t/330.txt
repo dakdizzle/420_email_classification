@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+make		1
+look		1
+hope		1
+revised		1
+right		1
+time		1
+ones		1
+steve		1
+tuned		1
+thy		1
+sure		1

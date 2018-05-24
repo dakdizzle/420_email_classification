@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+ch		2
+asset		1
+acknowledges	1
+power		1
+thank		1
+jan		1
+youjohn		1
+canada		1
+enron		1
+contract	1
+change		1
+zufferli	1
+sink		1
+corp		1
+dec		1
+period		1

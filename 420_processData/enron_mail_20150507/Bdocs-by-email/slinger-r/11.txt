@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+friday		1
+price		1
+enpower		1
+holding		1
+thanks		1
+caps		1
+pacific		1
+dollars		1
+mw		1
+sierra		1
+np		1
+ryan		1
+sold		1

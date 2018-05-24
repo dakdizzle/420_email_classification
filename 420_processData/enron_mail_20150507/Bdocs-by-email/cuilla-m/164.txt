@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+enter		1
+approve		1

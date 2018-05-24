@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+really		1
+dinner		1
+looking		1
+tomorrow	1
+forward		1
+excellent	1

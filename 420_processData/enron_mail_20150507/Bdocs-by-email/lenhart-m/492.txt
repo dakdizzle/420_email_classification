@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+girl		1
+up		1
+oh		1
+made		1
+bad		1
+messed		1
+bet		1

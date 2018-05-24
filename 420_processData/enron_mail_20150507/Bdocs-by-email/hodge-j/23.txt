@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ca		1
+version		1
+jeff		1
+electronic	1
+attached	1
+frank		1

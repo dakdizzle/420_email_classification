@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+sql		1
+queries		1
+diana		1
+please		1
+thank		1
+utilize		1
+enterprise	1
+manager		1
+provide		1

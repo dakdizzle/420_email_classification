@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+phone		1
+probably	1
+here		1

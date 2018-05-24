@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+skrimsk		1
+ok		1
+enron		1
+krimsky		1
+recipients	1
+ou		1
+steven		1
+gtlaw		1
+barshk		1
+na		1
+com		1

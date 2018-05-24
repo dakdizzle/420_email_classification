@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+cn		3
+enron		1
+notesaddr	1
+nelson		1
+f		1
+recipients	1
+ou		1
+e		1
+na		1
+doug		1

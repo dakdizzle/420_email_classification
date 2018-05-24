@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+meeting		1
+manipulation	1
+yesterday	1
+market		1
+out		1
+anything	1
+respect		1
+jeff		1
+best		1
+come		1
+interesting	1
+iso		1
+particularly	1

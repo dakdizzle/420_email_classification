@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+raiders		1
+knows		1
+email		1
+jerry		1
+try		1
+working		1
+now		1
+calling		1
+phone		1
+fan		1
+bet		1
+gets		1
+m		1
+cell		1
+google		1
+go		1
+ers		1
+prentice	1
+though		1
+sure		1
+game		1
+big		1

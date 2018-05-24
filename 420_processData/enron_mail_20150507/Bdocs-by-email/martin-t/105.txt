@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+changed		1
+reporting	1
+moving		1
+relationship	1
+tom		1
+physically	1
+space		1
+down		1
+center		1
+yes		1
+cost		1
+dave		1
+here		1

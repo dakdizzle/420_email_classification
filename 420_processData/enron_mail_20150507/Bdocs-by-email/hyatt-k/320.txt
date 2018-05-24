@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+kh		1
+interested	1
+interest	1
+level		1
+depend		1
+cost		1
+still		1

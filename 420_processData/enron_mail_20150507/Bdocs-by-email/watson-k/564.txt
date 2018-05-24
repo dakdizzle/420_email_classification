@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+responded	1
+sp		1
+talk		1
+ily		1
+forget		1
+wasn		1
+hong		1
+kong		1
+valentina	1
+jff		1
+weekend		1
+sure		1
+feb		1
+tonight		1

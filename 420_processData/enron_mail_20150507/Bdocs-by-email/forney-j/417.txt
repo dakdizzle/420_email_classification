@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+system		2
+tell		2
+status		1
+leaving		1
+complete	1
+hourly		1
+far		1
+madhup		1
+tool		1
+people		1
+developing	1
+available	1
+understand	1
+documentation	1
+use		1
+esca		1
+luck		1
+jmf		1
+trading		1

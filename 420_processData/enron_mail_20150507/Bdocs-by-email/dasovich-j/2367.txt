@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+open		1
+hey		1
+jeff		1
+hugs		1
+hi		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+approx		1
+welcome		1
+luekemia	1
+died		1
+ago		1
+uncle		1
+wife		1
+months		1

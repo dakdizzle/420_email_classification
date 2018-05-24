@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+aren		2
+out		1
+good		1
+angry		1
+dogs		1
+friendly	1
+bark		1
+freak		1
+think		1

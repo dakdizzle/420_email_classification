@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+morning		1
+transaction	1
+storey		1
+majority	1
+handling	1
+geoff		1
+talk		1
+wednesday	1
+exposure	1
+reduce		1

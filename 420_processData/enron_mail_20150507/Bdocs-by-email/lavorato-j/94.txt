@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+enron		1
+kellyunfortunately	1
+moved		1
+houston		1
+year		1
+participate	1
+regardsjohn	1
+lavorato	1
+enviros		1

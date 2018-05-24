@@ -1,0 +1,26 @@
+NumWords	29
+NumTerms	23
+
+enron		3
+mark		2
+ect		2
+den		2
+whitt		2
+day		1
+downhill	1
+vail		1
+keep		1
+legs		1
+sounds		1
+rented		1
+imceanotes	1
+morning		1
+out		1
+m		1
+good		1
+shouldn		1
+going		1
+bikes		1
+sure		1
+wiped		1
+com		1

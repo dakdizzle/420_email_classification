@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+forward		1
+mean		1
+attachment	1
+jennifer	1

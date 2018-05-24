@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+win		1
+suck		1
+football	1
+hate		1
+thought		1

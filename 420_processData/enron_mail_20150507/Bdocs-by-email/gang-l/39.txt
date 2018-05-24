@@ -1,0 +1,16 @@
+NumWords	17
+NumTerms	13
+
+julie		2
+cavanaugh	2
+enron		2
+sarnowski	2
+darren		1
+comdarren	1
+youlisa		1
+comthank	1
+list		1
+please		1
+mail		1
+address		1
+add		1

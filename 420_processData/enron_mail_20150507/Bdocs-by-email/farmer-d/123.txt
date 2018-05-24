@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+farmer		2
+th		2
+daren		2
+cn		2
+know		1
+recipients	1
+due		1
+flows		1
+filename	1
+na		1
+cover		1
+dfarmer		1
+enron		1
+sitara		1
+questions	1
+adjusted	1
+change		1
+pstthese	1
+meter		1
+timing		1
+ou		1

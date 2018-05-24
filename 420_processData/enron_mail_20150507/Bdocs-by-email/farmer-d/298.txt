@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+group		1
+pm		1
+around		1
+texas		1
+sherlyn		1
+works		1
+tuesday		1

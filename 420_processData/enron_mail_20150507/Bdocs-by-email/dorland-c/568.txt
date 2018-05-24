@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+good		1
+suggestions	1
+rod		1
+idea		1
+mail		1
+chris		1
+see		1
+ll		1

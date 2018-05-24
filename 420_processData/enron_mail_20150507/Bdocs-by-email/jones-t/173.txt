@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+funny		1
+real		1
+pretty		1

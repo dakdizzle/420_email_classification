@@ -1,0 +1,13 @@
+NumWords	14
+NumTerms	10
+
+fax		2
+please		2
+letter		2
+number		2
+mclarty		1
+well		1
+phone		1
+signature	1
+mail		1
+prepare		1

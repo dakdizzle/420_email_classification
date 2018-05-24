@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+kh		1
+rebekah		1
+below		1
+number		1
+call		1
+tony		1

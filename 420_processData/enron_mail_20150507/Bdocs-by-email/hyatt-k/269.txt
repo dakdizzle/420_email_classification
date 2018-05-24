@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+cougar		1
+try		1
+update		1
+weekend		1
+need		1
+see		1
+thanks		1

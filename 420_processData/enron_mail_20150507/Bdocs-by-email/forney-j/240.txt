@@ -1,0 +1,10 @@
+NumWords	14
+NumTerms	7
+
+portal		4
+ercot		3
+com		3
+hrnp		1
+https		1
+action		1
+jmf		1

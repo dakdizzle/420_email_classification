@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+fischersean	1
+williamschris	1
+mark		1
+mallorybill	1
+morrischris	1
+jeremy		1
+alonso		1
+crandall	1
+fostertom	1

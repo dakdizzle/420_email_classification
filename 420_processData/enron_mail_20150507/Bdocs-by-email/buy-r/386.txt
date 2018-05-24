@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+rick		1
+funds		1
+received	1
+already		1

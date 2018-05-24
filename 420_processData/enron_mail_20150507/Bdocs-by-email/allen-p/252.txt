@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+rejection	1
+greg		1
+project		1
+braunfels	1
+official	1
+darrell		1
+invitation	1
+phillip		1
+new		1

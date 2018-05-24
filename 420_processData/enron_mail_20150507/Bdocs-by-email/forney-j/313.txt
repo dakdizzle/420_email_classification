@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+youre		1
+animaljmf	1

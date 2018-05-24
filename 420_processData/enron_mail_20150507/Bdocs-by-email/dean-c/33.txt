@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+know		2
+wanted		2
+make		1
+hey		1
+up		1
+well		1
+came		1
+sorry		1
+seeing		1
+out		1
+anything	1
+m		1
+obviously	1
+enjoy		1
+joelle		1
+again		1
+knew		1
+line		1
+clint		1
+sure		1
+don		1
+strong		1
+think		1
+very		1

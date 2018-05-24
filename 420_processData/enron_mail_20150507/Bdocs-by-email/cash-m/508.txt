@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+es		1
+hear		1
+meeting		1
+floor		1
+being		1
+messag		1
+delivered	1
+come		1
+mhc		1
+want		1
+although	1
+ews		1

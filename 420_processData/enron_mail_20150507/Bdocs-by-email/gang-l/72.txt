@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+between		1
+space		1
+email		1
+ward		1
+lisa		1
+tom		1
+address		1

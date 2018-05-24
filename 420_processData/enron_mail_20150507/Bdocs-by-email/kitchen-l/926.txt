@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+time		1
+tomorrow	1
+york		1
+town		1
+new		1
+next		1

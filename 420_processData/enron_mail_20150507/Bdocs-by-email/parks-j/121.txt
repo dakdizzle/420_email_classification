@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+good		1
+day		1
+hey		1
+working		1
+today		1
+pleasure	1
+last		1
+luck		1
+joe		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+ed		1
+concannon	1
+mcmichael	1
+contacts	1
+email		1
+items		1
+maria		1
+related		1
+two		1
+transport	1
+eric		1
+jr		1
+garza		1
+boyt		1
+ruth		1

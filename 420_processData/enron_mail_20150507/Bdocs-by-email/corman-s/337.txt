@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+cuba		1
+mention		1
+forgot		1
+sad		1
+yes		1
+learn		1
+thanks		1

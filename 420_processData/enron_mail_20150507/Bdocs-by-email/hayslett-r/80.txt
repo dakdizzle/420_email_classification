@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+funds		1
+going		1
+biggest		1
+problem		1
+think		1

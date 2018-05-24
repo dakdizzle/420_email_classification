@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+kids		1
+football	1
+games		1
+weekend		1
+du		1
+thanks		1

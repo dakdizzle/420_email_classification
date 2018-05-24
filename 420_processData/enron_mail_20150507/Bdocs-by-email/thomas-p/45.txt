@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+morning		2
+something	2
+want		2
+funny		1
+hey		1
+know		1
+tareen		1
+loveme		1
+honea		1
+talking		1
+thursday	1
+shake		1
+anyways		1
+pretty		1
+doing		1
+hooonea		1

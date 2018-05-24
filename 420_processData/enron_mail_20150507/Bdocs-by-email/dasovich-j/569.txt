@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+regarding	1
+day		1
+grab		1
+davis		1
+jeff		1
+came		1
+contract	1
+forward		1
+decision	1
+thanks		1
+call		1

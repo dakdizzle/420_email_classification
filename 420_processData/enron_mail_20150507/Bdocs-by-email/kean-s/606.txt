@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+mark		1
+psthouston	1
+skean		1
+comx		1
+contact		1
+kean		1
+filename	1
+privileged	1
+list		1
+non		1
+enron		1
+koenig		1
+origin		1
+sx		1

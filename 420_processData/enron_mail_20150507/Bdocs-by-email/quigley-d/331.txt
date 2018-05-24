@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+done		1
+possibledq	1
+jsut		1
+reported	1
+things		1
+want		1
+correct		1

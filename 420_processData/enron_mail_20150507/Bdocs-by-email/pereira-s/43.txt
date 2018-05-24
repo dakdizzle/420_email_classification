@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+card		1
+travel		1
+time		1
+pereira		1
+susan		1
+thanks		1
+carolyn		1
+long		1
+anymore		1
+used		1
+old		1
+don		1
+haven		1

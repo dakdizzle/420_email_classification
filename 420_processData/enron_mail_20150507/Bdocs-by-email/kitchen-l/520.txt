@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+discuss		1
+out		1
+happened	1
+much		1
+way		1
+around		1
+lets		1
+find		1
+thought		1

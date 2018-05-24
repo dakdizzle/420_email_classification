@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+little		1
+both		1
+thinks		1
+imbalanced	1

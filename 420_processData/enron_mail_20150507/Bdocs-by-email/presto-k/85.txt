@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+done		1
+decisions	1
+personnel	1
+until		1
+final		1
+don		1
+finalized	1

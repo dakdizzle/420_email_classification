@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+entry		2
+fee		2
+cook		2
+refund		1
+park		1
+email		1
+return		1
+deadline	1
+time		1
+hello		1
+paid		1
+lanekaty	1
+tom		1
+remember	1
+decided		1
+please		1
+donohoe		1
+gladesdale	1
+tx		1
+czhili		1
+request		1

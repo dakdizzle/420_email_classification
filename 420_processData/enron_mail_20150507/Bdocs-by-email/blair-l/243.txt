@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lynn		1
+morning		1
+discuss		1
+ava		1
+list		1
+track		1
+keep		1
+phoneburst	1
+thanks		1

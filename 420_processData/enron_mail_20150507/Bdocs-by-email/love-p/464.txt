@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+pl		1
+page		1
+suggestions	1
+few		1
+name		1
+leave		1
+etc		1
+left		1
+see		1
+looks		1
+qualifications	1
+good		1
+justified	1
+personal	1
+centered	1
+prefer		1
+address		1
+preferences	1

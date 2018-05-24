@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+cn		2
+steffes		1
+enron		1
+jsteffe		1
+james		1
+recipients	1
+ou		1
+na		1
+call		1

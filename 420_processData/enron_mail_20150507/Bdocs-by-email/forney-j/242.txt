@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+working		1
+sorry		1
+watts		1
+chris		1
+see		1
+sorted		1
+effective	1
+help		1
+out		1
+good		1
+ultimately	1
+improvement	1
+immediately	1
+drastic		1
+started		1
+weekend		1
+yes		1
+already		1
+jmf		1
+side		1
+imbalance	1

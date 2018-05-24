@@ -1,0 +1,26 @@
+NumWords	42
+NumTerms	23
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+leslie		1
+stacey		1
+know		1
+lreeves		1
+reeves		1
+thresa		1
+names		1
+murphy		1
+kim		1
+tallen		1
+mmurphy		1
+melissa		1
+need		1
+thought		1
+ktherio		1
+allen		1
+theriot		1
+ann		1

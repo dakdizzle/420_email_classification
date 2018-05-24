@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+cn		2
+scorman		2
+latest		1
+mark		1
+up		1
+recipients	1
+fine		1
+corman		1
+filename	1
+na		1
+privileged	1
+oba		1
+psti		1
+non		1
+enron		1
+changes		1
+ou		1
+shelley		1

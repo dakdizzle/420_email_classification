@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+down		1
+ok		1
+possible	1
+come		1
+try		1
+things		1
+go		1
+min		1
+couple		1
+ll		1
+afternoon	1
+over		1

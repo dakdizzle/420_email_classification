@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+morning		1
+hear		1
+friday		1
+count		1
+unless		1
+see		1
+otherwise	1

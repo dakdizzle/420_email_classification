@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+sent		1
+chatting	1
+job		1
+wireless	1
+handheld	1
+ubs		1
+blackberry	1
+interest	1

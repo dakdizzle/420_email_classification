@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+brother		2
+long		1
+m		1
+lost		1

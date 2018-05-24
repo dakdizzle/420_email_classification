@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+email		2
+bieraugel	1
+sent		1
+send		1
+hey		1
+undeliverable	1
+messages	1
+ernie		1
+keep		1
+replied		1
+address		1
+receiving	1

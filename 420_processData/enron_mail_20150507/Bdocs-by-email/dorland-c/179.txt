@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+refund		1
+word		1
+chris		1
+judy		1

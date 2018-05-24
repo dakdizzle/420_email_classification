@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+know		1
+guys		1
+pg		1
+jim		1
+nice		1
+negotiations	1
+another		1
+work		1
+issue		1
+don		1
+through		1
+small		1
+here		1

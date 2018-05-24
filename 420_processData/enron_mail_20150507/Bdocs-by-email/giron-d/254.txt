@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+group		1
+up		1
+step		1
+thank		1
+know		1
+obvious		1
+leave		1
+wasn		1
+enough		1
+before		1
+already		1
+dg		1
+doing		1
+didn		1
+mistake		1

@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+responded	1
+thing		1
+brian		1
+interested	1
+sempra		1
+letting		1
+good		1
+surprising	1
+jeff		1
+best		1
+go		1
+thought		1
+mail		1
+cherry		1
+com		1
+bcherry		1

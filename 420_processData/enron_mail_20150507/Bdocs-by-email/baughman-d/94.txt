@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+time		2
+email		1
+present		1
+hunting		1
+reply		1
+talk		1
+well		1
+trip		1
+times		1
+thanks		1
+soon		1
+great		1
+supper		1
+hope		1
+cell		1
+several		1
+weekend		1
+work		1
+called		1
+went		1
+don		1
+birthday	1

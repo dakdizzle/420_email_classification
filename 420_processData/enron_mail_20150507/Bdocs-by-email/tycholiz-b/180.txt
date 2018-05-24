@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+pls		1
+already		1
+bt		1
+add		1
+calendar	1

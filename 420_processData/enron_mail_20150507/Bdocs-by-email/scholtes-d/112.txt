@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jeff		1
+sean		1
+again		1
+asked		1
+shields		1

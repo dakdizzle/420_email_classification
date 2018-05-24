@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+claudia		1
+tina		1
+up		1
+invite		1
+heads		1
+desk		1
+remind		1
+put		1
+people		1
+includes	1
+please		1
+signed		1
+calender	1

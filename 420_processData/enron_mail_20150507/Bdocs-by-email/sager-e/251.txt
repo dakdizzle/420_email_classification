@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+directory	1
+doc		1
+pg		1
+sager		1
+extension	1
+elizabeth	1
+thanks		1

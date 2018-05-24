@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+bhp		1
+one		1
+month		1
+deal		1
+doing		1
+news		1

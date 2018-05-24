@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+runs		1
+position	1
+talk		1
+rick		1
+organization	1
+buy		1
+justify		1
+diesal		1
+maybe		1
+shankman	1
+product		1
+see		1

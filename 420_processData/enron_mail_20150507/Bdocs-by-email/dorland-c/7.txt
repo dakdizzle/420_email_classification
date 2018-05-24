@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+thanxchris	1
+send		1
+make		1
+sent		1
+check		1
+copy		1
+receipt		1
+rrsp		1
+need		1
+contribution	1

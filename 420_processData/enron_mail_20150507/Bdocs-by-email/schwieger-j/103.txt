@@ -1,0 +1,8 @@
+NumWords	8
+NumTerms	5
+
+contracts	2
+nymex		2
+november	2
+buy		1
+sell		1

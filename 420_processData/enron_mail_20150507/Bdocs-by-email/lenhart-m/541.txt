@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+bothered	1
+hot		1

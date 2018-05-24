@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+done		1
+mounted		1
+monitor		1
+desk		1
+another		1
+trading		1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+care		1
+bruce		1
+value		1
+updated		1
+pl		1
+know		1
+modified	1
+taken		1
+deleted		1
+thanks		1
+questions	1
+numbers		1
+want		1
+need		1
+ticket		1
+deal		1
+give		1

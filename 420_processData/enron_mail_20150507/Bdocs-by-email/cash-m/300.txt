@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+mcash		2
+cn		2
+michelle	2
+issue		2
+pstterrie	1
+plan		1
+cash		1
+different	1
+communicating	1
+attorneys	1
+four		1
+recipients	1
+filename	1
+na		1
+privileged	1
+restated	1
+non		1
+enron		1
+recommendation	1
+considered	1
+ou		1
+below		1
+severance	1

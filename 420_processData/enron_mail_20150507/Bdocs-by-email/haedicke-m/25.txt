@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+mark		1
+understand	1
+timing		1
+disappointed	1
+thanks		1

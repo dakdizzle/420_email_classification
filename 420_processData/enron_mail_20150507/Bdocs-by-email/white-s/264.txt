@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+pcjlewis	1
+swhite		1
+individuals	1
+pccbentleythanks	1
+pciestradatcartertchapmandvinson	1
+stacey		1
+please		1
+following	1
+pcadahlke	1
+cevans		1
+provide		1
+access		1

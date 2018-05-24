@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+word		1
+everything	1
+cool		1
+release		1
+max		1

@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+mcuilla		2
+cn		2
+game		2
+cuilla		1
+martin		1
+recipients	1
+filename	1
+na		1
+pst		1
+privileged	1
+non		1
+enron		1
+pool		1
+ou		1

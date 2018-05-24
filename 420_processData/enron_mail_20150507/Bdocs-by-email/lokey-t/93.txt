@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+tlokey		2
+teb		2
+cn		2
+pstjeanette	1
+respond		1
+debbie		1
+thompson	1
+lokey		1
+recipients	1
+filename	1
+na		1
+coding		1
+privileged	1
+regarding	1
+non		1
+enron		1
+indefinitely	1
+remain		1
+assignment	1
+ou		1
+still		1

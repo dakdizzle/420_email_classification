@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+listen		1
+calgary		1
+day		1
+box		1
+whole		1
+back		1
+desk		1
+shit		1
+going		1
+over		1

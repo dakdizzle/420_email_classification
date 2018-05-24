@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+transactions	1
+bid		1
+listing		1
+david		1
+youhave		1
+know		1
+questions	1
+attached	1
+ruscitti	1
+week		1
+kevin		1

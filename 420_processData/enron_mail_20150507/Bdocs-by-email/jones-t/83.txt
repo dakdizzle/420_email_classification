@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+sorry		2
+need		2
+going		2
+lawyer		1
+track		1
+checked		1
+keep		1
+fast		1
+such		1
+down		1
+being		1
+executed	1
+agreement	1
+pest		1

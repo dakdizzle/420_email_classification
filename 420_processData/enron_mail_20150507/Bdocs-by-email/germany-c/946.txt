@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kathy		1
+m		1
+one		1
+work		1
+person		1
+more		1
+going		1
+waiting		1
+lunch		1

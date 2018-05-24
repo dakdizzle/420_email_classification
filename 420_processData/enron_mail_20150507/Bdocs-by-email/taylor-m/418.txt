@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+president	1
+mark		1
+eb		1
+cheryl		1
+fax		1
+revised		1
+houston		1
+street		1
+taylorvice	1
+wholesale	1
+performance	1
+general		1
+evaluation	1
+counselenron	1
+texas		1
+services	1
+smith		1
+here		1

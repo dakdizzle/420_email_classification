@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+housecats	1
+somebody	1
+day		1
+birds		1
+kill		1
+according	1
+tweety		1
+outside		1
+left		1
+over		1

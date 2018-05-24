@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+hold		1
+mean		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+done		1
+many		1
+want		1
+already		1
+aug		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+comment		1
+sally		1
+beverly		1
+pass		1
+along		1
+d		1
+thought		1

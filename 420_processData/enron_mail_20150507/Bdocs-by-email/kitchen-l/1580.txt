@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+morning		1
+numbers		1
+commercial	1
+doing		1

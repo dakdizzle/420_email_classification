@@ -1,0 +1,23 @@
+NumWords	45
+NumTerms	20
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+ebass		1
+winfree		1
+owinfre		1
+giron		1
+kevin		1
+neal		1
+bass		1
+jeffrey		1
+darron		1
+gossett		1
+dgiron		1
+jgosset		1
+eric		1
+kbosse		1
+bosse		1

@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+today		2
+status		1
+bradford	1
+resolution	1
+issues		1
+sally		1
+bill		1
+back		1
+update		1
+need		1

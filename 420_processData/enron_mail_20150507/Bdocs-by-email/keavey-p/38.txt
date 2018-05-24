@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hope		1
+hello		1
+well		1
+anyone		1
+pete		1

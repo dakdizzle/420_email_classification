@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+please		1
+available	1
+geir		1
+meet		1
+week		1
+rest		1
+give		1
+call		1

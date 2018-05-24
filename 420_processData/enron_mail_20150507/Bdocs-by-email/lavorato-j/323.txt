@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+until		1
+ben		1
+back		1
+year		1
+wait		1
+think		1
+sold		1
+haven		1

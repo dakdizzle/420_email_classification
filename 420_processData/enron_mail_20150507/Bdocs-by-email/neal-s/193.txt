@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+group		1
+nice		1
+great		1
+job		1
+information	1
+everyone	1
+process		1
+coordinating	1
+thanks		1

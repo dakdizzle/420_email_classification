@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+group		1
+vince		1
+shirleyplease	1
+inform		1

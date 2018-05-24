@@ -1,0 +1,26 @@
+NumWords	32
+NumTerms	23
+
+cn		4
+ed		2
+recipients	2
+na		2
+berney		2
+enron		2
+ou		2
+mcmichael	1
+david		1
+friend		1
+structuring	1
+take		1
+recommended	1
+baucoin		1
+vince		1
+good		1
+resumes		1
+look		1
+please		1
+jr		1
+one		1
+emcmich		1
+aucoin		1

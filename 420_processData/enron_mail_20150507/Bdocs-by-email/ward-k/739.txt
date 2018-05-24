@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+monday		1
+anyway		1
+plan		1
+talk		1
+friday		1
+go		1
+see		1
+dallas		1
+planning	1

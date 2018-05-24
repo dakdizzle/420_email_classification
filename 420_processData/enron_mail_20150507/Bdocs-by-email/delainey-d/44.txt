@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+still		2
+knuckleheads	1
+rule		1
+waiting		1
+dave		1
+here		1

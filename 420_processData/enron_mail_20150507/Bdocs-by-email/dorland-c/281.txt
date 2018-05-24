@@ -1,0 +1,14 @@
+NumWords	14
+NumTerms	11
+
+weekend		4
+out		1
+moving		1
+bullshit	1
+go		1
+probably	1
+chris		1
+doing		1
+looks		1
+next		1
+deer		1

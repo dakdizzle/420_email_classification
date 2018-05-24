@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+thanks		2
+out		2
+first		1
+time		1
+assured		1
+help		1
+better		1
+remind		1
+right		1
+mess		1
+jeff		1
+best		1
+ship		1
+again		1
+idea		1
+heading		1
+year		1
+rest		1
+ll		1

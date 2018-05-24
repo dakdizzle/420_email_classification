@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+meeting		1
+well		1
+hour		1

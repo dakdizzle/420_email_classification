@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+transaction	1
+company		1
+options		1
+see		1
+type		1
+futures		1
+enron		1
+please		1
+sheila		1
+below		1
+correct		1
+comments	1
+appropriate	1

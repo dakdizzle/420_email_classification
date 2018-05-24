@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+rice		1
+greek		1
+guthrie		1
+robert		1

@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+monika		2
+email		1
+interested	1
+name		1
+miem		1
+houston		1
+application	1
+bocconi		1
+comthank	1
+usatel		1
+mcf		1
+mcausholli	1
+causholli	1
+causholliaddress	1
+north		1
+university	1
+tx		1
+hotmail		1
+brochure	1
+boulevard	1

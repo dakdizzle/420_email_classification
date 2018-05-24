@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+cn		2
+free		1
+ignore		1
+now		1
+mhicks		1
+recipients	1
+na		1
+m		1
+talking		1
+enron		1
+feel		1
+ou		1
+michelle	1
+adriana		1
+hicks		1

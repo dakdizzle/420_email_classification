@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+causholli	2
+monika		2
+info		1
+email		1
+send		1
+contact		1
+houston		1
+application	1
+thanks		1
+packet		1
+mcausholli	1
+north		1
+comtel		1
+tx		1
+hotmail		1
+brochure	1
+boulevard	1

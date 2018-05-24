@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+order		1
+everything	1
+deadline	1
+mentioned	1
+mistakenly	1
+etc		1
+thanks		1
+kim		1
+expense		1
+completed	1
+one		1
+year		1
+housing		1
+thought		1
+jmf		1
+still		1
+submitting	1
+think		1
+temporary	1

@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+devon		2
+agreement	2
+ok		1
+paul		1
+know		1
+attached	1
+letter		1
+review		1
+lost		1
+fedex		1
+creek		1
+docs		1
+gathering	1
+revises		1
+please		1
+match		1
+purchase	1
+discussed	1
+executables	1
+prepare		1

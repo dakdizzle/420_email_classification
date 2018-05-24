@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+jim		2
+eric		2
+think		2
+retention	1
+value		1
+per		1
+talk		1
+bump		1
+definitely	1
+tom		1
+disappointed	1
+thanks		1
+great		1
+right		1
+tomorrow	1
+impressed	1
+seemed		1
+months		1
+six		1
+lunch		1
+hump		1
+over		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+elequently	1
+written		1

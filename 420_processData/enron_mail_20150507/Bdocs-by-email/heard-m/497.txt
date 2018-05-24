@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+toes		1
+keep		1
+don		1
+here		1
+worry		1

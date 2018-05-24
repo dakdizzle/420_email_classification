@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ercot		1
+mwh		1
+summer		1
+bid		1
+daily		1
+calls		1
+aug		1
+jul		1
+pieces		1

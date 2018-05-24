@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+care		1
+directly	1
+id		1
+up		1
+paid		1
+geaccone	1
+phone		1
+take		1
+number		1
+soon		1
+cell		1
+possible	1
+enron		1
+please		1
+thankstracy	1
+set		1
+still		1

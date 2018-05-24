@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+long		1
+mess		1
+howzabout	1
+therapy		1
+going		1
+deep		1
+given		1
+here		1

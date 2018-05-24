@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+stay		1
+cant		1
+sorry		1

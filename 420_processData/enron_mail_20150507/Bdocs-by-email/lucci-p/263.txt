@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+talk		1
+jonah		1
+working		1
+gas		1
+buying		1
+system		1
+sunday		1
+points		1
+ve		1
+wondering	1
+delivered	1
+back		1
+go		1
+rates		1
+want		1
+need		1
+tickets		1
+game		1
+broncos		1
+delivery	1

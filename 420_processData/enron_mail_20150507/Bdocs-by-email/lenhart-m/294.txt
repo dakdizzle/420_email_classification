@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+sat		2
+town		2
+next		2
+make		1
+better		1
+out		1
+mitch		1
+weekend		1
+gonna		1
+everyone	1
+last		1
+don		1
+think		1

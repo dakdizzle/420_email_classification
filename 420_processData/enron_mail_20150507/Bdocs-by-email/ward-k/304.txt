@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+kim		1
+come		1
+extendthanks	1
+blend		1
+question	1
+chance		1
+call		1

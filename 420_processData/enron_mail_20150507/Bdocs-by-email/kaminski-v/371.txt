@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+vkamins		2
+vince		2
+cn		2
+unusual		1
+few		1
+recipients	1
+underthese	1
+appreciate	1
+pstvalery	1
+filename	1
+na		1
+lot		1
+thanks		1
+privileged	1
+comfort		1
+really		1
+non		1
+enron		1
+words		1
+ou		1
+circumstances	1
+kaminski	1

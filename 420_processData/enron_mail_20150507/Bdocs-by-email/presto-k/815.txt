@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+asst		1
+interview	1
+please		1
+black		1
+tj		1
+schedule	1

@@ -1,0 +1,16 @@
+NumWords	18
+NumTerms	13
+
+list		4
+jhtml		3
+requestid	1
+www		1
+see		1
+indexw		1
+channel		1
+photohttp	1
+columns		1
+fortune		1
+frag		1
+powerwomen	1
+com		1

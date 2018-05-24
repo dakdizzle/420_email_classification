@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+lorraine	2
+cn		2
+kim		1
+check		1
+enron		1
+please		1
+lindberg	1
+recipients	1
+ou		1
+llindbe		1
+na		1
+thanks		1

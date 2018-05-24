@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+mtaylo		2
+cn		2
+taking		1
+pstthanks	1
+mark		1
+legal		1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+one		1
+ou		1
+taylor		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+dinner		1
+make		1
+man		1
+annie		1
+sorry		1
+cafe		1
+tonight		1

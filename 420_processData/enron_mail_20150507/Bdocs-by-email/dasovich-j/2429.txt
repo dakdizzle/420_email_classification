@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+hold		1
+way		1
+scott		1

@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+gnemec		2
+cn		2
+recipients	1
+filename	1
+na		1
+privileged	1
+psti		1
+non		1
+enron		1
+language	1
+nemec		1
+discussed	1
+ou		1
+added		1
+gerald		1

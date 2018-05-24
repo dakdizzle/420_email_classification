@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+posted		1
+coming		1
+look		1
+weekend		1
+someone		1
+internal	1

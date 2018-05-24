@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+cn		2
+nemec		2
+gerald		2
+payment		1
+pstjudy		1
+recipients	1
+transfer	1
+filename	1
+na		1
+wire		1
+privileged	1
+gnemec		1
+non		1
+enron		1
+section		1
+language	1
+ou		1
+added		1

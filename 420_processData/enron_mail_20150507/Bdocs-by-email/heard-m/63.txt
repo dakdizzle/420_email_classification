@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+samantha	1
+check		1
+working		1
+marie		1
+want		1
+boyd		1
+deal		1
+bianca		1

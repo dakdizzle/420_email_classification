@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+cowan		1
+daviesjohn	1
+lavoratorob	1
+make		1
+ledainjohn	1
+lambiejohn	1
+john		1
+zufferlieric	1
+disturnalmike	1
+reservations	1
+milnthorpderek	1
+mackaychris	1

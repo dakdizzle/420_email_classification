@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+additional	2
+refund		1
+detail		1
+consistent	1
+california	1
+discussed	1
+background	1
+issue		1

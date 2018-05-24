@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+stories		2
+ll		2
+involving	1
+much		1
+rounds		1
+meeting		1
+truly		1
+herself		1
+friday		1
+susan		1
+someone		1
+stop		1
+jesus		1
+result		1
+remember	1
+afternoon	1
+good		1
+come		1
+weekend		1
+night		1
+tell		1
+last		1
+don		1
+making		1

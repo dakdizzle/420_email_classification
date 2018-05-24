@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+close		1
+dinner		1
+shepherd	1
+paulies		1
+westheimer	1
+going		1

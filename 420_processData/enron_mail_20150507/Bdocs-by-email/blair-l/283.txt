@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lynn		1
+hey		1
+message		1
+time		1
+flirt		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+happened	1
+cell		1
+ahold		1
+night		1
+last		1
+couldnt		1

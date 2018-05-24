@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+between		1
+natty		1
+shorts		1
+power		1
+jean		1
+thanksgiving	1
+fletch		1
+thanks		1
+ve		1
+back		1
+happy		1
+already		1
+atcha		1
+belated		1

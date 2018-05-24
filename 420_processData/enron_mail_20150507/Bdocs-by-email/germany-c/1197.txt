@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+deal		2
+mar		1
+tagg		1
+enter		1
+please		1
+nx		1
+purchase	1
+price		1
+created		1
+reliant		1
+nov		1
+thanks		1

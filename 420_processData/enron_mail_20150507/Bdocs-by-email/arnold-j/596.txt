@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+email		1
+leaving		1
+give		1

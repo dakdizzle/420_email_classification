@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+cents		2
+dis		1
+order		1
+fills		1
+good		1
+gave		1
+understand	1
+trading		1

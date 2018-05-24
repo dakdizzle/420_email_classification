@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+power		2
+products	2
+energy		1
+isda		1
+arrange		1
+closing		1
+east		1
+warburg		1
+morning		1
+room		1
+roleson		1
+agenda		1
+please		1
+implementationorganization	1
+eei		1
+ubs		1
+line		1
+documents	1
+mtg		1

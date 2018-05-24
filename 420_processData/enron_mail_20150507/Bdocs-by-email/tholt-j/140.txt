@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+m		1
+run		1
+backup		1
+rpoducts	1

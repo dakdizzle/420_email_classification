@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+buddy		1
+invite		1
+forward		1
+need		1
+mail		1
+provide		1
+didn		1

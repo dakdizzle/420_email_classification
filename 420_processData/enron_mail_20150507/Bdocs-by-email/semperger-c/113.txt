@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+keeps		1
+playing		1
+grinning	1
+today		1
+asking		1
+everyone	1
+thought		1
+pretty		1
+straight	1

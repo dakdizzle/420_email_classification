@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+thinking	1
+thuraisingham	1
+ravi		1
+far		1
+find		1
+etc		1
+hiring		1
+reviews		1
+scoop		1
+rankings	1

@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+ercot		2
+jsp		2
+mcp		1
+services	1
+mospublic	1
+http		1
+balancing	1
+com		1

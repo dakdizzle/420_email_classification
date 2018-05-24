@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+fine		1
+meet		1
+bar		1

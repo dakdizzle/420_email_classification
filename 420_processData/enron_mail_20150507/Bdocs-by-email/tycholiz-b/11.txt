@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+room		1
+video		1
+available	1
+today		1
+scheduled	1
+jessica		1
+conference	1
+bt		1

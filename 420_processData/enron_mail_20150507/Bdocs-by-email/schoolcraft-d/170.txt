@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+ds		1
+early		1
+down		1
+revised		1
+come		1
+friday		1
+volumes		1
+griffith	1
+saturday	1
+looks		1
+sometime	1

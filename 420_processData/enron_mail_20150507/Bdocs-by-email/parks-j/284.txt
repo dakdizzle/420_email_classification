@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+proctor		1
+left		1
+shemin		1
+turned		1
+gerald		1
+ext		1
+over		1

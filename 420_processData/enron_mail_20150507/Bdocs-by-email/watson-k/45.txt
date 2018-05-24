@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ve		1
+kim		1
+thursday	1
+booked		1
+thanks		1

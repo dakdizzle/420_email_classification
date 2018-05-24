@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+value		2
+detail		1
+please		1
+spreadsheet	1
+attached	1
+mtm		1
+forward		1
+carl		1
+nov		1
+kamx		1
+see		1
+txu		1

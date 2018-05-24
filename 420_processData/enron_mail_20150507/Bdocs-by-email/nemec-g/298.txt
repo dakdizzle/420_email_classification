@@ -1,0 +1,27 @@
+NumWords	30
+NumTerms	24
+
+meeting		2
+pm		2
+time		2
+ect		2
+chris		2
+sherman		2
+up		1
+rae		1
+meadows		1
+tuesday		1
+times		1
+thanks		1
+afternoon	1
+hou		1
+good		1
+enron		1
+nemec		1
+available	1
+subject		1
+set		1
+works		1
+gerald		1
+next		1
+enronxgate	1

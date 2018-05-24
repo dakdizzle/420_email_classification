@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+meeting		2
+kim		2
+homco		1
+pm		1
+make		1
+time		1
+attends		1
+tommorow	1
+thanks		1
+afternoon	1
+jim		1
+believe		1
+please		1
+scheduled	1
+need		1
+attend		1
+melodick	1
+sure		1
+move		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+comding		1
+ehud		1
+nexant		1
+clharper	1
+yuan		1
+resume		1

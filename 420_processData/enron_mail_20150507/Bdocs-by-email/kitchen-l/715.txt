@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+match		1
+ours		1

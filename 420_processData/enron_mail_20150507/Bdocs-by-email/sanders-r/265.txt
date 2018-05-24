@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+rsvp		1
+please		1
+boston		1

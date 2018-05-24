@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+great		2
+hear		1
+time		1

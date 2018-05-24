@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+asap		1
+services	1
+try		1
+pay		1
+field		1
+duke		1

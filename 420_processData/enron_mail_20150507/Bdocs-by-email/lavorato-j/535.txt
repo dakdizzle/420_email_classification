@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+expenses	1
+lavo		1
+jlavora		1
+allocating	1
+pstmarkmake	1
+johnx		1
+sure		1
+filename	1
+ees		1
+lavorato	1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+malibu		1
+grand		1
+prix		1

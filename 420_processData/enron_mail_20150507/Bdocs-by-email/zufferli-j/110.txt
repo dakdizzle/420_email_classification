@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+day		2
+still		2
+complete	1
+credit		1
+gas		1
+buying		1
+heel		1
+long		1
+life		1
+down		1
+issues		1
+feel		1
+difficult	1
+back		1
+want		1
+work		1
+terrified	1
+away		1
+having		1
+don		1
+feels		1
+here		1

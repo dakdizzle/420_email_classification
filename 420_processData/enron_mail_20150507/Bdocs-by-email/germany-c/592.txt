@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+work		2
+home		1
+out		1
+around		1
+m		1
+today		1
+going		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+discuss		1
+sit		1
+written		1
+draft		1
+person		1
+review		1
+performance	1
+down		1
+convenience	1
+traveling	1
+happy		1
+prepared	1
+donna		1
+here		1

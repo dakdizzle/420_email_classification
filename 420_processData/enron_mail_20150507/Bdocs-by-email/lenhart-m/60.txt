@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+worth		1
+liked		1
+really		1
+penny		1
+hooker		1
+oozing		1
+itching		1
+isn		1
+think		1

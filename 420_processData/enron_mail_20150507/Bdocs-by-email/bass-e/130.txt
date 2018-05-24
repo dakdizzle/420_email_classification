@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+ebass		2
+privileged	2
+non		2
+little		1
+up		1
+pstjust		1
+filename	1
+ex		1
+folder		1
+bass		1
+something	1
+sent		1
+version		1
+weekend		1
+origin		1
+itemsx		1
+mime		1
+fired		1

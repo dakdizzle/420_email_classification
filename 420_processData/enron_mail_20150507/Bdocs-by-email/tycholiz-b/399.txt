@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+dinner		1
+done		1
+perogie		1
+think		1

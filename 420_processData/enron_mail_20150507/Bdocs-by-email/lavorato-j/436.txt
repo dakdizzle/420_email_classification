@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+million		2
+chicago		1
+value		1
+lavo		1
+know		1
+extrinsic	1
+ventura		1
+two		1
+increase	1
+trasport	1
+northern	1
+hunterdid	1
+months		1
+over		1
+border		1

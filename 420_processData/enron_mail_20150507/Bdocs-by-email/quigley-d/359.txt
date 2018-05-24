@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+plus		1
+use		1
+year		1

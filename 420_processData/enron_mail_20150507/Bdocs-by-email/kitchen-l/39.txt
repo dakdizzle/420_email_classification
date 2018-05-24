@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+david		1
+martin		1
+recipients	1
+yup		1
+na		1
+audrey		1
+doxley		1
+enron		1
+ubsw		1
+ou		1
+oxley		1
+com		1

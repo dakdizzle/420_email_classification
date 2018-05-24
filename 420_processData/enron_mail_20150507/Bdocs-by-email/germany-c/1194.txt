@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+index		1
+need		1
+month		1
+deal		1

@@ -1,0 +1,25 @@
+NumWords	28
+NumTerms	22
+
+mgmt		4
+aeco		2
+dawn		2
+cand		2
+gd		1
+power		1
+fixed		1
+price		1
+ontario		1
+bas		1
+cinergy		1
+books		1
+pjm		1
+basiscand	1
+alberta		1
+nepool		1
+ny		1
+fot		1
+pwr		1
+mid		1
+nymexcand	1
+pr		1

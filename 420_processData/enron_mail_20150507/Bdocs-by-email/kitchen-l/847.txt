@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+email		1
+chase		1
+asap		1
+response	1

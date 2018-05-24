@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+sure		2
+much		1
+make		1
+copy		1
+john		1
+well		1
+working		1
+sending		1
+find		1
+alan		1
+wanted		1
+efforts		1
+weren		1
+jim		1
+team		1
+shelk		1
+duplicating	1
+saw		1
+mail		1

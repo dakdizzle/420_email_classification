@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+xls		2
+truck		2
+note		2
+worksheet	1
+frenchy		1
+transfer	1
+beautiful	1
+out		1
+title		1
+transport	1
+uncle		1
+want		1
+work		1
+think		1

@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+changed		1
+meeting		1
+comment		1
+know		1
+attending	1
+trying		1
+out		1
+really		1
+something	1
+m		1
+sally		1
+direct		1
+maybe		1
+beck		1
+though		1
+last		1
+sure		1
+don		1
+figure		1
+reports		1

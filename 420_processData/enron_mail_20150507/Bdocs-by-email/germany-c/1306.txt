@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+love		2
+madly		2
+boy		1
+being		1
+up		1
+sing		1
+still		1
+doing		1
+call		1

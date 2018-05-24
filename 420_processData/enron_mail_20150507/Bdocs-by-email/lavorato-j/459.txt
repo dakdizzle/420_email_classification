@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+dog		1
+john		1
+comment		1
+back		1
+take		1

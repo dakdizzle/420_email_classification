@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+open		1
+try		1
+files		1
+comx		1
+authordirectlyvince	1
+contact		1
+resend		1
+filename	1
+tried		1
+vkamins		1
+gary		1
+privileged	1
+hickerson	1
+empty		1
+non		1
+enron		1
+shall		1
+pstjeff		1
+origin		1
+work		1
+attachments	1
+vx		1
+kaminski	1

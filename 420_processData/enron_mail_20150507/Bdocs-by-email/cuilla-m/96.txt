@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+th		2
+dana		1
+hunting		1
+hearing		1
+know		1
+name		1
+meet		1
+world		1
+remember	1
+talked		1
+people		1
+kansas		1
+enron		1
+going		1
+before		1
+don		1
+gerald		1
+november	1
+through		1
+small		1

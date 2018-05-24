@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+ed		1
+discuss		1
+further		1
+ale		1
+napoleonville	1
+following	1
+docs		1
+getting		1
+call		1
+keith		1
+warehouse	1
+please		1
+changes		1
+issue		1
+finaliz		1
+note		1

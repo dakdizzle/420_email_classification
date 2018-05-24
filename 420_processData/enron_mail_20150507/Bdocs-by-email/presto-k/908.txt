@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+grant		1
+please		1
+steve		1
+access		1

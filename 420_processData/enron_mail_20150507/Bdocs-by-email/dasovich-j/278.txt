@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+call		2
+ca		1
+others		1
+jeff		1
+line		1
+pls		1
+trying		1

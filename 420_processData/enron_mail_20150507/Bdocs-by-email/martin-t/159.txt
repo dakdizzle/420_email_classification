@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+kids		1
+bedtime		1
+pm		1
+track		1
+power		1
+until		1
+safe		1
+gas		1
+won		1
+future		1
+fine		1
+tom		1
+home		1
+nino		1
+dinner		1
+program		1
+enron		1
+night		1
+probably	1
+told		1
+traders		1
+last		1
+having		1
+trading		1

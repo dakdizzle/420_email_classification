@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+hanson		1
+scotty		1
+rounds		1
+meeting		1
+make		1
+particulars	1
+stacey		1
+know		1
+basically	1
+dark		1
+donnie		1
+effective	1
+pst		1
+better		1
+really		1
+jeff		1
+answers		1
+want		1
+idea		1
+sure		1

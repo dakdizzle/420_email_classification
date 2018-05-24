@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+day		1
+gate		1
+meet		1
+th		1
+june		1
+saturday	1
+sunday		1
+ll		1

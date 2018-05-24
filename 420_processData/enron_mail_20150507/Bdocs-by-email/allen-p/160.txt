@@ -1,0 +1,26 @@
+NumWords	31
+NumTerms	23
+
+day		2
+payment		2
+paid		2
+accrued		2
+interest	2
+due		2
+payoff		2
+note		2
+info		1
+make		1
+jacques		1
+attached	1
+assuming	1
+phillip		1
+balance		1
+schedule	1
+example		1
+unsecured	1
+amortization	1
+before		1
+kuo		1
+amount		1
+here		1

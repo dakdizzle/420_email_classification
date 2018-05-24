@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+going		1
+russell		1
+rwe		1

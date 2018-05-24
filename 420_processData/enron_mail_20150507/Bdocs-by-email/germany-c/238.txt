@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+chris		2
+cn		2
+germany		2
+case		1
+email		1
+up		1
+know		1
+cgerman		1
+guys		1
+recipients	1
+file		1
+filename	1
+na		1
+pull		1
+psti		1
+enron		1
+again		1
+ou		1
+previous	1
+don		1
+here		1

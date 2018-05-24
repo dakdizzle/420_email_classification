@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+something	1
+softwary	1
+gonna		1
+release		1
+provider	1
+see		1
+didn		1

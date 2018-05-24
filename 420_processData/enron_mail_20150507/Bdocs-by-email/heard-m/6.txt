@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+marie		2
+cn		2
+mheard		2
+heard		1
+ignore		1
+isda		1
+recipients	1
+earlier		1
+filename	1
+na		1
+pstplease	1
+thanks		1
+privileged	1
+non		1
+deemed		1
+forwarding	1
+enron		1
+ou		1
+mail		1

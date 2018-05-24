@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+asp		1
+affich		1
+rubno		1
+xyhjq		1
+http		1
+www		1
+canadatrader	1
+pa		1
+result		1
+sid		1
+trader		1
+pr		1
+com		1

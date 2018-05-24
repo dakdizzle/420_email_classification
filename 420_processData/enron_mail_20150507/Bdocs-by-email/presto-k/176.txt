@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+approx		2
+mwh		1
+contracts	1
+power		1
+gas		1
+bought		1
+million		1
+east		1
+sold		1

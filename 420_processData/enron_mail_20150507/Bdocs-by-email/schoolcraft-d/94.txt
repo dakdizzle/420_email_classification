@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+thank		2
+everything	1
+today		1
+timely		1
+systems		1
+fast		1
+running		1
+ds		1
+manner		1
+team		1
+logistics	1
+again		1
+pace		1
+nng		1
+more		1
+need		1
+tw		1

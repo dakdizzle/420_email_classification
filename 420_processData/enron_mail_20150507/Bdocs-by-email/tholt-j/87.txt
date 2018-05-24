@@ -1,0 +1,14 @@
+NumWords	18
+NumTerms	11
+
+cn		4
+enron		2
+recipients	2
+ou		2
+na		2
+ssouth		1
+lenhart		1
+south		1
+mlenhar		1
+steven		1
+matthew		1

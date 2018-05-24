@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+actual		2
+graphic		1
+send		1
+power		1
+midwest		1
+yrs		1
+rate		1
+nuke		1
+sturmv		1
+expect		1
+thanks		1
+output		1
+dan		1
+versus		1
+look		1
+interconnect	1
+utilization	1
+fletcher	1
+previous	1
+eastern		1

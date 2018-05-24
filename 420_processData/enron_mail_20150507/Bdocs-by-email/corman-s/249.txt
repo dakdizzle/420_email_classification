@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+jean		2
+cn		2
+mcfarland	1
+messages	1
+keep		1
+recipients	1
+na		1
+getting		1
+enron		1
+batch		1
+another		1
+ou		1
+jmcfarl		1
+similar		1
+reminders	1

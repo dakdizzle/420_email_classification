@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+deemed		1
+threshold	1
+won		1
+isda		1
+carve		1
+deal		1

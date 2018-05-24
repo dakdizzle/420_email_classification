@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+dollars		1
+adjustment	1
+please		1
+know		1
+thanks		1

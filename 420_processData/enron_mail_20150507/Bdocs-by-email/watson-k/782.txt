@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+returned	1
+department	1
+thank		1
+keep		1
+longer		1
+emails		1
+robert		1
+posted		1
+kim		1
+research	1
+enron		1
+part		1
+yes		1
+development	1
+still		1
+thoughts	1
+hi		1
+here		1

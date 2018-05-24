@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+leg		2
+first		1
+know		1
+legs		1
+put		1
+three		1
+annuity		1
+purchase	1
+yes		1
+asking		1
+don		1
+think		1
+kk		1

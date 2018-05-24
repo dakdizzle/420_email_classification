@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+issue		2
+ngx		1
+day		1
+end		1
+today		1
+johnwe		1
+ready		1
+june		1
+sorted		1
+settlement	1
+out		1
+whole		1
+july		1
+start		1
+another		1
+data		1
+rob		1
+including	1
+st		1

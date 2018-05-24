@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+numbers		2
+deal		2
+park		1
+term		1
+end		1
+baseload	1
+create		1
+following	1
+extended	1
+instead		1
+contracts	1
+sitara		1
+contract	1
+old		1
+loan		1
+new		1
+date		1

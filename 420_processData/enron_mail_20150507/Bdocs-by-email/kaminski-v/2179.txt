@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+vince		1
+know		1
+sometimes	1
+kate		1
+august		1
+september	1

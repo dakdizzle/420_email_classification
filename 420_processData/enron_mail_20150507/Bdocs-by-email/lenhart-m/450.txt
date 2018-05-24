@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+fun		1
+day		1
+wedding		1
+lot		1
+out		1
+during		1
+weekend		1
+staying		1
+night		1
+sat		1
+drank		1
+worn		1
+game		1
+here		1

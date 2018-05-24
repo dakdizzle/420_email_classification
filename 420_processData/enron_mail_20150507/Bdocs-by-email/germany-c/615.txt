@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+friends		2
+told		2
+going		2
+closest		1
+monday		1
+well		1
+even		1
+two		1
+pay		1
+go		1
+bring		1
+shemin		1
+don		1
+lunch		1

@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+going		3
+day		2
+out		2
+ut		1
+seems		1
+hanging		1
+fri		1
+looking		1
+whether		1
+sleep		1
+stay		1
+m		1
+enron		1
+wearing		1
+relaxing	1
+relax		1
+forward		1
+need		1
+business	1
+game		1
+mind		1
+here		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+status		1
+stacey		1
+know		1
+west		1
+change		1
+anyone		1

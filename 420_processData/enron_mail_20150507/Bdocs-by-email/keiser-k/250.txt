@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+enovate		1
+added		1
+thanks		1

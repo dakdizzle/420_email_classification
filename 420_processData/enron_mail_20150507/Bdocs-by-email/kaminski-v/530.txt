@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+vince		2
+math		1
+umass		1
+pststinson	1
+helyette	1
+edu		1
+geman		1
+reached		1
+kaminskix	1
+filename	1
+vkamins		1

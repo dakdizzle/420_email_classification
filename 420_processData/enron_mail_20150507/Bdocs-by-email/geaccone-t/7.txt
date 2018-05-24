@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+make		1
+cream		1
+ice		1
+tomorrow	1
+bring		1
+wait		1
+forget		1
+don		1
+saturday	1
+pastries	1
+ordered		1
+love		1

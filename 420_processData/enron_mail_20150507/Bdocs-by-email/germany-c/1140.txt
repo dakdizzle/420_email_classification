@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+digits		1
+shooting	1
+triple		1

@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+week		3
+next		2
+talk		1
+doubles		1
+tuesday		1
+guysthis	1
+soon		1
+good		1
+look		1
+thursday	1
+work		1
+sager		1
+lunch		1
+elizabeth	1
+hi		1
+date		1
+doesn		1

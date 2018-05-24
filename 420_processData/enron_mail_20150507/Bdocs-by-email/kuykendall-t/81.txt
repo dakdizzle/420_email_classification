@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+good		2
+doin		1
+updated		1
+land		1
+keep		1
+sounds		1
+something	1
+economy		1
+decent		1
+prospects	1
+luck		1
+think		1
+okay		1

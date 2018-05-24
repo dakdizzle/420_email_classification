@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+dont		2
+know		2
+walk		1
+family		1
+playing		1
+kinda		1
+special		1
+via		1
+really		1
+around		1
+message		1
+ideas		1
+mom		1
+chef		1
+finally		1
+idea		1
+wes		1
+hiring		1
+mail		1
+communicate	1
+sure		1
+smiling		1
+trasting	1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+forecast	2
+mar		1
+lows		1
+place		1
+term		1
+ng		1
+understand	1
+past		1
+e		1
+longer		1
+don		1

@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+customer	3
+service		2
+group		1
+reporting	1
+john		1
+guys		1
+calls		1
+even		1
+roup		1
+m		1
+check		1
+talking		1
+bill		1
+sally		1
+need		1
+hughes		1
+deal		1
+don		1
+dave		1

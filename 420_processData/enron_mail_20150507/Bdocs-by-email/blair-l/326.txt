@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lynn		1
+regular		1
+ava		1
+time		1
+thanks		1

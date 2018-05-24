@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+lynn		2
+lblair		2
+cn		2
+discuss		1
+greg		1
+blair		1
+recipients	1
+answering	1
+appreciate	1
+blue		1
+filename	1
+na		1
+thanks		1
+feedback	1
+pst		1
+privileged	1
+non		1
+enron		1
+answers		1
+ou		1
+before		1

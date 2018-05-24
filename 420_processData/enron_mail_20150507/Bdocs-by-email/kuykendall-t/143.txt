@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+first		1
+kim		1
+dont		1
+try		1
+marta		1

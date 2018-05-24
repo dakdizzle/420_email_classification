@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+down		1
+indicate	1
+logistics	1
+gas		1
+show		1
+understand	1
+variance	1
+workpapers	1
+don		1
+schedule	1

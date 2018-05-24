@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+thing		1
+seems		1
+stock		1
+up		1
+end		1
+come		1
+worst		1
+go		1
+more		1
+unbelievable	1
+issuing		1

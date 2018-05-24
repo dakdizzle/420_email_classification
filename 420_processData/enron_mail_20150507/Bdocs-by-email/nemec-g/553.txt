@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+descriptions	1
+scopes		1
+well		1
+project		1
+need		1
+chris		1
+give		1
+brief		1

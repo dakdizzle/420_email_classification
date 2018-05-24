@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+number		2
+day		1
+facility	1
+williams	1
+taken		1
+phone		1
+bt		1
+geysa		1
+kevin		1
+cochrane	1
+thanks		1
+incorrectly	1
+down		1
+shrink		1
+arujo		1
+called		1

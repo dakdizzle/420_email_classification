@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+sanders		1
+message		1
+jeff		1
+best		1
+quite		1
+pass		1
+sure		1
+think		1
+thanks		1

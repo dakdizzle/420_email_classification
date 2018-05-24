@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+aep		1
+entex		1
+djhyvl		1
+work		1
+phone		1
+eadd		1
+number		1
+com		1
+dan		1

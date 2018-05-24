@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+co		1
+tax		1
+http		1
+harris		1
+www		1
+tx		1

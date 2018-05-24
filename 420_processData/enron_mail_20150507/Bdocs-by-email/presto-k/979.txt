@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+put		1
+please		1
+need		1
+calender	1
+attend		1

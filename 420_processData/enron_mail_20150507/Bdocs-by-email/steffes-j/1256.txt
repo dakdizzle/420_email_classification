@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+cn		2
+jsteffe		2
+governance	1
+profit		1
+wording		1
+talk		1
+recipients	1
+interest	1
+filename	1
+na		1
+transco		1
+privileged	1
+jim		1
+steffes		1
+psti		1
+non		1
+agree		1
+enron		1
+best		1
+change		1
+james		1
+ou		1
+beginning	1
+dave		1

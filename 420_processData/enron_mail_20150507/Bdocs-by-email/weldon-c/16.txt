@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+ect		2
+weldon		2
+hou		2
+charles		2
+pm		1
+html		1
+http		1
+xmgr		1
+www		1
+drought		1
+noaa		1
+reitmeyer	1
+onlineprod	1
+gov		1
+forwarded	1
+pmto		1
+enron		1
+ectcc		1
+ncdc		1
+subject		1
+jay		1
+enronxgate	1

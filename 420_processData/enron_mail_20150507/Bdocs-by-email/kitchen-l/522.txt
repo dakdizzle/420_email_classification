@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+kitchen		2
+louise		2
+cn		2
+moving		1
+clever		1
+houston		1
+recipients	1
+filename	1
+na		1
+lkitchen	1
+psthe		1
+enron		1
+obviously	1
+finally		1
+ou		1
+move		1

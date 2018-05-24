@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+more		1
+ready		1
+money		1
+take		1

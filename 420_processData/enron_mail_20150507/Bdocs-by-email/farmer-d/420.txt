@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+explanations	1
+know		1
+analyst		1
+need		1
+specialist	1
+mike		1
+d		1
+smith		1
+bob		1
+jay		1
+olsen		1

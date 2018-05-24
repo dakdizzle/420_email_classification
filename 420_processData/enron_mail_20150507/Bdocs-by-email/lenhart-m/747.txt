@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+good		1
+dinner		1
+know		1
+test		1
+luck		1
+went		1
+thurs		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+location	1
+vp		1
+officerand	1
+plans		1
+thanks		1
+room		1
+cormansr	1
+rickichange	1
+please		1
+change		1
+chief		1
+commercial	1
+shelley		1
+new		1

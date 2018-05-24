@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+rebecca		1
+pricing		1
+sitara		1
+adjusted	1
+correct		1
+tickets		1
+deal		1
+txu		1

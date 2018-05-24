@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+possibly	1
+day		1
+meeton		1
+wednesday	1
+friday		1
+out		1
+vince		1
+thursday	1
+shall		1
+praveen		1
+week		1
+lunch		1
+next		1

@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+msn		2
+look		1
+people		1
+ene		1
+zapped		1
+indeed		1
+wonder		1
+outside		1
+logged		1
+ll		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+party		1
+boy		1
+ohhh		1
+know		1
+week		1
+having		1
+sometime	1
+big		1

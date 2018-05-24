@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+much		1
+close		1
+floor		1
+slummin		1
+gas		1
+very		1
+here		1

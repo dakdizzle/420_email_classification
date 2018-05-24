@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+again		2
+tomarrow	1
+day		1
+hey		1
+portland	1
+definitely	1
+see		1
+miss		1
+kim		1
+soon		1
+pictures	1
+great		1
+hope		1
+told		1
+here		1

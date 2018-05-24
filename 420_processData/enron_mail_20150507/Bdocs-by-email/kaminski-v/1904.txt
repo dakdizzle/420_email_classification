@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+vkamins		2
+vince		2
+cn		2
+become		1
+time		1
+recipients	1
+fine		1
+filename	1
+na		1
+pstanne		1
+privileged	1
+associate	1
+soon		1
+non		1
+being		1
+enron		1
+ou		1
+kaminski	1

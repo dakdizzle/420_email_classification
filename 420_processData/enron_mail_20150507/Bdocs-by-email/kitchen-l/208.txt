@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+kitchen		2
+louise		2
+cn		2
+per		1
+recipients	1
+annum		1
+filename	1
+na		1
+pst		1
+lkitchen	1
+enron		1
+ou		1
+mm		1

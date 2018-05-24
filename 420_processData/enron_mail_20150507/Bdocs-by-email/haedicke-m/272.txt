@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+mark		2
+haedicke	1
+handle		1
+please		1

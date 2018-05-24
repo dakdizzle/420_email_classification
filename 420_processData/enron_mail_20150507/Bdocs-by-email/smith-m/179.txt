@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+elpo		2
+gdp		2
+those		1
+maria		1
+try		1
+working		1
+perm		1
+curves		1
+still		1
+mat		1
+socali		1
+sanjuagdp	1

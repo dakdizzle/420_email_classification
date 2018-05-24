@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+go		3
+fun		1
+definitely	1
+sunday		1
+lot		1
+anyway		1
+l		1
+night		1
+want		1
+xoxoxoxo	1
+homework	1
+doing		1
+game		1

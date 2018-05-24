@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+email		1
+pm		1
+arrive		1
+bought		1
+grandma		1
+ticket		1
+saturday	1

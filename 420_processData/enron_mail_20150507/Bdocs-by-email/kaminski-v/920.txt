@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+vince		1
+liz		1
+thanks		1

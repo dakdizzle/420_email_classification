@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+mark		2
+group		1
+much		1
+enjoyed		1
+europe		1
+time		1
+talk		1
+working		1
+broadband	1
+left		1
+later		1
+marketing	1
+pipeline	1
+switch		1
+hope		1
+team		1
+transwestern	1
+joined		1
+made		1
+recently	1
+ll		1

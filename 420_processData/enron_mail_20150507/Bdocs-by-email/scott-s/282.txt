@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+night		2
+fun		1
+email		1
+dinners		1
+starting	1
+worried		1
+interest	1
+planning	1
+take		1
+both		1
+morning		1
+happened	1
+look		1
+katy		1
+thursday	1
+one		1
+sound		1
+going		1
+taster		1
+last		1
+trading		1
+ll		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+point		1
+lex		1
+morphing	1
+good		1
+krypto		1
+luther		1
+excellent	1
+although	1
+later		1
+chance		1

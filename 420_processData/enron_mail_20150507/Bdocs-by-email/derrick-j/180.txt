@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+letters		1
+respond		1
+net		1
+know		1
+fyi		1
+joannie		1
+jim		1
+onto		1
+way		1
+years		1
+seen		1
+advised		1
+many		1
+appears		1
+scam		1
+made		1
+over		1

@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+keg		3
+frig		2
+realize		1
+case		1
+departure	1
+extra		1
+car		1
+prperly		1
+meet		1
+sounds		1
+unit		1
+doesnt		1
+opening		1
+good		1
+possible	1
+recommend	1
+weekend		1
+one		1
+work		1
+tap		1

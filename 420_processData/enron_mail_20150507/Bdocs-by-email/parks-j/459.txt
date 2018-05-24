@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+moment		1
+down		1
+hey		1
+tack		1
+joe		1

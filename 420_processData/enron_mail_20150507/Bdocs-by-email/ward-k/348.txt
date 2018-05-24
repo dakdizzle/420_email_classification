@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+started		2
+term		1
+ready		1
+immediate	1
+thanks		1
+kim		1
+swaps		1
+lets		1
+financial	1
+preparted	1
+don		1
+financials	1
+expecting	1

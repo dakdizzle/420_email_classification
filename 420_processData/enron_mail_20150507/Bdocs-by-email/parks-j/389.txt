@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+worth		1
+penny		1
+know		1
+touch		1
+things		1
+keep		1
+going		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+taking		1
+years		1
+two		1
+version		1
+job		1
+tell		1
+comfortable	1
+teacher		1
+shop		1
+don		1
+cedar		1
+better		1

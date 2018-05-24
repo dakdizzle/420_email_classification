@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+regular		1
+thinking	1
+working		1
+yes		1
+someone		1
+voicemail	1
+schedule	1
+ll		1

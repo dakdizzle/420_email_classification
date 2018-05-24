@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+full		1
+territory	1
+powers		1
+paso		1
+served		1
+load		1
+bt		1
+morning		1
+southwests	1
+good		1
+el		1
+kern		1
+nevada		1
+requirements	1
+generation	1

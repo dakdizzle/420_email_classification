@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+deals		2
+looks		2
+pl		1
+detail		1
+few		1
+counterparty	1
+minibook	1
+today		1
+sorted		1
+out		1
+three		1
+go		1
+year		1
+period		1
+calendar	1
+forwards	1
+here		1

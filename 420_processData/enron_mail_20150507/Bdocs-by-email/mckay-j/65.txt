@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+out		3
+cheers		1
+beer		1
+catch		1
+bunch		1
+friday		1
+hangin		1
+sorry		1
+tuesday		1
+people		1
+enron		1
+uncomfortable	1
+whole		1
+one		1
+maybe		1
+gang		1
+quick		1
+tonight		1
+com		1

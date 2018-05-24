@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+myself		1
+attack		1
+mean		1
+need		1
+c		1
+saving		1
+doesn		1

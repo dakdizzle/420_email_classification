@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+send		1
+copy		1
+hard		1
+please		1
+electronic	1
+mail		1
+copies		1
+thanks		1

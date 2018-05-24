@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+resigned	1
+collect		1
+know		1
+today		1
+badge		1
+effective	1
+anything	1
+please		1
+thankskam	1
+equipment	1
+carole		1
+hector		1
+need		1
+frank		1

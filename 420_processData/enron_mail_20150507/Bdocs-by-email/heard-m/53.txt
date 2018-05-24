@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+pretty		1
+eerie		1

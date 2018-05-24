@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+know		1
+balance		1
+thanks		1
+call		1
+market		1
+recommended	1
+kim		1
+asap		1
+bhp		1
+please		1
+guy		1
+juan		1
+august		1
+still		1
+san		1
+spiro		1

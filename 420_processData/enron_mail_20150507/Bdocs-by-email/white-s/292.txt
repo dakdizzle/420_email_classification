@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+stacey		2
+swhite		2
+cn		2
+power		1
+know		1
+coral		1
+recipients	1
+white		1
+filename	1
+na		1
+pstwill		1
+privileged	1
+script		1
+done		1
+l		1
+non		1
+enron		1
+run		1
+please		1
+ou		1

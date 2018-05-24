@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+meeting		2
+successful	1
+dutton		1
+wishes		1
+kleit		1
+corman		1
+professor	1
+both		1
+dinner		1
+april		1
+best		1
+please		1
+pass		1
+attend		1
+jennifer	1
+shelley		1
+regrettably	1
+dean		1

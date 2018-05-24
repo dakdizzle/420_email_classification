@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+group		1
+pm		1
+whole		1
+find		1
+everyone	1
+works		1
+suarez		1
+including	1
+date		1
+call		1

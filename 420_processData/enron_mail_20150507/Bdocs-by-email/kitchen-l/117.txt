@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+m		1
+cell		1
+speak		1
+go		1
+supposed	1
+later		1
+away		1
+don		1
+number		1
+worry		1

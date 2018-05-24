@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+pl		1
+under		1
+counterparty	1
+impression	1
+million		1
+balance		1
+r		1
+p		1
+dollar		1
+noticeable	1
+range		1
+outstanding	1
+pretty		1

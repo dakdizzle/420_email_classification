@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+few		1
+derek		1
+busy		1
+minutes		1
+squeeze		1
+afternoon	1

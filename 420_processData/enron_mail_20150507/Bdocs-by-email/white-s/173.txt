@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+continuing	1
+terminations	1
+up		1
+stacey		1
+until		1
+evident		1
+continue	1
+etc		1
+fine		1
+books		1
+east		1
+lots		1
+becomes		1
+setting		1
+two		1
+believe		1
+rotation	1
+work		1
+stopped		1

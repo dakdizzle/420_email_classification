@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+remove		2
+cn		2
+confidential	1
+kathy		1
+kschul		1
+recipients	1
+na		1
+thanks		1
+employed	1
+transition	1
+people		1
+matter		1
+enron		1
+please		1
+schultea	1
+kathryn		1
+go		1
+wra		1
+michelle	1
+ahead		1
+ou		1
+process		1

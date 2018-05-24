@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+years		1
+collateral	1
+hesco		1
+focus		1
+want		1
+additional	1
+noresco		1

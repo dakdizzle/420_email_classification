@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+scheduling	2
+stacey		1
+now		1
+system		1
+tables		1
+thanks		1
+out		1
+autoschedule	1
+prepays		1
+document	1
+below		1
+ensure		1
+still		1
+cleaning	1

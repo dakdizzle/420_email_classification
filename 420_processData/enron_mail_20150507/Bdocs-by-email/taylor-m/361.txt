@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+hear		1
+list		1
+time		1
+try		1
+pledge		1
+name		1
+ago		1
+again		1
+made		1
+concerned	1
+ll		1
+ii		1

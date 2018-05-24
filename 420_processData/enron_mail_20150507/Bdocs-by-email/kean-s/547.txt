@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+advising	1
+helpful		1
+assist		1
+now		1
+various		1
+ken		1
+extensive	1
+communications	1
+firm		1
+retained	1
+thanks		1
+thinking	1
+experience	1
+co		1
+facing		1
+challenges	1
+crisis		1
+kekst		1

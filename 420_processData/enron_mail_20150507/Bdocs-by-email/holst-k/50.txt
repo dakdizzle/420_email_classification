@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+free		1
+floor		1
+looking		1
+days		1
+extra		1
+take		1
+awesome		1
+keith		1
+really		1
+team		1
+feel		1
+forward		1
+need		1
+having		1
+couple		1
+new		1
+brent		1
+trading		1

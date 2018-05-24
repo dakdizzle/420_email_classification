@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+hold		1
+accountant	1
+kimdid		1

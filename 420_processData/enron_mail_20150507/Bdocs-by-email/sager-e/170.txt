@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+contacts	1
+sender		1
+sager		1
+thankselizabeth	1
+add		1

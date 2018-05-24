@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+meetings	1
+please		1
+thank		1
+rex		1
+proceed		1

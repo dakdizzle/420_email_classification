@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+group		1
+together	1
+interested	1
+ways		1
+split		1
+getting		1
+people		1
+doable		1
+est		1
+buy		1
+need		1
+cost		1
+tickets		1

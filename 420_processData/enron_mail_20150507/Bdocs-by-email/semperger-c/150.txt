@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+semperger	2
+power		1
+paths		1
+cx		1
+th		1
+transmission	1
+filename	1
+transfer	1
+bpa		1
+content		1
+losses		1
+encoding	1
+real		1
+origin		1
+pstthere	1
+bitx		1
+cara		1

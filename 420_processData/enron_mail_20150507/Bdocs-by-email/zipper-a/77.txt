@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+terminated	1
+position	1
+summarizes	1
+attached	1
+see		1
+anything	1
+changing	1
+accurately	1
+believe		1
+remains		1
+below		1
+reasons		1
+deal		1
+note		1

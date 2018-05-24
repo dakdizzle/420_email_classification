@@ -1,0 +1,23 @@
+NumWords	28
+NumTerms	20
+
+sandra.brawner@enron.com	5
+kimberly.bates@enron.com	3
+michele.winckowski@enron.com	3
+steve.van@enron.com	1
+ellen.wallumrod@enron.com	1
+sean.riordan@enron.com	1
+tfiandt@houston.rr.com	1
+daniel.diamond@enron.com	1
+susan.jones@neg.pge.com	1
+carolyn.graham@enron.com	1
+l..hernandez@enron.com	1
+richard.deming@enron.com	1
+robary@cs.com	1
+laura.luce@enron.com	1
+pereira@houston.rr.com	1
+frank.vickers@enron.com	1
+dana.jones@enron.com	1
+kathy.mayfield@enron.com	1
+gerald.nemec@enron.com	1
+djunek@aeglobalmarkets.com	1

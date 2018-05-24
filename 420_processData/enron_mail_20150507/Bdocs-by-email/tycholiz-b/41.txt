@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+time		1
+available	1
+houston		1
+bt		1

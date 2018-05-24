@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+much		1
+john		1
+know		1
+few		1
+extra		1
+filename	1
+lavoratox	1
+psti		1
+please		1
+jlavora		1
+want		1
+var		1
+weeks		1
+regardsjohn	1
+give		1
+next		1

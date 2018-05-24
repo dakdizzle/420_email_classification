@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+lavo		1
+ok		1
+steve		1
+guess		1
+built		1
+canada		1
+thought		1
+although	1
+eh		1
+looks		1
+always		1

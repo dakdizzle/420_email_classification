@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+home		1
+free		1
+please		1
+crazy		1
+anytime		1
+feel		1
+kind		1
+work		1
+still		1
+give		1
+better		1
+call		1

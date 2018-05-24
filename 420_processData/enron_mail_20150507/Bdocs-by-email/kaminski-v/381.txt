@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+stay		1
+heejung		1
+vince		1
+day		1
+hello		1
+please		1
+touch		1
+one		1
+give		1
+call		1

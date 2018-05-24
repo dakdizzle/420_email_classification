@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+changed		1
+ok		1
+yes		1
+answer		1
+mind		1

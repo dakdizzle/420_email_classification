@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+meeting		1
+today		1
+presentation	1
+here		1

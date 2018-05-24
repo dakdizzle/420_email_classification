@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lack		1
+meeting		1
+shouldn		1
+gonzales	1
+eric		1
+ring		1
+need		1
+issue		1
+integrity	1

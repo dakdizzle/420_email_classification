@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+discuss		1
+paul		1
+roberto		1
+attached	1
+see		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+wondering	1
+stacey		1
+know		1
+visited		1
+houston		1
+beginning	1
+curious		1
+doing		1
+november	1
+here		1
+didn		1
+nick		1

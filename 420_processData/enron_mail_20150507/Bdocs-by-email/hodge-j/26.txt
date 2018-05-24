@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+mark		1
+uk		1
+trip		1
+thanks		1
+anything	1
+specific	1
+jeff		1
+scheduled	1
+need		1
+address		1
+week		1
+november	1
+next		1

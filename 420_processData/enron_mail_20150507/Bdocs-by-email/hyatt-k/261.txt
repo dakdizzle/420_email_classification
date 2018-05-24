@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+competitive	2
+please		2
+tends		1
+meeting		1
+avoid		1
+sonoran		1
+albuquerque	1
+attached	1
+anyone		1
+ears		1
+thankskh	1
+call		1
+intelligence	1
+project		1
+questions	1
+reach		1
+figures		1
+cost		1
+notes		1
+discussing	1

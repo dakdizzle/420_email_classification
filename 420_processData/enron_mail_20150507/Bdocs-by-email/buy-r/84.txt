@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+thanks		2
+during		1
+rick		1
+loose		1
+buy		1
+keep		1
+future		1
+invitation	1
+crisis		1
+hang		1
+mind		1
+better		1

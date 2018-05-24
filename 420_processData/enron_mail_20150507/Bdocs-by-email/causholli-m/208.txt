@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+class		1
+causholli	1
+attend		1
+monika		1
+thanks		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+info		1
+put		1
+under		1
+well		1
+neil		1
+aspects		1
+michelle	1
+etc		1
+agreement	1
+fees		1
+cover		1

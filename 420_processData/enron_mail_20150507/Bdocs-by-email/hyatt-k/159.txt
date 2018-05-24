@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+bob		1
+thanks		1

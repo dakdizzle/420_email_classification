@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+errors		1
+released	1
+live		1
+epe		1
+time		1
+ones		1
+ownership	1
+burden		1
+anyway		1
+way		1
+preschedules	1
+real		1
+bill		1
+considering	1
+having		1
+rt		1
+die		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+morning		1
+copy		1
+hard		1
+please		1
+forward		1
+fletch		1
+need		1
+called		1
+thanks		1

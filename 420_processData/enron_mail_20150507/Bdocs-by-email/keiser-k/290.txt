@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+free		1
+up		1
+know		1
+bring		1
+mike		1
+meet		1
+phillip		1
+kk		1
+love		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+time		1
+company		1
+information	1
+personnel	1
+michelle	1
+outside		1
+anyone		1
+provide		1
+answer		1
+appropriate	1

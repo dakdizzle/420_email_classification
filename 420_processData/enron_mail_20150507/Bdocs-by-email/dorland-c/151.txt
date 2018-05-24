@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+shout		1
+box		1
+try		1
+watch		1
+over		1

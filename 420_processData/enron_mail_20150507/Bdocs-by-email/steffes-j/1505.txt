@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+discuss		1
+together	1
+pm		1
+nepool		1
+calling		1
+afternoon	1

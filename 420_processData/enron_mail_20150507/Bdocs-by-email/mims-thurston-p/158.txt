@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+terminated	1
+heartland	1
+fulfulled	1
+john		1
+contract	1
+responsibilities	1
+concerning	1
+steel		1

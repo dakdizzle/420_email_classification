@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+send		1
+received	1
+friday		1
+today		1
+approval	1
+yes		1
+money		1
+answer		1
+doug		1
+getting		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+morning		1
+building	1
+meeting		1
+outlook		1
+people		1
+fucking		1
+pissed		1
+dg		1
+bleak		1
+pretty		1
+amazing		1

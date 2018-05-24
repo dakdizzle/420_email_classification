@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+info		1
+meeting		1
+mentioned	1
+details		1
+exact		1
+appreciated	1
+yesterday	1
+jim		1
+linda		1
+during		1
+assignment	1
+work		1
+didn		1
+small		1

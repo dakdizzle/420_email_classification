@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+frame		1
+labels		1
+beer		1
+chilliman	1
+http		1
+www		1
+htm		1
+com		1

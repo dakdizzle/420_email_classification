@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+until		1
+working		1
+keep		1
+here		1

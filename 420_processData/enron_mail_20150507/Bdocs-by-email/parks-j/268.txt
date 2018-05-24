@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+owe		1
+burt		1
+jerry		1
+spoken		1
+gas		1
+anyone		1
+money		1
+partnership	1
+feb		1
+txu		1

@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+deal		2
+appealing	1
+asset		1
+desk		1
+outsourcing	1
+management	1
+miller		1
+tom		1
+marketing	1
+becomes		1
+services	1
+involve		1
+jeff		1
+need		1
+trading		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+generally	1
+good		1
+wednesday	1
+tuesday		1
+next		1

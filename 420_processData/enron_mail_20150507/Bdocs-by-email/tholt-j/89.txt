@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+informationregardin	1
+send		1
+aid		1
+meeting		1
+gsouthwest	1
+gas		1
+profile		1
+load		1
+last		1

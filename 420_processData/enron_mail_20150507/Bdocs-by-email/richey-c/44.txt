@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+between		1
+delievered	1
+sat		1
+fyi		1
+sofa		1
+sometime	1

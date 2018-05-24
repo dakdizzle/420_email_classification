@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+debt		1
+agreements	1
+test		1
+package		1
+deal		1
+covenants	1
+lenders		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+mathematical	1
+hurts		1
+zero		1
+points		1
+really		1
+nice		1
+put		1
+check		1
+want		1
+pulled		1
+chance		1
+week		1
+still		1
+bed		1

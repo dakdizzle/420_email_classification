@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+bridgeline	3
+approve		2
+deal		2
+normally	1
+terminate	1
+wouldn		1
+ena		1
+service		1
+generated	1
+system		1
+confirm		1
+m		1
+contracts	1
+negotiations	1
+storage		1
+baker		1
+global		1
+bill		1
+bryant		1
+thx		1
+asking		1
+ticket		1
+sure		1
+worry		1

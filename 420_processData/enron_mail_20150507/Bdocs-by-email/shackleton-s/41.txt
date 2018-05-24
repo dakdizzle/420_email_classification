@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+addition	1
+value		1
+make		1
+sheet		1
+becky		1
+valuation	1
+thanks		1
+brackets	1
+put		1
+please		1
+sara		1
+attahced	1
+period		1
+add		1
+termination	1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+capacity	2
+vehicle		1
+much		1
+put		1
+respond		1
+west		1
+quickly		1
+desk		1
+left		1
+ercs		1
+still		1

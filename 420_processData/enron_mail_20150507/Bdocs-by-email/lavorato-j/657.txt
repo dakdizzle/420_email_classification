@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+each		1
+person		1
+phone		1
+everyone	1
+extentions	1
+tt		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+clay		1
+coming		1
+rajesh		1
+paul		1
+cou		1
+draft		1
+agreement	1
+move		1

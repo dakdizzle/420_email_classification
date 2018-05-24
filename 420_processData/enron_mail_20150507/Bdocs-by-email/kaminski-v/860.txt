@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+table		1
+vince		1
+sponsorship	1
+one		1
+vasant		1
+level		1
+think		1
+sponsor		1
+appropriate	1

@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+cn		2
+jsteffe		2
+decision	2
+end		1
+dealt		1
+recipients	1
+although	1
+filename	1
+na		1
+pstno		1
+privileged	1
+jim		1
+lack		1
+steffes		1
+non		1
+enron		1
+one		1
+james		1
+ou		1
+goal		1
+november	1
+concrete	1

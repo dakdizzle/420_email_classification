@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+place		1
+nic		1
+going		1
+mind		1
+joins		1

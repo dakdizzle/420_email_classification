@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+anything	1
+complete	1
+becky		1
+marie		1
+review		1
+form		1
+didn		1

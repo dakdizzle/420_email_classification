@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+eh		2
+love		2
+moving		1
+pl		1
+counterparty	1
+gas		1
+pstcan		1
+phillip		1
+filename	1
+transfer	1
+thanks		1
+leg		1
+content		1
+unwind		1
+list		1
+encoding	1
+px		1
+tell		1
+origin		1
+bitx		1
+comments	1
+boston		1

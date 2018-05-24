@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+make		1
+sue		1
+cover		1
+mara		1

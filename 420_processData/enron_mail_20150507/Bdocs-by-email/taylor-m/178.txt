@@ -1,0 +1,14 @@
+NumWords	15
+NumTerms	11
+
+mark		2
+pm		2
+test		2
+taylor		2
+hou		1
+forwarded	1
+subj		1
+net		1
+pagenetmessage	1
+ect		1
+subject		1

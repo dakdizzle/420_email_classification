@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+well		2
+great		2
+dylan		1
+starting	1
+job		1
+few		1
+know		1
+yo		1
+month		1
+sounds		1
+mexico		1
+call		1
+regards		1
+hope		1
+guy		1
+back		1
+matt		1
+already		1
+spoke		1
+weeks		1
+saturday	1
+took		1
+resurface	1

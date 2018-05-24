@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+methanks	1
+first		1
+removing	1
+enron		1
+name		1
+redraft		1
+one		1
+resend		1
+light		1
+redrafted	1
+paragraph	1

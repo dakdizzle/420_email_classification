@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+higher		1
+comparable	1
+per		1
+review		1
+lyne		1
+attachment	1
+month		1
+tom		1
+see		1
+looks		1
+benefit		1
+coverages	1
+enron		1
+ubs		1
+costs		1
+based		1

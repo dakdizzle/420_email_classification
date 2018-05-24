@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+anna		1
+please		1
+black		1
+versions	1
+white		1
+along		1
+color		1
+attachments	1
+print		1
+note		1
+thanks		1
+cover		1

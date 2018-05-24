@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+system		2
+witcity		1
+enron		1
+try		1
+work		1
+mail		1
+computer	1
+htm		1
+voice		1

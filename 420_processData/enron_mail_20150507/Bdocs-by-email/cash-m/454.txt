@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+folks		1
+michelle	1
+need		1
+assignments	1
+thanks		1

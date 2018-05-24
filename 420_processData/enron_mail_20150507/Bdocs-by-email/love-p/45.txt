@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+send		1
+pl		1
+guy		1
+titleist	1
+sleeve		1
+balls		1
+thanks		1

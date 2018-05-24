@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+true		2
+correct		2
+bored		1
+m		1
+yes		1
+think		1

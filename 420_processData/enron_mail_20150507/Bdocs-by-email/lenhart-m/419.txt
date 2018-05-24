@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+heard		1
+up		1
+sat		1
+following	1
+ready		1
+work		1
+tear		1
+perfect		1
+looks		1
+saturday	1

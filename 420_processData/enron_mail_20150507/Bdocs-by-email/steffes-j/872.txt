@@ -1,0 +1,21 @@
+NumWords	31
+NumTerms	18
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+williams	1
+jdasovic	1
+susan		1
+bob		1
+dasovich	1
+shapiro		1
+smara		1
+mara		1
+jim		1
+jeff		1
+rshapiro	1
+thoughts	1
+richard		1

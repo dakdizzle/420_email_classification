@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vehicle		1
+completely	1
+agree		1
+kiodex		1
+delivery	1

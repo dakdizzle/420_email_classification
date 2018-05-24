@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+president	1
+grigsbyvice	1
+mccarroll	1
+gas		1
+west		1
+zach		1
+thanks		1
+network		1
+immediately	1
+please		1
+reactivate	1
+mike		1
+access		1
+trading		1

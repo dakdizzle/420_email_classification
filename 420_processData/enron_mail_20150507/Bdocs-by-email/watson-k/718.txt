@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+trans		2
+kevin		2
+pecos		2
+please		2
+email		1
+potential	1
+send		1
+copy		1
+know		1
+working		1
+investor	1
+economics	1
+thanks		1
+arclight	1
+kim		1
+equity		1
+version		1
+questions	1
+howard		1
+additional	1
+portion		1
+james		1

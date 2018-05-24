@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+coming		1
+plan		1
+place		1
+well		1
+hour		1
+sunday		1
+shanna		1
+bail		1
+feeling		1
+eric		1
+happy		1
+isn		1
+going		1
+game		1
+think		1

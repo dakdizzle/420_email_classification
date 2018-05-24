@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+sshackl		2
+cn		2
+need		2
+prepare		2
+pstwe		1
+letters		1
+shackleton	1
+files		1
+now		1
+review		1
+recipients	1
+filename	1
+na		1
+privileged	1
+demand		1
+non		1
+enron		1
+sara		1
+contract	1
+blake		1
+ou		1

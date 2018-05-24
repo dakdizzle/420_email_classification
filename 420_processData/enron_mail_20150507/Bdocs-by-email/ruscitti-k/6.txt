@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+primarily	1
+ohio		1
+michigan	1
+interconnects	1
+wisconsin	1

@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+gas		2
+know		1
+controllers	1
+verify		1
+members		1
+henley		1
+mooregayle	1
+munsonjesse	1
+helen		1
+ds		1
+bart		1
+list		1
+check		1
+come		1
+control		1
+cummingsrob	1
+alvaradojeff	1
+mondonthanks	1
+here		1

@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+cn		2
+addition	1
+hand		1
+lloyd		1
+summarize	1
+create		1
+lwill		1
+recipients	1
+web		1
+matters		1
+related		1
+na		1
+site		1
+out		1
+enviornmental	1
+enron		1
+section		1
+please		1
+ou		1
+traders		1

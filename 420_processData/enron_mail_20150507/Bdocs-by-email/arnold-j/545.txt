@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+beliefs		1
+substance	1
+argument	1

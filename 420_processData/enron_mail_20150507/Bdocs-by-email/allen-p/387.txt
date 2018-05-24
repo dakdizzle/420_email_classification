@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+cash		1
+complete	1
+conserve	1
+reducing	1
+terminating	1
+project		1
+tim		1
+accenture	1
+scope		1
+considered	1
+terms		1
+phillip		1

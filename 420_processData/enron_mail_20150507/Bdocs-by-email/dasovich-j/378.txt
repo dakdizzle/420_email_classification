@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+married		1
+time		1
+place		1
+october		1
+mare		1
+sunday		1
+getting		1
+remember	1
+ride		1
+clock		1
+coups		1
+petaluma	1
+used		1
+jeff		1
+guy		1
+back		1
+alice		1
+go		1
+want		1
+island		1
+went		1
+chicken		1

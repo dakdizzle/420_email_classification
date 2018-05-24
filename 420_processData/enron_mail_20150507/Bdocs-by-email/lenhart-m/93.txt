@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+those		1
+good		1
+hot		1
+everything	1
+looks		1
+phoenix		1
+pretty		1

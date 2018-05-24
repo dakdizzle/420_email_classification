@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+problems	1
+enjoyed		1
+game		1

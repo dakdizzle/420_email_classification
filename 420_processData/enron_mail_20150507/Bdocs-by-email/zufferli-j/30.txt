@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+calgary		1
+accumap		1
+issues		1
+look		1
+user		1
+directly	1
+handling	1
+know		1
+thought		1
+ll		1

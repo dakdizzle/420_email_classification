@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+thankskk	1
+physical	1
+id		1
+dawn		1
+steve		1
+west		1
+attached	1
+desk		1
+see		1
+matrix		1
+global		1
+please		1
+changes		1
+trader		1
+made		1
+added		1
+south		1
+template	1

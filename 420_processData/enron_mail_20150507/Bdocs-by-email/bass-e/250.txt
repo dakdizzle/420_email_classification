@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+cfarley		1
+spaceports	1
+http		1
+atlas		1
+tbs		1
+htm		1
+com		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+sit		1
+down		1
+written		1
+talk		1
+know		1
+want		1
+review		1
+here		1

@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+sanjeev		1
+id		1
+shoot		1
+know		1
+friday		1
+today		1
+appreciate	1
+post		1
+longer		1
+seem		1
+morning		1
+something	1
+list		1
+possible	1
+thankskam	1
+estate		1
+night		1
+work		1
+access		1
+doesn		1
+over		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+overelizabeth	1
+ill		1
+sager		1

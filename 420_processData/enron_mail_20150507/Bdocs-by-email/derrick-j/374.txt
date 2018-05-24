@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+jim		1
+joel		1
+ok		1

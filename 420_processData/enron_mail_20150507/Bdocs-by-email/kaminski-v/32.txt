@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+vince		2
+call		2
+home		1
+karthik		1
+zimin		1
+please		1
+well		1
+shall		1
+find		1
+answer		1
+tonight		1
+kaminski	1

@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+cn		2
+lindy		2
+fyi		1
+recipients	1
+na		1
+see		1
+kim		1
+list		1
+distribution	1
+enron		1
+ldonoho		1
+donoho		1
+ou		1

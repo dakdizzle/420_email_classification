@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+swbell		1
+net		1
+shackleton	1
+sshackl		1
+coleridgehouston	1
+sorry		1
+home		1
+cel		1
+emergency	1
+sara		1
+another		1
+tx		1
+cut		1

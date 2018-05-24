@@ -1,0 +1,27 @@
+NumWords	30
+NumTerms	24
+
+position	2
+ees		2
+semperger	2
+cn		2
+cara		2
+owes		2
+mwsdiane	1
+stacy		1
+recipients	1
+filename	1
+na		1
+morning		1
+csemper		1
+enron		1
+mwhlhepmi	1
+llh		1
+midc		1
+epmi		1
+one		1
+ou		1
+pstgood		1
+c		1
+give		1
+palo		1

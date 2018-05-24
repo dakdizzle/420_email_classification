@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+seen		1
+lead		1
+vince		1
+papers		1
+hello		1
+john		1
+topic		1
+thanks		1

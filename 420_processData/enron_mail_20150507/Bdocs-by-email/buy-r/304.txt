@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+moment		1
+meeting		1
+up		1
+rick		1
+staff		1
+lets		1
+bring		1
+next		1
+cancel		1

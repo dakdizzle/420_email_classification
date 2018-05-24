@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+possiblity	1
+thats		1
+email		1

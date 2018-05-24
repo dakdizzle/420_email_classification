@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+ed		1
+tallahassee	1
+keep		1
+fyi		1
+june		1
+posted		1
+serve		1
+decide		1
+tomorrow	1
+florida		1
+city		1
+going		1
+deal		1
+don		1
+ll		1

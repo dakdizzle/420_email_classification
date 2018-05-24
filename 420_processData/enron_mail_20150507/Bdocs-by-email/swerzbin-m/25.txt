@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+power		1
+infomation	1
+south		1
+east		1

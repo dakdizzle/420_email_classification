@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+bad		2
+little		1
+lbs		1
+jerry		1
+today		1
+looks		1
+face		1
+really		1
+girl		1
+ozs		1
+sign		1
+frown		1
+makes		1
+uncle		1
+weighs		1
+very		1
+think		1
+news		1

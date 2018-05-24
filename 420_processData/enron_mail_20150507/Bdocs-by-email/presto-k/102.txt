@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+netting		2
+president	1
+make		1
+fax		1
+power		1
+page		1
+holdings	1
+dyn		1
+purchased	1
+east		1
+kevin		1
+shares		1
+cell		1
+please		1
+prestovice	1
+works		1
+sure		1
+still		1
+tradingphone	1

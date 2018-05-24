@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+rick		1
+lady		1
+contact		1

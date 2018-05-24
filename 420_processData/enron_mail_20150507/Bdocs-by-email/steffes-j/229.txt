@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+paul		1
+try		1
+closed		1
+know		1
+above		1
+someone		1
+rc		1
+jim		1
+push		1
+matter		1
+back		1
+bill		1
+d		1
+donna		1
+commercial	1

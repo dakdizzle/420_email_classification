@@ -1,0 +1,22 @@
+NumWords	28
+NumTerms	19
+
+annemoisan@hotmail.com	5
+alejandra.chavez@enron.com	4
+f..brawner@enron.com	2
+david.hutchinson@enron.com	2
+sue.vasan@enron.com	1
+james.nguyen@enron.com	1
+liane_kucher@platts.com	1
+gas_daily@ftenergy.com	1
+brad.mckay@enron.com	1
+pkeavey@hotmail.com	1
+f..keavey@enron.com	1
+kimberly.bates@enron.com	1
+anne.moisan@internationalsos.com	1
+karen.buckley@enron.com	1
+thomas.keavey@vistacomp.com	1
+s..shively@enron.com	1
+acolangelo@ur.com	1
+alejandrachavez@hotmail.com	1
+peter.crilly@enron.com	1

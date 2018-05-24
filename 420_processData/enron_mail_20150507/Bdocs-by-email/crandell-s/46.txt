@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+wild		1
+huh		1
+pretty		1
+think		1

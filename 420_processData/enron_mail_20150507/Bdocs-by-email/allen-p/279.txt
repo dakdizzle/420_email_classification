@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+much		1
+bunch		1
+tomorrow	1
+won		1
+more		1
+probably	1
+partner		1
+exercises	1
+weeks		1
+rehab		1
+couple		1
+knee		1

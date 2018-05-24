@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+doo		2
+enron		1
+more		1
+use		1
+ms		1
+form		1
+denne		1
+deep		1
+polite		1

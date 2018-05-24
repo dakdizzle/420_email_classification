@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+mark		1
+words		1
+kind		1
+thanks		1

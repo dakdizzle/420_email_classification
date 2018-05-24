@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+going		2
+together	1
+leaving		1
+up		1
+time		1
+carpool		1
+guys		1
+houston		1
+car		1
+bt		1
+take		1
+such		1
+thanks		1
+two		1
+tight		1
+suggest		1
+back		1
+discussed	1
+need		1
+tommorrow	1

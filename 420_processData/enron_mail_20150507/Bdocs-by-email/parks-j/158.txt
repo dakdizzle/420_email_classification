@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+cn		2
+joe		2
+parks		2
+enron		1
+pstgo		1
+jparks		1
+recipients	1
+ou		1
+money		1
+filename	1
+na		1
+doug		1

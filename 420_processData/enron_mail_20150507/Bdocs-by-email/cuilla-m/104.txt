@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+wife		1
+sucks		1

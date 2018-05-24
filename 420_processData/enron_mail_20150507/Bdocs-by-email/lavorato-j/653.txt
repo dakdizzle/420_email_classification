@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+wrong		1
+term		1
+alsocan		1
+curve		1
+think		1
+highlight	1

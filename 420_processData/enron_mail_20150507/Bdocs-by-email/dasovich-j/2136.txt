@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+player		1
+qfs		1
+developper	1
+best		1
+roamed		1
+days		1
+back		1
+tell		1
+earth		1
+gwf		1
+qf		1
+small		1

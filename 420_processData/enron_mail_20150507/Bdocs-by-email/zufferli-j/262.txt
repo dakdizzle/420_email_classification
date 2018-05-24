@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+youget		1
+london		1
+call		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+sitting		1
+down		1
+rick		1
+wednesday	1

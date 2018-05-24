@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+blessing	1
+customer	1
+day		1
+meeting		1
+invite		1
+well		1
+corman		1
+guess		1
+although	1
+thanks		1
+home		1
+hope		1
+football	1
+unfortunately	1
+harbor		1
+shore		1
+made		1
+year		1
+south		1
+shelley		1
+game		1
+doing		1
+haven		1

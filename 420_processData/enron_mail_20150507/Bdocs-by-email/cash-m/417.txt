@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+mcash		2
+cn		2
+michelle	2
+cash		1
+up		1
+hearing		1
+keep		1
+recipients	1
+sounds		1
+filename	1
+na		1
+privileged	1
+posted		1
+ins		1
+out		1
+non		1
+psthere		1
+enron		1
+ou		1
+hands		1
+millie		1
+ll		1

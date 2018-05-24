@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+suck		1
+guy		1
+catches		1
+tomorrow	1
+leave		1
+before		1
+pissed		1
+call		1
+next		1

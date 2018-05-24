@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+janette		2
+out		2
+policy		1
+reminds		1
+mark		1
+email		1
+day		1
+send		1
+wedding		1
+exact		1
+ask		1
+thanks		1
+rsvp		1
+office		1
+please		1
+alice		1
+need		1
+town		1
+always		1

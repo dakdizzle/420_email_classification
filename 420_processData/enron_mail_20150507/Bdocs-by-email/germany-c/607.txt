@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+odd		1
+email		1
+outlook		1
+up		1
+know		1
+today		1
+don		1

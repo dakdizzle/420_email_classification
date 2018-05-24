@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+kip		2
+lipper		2
+board		1
+ca		1
+sen		1
+hesitate	1
+trying		1
+thanks		1
+anything	1
+gov		1
+jeff		1
+best		1
+duque		1
+don		1
+bilas		1

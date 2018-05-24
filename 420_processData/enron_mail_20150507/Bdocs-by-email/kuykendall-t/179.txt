@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+parents		1
+fun		1
+brother		1
+meeting		1
+dinner		1
+though		1
+girlfriend	1
+tonight		1

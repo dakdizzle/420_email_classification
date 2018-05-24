@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+per		1
+jeff		1
+sheila		1
+request		1

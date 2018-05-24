@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+pnm		1
+lorraine	1
+paul		1
+now		1
+invoiced	1
+agreement	1
+thanks		1
+laura		1

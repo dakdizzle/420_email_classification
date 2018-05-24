@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+year		2
+having		2
+charlie		1
+end		1
+days		1
+vacation	1
+guys		1
+tom		1
+same		1
+reflect		1
+daren		1
+bryan		1
+clearly		1
+eric		1
+want		1
+probably	1
+coordinate	1
+dave		1
+joe		1
+rest		1
+calendar	1

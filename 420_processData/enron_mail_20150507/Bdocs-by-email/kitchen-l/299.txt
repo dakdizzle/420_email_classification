@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+gone		1
+team		1
+speak		1
+bill		1
+understand	1
+spoke		1
+economics	1
+deal		1

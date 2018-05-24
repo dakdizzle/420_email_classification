@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+thanksbill	1
+numbers		1
+apx		1
+allegheny	1
+contact		1
+now		1
+below		1
+sc		1

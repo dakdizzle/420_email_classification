@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+demand		1
+scott		1
+dollars		1
+pay		1
+understand	1
+coral		1
+green		1
+charges		1
+amount		1
+correctly	1
+kk		1

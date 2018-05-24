@@ -1,0 +1,24 @@
+NumWords	40
+NumTerms	21
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+smiller		1
+october		1
+polsky		1
+th		1
+miller		1
+out		1
+phil		1
+tycholiz	1
+kim		1
+fuller		1
+barry		1
+btychol		1
+stephanie	1
+ppolsky		1
+dave		1
+dfuller		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+look		1
+sitara		1

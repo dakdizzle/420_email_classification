@@ -1,0 +1,20 @@
+NumWords	21
+NumTerms	17
+
+looking		2
+review		2
+thanks		2
+need		2
+customer	1
+credit		1
+know		1
+today		1
+help		1
+talked		1
+kim		1
+way		1
+transactions	1
+chance		1
+doing		1
+gerald		1
+think		1

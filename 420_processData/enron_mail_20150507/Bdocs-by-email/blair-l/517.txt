@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+conversation	1
+ava		1
+per		1
+please		1
+change		1
+thanks		1

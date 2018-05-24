@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+good		1
+job		1
+thank		1
+comments	1
+see		1
+very		1
+think		1

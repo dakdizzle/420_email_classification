@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+through		2
+risk		1
+publisher	1
+form		1
+nadasky		1
+copies		1
+marge		1
+amazon		1
+vince		1
+employee	1
+enron		1
+discount	1
+distributed	1
+one		1
+buy		1
+ordirectly	1
+joe		1

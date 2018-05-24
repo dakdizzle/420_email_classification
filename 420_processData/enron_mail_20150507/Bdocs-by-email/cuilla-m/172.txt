@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+wasn		2
+felt		2
+told		2
+conversation	1
+ok		1
+friday		1
+screw		1
+yelled		1
+once		1
+drunk		1
+tried		1
+slowly		1
+missy		1
+regressing	1
+yeah		1
+having		1
+saturday	1

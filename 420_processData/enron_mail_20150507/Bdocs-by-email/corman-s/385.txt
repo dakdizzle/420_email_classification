@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+base		1
+handle		1
+please		1
+touch		1
+gina		1

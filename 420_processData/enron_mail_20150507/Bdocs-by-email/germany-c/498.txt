@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+stuff		1
+email		1
+send		1
+hey		1
+hero		1
+attached	1
+mind		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+maria		1
+started		1
+know		1
+final		1
+capturing	1
+guys		1
+flows		1
+import		1
+rt		1
+mat		1
+oasis		1

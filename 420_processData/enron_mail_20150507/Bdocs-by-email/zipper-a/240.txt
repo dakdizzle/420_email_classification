@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+rally		1
+much		1
+family		1
+time		1
+know		1
+trying		1
+out		1
+really		1
+around		1
+back		1
+chop		1
+going		1
+don		1
+give		1
+okay		1

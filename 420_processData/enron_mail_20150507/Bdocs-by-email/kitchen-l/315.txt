@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+disaster	2
+budget		1
+coming		1
+keeps		1
+up		1
+systems		1
+number		1
+space		1
+expense		1
+recovery	1
+issue		1
+big		1
+recoverythere	1

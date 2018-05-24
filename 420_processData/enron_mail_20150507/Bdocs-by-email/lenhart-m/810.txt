@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+l		2
+c		2
+finance		1
+m		1
+http		1
+ipix		1
+yahoo		1
+s		1
+com		1

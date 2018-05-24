@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+brad		1
+evening		1
+sweet		1
+bill		1
+know		1
+night		1
+goes		1
+rachel		1
+last		1
+awesome		1
+call		1
+thanks		1

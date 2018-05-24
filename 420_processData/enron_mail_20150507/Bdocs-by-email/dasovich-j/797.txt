@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+prentice	1
+call		1

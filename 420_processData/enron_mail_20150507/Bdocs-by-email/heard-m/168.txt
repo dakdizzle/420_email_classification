@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+marie		2
+status		1
+heard		1
+fax		1
+up		1
+legal		1
+advise		1
+phone		1
+thanks		1
+america		1
+master		1
+specialistenron	1
+message		1
+follow		1
+enron		1
+please		1
+north		1
+another		1
+corp		1
+heardsenior	1
+agreement	1
+execution	1
+com		1

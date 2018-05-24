@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+knew		1
+fantasies	1
+never		1

@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+cn		2
+gave		1
+recipients	1
+wynn		1
+na		1
+look		1
+m		1
+awynn		1
+enron		1
+format		1
+one		1
+another		1
+happy		1
+michelle	1
+ou		1
+kay		1
+adriana		1

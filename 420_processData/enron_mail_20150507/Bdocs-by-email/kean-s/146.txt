@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+draft		1
+top		1
+rough		1
+very		1
+head		1

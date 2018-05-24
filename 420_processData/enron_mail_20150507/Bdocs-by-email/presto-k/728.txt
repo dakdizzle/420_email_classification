@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+pm		2
+tommorow	2
+call		2
+rogers		2
+floor		1
+personnel	1
+working		1
+productive	1
+th		1
+sounds		1
+solidifying	1
+issues		1
+office		1
+talking		1
+logistics	1
+work		1
+more		1
+conference	1
+move		1
+still		1
+don		1
+through		1

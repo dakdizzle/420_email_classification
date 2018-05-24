@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+know		1
+friend		1
+anything	1
+put		1
+regards		1
+two		1
+down		1
+girl		1
+jon		1
+go		1
+need		1
+mike		1
+game		1
+love		1

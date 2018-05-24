@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+cherokee	1
+johnny		1
+m		1
+instead		1
+grand		1
+save		1
+myself		1
+buy		1
+limited		1
+going		1
+week		1
+think		1
+next		1

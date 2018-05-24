@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+car		2
+thanks		2
+email		1
+paul		1
+looking		1
+picked		1
+help		1
+newer		1
+out		1
+m		1
+bmw		1
+black		1
+finally		1

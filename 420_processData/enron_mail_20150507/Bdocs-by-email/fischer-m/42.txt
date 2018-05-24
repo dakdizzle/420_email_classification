@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+someplace	1
+lets		1
+go		1
+works		1
+birthday	1
+special		1

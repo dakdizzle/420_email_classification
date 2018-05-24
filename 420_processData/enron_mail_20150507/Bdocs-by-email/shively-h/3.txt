@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+expense		1
+reports		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+soon		1
+vince		1
+hope		1
+zhiyong		1
+feel		1
+better		1

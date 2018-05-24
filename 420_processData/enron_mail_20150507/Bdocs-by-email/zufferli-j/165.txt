@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+l		1
+id		1
+gas		1
+post		1
+books		1
+don		1
+summary		1

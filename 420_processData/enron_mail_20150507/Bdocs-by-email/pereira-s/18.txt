@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+email		2
+response	2
+wrote		2
+hand		1
+responded	1
+send		1
+printout	1
+until		1
+days		1
+few		1
+today		1
+susan		1
+ken		1
+guess		1
+back		1
+assistant	1
+fact		1
+didn		1

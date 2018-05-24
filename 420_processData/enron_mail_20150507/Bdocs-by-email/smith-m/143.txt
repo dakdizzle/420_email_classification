@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+email		1
+everything	1
+drive		1
+hard		1
+gzn		1
+replaced	1
+lost		1
+desktop		1
+file		1

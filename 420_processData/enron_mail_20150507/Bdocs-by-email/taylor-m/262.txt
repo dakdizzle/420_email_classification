@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+m		1
+one		1
+afraid		1
+phone		1

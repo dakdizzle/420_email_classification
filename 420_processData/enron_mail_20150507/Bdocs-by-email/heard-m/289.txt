@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+marie		2
+cn		2
+mheard		2
+heard		1
+attached	1
+recipients	1
+attachment	1
+form		1
+filename	1
+na		1
+privileged	1
+securities	1
+overseas	1
+non		1
+enron		1
+assignment	1
+ou		1
+lending		1
+pstanthony	1
+agreement	1

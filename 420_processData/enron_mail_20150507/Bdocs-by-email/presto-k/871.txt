@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ercot		1
+details		1
+stacey		1
+approval	1
+need		1
+mail		1
+schedule	1
+thanks		1
+outlines	1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+alot		1
+means		1
+thanks		1

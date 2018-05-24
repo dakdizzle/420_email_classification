@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+pge		1
+vote		1
+brown		1
+brian		1
+bkc		1
+going		1
+cherry		1
+thanks		1
+com		1

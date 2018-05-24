@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+problems	1
+thats		1
+god		1
+gossip		1
+ones		1
+know		1
+even		1
+nice		1
+concerns	1
+enron		1
+enough		1
+handle		1
+staying		1
+im		1
+away		1
+sessions	1
+grip		1
+doing		1
+big		1

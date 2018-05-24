@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+pricing		1
+cancelling	1
+vs		1
+project		1
+calls		1
+probably	1
+think		1

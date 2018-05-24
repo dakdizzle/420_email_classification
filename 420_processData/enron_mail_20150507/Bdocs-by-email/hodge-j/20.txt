@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+andy		1
+inconvenience	1
+jeff		1
+attached	1
+document	1
+sorry		1
+guess		1
+help		1

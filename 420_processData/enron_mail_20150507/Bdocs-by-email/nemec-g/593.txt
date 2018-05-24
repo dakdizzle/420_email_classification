@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+way		1
+oregon		1
+playing		1
+nebraska	1
+feel		1
+know		1
+championship	1

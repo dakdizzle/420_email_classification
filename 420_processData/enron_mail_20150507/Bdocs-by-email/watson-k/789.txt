@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+discuss		1
+kim		1
+great		1
+expense		1
+steve		1
+approval	1
+think		1
+thanks		1

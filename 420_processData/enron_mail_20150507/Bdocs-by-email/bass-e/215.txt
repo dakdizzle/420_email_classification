@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+ebass		2
+cn		2
+recipients	1
+filename	1
+na		1
+see		1
+bass		1
+pst		1
+privileged	1
+non		1
+clock		1
+enron		1
+eric		1
+ou		1
+e		1

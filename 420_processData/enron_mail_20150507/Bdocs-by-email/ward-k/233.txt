@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+regarding	2
+morning		1
+kim		1
+heard		1
+message		1
+hesco		1
+up		1
+please		1
+left		1
+never		1
+call		1

@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+plan		1
+stock		1
+savings		1
+information	1
+missing		1
+looks		1
+thanks		1
+matching	1
+something	1
+gains		1
+enron		1
+ideas		1
+tax		1
+bill		1
+g		1
+sell		1
+additional	1
+offset		1
+sizable		1

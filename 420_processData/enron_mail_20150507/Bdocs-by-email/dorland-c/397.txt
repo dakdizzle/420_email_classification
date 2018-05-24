@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+wood		1
+benson		1
+chris		1
+bank		1
+td		1

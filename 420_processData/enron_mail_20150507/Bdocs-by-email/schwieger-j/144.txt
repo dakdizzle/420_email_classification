@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+triple		2
+think		2
+women		1
+male		1
+credit		1
+size		1
+looks		1
+better		1
+actually	1
+bra		1
+look		1
+awhat		1
+enron		1
+industry	1
+rating		1
+needs		1

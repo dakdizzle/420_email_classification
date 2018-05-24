@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+techmovers	1
+html		1
+http		1
+yahoo		1
+www		1
+thestreet	1
+markets		1
+com		1

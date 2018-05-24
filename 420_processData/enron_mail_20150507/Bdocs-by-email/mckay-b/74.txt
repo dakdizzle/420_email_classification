@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+good		1
+family		1
+happy		1
+tell		1
+bday		1
+sounds		1
+mckay		1

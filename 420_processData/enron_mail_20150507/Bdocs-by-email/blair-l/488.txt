@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lynn		1
+info		1
+different	1
+choice		1
+avais		1
+sizes		1
+checking	1
+surprise	1
+thanks		1

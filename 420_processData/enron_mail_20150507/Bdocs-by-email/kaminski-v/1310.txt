@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+week		2
+monday		1
+vnce		1
+breakfast	1
+al		1
+traveling	1
+later		1
+tuesday		1
+lunch		1
+next		1

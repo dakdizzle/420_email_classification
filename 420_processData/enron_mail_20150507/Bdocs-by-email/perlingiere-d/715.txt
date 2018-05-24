@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+waited		1
+fri		1
+message		1
+communication	1
+try		1
+lets		1
+elevators	1
+lesson		1
+left		1
+sorry		1
+called		1
+thurs		1

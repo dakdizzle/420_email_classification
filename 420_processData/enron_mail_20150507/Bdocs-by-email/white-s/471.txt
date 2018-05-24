@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+primary		1
+put		1
+stacey		1
+john		1
+secondary	1

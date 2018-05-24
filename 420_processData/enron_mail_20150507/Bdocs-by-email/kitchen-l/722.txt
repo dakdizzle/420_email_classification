@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+th		3
+height		1
+lbs		1
+circumference	1
+percentile	1
+rolling		1
+head		1
+long		1
+weight		1
+one		1
+another		1
+sound		1
+before		1
+months		1
+doesn		1
+over		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+thanxchris	1
+moving		1
+sheet		1
+gas		1
+daily		1
+canada		1
+perhaps		1
+trade		1
+site		1
+really		1
+anna		1
+posting		1
+back		1
+start		1
+mail		1
+technical	1
+commodity	1
+fundy		1

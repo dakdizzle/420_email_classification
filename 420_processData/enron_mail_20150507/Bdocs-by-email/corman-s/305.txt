@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+list		1
+please		1
+contact		1
+moore		1
+lou		1
+add		1

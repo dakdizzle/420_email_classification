@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+master		1
+janette		1
+kim		1
+open		1
+place		1
+copy		1
+please		1
+know		1
+attached	1
+agreement	1
+unable		1
+thanks		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+really		1
+welcome		1
+succeed		1
+want		1
+dg		1
+problem		1
+see		1

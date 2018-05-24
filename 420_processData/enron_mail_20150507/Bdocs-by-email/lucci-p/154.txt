@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+problems	1
+guys		1
+attached	1
+seeing		1
+system		1
+emails		1
+look		1
+thursday	1
+one		1
+forward		1
+use		1
+having		1
+resume		1

@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+out		2
+going		2
+don		2
+know		1
+hung		1
+golf		1
+woodlands	1
+sunday		1
+morning		1
+nice		1
+definately	1
+real		1
+go		1
+want		1
+still		1
+tonight		1
+very		1
+over		1

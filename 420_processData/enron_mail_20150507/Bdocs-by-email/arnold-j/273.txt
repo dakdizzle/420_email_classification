@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+monday		1
+info		1
+position	1
+sense		1
+john		1
+talk		1
+want		1
+griffith	1
+stop		1
+yea		1
+afternoon	1
+getting		1

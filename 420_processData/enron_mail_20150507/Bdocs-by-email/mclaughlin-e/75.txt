@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+emclaug		2
+cn		2
+pm		1
+day		1
+mclaughlin	1
+closed		1
+thanksgiving	1
+recipients	1
+filename	1
+na		1
+privileged	1
+regarding	1
+pstfyi		1
+non		1
+enron		1
+jr		1
+ou		1
+errol		1
+year		1
+hours		1
+rest		1
+trading		1

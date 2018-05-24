@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+elect		1
+make		1
+people		1
+travel		1
+right		1
+sense		1
+doubt		1
+groups		1
+car		1
+alone		1
+bus		1
+think		1

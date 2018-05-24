@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+vkamins		2
+vince		2
+cn		2
+monday		1
+following	1
+recipients	1
+tuesday		1
+filename	1
+na		1
+psteydie	1
+privileged	1
+out		1
+non		1
+enron		1
+july		1
+shall		1
+ou		1
+kaminski	1

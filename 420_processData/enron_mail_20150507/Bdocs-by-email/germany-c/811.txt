@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+inc		1
+energy		1
+jim		1
+services	1
+sitara		1
+contact		1
+reliant		1
+added		1
+taylor		1

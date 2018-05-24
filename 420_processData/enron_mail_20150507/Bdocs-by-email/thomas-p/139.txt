@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+care		1
+taking		1
+great		1
+baby		1
+loveme		1
+looks		1
+thanks		1

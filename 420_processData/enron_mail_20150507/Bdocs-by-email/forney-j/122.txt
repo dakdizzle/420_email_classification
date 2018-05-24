@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+daughter	1
+wishes		1
+best		1
+jmf		1

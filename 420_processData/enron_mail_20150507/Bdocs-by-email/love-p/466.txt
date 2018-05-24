@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+pl		1
+hanging		1
+up		1
+hopefully	1
+keep		1
+now		1
+come		1
+buy		1
+one		1
+banks		1
+still		1
+informed	1
+through		1
+here		1

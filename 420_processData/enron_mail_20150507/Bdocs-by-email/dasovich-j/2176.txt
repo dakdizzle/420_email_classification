@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+wow		1
+funds		1
+share		1
+price		1
+getting		1
+difficulty	1
+prettier	1
+finding		1
+significant	1
+appears		1
+ain		1
+additional	1
+sources		1
+having		1
+based		1

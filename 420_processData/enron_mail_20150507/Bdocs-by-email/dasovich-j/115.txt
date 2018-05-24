@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+now		1
+boston		1
+ll		1

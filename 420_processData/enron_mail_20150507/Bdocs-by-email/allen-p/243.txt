@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+look		1
+jacques		1
+release		1
+phillip		1
+chance		1
+note		1
+drop		1

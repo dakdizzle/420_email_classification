@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+choice		1
+real		1
+wednesday	1
+revisit		1
+apparently	1
+told		1
+issue		1
+jay		1
+visas		1

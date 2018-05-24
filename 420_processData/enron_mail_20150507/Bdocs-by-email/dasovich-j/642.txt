@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+first		1
+formally	1
+ok		1
+good		1
+check		1
+less		1
+jeff		1
+best		1
+back		1
+sound		1
+lobbyists	1
+communicate	1
+ll		1
+through		1

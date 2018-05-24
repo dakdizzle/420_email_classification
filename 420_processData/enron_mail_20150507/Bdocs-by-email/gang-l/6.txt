@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+lisa		1
+handled		1
+mo		1
+think		1

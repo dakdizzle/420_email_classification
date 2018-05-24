@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+liquids		1
+stacey		1
+contact		1

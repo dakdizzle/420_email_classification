@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+ena		2
+gas		2
+transact	2
+indiana		1
+companynorthern	1
+thurstonstate	1
+physical	1
+credit		1
+customersnicor	1
+dealsproliance	1
+powercustomers	1
+deals		1
+continue	1
+concernsnicor	1
+due		1
+coverageillinoisindianamajor	1
+companyproliancecilcoillinois	1
+unwilling	1
+sell		1
+buy		1
+financial	1
+patrice		1

@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+stacey		2
+white		2
+cn		2
+option		1
+stacy		1
+attached	1
+zipper		1
+recipients	1
+trade		1
+books		1
+filename	1
+na		1
+pstshould	1
+thanks		1
+andy		1
+swhite		1
+enron		1
+lt		1
+book		1
+allowed		1
+needed		1
+ou		1
+regions		1
+request		1

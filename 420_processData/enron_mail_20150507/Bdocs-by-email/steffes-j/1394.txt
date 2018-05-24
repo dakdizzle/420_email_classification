@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+nice		1
+map		1
+brother		1
+th		1
+meet		1

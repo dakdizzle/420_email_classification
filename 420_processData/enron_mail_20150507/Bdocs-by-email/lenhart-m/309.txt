@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+sitara		1
+correct		1
+looks		1
+deal		1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+rjafry		1
+hope		1
+enron		1
+rahil		1
+one		1
+recipients	1
+ou		1
+jafry		1
+na		1
+notices		1

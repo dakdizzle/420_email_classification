@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+heard		1
+much		1
+m		1
+speel		1
+guess		1
+earlier		1
+sure		1
+cnbc		1
+news		1

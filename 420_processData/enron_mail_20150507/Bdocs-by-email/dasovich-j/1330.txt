@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ve		1
+wow		1
+boy		1
+glad		1
+sat		1
+cab		1
+thanks		1

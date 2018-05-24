@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+users		1
+counterparties	1
+logging		1
+external	1

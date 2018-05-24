@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+terry		1
+pereira		1
+friday		1
+now		1
+night		1
+pershing	1
+susan		1
+game		1

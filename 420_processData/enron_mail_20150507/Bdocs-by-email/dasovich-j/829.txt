@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+credit		1
+calc		1
+time		1
+talk		1
+call		1
+around		1
+bit		1
+jeff		1
+particular	1
+px		1
+foward		1
+book		1
+impact		1
+more		1
+going		1
+negotations	1
+discussing	1

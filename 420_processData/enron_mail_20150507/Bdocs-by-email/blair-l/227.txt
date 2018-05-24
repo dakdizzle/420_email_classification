@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lynn		1
+good		1
+todd		1
+discussion	1
+perfect		1
+very		1
+think		1
+thanks		1

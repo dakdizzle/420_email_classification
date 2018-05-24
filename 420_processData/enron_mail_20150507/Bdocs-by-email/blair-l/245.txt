@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lynn		1
+people		1
+ava		1
+track		1
+invitation	1
+keeping		1
+responding	1
+thanks		1

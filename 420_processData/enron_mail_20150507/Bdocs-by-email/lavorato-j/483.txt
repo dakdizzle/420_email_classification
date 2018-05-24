@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+michael		2
+pay		2
+send		1
+wishes		1
+well		1
+moutlon		1
+never		1
+america		1
+m		1
+k		1
+wayneif		1
+please		1
+sponsored	1
+acknowleding	1
+north		1
+thanksjohn	1
+mail		1
+business	1
+memory		1

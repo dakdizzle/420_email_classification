@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+anything	1
+pge		1
+regarding	1
+word		1
+bill		1
+know		1
+kate		1
+phone		1
+dave		1
+help		1
+thanks		1

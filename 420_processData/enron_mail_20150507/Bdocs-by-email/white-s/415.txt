@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+much		1
+leaving		1
+time		1
+invite		1
+stacey		1
+thank		1
+nov		1
+found		1
+wonderful	1
+go		1
+work		1
+london		1
+week		1

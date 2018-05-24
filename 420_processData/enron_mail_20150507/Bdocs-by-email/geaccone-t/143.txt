@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+user		1
+id		1
+password	1

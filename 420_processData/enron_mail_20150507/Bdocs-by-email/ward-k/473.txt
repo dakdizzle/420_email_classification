@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+really		1
+bored		1
+today		1
+wht		1
+think		1

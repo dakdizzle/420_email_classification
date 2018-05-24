@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+m		1
+name		1
+msngr		1
+yahoo		1
+here		1

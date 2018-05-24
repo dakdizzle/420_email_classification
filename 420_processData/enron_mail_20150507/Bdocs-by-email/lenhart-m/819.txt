@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+people		1
+completely	1
+fleeced		1
+todya		1
+upset		1
+pretty		1

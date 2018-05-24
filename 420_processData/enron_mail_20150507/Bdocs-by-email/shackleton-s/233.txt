@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+friday		1
+recipients	1
+na		1
+call		1
+cyprow		1
+enron		1
+sara		1
+jcyprow		1
+ou		1
+sure		1
+jarrod		1
+give		1

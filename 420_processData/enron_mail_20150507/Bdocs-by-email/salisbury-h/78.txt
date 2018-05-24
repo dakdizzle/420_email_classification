@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+number		2
+wing		1
+mw		1
+west		1
+mead		1
+monthly		1
+enpower		1
+purchased	1
+transmission	1
+deal		1
+oasis		1
+firm		1

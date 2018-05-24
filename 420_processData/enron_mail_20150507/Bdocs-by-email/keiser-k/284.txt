@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+valdeserrol	1
+up		1
+following	1
+kam		1
+netco		1
+submitted	1
+books		1
+winfreephillip	1
+neal		1
+mclaughlinthankskam	1
+lovescott	1
+keisero		1
+setting		1
+andrew		1
+palmerjohn	1
+people		1
+requests	1
+new		1

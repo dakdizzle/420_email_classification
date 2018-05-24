@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+power		1
+egm		1
+please		1
+fraser		1
+curve		1
+provide		1
+access		1
+jen		1

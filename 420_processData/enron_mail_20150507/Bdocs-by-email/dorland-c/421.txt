@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+shareholder	1
+producer	1
+rax		1
+recommedation	1
+sorry		1
+proud		1
+still		1

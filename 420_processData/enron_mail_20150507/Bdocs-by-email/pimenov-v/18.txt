@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+anything	1
+jane		1
+gd		1
+prices		1
+know		1
+need		1
+asking		1
+elsevladi	1
+here		1

@@ -1,0 +1,27 @@
+NumWords	30
+NumTerms	24
+
+enron		3
+sshackl		2
+cn		2
+sara		2
+corp		2
+lawyer		1
+shackleton	1
+ask		1
+draft		1
+russ		1
+review		1
+recipients	1
+form		1
+pstjim		1
+filename	1
+na		1
+privileged	1
+non		1
+ou		1
+prefer		1
+thought		1
+ensure		1
+receive		1
+note		1

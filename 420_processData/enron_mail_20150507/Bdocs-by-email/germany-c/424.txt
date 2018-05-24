@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+group		1
+brian		1
+region		1
+prtate		1
+know		1
+cinergy		1
+asked		1
+janelle		1
+ve		1
+bell		1
+employee	1
+northeast	1
+moved		1
+ring		1
+already		1
+before		1
+smith		1
+don		1

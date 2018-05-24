@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+list		2
+employees	1
+power		1
+stacey		1
+estrada		1
+now		1
+israel		1
+netco		1
+previously	1
+global		1
+estate		1
+rates		1
+moved		1

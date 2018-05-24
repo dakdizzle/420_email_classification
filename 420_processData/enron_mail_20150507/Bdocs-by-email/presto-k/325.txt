@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+assignment	3
+customer	2
+maybe		2
+ercot		1
+confidential	1
+unwinds		1
+word		1
+directly	1
+different	1
+risk		1
+supplier	1
+npv		1
+currently	1
+transfer	1
+trade		1
+view		1
+thanks		1
+wrong		1
+positive	1
+back		1
+another		1
+doing		1
+don		1
+switching	1

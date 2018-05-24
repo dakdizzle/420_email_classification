@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+one		1
+more		1
+bug		1
+sorry		1

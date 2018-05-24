@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+hope		2
+problems	1
+day		1
+everything	1
+well		1
+september	1
+network		1
+soon		1
+way		1
+again		1
+happy		1
+going		1
+having		1

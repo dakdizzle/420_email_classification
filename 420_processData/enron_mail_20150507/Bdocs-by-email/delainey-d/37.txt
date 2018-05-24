@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+care		1
+early		1
+ene		1
+regardsdave	1
+jen		1
+take		1
+steps		1
+done		1
+year		1
+probably	1
+determine	1
+new		1
+next		1

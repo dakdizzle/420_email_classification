@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+applications	1
+reply		1
+best		1
+course		1
+reviewing	1
+work		1
+probably	1
+due		1
+process		1
+standard	1
+through		1
+thanks		1

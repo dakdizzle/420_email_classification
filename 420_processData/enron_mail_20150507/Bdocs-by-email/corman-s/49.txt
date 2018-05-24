@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+imbalances	2
+out		2
+element		1
+notice		1
+pricing		1
+cash		1
+perspective	1
+price		1
+market		1
+thanks		1
+transportation	1
+separated	1
+rest		1
+reason		1
+commodity	1
+area		1

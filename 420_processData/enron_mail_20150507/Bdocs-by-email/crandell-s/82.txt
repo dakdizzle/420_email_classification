@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+physical	1
+copy		1
+electronic	1
+currently	1
+kevin		1
+thanks		1
+language	1
+mid		1
+contract	1
+work		1
+mail		1
+don		1
+product		1

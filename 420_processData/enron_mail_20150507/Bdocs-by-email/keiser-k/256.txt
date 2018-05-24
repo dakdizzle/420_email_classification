@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+time		1
+go		1
+estate		1
+book		1
+ready		1
+susan		1
+kk		1

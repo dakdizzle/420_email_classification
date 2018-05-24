@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+motley		2
+sean		2
+matt		2
+crandall	2
+dunton		1
+mark		1
+greg		1
+tim		1
+oh		1
+belden		1
+tom		1
+wolfe		1
+jeffrey		1
+fisher		1
+heather		1
+alonso		1
+driscoll	1
+myself		1
+mike		1

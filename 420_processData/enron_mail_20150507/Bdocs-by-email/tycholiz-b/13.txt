@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+preferred	1
+meeting		1
+tues		1
+contact		1
+pls		1
+hour		1
+jessica		1
+bt		1
+schedule	1
+afternoon	1
+robert		1
+rayres		1
+office		1
+weds		1
+ayres		1
+mail		1
+week		1
+hotmail		1
+sometime	1
+com		1
+here		1

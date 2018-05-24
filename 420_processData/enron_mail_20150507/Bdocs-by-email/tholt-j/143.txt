@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+monday		1
+friday		1
+go		1
+maybe		1
+lunch		1
+call		1

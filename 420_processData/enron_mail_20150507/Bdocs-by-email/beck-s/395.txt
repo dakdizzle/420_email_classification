@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+nice		1
+positive	1
+share		1
+sally		1
+things		1
+d		1
+thought		1
+see		1
+always		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+won		1
+visiting	1
+country		1

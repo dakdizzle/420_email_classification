@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+cn		2
+diana		1
+scholtes	1
+december	1
+recipients	1
+month		1
+filename	1
+dscholt		1
+na		1
+ds		1
+pge		1
+enron		1
+owing		1
+match		1
+ou		1

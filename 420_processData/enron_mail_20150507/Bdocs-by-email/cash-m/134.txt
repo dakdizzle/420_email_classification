@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+japan		2
+form		2
+files		1
+fyi		1
+michelle	1
+new		1

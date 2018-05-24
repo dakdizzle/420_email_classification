@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+reviewed	1
+schedules	1
+responsibility	1
+related		1
+tom		1
+see		1
+sale		1
+article		1
+areas		1
+changes		1
+purchase	1
+necessary	1
+agreement	1
+disclosure	1

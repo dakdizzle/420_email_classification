@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+pstit		1
+helpful		1
+try		1
+filename	1
+places		1
+lavorato	1
+america		1
+enron		1
+staff		1
+jlavora		1
+north		1
+corporation	1
+thanksjohn	1
+hire		1
+johnx		1

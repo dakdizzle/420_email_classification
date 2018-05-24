@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+inc		1
+marlin		1
+anthony		1
+company		1
+counterparty	1
+black		1
+name		1
+change		1
+deal		1
+pipeline	1

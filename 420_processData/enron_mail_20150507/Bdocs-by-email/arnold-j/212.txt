@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+starting	1
+up		1
+today		1
+pick		1
+fast		1
+sale		1
+m		1
+needless	1
+real		1
+run		1
+go		1
+want		1
+going		1
+markup		1
+don		1
+big		1
+ll		1

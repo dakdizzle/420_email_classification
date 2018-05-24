@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+hectic		1
+vince		1
+day		1
+andgive		1
+catch		1
+update		1
+shall		1
+one		1
+period		1
+very		1
+tony		1

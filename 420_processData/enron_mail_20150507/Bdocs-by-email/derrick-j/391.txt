@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+jim		2
+group		1
+something	1
+derrick		1
+rex		1

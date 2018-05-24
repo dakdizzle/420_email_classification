@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+shoulder	1
+disregard	1
+needed		1
+highlighted	1
+phone		1
+looked		1
+tom		1
+deleted		1
+call		1
+daren		1
+over		1

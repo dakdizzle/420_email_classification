@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+gathering	1
+wr		1
+end		1
+deals		1
+ejw		1
+deal		1
+england		1
+over		1
+remember	1
+thanks		1

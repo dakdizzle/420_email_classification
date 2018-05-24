@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+put		1
+long		1
+thank		1
+horribly	1
+hours		1
+dave		1

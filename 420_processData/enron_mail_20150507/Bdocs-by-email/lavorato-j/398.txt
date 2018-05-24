@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+conversion	1
+language	1
+currency	1
+gas		1
+want		1
+daily		1
+need		1
+gj		1
+don		1
+agrees		1
+mmbtu		1

@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+blackberry	2
+cn		2
+net		1
+scary		1
+wireless	1
+handheld	1
+things		1
+www		1
+recipients	1
+na		1
+speculative	1
+saunders	1
+sent		1
+gets		1
+jsaunde		1
+enron		1
+language	1
+james		1
+yes		1
+ou		1
+always		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+prices		1
+forgot		1
+ami		1
+delivered	1
+looking		1
+attached	1
+japan		1
+sorry		1
+china		1
+monika		1
+korea		1
+hardwoods	1

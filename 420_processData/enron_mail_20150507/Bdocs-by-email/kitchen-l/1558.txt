@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+committee	2
+resign		1
+mentioned	1
+hereby		1
+enron		1
+above		1
+management	1

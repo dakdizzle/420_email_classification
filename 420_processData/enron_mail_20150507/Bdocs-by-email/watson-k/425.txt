@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+email		2
+kim		1
+jack		1
+meeting		1
+undeliverable	1
+know		1
+james		1
+another		1
+address		1
+tonight		1
+thanks		1
+robert		1

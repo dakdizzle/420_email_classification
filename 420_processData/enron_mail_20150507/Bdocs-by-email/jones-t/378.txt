@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+full		1
+name		1
+legal		1
+equiva		1
+trading		1

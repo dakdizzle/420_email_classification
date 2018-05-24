@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+changemy	1
+hopping		1
+course		1
+go		1
+burger		1
+mind		1
+perrrrogative	1

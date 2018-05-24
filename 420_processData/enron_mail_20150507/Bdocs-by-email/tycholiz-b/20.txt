@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+time		1
+uranium		1
+one		1
+trade		1
+bt		1
+didn		1

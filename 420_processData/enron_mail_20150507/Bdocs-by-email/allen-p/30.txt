@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+mix		1
+send		1
+rent		1
+fax		1
+please		1
+roll		1
+again		1
+footages	1
+phillip		1
+unit		1
+square		1
+thanks		1

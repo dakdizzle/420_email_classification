@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+second		1
+sitting		1
+m		1
+panel		1
+row		1
+screen		1
+belden		1
+bloomberg	1
+chris		1
+hi		1
+drop		1
+next		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+anthony		1
+power		1
+obviously	1
+beth		1
+gas		1
+want		1
+assuming	1

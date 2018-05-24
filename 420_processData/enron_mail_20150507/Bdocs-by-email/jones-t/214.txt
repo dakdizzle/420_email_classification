@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+cooperative	1
+colorado	1
+state		1
+tri		1
+fyi		1
+notes		1
+reflect		1
+database	1
+generation	1

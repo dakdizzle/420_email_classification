@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+time		1
+above		1
+fine		1
+stu		1
+gice		1
+call		1
+around		1
+m		1
+tomrrow		1
+thanksandy	1
+old		1
+chance		1
+natsource	1

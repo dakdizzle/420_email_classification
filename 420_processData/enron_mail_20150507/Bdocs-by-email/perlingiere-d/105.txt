@@ -1,0 +1,10 @@
+NumWords	10
+NumTerms	7
+
+day		2
+contract	2
+month		2
+notice		1
+yearly		1
+want		1
+year		1

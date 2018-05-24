@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+anything	1
+hear		1
+wm		1

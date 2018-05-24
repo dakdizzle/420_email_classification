@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+bring		1
+marie		1
+revise		1
+going		1
+gotten		1
+haven		1
+termination	1

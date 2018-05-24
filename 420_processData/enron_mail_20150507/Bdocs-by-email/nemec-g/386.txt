@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+right		1
+ena		1
+now		1
+covered		1
+upstream	1
+pretty		1
+fit		1

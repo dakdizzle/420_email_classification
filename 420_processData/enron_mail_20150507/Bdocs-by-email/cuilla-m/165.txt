@@ -1,0 +1,19 @@
+NumWords	21
+NumTerms	16
+
+paycheck	2
+credit		2
+deposit		2
+union		2
+direct		2
+cuilla		1
+payment		1
+friday		1
+paid		1
+martin		1
+car		1
+stop		1
+effective	1
+thanks		1
+loan		1
+november	1

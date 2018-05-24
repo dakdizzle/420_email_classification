@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+first		1
+within		1
+told		1
+probably	1
+months		1

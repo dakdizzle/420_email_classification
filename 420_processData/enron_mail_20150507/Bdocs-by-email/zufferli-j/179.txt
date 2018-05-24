@@ -1,0 +1,16 @@
+NumWords	36
+NumTerms	13
+
+enroncanada	8
+doc		8
+ene		4
+file		4
+sd		2
+ensk		2
+enbc		2
+info		1
+export		1
+fine		1
+units		1
+import		1
+here		1

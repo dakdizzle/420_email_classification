@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+cannizzaro	2
+hagis		1
+hey		1
+believe		1
+one		1
+brothers	1
+tom		1
+pete		1

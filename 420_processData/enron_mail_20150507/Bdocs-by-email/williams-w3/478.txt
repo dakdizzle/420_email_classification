@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+idea		2
+mind		2
+place		1
+invite		1
+kuehn		1
+bear		1
+folks		1
+gave		1
+today		1
+nate		1
+joy		1
+furniture	1
+call		1
+zoop		1
+way		1
+food		1
+stanton		1
+cool		1
+work		1
+unsure		1
+mr		1
+bridgeport	1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+anyway		1
+many		1
+hardthanks	1
+millers		1
+michael		1

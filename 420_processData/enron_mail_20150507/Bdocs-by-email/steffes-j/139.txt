@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+customers	2
+cn		2
+jsteffe		2
+pstdiann	1
+under		1
+protect		1
+impression	1
+taken		1
+recipients	1
+related		1
+residential	1
+problem		1
+filename	1
+na		1
+privileged	1
+jim		1
+steffes		1
+steps		1
+non		1
+enron		1
+james		1
+ou		1
+necessary	1

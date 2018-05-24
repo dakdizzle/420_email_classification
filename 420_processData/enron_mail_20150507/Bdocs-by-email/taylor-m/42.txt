@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+attached	1
+sullivan	1
+filename	1
+transfer	1
+see		1
+mtaylo		1
+pstplease	1
+privileged	1
+content		1
+non		1
+encoding	1
+mx		1
+memo		1
+cromwell	1
+origin		1
+bitx		1
+taylor		1

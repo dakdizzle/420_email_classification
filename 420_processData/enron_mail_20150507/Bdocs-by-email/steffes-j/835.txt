@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+steffes		2
+cn		2
+jsteffe		2
+plan		1
+attending	1
+recipients	1
+filename	1
+na		1
+privileged	1
+jim		1
+psti		1
+non		1
+enron		1
+james		1
+ou		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+coming		1
+mark		1
+jerry		1
+know		1
+fine		1
+willie		1
+s		1
+don		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+two		1
+brian		1
+please		1
+last		1
+entries		1
+see		1

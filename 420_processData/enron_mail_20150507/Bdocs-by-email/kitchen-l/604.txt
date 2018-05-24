@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+lkitchen	2
+cn		2
+discuss		1
+pstyes		1
+kitchen		1
+louise		1
+recipients	1
+filename	1
+na		1
+privileged	1
+morning		1
+non		1
+enron		1
+please		1
+forward		1
+ou		1
+move		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+spread		1
+good		1
+look		1
+further		1
+sheet		1
+information	1
+looked		1
+need		1
+curve		1
+currently	1
+curves		1

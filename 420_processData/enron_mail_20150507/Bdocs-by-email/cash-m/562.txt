@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+possible	2
+notebook	1
+confidential	1
+human		1
+department	1
+state		1
+copy		1
+well		1
+legal		1
+proprietary	1
+persons		1
+cover		1
+put		1
+resources	1
+michelle	1
+documents	1
+d		1
+disclosed	1
+think		1

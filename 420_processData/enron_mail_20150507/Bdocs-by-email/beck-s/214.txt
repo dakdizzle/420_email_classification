@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+info		1
+attendance	1
+make		1
+meeting		1
+vp		1
+talk		1
+well		1
+md		1
+various		1
+provide		1
+approved	1
+reviewers	1
+good		1
+list		1
+sally		1
+opportunity	1
+attendees	1
+looked		1
+sure		1
+works		1
+commercial	1
+process		1
+prepare		1
+prc		1

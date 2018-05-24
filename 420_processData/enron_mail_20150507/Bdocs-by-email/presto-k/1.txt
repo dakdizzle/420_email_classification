@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+tammy		1
+shephard	1
+mail		1
+original	1

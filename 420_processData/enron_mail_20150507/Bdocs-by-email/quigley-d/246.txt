@@ -1,0 +1,27 @@
+NumWords	29
+NumTerms	24
+
+dquigle		2
+dutch		2
+privileged	2
+non		2
+quigley		2
+text		1
+plain		1
+dx		1
+filename	1
+folder		1
+number		1
+pstplease	1
+building	1
+asciix		1
+content		1
+sent		1
+cell		1
+type		1
+garage		1
+guard		1
+origin		1
+itemsx		1
+note		1
+charset		1

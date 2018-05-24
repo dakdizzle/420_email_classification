@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+early		1
+up		1
+hotties		1
+feel		1
+didnt		1
+going		1
+wake		1
+sunday		1
+lot		1

@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+chris		2
+cn		2
+germany		2
+changed		1
+kathy		1
+wonder		1
+know		1
+cgerman		1
+ask		1
+recipients	1
+filename	1
+na		1
+schedule	1
+holiday		1
+psti		1
+enron		1
+hr		1
+ou		1
+last		1
+months		1
+couple		1
+over		1

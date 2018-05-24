@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+one		2
+asp		1
+free		1
+lodge		1
+vail		1
+http		1
+nights		1
+snow		1
+pb		1
+something	1
+ldg		1
+night		1
+buy		1
+book		1
+highlands	1
+dec		1
+com		1

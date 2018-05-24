@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+btinternet	1
+http		1
+pir		1
+www		1
+arnie		1
+com		1

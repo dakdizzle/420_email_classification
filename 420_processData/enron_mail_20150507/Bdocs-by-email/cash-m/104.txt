@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+m		1
+freudian	1
+tomorrow	1
+michelle	1
+slip		1
+sure		1
+see		1

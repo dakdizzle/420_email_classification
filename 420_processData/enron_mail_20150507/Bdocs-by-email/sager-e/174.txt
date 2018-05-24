@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+wright		1
+enron		1
+please		1
+alice		1
+printelizabeth	1
+recipients	1
+ou		1
+sager		1
+na		1
+awright		1

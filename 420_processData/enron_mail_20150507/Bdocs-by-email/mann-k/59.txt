@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+pledge		1
+portland	1
+document	1
+agreement	1
+loan		1
+security	1
+general		1

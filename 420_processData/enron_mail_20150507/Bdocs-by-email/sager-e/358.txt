@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+join		1
+try		1
+going		1
+late		1
+meet		1
+hikriste	1
+hit		1

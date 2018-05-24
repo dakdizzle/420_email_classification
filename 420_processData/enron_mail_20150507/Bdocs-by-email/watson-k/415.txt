@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+available	3
+meet		2
+morning		2
+revised		1
+breakfast	1
+sending		1
+know		1
+today		1
+fyi		1
+review		1
+tuesday		1
+thanks		1
+afternoon	1
+ron		1
+both		1
+kim		1
+anytime		1
+before		1
+kirk		1
+chance		1
+agreement	1
+works		1
+otherwise	1

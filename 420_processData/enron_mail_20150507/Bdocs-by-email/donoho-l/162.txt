@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+officers	1
+porter		1
+greg		1
+good		1
+duschinske	1
+john		1
+transwestern	1
+listed		1
+looks		1

@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+vince		2
+kaminski	1
+thanks		1

@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+day		2
+good		2
+articles	1
+wall		1
+rose		1
+glad		1
+busy		1
+street		1
+call		1
+lots		1
+dad		1
+week		1
+read		1
+doing		1
+tonight		1
+love		1

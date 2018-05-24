@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+ozzie		1
+pm		1
+invite		1
+front		1
+know		1
+bt		1
+buy		1
+use		1
+work		1
+porch		1
+going		1
+thought		1
+couple		1

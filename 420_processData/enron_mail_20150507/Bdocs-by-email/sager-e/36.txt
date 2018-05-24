@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+earliest	1
+racquets	1
+popular		1
+girl		1
+until		1
+now		1
+due		1
+sager		1
+th		1
+tw		1
+elizabeth	1

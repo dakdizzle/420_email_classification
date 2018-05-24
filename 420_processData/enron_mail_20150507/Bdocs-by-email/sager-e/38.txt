@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+dc		1
+m		1
+leaving		1
+few		1
+minutes		1
+lesliecan	1
+sager		1
+thankselizabeth	1
+brent		1
+call		1

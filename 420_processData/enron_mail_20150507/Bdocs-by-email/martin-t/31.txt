@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+days		1
+few		1
+know		1
+now		1
+more		1
+alive		1
+tom		1
+still		1
+next		1
+kicking		1

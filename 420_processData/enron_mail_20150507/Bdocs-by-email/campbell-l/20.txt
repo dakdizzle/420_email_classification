@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+u		2
+friend		1
+chi		1

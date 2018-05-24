@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+list		1
+packing		1
+talk		1
+back		1
+work		1
+made		1
+excited		1
+chris		1
+later		1
+better		1
+bet		1
+getting		1

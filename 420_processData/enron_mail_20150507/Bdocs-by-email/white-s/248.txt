@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+dpos		1
+stacey		1
+folder		1

@@ -1,0 +1,18 @@
+NumWords	21
+NumTerms	15
+
+enron		3
+eprod		2
+webster		2
+kyle		2
+com		2
+david		1
+contact		1
+phone		1
+ckwebster	1
+ecom		1
+imceanotes	1
+number		1
+marshall	1
+insurance	1
+kwebster	1

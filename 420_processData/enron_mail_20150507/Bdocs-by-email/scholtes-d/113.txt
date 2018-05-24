@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+nomination	1
+wonder		1
+thanksdiana	1
+nov		1

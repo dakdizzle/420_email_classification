@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+make		1
+position	1
+customers	1
+letting		1
+slip		1
+crack		1
+thanks		1
+anything	1
+kim		1
+m		1
+talking		1
+want		1
+need		1
+sure		1
+agreement	1
+through		1

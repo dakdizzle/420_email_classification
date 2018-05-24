@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+tomarrow	1
+kim		1
+hear		1
+email		1
+sent		1
+know		1
+available	1
+another		1
+thanks		1
+ann		1

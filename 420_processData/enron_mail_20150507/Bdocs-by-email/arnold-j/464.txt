@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+story		1
+headline	1
+people		1
+thinks		1
+trading		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+apologies	1
+humiliation	1
+bill		1
+public		1

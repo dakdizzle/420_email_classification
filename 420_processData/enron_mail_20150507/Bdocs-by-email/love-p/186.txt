@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+resigned	1
+heard		1
+word		1
+spurrier	1
+pl		1
+talk		1
+steve		1
+guess		1
+elph		1
+canon		1
+out		1
+soon		1
+check		1
+going		1
+espn		1
+com		1

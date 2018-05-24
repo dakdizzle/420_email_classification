@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+daren		2
+aimee		2
+meter		2
+deal		2
+little		1
+flow		1
+farmer		1
+ect		1
+thanks		1
+extend		1
+kemp		1
+hou		1
+march		1
+lannou		1
+nom		1
+done		1
+enron		1
+please		1
+amto		1
+ectcc		1
+juliann		1
+subject		1
+over		1
+enronxgate	1

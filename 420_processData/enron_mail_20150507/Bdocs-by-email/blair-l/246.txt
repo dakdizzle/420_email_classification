@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lynn		1
+intent		1
+right		1
+sheet		1
+general		1
+very		1
+think		1
+thanks		1

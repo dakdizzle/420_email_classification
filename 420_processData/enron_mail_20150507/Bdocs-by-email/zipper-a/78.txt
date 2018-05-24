@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+job		1
+time		1
+review		1
+declined	1
+worked		1
+times		1
+lot		1
+drew		1
+really		1
+easy		1
+great		1
+done		1
+feel		1
+spent		1
+work		1
+haven		1

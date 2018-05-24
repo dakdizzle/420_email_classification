@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+couldn		1
+president	1
+much		1
+seems		1
+worse		1
+great		1
+job		1
+stump		1
+series		1
+maybe		1
+dg		1
+actually	1

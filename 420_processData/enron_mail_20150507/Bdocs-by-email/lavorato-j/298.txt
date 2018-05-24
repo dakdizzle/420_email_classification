@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+john		1
+work		1
+houston		1
+tx		1
+mercer		1
+st		1
+lavorato	1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+heart		1
+written		1
+check		1
+american	1
+association	1

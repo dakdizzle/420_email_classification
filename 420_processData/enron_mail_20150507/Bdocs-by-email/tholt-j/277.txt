@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+xmas		1
+something	1
+day		1
+make		1
+differnt	1
+maybe		1
+shsould		1

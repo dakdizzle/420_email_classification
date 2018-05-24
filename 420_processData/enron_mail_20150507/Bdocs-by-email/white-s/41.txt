@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+books		2
+send		1
+badeer		1
+motley		1
+stacey		1
+attached	1
+gas		1
+change		1
+matt		1
+need		1
+bob		1
+still		1

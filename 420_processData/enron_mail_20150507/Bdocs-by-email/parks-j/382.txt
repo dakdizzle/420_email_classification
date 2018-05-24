@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+hand		1
+dont		1
+transaction	1
+track		1
+up		1
+stuart		1
+scares		1
+hold		1
+nice		1
+mess		1
+right		1
+please		1
+changes		1
+again		1
+want		1
+made		1
+summary		1

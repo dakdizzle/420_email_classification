@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+yeah		1
+year		1
+rt		1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+bring		2
+tomarrow	1
+party		1
+hear		1
+make		1
+hey		1
+try		1
+know		1
+friend		1
+glad		1
+perhaps		1
+chris		1
+see		1
+anything	1
+kim		1
+camille		1
+night		1
+going		1

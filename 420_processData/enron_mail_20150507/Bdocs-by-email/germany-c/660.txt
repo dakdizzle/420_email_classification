@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+working		1
+looks		1
+thanks		1

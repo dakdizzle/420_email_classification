@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+coming		2
+john		1
+know		1
+car		1
+month		1
+wanted		1
+trip		1
+take		1
+vancouver	1
+out		1
+really		1
+easy		1
+look		1
+weekend		1
+hughes		1
+probably	1
+postponing	1
+mike		1
+mail		1
+address		1
+sold		1
+dorland		1
+next		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+discuss		1
+managing	1
+need		1
+regardsdelainey	1
+dan		1

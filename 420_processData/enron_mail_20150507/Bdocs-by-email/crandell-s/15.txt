@@ -1,0 +1,14 @@
+NumWords	14
+NumTerms	11
+
+deal		3
+bpa		2
+cancelled	1
+deliver		1
+changes		1
+cob		1
+mc		1
+midesto		1
+going		1
+busbar		1
+here		1

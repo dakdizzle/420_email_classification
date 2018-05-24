@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+great		1
+bold		1
+thinkingelizabeth	1
+sager		1
+big		1

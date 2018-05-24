@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+asp		1
+net		1
+share		1
+http		1
+www		1
+headhunter	1
+det		1
+q		1
+out		1
+check		1
+j		1
+mknj		1
+qs		1

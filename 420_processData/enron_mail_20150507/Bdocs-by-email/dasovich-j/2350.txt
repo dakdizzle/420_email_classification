@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+best		2
+yours		1
+jeff		1
+smith		1
+see		1
+very		1
+com		1

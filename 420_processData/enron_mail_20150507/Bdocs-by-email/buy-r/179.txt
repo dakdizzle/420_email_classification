@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+another		2
+account		1
+showing		1
+rick		1
+received	1
+statement	1
+craig		1
+buy		1
+service		1
+probably	1
+charge		1
+cancel		1

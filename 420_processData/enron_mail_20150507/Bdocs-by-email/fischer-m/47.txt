@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+support		1
+working		1
+lotus		1
+notes		1
+access		1

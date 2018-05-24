@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+between		1
+digs		1
+together	1
+curtail		1
+gas		1
+sj		1
+loop		1
+previously	1
+isolate		1
+ds		1
+look		1
+posting		1
+main		1
+need		1
+needto		1

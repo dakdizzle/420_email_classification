@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+portland	1
+steve		1
+fyi		1

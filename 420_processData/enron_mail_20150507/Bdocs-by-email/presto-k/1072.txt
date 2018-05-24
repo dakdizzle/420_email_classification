@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+mmbtu		2
+cal		1
+day		1
+nymex		1
+sold		1

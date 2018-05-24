@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+approve		2
+expense		1
+go		1
+report		1
+ahead		1
+tom		1
+daren		1

@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+numbers		3
+budget		1
+those		1
+floor		1
+employees	1
+looking		1
+buildings	1
+plans		1
+pagers		1
+phone		1
+wholesale	1
+same		1
+ees		1
+home		1
+america		1
+easy		1
+cell		1
+list		1
+enron		1
+phones		1
+north		1
+work		1
+headcount	1
+new		1

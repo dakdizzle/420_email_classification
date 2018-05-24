@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+local		1
+bank		1

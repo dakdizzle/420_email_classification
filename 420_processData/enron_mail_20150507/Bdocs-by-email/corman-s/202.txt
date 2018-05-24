@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+started		1
+working		1
+far		1
+isn		1
+along		1
+very		1
+yesterday	1
+here		1

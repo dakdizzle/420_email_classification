@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+revenue		3
+m		2
+meeting		1
+friday		1
+review		1
+tells		1
+both		1
+strictly	1
+team		1
+go		1
+want		1
+caroline	1
+over		1
+ll		1

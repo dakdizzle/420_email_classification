@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+thereare	1
+coming		1
+yourself	1
+squares		1
+bring		1
+money		1
+see		1

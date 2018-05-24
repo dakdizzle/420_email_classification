@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+make		1
+working		1
+phillip		1
+file		1
+breakout	1
+curves		1
+tried		1
+keith		1
+setting		1
+run		1
+past		1
+probably	1
+sure		1
+frank		1

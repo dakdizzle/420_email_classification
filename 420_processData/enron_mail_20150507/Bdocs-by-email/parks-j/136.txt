@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+centana		2
+request		2
+payment		1
+escrow		1
+gas		1
+associated	1
+structuring	1
+find		1
+duke		1
+cipco		1

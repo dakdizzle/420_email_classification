@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+lynn		1
+lead		1
+todd		1
+informal	1
+discussion	1
+glad		1
+thanks		1
+presentation	1
+formal		1
+ll		1

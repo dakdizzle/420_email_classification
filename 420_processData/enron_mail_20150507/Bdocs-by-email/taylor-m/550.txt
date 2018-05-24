@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+thing		2
+early		1
+compromise	1
+drive		1
+john		1
+nowhere		1
+take		1
+joaquin		1
+boy		1
+texas		1
+shall		1
+thursday	1
+tomorrow	1
+want		1
+kind		1
+told		1
+called		1
+middle		1
+saturday	1
+doing		1
+san		1
+think		1

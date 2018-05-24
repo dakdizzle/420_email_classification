@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+check		1
+steve		1
+truth		1
+jmf		1

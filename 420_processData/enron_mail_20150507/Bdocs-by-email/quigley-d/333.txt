@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+doi		1
+nice		1
+dq		1
+people		1
+look		1
+work		1
+find		1
+c		1
+think		1
+better		1
+interviewing	1

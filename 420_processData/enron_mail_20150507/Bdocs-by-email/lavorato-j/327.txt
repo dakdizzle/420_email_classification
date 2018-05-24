@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+greg		1
+shea		1
+thoughts	1

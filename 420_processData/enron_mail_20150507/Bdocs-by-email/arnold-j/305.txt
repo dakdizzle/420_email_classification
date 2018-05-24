@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+group		1
+fundies		1
+schiesser	1
+meeting		1
+instead		1
+xcelerator	1
+join		1
+vp		1
+trucking	1
+today		1
+heath		1

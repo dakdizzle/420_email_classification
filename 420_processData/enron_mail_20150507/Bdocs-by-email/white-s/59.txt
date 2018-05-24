@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+look		1
+designating	1
+people		1
+hope		1
+stacey		1
+estate		1
+anticipate	1
+going		1
+someone		1
+certainly	1

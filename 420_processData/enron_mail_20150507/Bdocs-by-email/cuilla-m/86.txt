@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+plan		1
+few		1
+vacations	1
+favor		1
+sorry		1
+money		1
+damn		1
+prints		1
+positions	1
+more		1
+going		1
+squandering	1
+sucks		1

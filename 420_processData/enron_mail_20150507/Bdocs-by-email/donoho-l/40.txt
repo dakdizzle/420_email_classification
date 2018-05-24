@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+good		1
+time		1

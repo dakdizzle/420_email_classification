@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+fax		1
+power		1
+front		1
+docs		1
+prestoeast	1
+kevin		1
+doug		1
+put		1
+cell		1
+rogers		1
+harry		1
+want		1
+tradingphone	1

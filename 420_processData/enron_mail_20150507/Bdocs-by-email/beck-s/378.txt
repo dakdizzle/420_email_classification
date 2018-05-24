@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+copy		1
+document	1
+color		1
+thanks		1

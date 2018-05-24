@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+withdraw	1
+replacement	1
+credit		1
+position	1
+recollection	1
+steve		1
+guess		1
+file		1
+longer		1
+urm		1
+mara		1
+jim		1
+ve		1
+check		1
+index		1
+originally	1
+px		1
+double		1
+dj		1
+d		1
+sue		1
+argument	1
+haven		1
+include		1

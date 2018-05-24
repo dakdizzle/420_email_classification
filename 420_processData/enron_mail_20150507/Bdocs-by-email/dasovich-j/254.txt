@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+thing		1
+recent		1
+press		1
+report		1
+attached	1
+csfs		1
+good		1
+turn		1
+jeff		1
+best		1
+learning	1
+go		1
+reorg		1
+mflorio		1
+mike		1
+org		1
+mail		1

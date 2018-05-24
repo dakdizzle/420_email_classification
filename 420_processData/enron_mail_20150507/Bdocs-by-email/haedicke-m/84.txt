@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+mark		1
+regards		1
+message		1
+aronowitz	1
+alan		1
+mail		1
+thanks		1

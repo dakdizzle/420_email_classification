@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+summer		1
+natty		1
+thinking	1
+term		1
+short		1
+buying		1
+against		1
+month		1
+view		1
+longer		1
+next		1
+heat		1

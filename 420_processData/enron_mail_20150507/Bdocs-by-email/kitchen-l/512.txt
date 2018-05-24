@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+oh		2
+suppose		1
+hall		1
+jr		1
+thought		1
+bob		1
+went		1
+robert		1

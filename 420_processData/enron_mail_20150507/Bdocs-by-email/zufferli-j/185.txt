@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+put		1
+guelph		1
+interview	1
+time		1
+waterloo	1
+laurier		1
+campus		1
+same		1
+wilfred		1
+date		1

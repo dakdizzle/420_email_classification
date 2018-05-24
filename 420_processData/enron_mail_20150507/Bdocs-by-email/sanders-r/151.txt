@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+grynberg	1
+lookalike	1
+talked		1

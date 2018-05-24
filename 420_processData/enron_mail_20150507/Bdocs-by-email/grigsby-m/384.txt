@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+stuff		1
+good		1
+list		1
+distribution	1
+mike		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+something	1
+work		1
+rolling		1

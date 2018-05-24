@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+smooth		1
+mehn		1
+go		1
+structuring	1
+absolutely	1
+issue		1
+wholesale	1
+chris		1
+committed	1
+over		1

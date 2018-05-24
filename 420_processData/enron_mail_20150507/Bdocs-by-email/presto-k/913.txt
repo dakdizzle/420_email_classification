@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+value		3
+portfolio	2
+total		2
+combination	1
+together	1
+stock		1
+except		1
+options		1
+restricted	1
+system		1
+problem		1
+negative	1
+hoping		1
+loss		1
+market		1
+gain		1
+trick		1
+added		1
+need		1
+accurate	1
+cost		1
+grants		1

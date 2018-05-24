@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+internet	1
+day		1
+people		1
+pl		1
+time		1
+hard		1
+obviously	1
+spend		1
+surfing		1
+work		1
+don		1
+random		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+burden		1
+proof		1
+rests		1
+shoulders	1

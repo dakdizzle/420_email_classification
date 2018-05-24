@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+cn		2
+jsteffe		2
+pstthanks	1
+recipients	1
+filename	1
+na		1
+privileged	1
+jim		1
+steffes		1
+non		1
+enron		1
+james		1
+ou		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+between		1
+know		1
+few		1
+quite		1
+attached	1
+risi		1
+karen		1
+see		1
+discrepancies	1
+questions	1
+ppi		1
+told		1
+monika		1

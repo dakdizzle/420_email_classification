@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+account		2
+whether		2
+check		2
+cleared		1
+end		1
+left		1
+bank		1
+looks		1
+look		1
+withdrawal	1
+received	1
+please		1
+one		1
+tell		1
+doesn		1

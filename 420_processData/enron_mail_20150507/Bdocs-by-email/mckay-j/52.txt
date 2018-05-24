@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+east		2
+totals		2
+open		1
+grant		1
+position	1
+kam		1
+currently	1
+unable		1
+via		1
+regards		1
+sent		1
+l		1
+being		1
+best		1
+please		1
+jon		1
+mail		1
+access		1
+reports		1

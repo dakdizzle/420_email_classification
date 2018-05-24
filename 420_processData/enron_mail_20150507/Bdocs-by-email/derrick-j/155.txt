@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+list		1
+ask		1
+rex		1
+include		1

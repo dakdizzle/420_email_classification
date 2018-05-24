@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+good		2
+going		2
+moving		1
+day		1
+talk		1
+estimate	1
+storagei	1
+furniture	1
+piecesilydq	1
+talked		1
+out		1
+morning		1
+look		1
+people		1
+want		1
+welli		1
+honeyhope	1
+saturday	1
+frank		1
+news		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+wolak		1
+philip		1
+eduvince	1
+stanford	1
+e		1
+mail		1
+zia		1
+frank		1

@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+jim		2
+assume		1
+copy		1
+files		1
+final		1
+submitted	1

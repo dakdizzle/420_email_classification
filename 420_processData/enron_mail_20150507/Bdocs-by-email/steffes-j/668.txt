@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+ferc		1
+busines		1
+becky		1
+swamped		1
+overwhelming	1
+upside		1
+jim		1
+concern		1
+settlement	1
+issues		1
+tha		1
+going		1
+downside	1

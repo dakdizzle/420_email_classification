@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+regarding	1
+issues		1
+list		1
+distribution	1
+please		1
+dpr		1
+thanks		1
+add		1

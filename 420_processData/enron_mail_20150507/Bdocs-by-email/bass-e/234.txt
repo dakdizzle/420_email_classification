@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+home		1
+jason		1
+work		1
+phone		1

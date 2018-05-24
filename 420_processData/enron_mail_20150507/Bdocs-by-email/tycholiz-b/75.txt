@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+accept		1
+co		1
+job		1
+another		1
+going		1
+bt		1
+ayers		1
+robert		1
+talked		1

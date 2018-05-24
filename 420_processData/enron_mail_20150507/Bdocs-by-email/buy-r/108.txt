@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+discuss		1
+enron		1
+time		1
+rick		1
+lets		1
+going		1
+someone		1
+negotiate	1
+needs		1

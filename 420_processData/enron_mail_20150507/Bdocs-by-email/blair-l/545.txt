@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+lynn		1
+monday		1
+meeting		1
+event		1
+meetings	1
+well		1
+attending	1
+sunday		1
+planning	1
+thanks		1
+both		1
+look		1
+todd		1
+forward		1

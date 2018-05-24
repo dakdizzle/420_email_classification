@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+supply		1
+please		1
+know		1
+eex		1
+questions	1
+spreadsheet	1
+attached	1
+related		1
+see		1

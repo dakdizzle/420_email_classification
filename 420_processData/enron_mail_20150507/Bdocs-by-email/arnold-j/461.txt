@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+out		1
+email		1
+put		1
+m		1
+going		1
+afternoon	1

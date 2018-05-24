@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+much		1
+interest	1

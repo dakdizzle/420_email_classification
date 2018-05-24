@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+day		1
+fri		1
+come		1
+enjoy		1
+friday		1
+thought		1
+problem		1
+game		1

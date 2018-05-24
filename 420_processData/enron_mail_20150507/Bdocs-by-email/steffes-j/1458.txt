@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cn		2
+jsteffe		2
+discuss		1
+find		1
+recipients	1
+susan		1
+filename	1
+na		1
+robert		1
+privileged	1
+jim		1
+steffes		1
+building	1
+issues		1
+non		1
+enron		1
+pstcharles	1
+james		1
+ou		1

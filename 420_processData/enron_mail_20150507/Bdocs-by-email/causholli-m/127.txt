@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+demand		1
+updated		1
+indicators	1
+attached	1
+monika		1
+tables		1
+dirk		1

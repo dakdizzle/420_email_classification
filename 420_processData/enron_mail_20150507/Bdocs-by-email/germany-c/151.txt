@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+chris		2
+oxy		2
+cn		2
+germany		2
+brady		1
+cgerman		1
+contact		1
+future		1
+recipients	1
+midland		1
+month		1
+june		1
+filename	1
+na		1
+kevin		1
+volume		1
+sent		1
+pstmidland	1
+enron		1
+tell		1
+forward		1
+ou		1
+request		1

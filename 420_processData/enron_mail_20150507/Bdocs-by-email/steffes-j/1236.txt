@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+curtailment	1
+nyiso		1
+information	1
+actively	1
+load		1
+take		1
+jim		1
+pushing		1
+issues		1
+type		1
+dg		1
+role		1
+very		1
+entitled	1
+over		1

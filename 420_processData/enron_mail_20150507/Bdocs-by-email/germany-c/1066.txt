@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+nimo		1
+april		1
+hess		1
+looking		1
+amerada		1
+trade		1
+imbalance	1
+behind		1

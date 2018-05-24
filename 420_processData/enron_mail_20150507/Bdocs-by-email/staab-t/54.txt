@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+know		2
+theresa		1
+everything	1
+ladies		1
+now		1
+laurie		1
+ties		1
+system		1
+sale		1
+millenium	1
+thanks		1
+sales		1
+enserco		1
+please		1
+handle		1
+finished	1
+july		1
+questions	1
+numbers		1
+tell		1
+correct		1
+retex		1

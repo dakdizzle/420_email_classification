@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+way		1
+employee	1
+referrals	1
+paying		1
+still		1
+new		1

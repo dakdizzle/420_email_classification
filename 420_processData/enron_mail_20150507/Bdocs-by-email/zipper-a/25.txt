@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+really		1
+time		1
+check		1
+az		1
+back		1
+know		1
+weeks		1
+don		1

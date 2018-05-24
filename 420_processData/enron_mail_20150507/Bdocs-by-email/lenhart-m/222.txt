@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+anyone		1
+everyone	1

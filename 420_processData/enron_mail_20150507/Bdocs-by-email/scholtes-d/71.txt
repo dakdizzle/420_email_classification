@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+fernridge	1
+great		1
+event		1
+invite		1
+wa		1
+drivecamas	1
+se		1
+thanks		1

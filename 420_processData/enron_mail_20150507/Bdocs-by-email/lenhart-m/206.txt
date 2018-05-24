@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+season		1
+over		1

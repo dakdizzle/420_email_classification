@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+nighti		1
+calling		1
+sorry		1
+last		1
+kaydq		1
+love		1

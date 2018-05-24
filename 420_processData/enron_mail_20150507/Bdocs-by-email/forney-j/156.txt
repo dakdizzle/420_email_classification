@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+dont		1
+finance		1
+work		1
+flores		1
+jmf		1
+remember	1

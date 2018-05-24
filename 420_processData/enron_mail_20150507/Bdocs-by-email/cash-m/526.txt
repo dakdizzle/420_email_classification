@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+announcement	1
+much		1
+merger		1
+fyi		1
+wanted		1
+post		1
+aware		1
+ve		1
+reviewing	1
+raised		1
+questions	1
+michelle	1
+going		1
+need		1
+don		1
+think		1

@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+send		2
+think		2
+make		1
+diet		1
+sending		1
+fetch		1
+now		1
+keep		1
+top		1
+bob		1
+see		1
+look		1
+clean		1
+coke		1
+go		1
+billy		1
+sure		1
+ll		1
+here		1

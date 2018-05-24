@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+officerenron	1
+gets		1
+fax		1
+americastel	1
+operating	1
+talk		1
+firstlouise	1
+guys		1
+want		1
+past		1
+kitchenchief	1
+see		1

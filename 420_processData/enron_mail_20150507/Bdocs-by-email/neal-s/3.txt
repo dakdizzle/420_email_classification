@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+soon		1
+sneal		1
+houston		1
+maybe		1
+com		1
+rr		1

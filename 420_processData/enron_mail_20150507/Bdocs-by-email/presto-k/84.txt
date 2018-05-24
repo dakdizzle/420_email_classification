@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+between		1
+vote		1
+milly		1
+synergies	1
+power		1
+gas		1
+level		1
+accomplished	1
+tx		1
+necessary	1
+marketing	1
+think		1

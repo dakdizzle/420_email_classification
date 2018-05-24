@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+case		1
+cropped		1
+customers	1
+up		1
+know		1
+bonfires	1
+answer		1
+dual		1
+delay		1
+talked		1
+billing		1
+switch		1
+apologies	1
+three		1
+jeff		1
+best		1
+choose		1
+questions	1
+yes		1
+question	1

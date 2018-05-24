@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+cn		2
+fastow		1
+party		1
+kdenne		1
+deals		1
+assuming	1
+recipients	1
+refers		1
+related		1
+ignorance	1
+karen		1
+denne		1
+na		1
+m		1
+transactions	1
+enron		1
+forgive		1
+ou		1

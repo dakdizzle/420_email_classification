@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+info		1
+rm		1
+ireached	1
+barry		1
+correct		1
+sure		1
+yeaterday	1

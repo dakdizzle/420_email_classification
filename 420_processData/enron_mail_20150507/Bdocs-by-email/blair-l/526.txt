@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+lynn		1
+send		1
+brad		1
+tammy		1
+sorry		1
+thanks		1
+morning		1
+out		1
+sent		1
+ava		1
+message		1
+another		1
+before		1
+include		1
+outin		1

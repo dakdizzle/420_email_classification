@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+robo		1
+customer	1
+kh		1
+join		1
+tues		1
+know		1
+friday		1
+duck		1
+trying		1
+stay		1
+thursday	1
+want		1
+town		1
+over		1
+ll		1

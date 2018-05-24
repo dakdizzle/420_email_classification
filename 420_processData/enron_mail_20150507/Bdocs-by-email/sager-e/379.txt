@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+make		1
+talk		1
+try		1
+playing		1
+well		1
+today		1
+remembered	1
+reschedule	1
+talked		1
+soon		1
+hope		1
+anybody		1
+guysi		1
+hi		1
+ll		1

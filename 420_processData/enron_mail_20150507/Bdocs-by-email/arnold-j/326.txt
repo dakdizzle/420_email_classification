@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+morn		1
+played		1
+hooky		1
+cause		1

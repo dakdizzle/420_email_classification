@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+copy		2
+think		2
+spotlight	1
+up		1
+helpful		1
+electronic	1
+file		1
+master		1
+anything	1
+something	1
+handy		1
+look		1
+done		1
+want		1
+probably	1
+activity	1
+hasn		1
+kay		1
+still		1
+don		1
+grateful	1
+haven		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+requests	1
+stacey		1
+previous	1
+problem		1
+worry		1

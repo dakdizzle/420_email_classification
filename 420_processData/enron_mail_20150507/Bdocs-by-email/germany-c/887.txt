@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+work		2
+yours		1
+id		1
+ice		1
+th		1
+dec		1
+still		1
+worked		1
+longer		1
+password	1

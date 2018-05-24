@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+posted		1
+heard		1
+around		1
+pl		1
+ask		1
+jason		1
+keep		1
+going		1
+never		1

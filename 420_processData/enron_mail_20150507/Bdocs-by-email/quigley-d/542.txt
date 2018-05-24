@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+puppies		1
+truck		1
+same		1
+toddles		1
+eggs		1

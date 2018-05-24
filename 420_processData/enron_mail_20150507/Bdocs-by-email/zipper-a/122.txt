@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+participating	1
+videocon	1

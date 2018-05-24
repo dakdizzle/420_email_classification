@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+stu		1
+chip		1

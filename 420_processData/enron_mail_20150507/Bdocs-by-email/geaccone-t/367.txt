@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+guys		1
+one		1
+help		1

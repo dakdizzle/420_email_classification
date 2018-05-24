@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+guaranty	2
+day		1
+end		1
+connection	1
+know		1
+counterparty	1
+cindy		1
+attached	1
+marie		1
+form		1
+thanks		1
+overnight	1
+required	1
+confirmation	1
+enron		1
+please		1
+deliver		1
+questions	1
+tomorrow	1
+corp		1
+process		1

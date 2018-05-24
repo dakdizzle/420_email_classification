@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+m		1
+rto		1
+struggling	1
+honest		1
+split		1
+transco		1
+thoughts	1
+here		1

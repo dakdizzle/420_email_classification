@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+between		1
+fits		1
+people		1
+right		1
+talk		1
+back		1
+thnx		1
+rug		1
+furniture	1
+thought		1
+tonight		1
+call		1

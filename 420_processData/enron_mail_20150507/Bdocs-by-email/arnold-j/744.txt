@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+job		2
+good		1
+up		1
+ganging		1
+guys		1
+one		1
+pulled		1
+thought		1
+trade		1
+envy		1
+don		1
+over		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+mark		1
+lead		1
+put		1
+egm		1
+assist		1
+well		1
+ena		1
+aronowitz	1
+want		1
+sager		1

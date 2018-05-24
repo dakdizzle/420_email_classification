@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+send		1
+done		1
+list		1
+want		1
+litigation	1

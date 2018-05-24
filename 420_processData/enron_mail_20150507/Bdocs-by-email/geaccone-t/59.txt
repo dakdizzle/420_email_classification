@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+sit		1
+groups		1
+know		1
+questions	1
+maybe		1
+sure		1
+egs		1

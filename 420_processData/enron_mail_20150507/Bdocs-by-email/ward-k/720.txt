@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+kim		1
+day		1
+good		1
+one		1
+finally		1
+think		1

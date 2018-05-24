@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+send		1
+looking		1
+know		1
+today		1
+file		1
+filing		1
+lot		1
+afternoon	1
+out		1
+ve		1
+cal		1
+people		1
+concerns	1
+mary		1
+want		1
+week		1
+deal		1
+next		1

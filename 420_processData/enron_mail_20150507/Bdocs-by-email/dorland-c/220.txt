@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+early		1
+dinner		1
+good		1
+want		1
+lunch		1
+never		1

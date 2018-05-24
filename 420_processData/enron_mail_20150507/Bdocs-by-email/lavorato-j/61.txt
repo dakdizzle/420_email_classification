@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+home		1
+send		1
+adress		1
+tim		1
+name		1
+wife		1

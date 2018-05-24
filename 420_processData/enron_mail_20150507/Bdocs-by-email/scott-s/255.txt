@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+monday		1
+way		1
+know		1
+things		1
+go		1
+excited		1
+went		1
+very		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ricki		1
+send		1
+everything	1
+office		1
+working		1
+desk		1
+shelley		1
+note		1
+thanks		1

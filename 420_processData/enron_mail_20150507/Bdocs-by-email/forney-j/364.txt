@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+submit		2
+lloyd		1
+protocols	1
+per		1
+portal		1
+plant		1
+schedules	1
+arent		1
+thanks		1
+frontera	1
+jmf		1
+qse		1
+outage		1
+needs		1

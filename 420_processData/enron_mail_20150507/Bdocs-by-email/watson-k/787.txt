@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+kim		1
+version		1
+steve		1
+electronic	1
+nng		1
+proposal	1
+here		1

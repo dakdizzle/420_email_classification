@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+taking		1
+day		1
+shout		1
+cellchris	1
+give		1

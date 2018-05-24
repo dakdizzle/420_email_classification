@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+stacey		1
+need		1
+help		1

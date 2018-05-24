@@ -1,0 +1,14 @@
+NumWords	14
+NumTerms	11
+
+section		4
+make		1
+revised		1
+language	1
+clear		1
+attached	1
+letter		1
+operates	1
+added		1
+beginning	1
+frank		1

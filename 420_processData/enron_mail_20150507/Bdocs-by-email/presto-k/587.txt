@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+potentially	1
+benefit		1
+approach	1
+fill		1
+location	1
+well		1
+short		1
+double		1
+ui		1
+norfolk		1

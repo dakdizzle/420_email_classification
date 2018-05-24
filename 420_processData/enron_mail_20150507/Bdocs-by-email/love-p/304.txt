@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+problems	1
+pl		1
+accessing	1
+thanks		1

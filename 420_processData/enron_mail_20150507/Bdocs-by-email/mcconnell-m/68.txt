@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+com		2
+mcconnelltranswestern	1
+company		1
+hmark		1
+http		1
+www		1
+pipeline	1
+mcconnell	1
+cell		1
+enron		1
+office		1
+thegardenvillas	1
+faxmark		1
+meliabali	1

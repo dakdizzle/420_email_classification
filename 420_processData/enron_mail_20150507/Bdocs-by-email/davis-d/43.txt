@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+dana		1
+davis		1
+exactly		1
+intelligently	1
+please		1
+know		1
+issue		1
+paper		1
+address		1
+speaking	1
+emails		1
+thanks		1

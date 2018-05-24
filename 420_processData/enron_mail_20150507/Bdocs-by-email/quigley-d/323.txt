@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+spread		1
+put		1
+agree		1
+create		1
+pen		1
+one		1
+swap		1
+production	1
+nov		1
+novdq		1

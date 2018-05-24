@@ -1,0 +1,22 @@
+NumWords	24
+NumTerms	19
+
+mark		2
+pm		2
+enron		2
+taylor		2
+com		2
+employees	1
+ect		1
+hou		1
+forwarded	1
+people		1
+please		1
+contract	1
+subject		1
+mike		1
+read		1
+include		1
+request		1
+enronxgate	1
+harper		1

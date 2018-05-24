@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+group		1
+those		1
+much		1
+fight		1
+seems		1
+wouldn		1
+johnny		1
+nightmares	1
+second		1
+crude		1
+out		1
+something	1
+run		1
+go		1
+year		1
+probably	1
+last		1
+bad		1
+half		1
+booked		1
+still		1
+deal		1
+given		1
+think		1

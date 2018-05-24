@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+thanks		2
+lynn		1
+info		1
+weekly		1
+included	1
+log		1
+mike		1
+receiving	1

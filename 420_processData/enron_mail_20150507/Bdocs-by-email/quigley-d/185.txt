@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+mom		2
+info		1
+hey		1
+hospital	1
+worst		1
+good		1
+turn		1
+back		1
+sound		1
+night		1
+more		1
+todaydq		1
+alli		1
+last		1
+went		1
+took		1

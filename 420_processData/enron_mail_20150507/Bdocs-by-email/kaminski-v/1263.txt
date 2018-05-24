@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+newcombs	1
+page		1
+html		1
+ic		1
+justin		1
+doc		1
+http		1
+observations	1
+uk		1
+www		1
+hayward		1
+srueger		1
+main		1
+suprema		1
+pr		1
+ac		1

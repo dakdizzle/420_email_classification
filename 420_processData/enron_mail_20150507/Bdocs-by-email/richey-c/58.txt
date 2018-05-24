@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+email		1
+nice		1
+work		1
+bitch		1
+address		1
+getting		1

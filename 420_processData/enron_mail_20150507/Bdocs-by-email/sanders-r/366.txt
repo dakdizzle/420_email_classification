@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+demand		1
+letter		1
+draft		1

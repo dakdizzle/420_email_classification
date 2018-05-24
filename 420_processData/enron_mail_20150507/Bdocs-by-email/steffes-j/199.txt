@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+out		2
+jim		1
+anything	1
+touch		1
+document	1
+find		1
+trying		1
+went		1

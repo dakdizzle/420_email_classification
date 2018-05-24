@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+beer		1
+early		1
+wanna		1
+around		1
+come		1
+sneaking	1
+think		1

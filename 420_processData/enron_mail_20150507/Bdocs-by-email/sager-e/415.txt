@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+minute		1
+sager		1
+thiselizabeth	1
+call		1

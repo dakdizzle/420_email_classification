@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+setting		1
+wondering	1
+jim		1
+kim		1
+something	1
+list		1
+up		1
+interested	1
+counselors	1

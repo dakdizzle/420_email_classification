@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+good		1
+job		1
+baby		1
+beautiful	1
+patty		1

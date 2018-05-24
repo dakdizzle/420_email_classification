@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+today		2
+cn		2
+jeff		2
+info		1
+pstsue		1
+jshankm		1
+jdasovic	1
+recipients	1
+filename	1
+na		1
+dasovich	1
+privileged	1
+non		1
+enron		1
+best		1
+back		1
+ou		1

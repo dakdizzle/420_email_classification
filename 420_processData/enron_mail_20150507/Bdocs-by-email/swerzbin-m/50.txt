@@ -1,0 +1,18 @@
+NumWords	28
+NumTerms	15
+
+peak		3
+sep		2
+mar		2
+jan		2
+nov		2
+aug		2
+dec		2
+jun		2
+apr		2
+feb		2
+oct		2
+jul		2
+price		1
+month		1
+mid		1

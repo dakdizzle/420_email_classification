@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+vince		2
+jx		1
+risk		1
+memo		1
+pstjeff		1
+enterprise	1
+management	1
+wide		1
+filename	1
+vkamins		1
+kaminski	1

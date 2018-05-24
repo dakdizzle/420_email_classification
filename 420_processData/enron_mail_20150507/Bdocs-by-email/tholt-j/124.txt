@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+thank		1
+well		1
+steve		1
+contact		1
+tell		1

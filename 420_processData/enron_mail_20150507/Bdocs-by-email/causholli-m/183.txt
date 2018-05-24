@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+travel		1
+enron		1
+causholli	1
+name		1
+margaret	1
+visa		1
+monika		1
+still		1
+hi		1
+thanks		1

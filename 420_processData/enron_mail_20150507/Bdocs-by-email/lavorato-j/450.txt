@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+demand		1
+supply		1
+updated		1
+look		1
+analysis	1
+john		1
+forward		1

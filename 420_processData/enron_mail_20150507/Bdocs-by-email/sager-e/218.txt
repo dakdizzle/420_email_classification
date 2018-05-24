@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+per		1
+fyi		1
+dire		1
+attending	1
+christian	1
+request		1

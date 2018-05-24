@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+forms		1
+receipt		1
+received	1
+bill		1
+phillip		1
+confirm		1

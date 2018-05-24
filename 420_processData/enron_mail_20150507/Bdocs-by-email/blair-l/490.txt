@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+thanks		2
+lynn		1
+posted		1
+tammy		1
+dead		1
+please		1
+update		1
+wed		1
+keep		1
+line		1
+going		1
+meet		1

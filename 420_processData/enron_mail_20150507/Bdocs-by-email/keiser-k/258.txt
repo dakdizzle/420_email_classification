@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+jan		1
+th		1

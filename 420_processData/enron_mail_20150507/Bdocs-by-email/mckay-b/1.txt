@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+brad		1
+map		1
+asap		1
+john		1
+one		1
+want		1
+mckay		1
+similar		1
+thanks		1

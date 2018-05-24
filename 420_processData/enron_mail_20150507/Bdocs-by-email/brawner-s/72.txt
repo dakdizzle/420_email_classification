@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+share		2
+each		1
+theses		1
+mans		1
+ladies		1
+firends		1
+work		1
+business	1
+thought		1
+world		1
+tend		1
+mails		1

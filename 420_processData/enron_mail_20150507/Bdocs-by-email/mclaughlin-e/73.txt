@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+deal		3
+crude		2
+inland		1
+power		1
+looking		1
+desk		1
+contact		1
+oil		1
+patel		1
+originator	1
+please		1
+sheetal		1
+em		1
+production	1
+new		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+drive		1
+hard		1
+up		1
+infact		1
+drives		1
+install		1
+bt		1
+computer	1
+dell		1
+recognize	1
+go		1
+lose		1
+set		1
+pablo		1

@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+xml		2
+ssf		2
+base		1
+story		1
+html		1
+continues	1
+search		1
+looks		1
+xsl		1
+al		1
+index		1
+birminghamnews	1
+plhttp		1
+sports		1
+auburnfootball	1
+standard	1
+com		1

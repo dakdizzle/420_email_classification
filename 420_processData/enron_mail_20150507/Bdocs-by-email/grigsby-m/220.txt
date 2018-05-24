@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+pipe		1
+risk		1
+working		1
+talent		1
+want		1
+currently	1
+zach		1
+noming		1
+randy		1
+patti		1
+better		1

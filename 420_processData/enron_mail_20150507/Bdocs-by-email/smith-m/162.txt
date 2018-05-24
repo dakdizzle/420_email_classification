@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+care		1
+ina		1
+working		1
+know		1
+taken		1
+currently	1
+definitely	1
+remember	1
+seem		1
+being		1
+sitara		1
+last		1
+access		1
+still		1
+mat		1
+accessible	1
+reports		1

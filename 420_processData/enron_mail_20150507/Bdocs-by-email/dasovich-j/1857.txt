@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+alot		1
+sounds		1
+better		1
+thanks		1

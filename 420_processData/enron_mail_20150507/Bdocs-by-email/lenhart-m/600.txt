@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+grill		1
+picking		1
+sweet		1
+up		1
+start		1
+tab		1
+capital		1

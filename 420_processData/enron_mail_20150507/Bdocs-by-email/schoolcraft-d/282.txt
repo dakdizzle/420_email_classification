@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+sbreen		1
+enron		1
+comtestds	1
+controllers	1
+gas		1
+dl		1
+czn		1
+ets		1
+com		1

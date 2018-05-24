@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+ferc		1
+approved	1
+amendment	1

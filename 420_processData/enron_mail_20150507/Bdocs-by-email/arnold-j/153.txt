@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+together	1
+anymore		1
+risk		1
+best		1
+reduced		1
+numbers		1
+today		1
+even		1
+maybe		1
+don		1
+running		1
+remember	1

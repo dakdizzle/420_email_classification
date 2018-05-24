@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+bridgeline	1
+work		1
+went		1
+joe		1
+yesterday	1

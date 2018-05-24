@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+make		1
+court		1
+know		1
+ya		1
+reserved	1
+sager		1
+see		1
+elizabeth	1
+afternoon	1

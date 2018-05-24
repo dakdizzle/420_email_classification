@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+few		2
+dynegy		1
+meet		1
+alex		1
+see		1
+call		1
+anyway		1
+really		1
+vince		1
+please		1
+sense		1
+makes		1
+sometimes	1
+probably	1
+weeks		1
+months		1
+lunch		1
+wait		1
+next		1

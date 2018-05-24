@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+park		1
+place		1
+until		1
+talk		1
+vacation	1
+ball		1
+julie		1
+thanks		1
+out		1
+kim		1
+linda		1
+possible	1
+holder		1
+back		1
+comes		1
+week		1
+figure		1
+costs		1
+assistants	1
+think		1
+next		1

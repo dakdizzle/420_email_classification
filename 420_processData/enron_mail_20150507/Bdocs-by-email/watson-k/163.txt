@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+laugh		1
+way		1
+funny		1
+make		1
+entertained	1
+yourself	1
+express		1
+wonderful	1
+ha		1
+ily		1
+emails		1
+always		1

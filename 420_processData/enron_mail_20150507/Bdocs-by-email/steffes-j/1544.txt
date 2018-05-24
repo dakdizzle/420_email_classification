@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+wade		1
+recommend	1
+pay		1
+petition	1
+one		1
+bottom		1
+mail		1
+earlier		1
+pre		1
+wire		1
+instructions	1
+thanks		1

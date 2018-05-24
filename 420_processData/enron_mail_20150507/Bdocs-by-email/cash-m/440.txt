@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+entity		1
+choice		1
+jon		1
+michelle	1
+officer		1
+perfect		1

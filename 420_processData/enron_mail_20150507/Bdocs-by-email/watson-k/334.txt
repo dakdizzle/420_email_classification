@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+status		1
+power		1
+partnering	1
+pg		1
+plants		1
+kim		1
+conversations	1
+serve		1
+calif		1
+possible	1
+line		1
+michelle	1
+joint		1

@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+gnemec		2
+cn		2
+pstattached	1
+revised		1
+exhibit		1
+know		1
+recipients	1
+restate		1
+filename	1
+na		1
+amended		1
+confirm		1
+privileged	1
+points		1
+two		1
+non		1
+enron		1
+torch		1
+nemec		1
+questions	1
+more		1
+ou		1
+gerald		1
+add		1

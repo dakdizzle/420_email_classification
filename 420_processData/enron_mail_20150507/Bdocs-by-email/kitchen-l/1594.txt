@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+lkitchen	2
+cn		2
+kitchen		1
+offering	1
+louise		1
+recipients	1
+filename	1
+na		1
+privileged	1
+psti		1
+non		1
+enron		1
+whta		1
+understand	1
+ou		1
+don		1

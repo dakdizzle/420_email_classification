@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+resigned	1
+retirement	1
+jeff		1
+ya		1
+impact		1
+martin		1
+speech		1
+sager		1
+tonightelizabeth	1
+see		1
+skilling	1
+think		1

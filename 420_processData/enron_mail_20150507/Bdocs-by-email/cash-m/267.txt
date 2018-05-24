@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+revised		1
+michelle	1
+once		1
+agreement	1
+receive		1

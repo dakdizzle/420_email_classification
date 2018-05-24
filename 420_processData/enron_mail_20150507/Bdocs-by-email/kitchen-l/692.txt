@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+people		2
+event		1
+power		1
+speak		1
+ena		1
+understanding	1
+ask		1
+gas		1
+mean		1
+something	1
+tours		1
+hosting		1
+role		1
+give		1
+request		1
+play		1

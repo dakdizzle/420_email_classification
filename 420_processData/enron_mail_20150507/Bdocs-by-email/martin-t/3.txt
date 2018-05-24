@@ -1,0 +1,14 @@
+NumWords	19
+NumTerms	11
+
+cn		4
+buss		2
+enron		2
+recipients	2
+ou		2
+na		2
+morris		1
+larubbio	1
+jeremy		1
+jd		1
+mlarubbi	1

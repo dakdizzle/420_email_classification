@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+laurie		1
+susan		1
+thanks		1

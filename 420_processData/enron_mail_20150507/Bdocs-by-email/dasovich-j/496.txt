@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+dwr		1
+meeting		1
+dsl		1
+jeff		1
+best		1
+tip		1
+ms		1
+week		1
+looks		1
+thanks		1

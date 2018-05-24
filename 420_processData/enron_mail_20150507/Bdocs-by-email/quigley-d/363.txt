@@ -1,0 +1,13 @@
+NumWords	13
+NumTerms	10
+
+bid		2
+buy		2
+offer		2
+sellwe		1
+sell		1
+price		1
+depending	1
+data		1
+trade		1
+eol		1

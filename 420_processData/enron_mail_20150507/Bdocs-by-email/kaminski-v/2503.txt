@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+september	2
+vkamins		2
+vince		2
+cn		2
+between		1
+greg		1
+friday		1
+recipients	1
+th		1
+trip		1
+filename	1
+na		1
+worked		1
+rd		1
+schedule	1
+better		1
+privileged	1
+non		1
+enron		1
+shooting	1
+sometimes	1
+ou		1
+pstliz		1
+kaminski	1

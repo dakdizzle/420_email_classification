@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+hr		1
+harry		1
+melodick	1
+transfer	1
+coordinate	1
+wholesale	1
+trading		1
+getting		1

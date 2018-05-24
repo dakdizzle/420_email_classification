@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+realize		1
+day		1
+good		1
+up		1
+friday		1
+sorry		1
+weeks		1
+hook		1
+couple		1
+took		1
+next		1
+didn		1

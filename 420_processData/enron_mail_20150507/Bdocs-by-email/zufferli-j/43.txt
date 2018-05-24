@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+lifted		1
+night		1
+last		1

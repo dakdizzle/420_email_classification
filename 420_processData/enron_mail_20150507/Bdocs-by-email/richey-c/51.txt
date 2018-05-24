@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+xmas		1
+recommended	1
+store		1
+mom		1
+name		1
+ask		1
+thx		1
+before		1
+upholstery	1

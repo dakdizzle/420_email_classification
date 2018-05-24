@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+lazy		1
+already		1
+went		1

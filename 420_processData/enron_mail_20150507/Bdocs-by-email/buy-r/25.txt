@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+around		1
+time		1
+rick		1
+weekend		1
+spend		1
+happy		1
+need		1

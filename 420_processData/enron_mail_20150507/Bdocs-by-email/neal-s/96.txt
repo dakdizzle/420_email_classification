@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+story		1
+escotty		1
+philly		1

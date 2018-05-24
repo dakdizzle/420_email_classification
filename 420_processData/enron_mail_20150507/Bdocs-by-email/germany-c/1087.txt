@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+won		1
+going		1
+need		1
+guess		1
+movie		1
+woman		1
+tonight		1

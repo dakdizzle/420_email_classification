@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+kelting		1
+tricoastdoug	1
+love		1
+ext		1

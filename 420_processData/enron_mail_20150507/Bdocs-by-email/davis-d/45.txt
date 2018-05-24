@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+time		2
+dana		1
+email		1
+return		1
+now		1
+call		1
+out		1
+davis		1
+stepping	1
+right		1
+conference	1
+lunch		1
+give		1

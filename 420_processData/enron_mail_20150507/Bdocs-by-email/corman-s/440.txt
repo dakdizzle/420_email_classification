@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+plan		1
+time		1
+express		1
+american	1
+personal	1
+use		1
+continue	1

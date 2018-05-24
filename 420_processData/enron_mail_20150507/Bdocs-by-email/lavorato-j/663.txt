@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+vernon		1
+yahoo		1
+yes		1
+clayton		1

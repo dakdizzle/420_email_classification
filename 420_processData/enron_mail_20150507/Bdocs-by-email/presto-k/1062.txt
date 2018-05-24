@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+presto		1
+day		1
+designation	1
+calc		1
+thomas		1
+hourly		1
+kpresto		1
+comx		1
+ld		1
+filename	1
+privileged	1
+kx		1
+non		1
+peak		1
+enron		1
+eliminate	1
+index		1
+pstthe		1
+origin		1
+damages		1
+need		1

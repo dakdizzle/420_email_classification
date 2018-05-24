@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+value		2
+base		1
+make		1
+restructuring	1
+incremental	1
+agree		1
+know		1
+decision	1
+deal		1
+current		1
+don		1

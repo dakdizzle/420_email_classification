@@ -1,0 +1,21 @@
+NumWords	22
+NumTerms	18
+
+cuilla		2
+privileged	2
+mcuilla		2
+non		2
+text		1
+martin		1
+plain		1
+filename	1
+folder		1
+pst		1
+asciix		1
+content		1
+sent		1
+type		1
+mx		1
+origin		1
+itemsx		1
+charset		1

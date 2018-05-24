@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+pg		2
+index		1
+gas		1
+mapped		1
+daily		1
+large		1
+pkgs		1
+topock		1

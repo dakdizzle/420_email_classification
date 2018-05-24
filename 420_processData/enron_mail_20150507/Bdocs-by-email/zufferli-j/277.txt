@@ -1,0 +1,10 @@
+NumWords	9
+NumTerms	7
+
+cisson		2
+deal		2
+seen		1
+telus		1
+haven		1
+tonight		1
+appear		1

@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+scott		2
+neal		2
+amanda		2
+discuss		1
+monday		1
+together	1
+location	1
+rybarski	1
+comx		1
+businessincluding	1
+startup		1
+etc		1
+responsibilities	1
+filename	1
+thanks		1
+points		1
+products	1
+notify		1
+psti		1
+enron		1
+february	1
+origin		1
+sx		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+rolled		1
+boys		1
+night		1
+sat		1
+ready		1

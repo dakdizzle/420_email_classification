@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+received	1
+dossier		1
+haven		1

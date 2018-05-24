@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+floorplan	1
+good		1
+clubhouse	1
+foundation	1
+update		1
+design		1
+looks		1
+thanks		1

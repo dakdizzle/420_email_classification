@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+soon		2
+hear		1
+greg		1
+hey		1
+cooper		1
+client		1
+handing		1
+etc		1
+piece		1
+sorry		1
+involved	1
+feed		1
+excel		1
+better		1
+done		1
+hope		1
+possible	1
+sick		1
+feel		1
+d		1
+eol		1
+colin		1
+development	1
+over		1

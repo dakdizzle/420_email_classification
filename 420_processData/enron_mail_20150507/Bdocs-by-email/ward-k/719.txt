@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+wine		1
+evening		1
+friday		1
+spend		1
+leave		1
+definitely	1
+sunday		1
+afternoon	1
+miles		1
+come		1
+thursday	1
+think		1
+country		1

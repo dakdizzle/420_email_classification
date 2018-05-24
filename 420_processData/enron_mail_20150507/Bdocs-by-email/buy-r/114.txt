@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+meeting		1
+ruler		1
+know		1
+buy		1
+richard		1

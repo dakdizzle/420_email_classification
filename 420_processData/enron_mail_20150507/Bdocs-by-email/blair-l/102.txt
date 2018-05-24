@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lynn		1
+glen		1
+done		1
+working		1
+jean		1
+today		1
+computer	1
+still		1
+thanks		1

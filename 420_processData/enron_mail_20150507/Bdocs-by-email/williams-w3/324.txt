@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+want		2
+going		2
+taking		1
+coming		1
+thing		1
+grab		1
+information	1
+find		1
+yo		1
+meet		1
+anything	1
+out		1
+interviews	1
+pens		1
+good		1
+look		1
+yeah		1
+show		1
+go		1
+need		1
+week		1
+b		1
+lunch		1
+over		1

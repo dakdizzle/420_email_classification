@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+lynn		2
+status		1
+hear		1
+pstjohn		1
+lblair		1
+karen		1
+filename	1
+thanks		1
+privileged	1
+sunflowerpoint	1
+non		1
+ucu		1
+waiting		1
+agreement	1
+still		1
+blairx		1

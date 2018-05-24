@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lousy		1
+way		1
+cant		1
+friend		1
+go		1
+today		1
+sorry		1
+msg		1

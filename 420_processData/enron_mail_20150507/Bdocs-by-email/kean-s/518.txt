@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+know		2
+little		1
+showing		1
+thing		1
+relations	1
+john		1
+dealt		1
+leave		1
+ken		1
+personally	1
+looks		1
+better		1
+point		1
+employee	1
+technically	1
+agree		1
+kind		1
+before		1
+issue		1

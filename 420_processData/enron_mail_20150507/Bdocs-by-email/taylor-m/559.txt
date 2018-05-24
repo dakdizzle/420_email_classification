@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+everything	1
+wording		1
+trevor		1
+exact		1
+transfer	1
+concerning	1
+red		1
+tnrcc		1
+put		1
+good		1
+changes		1
+change		1
+made		1
+looked		1
+website		1

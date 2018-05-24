@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+ny		1
+management	1
+business	1
+mtg		1

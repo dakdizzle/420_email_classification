@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+steffes		1
+version		1
+lazier		1
+shapiro		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+value		1
+pl		1
+empire		1
+file		1
+excel		1
+here		1

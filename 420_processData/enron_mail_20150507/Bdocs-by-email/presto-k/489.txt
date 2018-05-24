@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+house		1
+drinks		1

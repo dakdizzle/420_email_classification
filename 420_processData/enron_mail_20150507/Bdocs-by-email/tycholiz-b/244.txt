@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+agree		1
+received	1
+doc		1
+review		1
+bt		1

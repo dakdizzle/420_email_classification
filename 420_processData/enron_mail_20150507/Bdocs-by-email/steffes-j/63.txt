@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+please		1
+becky		1
+guillermo	1
+keep		1
+loop		1
+thx		1
+melinda		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+estimated	1
+spend		1
+d		1
+million		1
+capital		1
+rock		1
+red		1

@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+dasovich	2
+cn		2
+jeff		2
+ca		1
+california	1
+jdasovic	1
+street		1
+recipients	1
+suite		1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+dasovichenron	1
+pstjeff		1
+ou		1
+corp		1
+san		1
+francisco	1

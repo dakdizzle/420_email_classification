@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+much		1
+day		1
+great		1
+th		1
+sounds		1
+week		1
+thanks		1

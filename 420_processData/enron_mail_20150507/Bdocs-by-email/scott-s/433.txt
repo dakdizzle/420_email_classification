@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+evidently	1
+few		1
+select		1

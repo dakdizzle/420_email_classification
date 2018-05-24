@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+up		1
+desk		1
+guess		1
+file		1
+east		1
+soon		1
+sharing		1
+turn		1
+back		1
+contract	1
+one		1
+need		1
+set		1
+expires		1
+very		1

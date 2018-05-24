@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+offer		2
+three		2
+weekends	2
+group		1
+open		1
+travel		1
+incase		1
+steer		1
+thanksgiving	1
+thanks		1
+kim		1
+m		1
+during		1
+decide		1
+dates		1
+clear		1
+want		1
+gormet		1
+week		1
+november	1
+didn		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+apologies	1
+vince		1
+brain		1
+aging		1
+jana		1
+fast		1
+problem		1

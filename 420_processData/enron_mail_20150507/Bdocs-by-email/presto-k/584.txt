@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+group		1
+morning		1
+demand		1
+totally		1
+risk		1
+forecast	1
+sheet		1
+report		1
+fine		1
+curve		1
+diagree		1
+give		1

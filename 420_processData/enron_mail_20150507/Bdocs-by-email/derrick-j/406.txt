@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+jim		2
+joel		1
+best		1
+thank		1
+derrick		1
+feedback	1

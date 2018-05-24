@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cn		2
+dl		2
+burns		1
+up		1
+controllers	1
+gas		1
+plant		1
+contact		1
+recipients	1
+na		1
+see		1
+ds		1
+enron		1
+come		1
+etsgascontrollers	1
+scheduled	1
+ou		1
+ets		1
+hours		1

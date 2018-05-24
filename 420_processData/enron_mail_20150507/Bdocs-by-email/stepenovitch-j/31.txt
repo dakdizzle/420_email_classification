@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+come		2
+hey		1
+virginia	1
+baseball	1
+gave		1
+compliment	1
+today		1
+trip		1
+shirt		1
+thanks		1
+way		1
+enron		1
+back		1
+save		1
+one		1
+wheel		1
+everyone	1
+tickets		1
+game		1
+big		1

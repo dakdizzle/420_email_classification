@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+working		2
+speakers	2
+terrie		1
+motivational	1
+theme		1
+looking		1
+today		1
+grandiose	1
+management	1
+ken		1
+etc		1
+worth		1
+around		1
+restoring	1
+less		1
+overcoming	1
+james		1
+confidence	1
+more		1
+committee	1
+adversity	1
+discussing	1

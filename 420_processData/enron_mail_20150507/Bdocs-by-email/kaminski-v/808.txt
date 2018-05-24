@@ -1,0 +1,27 @@
+NumWords	29
+NumTerms	24
+
+enron		3
+com		3
+vince		2
+participants	1
+mark		1
+joseph		1
+friday		1
+sending		1
+tawney		1
+pstpaul		1
+ofthe		1
+filename	1
+vkamins		1
+call		1
+hrgovcic	1
+jx		1
+claudio		1
+promised	1
+ribeiro		1
+howard		1
+mail		1
+conference	1
+addresses	1
+kaminski	1

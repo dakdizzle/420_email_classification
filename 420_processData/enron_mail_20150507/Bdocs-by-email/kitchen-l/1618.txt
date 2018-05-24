@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+addition	1
+officerenron	1
+somewhere	1
+good		1
+fax		1
+americastel	1
+operating	1
+louise		1
+kitchenchief	1
+thoughts	1

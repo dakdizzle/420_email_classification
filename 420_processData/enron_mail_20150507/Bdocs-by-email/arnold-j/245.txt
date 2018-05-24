@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+good		1
+baseball	1
+want		1
+four		1
+anybody		1
+game		1
+tix		1
+tonight		1

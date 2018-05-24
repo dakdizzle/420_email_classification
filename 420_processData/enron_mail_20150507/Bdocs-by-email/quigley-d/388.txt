@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+email		1
+meeting		1
+until		1
+wednesday	1
+hour		1
+meet		1
+dutch		1
+laura		1
+sent		1
+monica		1
+tomorrow	1
+change		1
+more		1

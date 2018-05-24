@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+anything	1
+socal		1
+know		1
+injected	1
+need		1
+yesterday	1

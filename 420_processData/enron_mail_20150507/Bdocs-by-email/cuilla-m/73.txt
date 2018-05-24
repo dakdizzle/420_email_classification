@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+self		2
+net		1
+know		1
+games		1
+dale		1
+won		1
+skeeball	1
+respect		1
+juice		1
+headed		1
+kickin		1
+bought		1
+sagarin		1
+btw		1
+bitch		1
+game		1
+think		1
+ass		1

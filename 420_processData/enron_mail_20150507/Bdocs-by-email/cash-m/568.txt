@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+livelink	1
+again		1
+simone		1

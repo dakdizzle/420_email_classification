@@ -1,0 +1,20 @@
+NumWords	36
+NumTerms	17
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+mbotell		1
+steve		1
+skleb		1
+jan		1
+moore		1
+botello		1
+weitekamp	1
+jweitek		1
+kleb		1
+mary		1
+james		1
+jmoore		1

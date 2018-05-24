@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+happens		1
+day		1
+rto		1
+howard		1
+one		1
+ahead		1
+market		1
+doesn		1

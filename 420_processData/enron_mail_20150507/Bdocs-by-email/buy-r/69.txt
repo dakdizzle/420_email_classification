@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+commercial	3
+limits		1
+mentioned	1
+ie		1
+customers	1
+power		1
+interesty	1
+cronin		1
+today		1
+requested	1
+call		1
+people		1
+medium		1
+rick		1
+bill		1
+before		1
+large		1
+deal		1
+thoughts	1
+new		1
+took		1

@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+mark		2
+banking		1
+wachovia	1
+investment	1
+schindler	1
+securitiescorporate	1
+com		1
+schindlerdirectorwachovia	1

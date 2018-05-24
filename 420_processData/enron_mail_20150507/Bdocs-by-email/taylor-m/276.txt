@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+aquilla		1
+confirms	1
+more		1
+agreement	1
+here		1

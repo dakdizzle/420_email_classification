@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+time		2
+houston		2
+call		2
+affairs		1
+monday		1
+those		1
+pm		1
+company		1
+know		1
+wednesday	1
+government	1
+anything	1
+less		1
+jeff		1
+best		1
+more		1
+wide		1

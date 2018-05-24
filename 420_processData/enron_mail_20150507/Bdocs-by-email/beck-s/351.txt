@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+send		1
+valdez		1
+travel		1
+things		1
+recipients	1
+cvaldez		1
+na		1
+christina	1
+enron		1
+sally		1
+ou		1
+agency		1

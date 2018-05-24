@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+com		3
+brian		1
+wollam		1
+meat		1
+houston		1
+mouth		1
+commade		1
+brianc		1
+around		1
+erwollam	1
+knipe		1
+msn		1
+constantine	1
+jparks		1
+hotmail		1
+saltgrass	1
+rr		1
+erik		1

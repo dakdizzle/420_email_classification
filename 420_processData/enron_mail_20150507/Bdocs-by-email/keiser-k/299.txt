@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+group		2
+susan		2
+assume		1
+up		1
+john		1
+know		1
+ones		1
+today		1
+now		1
+person		1
+valdes		1
+someone		1
+books		1
+take		1
+please		1
+thankskam	1
+understand	1
+shona		1
+myself		1
+set		1
+instructions	1
+new		1
+ll		1
+over		1

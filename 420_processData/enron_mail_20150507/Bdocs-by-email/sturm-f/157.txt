@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+heard		2
+down		1
+know		1
+smith		1
+don		1
+gilbert		1
+here		1

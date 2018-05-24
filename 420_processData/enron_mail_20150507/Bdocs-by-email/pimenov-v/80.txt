@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+vpimenov	2
+cn		2
+much		1
+thank		1
+recipients	1
+pstfranky	1
+filename	1
+na		1
+pimenov		1
+privileged	1
+non		1
+enron		1
+ou		1
+king		1
+very		1
+vladi		1

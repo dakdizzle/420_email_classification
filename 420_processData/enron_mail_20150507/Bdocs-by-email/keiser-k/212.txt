@@ -1,0 +1,22 @@
+NumWords	24
+NumTerms	19
+
+kam		3
+cn		2
+book		2
+keiser		2
+deals		1
+recipients	1
+fix		1
+performance	1
+filename	1
+na		1
+unable		1
+kkeiser		1
+done		1
+enron		1
+sitara		1
+ou		1
+still		1
+needs		1
+pstsusan	1

@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+andy		2
+cn		2
+zipper		2
+psti		1
+agree		1
+enron		1
+azipper		1
+kal		1
+recipients	1
+ou		1
+filename	1
+na		1

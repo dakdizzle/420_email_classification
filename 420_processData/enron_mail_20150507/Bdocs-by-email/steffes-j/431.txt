@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+put		1
+linda		1
+travel		1
+during		1
+please		1
+go		1
+houston		1
+town		1
+period		1
+thanks		1
+calendar	1

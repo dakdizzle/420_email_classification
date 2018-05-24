@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+vince		1
+results		1
+sevaluation	1
+martin		1
+advise		1
+anita		1
+wait		1
+everybody	1

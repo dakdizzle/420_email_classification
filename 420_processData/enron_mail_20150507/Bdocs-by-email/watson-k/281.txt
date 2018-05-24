@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+steve		1
+draft		1
+pemex		1
+here		1

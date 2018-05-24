@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+prefer		2
+bulkhead	1
+seats		1
+two		1
+aisle		1
+center		1
+one		1
+configuration	1

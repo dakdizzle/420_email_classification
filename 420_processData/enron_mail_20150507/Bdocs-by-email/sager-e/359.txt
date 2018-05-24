@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+sam		1
+know		1
+sounds		1
+ella		1
+seeing		1
+babysitter	1
+anything	1
+great		1
+lucy		1
+forward		1
+need		1
+everyone	1
+hilooking	1

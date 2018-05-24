@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+point		1
+cant		1
+trade		1
+whats		1

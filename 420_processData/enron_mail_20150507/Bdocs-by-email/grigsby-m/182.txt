@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+first		1
+good		1
+calc		1
+newcurrentday	1
+monte		1
+estimate	1
+book		1
+mike		1
+submit		1
+sounds		1
+prepare		1
+okay		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+gillettehouston	1
+tx		1
+quigley		1
+henry		1

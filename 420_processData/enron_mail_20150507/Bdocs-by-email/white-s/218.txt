@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+running		2
+shortly		1
+complete	1
+stacey		1
+ids		1
+dahlke		1
+now		1
+andrea		1
+approximately	1
+post		1
+seeing		1
+books		1
+take		1
+call		1
+morning		1
+dentist		1
+bankruptcy	1
+right		1
+appointment	1
+back		1
+numbers		1
+minutes		1

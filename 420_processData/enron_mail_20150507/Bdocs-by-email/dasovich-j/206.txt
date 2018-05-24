@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+story		1
+letters		1
+copy		1
+steve		1
+legal		1
+recipients	1
+referenced	1
+na		1
+enron		1
+shall		1
+hall		1
+ou		1

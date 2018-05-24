@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+volumes		2
+rebooked	1
+send		1
+please		1
+reduced		1
+rebook		1
+mike		1
+orig		1
+thanks		1

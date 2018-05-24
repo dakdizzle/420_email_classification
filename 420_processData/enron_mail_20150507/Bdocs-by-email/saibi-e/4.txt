@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+tva		2
+load		2
+powerdat	1
+case		1
+mix		1
+region		1
+far		1
+top		1
+enjoy		1
+utility		1
+understand	1
+gotten		1
+don		1
+res		1
+haven		1
+southern	1
+com		1
+here		1

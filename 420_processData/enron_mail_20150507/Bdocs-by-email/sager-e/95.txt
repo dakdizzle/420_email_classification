@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+petition	2
+post		2
+invoice		1
+power		1
+billare		1
+paid		1
+pg		1
+call		1
+right		1
+receivable	1
+talking		1
+canadian	1
+understand	1
+sager		1
+chance		1
+elizabeth	1
+give		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+lessons		1
+need		1
+driving		1

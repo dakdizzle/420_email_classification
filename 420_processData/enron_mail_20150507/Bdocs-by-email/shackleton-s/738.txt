@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+sshackl		2
+cn		2
+infor		1
+shackleton	1
+tana		1
+recipients	1
+updating	1
+filename	1
+na		1
+privileged	1
+transition	1
+contracts	1
+non		1
+enron		1
+global		1
+lotus		1
+pststephanie	1
+sara		1
+ou		1
+stephanie	1
+notes		1
+verifying	1
+here		1

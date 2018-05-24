@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+thursday	2
+friday		1
+johnny		1
+night		1
+session		1
+town		1
+chris		1
+playstation	1
+next		1

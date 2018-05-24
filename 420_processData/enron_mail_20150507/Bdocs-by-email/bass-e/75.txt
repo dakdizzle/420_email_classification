@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+honeymoon	1
+booked		1

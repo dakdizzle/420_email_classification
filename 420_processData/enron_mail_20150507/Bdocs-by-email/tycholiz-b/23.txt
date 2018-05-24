@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+misstackes	1
+wile		1
+evn		1
+track		1
+ability		1
+details		1
+ounce		1
+mak		1
+tuned		1
+thanks		1
+stay		1
+down		1
+check		1
+please		1
+disregard	1
+more		1
+comments	1
+spell		1

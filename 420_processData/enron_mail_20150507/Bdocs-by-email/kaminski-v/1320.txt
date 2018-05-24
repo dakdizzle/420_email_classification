@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+ec		1
+harvard		1
+fas		1
+http		1
+edu		1
+stoft		1
+www		1
+pdf		1
+cal		1
+hoganhandouta	1
+icg		1
+index		1
+lectures	1
+shtmlhttp	1
+com		1

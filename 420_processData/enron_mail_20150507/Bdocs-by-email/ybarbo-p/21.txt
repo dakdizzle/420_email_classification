@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+front		2
+meet		2
+building	2
+enron		2
+paul		1
+near		1
+ramona		1
+na		1
+barbo		1
+good		1
+enroncc		1
+amto		1
+rodriguez	1
+go		1
+want		1
+subject		1
+treebeards	1
+maybe		1
+perfect		1
+fountain	1
+hi		1
+enronxgate	1
+ll		1

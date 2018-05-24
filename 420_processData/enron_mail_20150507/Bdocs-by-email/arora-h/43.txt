@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+price		2
+toll		1
+make		1
+john		1
+masondid	1
+harry		1
+llodra		1
+rob		1
+finalilze	1
+anp		1
+give		1
+call		1

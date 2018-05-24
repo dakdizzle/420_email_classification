@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+july		1
+th		1
+week		1
+lunch		1
+unbelievable	1
+call		1
+thanks		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+discuss		1
+kim		1
+picture		1
+pipe		1
+fyi		1
+tiny		1
+lindy		1
+question	1
+ownership	1
+thanks		1
+call		1

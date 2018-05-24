@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+morning		1
+email		1
+list		1
+possible	1
+meetings	1
+questions	1
+tomorrow	1
+need		1
+still		1

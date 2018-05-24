@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+zipper		2
+andy		2
+cn		2
+receipt		1
+vector		1
+azipper		1
+recipients	1
+major		1
+filename	1
+na		1
+points		1
+good		1
+pstlooks	1
+enron		1
+ou		1
+delivery	1

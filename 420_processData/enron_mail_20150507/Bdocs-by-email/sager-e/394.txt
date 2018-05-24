@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+monday		1
+yuck		1
+up		1
+know		1
+cancelled	1
+hearing		1
+now		1
+tuesday		1
+call		1
+airport		1
+way		1
+m		1
+instead		1
+right		1
+come		1
+more		1
+scheduled	1
+rescheduled	1
+notified	1
+sager		1
+elizabeth	1
+ll		1

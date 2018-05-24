@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+drive		1
+place		1
+please		1
+traders		1
+access		1

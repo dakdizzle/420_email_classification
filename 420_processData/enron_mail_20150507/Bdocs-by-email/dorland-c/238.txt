@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+come		1
+helped		1
+sending		1
+ledge		1
+bullish		1
+thanx		1
+reports		1

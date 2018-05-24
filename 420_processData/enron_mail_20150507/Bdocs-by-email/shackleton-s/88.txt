@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+sara		1
+response	1
+christian	1
+pat		1
+think		1

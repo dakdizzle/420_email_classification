@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+susan		2
+thing		1
+hey		1
+scott		1
+know		1
+ask		1
+besides		1
+margaret	1
+even		1
+someone		1
+names		1
+ted		1
+confused	1
+recognize	1
+guy		1
+one		1
+again		1
+d		1
+thought		1

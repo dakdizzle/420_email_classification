@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+mark		1
+please		1
+fletch		1
+thanks		1
+calendar	1

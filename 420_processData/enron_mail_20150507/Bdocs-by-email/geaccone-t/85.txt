@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+clean		1
+believe		1
+received	1
+fuels		1
+hpl		1

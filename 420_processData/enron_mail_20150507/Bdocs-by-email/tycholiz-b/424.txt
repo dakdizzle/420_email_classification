@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+until		1
+bt		1
+move		1
+installed	1
+thanks		1

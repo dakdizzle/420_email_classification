@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+objection	1
+many		1
+rick		1
+meetings	1
+attending	1
+assuming	1
+yes		1
+already		1
+thought		1
+don		1
+confused	1

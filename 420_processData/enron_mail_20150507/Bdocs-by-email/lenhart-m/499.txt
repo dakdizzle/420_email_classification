@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+go		1
+weekend		1
+shit		1
+florida		1
+pants		1

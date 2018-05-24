@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+knox		2
+carrin		1
+case		1
+between		1
+thinks		1
+talk		1
+attys		1
+person		1
+million		1
+neal		1
+closer		1
+settlement	1
+gets		1
+enormous	1
+again		1
+going		1
+probably	1
+business	1
+fees		1

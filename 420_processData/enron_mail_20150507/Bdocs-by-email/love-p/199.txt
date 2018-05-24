@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+news		2
+hou		1
+click		1
+html		1
+http		1
+houston		1
+www		1
+stories		1
+com		1

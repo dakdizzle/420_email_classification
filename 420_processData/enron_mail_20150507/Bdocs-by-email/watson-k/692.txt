@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+pm		1
+today		1
+fine		1

@@ -1,0 +1,16 @@
+NumWords	17
+NumTerms	13
+
+june		4
+july		2
+scott		1
+helpful		1
+except		1
+thank		1
+know		1
+days		1
+following	1
+anything	1
+hope		1
+changes		1
+available	1

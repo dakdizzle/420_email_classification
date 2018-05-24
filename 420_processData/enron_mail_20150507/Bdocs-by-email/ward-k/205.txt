@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+really		2
+possibly	1
+heard		1
+make		1
+stipulation	1
+worst		1
+see		1
+never		1
+apes		1
+movies		1
+seem		1
+go		1
+one		1
+made		1
+planet		1
+going		1
+movie		1
+bad		1
+though		1
+don		1
+love		1

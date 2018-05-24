@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+product		3
+aeco		1
+list		1
+basis		1
+please		1
+thank		1
+canadian	1
+currently	1
+stephanie	1
+access		1
+add		1

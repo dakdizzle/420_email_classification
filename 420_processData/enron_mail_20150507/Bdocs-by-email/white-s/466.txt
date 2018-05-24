@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+through		2
+expenses	1
+runs		1
+non		1
+accounting	1
+stacey		1
+go		1
+dpr		1
+unless		1
+area		1
+trading		1

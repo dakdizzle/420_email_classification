@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+register	1
+dinner		1
+hospital	1
+ok		1
+possible	1
+tomorrow	1
+night		1
+thur		1
+suzanne		1
+having		1
+tonight		1
+think		1

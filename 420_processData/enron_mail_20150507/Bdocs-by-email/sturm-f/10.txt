@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+pm		1
+place		1
+name		1
+yes		1
+fletch		1
+thanks		1

@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+mappings	2
+send		1
+complete	1
+until		1
+risk		1
+few		1
+gas		1
+exact		1
+daily		1
+names		1
+morning		1
+asap		1
+list		1
+type		1
+thankskam	1
+changes		1
+h		1
+column		1
+made		1
+more		1
+columns		1
+e		1
+wait		1

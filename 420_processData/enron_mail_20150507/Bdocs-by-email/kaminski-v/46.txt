@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+first		1
+vince		1
+day		1
+days		1
+few		1
+february	1
+last		1
+jesus		1
+st		1

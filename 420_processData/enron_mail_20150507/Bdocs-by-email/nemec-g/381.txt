@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+life		1
+aep		1
+join		1
+attorneys	1
+cook		1
+mr		1
+same		1
+still		1
+minus		1
+big		1
+decided		1

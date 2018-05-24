@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+chance		2
+send		1
+day		1
+fax		1
+mccarroll	1
+rank		1
+final		1
+zack		1
+rankings	1
+thanks		1
+please		1
+mike		1
+over		1

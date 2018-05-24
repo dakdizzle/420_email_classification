@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+ve		2
+pipes		1
+information	1
+know		1
+sorry		1
+help		1
+relevant	1
+anything	1
+forwarded	1
+kriste		1
+list		1
+realized	1
+myself		1
+michelle	1
+looked		1
+don		1
+sharon		1
+over		1
+ann		1

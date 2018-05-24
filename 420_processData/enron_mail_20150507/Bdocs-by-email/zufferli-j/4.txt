@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+list		1
+davies		1
+eric		1
+derek		1
+current		1
+ledain		1
+request		1

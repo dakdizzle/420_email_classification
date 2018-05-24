@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+yield		2
+wouldn		1
+treasury	1
+phillip		1
+money		1
+paying		1
+effective	1
+muni		1
+achieve		1
+isn		1
+maturity	1
+taxable		1
+move		1
+average		1
+date		1
+expecting	1

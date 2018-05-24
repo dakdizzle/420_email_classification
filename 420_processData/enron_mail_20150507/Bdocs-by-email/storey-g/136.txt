@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+presto		1
+others		1
+power		1
+sempra		1
+atm		1
+phone		1
+rings		1
+hook		1
+kinder		1
+cause		1
+advice		1
+anybody		1
+ringing		1
+doing		1
+refusing	1

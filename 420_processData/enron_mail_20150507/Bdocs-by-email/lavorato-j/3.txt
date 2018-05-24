@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+guys		2
+hell		2
+name		1
+canada		1
+joooohhhn	1
+hack		1
+call		1
+lavorato	1
+m		1
+enron		1
+tarona		1
+still		1
+hi		1

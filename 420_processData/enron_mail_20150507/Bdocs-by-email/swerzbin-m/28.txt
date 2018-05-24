@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+day		1
+portland	1
+answer		1
+worked		1
+lot		1
+thanks		1
+stay		1
+miss		1
+way		1
+really		1
+good		1
+come		1
+best		1
+back		1
+touch		1
+want		1
+quickly		1
+work		1
+appreicated	1
+ll		1
+always		1

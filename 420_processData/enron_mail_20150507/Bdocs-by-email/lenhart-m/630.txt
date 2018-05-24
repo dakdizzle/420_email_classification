@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+home		1
+deminsion	1
+name		1
+book		1
+told		1
+fine		1
+th		1

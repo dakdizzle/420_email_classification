@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+each		1
+something	1
+hear		1
+merger		1
+day		1
+down		1
+volumes		1
+clue		1
+still		1
+new		1

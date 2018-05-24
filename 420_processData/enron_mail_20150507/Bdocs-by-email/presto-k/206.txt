@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+pay		1
+garage		1
+extra		1
+new		1
+ll		1

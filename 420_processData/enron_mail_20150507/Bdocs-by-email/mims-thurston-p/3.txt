@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+send		1
+hey		1
+fax		1
+jimbo		1
+try		1
+number		1
+thanks		1
+morning		1
+soon		1
+sent		1
+good		1
+contracts	1
+real		1
+please		1
+going		1
+address		1
+sometime	1

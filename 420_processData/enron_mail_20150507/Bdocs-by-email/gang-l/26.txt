@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+sort		1
+yeah		1
+again		1
+want		1
+chicken		1
+think		1
+orange		1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+bullets		2
+finish		1
+friday		1
+tk		1
+draft		1
+ready		1
+audrey		1
+thanks		1
+morning		1
+kim		1
+tomorrow	1
+forward		1
+coordinate	1
+next		1

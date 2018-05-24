@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+phone		2
+home		1
+greatly		1
+send		1
+cell		1
+please		1
+change		1
+appreciate	1
+everybody	1
+kimberlycould	1
+vladi		1

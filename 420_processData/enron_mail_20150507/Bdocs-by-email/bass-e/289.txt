@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+back		1
+pay		1
+buy		1
+want		1
+telling		1

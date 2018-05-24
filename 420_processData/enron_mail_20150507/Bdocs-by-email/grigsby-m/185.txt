@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+desk		2
+discuss		1
+minute		1
+come		1
+please		1
+west		1
+mike		1
+role		1

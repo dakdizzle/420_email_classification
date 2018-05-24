@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+premierpumpcompany	1
+attbi		1
+com		1

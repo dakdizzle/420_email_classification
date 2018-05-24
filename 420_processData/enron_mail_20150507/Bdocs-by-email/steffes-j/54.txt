@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+fine		1
+same		1
+here		1

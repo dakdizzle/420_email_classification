@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+party		1
+hull		1
+passing		1
+asleep		1
+wouldn		1
+know		1
+fall		1
+problem		1
+out		1
+anyway		1
+good		1
+called		1
+didn		1

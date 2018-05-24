@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+fat		1
+ass		1

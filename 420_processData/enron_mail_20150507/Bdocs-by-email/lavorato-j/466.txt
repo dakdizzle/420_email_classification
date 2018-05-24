@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+option		1
+stock		1
+assume		1
+calc		1
+john		1
+exerecise	1
+clay		1
+moved		1
+portion		1
+occured		1
+records		1
+amount		1
+calculation	1

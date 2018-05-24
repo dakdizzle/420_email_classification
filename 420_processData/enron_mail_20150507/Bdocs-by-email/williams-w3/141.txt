@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+same		2
+outcome		1
+march		1
+married		1
+girl		1
+supposed	1
+nd		1
+see		1
+kochel		1
+ll		1

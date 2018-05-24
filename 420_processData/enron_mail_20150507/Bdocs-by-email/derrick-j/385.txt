@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+morning		1
+monday		1
+both		1
+night		1
+replied		1
+attend		1
+tuesday		1
+indicating	1

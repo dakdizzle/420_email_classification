@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+make		1
+sport		1
+up		1
+model		1
+one		1
+more		1
+sorry		1
+mind		1

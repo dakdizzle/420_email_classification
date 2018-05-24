@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+dave		1
+thanks		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+buff		1
+clue		1
+movie		1

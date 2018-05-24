@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+short		2
+problems	1
+together	1
+write		1
+time		1
+up		1
+responses	1
+determined	1
+susan		1
+thanks		1
+jim		1
+ve		1
+put		1
+come		1
+please		1
+hr		1
+mid		1
+sign		1
+year		1
+submit		1
+don		1
+here		1

@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+little		1
+met		1
+entrance	1
+up		1
+meet		1
+call		1
+lot		1
+jim		1
+anything	1
+way		1
+people		1
+cell		1
+store		1
+right		1
+enron		1
+less		1
+run		1
+comes		1
+campus		1
+heading		1
+parking		1

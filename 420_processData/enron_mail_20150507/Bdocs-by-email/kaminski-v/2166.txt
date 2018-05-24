@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+updates		1
+gwyn		1
+msg		1
+thanks		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+energycommerce	1
+stacey		1
+layletter	1
+http		1
+letter		1
+wanted		1
+pdf		1
+wasn		1
+gov		1
+house		1
+whole		1
+read		1
+sure		1
+here		1
+news		1

@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+free		2
+reg		2
+gen		2
+option		1
+become		1
+wouldn		1
+tariff		1
+create		1
+options		1
+price		1
+wholesale	1
+physically	1
+markets		1
+example		1
+via		1
+ohio		1
+serve		1
+utility		1
+illinois	1
+goes		1
+below		1
+doesn		1

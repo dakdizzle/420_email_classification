@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+nov		2
+mar		1
+spread		1
+niagara		1
+dawn		1

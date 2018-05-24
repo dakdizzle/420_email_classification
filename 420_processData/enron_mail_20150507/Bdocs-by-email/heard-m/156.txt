@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+roeline		1
+twombly		1
+fax		1
+eric		1
+marie		1
+phone		1
+number		1
+thanks		1

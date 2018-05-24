@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+lkitchen	2
+cn		2
+kitchen		1
+know		1
+louise		1
+recipients	1
+filename	1
+na		1
+pstwas		1
+privileged	1
+down		1
+non		1
+enron		1
+ou		1
+mm		1

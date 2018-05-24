@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+front		2
+porch		2
+went		2
+much		1
+until		1
+leave		1
+stayed		1
+white		1
+out		1
+doesnt		1
+feeling		1
+wouldnt		1
+back		1
+billy		1
+crappy		1
+game		1

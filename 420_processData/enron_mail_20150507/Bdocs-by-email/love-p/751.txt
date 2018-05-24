@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+items		1
+look		1
+pl		1
+know		1
+need		1
+below		1
+help		1
+take		1
+thanks		1

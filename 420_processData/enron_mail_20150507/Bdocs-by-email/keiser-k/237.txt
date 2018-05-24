@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+shopkin		1
+kkeiser		1
+grant		1
+please		1
+book		1
+myself		1
+stephanie	1
+access		1
+hopkins		1
+thanks		1

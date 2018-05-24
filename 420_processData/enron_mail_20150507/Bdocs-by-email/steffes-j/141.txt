@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+much		1
+hear		1
+drive		1
+worried		1
+up		1
+taliban		1
+vocals		1
+pick		1
+sounds		1
+better		1
+jim		1
+rush		1
+wonderful	1
+fm		1
+probably	1
+bunker		1
+didn		1

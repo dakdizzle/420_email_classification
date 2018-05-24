@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hey		1
+stock		1
+thank		1
+peeked		1
+wanted		1

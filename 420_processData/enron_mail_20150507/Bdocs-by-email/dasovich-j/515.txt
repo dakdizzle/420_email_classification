@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+dasovich	2
+jeff		2
+puc		1
+suspension	1
+da		1
+recent		1
+under		1
+submissions	1
+filename	1
+transfer	1
+dasr		1
+privileged	1
+regarding	1
+jx		1
+content		1
+pstfyi		1
+non		1
+encoding	1
+best		1
+utility		1
+origin		1
+bitx		1
+process		1

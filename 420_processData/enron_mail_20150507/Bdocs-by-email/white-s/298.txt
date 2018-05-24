@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+answer		2
+wondering	1
+contacts	1
+stacey		1
+know		1
+back		1
+following	1
+waiting		1
+elizabeth	1
+thanks		1

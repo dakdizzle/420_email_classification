@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+oba		1
+versus		1
+hope		1
+helps		1
+historical	1
+volumes		1
+mojave		1
+scheduled	1
+mike		1
+imbalances	1
+measured	1
+here		1

@@ -1,0 +1,26 @@
+NumWords	28
+NumTerms	23
+
+call		3
+phone		2
+davis		2
+jeff		2
+together	1
+sp		1
+make		1
+ok		1
+talk		1
+never		1
+bet		1
+bill		1
+myself		1
+kind		1
+savier		1
+before		1
+dominion	1
+last		1
+shemin		1
+conference	1
+iris		1
+ruth		1
+always		1

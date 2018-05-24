@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+shawn		2
+party		1
+rep		1
+office		1
+sean		1
+hq		1
+oops		1
+steele		1
+law		1
+here		1

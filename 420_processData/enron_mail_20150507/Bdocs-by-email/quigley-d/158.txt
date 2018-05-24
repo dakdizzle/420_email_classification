@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+breing		1
+alsothat	1
+ok		1
+forgot		1
+under		1
+iron		1
+several		1
+keep		1
+cigars		1
+donei		1
+calm		1
+over		1

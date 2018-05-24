@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+time		1
+invite		1
+know		1
+won		1
+mexico		1
+driving		1
+thanks		1
+way		1
+good		1
+come		1
+back		1
+probably	1
+still		1
+new		1

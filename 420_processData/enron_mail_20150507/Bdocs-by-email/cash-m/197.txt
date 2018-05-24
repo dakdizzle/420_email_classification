@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+please		1
+go		1
+d		1
+calendar	1

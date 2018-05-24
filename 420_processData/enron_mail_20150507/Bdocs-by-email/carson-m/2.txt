@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+seem		1
+base		1
+down		1
+sites		1
+mc		1
+trying		1
+usaf		1
+reasons		1
+security	1
+shut		1

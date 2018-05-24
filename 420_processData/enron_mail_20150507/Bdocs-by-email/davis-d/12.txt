@@ -1,0 +1,10 @@
+NumWords	9
+NumTerms	7
+
+www		2
+org		2
+home		1
+shoreshimministries	1
+cfmhttp		1
+http		1
+perrystone	1

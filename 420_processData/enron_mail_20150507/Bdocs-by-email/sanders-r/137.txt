@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+laziness	1
+cure		1
+unless		1
+week		1
+call		1

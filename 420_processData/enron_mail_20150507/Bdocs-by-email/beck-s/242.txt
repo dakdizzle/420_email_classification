@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+want		2
+attend		2
+plan		1
+informational	1
+sally		1
+review		1
+don		1
+give		1
+presentation	1

@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+barbara		1
+enron		1
+made		1
+recipients	1
+ou		1
+once		1
+already		1
+na		1
+gray		1
+mistake		1
+bgray		1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+livelink	2
+know		1
+ena		1
+http		1
+func		1
+exe		1
+browselet	1
+objaction	1
+objtype		1
+enron		1
+edms		1
+works		1
+ll		1
+com		1

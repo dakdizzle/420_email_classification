@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+parks		2
+cn		2
+joe		2
+recipients	1
+filename	1
+na		1
+mention		1
+pstsounds	1
+hood		1
+enron		1
+jparks		1
+ou		1
+silverhouse	1

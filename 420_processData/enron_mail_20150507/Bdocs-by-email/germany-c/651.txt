@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+worthwhile	1
+m		1
+ok		1
+feel		1
+now		1
+somethig	1
+doing		1

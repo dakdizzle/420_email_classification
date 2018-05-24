@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lynn		1
+enjoyed		1
+visit		1
+january		1
+mike		1
+omaha		1
+see		1
+thanks		1

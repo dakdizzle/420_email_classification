@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+cn		2
+shirley		2
+vince		1
+enroll		1
+enron		1
+crenshaw	1
+please		1
+recipients	1
+ou		1
+na		1
+scrensh		1

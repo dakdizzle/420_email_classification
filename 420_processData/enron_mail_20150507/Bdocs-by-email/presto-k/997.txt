@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+step		1
+talk		1
+back		1
+belden		1
+weekend		1
+next		1
+ll		1

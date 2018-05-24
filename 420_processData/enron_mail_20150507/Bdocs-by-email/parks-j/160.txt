@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+services	1
+know		1
+pay		1
+approval	1
+field		1
+duke		1
+see		1
+chip		1
+checking	1
+thanksjoe	1

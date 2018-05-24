@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+net		1
+kontrakt	1
+budet		1
+allegrodevelopment	1
+zato		1
+sdelano		1
+nxb		1
+bonusov		1
+zarplata	1
+zhe		1
+dali		1
+tol		1
+bondareva	1
+chto		1
+ta		1
+non		1
+natalie		1
+ko		1
+nikakix		1
+compete		1
+com		1

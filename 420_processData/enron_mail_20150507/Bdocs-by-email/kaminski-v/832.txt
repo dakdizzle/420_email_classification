@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+vince		2
+shall		2
+london		2
+heard		1
+fromthem	1
+person		1
+upin		1
+late		1
+pstanurag	1
+june		1
+filename	1
+vkamins		1
+forwarded	1
+jx		1
+people		1
+bring		1
+resume		1
+kaminski	1

@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+win		2
+push		1
+up		1
+games		1

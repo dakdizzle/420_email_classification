@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+card		1
+know		1
+spoken		1
+keep		1
+geffroy		1
+houston		1
+affiliation	1
+problem		1
+thanks		1
+michael		1
+straight	1
+talked		1
+jim		1
+list		1
+rick		1
+received	1
+buy		1
+request		1

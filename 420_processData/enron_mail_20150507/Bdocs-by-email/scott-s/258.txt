@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+aol		1
+msn		1
+well		1
+now		1
+yahoo		1
+msngr		1
+pick		1
+tried		1
+take		1
+haven		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+shackleton	1
+steve		1
+name		1
+attorney	1
+council		1
+etc		1
+phone		1
+provide		1
+number		1
+thanks		1
+kim		1
+bond		1
+sara		1

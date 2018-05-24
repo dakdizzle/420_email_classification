@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+money		2
+much		1
+back		1
+volumes		1
+change		1
+forward		1
+million		1

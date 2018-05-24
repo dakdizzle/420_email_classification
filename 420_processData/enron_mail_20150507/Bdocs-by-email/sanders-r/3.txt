@@ -1,0 +1,16 @@
+NumWords	18
+NumTerms	13
+
+enron		3
+aol		2
+khajweg		2
+com		2
+today		1
+ecom		1
+imceanotes	1
+out		1
+anytime		1
+available	1
+last		1
+week		1
+country		1

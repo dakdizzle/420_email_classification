@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+counterparty	2
+please		2
+rember		1
+ed		1
+transcanada	1
+pl		1
+tagg		1
+well		1
+books		1
+search		1
+take		1
+thanks		1
+asap		1
+enron		1
+check		1
+canadian	1
+book		1
+minutes		1
+work		1
+ecc		1
+deal		1
+rest		1

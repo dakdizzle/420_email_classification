@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+much		1
+up		1
+step		1
+know		1
+oversized	1
+even		1
+ex		1
+actually	1
+trash		1
+congrats	1
+stainless	1
+lysol		1
+sell		1
+sometimes	1
+ottoman		1
+chair		1
+bought		1
+leagues		1
+chrome		1
+steel		1
+costs		1
+big		1
+mine		1
+didn		1

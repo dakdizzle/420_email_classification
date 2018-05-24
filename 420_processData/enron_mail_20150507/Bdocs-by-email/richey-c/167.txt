@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+backups		1
+db		1
+richey		1
+albertagas	1
+cooper		1
+thx		1
+production	1
+development	1
+move		1
+newco		1
+albertapower	1
+trading		1

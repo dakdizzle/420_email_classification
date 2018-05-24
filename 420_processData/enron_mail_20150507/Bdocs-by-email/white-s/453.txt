@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+stacey		2
+file		2
+make		1
+quarterly	1
+know		1
+work		1
+dropbox		1
+sure		1
+comparison	1
+xlslet		1
+thanks		1

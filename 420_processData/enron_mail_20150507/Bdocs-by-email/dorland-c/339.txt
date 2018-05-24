@@ -1,0 +1,14 @@
+NumWords	16
+NumTerms	11
+
+mm		3
+chad		2
+bought		2
+eol		2
+trades		1
+today		1
+sumas		1
+chris		1
+lambie		1
+sold		1
+oct		1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+list		2
+together	1
+distribute	1
+definitely	1
+thanks		1
+cover		1
+put		1
+push		1
+good		1
+shouldn		1
+discussion	1
+idea		1
+prepare		1

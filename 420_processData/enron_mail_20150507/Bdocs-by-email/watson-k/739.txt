@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+meet		1
+tuesday		1
+forget		1
+downstairs	1
+kim		1
+food		1
+tomorrow	1
+preference	1
+february	1
+scheduled	1
+lunch		1
+don		1
+flavors		1

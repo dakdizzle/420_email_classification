@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+pm		2
+zhiyong		2
+geoff		2
+thats		1
+meeting		1
+wei		1
+today		1
+ect		1
+desk		1
+fine		1
+hou		1
+storey		1
+enron		1
+amto		1
+come		1
+ectcc		1
+subject		1
+enronxgate	1

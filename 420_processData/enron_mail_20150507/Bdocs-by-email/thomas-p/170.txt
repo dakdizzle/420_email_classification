@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+monday		1
+october		1
+trouble		1
+name		1
+guys		1
+sounded		1
+th		1
+call		1
+out		1
+dp		1
+twisted		1
+told		1
+antonides	1
+called		1
+having		1
+dave		1
+deal		1
+checking	1
+peterman	1

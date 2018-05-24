@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+fun		1
+situation	1
+shouldn		1
+less		1
+enron		1
+serious		1
+made		1
+probably	1
+current		1
+think		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+pie		1
+dude		1
+know		1
+riot		1
+freakin		1
+one		1
+chair		1
+crawfish	1
+fell		1

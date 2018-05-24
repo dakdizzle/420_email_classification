@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+hey		1
+time		1
+dork		1
+arrive		1
+cameron		1
+see		1
+flight		1

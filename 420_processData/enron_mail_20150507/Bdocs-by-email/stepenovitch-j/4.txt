@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+time		1
+person		1
+idiot		1
+told		1
+dealing		1
+sane		1
+waste		1

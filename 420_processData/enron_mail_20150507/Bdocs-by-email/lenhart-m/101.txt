@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+up		1
+eat		1
+bite		1
+shawn		1
+town		1
+tonight		1

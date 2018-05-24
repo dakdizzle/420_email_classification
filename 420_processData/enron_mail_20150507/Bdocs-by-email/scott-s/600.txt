@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+message		1
+hence		1
+phone		1
+sure		1
+don		1

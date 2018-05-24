@@ -1,0 +1,25 @@
+NumWords	47
+NumTerms	22
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+bullets		1
+mark		1
+paul		1
+lindberg	1
+tk		1
+mlokay		1
+barbo		1
+pybarbo		1
+mcconnell	1
+lohman		1
+lorraine	1
+please		1
+mmcconne	1
+michelle	1
+lokay		1
+llindbe		1
+tlohman		1

@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+mwhitt		2
+cn		2
+pstwe		1
+mark		1
+know		1
+paid		1
+now		1
+si		1
+recipients	1
+filename	1
+na		1
+getting		1
+privileged	1
+bujnoch		1
+non		1
+enron		1
+nothing		1
+ou		1
+whitt		1
+feels		1

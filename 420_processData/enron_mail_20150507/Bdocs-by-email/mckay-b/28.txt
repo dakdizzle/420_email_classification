@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+company		1
+goode		1
+seafood		1

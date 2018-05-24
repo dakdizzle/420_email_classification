@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+up		1
+broadband	1
+selection	1
+chris		1
+home		1
+click		1
+please		1
+direct		1
+sign		1
+sprint		1
+isn		1
+inform		1
+website		1
+dorland		1

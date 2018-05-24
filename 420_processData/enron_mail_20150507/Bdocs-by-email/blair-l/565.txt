@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lynn		1
+speed		1
+meeting		1
+up		1
+bring		1
+want		1
+one		1
+set		1
+thanks		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+drivespring	1
+court		1
+texas		1
+center		1

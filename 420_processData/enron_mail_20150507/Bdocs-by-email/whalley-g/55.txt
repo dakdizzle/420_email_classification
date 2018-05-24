@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+august		2
+position	1
+today		1
+change		1
+trade		1
+didn		1

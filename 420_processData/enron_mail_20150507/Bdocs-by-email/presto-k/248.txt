@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+term		2
+market		2
+volumes		2
+relative	1
+group		1
+player		1
+factor		1
+bullet		1
+power		1
+risk		1
+nd		1
+provide		1
+times		1
+respect		1
+significant	1
+enough		1
+positive	1
+trades		1
+tell		1
+year		1
+last		1
+dominant	1
+increased	1
+don		1

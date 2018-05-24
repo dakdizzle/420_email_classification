@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+hunting		1
+lets		1
+go		1

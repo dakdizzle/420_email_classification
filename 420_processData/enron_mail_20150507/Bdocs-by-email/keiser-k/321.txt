@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+morning		1
+around		1
+run		1
+try		1
+tomorrow	1
+desk		1
+stop		1
+zach		1
+basics		1
+kk		1
+through		1
+ll		1

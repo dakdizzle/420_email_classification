@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+conversation	1
+per		1
+tony		1

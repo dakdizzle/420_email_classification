@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+elizabeth	2
+walk		1
+directly	1
+floor		1
+up		1
+legal		1
+response	1
+important	1
+call		1
+something	1
+office		1
+go		1
+don		1

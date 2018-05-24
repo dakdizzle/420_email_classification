@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+rsander		2
+cn		2
+recipients	1
+white		1
+filename	1
+na		1
+help		1
+privileged	1
+pstbonnie	1
+sanders		1
+non		1
+enron		1
+ou		1
+richard		1

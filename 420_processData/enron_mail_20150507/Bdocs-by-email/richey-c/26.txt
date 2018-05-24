@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+open		1
+planbitch	1
+day		1
+hard		1
+exchange	1
+barely		1
+boring		1
+doors		1
+way		1
+back		1
+one		1
+thought		1
+motivated	1

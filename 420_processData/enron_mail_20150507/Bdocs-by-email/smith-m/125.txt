@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+morning		1
+clothes		1
+down		1
+up		1
+snuggling	1
+couch		1
+cat		1
+found		1
+face		1
+joe		1

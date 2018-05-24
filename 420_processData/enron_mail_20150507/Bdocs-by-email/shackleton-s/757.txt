@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+heard		1
+pstfyi		1
+non		1
+shackleton	1
+enron		1
+sshackl		1
+comx		1
+origin		1
+marie		1
+sx		1
+filename	1
+privileged	1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+msn		1
+sign		1
+messenger	1

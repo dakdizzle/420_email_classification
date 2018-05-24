@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+basic		1
+idaho		1
+thank		1
+know		1
+see		1
+looks		1
+anything	1
+holden		1
+good		1
+please		1
+require		1
+summary		1
+here		1

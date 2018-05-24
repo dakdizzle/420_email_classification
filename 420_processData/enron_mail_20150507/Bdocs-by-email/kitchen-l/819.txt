@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+sent		1
+hope		1
+wireless	1
+handheld	1
+course		1
+blackberry	1
+went		1

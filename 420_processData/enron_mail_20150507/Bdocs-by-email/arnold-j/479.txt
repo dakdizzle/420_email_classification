@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+front		1
+tomorrow	1
+porch		1
+going		1
+game		1
+ll		1

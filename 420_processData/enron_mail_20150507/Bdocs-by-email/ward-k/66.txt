@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+responded	1
+kim		1
+happened	1
+whatever	1
+ecotek		1
+thermo		1
+chris		1
+rfps		1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+c		2
+lying		1
+looking		1
+one		1
+yahoo		1
+gross		1
+correct		1
+sure		1
+see		1
+don		1
+think		1

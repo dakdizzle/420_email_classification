@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+definitely	1
+haha		1

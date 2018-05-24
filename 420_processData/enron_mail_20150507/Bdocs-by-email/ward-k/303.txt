@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+anything	1
+kim		1
+email		1
+send		1
+letter		1
+need		1
+going		1
+help		1
+thanks		1

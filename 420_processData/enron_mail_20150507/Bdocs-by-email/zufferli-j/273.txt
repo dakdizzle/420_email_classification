@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+cool		1
+use		1
+pretty		1
+looks		1
+think		1

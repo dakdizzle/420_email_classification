@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+compliment	2
+nice		1
+whatever	1
+turn		1
+try		1
+pay		1
+again		1
+guess		1
+never		1

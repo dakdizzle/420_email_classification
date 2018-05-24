@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+gamma		1
+net		1
+perkins		1
+enron		1
+john		1
+arnold		1
+working		1
+concentric	1
+bill		1
+today		1

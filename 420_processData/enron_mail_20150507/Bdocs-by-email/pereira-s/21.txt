@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+up		1
+pereira		1
+know		1
+susan		1
+ana		1
+field		1
+trip		1
+thanks		1
+thursday	1
+alternate	1
+signed		1
+needed		1
+think		1
+ll		1

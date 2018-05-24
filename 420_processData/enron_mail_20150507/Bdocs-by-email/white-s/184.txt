@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+enron		3
+white		2
+com		2
+leslie		1
+stacy		1
+postlethwaite	1
+stacey		1
+john		1
+comx		1
+reeves		1
+filename	1
+evans		1
+pstmelissa	1
+investigate	1
+casey		1
+origin		1
+more		1
+sx		1
+here		1

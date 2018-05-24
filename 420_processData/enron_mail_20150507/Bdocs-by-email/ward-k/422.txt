@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+david		1
+know		1
+probobly	1
+west		1
+ees		1
+hensel		1
+marketing	1
+thanks		1
+delegate	1
+anything	1
+kim		1
+sent		1
+director	1
+need		1

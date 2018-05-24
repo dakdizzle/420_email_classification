@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+coming		1
+one		1
+superbowl	1
+current		1
+big		1

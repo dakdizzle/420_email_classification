@@ -1,0 +1,23 @@
+NumWords	28
+NumTerms	20
+
+com		4
+compuserve	2
+kim		2
+enron		2
+ward		2
+wes		2
+internet	1
+resend		1
+wesbeasley	1
+sorry		1
+attachment	1
+sale		1
+thanks		1
+master		1
+pmto		1
+please		1
+purchase	1
+agreementkim	1
+subject		1
+beasley		1

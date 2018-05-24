@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+nbsk		1
+delivered	1
+forecast	1
+attached	1
+japan		1
+year		1
+monika		1
+dick		1

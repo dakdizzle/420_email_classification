@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+october		1
+friday		1
+vacation	1
+assistant	1
+though		1
+putting		1
+th		1
+hours		1
+think		1
+took		1

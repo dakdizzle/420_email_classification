@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+blackberry	2
+rhaysle		2
+cn		2
+order		1
+ferc		1
+net		1
+issued		1
+wireless	1
+handheld	1
+www		1
+recipients	1
+hayslett	1
+filename	1
+na		1
+privileged	1
+jim		1
+sent		1
+psti		1
+non		1
+agree		1
+enron		1
+ou		1
+rod		1

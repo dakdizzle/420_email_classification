@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+products	1
+list		1
+thankskam	1
+final		1
+eol		1
+here		1

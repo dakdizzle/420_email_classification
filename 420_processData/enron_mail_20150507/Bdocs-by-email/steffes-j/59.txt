@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+folks		1
+until		1
+talk		1
+holds		1
+fyi		1
+work		1
+mart		1
+business	1
+wal		1
+same		1
+through		1

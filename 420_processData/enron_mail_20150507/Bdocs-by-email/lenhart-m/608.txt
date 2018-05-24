@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+dog		2
+those		1
+name		1
+dogs		1
+see		1
+sleep		1
+robotic		1
+alleged		1
+one		1
+night		1
+probably	1
+last		1
+new		1

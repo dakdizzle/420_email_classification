@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+go		3
+ones		2
+plan		1
+further		1
+revisions	1
+reviewed	1
+doc		1
+incorporated	1
+ready		1
+web		1
+thanks		1
+put		1
+benefit		1
+being		1
+check		1
+cole		1
+michelle	1
+need		1
+question	1
+comments	1
+think		1
+through		1
+barrow		1
+here		1

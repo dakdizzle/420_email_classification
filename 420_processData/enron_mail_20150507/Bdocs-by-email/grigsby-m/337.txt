@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+yesterday	2
+restated	1
+l		1
+please		1
+update		1
+column		1
+mike		1
+thanks		1

@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+information	2
+deals		2
+day		1
+pl		1
+being		1
+unfortunately	1
+sorry		1
+traders		1
+schedulers	1

@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+call		3
+want		2
+option		1
+kelli		1
+up		1
+selling		1
+know		1
+price		1
+same		1
+premium		1
+september	1
+nymex		1
+help		1
+thanks		1
+pasadena	1
+kim		1
+structure	1
+july		1
+questions	1
+strike		1
+buy		1
+period		1
+reduce		1

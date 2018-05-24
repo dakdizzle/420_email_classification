@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+asp		1
+magazine	1
+http		1
+comix		1
+www		1
+derivativesstrategy	1
+com		1

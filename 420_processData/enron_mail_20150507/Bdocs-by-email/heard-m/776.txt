@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+greg		1
+thanks		1

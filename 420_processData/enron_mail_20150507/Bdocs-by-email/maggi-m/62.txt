@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+dont		1
+nobody		1
+lie		1
+told		1

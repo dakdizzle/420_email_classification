@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+close		1
+october		1
+reviewed	1
+review		1
+credits		1
+build		1
+meet		1
+hyperion	1
+es		1
+inventory	1
+basis		1
+accounting	1
+cummulative	1
+started		1
+payments	1
+michigan	1
+st		1

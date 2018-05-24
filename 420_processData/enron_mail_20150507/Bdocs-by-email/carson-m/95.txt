@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+friday		2
+coming		1
+plan		1
+compensate	1
+thursday	1
+night		1
+one		1
+going		1
+till		1
+tie		1
+afternoon	1
+actually	1

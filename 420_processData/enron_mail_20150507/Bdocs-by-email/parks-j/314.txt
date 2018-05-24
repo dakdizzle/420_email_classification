@@ -1,0 +1,27 @@
+NumWords	29
+NumTerms	24
+
+parks		2
+out		2
+cn		2
+go		2
+joe		2
+dont		1
+pstmy		1
+spot		1
+find		1
+recipients	1
+filename	1
+na		1
+friends		1
+life		1
+fag		1
+enough		1
+enron		1
+another		1
+want		1
+jparks		1
+ou		1
+going		1
+mesireable	1
+hang		1

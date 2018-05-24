@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+assume		1
+guys		1
+aren		1
+filings		1
+thanks		1
+jim		1
+spalding	1
+long		1
+done		1
+king		1
+preventing	1
+business	1
+deal		1
+ll		1
+appropriate	1

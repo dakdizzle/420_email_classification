@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+weekend		2
+good		1
+nom		1
+revised		1
+attached	1

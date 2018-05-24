@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+gimme		1
+dana		1
+beer		1
+erin		1
+hey		1
+won		1
+see		1
+woohoo		1
+raize		1
+call		1
+lil		1
+hell		1
+around		1
+wanna		1
+recognize	1
+cell		1
+go		1
+want		1
+weekend		1
+spokane		1
+going		1
+saturday	1
+hi		1
+over		1

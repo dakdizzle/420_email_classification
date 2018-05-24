@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+first		1
+eb		1
+fax		1
+international	1
+credit		1
+thxsara		1
+ph		1
+street		1
+wholesale	1
+services	1
+shackletonenron	1
+please		1
+ahouston	1
+redwell		1
+tx		1
+smith		1
+suisse		1
+boston		1

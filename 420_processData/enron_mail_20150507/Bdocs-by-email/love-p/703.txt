@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+see		2
+rebooked	1
+pl		1
+exchange	1
+now		1
+variance	1
+zeroed		1
+looks		1
+thanks		1
+pipeline	1
+out		1
+cp		1
+look		1
+occur		1
+cpr		1
+deal		1

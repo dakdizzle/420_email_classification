@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+lead		1
+plan		1
+good		1
+follow		1
+office		1
+arriving	1
+beers		1
+sounds		1
+lunch		1
+keith		1
+ll		1

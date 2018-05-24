@@ -1,0 +1,10 @@
+NumWords	10
+NumTerms	7
+
+id		2
+name		2
+book		2
+received	1
+using		1
+longer		1
+new		1

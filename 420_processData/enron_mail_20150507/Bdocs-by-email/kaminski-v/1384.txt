@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+shall		2
+first		1
+board		1
+meeting		1
+honored		1
+join		1
+mscf		1
+december	1
+wednesday	1
+letter		1
+acceptance	1
+formal		1
+vince		1
+follow		1
+serve		1
+rick		1
+more		1
+advisory	1

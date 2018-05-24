@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+problems	1
+extending	1
+leslie		1
+day		1
+counterparties	1
+today		1
+approved	1
+tenor		1
+rush		1
+being		1
+need		1
+months		1
+tonight		1

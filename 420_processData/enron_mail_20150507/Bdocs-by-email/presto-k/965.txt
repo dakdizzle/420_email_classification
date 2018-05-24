@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+higher		1
+calgary		1
+times		1
+insurance	1
+bet		1

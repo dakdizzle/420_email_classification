@@ -1,0 +1,23 @@
+NumWords	40
+NumTerms	20
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+darren		2
+dempsey		1
+mark		1
+family		1
+despey		1
+schrab		1
+reunion		1
+espey		1
+looks		1
+klenart		1
+kirk		1
+wdempsey	1
+wes		1
+lenart		1
+mschrab		1

@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+change		2
+refund		1
+ferc		1
+confidential	1
+case		1
+prices		1
+helps		1
+distribute	1
+company		1
+spreadsheet	1
+attached	1
+outside		1
+ctc		1
+negative	1
+jim		1
+hope		1
+negotiations	1
+subject		1
+still		1
+calculation	1

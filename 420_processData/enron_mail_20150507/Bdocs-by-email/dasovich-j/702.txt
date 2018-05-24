@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+point		1
+good		1
+evelyn		1
+true		1
+kahl		1
+ek		1
+klaw		1
+com		1

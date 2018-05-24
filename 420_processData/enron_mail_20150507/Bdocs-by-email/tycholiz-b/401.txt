@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+lavo		2
+see		2
+check		2
+up		1
+time		1
+try		1
+friday		1
+gave		1
+fletch		1
+terms		1
+bt		1
+thurs		1
+afternoon	1
+used		1
+available	1
+tpc		1
+use		1
+voucher		1
+away		1
+saturday	1
+benny		1
+play		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jinglebellsjim	1
+mindspring	1
+msteffes	1
+password	1
+com		1

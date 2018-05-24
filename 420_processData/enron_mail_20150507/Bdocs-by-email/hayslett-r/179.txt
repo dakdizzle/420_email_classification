@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+way		1
+possibility	1
+keeps		1
+now		1
+going		1

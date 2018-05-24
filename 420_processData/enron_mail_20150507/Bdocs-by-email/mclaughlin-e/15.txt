@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+those		1
+admins		1
+terminated	1
+minibook	1
+deals		1
+legs		1
+left		1
+canada		1
+books		1
+leg		1
+soon		1
+message		1
+run		1
+canadian	1
+eric		1
+book		1
+errol		1
+already		1
+ll		1

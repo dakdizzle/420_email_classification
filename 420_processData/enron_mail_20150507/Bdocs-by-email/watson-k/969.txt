@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+couple		2
+next		2
+twenty		1
+up		1
+catch		1
+guys		1
+keep		1
+far		1
+throw		1
+s		1
+floors		1
+thanks		1
+posted		1
+look		1
+dates		1
+please		1
+book		1
+work		1
+away		1
+six		1
+weeks		1
+week		1
+lunch		1
+calendar	1

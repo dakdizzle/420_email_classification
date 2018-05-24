@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+williams	1
+contact		1

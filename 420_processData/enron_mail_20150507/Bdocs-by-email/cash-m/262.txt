@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+email		1
+handwritten	1
+term		1
+pursuant	1
+letter		1
+draft		1
+michelle	1
+forward		1
+prior		1
+comments	1
+thanks		1
+here		1

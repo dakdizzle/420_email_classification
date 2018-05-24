@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+m		1
+hey		1
+assume		1
+anwser		1
+ernie		1
+need		1
+don		1
+checking	1
+emails		1

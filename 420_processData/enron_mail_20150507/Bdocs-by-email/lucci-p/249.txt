@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+day		1
+plan		1
+paul		1
+talk		1
+majority	1
+meet		1
+out		1
+soon		1
+downtown	1
+tomorrow	1
+want		1
+lunch		1
+ll		1

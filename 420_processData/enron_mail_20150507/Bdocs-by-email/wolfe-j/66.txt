@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+jwolfe		2
+cn		2
+reminds		1
+sam		1
+place		1
+jason		1
+recipients	1
+filename	1
+na		1
+wolfe		1
+privileged	1
+good		1
+non		1
+enron		1
+uncle		1
+ou		1
+beating		1
+psta		1

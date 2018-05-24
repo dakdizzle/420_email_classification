@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+cayman		2
+miami		2
+really		1
+fun		1
+sluts		1
+hot		1
+back		1
+more		1
+laid		1
+think		1

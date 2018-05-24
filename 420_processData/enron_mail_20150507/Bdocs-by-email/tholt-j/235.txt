@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+night		1
+ally		1
+watch		1
+last		1

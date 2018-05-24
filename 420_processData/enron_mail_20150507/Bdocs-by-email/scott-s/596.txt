@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+name		1
+spot		1
+sure		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+hello		1
+john		1
+vines		1
+advise		1
+version		1
+zins		1
+please		1
+zoom		1
+several		1
+noticed		1
+old		1
+year		1
+chance		1
+carried		1

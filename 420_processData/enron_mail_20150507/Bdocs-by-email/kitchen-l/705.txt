@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+louise		1
+book		1
+find		1
+issue		1
+address		1
+problem		1
+never		1

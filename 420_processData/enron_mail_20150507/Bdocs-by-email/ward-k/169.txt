@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+jason		2
+together	1
+know		1
+meet		1
+involved	1
+thanks		1
+kim		1
+hesco		1
+agree		1
+bring		1
+available	1
+want		1
+before		1
+thoughts	1

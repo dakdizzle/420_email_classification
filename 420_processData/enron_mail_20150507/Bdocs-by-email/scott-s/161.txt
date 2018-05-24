@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+coming		1
+way		1
+day		1
+look		1
+great		1
+wedding		1
+caycie		1
+deborah		1
+weekend		1
+forward		1
+town		1
+sue		1

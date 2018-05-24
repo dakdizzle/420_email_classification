@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+days		2
+vacation	2
+account		1
+remainder	1
+paul		1
+carry		1
+december	1
+heidi		1
+once		1
+ththanks	1
+th		1
+take		1
+schedule	1
+please		1
+tell		1
+year		1
+correct		1
+st		1
+november	1
+over		1
+here		1

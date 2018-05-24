@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+send		1
+trades		1
+jan		1
+curves		1

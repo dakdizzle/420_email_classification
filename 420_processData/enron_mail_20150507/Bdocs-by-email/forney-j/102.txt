@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+much		1
+kim		1
+sorry		1
+delay		1
+jmf		1
+submitting	1
+checking	1
+thanks		1

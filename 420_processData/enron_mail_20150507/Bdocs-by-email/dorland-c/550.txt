@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+weak		1
+keeps		1
+giving		1
+power		1
+still		1
+bank		1
+gift		1
+td		1

@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+plan		3
+budget		1
+albeit		1
+vs		1
+communication	1
+promised	1
+john		1
+ets		1
+late		1
+week		1
+actuals		1

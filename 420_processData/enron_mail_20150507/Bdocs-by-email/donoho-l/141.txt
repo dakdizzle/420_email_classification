@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+cn		2
+ldonoho		2
+discuss		1
+stuff		1
+together	1
+drafted		1
+strategy	1
+know		1
+steve		1
+recipients	1
+filename	1
+na		1
+marketing	1
+privileged	1
+ve		1
+non		1
+enron		1
+reviewing	1
+pstokay		1
+want		1
+donoho		1
+ou		1
+already		1
+lindy		1

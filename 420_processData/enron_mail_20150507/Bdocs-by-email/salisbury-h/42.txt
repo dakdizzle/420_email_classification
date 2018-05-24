@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+aol		2
+b		2
+ok		1
+messenger	1
+confirm		1
+instant		1
+newman		1
+fde		1
+f		1
+eda		1
+holdenoo	1
+oscar		1
+cfc		1
+bc		1
+com		1
+aaa		1
+ff		1

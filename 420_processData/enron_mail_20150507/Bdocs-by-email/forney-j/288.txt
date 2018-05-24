@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+time		2
+lloyd		1
+talk		1
+george		1
+again		1
+today		1
+going		1
+meet		1
+noon		1
+jmf		1

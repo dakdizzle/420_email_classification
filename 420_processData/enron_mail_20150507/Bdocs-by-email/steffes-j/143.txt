@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+meeting		2
+call		2
+present		1
+looking		1
+someone		1
+christi		1
+same		1
+forester	1
+shapiro		1
+jim		1
+rick		1
+dave		1
+through		1

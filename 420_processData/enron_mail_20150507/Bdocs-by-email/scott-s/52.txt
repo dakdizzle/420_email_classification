@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+game		2
+free		1
+hakeem		1
+rockets		1
+know		1
+going		1
+interest	1
+last		1
+tickets		1
+sue		1
+tonight		1

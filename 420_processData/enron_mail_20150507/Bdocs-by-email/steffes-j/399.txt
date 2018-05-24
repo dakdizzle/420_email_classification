@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+anyway		1
+ok		1
+keith		1
+call		1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+changes		2
+reflects	1
+ask		1
+attached	1
+fine		1
+copies		1
+print		1
+out		1
+execute		1
+two		1
+version		1
+clean		1
+ned		1

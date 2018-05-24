@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ca		1
+issues		1
+scope		1
+need		1
+address		1
+give		1
+gary		1
+thanks		1

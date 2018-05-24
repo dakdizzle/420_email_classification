@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lynn		1
+good		1
+leaves		1
+sounds		1
+flexibility	1
+thanks		1

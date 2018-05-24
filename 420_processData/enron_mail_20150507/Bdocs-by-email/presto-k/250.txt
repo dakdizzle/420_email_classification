@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+morning		1
+breeze		1
+lakes		1
+eldridge	1
+houston		1
+tx		1
+subdivision	1

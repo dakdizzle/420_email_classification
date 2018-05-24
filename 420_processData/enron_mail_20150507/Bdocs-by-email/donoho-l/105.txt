@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+cn		2
+ldonoho		2
+info		1
+pstattached	1
+first		1
+updated		1
+spreadsheet	1
+deals		1
+recipients	1
+tab		1
+filename	1
+na		1
+see		1
+privileged	1
+non		1
+enron		1
+summarized	1
+please		1
+donoho		1
+ou		1
+lindy		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+together	1
+put		1
+stacey		1
+spreadsheet	1
+trader		1
+someone		1
+performance	1
+november	1
+thanks		1

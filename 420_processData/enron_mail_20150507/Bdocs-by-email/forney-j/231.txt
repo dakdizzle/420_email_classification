@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+tough		1
+touch		1
+anytime		1
+keep		1
+coffee		1
+cool		1
+meet		1
+jmf		1
+lunch		1
+thanks		1

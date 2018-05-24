@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+sr		2
+exec		1
+qid		1
+asin		1
+http		1
+www		1
+ref		1
+obidos		1
+com		1
+amazon		1

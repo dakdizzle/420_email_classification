@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+semperger	2
+cn		2
+cara		2
+pstwe		1
+diana		1
+details		1
+recipients	1
+filename	1
+na		1
+see		1
+pge		1
+csemper		1
+enron		1
+please		1
+ou		1
+hlh		1
+c		1
+parking		1

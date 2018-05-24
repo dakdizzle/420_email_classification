@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+don		2
+little		1
+contacts	1
+thing		1
+scott		1
+know		1
+working		1
+guys		1
+weather		1
+exact		1
+anyone		1
+left		1
+neal		1
+wondering	1
+great		1
+kelly		1
+talking		1
+opportunity	1
+back		1
+knew		1
+called		1
+duke		1
+kk		1
