@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+long		1
+vince		1
+ok		1
+stock		1
+acquisition	1
+term		1
+yes		1
+think		1
+mode		1

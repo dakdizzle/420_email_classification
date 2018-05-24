@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+cell		1
+right		1
+now		1
+phone		1
+give		1
+call		1

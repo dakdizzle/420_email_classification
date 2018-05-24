@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+kim		1
+meeting		1
+mgma		1
+ok		1
+go		1
+tell		1
+city		1
+btw		1
+sept		1
+fly		1
+utah		1

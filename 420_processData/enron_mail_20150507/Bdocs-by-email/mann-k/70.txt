@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+cn		2
+up		1
+john		1
+recipients	1
+na		1
+sadams		1
+downstairs	1
+picking		1
+enron		1
+minutes		1
+yes		1
+ou		1
+suzanne		1
+adams		1

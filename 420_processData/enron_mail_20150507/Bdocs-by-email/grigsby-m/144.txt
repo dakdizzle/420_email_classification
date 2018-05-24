@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+project		1
+know		1
+questions	1
+guys		1
+mike		1
+grigsby		1
+elizabeth	1
+thanks		1

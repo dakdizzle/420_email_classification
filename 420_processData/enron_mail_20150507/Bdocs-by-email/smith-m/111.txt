@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+call		2
+minute		1
+m		1
+eaten		1
+right		1
+now		1
+conference	1
+haven		1
+ll		1
+actually	1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+ve		2
+case		1
+write		1
+cleared		1
+present		1
+time		1
+up		1
+know		1
+assuming	1
+response	1
+september	1
+thanks		1
+wrong		1
+m		1
+jeff		1
+best		1
+e		1
+think		1

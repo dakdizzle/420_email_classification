@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+send		1
+complete	1
+yes		1
+once		1
+bt		1
+over		1

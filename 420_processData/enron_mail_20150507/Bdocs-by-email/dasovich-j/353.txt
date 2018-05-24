@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+cn		2
+greatly		1
+bradley		1
+state		1
+somehow		1
+course		1
+appreciated	1
+recipients	1
+left		1
+na		1
+feedback	1
+unintentionally	1
+m		1
+rbradle		1
+enron		1
+jeff		1
+best		1
+blur		1
+ou		1
+rob		1
+comments	1
+constant	1
+thoughts	1
+note		1

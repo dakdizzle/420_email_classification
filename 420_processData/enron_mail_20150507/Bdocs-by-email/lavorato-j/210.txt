@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+work		2
+hilis		1
+kim		1
+together	1
+anymore		1
+grab		1
+check		1
+another		1
+minutes		1
+johntuesday	1
+before		1

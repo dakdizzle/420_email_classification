@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+please		1
+accuracy	1
+sara		1
+review		1
+thanks		1

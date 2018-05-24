@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+happened	1
+lavo		1
+arcor		1

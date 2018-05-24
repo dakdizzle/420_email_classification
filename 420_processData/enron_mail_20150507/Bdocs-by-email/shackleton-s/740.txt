@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+guaranty	1
+shackleton	1
+sshackl		1
+comx		1
+filename	1
+privileged	1
+non		1
+psthere		1
+enron		1
+origin		1
+sx		1
+stephanie	1
+panus		1

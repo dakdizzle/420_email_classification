@@ -1,0 +1,24 @@
+NumWords	46
+NumTerms	21
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+rbenson		1
+benson		1
+dsmith		1
+doug		1
+robert		1
+fsturm		1
+jeff		1
+mcarson		1
+jking		1
+king		1
+mike		1
+smith		1
+fletcher	1
+sturm		1
+carson		1
+gilbert		1

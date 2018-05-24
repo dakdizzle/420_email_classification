@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+tjones		2
+cn		2
+annex		1
+jones		1
+support		1
+credit		1
+attached	1
+isda		1
+recipients	1
+tana		1
+s		1
+filename	1
+na		1
+mahonia		1
+confirm		1
+pst		1
+privileged	1
+non		1
+enron		1
+ou		1
+paragraph	1

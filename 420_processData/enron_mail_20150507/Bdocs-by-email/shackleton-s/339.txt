@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+valuation	2
+info		1
+early		1
+day		1
+friday		1
+parties		1
+isda		1
+prior		1
+nov		1
+provide		1
+filing		1
+tells		1
+master		1
+people		1
+mexican		1
+come		1
+automatic	1
+agreements	1
+below		1
+incorrect	1
+occurred	1
+commercial	1
+termination	1
+francisco	1

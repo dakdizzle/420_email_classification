@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+promotion	1
+good		1
+job		1
+work		1
+going		1
+watch		1
+excited		1
+new		1
+news		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+good		1
+tastefull	1
+very		1

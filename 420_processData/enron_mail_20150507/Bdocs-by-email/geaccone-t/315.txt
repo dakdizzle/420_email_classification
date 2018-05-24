@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+employees	2
+estimates	1
+key		1
+plan		1
+know		1
+throughout	1
+weitekampi	1
+jan		1
+mooreerin	1
+such		1
+getting		1
+really		1
+done		1
+good		1
+botellojames	1
+forecast	1
+klebmary	1
+thankstracy	1
+considered	1
+ets		1
+within		1
+process		1
+prc		1
+copelandsteve	1

@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+mcash		2
+cn		2
+michelle	2
+cash		1
+busy		1
+recipients	1
+guess		1
+filename	1
+na		1
+privileged	1
+pstfyi		1
+non		1
+enron		1
+ou		1
+ll		1

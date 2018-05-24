@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+escape		1
+milly		1
+john		1
+sure		1
+davei		1

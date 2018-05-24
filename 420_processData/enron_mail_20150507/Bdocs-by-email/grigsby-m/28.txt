@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+cash		1
+come		1
+desk		1
+sure		1

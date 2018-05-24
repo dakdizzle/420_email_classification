@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+night		2
+didn		2
+fun		1
+much		1
+yours		1
+make		1
+truly		1
+true		1
+chat		1
+sorry		1
+seen		1
+hope		1
+display		1
+sierra		1
+bad		1
+steak		1
+last		1
+chance		1
+dancing		1

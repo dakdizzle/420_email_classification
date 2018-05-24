@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+kh		1
+share		1
+necessary	1

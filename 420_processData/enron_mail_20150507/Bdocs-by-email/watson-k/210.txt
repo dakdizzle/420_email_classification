@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+case		2
+yr		2
+ran		1
+term		1
+approached	1
+steve		1
+looks		1
+thanks		1
+better		1
+kim		1
+resubscriptions	1
+numbers		1
+james		1
+michelle	1
+dcf		1
+year		1
+duke		1
+cases		1
+thoughts	1

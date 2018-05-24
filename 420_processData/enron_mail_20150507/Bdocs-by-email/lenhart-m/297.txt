@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+weekend		2
+next		2
+both		1
+way		1
+make		1
+mitch		1
+packed		1
+tim		1
+more		1
+think		1
+head		1

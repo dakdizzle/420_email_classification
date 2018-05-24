@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+master		1
+per		1
+please		1
+know		1
+questions	1
+attached	1
+contract	1
+spot		1
+voicemail	1

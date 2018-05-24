@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+doubted		1
+never		1
+thanks		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+plove		1
+pl		1
+free		1
+guys		1
+filename	1
+transfer	1
+privileged	1
+pstif		1
+content		1
+non		1
+encoding	1
+come		1
+feel		1
+px		1
+want		1
+origin		1
+bitx		1
+love		1

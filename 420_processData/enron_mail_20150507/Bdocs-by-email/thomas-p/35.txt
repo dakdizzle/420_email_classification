@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+see		2
+gets		1
+tariff		1
+please		1
+know		1
+changes		1
+affect		1
+furthermore	1
+susan		1
+business	1
+thankspaul	1
+approved	1

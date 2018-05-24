@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+please		1
+resend		1
+phillip		1
+download	1
+adrianne	1
+resume		1

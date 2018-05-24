@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+parents		1
+shortly		1
+network		1
+shipman		1
+make		1
+interview	1
+ok		1
+claire		1
+town		1
+here		1

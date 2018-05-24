@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+cn		2
+jsteffe		2
+pstgreat	1
+recipients	1
+appreciate	1
+filename	1
+na		1
+privileged	1
+jim		1
+steffes		1
+really		1
+non		1
+enron		1
+james		1
+ou		1

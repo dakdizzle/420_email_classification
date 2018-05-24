@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+goes		2
+hey		1
+john		1
+until		1
+wednesday	1
+know		1
+limit		1
+jan		1
+done		1
+immediately	1
+memo		1
+go		1
+ago		1
+saw		1
+night		1
+correct		1
+guysi		1

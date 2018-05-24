@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+buddy		1
+denied		1
+up		1
+gave		1
+book		1
+evidence	1
+read		1
+still		1
+given		1
+haven		1
+note		1
+thanks		1

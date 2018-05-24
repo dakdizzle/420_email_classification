@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+issues		1
+staff		1
+talk		1
+mtg		1
+addressing	1
+help		1
+thanks		1

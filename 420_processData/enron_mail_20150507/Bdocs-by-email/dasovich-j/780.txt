@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+home		1
+cell		1
+jeff		1
+best		1
+try		1
+fyi		1
+phone		1
+sue		1

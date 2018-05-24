@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+cn		2
+btychol		2
+pstkim		1
+pls		1
+recipients	1
+jessica		1
+filename	1
+na		1
+bt		1
+privileged	1
+tycholiz	1
+non		1
+enron		1
+barry		1
+ou		1
+calender	1
+attend		1
+add		1

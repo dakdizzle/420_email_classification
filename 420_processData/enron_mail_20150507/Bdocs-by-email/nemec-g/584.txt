@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+done		1
+gnemec		1
+everything	1
+cell		1
+barbara		1
+information	1
+comh		1
+follows		1
+again		1
+houston		1
+thanks		1
+rr		1

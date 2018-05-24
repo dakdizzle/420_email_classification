@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+quite		1
+today		1
+later		1
+anything	1
+miss		1
+tracy		1
+clothes		1
+really		1
+good		1
+experience	1
+hope		1
+tell		1
+spill		1
+lunch		1
+love		1
+mine		1

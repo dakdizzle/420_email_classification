@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+victims		1
+family		1
+storey		1
+none		1
+know		1
+divided		1
+billion		1
+needs		1

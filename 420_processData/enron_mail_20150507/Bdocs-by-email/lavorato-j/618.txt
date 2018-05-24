@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+put		1
+lavo		1
+being		1
+limit		1
+var		1
+million		1
+ees		1
+gregwhy		1

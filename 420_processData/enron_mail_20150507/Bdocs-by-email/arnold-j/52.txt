@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+wanna		1
+work		1
+sauced		1

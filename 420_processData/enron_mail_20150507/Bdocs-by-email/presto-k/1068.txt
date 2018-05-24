@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+pm		1
+done		1
+plan		1
+friday		1
+trading		1

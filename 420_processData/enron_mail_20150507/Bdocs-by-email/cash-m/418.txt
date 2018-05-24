@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+great		1
+michelle	1
+work		1
+yea		1
+valeria		1

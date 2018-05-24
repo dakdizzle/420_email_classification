@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+others		1
+good		1
+great		1
+luck		1

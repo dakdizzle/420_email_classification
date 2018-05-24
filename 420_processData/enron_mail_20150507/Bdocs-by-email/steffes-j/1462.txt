@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+steffesenron	1
+jim		1
+delete		1
+last		1
+sentence	1

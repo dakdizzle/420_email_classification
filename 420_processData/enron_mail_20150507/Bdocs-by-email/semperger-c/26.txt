@@ -1,0 +1,14 @@
+NumWords	18
+NumTerms	11
+
+cn		4
+enron		2
+recipients	2
+ou		2
+na		2
+purcell		1
+serena		1
+sbishop		1
+bishop		1
+mike		1
+mpurcell	1

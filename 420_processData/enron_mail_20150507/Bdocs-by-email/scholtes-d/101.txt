@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+diana		1
+time		1
+real		1
+forwarding	1
+sean		1
+now		1
+mails		1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+think		2
+much		1
+juno		1
+operation	1
+beach		1
+along		1
+way		1
+office		1
+effort		1
+go		1
+corp		1
+fpl		1
+don		1
+making		1
+tampa		1
+area		1
+ll		1
+trust		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+invited		1
+weeks		1
+couple		1
+lunch		1
+take		1
+planning	1
+thanks		1

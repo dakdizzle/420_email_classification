@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+msn		2
+customer	1
+account		1
+touch		1
+want		1
+idea		1
+service		1
+chris		1
+number		1
+cancel		1

@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+guys		2
+payment		1
+know		1
+prior		1
+loss		1
+call		1
+good		1
+check		1
+believe		1
+pickup		1
+signed		1
+contract	1
+double		1
+indemnified	1
+sure		1

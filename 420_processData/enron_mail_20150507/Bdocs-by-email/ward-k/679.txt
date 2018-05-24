@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+car		1
+phone		1
+think		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+waltdisneyworld	1
+id		1
+disneyworld	1
+details		1
+http		1
+specialoffer	1
+disney		1
+special		1
+generalfeature	1
+index		1
+go		1
+summerone	1
+com		1

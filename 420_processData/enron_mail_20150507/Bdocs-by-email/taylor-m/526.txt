@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+likes		1
+house		1
+family		1
+one		1
+dad		1
+far		1

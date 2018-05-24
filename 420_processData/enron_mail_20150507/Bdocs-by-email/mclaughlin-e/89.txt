@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+account		2
+mails		2
+ev		2
+early		1
+inconvenience	1
+net		1
+patrick		1
+attached	1
+find		1
+sorry		1
+sunday		1
+sent		1
+check		1
+please		1
+back		1
+again		1
+errol		1
+haven		1

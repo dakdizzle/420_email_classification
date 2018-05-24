@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+enron		2
+pstrod		1
+credit		1
+shackleton	1
+rohauer		1
+sshackl		1
+comx		1
+tanya		1
+legal		1
+williams	1
+filename	1
+privileged	1
+non		1
+sara		1
+origin		1
+sx		1
+coordinate	1
+london		1
+com		1

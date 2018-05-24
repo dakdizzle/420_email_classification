@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ok		1
+update		1
+kk		1
+thanks		1

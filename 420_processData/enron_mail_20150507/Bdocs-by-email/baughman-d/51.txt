@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+db		1
+dance		1
+m		1
+tell		1
+night		1
+wed		1
+meet		1
+kick		1

@@ -1,0 +1,23 @@
+NumWords	32
+NumTerms	20
+
+ect		5
+scott		4
+hou		4
+hendrickson	3
+lmco		1
+bruce		1
+pm		1
+grant		1
+download	1
+take		1
+picturesthis	1
+julie		1
+forwarded	1
+kimberly	1
+amto		1
+ectcc		1
+olinger		1
+subject		1
+gomez		1
+com		1

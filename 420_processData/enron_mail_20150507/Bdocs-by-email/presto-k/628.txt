@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+anything	1
+good		1
+know		1
+need		1
+sounds		1

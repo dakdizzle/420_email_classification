@@ -1,0 +1,26 @@
+NumWords	30
+NumTerms	23
+
+lynn		3
+september	3
+blair		2
+lblair		2
+cn		2
+john		1
+terry		1
+following	1
+recipients	1
+filename	1
+na		1
+buchanan	1
+thanks		1
+pst		1
+privileged	1
+people		1
+non		1
+enron		1
+please		1
+kowalke		1
+ou		1
+donna		1
+move		1

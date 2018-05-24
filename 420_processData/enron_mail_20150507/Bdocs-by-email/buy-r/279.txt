@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+postponed	1
+meeting		1
+rick		1
+need		1
+going		1
+tx		1
+week		1
+london		1
+whalley		1
+next		1

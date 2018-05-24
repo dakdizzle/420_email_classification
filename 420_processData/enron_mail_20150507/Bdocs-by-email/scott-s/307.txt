@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+wrong		1
+sscott		1
+usually		1
+enron		1
+try		1
+one		1
+works		1
+still		1
+com		1

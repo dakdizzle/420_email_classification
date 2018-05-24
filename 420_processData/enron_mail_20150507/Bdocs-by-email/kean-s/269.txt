@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+employee	1
+revised		1
+kll		1
+memo		1
+need		1
+comments	1
+still		1
+include		1

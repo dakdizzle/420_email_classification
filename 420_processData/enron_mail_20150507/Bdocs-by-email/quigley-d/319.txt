@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+check		2
+care		1
+softballto	1
+write		1
+crawford	1
+hey		1
+owe		1
+ricardo		1
+season		1
+money		1
+uh		1
+kevin		1
+see		1
+take		1
+dutch		1
+ticketswoody	1
+woody		1
+thnx		1
+one		1

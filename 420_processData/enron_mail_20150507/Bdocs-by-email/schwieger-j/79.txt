@@ -1,0 +1,13 @@
+NumWords	13
+NumTerms	10
+
+contracts	2
+nymex		2
+june		2
+open		1
+profit		1
+position	1
+sell		1
+price		1
+current		1
+average		1

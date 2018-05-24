@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+cn		2
+dperlin		2
+want		2
+energy		1
+pstyes		1
+make		1
+know		1
+name		1
+recipients	1
+filename	1
+na		1
+thanks		1
+privileged	1
+atoms		1
+non		1
+enron		1
+numbers		1
+changes		1
+corporation	1
+contract	1
+ou		1
+perlingiere	1
+debra		1

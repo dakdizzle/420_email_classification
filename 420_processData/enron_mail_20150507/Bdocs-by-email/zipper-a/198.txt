@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+andy		1
+jay		1
+help		1
+thanks		1

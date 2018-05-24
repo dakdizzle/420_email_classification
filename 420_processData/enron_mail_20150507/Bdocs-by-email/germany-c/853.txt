@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+send		2
+ed		1
+melanie		1
+evening		1
+gave		1
+gas		1
+outside		1
+gray		1
+straight	1
+yesterday	1
+signed		1
+agreement	1
+counsel		1
+boston		1

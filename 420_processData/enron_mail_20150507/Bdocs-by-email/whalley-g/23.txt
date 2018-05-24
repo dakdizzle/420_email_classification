@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+policy		1
+items		1
+time		1
+days		1
+ones		1
+messages	1
+mean		1
+deleted		1
+current		1
+out		1
+sends		1
+long		1
+really		1
+kept		1
+saved		1

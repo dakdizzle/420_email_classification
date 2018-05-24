@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+kim		1
+chuckle		1
+thanks		1

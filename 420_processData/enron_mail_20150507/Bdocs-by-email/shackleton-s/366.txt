@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+bruce		1
+enron		1
+fyi		1
+rbruce		1
+recipients	1
+ou		1
+access		1
+na		1
+trading		1
+robert		1

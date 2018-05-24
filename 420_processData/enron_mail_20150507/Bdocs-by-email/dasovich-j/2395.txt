@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+bond		1
+jeff		1
+find		1
+reg		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+bit		1
+right		1
+final		1
+unclear		1
+michelle	1
+review		1
+ready		1

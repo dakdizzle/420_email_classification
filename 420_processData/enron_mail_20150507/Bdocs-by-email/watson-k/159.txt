@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+up		1
+steve		1
+keep		1
+fyi		1
+trying		1
+candidates	1
+thanks		1
+actually	1
+posted		1
+interviews	1
+kim		1
+fran		1
+set		1
+still		1
+interviewing	1

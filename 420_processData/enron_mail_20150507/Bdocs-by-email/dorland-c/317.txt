@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+gj		2
+cowan		1
+aeco		1
+one		1
+more		1
+di		1
+balance		1
+eol		1
+trade		1
+sold		1

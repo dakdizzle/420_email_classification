@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+shall		3
+vince		2
+register	1
+kunreuther	1
+meeting		1
+reminding	1
+wharton		1
+october		1
+ask		1
+june		1
+filename	1
+vkamins		1
+thanks		1
+jx		1
+pstian		1
+itinerary	1
+come		1
+thursday	1
+howard		1
+assistant	1
+forward		1
+conference	1
+kaminski	1

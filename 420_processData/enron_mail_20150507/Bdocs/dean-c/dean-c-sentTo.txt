@@ -1,0 +1,24 @@
+NumWords	33
+NumTerms	21
+
+cdean12@earthlink.net	3
+custserv@sportingbetusa.com	3
+jenniferp@acespower.com	3
+candc@gocougs.wsu.edu	3
+kpeterso@epelectric.com	3
+amy.fitzpatrick@enron.com	2
+shift.dl-portland@enron.com	2
+ericatollefson@yahoo.com	1
+joelle.martin@dal.frb.org	1
+mike.curry@enron.com	1
+fmg37@hotmail.com	1
+holden.salisbury@enron.com	1
+yatman22@yahoo.com	1
+chip.cox@enron.com	1
+cdean2@houston.rr.com	1
+doug.gilbert-smith@enron.com	1
+cara.semperger@enron.com	1
+albert.meyers@enron.com	1
+amy.hood@us.brann.com	1
+numbers@numbersintoknowledge.com	1
+julie.kearney@enron.com	1

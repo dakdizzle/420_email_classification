@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+chairs		1
+index		1
+http		1
+residential	1
+htm		1

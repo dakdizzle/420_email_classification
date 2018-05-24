@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ve		1
+time		1
+know		1
+change		1
+need		1
+fine		1
+booked		1

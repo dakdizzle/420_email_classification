@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+those		1
+kinds		1
+schedules	1

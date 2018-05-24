@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lead		1
+forwarded	1
+pl		1
+scott		1
+desk		1
+palmer		1
+central		1
+new		1

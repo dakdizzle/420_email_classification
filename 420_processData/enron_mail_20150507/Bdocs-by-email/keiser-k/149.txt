@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+look		1
+thankskam	1
+hearing		1
+attached	1
+keiser		1
+forward		1
+resume		1
+denham		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+october		1
+commit		1
+engagement	1
+shirley		1

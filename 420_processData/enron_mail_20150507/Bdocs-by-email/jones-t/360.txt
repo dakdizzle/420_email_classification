@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+group		1
+know		1
+need		1
+nekesha		1

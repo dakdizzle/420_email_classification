@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+thanks		2
+problems	1
+card		1
+credit		1
+ok		1
+up		1
+know		1
+following	1
+same		1
+jim		1
+use		1
+yes		1
+crystal		1

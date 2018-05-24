@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+monday		1
+interested	1
+up		1
+heads		1
+farmer		1
+person		1
+lost		1
+answer		1
+asked		1
+tom		1
+chris		1
+daren		1
+transportation	1
+thursday	1
+logistics	1
+manager		1
+give		1

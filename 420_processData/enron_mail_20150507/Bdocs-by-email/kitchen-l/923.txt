@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+m		2
+budget		1
+greg		1
+working		1
+know		1
+friday		1
+far		1
+budgets		1
+see		1
+planning	1
+obviously	1
+go		1
+one		1
+minutes		1
+year		1
+wes		1
+still		1
+mm		1

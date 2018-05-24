@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+little		1
+nice		1
+spoil		1
+lately		1
+ive		1
+want		1
+didnt		1
+think		1

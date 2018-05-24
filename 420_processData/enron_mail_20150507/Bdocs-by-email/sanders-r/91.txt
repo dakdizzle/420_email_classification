@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+o		1
+costilla	1
+interface	1
+enron		1
+david		1
+insurer		1
+studdert	1
+coverage	1
+call		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lynn		1
+put		1
+plan		1
+list		1
+invite		1
+attending	1
+audrey		1
+thanks		1

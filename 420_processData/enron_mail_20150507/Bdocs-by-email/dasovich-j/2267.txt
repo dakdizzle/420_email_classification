@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+pretty		2
+stuff		1
+useful		1
+begin		1
+moving		1
+nonetheless	1
+crazy		1
+understanding	1
+today		1
+even		1
+late		1
+times		1
+holiday		1
+jeff		1
+best		1
+tomorrow	1
+quickly		1
+week		1
+very		1
+discussing	1
+big		1

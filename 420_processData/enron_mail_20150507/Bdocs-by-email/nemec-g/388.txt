@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+send		1
+try		1
+again		1
+earlier		1
+tried		1

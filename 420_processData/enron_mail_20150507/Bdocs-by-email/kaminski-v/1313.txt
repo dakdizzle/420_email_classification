@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+meet		2
+monday		1
+between		1
+place		1
+street		1
+building	1
+andrews		1
+vince		1
+enron		1
+al		1
+best		1
+shall		1
+church		1
+november	1

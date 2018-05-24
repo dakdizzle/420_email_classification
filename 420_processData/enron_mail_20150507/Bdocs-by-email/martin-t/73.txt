@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+described	1
+las		1
+together	1
+plan		1
+john		1
+monthly		1
+tom		1
+performance	1
+trip		1
+approved	1
+planning	1
+thanks		1
+volume		1
+versus		1
+put		1
+building	1
+targets		1
+team		1
+yes		1
+year		1
+beginning	1
+vegas		1
+eol		1
+actuals		1

@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+kam		2
+cn		2
+keiser		2
+thankskk	1
+updated		1
+trv		1
+recipients	1
+names		1
+filename	1
+na		1
+users		1
+kkeiser		1
+enron		1
+admin		1
+pstsheet	1
+column		1
+highlighted	1
+ou		1
+added		1

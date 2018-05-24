@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+following	1
+names		1
+tholt		1
+janie		1
+keith		1
+ermis		1
+list		1
+mailing		1
+holst		1
+please		1
+matt		1
+mike		1
+smith		1
+grigsby		1
+frank		1
+add		1

@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+info		1
+monday		1
+citizens	1
+programs	1
+gas		1
+contact		1
+see		1
+site		1
+ds		1
+down		1
+follow		1
+loading		1
+behalf		1
+list		1
+control		1
+monitor		1
+july		1
+contract	1
+more		1
+griffith	1

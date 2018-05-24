@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+yr		2
+email		1
+david		1
+please		1
+following	1
+enventenergy	1
+sumasnymexnorthwest	1
+curve		1
+rockiesdmp	1
+pozner		1
+com		1

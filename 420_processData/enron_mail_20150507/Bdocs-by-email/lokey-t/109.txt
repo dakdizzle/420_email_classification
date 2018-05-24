@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+enron		2
+shortly		1
+pstwe		1
+porter		1
+lokey		1
+comx		1
+filename	1
+miller		1
+filing		1
+privileged	1
+tlokey		1
+non		1
+origin		1
+tx		1
+gregory		1
+making		1
+kay		1
+com		1

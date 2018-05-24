@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+mark		2
+mwhitt		2
+cn		2
+case		1
+send		1
+recipients	1
+holidays	1
+attachment	1
+filename	1
+na		1
+pstplease	1
+thanks		1
+privileged	1
+out		1
+non		1
+during		1
+enron		1
+save		1
+ou		1
+need		1
+whitt		1
+resume		1

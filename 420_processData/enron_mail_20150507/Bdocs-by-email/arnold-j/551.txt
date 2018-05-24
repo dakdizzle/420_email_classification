@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+monday		1
+m		1
+promise		1
+friday		1
+buy		1
+var		1
+fine		1
+going		1
+tuesday		1
+see		1
+ll		1
+boone		1

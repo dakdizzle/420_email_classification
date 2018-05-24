@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+october		2
+vacation	2
+th		2
+mark		1
+department	1
+time		1
+thank		1
+complicated	1
+hronline	1
+web		1
+appreciate	1
+site		1
+tried		1
+timesheet	1
+really		1
+somebody	1
+pimenovext	1
+possible	1
+procedure	1
+hr		1
+constance	1
+submit		1
+vladi		1
+didn		1

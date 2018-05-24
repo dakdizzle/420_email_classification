@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+cn		2
+mheard		2
+heard		1
+marie		1
+recipients	1
+filename	1
+na		1
+see		1
+pstplease	1
+privileged	1
+non		1
+enron		1
+ou		1
+below		1
+e		1
+max		1
+mail		1

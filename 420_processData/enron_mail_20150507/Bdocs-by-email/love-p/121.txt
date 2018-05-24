@@ -1,0 +1,23 @@
+NumWords	39
+NumTerms	20
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+rsevers		1
+pl		1
+scott		1
+severson	1
+winfree		1
+palmer		1
+kam		1
+russ		1
+owinfre		1
+east		1
+neal		1
+kkeiser		1
+done		1
+spalmer		1
+keiser		1

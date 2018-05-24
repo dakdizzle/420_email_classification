@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+outcome		1
+know		1
+pls		1
+sorry		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+hey		1
+storage		1
+centana		1
+gas		1
+ask		1
+want		1
+use		1
+issue		1
+offset		1
+new		1
+think		1

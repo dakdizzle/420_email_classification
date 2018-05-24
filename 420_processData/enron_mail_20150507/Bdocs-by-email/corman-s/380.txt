@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+m		1
+information	1
+numbers		1
+center		1
+excised		1
+cost		1
+thanks		1
+okay		1

@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+po		1
+lawyer		1
+fame		1
+brianp		1
+leave		1
+fell		1
+out		1
+something	1
+picture		1
+texas		1
+parlayed	1
+susman		1
+aiglincoln	1
+saw		1
+chair		1
+com		1

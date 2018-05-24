@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+marty		1
+booker		1
+maurice		1
+ill		1
+want		1
+smith		1
+trade		1

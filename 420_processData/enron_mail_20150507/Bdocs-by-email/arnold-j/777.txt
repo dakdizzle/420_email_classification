@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+around		1
+tline		1
+m		1
+interested	1
+working		1
+today		1
+perky		1

@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+chris		2
+goodell		1
+physical	1
+scott		1
+ability		1
+trade		1
+filename	1
+see		1
+judy		1
+pstplease	1
+thanks		1
+products	1
+townsend	1
+canadian	1
+myself		1
+germany		1
+need		1
+eol		1
+give		1
+germanyx	1

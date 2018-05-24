@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+tough		2
+everyday	1
+congratulations	1
+tell		1
+dad		1
+test		1
+proud		1
+love		1

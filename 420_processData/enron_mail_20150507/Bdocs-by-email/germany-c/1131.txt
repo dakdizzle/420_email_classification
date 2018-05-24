@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+uhhhhhh		1
+interesting	1
+hassle		1
+very		1
+call		1

@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+cn		2
+nemec		2
+gerald		2
+discuss		1
+recipients	1
+filename	1
+na		1
+privileged	1
+gnemec		1
+non		1
+enron		1
+thursday	1
+ou		1
+pstlet		1

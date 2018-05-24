@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+blackberry	2
+fran		2
+lynn		1
+promtion	1
+net		1
+wireless	1
+handheld	1
+know		1
+supposed	1
+grade		1
+www		1
+guess		1
+worked		1
+sent		1
+title		1
+check		1
+back		1
+told		1
+level		1
+chcecked	1
+coordinator	1
+new		1
+ll		1
+didn		1

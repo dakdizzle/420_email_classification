@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+cn		2
+germany		2
+chris		2
+psti		1
+check		1
+enron		1
+cgerman		1
+recipients	1
+ou		1
+filename	1
+na		1
+ll		1

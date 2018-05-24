@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+heard		1
+nobody		1
+office		1
+understanding	1
+wtc		1
+worked		1
+don		1
+carr		1
+remember	1

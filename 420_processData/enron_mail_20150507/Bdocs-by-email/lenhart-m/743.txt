@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lovin		1
+appetitie	1
+come		1
+satisfy		1
+over		1
+love		1

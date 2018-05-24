@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+home		1
+look		1
+pl		1
+talking		1
+reached		1
+forward		1
+documents	1
+alternatively	1
+requested	1
+help		1
+thanks		1
+here		1

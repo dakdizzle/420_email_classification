@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+pstthis		1
+inlet		1
+non		1
+pressure	1
+schoolcraftx	1
+darrell		1
+dschool		1
+griffith	1
+c		1
+tw		1
+filename	1
+privileged	1

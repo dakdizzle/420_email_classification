@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+problem		2
+thanks		2
+hand		1
+time		1
+know		1
+infrastructure	1
+once		1
+alert		1
+someone		1
+detective	1
+updates		1
+during		1
+team		1
+sally		1
+cause		1
+ahead		1
+resynchronization	1
+going		1
+determine	1
+business	1
+hours		1
+normal		1
+server		1

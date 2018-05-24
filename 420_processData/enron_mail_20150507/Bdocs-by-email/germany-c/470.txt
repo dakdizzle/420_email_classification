@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+check		1
+go		1
+today		1
+scheduled	1
+late		1
+wire		1
+cancel		1

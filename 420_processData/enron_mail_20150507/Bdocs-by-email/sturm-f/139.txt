@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+dude		1
+now		1
+price		1
+fletch		1
+see		1
+beige		1
+thanks		1
+out		1
+morning		1
+wsj		1
+article		1
+check		1
+headed		1
+right		1
+book		1
+lower		1
+bearish		1
+summary		1

@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+selling		2
+day		1
+instead		1
+tomorrow	1
+lone		1
+star		1
+st		1
+txu		1

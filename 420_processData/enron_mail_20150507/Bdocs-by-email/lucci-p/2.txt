@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+pictures	1
+clothes		1
+wednesday	1
+night		1
+involved	1
+take		1

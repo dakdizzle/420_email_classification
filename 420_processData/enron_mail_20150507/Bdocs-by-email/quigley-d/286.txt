@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+splurge		1
+really		1
+messages	1
+save		1
+go		1
+money		1
+ocean		1
+shop		1
+view		1

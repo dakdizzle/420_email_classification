@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+chris		2
+cn		2
+germany		2
+transportationthanks	1
+cgerman		1
+gas		1
+structuring	1
+recipients	1
+folder		1
+filename	1
+na		1
+pstplease	1
+bankruptcy	1
+enron		1
+ou		1
+access		1
+ruth		1
+give		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+much		1
+fri		1
+shout		1
+gave		1
+cheesy		1
+miss		1
+out		1
+really		1
+grasshopper	1
+go		1
+weekend		1
+joint		1
+went		1
+sucks		1
+didn		1

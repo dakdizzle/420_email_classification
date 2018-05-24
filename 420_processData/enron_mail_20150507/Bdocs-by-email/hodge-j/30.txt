@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+forgot		1
+stacy		1
+jeff		1
+sorry		1
+include		1
+thanks		1

@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+morning		3
+one		3
+first		1
+win		1
+seems		1
+map		1
+thing		1
+send		1
+copy		1
+steve		1
+sorry		1
+someone		1
+ds		1
+way		1
+down		1
+notfax		1
+michelle	1
+told		1
+give		1
+didn		1

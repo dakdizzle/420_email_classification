@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+counterparty	1
+name		1
+corporation	1
+one		1
+markets		1
+virtual		1
+actual		1
+assurance	1

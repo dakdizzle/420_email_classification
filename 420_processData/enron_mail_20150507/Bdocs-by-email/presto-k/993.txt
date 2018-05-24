@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+refund		1
+power		1
+recognized	1
+east		1

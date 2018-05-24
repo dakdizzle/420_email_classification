@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+fine		1
+works		1
+date		1

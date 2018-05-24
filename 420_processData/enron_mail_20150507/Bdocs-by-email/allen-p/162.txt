@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+email		2
+quarter		1
+ability		1
+copy		1
+hard		1
+thank		1
+report		1
+future		1
+nd		1
+phillip		1
+download	1
+pallen		1
+trend		1
+prefer		1
+allen		1
+hotmail		1
+address		1
+website		1
+receive		1
+com		1

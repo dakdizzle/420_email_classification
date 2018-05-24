@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+put		1
+pl		1
+today		1
+balls		1
+mail		1
+thanks		1

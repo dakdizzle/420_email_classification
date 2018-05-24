@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+rude		2
+want		2
+responded	1
+send		1
+marie		1
+requests	1
+happy		1
+another		1
+hasn		1
+mail		1
+don		1
+think		1
+ll		1

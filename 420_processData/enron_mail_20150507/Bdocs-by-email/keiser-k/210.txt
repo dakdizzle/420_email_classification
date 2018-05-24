@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+won		2
+enpower		2
+longer		2
+applications	1
+group		1
+those		1
+thankskamx	1
+power		1
+know		1
+gas		1
+books		1
+min		1
+running		1
+way		1
+affects		1
+change		1
+need		1
+necessary	1
+using		1
+think		1

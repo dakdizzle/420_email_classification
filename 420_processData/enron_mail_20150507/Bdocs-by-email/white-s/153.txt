@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+terminated	1
+updated		1
+counterparties	1
+physical	1
+up		1
+stacey		1
+scheduling	1
+split		1
+spreadsheets	1
+clean		1
+updates		1
+please		1
+groups		1
+start		1
+financial	1
+already		1
+process		1
+new		1

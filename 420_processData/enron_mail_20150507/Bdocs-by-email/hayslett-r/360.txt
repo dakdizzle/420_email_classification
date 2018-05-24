@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+blackberry	2
+want		2
+walk		1
+net		1
+wireless	1
+handheld	1
+eat		1
+www		1
+meet		1
+sent		1
+somewhere	1
+before		1
+lunch		1
+over		1

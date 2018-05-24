@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+everyday	1
+gone		1
+kids		1
+manage		1
+logisitcs	1
+being		1
+ability		1
+talk		1
+schedules	1

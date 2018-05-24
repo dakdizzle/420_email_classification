@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+care		1
+right		1
+crazy		1
+kori		1
+now		1
+honey		1
+take		1
+thereit		1
+over		1
+getting		1
+love		1

@@ -1,0 +1,13 @@
+NumWords	14
+NumTerms	10
+
+hou		2
+rick		2
+ect		2
+buy		2
+forwarded	1
+pm		1
+walton		1
+ectcc		1
+sheila		1
+subject		1

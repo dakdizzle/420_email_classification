@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+mark		2
+mhaedic		2
+cn		2
+hereof		1
+copy		1
+hodge		1
+recipients	1
+asked		1
+pstsami		1
+filename	1
+na		1
+privileged	1
+haedicke	1
+look		1
+matter		1
+non		1
+enron		1
+jeff		1
+ou		1

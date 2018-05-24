@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+directory	1
+please		1
+include		1

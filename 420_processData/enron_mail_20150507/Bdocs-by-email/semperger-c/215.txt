@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ish		1
+case		1
+cell		1
+try		1
+coffee		1
+brunch		1
+whatnot		1
+c		1
+wait		1
+don		1

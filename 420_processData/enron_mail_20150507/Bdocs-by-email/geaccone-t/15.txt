@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+available	1
+stan		1
+more		1
+probably	1
+hours		1
+take		1

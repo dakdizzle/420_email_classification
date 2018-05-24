@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+jim		3
+schwieger	2
+cn		2
+please		2
+brian		1
+respond		1
+paid		1
+recipients	1
+answer		1
+filename	1
+jschwie		1
+na		1
+thanks		1
+pstted		1
+enron		1
+tax		1
+ou		1
+question	1
+ad		1
+val		1

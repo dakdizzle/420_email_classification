@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hitting		1
+yeah		1
+clubs		1
+strip		1
+think		1

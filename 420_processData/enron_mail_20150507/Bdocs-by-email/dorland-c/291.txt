@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+login		1
+id		1
+angela		1
+chris		1
+site		1
+password	1

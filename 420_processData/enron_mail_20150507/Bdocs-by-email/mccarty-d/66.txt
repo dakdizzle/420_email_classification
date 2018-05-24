@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+written		1
+success		1
+dan		1
+better		1
+couldn		1
+ourselves	1
+list		1
+mary		1
+another		1
+decision	1
+kay		1
+big		1
+add		1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+gas		2
+way		1
+stocks		1
+down		1
+bursting	1
+bill		1
+go		1
+seams		1
+natural		1
+hammered	1
+getting		1

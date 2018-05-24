@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+debra		2
+email		1
+eb		1
+fax		1
+power		1
+ng		1
+legal		1
+houston		1
+street		1
+alliant		1
+light		1
+related		1
+sylvia		1
+america		1
+regarding	1
+heartland	1
+enron		1
+texas		1
+north		1
+smith		1
+perlingiereenron	1
+perlingiere	1
+com		1
+wisconsin	1

@@ -1,0 +1,7 @@
+NumWords	6
+NumTerms	4
+
+meeting		2
+tuesday		2
+one		1
+informed	1

@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+depressed	2
+very		2
+scott		1
+somewhat	1
+attention	1
+well		1
+doggies		1
+busy		1
+sad		1
+now		1
+divert		1
+home		1
+really		1
+m		1
+hope		1
+nothing		1
+want		1
+work		1
+still		1
+don		1
+think		1
+love		1
+here		1
+over		1

@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+credit		2
+department	1
+guaranties	1
+marie		1
+draft		1
+isda		1
+determined	1
+upon		1
+enron		1
+lissa		1
+unlimited	1
+corp		1
+amount		1
+based		1
+give		1

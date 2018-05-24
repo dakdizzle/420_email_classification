@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+gnemec		2
+cn		2
+pstattached	1
+letters		1
+sending		1
+know		1
+recipients	1
+filename	1
+na		1
+privileged	1
+out		1
+each		1
+two		1
+consent		1
+non		1
+enron		1
+nemec		1
+one		1
+assignment	1
+ou		1
+executables	1
+need		1
+gerald		1
+execution	1

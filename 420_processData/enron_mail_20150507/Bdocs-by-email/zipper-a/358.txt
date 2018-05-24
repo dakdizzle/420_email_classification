@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+arnold		1
+john		1
+sld		1
+ngz		1

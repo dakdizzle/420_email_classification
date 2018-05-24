@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+dorland		3
+chris		2
+text		1
+plain		1
+cx		1
+filename	1
+folder		1
+pst		1
+exmerge		1
+asciix		1
+content		1
+sent		1
+type		1
+origin		1
+itemsx		1
+charset		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+miss		1
+meeting		1
+time		1
+staff		1
+available	1
+rod		1

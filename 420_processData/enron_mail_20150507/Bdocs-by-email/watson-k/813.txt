@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+doing		3
+well		1
+rights		1
+sandy		1
+fine		1
+wanted		1
+see		1
+kim		1
+water		1
+hope		1
+check		1
+transwestern	1
+project		1
+kirk		1
+big		1
+hi		1

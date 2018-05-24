@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+sweet		3
+thank		1
+person		1
+inviting	1
+marked		1
+mine		1

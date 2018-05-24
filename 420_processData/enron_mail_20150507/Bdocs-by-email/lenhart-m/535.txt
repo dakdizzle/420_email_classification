@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+maintanence	1
+high		1
+think		1

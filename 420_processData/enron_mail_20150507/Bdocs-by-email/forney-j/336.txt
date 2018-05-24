@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+samuel		2
+traders		2
+ercot		1
+under		1
+servicesplease	1
+know		1
+above		1
+responsible	1
+following	1
+enpower		1
+listed		1
+books		1
+hourlyteco	1
+thanks		1
+valid		1
+asap		1
+change		1
+added		1
+jmf		1
+making		1

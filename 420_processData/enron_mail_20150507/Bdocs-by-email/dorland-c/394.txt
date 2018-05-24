@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+send		1
+alberta		1
+map		1
+good		1
+please		1
+includes	1
+guys		1
+alliance	1
+chris		1
+stephane	1
+bc		1

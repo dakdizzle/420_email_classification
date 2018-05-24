@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+copy		1
+contact		1
+far		1
+due		1
+ve		1
+sent		1
+ago		1
+lone		1
+contract	1
+want		1
+use		1
+star		1
+activity	1
+agency		1
+months		1
+couple		1

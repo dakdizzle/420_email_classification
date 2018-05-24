@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hear		1
+day		1
+great		1
+know		1
+fine		1
+week		1
+tuesday		1
+thoughts	1

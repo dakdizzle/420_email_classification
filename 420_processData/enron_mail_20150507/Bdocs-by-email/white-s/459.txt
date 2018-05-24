@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+stacey		1
+adjustment	1
+information	1
+dpr		1
+line		1
+below		1

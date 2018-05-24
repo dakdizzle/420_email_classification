@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+out		2
+coming		1
+hectic		1
+up		1
+lucked		1
+things		1
+see		1
+getting		1
+eric		1
+champs		1
+still		1
+dodge		1
+pretty		1
+nat		1
+here		1

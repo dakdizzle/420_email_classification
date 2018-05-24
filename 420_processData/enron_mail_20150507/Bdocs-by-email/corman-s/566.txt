@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+mike		2
+make		1
+carry		1
+steve		1
+gas		1
+advise		1
+blackberry	1
+karen		1
+cormanvp	1
+please		1
+logistics	1
+happy		1
+need		1
+shelley		1

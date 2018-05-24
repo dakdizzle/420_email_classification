@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+fully		1
+fax		1
+executed	1
+please		1
+letter		1
+vanek		1
+agreement	1
+thanks		1
+daren		1
+txu		1
+finalized	1

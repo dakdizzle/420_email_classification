@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+long		1
+way		1
+first		1
+thing		1
+section		1
+gas		1
+complicated	1
+tammycome	1
+see		1

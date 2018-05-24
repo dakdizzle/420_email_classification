@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+jforney		3
+cn		2
+john		1
+thank		1
+name		1
+recipients	1
+pstcarmen	1
+alex		1
+filename	1
+na		1
+privileged	1
+employee	1
+non		1
+mcelreath	1
+enron		1
+please		1
+mispelled	1
+ou		1
+forney		1
+below		1
+correct		1
+note		1

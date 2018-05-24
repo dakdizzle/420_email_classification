@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+around		1
+best		1
+need		1
+mike		1
+turned		1
+thanks		1

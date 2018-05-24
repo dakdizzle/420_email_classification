@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+possibly	1
+make		1
+track		1
+pitch		1
+weather		1
+guys		1
+money		1
+wanted		1
+see		1
+afgan		1
+ya		1
+don		1
+think		1

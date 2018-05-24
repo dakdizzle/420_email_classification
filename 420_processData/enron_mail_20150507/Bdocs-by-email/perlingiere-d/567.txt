@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+credit		2
+cn		2
+perlingiere	2
+debra		2
+gives		1
+send		1
+ok		1
+until		1
+pstwait		1
+recipients	1
+filename	1
+na		1
+thanks		1
+privileged	1
+regarding	1
+non		1
+enron		1
+language	1
+dperlin		1
+ou		1
+agreement	1

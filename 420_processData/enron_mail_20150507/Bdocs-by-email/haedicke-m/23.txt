@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+mark		1
+look		1
+discussion	1
+forward		1

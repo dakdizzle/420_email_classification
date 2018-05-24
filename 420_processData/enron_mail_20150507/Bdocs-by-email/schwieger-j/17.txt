@@ -1,0 +1,10 @@
+NumWords	9
+NumTerms	7
+
+contracts	2
+nymex		2
+april		1
+buy		1
+sell		1
+activity	1
+calculation	1

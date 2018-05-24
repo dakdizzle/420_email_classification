@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+lee		1
+enron		1
+baker		1
+fali		1
+recipients	1
+ou		1
+okey		1
+lbaker		1
+na		1
+adaytum		1
+com		1

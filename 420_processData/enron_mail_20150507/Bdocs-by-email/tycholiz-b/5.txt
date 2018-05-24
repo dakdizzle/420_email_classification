@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+playoff		1
+order		1
+place		1
+jessica		1
+tickets		1
+bt		1

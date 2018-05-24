@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+debt		2
+gs		1
+specific	1
+place		1
+appeal		1
+equities	1
+going		1
+trade		1
+distressed	1

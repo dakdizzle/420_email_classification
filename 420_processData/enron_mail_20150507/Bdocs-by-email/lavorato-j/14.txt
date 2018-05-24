@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+copel		1
+sell		1
+told		1
+sold		1
+hickerson	1
+shares		1

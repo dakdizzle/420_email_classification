@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+structure	1
+fill		1
+sound		1
+yes		1
+address		1
+bt		1
+here		1
+lot		1

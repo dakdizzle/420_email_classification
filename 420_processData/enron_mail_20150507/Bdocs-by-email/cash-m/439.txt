@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+mcash		2
+cn		2
+process		2
+cash		1
+recipients	1
+filename	1
+na		1
+general		1
+privileged	1
+good		1
+psti		1
+non		1
+enron		1
+idea		1
+ou		1
+michelle	1
+don		1
+think		1

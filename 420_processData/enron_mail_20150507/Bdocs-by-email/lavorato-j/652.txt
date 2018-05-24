@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+email		1
+desribe		1
+send		1
+detail		1
+john		1
+location	1
+term		1
+price		1
+phone		1
+trade		1
+number		1
+thanks		1
+actually	1
+out		1
+book		1
+include		1

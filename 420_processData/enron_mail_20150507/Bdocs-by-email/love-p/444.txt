@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+day		1
+pl		1
+scott		1
+valentine	1
+desk		1
+now		1
+palmer		1
+happy		1
+central		1
+megan		1
+handles		1

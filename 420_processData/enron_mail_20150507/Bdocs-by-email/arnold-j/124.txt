@@ -1,0 +1,13 @@
+NumWords	14
+NumTerms	10
+
+intcx		2
+helpdesk	2
+ice		2
+com		2
+icehelpdesk	1
+enron		1
+cicehelpdesk	1
+ecom		1
+imceanotes	1
+cancel		1

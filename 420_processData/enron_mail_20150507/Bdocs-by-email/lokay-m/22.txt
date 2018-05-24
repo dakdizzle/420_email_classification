@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+up		1
+one		1
+pick		1
+tonight		1
+thanks		1

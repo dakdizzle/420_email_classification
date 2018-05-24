@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+owe		1
+customers	1
+saying		1
+represented	1
+risk		1
+therefore	1
+biggest		1
+load		1
+undercollection	1
+concern		1
+enron		1
+run		1
+thoughts	1
+average		1

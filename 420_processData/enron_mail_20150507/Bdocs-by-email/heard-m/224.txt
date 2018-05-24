@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+originals	1
+sempra		1
+copy		1
+marie		1
+faxed		1
+seen		1
+roeline		1
+confirmation	1
+signed		1
+eric		1
+assignment	1
+new		1
+hi		1

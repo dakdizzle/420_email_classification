@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+morning		1
+rested		1
+day		1
+outlook		1
+positive	1
+feel		1
+jon		1
+keep		1
+love		1
+informed	1
+ll		1
+actually	1

@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+price		2
+wrong		1
+out		1
+day		1
+go		1
+trader		1
+honor		1
+another		1
+ahead		1
+guess		1
+deal		1
+input		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+follow		1
+personal	1
+more		1
+resigns		1
+reasons		1
+skilling	1

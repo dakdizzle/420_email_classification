@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+lorraine	1
+telles		1
+believe		1
+umanoff		1
+assistant	1
+contact		1
+yes		1
+don		1
+adam		1
+needs		1

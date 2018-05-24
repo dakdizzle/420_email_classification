@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+make		1
+paul		1
+attend		1
+sure		1
+pat		1
+kaufman		1
+keene		1
+thanks		1

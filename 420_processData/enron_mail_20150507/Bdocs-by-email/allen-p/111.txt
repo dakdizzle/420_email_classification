@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+send		1
+fax		1
+directly	1
+try		1
+bills		1
+vendor		1
+payphone	1
+copies		1
+checks		1
+transferred	1
+pre		1

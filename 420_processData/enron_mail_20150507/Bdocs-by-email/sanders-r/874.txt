@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+cell		1
+go		1
+ready		1
+phone		1
+call		1

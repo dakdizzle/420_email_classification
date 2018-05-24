@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+potiential	1
+bullet		1
+material	1

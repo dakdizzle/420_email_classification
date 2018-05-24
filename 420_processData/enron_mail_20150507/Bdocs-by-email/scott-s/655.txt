@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+plugging	1
+away		1
+still		1
+mine		1

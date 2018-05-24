@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+erms		2
+taking		1
+everything	1
+position	1
+copy		1
+files		1
+west		1
+now		1
+price		1
+netco		1
+file		1
+copies		1
+adm		1
+thankskam	1
+save		1
+moved		1
+use		1
+grigsby		1
+reports		1
+ryan		1

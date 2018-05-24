@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+pay		2
+agreed		1
+remainder	1
+directly	1
+brian		1
+reimbursement	1
+lease		1
+bridgeline	1
+netting		1
+karen		1
+owed		1
+charges		1
+morning		1
+issues		1
+dow		1
+discussion	1
+gruesen		1
+subject		1
+concerned	1
+issue		1
+fees		1
+reimburse	1

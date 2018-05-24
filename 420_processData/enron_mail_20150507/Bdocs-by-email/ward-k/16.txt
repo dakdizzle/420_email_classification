@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+laird		1
+quesitons	1
+thanks		1
+call		1

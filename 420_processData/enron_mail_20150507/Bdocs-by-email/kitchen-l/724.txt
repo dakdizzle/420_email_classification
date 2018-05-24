@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+people		1
+baby		1
+aren		1
+ebs		1
+turning		1
+fine		1
+falling		1
+big		1
+lots		1
+over		1

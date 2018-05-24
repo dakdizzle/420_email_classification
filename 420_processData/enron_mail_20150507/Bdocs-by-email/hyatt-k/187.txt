@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+conflict	1
+pm		1
+thankskevin	1
+another		1
+now		1
+session		1
+hyatt		1
+cancel		1

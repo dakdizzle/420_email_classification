@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+business	2
+day		1
+know		1
+days		1
+second		1
+revision	1
+int		1
+apy		1
+agree		1
+guarantor	1
+language	1
+shall		1
+obligations	1
+follows		1
+goes		1
+line		1
+purposed	1
+read		1
+eh		1

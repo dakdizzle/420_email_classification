@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+regular		1
+know		1
+spot		1
+brunch		1
+plans		1
+guess		1
+places		1
+ton		1
+sunday		1
+special		1
+easter		1
+ideas		1
+maybe		1
+thought		1
+brunches	1

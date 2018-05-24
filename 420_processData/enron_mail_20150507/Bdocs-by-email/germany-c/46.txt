@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+see		2
+women		1
+upward		1
+daughter	1
+good		1
+roll		1
+practicing	1
+even		1
+don		1
+feed		1
+eye		1

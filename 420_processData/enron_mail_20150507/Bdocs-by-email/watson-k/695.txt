@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+section		2
+black		2
+between		1
+difference	1
+lisa		1
+hartman		1
+julie		1
+thanks		1
+kim		1
+many		1
+thursday	1
+clint		1
+tickets		1
+feb		1

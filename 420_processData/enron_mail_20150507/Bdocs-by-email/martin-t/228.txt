@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+anything	1
+couldn		1
+without		1
+back		1
+emotional	1
+more		1
+asked		1
+tom		1
+decided		1
+getting		1
+thanks		1

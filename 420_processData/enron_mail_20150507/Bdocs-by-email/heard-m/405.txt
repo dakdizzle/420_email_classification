@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+few		1
+friday		1
+name		1
+uecomm		1
+marie		1
+robbi		1
+left		1
+default		1
+aud		1
+such		1
+wrong		1
+master		1
+threshold	1
+questions	1
+cross		1
+looked		1
+mail		1
+comments	1
+voice		1

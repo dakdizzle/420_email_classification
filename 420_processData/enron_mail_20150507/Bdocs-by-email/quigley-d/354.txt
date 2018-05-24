@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+fine		2
+thats		1
+pm		1

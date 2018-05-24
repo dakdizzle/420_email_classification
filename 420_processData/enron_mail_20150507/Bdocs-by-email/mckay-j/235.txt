@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+know		1
+cancelled	1
+friday		1
+well		1
+today		1
+effect		1
+due		1
+running		1
+go		1
+weekend		1
+want		1
+another		1
+note		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+good		2
+up		1
+come		1
+saw		1
+keep		1
+work		1
+bt		1
+deal		1
+through		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+done		1
+thanx		1
+chris		1
+help		1

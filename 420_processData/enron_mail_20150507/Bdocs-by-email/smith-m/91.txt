@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+questar		1
+heard		1
+becky		1
+report		1
+now		1
+june		1
+site		1
+call		1
+anything	1
+lori		1
+again		1
+need		1
+data		1
+week		1
+mat		1
+give		1
+st		1
+through		1

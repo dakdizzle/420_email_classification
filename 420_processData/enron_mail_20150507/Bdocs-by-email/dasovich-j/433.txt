@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+jeff		3
+dasovich	2
+cn		2
+arm		1
+send		1
+wptf		1
+copy		1
+jdasovic	1
+recipients	1
+sorry		1
+along		1
+filename	1
+na		1
+filing		1
+thanks		1
+privileged	1
+non		1
+enron		1
+best		1
+pstdan		1
+ou		1
+evie		1
+didn		1

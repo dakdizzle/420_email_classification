@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+heard		2
+ect		2
+anything	2
+more		2
+pm		1
+position	1
+mccubbin	1
+sandra		1
+hou		1
+overstating	1
+sanders		1
+grand		1
+lockyer		1
+enron		1
+bill		1
+nothing		1
+subject		1
+learned		1
+jury		1
+haven		1
+richard		1

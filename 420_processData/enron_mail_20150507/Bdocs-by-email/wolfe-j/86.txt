@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+jwolfe		2
+cn		2
+true		1
+jason		1
+recipients	1
+warlikenature	1
+filename	1
+na		1
+wolfe		1
+girlfriend	1
+privileged	1
+nice		1
+friends		1
+pause		1
+inner		1
+non		1
+enron		1
+pstoh		1
+touch		1
+go		1
+millerknight	1
+reveals		1
+ou		1
+think		1

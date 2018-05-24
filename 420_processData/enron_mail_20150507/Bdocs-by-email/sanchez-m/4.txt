@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+before		2
+base		1
+good		1
+m		1
+started		1
+tryin		1
+build		1
+weeks		1
+template	1

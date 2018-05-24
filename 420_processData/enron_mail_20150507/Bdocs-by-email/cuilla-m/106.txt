@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+furniture	3
+hear		1
+card		1
+email		1
+credit		1
+hopefully	1
+days		1
+cancelled	1
+spankin		1
+cedit		1
+soon		1
+sent		1
+purchase	1
+star		1
+prez		1
+usa		1
+new		1

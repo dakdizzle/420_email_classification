@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+vol		2
+power		1
+term		1
+risk		1
+weather		1
+gas		1
+longer		1
+high		1
+products	1
+mainly		1
+concentrate	1
+trades		1
+cross		1
+start		1
+book		1
+maybe		1
+going		1
+doing		1
+identifying	1
+commodity	1
+reward		1
+trading		1

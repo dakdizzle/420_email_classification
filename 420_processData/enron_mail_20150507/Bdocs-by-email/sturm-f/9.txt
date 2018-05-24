@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ish		1
+meeting		1
+sent		1
+reply		1
+up		1
+back		1
+steve		1
+fletch		1
+blew		1
+computer	1

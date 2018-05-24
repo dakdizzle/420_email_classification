@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+dont		1
+know		1
+sorry		1

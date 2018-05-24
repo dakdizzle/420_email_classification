@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+station		3
+valve		2
+monday		1
+leaking		1
+until		1
+gas		1
+recycle		1
+houston		1
+shipped		1
+anew		1
+rd		1
+afternoon	1
+ds		1
+cycle		1
+being		1
+july		1
+need		1
+unavailable	1

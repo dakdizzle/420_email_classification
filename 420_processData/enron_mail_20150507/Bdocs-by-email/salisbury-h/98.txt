@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+fischerbill	1
+richterjeremy	1
+alonzomark	1
+list		1
+gangthank	1
+williams	1
+iiiheather	1
+morrislisa	1
+duntonjeff	1
+tom		1
+here		1

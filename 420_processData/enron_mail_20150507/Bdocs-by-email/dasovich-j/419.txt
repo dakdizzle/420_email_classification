@@ -1,0 +1,10 @@
+NumWords	9
+NumTerms	7
+
+yank		3
+dude		1
+write		1
+davis		1
+loretta		1
+chill		1
+tubing		1

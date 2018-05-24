@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sheila		1
+attend		1
+see		1

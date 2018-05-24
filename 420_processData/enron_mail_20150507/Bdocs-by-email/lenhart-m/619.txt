@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+great		1
+used		1
+dogs		1
+retarded	1
+one		1

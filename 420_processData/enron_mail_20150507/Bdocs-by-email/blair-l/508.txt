@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+lynn		1
+time		1
+prior		1
+sorry		1
+notbe		1
+earlier		1
+alicia		1
+thanks		1
+good		1
+sent		1
+hope		1
+commitment	1
+everyone	1
+attend		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ran		1
+washington	1
+know		1
+literally	1
+once		1
+c		1
+martha		1

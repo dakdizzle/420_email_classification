@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ed		1
+ok		1
+adjusting	1
+phillip		1
+allen		1
+ellie		1
+ranch		1

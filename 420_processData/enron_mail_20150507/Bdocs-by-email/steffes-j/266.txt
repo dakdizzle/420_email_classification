@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+jim		1
+moving		1
+forward		1

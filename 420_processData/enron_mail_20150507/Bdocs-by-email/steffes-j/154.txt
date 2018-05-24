@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+discuss		1
+sellers		1
+bunch		1
+know		1
+guys		1
+markets		1
+thanks		1
+push		1
+prof		1
+analysis	1
+agree		1
+electricity	1
+distributed	1
+want		1
+probably	1
+need		1
+study		1
+don		1
+means		1
+generation	1
+needs		1

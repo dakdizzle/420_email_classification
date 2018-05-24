@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+em		1
+go		1

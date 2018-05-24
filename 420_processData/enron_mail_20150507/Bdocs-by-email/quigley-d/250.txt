@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+home		1
+great		1
+priceit		1
+psl		1
+rate		1
+later		1
+tix		1
+tonight		1
+therecut	1
+checking	1
+call		1

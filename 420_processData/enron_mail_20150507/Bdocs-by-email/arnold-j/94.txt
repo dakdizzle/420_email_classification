@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+out		1
+boys		1
+go		1
+work		1
+tonight		1
+mind		1

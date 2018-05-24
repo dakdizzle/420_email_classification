@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+paul		2
+pybarbo		2
+cn		2
+recipients	1
+filename	1
+na		1
+barbo		1
+privileged	1
+pststeve	1
+follow		1
+non		1
+enron		1
+bottom		1
+ou		1
+mail		1
+instructions	1

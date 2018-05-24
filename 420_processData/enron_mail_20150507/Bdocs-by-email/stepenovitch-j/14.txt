@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+morning		1
+stay		1
+coming		1
+m		1
+rudy		1
+watching	1
+leaving		1
+up		1
+wouldn		1
+saturday	1
+game		1
+sunday		1

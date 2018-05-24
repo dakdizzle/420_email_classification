@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+together	1
+deadline	1
+exactly		1
+asap		1
+bryan		1
+information	1
+working		1
+steve		1
+fyi		1
+requested	1
+pull		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+anything	1
+look		1
+glad		1
+kate		1

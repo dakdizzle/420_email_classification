@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+property	2
+intellectual	2
+issue		2
+folks		1
+logo		1
+accenture	1
+ownership	1
+litigation	1
+decided		1
+content		1
+issues		1
+indemnifying	1
+enron		1
+involve		1
+believe		1
+branding	1
+michelle	1
+appropriately	1
+more		1
+relating	1
+thus		1
+pr		1
+defer		1
+principle	1

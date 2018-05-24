@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+futures		2
+desk		2
+financial	2
+aggregate	1
+rid		1
+exclude		1
+realized	1
+trades		1
+report		1
+excluding	1
+davei		1
+thanks		1

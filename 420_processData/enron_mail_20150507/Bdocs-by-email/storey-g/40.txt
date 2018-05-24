@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+storey		1
+forgot		1
+clinton		1
+gmat		1
+find		1
+scores		1
+geoffrey	1

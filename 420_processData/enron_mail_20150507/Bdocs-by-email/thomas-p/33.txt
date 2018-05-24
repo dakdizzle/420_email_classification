@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+go		1
+leave		1
+bunda		1
+call		1

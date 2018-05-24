@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+good		1
+free		1
+talk		1
+know		1
+friday		1
+bad		1
+chris		1
+later		1
+tickets		1
+don		1

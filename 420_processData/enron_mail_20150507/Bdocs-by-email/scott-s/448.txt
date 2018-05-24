@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+email		1
+scott		1
+list		1
+eligible	1
+susan		1
+caterers	1
+hoping		1
+thanks		1

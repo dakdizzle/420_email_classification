@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+info		1
+reporting	1
+fun		1
+great		1
+job		1
+rick		1
+guys		1
+appreciated	1
+bod		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ve		1
+kim		1
+article		1
+seen		1
+copy		1
+locate		1
+thanks		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+capacity	1
+talk		1
+wonderful	1
+release		1
+forget		1

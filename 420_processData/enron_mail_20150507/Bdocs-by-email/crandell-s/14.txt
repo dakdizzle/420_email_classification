@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+info		2
+same		2
+wire		2
+feb		2
+little		1
+care		1
+send		1
+thankssean	1
+avista		1
+steve		1
+later		1
+tom		1
+take		1
+ve		1
+aep		1
+l		1
+alonso		1
+please		1
+book		1
+northwest	1
+business	1
+using		1
+calculation	1
+through		1

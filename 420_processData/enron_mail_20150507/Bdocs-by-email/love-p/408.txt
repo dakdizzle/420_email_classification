@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+simply		1
+tolerance	1
+forms		1
+pl		1
+under		1
+looking		1
+meters		1
+without		1
+good		1
+signed		1
+direct		1
+deal		1
+big		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+close		1
+ok		1
+saw		1
+won		1
+going		1
+sakic		1
+tonight		1

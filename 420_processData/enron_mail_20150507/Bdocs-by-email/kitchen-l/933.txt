@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+m		1
+people		1
+quiet		1
+enron		1
+until		1
+nominated	1
+keep		1
+nothing		1
+knew		1
+trying		1
+late		1
+usual		1

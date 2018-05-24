@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+customer	1
+meeting		1
+plan		1
+nng		1
+accts		1
+attend		1
+don		1

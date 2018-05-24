@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+guys		2
+home		1
+way		1
+pl		1
+time		1
+risk		1
+leave		1
+sure		1

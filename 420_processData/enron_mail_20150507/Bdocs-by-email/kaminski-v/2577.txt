@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+rakesh		1
+vince		1
+hc		1
+stands		1

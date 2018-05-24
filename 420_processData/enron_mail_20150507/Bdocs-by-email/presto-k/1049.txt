@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+look		1
+value		1
+exchanges	1
+sell		1
+buy		1
+even		1
+don		1
+see		1

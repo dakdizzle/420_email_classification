@@ -1,0 +1,19 @@
+NumWords	21
+NumTerms	16
+
+steve		3
+airline		2
+up		2
+ticket		2
+knows		1
+agreed		1
+talk		1
+today		1
+later		1
+thanks		1
+golfing		1
+j		1
+show		1
+buy		1
+forney		1
+booked		1

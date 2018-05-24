@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+baseball	1
+tix		1

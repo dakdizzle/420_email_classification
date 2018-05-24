@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+much		1
+m		1
+thing		1
+jeremy		1
+fax		1
+please		1
+faxing		1
+obliged		1
+yesterday	1

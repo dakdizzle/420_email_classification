@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+know		2
+easy		1
+hot		1
+paul		1
+want		1
+lars		1
+don		1
+jeez		1
+tub		1

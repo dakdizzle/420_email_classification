@@ -1,0 +1,9 @@
+NumWords	12
+NumTerms	6
+
+out		3
+year		3
+oct		3
+hope		1
+jon		1
+help		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+discussion	1
+looking		1
+forward		1

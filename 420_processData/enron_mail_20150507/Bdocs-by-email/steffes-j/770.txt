@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+way		1
+moving		1
+work		1

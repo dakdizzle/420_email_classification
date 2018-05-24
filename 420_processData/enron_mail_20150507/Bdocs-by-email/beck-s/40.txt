@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+saga		1
+up		1
+keep		1
+date		1

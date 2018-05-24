@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+follow		1
+up		1
+stacey		1
+working		1
+casey		1
+harry		1
+someone		1
+see		1
+reports		1
+hai		1

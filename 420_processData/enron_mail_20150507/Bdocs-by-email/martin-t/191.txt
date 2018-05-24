@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+pager		2
+order		1
+account		1
+invoice		1
+paid		1
+keep		1
+reached		1
+phone		1
+tom		1
+laura		1
+home		1
+happened	1
+whatever	1
+cell		1
+convert		1
+personal	1
+need		1
+issue		1

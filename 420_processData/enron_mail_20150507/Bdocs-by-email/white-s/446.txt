@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+stacey		1
+reserve		1
+associated	1
+ees		1
+richter		1
+thanks		1
+lavorato	1
+handle		1
+jeff		1
+moved		1
+asking		1
+question	1
+still		1
+mm		1

@@ -1,0 +1,23 @@
+NumWords	27
+NumTerms	20
+
+org		3
+presto		2
+chart		2
+ect		2
+kevin		2
+hou		2
+pm		1
+meeting		1
+today		1
+sorry		1
+jae		1
+forwarded	1
+tjae		1
+pmto		1
+tamara		1
+ectcc		1
+black		1
+charthere	1
+needed		1
+subject		1

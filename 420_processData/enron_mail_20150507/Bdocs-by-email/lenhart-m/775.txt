@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+applications	1
+house		1
+appleby		1
+chilis		1
+denny		1
+pies		1
+getting		1

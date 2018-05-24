@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+blackberry	2
+lynn		1
+net		1
+briing		1
+wireless	1
+handheld	1
+steve		1
+www		1
+omaha		1
+print		1
+thanks		1
+sent		1
+ava		1
+please		1
+give		1

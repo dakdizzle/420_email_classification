@@ -1,0 +1,18 @@
+NumWords	19
+NumTerms	15
+
+guy		3
+tire		2
+winter		2
+tires		1
+sport		1
+bored		1
+thinks		1
+try		1
+well		1
+dunlop		1
+find		1
+out		1
+wheel		1
+need		1
+wheels		1

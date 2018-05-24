@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sue		1
+lunch		1
+ll		1

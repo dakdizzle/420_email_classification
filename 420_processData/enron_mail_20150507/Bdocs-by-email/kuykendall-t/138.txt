@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+meeting		1
+know		1
+report		1
+today		1
+doing		1
+cnbc		1

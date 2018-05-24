@@ -1,0 +1,24 @@
+NumWords	27
+NumTerms	21
+
+www		4
+com		4
+asp		1
+kids		1
+party		1
+mpiratebirthday	1
+http		1
+activitiesforkids	1
+outhttp		1
+invitations	1
+print		1
+dltk		1
+ship		1
+htmlhttp	1
+cards		1
+pirate		1
+htmhttp		1
+iby		1
+teachshole	1
+htm		1
+birthday	1

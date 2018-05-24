@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+alto		2
+palo		2
+different	1
+know		1
+attached	1
+see		1
+thanks		1
+kim		1
+historical	1
+format		1
+verified	1
+loads		1
+mike		1

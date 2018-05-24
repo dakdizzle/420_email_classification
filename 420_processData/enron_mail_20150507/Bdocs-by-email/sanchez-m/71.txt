@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+com		4
+inc		1
+eng		1
+scarbrough	1
+houstonisd	1
+adv		1
+dow		1
+sscott		1
+enron		1
+jmenconi	1
+emharris	1
+org		1
+hotmail		1
+ksanchez	1
+ser		1
+jake		1

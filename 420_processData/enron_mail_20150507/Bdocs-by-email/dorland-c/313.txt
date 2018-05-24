@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+resident	1
+gets		1
+hotel		1
+shit		1
+untill		1
+westin		1
+here		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+home		1
+tonight		1
+call		1

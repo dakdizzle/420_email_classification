@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+starts		1
+thinks		1
+interest	1
+game		1
+tonight		1
+soccer		1
+catching	1

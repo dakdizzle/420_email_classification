@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+coming		1
+talk		1
+john		1
+wed		1
+sounds		1
+site		1
+planning	1
+thanks		1
+soon		1
+way		1
+great		1
+go		1
+sager		1
+mail		1
+still		1
+lunch		1
+elizabeth	1
+hi		1
+voice		1

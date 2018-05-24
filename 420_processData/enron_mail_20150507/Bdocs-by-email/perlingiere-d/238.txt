@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+agreed		1
+sent		1
+veronica	1
+threshold	1
+review		1
+redline		1
+duke		1
+thanks		1
+mm		1

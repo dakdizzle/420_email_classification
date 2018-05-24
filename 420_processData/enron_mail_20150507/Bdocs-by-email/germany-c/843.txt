@@ -1,0 +1,12 @@
+NumWords	15
+NumTerms	9
+
+phone		4
+number		4
+hey		1
+tammy		1
+please		1
+john		1
+steve		1
+need		1
+woman		1

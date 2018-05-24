@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+day		1
+good		1
+talk		1
+well		1
+going		1
+later		1
+luck		1
+ll		1

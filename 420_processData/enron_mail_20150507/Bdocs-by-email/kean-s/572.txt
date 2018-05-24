@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+anything	1
+moving		1
+message		1
+know		1
+forward		1
+don		1
+thanks		1

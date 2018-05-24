@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+corrected	1
+those		1
+demand		1
+tagg		1
+moved		1
+deleted		1
+charges		1
+kk		1
+pieces		1

@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+list		2
+time		2
+circulate	1
+team		1
+using		1
+still		1

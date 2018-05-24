@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jmforney	1
+come		1
+ben		1
+turrets		1
+rearranging	1
+phone		1
+question	1
+thanks		1

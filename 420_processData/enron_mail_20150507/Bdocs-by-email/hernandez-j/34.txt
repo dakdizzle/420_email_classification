@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+over		2
+brewski		1
+looking		1
+know		1
+baby		1
+bringing	1
+s		1
+out		1
+congrats	1
+m		1
+good		1
+check		1
+come		1
+one		1
+rob		1

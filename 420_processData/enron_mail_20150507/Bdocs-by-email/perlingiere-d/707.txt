@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+cn		2
+perlingiere	2
+debra		2
+ok		1
+stacy		1
+reviewed	1
+recipients	1
+same		1
+filename	1
+na		1
+pst		1
+privileged	1
+gty		1
+non		1
+enron		1
+dperlin		1
+ou		1
+given		1

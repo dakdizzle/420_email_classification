@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+issues		1
+nepco		1
+fyi		1
+michelle	1
+picketing	1

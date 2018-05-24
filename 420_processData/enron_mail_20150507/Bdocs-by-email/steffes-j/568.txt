@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+group		1
+scott		1
+jeremy		1
+under		1
+know		1
+organization	1
+fyi		1
+field		1
+centralize	1
+ees		1
+stays		1
+gahn		1
+jim		1
+sales		1
+people		1
+changes		1
+unchanged	1
+want		1
+harry		1
+teams		1
+reorganized	1
+usa		1
+blachman	1

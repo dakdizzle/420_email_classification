@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+diana		1
+hey		1
+scoop		1

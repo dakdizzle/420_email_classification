@@ -1,0 +1,18 @@
+NumWords	19
+NumTerms	15
+
+larry		2
+selling		2
+cal		2
+mike		2
+bid		1
+know		1
+total		1
+market		1
+anything	1
+varjohn		1
+bidpower	1
+calpine		1
+need		1
+pljohn		1
+strong		1

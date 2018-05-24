@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+today		2
+candy		2
+bywater		1
+energizer	1
+owed		1
+seeing		1
+reminded	1
+number		1
+bywaters	1
+phil		1
+telephone	1
+mail		1
+here		1

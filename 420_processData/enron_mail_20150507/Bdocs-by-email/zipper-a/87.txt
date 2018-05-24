@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+day		1
+scott		1
+gas		1
+desk		1
+coral		1
+graff		1
+someone		1
+trade		1
+neal		1
+pool		1
+eric		1
+millionth	1
+tco		1

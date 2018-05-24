@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+rub		1
+people		1
+send		1
+jenny		1
+webb		1
+jay		1
+rest		1

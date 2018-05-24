@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+ll		2
+make		1
+hey		1
+evening		1
+know		1
+lisa		1
+guys		1
+susan		1
+phone		1
+see		1
+call		1
+head		1
+out		1
+dinner		1
+m		1
+cell		1
+going		1
+probably	1
+wait		1

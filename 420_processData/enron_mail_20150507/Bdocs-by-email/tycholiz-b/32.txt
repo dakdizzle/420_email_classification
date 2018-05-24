@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+perhaps		2
+value		1
+send		1
+standstill	1
+drive		1
+smud		1
+pgt		1
+rfping		1
+stanley		1
+suncor		1
+avista		1
+steph		1
+highest		1
+morgan		1
+bt		1
+out		1
+capacity	1
+thinking	1
+bit		1
+calpine		1
+radical		1
+think		1

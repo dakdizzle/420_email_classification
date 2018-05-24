@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+email		1
+tyou		1
+list		1
+want		1
+interesting	1
+find		1
+added		1
+though		1

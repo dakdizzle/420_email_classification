@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+meeting		1
+thursday	1
+yes		1
+still		1

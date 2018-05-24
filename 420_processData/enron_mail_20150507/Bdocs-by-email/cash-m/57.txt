@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+claudia		2
+cn		2
+meraz		1
+recipients	1
+arrange		1
+na		1
+thanks		1
+cmeraz		1
+enron		1
+collected	1
+please		1
+michelle	1
+ou		1

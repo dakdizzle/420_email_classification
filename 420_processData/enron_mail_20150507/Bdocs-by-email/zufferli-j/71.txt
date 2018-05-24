@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+ability		1
+gas		1
+daily		1
+deals		1
+canada		1
+netco		1
+trade		1
+products	1
+out		1
+transactions	1
+denominated	1
+canadian	1
+financial	1
+traded		1
+need		1
+business	1
+legacy		1
+move		1
+reduce		1

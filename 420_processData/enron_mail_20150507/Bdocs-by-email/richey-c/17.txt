@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+employees	2
+cd		2
+terrible	1
+outlook		1
+drive		1
+roms		1
+productivity	1
+rom		1
+damn		1
+happened	1
+look		1
+microsoft	1
+enron		1
+corel		1
+yes		1
+use		1
+access		1
+bizarre		1
+product		1
+plummet		1
+allow		1

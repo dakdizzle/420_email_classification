@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+party		1
+ca		1
+compression	1
+revised		1
+know		1
+attached	1
+review		1
+both		1
+rusk		1
+texas		1
+please		1
+agreements	1
+northeast	1
+questions	1
+county		1
+added		1
+projects	1

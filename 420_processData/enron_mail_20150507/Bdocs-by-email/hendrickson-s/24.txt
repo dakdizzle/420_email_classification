@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+order		1
+cng		1
+scott		1
+somehow		1
+limit		1
+later		1
+east		1
+never		1
+dutch		1
+during		1
+executed	1
+nx		1
+recognized	1
+minutes		1
+turmoil		1
+need		1
+eol		1
+jun		1
+deal		1
+sold		1
+cancel		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+lynn		1
+fyi		1
+shelley		1
+thanks		1

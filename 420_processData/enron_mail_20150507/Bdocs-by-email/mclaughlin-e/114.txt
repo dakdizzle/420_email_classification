@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+please		1
+francis		1
+february	1
+again		1
+errol		1
+month		1
+d		1
+post		1
+thanks		1

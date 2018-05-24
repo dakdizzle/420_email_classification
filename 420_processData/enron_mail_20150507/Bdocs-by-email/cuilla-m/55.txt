@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ni		1
+tengo		1
+idea		1
+puta		1

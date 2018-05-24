@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+shorton		2
+cn		2
+seems		1
+pstit		1
+stanley		1
+responsive	1
+recipients	1
+filename	1
+na		1
+help		1
+gary		1
+privileged	1
+non		1
+enron		1
+more		1
+ou		1
+horton		1

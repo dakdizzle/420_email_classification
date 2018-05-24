@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+resolution	1
+know		1
+questions	1
+attached	1
+draft		1
+redline		1
+comments	1
+act		1
+sale		1
+afternoon	1

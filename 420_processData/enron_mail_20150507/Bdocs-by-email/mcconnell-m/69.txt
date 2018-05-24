@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+mcconnelltranswestern	1
+company		1
+boomer		1
+pipeline	1
+mcconnell	1
+cell		1
+enron		1
+office		1
+go		1
+faxmark		1
+sooner		1
+markmark	1
+com		1
+here		1

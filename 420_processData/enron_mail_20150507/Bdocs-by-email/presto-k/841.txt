@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+per		1
+mw		1
+change		1
+period		1
+request		1
+thanks		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+year		1
+nov		1
+gj		1

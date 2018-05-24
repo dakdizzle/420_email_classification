@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+operation	1
+runs		1
+marketers	1
+paul		1
+power		1
+john		1
+talk		1
+wouldn		1
+gas		1
+canada		1
+perhaps		1
+toronto		1
+devries		1
+montreal	1
+need		1
+traders		1
+eastern		1
+side		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+redundant	1
+people		1
+somewhat	1
+thank		1
+honestly	1
+endorsement	1
+becoming	1
+means		1
+lot		1

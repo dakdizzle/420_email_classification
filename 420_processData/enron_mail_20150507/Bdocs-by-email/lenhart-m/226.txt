@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+morning		1
+out		1
+something	1
+wedding		1
+wednes		1
+hurting		1
+go		1
+weekend		1
+going		1
+think		1

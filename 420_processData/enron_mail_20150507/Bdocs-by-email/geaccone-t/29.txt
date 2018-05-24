@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+step		1
+sending		1
+stan		1
+parties		1
+meet		1
+actually	1
+out		1
+work		1
+rescheduled	1
+ahead		1
+mail		1
+process		1
+cancel		1

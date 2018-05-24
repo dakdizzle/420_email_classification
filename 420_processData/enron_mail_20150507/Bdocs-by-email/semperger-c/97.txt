@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+end		1
+fine		1
+removed		1
+help		1
+server		1
+proxy		1
+think		1

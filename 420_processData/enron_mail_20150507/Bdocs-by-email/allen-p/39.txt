@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+status		1
+wade		1
+quot		1
+jacques		1
+up		1
+draw		1
+jeff		1
+craig		1
+release		1
+phillip		1

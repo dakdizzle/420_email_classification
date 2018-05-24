@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+retail		2
+group		1
+value		1
+berney		1
+serve		1
+recommendation	1
+deals		1
+structuring	1
+intended	1
+load		1
+generation	1

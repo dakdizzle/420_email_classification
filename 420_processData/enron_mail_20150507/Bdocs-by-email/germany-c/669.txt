@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+know		2
+request		2
+assign		1
+everything	1
+asked		1
+wanted		1
+bases		1
+cover		1
+via		1
+people		1
+submit		1
+don		1
+didn		1

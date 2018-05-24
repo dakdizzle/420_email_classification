@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+sitting		1
+kim		1
+west		1
+desk		1
+chris		1

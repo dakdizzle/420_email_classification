@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+latest		1
+chart		1
+services	1
+power		1
+please		1
+genco		1
+org		1
+mail		1
+including	1
+east		1
+thanks		1

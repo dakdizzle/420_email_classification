@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+down		1
+assume		1
+man		1
+commodities	1
+edf		1
+break		1
+hour		1
+dutch		1
+frank		1
+gerri		1

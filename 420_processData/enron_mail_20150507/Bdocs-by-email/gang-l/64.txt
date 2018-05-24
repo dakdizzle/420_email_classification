@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+aobut		1
+tuesday		1
+okay		1

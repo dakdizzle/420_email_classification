@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+recent		1
+matrix		1
+type		1
+information	1
+gloria		1
+contact		1
+keep		1
+need		1

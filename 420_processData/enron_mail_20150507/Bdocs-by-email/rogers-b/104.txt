@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+sounds		1
+megan		1
+later		1
+joke		1
+soon		1
+good		1
+down		1
+three		1
+bankruptcy	1
+check		1
+ben		1
+ship		1
+ago		1
+needed		1
+takeover	1
+going		1
+lifeboat	1
+weeks		1
+cpn		1

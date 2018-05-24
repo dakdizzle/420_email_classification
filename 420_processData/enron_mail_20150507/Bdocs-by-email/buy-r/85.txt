@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+investment	2
+make		1
+see		1
+recommendations	1
+mess		1
+louisiana	1
+rick		1
+advisors	1
+duplex		1
+ya		1
+shrimpers	1
+go		1
+south		1
+maybe		1

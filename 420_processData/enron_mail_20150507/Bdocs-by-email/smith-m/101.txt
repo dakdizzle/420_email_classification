@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+thursday	1
+happy		1
+attend		1
+karen		1
+lunch		1
+mat		1
+thanks		1

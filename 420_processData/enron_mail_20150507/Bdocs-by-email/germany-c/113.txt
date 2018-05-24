@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+hey		1
+photo		1
+need		1

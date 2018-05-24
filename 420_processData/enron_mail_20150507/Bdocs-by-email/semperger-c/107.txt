@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+wonderful	2
+everything	1
+bash		1
+craig		1
+today		1
+drunken		1
+thanks		1
+really		1
+nice		1
+way		1
+good		1
+weekend		1
+inviting	1
+suprise		1

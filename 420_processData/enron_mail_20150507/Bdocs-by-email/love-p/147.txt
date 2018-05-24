@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+beer		2
+seen		1
+open		1
+pl		1
+man		1
+selling		1
+show		1
+buy		1
+kid		1
+trying		1
+file		1

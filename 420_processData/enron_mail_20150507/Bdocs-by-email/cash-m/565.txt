@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+mcash		2
+cn		2
+michelle	2
+dynegy		1
+simply		1
+entity		1
+cash		1
+pstit		1
+comment		1
+know		1
+plans		1
+recipients	1
+filename	1
+na		1
+privileged	1
+posted		1
+non		1
+enron		1
+hr		1
+merged		1
+policies	1
+ou		1
+already		1
+don		1

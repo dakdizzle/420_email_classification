@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+covers		1
+concerns	1
+redlined	1
+revised		1
+nelson		1
+know		1
+cindy		1
+changes		1
+attached	1
+confirm		1

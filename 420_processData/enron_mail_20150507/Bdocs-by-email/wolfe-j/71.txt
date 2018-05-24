@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+long		1
+ok		1
+jason		1
+geof		1
+sorry		1
+took		1
+thanks		1
+talked		1

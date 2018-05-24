@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+tuesday		2
+call		2
+ll		2
+regardsjohnp	1
+belfor		1
+customers	1
+deals		1
+advise		1
+fredfirst	1
+once		1
+portfolio	1
+meet		1
+asked		1
+never		1
+morning		1
+m		1
+kill		1
+again		1
+one		1
+going		1

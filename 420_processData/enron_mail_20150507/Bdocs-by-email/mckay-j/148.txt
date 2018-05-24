@@ -1,0 +1,13 @@
+NumWords	17
+NumTerms	10
+
+enron		4
+arsystem	3
+mailman		2
+com		2
+eenron		1
+report		1
+carsystem	1
+person		1
+ecom		1
+imceanotes	1

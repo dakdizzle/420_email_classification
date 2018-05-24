@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+man		1
+real		1

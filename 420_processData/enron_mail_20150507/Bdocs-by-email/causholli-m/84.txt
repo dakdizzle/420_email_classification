@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+except		1
+filled		1
+know		1
+cpu		1
+attached	1
+form		1
+curiosity	1
+monika		1
+don		1
+nyree		1
+thanks		1

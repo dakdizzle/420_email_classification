@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ib		1
+go		1
+one		1
+think		1
+fcm		1

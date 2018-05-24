@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+send		2
+comments	2
+lawyer		1
+revised		1
+credit		1
+worksheet	1
+working		1
+reviewed	1
+marie		1
+today		1
+throwing	1
+around		1
+back		1
+finalizing	1
+turned		1
+aa		1
+richard		1

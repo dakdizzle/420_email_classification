@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+stay		1
+kim		1
+merced		1
+jeff		1
+tell		1
+late		1
+sure		1
+thanks		1

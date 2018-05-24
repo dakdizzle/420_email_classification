@@ -1,0 +1,25 @@
+NumWords	30
+NumTerms	22
+
+price		4
+report		3
+basis		3
+requested	2
+further		1
+fixed		1
+information	1
+louis		1
+seperate	1
+keep		1
+now		1
+wholesale	1
+contained	1
+similiar	1
+out		1
+correlations	1
+look		1
+positions	1
+show		1
+before		1
+including	1
+equivalent	1

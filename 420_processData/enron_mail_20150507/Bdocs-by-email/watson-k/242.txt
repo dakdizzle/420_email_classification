@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+com		3
+dye		2
+hotmail		2
+hey		1
+net		1
+pdq		1
+paul		1
+john		1
+keep		1
+watson		1
+file		1
+thanks		1
+kim		1
+florence	1
+dennis		1
+team		1
+please		1
+italian		1
+bakeratlas	1
+donnelly	1
+booked		1
+janell		1

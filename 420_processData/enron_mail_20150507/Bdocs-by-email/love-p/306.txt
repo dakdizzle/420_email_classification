@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+two		1
+pl		1
+family		1
+deviation	1
+bodily		1
+ladies		1
+keep		1
+want		1
+harm		1
+currently	1
+oa		1
+result		1

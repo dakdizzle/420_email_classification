@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+kim		1
+time		1
+duty		1
+report		1
+audrey		1
+period		1
+thanks		1

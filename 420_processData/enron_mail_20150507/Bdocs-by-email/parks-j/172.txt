@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+ed		1
+pm		1
+ie		1
+deadline	1
+state		1
+know		1
+gas		1
+pipelines	1
+nomination	1
+morning		1
+april		1
+linda		1
+asap		1
+texas		1
+intending	1
+tomorrow	1
+buy		1
+need		1
+spoke		1
+inta		1
+lonestar	1

@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+m		2
+want		2
+taking		1
+hear		1
+hey		1
+crazy		1
+know		1
+today		1
+instead		1
+jeff		1
+delivered	1
+timing		1
+going		1
+new		1
+think		1
+mine		1

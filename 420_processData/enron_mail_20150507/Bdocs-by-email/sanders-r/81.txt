@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+referred	1
+send		1
+job		1
+manne		1
+steve		1
+now		1
+served		1
+recall		1
+glatzer		1
+although	1
+neal		1
+anything	1
+way		1
+something	1
+local		1
+great		1
+done		1
+matter		1
+don		1
+counsel		1
+love		1

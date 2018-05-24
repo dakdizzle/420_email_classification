@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+talk		1
+know		1
+want		1
+depends		1
+don		1

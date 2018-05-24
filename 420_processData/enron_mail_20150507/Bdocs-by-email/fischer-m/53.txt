@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+tax		3
+deferred	2
+income		2
+mark		1
+flucuation	1
+variance	1
+balance		1
+month		1
+september	1
+pronghorn	1
+current		1
+looks		1
+market		1
+effected	1
+recorded	1
+liability	1
+correct		1
+big		1
+calculation	1

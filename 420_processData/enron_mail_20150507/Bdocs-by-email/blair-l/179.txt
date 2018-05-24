@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+one		2
+lynn		1
+kim		1
+please		1
+know		1
+purchase	1
+buy		1
+ineed		1
+cards		1
+thanks		1

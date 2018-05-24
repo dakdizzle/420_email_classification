@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+look		2
+implosion	1
+cratered	1
+starting	1
+calpine		1
+dot		1
+today		1
+traded		1
+last		1
+com		1
+shares		1
+mm		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+run		1
+briefly		1
+attend		1
+ll		1

@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+going		2
+congrats	1
+way		1
+girl		1
+tallpl		1
+feet		1
+mallory		1

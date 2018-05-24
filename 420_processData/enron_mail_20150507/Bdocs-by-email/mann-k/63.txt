@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+cn		2
+send		1
+front		1
+recipients	1
+abrams		1
+na		1
+thanks		1
+cabrams		1
+whatever	1
+clement		1
+enron		1
+ou		1
+kay		1
+think		1
+lenders		1
+appropriate	1

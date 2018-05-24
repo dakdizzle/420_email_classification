@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+kam		2
+cn		2
+keiser		2
+those		1
+pstthanks	1
+up		1
+know		1
+ready		1
+recipients	1
+filename	1
+na		1
+setting		1
+kkeiser		1
+enron		1
+thankskam	1
+start		1
+changes		1
+hierarchy	1
+ou		1
+making		1

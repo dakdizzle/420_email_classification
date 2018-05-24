@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+service		1
+use		1
+still		1

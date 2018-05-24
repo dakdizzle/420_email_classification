@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+mathis		1
+heather		1

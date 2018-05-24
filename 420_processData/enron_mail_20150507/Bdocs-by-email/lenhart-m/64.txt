@@ -1,0 +1,26 @@
+NumWords	28
+NumTerms	23
+
+ect		2
+hou		2
+lenhart		2
+resume		2
+matthew		2
+embedded	1
+send		1
+pm		1
+track		1
+round		1
+karen		1
+phillip		1
+interviews	1
+forwarded	1
+hr		1
+buckley		1
+amto		1
+stdolelink	1
+ectcc		1
+subject		1
+allen		1
+new		1
+trading		1

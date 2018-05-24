@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+source		1
+power		1
+constellation	1

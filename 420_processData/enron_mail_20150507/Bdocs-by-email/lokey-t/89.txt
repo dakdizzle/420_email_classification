@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+time		2
+jeanette	1
+please		1
+screen		1
+advise		1
+approval	1
+log		1
+doll		1
+thought		1
+approved	1
+see		1
+reports		1

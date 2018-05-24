@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+picture		1
+kathy		1
+enside		1
+send		1
+copy		1
+electronic	1
+gribstald	1
+appeared	1
+mag		1

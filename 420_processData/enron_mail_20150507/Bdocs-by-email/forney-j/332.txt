@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+coming		1
+animals		1
+back		1
+keep		1
+stray		1
+feed		1
+never		1

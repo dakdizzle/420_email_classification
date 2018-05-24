@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+early		1
+something	1
+susposed	1
+time		1
+nic		1
+go		1
+cool		1
+want		1
+went		1

@@ -1,0 +1,13 @@
+NumWords	15
+NumTerms	10
+
+market		3
+make		2
+gtc		2
+going		2
+significantly	1
+m		1
+educate		1
+different	1
+difference	1
+want		1

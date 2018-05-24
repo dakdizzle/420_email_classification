@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+appt		1
+clinic		1
+diagnostic	1
+complicated	1
+calling		1
+phone		1
+thanks		1
+dr		1
+m		1
+bit		1
+tomorrow	1
+roman		1
+work		1
+think		1
+mind		1
+canceling	1

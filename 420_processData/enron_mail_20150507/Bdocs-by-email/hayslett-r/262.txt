@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+propose		1
+time		1
+stan		1
+probably	1
+answer		1
+week		1
+see		1

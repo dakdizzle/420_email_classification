@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+tonight		2
+anything	1
+mark		1
+work		1
+need		1
+schedule	1

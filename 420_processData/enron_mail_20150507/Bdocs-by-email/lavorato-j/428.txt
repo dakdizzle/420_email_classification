@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+liquid		2
+until		1
+liquidity	1
+feeds		1
+made		1
+entergy		1
+cinergy		1
+pjm		1
+itself		1

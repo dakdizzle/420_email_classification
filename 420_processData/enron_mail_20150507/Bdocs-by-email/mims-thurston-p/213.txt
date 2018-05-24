@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+registered	2
+danielle	2
+under		1
+know		1
+kinda		1
+crusoe		1
+m		1
+one		1
+clinique	1
+excited		1
+correct		1
+registry	1
+new		1

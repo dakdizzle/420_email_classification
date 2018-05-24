@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+much		1
+hallelujah	1
+go		1
+won		1
+now		1
+before		1
+maybe		1
+paper		1
+through		1

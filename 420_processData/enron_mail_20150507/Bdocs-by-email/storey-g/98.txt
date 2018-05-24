@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+per		2
+wanted		2
+dont		1
+cash		1
+value		1
+prices		1
+ect		1
+jan		1
+nov		1
+month		1
+books		1
+necessarily	1
+undiscounted	1
+book		1
+mtm		1
+e		1
+dec		1
+move		1
+liquidate	1

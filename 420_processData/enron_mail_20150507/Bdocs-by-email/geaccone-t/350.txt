@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+budget		1
+reviewed	1
+stan		1
+tw		1
+capital		1
+commercial	1
+reflect		1

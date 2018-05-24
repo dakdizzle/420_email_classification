@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+andy		1
+ercot		1
+send		1
+sheet		1
+vol		1
+current		1
+thanks		1

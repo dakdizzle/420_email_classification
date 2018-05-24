@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+power		2
+east		2
+included	1
+come		1
+report		1
+show		1
+mail		1
+eol		1
+see		1
+never		1
+thanks		1

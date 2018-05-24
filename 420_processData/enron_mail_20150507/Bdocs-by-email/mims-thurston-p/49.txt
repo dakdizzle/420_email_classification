@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+know		2
+professionally	1
+ask		1
+weddings	1
+yes		1
+someone		1
+sings		1
+song		1
+ll		1

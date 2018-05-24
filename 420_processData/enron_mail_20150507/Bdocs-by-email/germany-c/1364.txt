@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+cgerman		2
+cn		2
+pstwe		1
+wadd		1
+iroq		1
+gas		1
+recipients	1
+rate		1
+th		1
+filename	1
+na		1
+chris		1
+privileged	1
+flowing		1
+wright		1
+non		1
+enron		1
+germany		1
+ou		1
+discounted	1

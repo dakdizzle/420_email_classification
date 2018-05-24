@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+cockeysvile	1
+puchase		1
+vin		1
+box		1
+md		1
+gmacpo		1
+gcek		1

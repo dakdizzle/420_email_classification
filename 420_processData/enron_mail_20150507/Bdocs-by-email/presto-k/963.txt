@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+pricing		1
+gets		1
+model		1
+structuring	1
+nothing		1
+chance		1
+through		1

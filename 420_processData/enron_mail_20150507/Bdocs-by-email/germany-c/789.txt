@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+thursday	1
+hopefully	1
+once		1
+week		1

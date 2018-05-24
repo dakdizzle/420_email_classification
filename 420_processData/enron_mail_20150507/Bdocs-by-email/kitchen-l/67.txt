@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+expenses	1
+yours		1
+end		1
+try		1
+background	1
+systems		1
+checks		1
+filling		1
+better		1
+sec		1
+crap		1
+bouncing	1
+really		1
+good		1
+hope		1
+pay		1
+idea		1
+question	1
+week		1
+questionnaire	1

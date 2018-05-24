@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+day		1
+talk		1
+teb		1
+great		1
+right		1
+run		1
+telephone	1
+tonite		1
+gotta		1
+mail		1
+amount		1
+think		1
+love		1

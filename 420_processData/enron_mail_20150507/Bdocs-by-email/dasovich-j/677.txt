@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+morning		1
+latest		1
+road		1
+sorry		1
+thanks		1

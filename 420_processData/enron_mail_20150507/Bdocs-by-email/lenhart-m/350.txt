@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+good		1
+make		1
+handle		1
+know		1
+defense		1
+adjustments	1
+period		1
+rd		1
+don		1
+didn		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+adios		1
+make		1
+scott		1
+evening		1
+best		1
+please		1
+kori		1
+tell		1
+won		1
+luck		1
+mo		1
+thanks		1

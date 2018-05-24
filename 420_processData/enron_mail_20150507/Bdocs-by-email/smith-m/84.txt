@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+back		2
+supervisors	1
+questar		1
+becky		1
+friday		1
+whether		1
+management	1
+requested	1
+out		1
+wondering	1
+regarding	1
+office		1
+check		1
+creer		1
+tara		1
+piazze		1
+thursday	1
+historicals	1
+lori		1
+understand	1
+absence		1
+going		1
+mat		1
+ll		1

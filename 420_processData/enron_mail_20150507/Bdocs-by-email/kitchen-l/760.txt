@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+prompt		1
+thanked		1
+response	1
+whether		1
+thanks		1
+remember	1

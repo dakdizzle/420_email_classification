@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+picture		1
+ge		1
+tthe		1

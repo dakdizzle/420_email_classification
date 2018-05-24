@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+toy		1
+account		1
+boy		1
+want		1
+now		1
+spa		1
+charge		1

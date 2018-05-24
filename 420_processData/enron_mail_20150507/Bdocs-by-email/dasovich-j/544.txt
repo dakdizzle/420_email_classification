@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+puc		1
+legislature	1
+lawyer		1
+laugh		1
+place		1
+end		1
+know		1
+continues	1
+whether		1
+plot		1
+rate		1
+put		1
+good		1
+cry		1
+jeff		1
+best		1
+run		1
+thicken		1
+sure		1
+agreement	1
+don		1
+think		1

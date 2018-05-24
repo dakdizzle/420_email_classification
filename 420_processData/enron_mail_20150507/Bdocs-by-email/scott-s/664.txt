@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+starting	1
+well		1
+kinda		1
+biz		1
+lot		1
+undefined	1
+really		1
+point		1
+good		1
+scratch		1
+opportunity	1
+went		1
+think		1

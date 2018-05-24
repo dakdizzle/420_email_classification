@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+forgot		1
+completely	1
+wednesday	1
+sorry		1

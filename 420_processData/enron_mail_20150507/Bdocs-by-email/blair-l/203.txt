@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+attending	2
+lynn		1
+marketers	1
+minneapolis	1
+send		1
+time		1
+well		1
+know		1
+handouts	1
+omaha		1
+help		1
+thanks		1
+many		1
+ahead		1
+yes		1
+need		1
+ensure		1
+deb		1

@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+talk		2
+first		1
+reporting	1
+kathy		1
+brian		1
+risk		1
+today		1
+contact		1
+especially	1
+relationships	1
+lavorato	1
+propose		1
+changing	1
+right		1
+sally		1
+canadian	1
+think		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+pricing		1
+priced		1
+thinks		1
+basis		1
+volatility	1
+attractively	1
+options		1
+want		1
+mean		1
+having		1
+don		1
+input		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+wrong		1
+seem		1
+email		1
+cooper		1
+please		1
+forward		1
+thx		1
+address		1
+gary		1

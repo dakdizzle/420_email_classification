@@ -1,0 +1,4 @@
+NumWords	3
+NumTerms	1
+
+fun		3

@@ -1,0 +1,21 @@
+NumWords	26
+NumTerms	18
+
+june		4
+contracts	3
+nymex		2
+july		2
+buy		2
+mark		1
+value		1
+prices		1
+short		1
+today		1
+nymecontracts	1
+market		1
+settlement	1
+remaining	1
+follows		1
+sell		1
+postion		1
+cureent		1

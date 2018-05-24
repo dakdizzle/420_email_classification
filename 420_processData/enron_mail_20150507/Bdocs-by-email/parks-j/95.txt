@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+hey		1
+give		1
+call		1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+book		2
+trans		1
+others		1
+pl		1
+sorry		1
+central		1
+opt		1
+gdl		1
+ft		1
+storey		1
+geoff		1
+cnt		1
+remain		1
+intra		1
+move		1
+mistake		1
+phy		1
+needs		1

@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+forest		2
+stuff		1
+ok		1
+helpful		1
+few		1
+ted		1
+facts		1
+rick		1
+focus		1
+understand	1
+tree		1
+want		1
+tx		1
+london		1
+coordinate	1
+sure		1

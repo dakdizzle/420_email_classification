@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+cleca		1
+signing		1
+rock		1

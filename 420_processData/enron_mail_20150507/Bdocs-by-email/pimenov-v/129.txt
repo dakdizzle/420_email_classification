@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+mi		2
+para		2
+viaje		1
+preparar	1
+mucho		1
+nos		1
+compro		1
+por		1
+estudiar	1
+novia		1
+al		1
+vamos		1
+una		1
+equador		1
+el		1
+bonda		1
+espanol		1
+de		1
+cd		1

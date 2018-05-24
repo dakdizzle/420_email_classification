@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+referred	1
+lavorato	1

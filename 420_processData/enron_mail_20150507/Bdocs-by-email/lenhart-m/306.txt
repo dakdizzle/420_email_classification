@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+heating		1
+oil		1
+luis		1
+love		1

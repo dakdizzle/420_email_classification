@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+calger		1
+hear		1
+mentioned	1
+wanda		1
+know		1
+tribolet	1
+call		1
+anything	1
+something	1
+m		1
+check		1
+jeff		1
+best		1
+sez		1
+want		1
+lay		1
+waiting		1
+edison		1
+still		1
+doesn		1

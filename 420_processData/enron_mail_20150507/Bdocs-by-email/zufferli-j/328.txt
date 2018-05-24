@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+levels		1
+stock		1
+hope		1
+well		1
+things		1
+buy		1
+reasonable	1
+goes		1
+here		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+word		1
+interesting	1
+transcript	1
+thanks		1

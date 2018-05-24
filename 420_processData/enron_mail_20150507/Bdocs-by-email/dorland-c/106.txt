@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+party		1
+friends		1
+boy		1
+wonder		1
+up		1
+heads		1
+invited		1
+paper		1
+thanx		1

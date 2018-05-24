@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+here		2
+lynn		1
+put		1
+failed		1
+talking		1
+name		1
+spreadsheet	1
+sorry		1
+gina		1
+thanks		1

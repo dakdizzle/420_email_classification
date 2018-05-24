@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+alive		1
+woman		1
+sexiest		1

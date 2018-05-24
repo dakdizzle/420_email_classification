@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+mark		1
+wow		1
+great		1
+savvy		1
+works		1
+looks		1
+darby		1
+tech		1

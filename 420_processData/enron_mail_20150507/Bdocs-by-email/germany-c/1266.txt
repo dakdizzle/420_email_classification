@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+cgerman		2
+point		2
+cn		2
+tenn		2
+tewksbury	1
+pstwe		1
+mdq		1
+receipt		1
+recipients	1
+rate		1
+th		1
+filename	1
+na		1
+chris		1
+privileged	1
+non		1
+enron		1
+discount	1
+germany		1
+ou		1
+delivery	1

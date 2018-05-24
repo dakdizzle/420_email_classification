@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+out		2
+counterparty	2
+dealmaker	1
+close		1
+interested	1
+located		1
+work		1
+cue		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+mh		1
+html		1
+wrc		1
+http		1
+odbvzeog	1
+yahoo		1
+gmx		1
+biz		1
+bizwk		1
+com		1

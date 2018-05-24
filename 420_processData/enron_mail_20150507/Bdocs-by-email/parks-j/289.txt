@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+thats		1
+picture		1
+dont		1
+hey		1
+enough		1
+bag		1
+cat		1
+forward		1

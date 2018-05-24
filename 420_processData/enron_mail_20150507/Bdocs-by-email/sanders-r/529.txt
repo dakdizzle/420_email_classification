@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+monday		1
+las		1
+day		1
+know		1
+available	1
+thanksgiving	1
+going		1
+vegas		1
+week		1
+schedule	1
+next		1

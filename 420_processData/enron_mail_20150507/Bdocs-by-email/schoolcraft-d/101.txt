@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ds		1
+flow		1
+control		1
+yes		1
+tw		1

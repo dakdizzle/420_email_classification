@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+id		2
+chris		2
+ability		1
+gas		1
+trade		1
+filename	1
+pstplease	1
+thanks		1
+call		1
+products	1
+adm		1
+questions	1
+canadian	1
+germany		1
+eol		1
+give		1
+germanyx	1

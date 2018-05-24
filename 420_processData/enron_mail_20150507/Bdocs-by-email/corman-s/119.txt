@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ve		1
+m		1
+directors	1
+already		1
+revenue		1
+over		1
+better		1

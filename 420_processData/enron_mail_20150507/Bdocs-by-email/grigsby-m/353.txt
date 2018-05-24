@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+cn		2
+mgrigsb		2
+mike		2
+greatest	1
+latest		1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+project		1
+ou		1
+pstwhat		1
+grigsby		1

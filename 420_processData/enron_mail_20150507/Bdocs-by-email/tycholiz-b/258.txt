@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+secure		1
+please		1
+know		1
+questions	1
+mtm		1
+one		1
+purposes	1
+price		1
+bt		1

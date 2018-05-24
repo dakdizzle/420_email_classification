@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+come		2
+wanna		1
+thinking	1
+invite		1
+tonight		1
+over		1

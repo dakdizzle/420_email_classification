@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+meeting		1
+up		1
+finalize	1
+document	1
+today		1
+town		1
+set		1
+joe		1
+sometime	1

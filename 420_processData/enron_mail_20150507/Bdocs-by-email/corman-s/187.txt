@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+downstairs	1
+hov		1
+way		1
+time		1
+person		1
+meet		1
+hit		1
+ll		1

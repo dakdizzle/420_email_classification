@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+president	1
+position	1
+david		1
+rick		1
+recommend	1
+buy		1
+port		1
+vice		1

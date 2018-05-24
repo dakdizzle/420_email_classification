@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+going		2
+deal		2
+done		1
+assume		1
+time		1
+know		1
+ena		1
+ago		1
+forward		1
+makers		1
+upstream	1
+through		1

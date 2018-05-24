@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+asp		1
+nyisosummary	1
+enron		1
+http		1
+eastpower	1
+corp		1
+dev		1
+summary		1
+com		1

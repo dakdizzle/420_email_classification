@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+info		1
+ca		1
+experience	1
+fyi		1

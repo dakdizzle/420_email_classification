@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+friday		2
+something	1
+know		1
+night		1
+line		1
+interest	1
+saturday	1
+doing		1
+think		1
+getting		1
+ll		1
+drop		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+meeting		1
+stan		1
+following	1
+week		1
+dec		1
+see		1
+schedule	1

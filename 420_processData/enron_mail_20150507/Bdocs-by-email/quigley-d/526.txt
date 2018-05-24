@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+tomball		1
+dquigle		1
+houston		1
+pstcan		1
+dx		1
+filename	1
+transfer	1
+swing		1
+privileged	1
+way		1
+content		1
+non		1
+encoding	1
+downtown	1
+origin		1
+bitx		1
+quigley		1
+kingwood	1
+through		1

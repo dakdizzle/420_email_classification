@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+jan		2
+dec		2
+strong		2
+retains		1
+whereby		1
+risk		1
+except		1
+few		1
+premium		1
+take		1
+weak		1
+settlement	1
+spread		1
+scenarios	1
+comes		1

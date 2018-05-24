@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+reetzr		1
+recipients	1
+steven		1
+gtlaw		1
+na		1
+good		1
+skrimsk		1
+enron		1
+go		1
+krimsky		1
+ou		1
+com		1

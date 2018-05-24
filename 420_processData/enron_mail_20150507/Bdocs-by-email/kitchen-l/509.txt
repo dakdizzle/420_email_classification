@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+weather		2
+out		1
+concerns	1
+co		1
+structuring	1
+missed		1
+etc		1
+reg		1
+ordinate	1
+models		1

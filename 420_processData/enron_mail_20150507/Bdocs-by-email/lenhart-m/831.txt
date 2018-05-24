@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+know		3
+want		2
+value		1
+up		1
+hour		1
+see		1
+market		1
+something	1
+tomorrow	1
+happy		1
+work		1
+maybe		1
+going		1
+don		1
+happen		1
+here		1

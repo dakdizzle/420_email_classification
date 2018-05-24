@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+care		1
+welcome		1
+stacey		1
+back		1
+take		1
+ll		1

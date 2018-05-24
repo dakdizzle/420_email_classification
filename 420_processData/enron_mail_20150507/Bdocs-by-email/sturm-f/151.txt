@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+great		1
+thank		1
+fletch		1
+year		1
+half		1
+st		1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+send		2
+under		1
+sheet		1
+create		1
+now		1
+money		1
+help		1
+cover		1
+whatever	1
+happy		1
+need		1
+separate	1
+fact		1
+ll		1

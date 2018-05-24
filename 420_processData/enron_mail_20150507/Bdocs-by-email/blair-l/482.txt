@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+lynn		1
+gets		1
+ava		1
+ricki		1
+almacovering	1
+back		1
+week		1
+covering	1
+planning	1
+thanks		1
+next		1

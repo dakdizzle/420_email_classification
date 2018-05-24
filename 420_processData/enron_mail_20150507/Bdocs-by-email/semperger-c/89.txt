@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+esure		1
+morning		1
+fun		1
+good		1
+cara		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+http		1
+xxooxxoo	1
+interesting	1
+www		1
+find		1
+thought		1
+fortune		1
+kevin		1
+com		1

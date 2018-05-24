@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+forwarded	1
+listen		1
+mail		1
+voice		1

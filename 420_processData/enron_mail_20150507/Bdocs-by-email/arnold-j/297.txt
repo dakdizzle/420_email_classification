@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+spreads		2
+out		1
+hey		1
+front		1
+v		1
+interest	1
+already		1
+strip		1
+think		1
+thanks		1

@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+plan		2
+analyst		2
+forward		2
+told		2
+knows		1
+complete	1
+track		1
+working		1
+west		1
+contacting	1
+performance	1
+setting		1
+out		1
+pool		1
+mike		1
+going		1
+spoke		1
+move		1
+elizabeth	1
+trading		1

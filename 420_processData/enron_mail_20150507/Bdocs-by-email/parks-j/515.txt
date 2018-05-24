@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+colorado	1
+hey		1
+fire		1
+extra		1
+dad		1
+tickets		1
+game		1
+fare		1

@@ -1,0 +1,4 @@
+NumWords	1
+NumTerms	1
+
+thankslouise	1

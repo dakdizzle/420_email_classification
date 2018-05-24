@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+clothes		1
+wedding		1
+club		1
+beach		1
+buy		1
+now		1
+south		1
+need		1
+going		1
+miami		1

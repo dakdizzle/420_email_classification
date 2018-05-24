@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+andy		1
+jones		1
+liz		1
+up		1
+end		1
+robert		1

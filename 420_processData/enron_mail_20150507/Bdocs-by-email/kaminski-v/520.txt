@@ -1,0 +1,27 @@
+NumWords	31
+NumTerms	24
+
+david		2
+ect		2
+hou		2
+vince		2
+enron		2
+dupre		2
+kaminski	2
+pm		1
+copy		1
+january		1
+presentation	1
+forwarded	1
+please		1
+presentationgreetings	1
+amto		1
+opportunity	1
+garp		1
+ectcc		1
+thanksdavid	1
+forward		1
+subject		1
+conference	1
+com		1
+enronxgate	1

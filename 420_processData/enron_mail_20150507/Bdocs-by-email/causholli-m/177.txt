@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+message		1
+received	1
+thank		1
+know		1
+monika		1
+don		1
+help		1
+means		1
+nyree		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+sit		1
+m		1
+power		1
+chrisyou	1
+available	1
+focused		1
+louise		1
+business	1
+meet		1

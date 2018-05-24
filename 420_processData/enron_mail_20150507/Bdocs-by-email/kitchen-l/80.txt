@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+officerenron	1
+fax		1
+americastel	1
+operating	1
+reimbursement	1
+check		1
+louise		1
+kitchenchief	1
+flight		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+remind		1
+put		1
+please		1
+wednesday	1
+everyone	1
+calender	1
+thanks		1

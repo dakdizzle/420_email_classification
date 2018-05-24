@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+go		2
+everyday	1
+life		1
+plan		1
+john		1
+try		1
+pages		1
+preso		1
+through		1
+over		1

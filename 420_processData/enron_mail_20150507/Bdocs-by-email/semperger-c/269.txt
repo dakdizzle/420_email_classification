@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+talk		1
+well		1
+now		1
+explode		1
+sorry		1
+sounds		1
+head		1
+better		1
+worse		1
+being		1
+sick		1
+awful		1
+nothing		1
+c		1
+think		1
+love		1

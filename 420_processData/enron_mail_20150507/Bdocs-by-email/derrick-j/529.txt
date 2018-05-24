@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+reply		1
+please		1
+derrick		1
+attend		1

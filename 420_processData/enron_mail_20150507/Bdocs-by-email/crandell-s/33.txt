@@ -1,0 +1,23 @@
+NumWords	39
+NumTerms	20
+
+mc		10
+bpa		6
+hours		4
+total		2
+puget		2
+first		1
+net		1
+douglas		1
+counterparty	1
+price		1
+sale		1
+revenue		1
+grays		1
+point		1
+l		1
+expense		1
+buy		1
+gross		1
+week		1
+deal		1

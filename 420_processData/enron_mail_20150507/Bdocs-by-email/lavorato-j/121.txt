@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hate		1
+houston		1
+yes		1
+tx		1
+s		1
+golf		1
+mercer		1
+st		1

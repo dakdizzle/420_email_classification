@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+master		1
+up		1
+clear		1
+one		1
+review		1
+blake		1
+log		1
+need		1
+stephanie	1
+give		1

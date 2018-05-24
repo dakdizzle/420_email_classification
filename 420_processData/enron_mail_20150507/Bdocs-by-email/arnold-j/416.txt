@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+row		1
+line		1
+th		1
+hands		1
+yard		1

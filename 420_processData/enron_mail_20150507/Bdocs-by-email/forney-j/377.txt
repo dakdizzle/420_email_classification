@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+thanks		2
+soon		1
+talking		1
+josh		1
+attached	1
+jforney		1
+again		1
+pass		1
+inquiry		1
+appreciate	1
+ll		1
+resume		1

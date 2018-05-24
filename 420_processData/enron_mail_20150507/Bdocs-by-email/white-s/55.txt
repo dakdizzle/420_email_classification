@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+plan		1
+employees	1
+stacey		1
+risk		1
+estate		1
+want		1
+use		1
+forward		1
+going		1
+correct		1
+bob		1
+expecting	1

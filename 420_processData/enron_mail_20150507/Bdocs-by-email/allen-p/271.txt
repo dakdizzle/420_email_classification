@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+mention		1
+good		1
+greg		1
+forgot		1
+ideas		1
+memo		1
+oaks		1
+perrin		1
+attached	1
+weekend		1
+phillip		1

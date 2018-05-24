@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+room		1
+floor		1
+mery		1
+office		1
+try		1
+friday		1
+thursday	1
+nd		1
+meet		1

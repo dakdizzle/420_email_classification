@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+donna		2
+lynn		1
+burleson	1
+john		1
+back		1
+one		1
+work		1
+answer		1
+bob		1
+see		1
+thanks		1
+talked		1

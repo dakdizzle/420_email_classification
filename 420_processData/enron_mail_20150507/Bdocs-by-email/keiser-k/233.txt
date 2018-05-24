@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+list		2
+curves		2
+thankskk	1
+something	1
+start		1
+additional	1
+wanted		1
+netco		1
+using		1
+add		1

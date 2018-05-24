@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+less		1
+rick		1
+volatile	1
+lets		1
+daily		1
+sound		1
+settled		1

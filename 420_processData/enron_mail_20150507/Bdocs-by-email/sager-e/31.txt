@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+indian		1
+make		1
+event		1
+grant		1
+talk		1
+know		1
+sorry		1
+joy		1
+th		1
+ella		1
+schedule	1
+thanks		1
+out		1
+princesses	1
+soon		1
+food		1
+rsvp		1
+yes		1
+scouting	1
+town		1
+hi		1

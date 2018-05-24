@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+summaries	2
+attach		1
+steve		1
+bids		1
+better		1
+actually	1
+recommended	1
+entire		1
+believe		1
+mary		1
+kirk		1
+thought		1
+kay		1

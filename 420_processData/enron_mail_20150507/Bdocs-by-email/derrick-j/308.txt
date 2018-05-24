@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+facts		1
+forth		1
+agree		1
+below		1
+derrick		1
+set		1
+based		1

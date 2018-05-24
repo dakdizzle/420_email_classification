@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+em		2
+suing		1
+tell		1
+sucks		1
+fuckin		1
+call		1

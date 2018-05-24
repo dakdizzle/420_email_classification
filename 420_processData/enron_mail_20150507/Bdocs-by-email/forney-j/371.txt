@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+company		1
+know		1
+questions	1
+jforney		1
+shane		1
+inquiry		1
+attachment	1
+see		1
+thanks		1

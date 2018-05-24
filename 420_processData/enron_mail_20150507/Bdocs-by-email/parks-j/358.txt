@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+up		2
+hey		1
+consider	1
+bring		1
+martin		1
+bringing	1
+tom		1
+curious		1
+chance		1

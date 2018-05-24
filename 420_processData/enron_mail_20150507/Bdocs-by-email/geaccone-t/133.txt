@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+requests	1
+corp		1
+planning	1
+thanks		1
+actually	1

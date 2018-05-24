@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+info		1
+tina		1
+austin		1
+whiteman	1
+thanks		1
+com		1
+rr		1
+twhiteman	1

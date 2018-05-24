@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+thanks		2
+ed		1
+acted		1
+nicor		1
+call		1
+talked		1
+knew		1
+electric	1
+thought		1
+though		1
+visiting	1
+side		1
+deal		1
+give		1
+inquire		1
+ll		1

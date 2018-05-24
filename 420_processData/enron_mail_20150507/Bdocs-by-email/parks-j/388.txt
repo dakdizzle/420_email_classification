@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+hugh		1
+boy		1
+message		1
+questions	1
+told		1
+left		1
+answer		1
+call		1
+didn		1

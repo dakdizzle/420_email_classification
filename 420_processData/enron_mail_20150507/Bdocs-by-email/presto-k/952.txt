@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+put		1
+pm		1
+around		1
+time		1
+fair		1
+portland	1
+west		1
+work		1
+cpt		1
+leave		1
+guess		1
+caught		1

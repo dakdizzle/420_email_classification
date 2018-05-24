@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+cn		2
+sheet		1
+mcormie		1
+advise		1
+recipients	1
+na		1
+thanks		1
+out		1
+kim		1
+fill		1
+enron		1
+please		1
+michelle	1
+ou		1
+need		1
+martha		1
+cormier		1
+deal		1

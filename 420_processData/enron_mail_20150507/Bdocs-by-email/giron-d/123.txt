@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+seems		1
+brother		1
+ok		1
+further		1
+even		1
+install		1
+system		1
+see		1
+ya		1
+recently	1
+city		1
+going		1
+lives		1
+dg		1
+away		1
+law		1

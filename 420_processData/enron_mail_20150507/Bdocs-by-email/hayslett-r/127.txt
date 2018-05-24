@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+rhaysle		2
+cn		2
+definition	1
+formula		1
+pstcan		1
+recipients	1
+hayslett	1
+filename	1
+na		1
+privileged	1
+frequency	1
+non		1
+enron		1
+please		1
+rates		1
+ou		1
+rod		1
+quick		1
+give		1

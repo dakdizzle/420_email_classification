@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+make		1
+pl		1
+flashed		1
+exchange	1
+reconcile	1
+thanks		1
+call		1
+pipeline	1
+both		1
+look		1
+subsequently	1
+union		1
+sense		1
+volumes		1
+moved		1
+gl		1
+cpr		1
+give		1

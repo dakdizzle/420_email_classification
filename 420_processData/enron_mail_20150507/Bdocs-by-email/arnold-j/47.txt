@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+until		1
+john		1
+ect		1
+guess		1
+hou		1
+kim		1
+pmto		1
+enron		1
+ward		1
+arnold		1
+ectcc		1
+drinks		1
+subject		1
+enronxgate	1

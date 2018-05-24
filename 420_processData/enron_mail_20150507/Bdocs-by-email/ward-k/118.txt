@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+physical	1
+up		1
+know		1
+keep		1
+busy		1
+today		1
+due		1
+stage		1
+emergencies	1
+yesterday	1
+posted		1
+out		1
+anything	1
+people		1
+basis		1
+need		1
+waiting		1
+still		1
+indications	1
+patti		1
+heat		1

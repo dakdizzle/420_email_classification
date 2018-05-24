@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+dynegy		1
+talking		1
+enron		1
+saw		1
+deal		1
+cnbc		1

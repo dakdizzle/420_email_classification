@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+phone		1
+mike		1
+slava		1
+number		1

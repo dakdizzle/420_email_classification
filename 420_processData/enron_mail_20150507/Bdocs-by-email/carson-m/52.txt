@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+jpg		2
+little		1
+blueshirtfenorgret	1
+pics		1
+recent		1
+man		1
+happyharris	1
+here		1

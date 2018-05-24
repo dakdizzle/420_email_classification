@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+info		1
+good		1
+track		1
+amr		1
+success		1
+orig		1
+reg		1
+plays		1

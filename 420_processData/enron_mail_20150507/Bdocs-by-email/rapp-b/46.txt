@@ -1,0 +1,15 @@
+NumWords	27
+NumTerms	12
+
+raleigh		4
+m		4
+houston		4
+flight		3
+est		2
+cst		2
+leaves		2
+arrives		2
+dad		1
+nc		1
+schedule	1
+here		1

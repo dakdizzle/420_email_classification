@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+done		2
+areasonable	1
+pocket		1
+much		1
+hard		1
+yourself	1
+baby		1
+deals		1
+money		1
+secondarydo	1
+getting		1
+home		1
+out		1
+put		1
+good		1
+perspectiveilydq	1
+book		1
+luck		1
+figure		1

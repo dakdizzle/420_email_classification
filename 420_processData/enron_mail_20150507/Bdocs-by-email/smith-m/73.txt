@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+instant		1
+way		1
+great		1
+hey		1
+id		1
+know		1
+mathewsmith	1
+use		1
+messenger	1
+computer	1
+think		1

@@ -1,0 +1,13 @@
+NumWords	16
+NumTerms	10
+
+enron		3
+olfati		2
+ispheres	2
+enzo		2
+com		2
+cholfati	1
+holfati		1
+interest	1
+ecom		1
+imceanotes	1

@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+two		2
+first		1
+hear		1
+fun		1
+leaving		1
+man		1
+california	1
+know		1
+circus		1
+surprisingly	1
+refreshing	1
+rate		1
+second		1
+put		1
+m		1
+look		1
+jeff		1
+best		1
+makes		1
+want		1
+massey		1
+ps		1
+having		1

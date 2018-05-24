@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+bye		1
+video		1
+btw		1
+think		1

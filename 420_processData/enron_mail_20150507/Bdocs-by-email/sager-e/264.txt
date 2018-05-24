@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+talk		2
+m		2
+monday		1
+passed		1
+until		1
+well		1
+sorry		1
+out		1
+ve		1
+way		1
+paulhope	1
+lets		1
+mom		1
+back		1
+touch		1
+year		1
+week		1
+away		1
+tonight		1
+hi		1
+boston		1
+love		1

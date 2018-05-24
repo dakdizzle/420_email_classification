@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+getting		2
+vince		1
+liz		1
+up		1
+impression	1
+fyi		1
+impatient	1
+firm		1
+date		1

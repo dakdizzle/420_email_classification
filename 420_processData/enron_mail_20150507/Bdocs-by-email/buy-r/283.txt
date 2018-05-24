@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+place		2
+resolved	1
+account		1
+cash		1
+up		1
+talk		1
+difficulties	1
+system		1
+thanks		1
+call		1
+manage		1
+setting		1
+billing		1
+seem		1
+enough		1
+rick		1
+decide		1
+week		1
+functional	1
+give		1
+next		1

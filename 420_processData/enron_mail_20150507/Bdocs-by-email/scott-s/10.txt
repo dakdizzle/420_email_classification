@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+heard		1
+up		1
+know		1
+peep		1
+out		1
+m		1
+line		1
+alive		1
+c		1
+still		1
+haven		1
+checking	1
+drop		1

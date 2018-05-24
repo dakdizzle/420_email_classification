@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+moment		1
+cash		1
+slone		1
+jeanie		1
+guy		1
+thankslouise	1
+inappropriate	1
+moves		1
+poor		1
+interest	1
+intercompany	1
+see		1

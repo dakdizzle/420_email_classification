@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+funny		1
+cell		1
+office		1
+thanksgiving	1
+laughed		1
+happy		1
+phone		1
+left		1
+sorry		1
+call		1
+didn		1
+ass		1

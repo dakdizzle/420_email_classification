@@ -1,0 +1,5 @@
+NumWords	3
+NumTerms	2
+
+respond		2
+clayton		1

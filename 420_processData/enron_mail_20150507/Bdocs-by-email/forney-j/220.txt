@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+order		1
+allright	1
+go		1
+ahead		1
+jmf		1
+thanks		1
+cancel		1

@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+line		2
+brad		1
+different	1
+end		1
+working		1
+know		1
+progress	1
+west		1
+desk		1
+asked		1
+chris		1
+important	1
+soon		1
+something	1
+look		1
+possible	1
+direct		1
+use		1
+mike		1
+need		1
+called		1
+grigsby		1
+circuit		1

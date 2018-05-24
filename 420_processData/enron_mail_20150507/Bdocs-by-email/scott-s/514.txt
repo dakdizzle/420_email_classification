@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+m		2
+first		1
+track		1
+time		1
+try		1
+ha		1
+fyi		1
+houston		1
+wanted		1
+planning	1
+down		1
+office		1
+being		1
+more		1
+maybe		1
+d		1
+studying	1
+hours		1
+couple		1
+here		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+expenses	1
+pays		1
+time		1
+definitely	1
+later		1
+confirm		1
+call		1
+thanks		1
+message		1
+possible	1
+enron		1
+hr		1
+training	1
+update		1
+session		1

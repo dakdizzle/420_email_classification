@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+cathy		1
+tickets		1
+take		1
+thanks		1

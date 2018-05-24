@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+pulp		2
+first		1
+sheet		1
+located		1
+tab		1
+paper		1
+markets		1
+industrial	1
+call		1
+laura		1
+spread		1
+inventory	1
+check		1
+raw		1
+questions	1
+data		1
+monika		1
+fundamentals	1

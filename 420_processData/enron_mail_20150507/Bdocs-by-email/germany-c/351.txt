@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+pathed		1
+invoice		1
+until		1
+american	1
+know		1
+pay		1
+mid		1
+priscilla	1
+won		1
+thx		1
+called		1
+receive		1

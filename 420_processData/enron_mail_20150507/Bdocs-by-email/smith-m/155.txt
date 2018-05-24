@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+know		1
+sorry		1
+phone		1
+number		1
+actually	1
+anyway		1
+out		1
+cell		1
+best		1
+available	1
+night		1
+last		1
+still		1
+don		1
+mat		1
+haven		1
+news		1

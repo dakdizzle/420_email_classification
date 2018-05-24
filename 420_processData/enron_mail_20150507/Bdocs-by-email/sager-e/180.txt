@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+john		2
+help		2
+marcus		2
+thinks		1
+warned		1
+llodra		1
+upparticipants	1
+people		1
+lllg		1
+sager		1
+necessary	1
+coordinate	1
+set		1
+thankselizabeth	1
+appropriate	1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+asp		1
+enron		1
+http		1
+www		1
+default		1
+elaw		1
+com		1

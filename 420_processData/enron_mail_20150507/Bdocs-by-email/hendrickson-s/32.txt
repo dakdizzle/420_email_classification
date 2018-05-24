@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sir		1
+scott		1
+correct		1

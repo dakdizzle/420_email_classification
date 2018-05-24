@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+someone		2
+people		2
+committees	2
+lavo		1
+gregi		1
+bunch		1
+time		1
+million		1
+input		1
+mails		1
+puts		1
+getting		1
+seek		1
+think		1
+next		1

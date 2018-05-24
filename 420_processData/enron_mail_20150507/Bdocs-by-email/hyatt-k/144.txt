@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+aol		1
+lmfoust		1
+thing		1
+resolution	1
+right		1
+selling		1
+bring		1
+criminals	1
+speedy		1
+com		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+info		1
+teri		1
+sempratrading	1
+jwilson		1
+al		1
+youp		1
+jan		1
+thanx		1
+address		1
+com		1

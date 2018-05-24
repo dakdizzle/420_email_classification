@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+open		1
+please		1
+trouble		1
+know		1
+past		1
+file		1
+chris		1

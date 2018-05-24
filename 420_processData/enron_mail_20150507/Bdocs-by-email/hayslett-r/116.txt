@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+working		1
+covered		1
+floors		1
+see		1

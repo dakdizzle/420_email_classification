@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+seen		1
+title		1
+best		1
+obviously	1
+need		1
+game		1
+swing		1
+take		1
+new		1
+haven		1

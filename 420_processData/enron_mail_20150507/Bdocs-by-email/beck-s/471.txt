@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+employees	1
+meetings	1
+sally		1
+know		1
+focused		1
+staying		1
+appreciate	1
+thanks		1

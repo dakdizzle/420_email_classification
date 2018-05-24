@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+time		2
+real		2
+sitting		1
+power		1
+recommend	1
+reserve		1
+traders		1
+coordinate	1
+transmission	1
+trade		1
+schedule	1

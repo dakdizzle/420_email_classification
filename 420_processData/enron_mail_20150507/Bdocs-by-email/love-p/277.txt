@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+enovate		1
+pl		1
+shout		1
+tagg		1
+team		1
+please		1
+questions	1
+numbers		1
+attached	1
+books		1
+file		1
+thanks		1

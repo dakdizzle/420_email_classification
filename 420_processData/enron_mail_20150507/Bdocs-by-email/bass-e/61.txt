@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+league		2
+owe		1
+agree		1
+pool		1
+one		1
+winning		1
+week		1
+minus		1
+dues		1

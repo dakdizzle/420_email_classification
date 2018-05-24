@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+direction	1
+full		1
+email		1
+communication	1
+interests	1
+comment		1
+sad		1
+anything	1
+sent		1
+read		1
+jay		1
+eol		1
+pretty		1
+here		1

@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+dynegy		1
+keep		1
+citigroup	1
+future		1
+ops		1
+division	1
+fell		1
+court		1
+bankruptcy	1
+decide		1
+touch		1
+eric		1
+ago		1
+ubs		1
+wating		1
+months		1
+couple		1
+deal		1
+still		1
+sold		1
+trading		1
+through		1

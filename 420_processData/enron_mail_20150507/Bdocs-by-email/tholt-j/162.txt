@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+time		1
+during		1
+thank		1
+obligations	1
+invitation	1
+already		1
+attend		1
+th		1

@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+trading		2
+up		1
+power		1
+hello		1
+thank		1
+west		1
+screens		1
+view		1
+holden		1
+required	1
+login		1
+procedure	1
+enron		1
+set		1
+curious		1

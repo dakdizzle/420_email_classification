@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jw		1
+know		1
+questions	1
+according	1
+attached	1
+schedulers	1
+tufoco		1
+take		1
+schedule	1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+bro		1
+yo		1
+here		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+up		1
+information	1
+days		1
+baby		1
+covered		1
+paper		1
+file		1
+security	1
+number		1
+call		1
+automatically	1
+more		1
+work		1
+social		1
+need		1

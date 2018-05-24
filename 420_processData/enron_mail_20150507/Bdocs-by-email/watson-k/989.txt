@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+time		1
+duty		1
+report		1
+thanks		1

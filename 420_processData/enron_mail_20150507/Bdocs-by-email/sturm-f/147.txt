@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+open		1
+legal		1
+fletch		1
+fine		1
+someone		1
+accompany	1
+schedule	1
+long		1
+maggy		1
+fairly		1
+d		1
+week		1
+think		1

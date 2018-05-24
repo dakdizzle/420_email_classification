@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+royal		1
+cash		1
+stock		1
+buying		1
+month		1
+chris		1
+bank		1
+td		1
+market		1
+great		1
+thinking	1
+good		1
+enron		1
+ideas		1
+practically	1
+going		1
+having		1
+pretty		1
+making		1
+think		1

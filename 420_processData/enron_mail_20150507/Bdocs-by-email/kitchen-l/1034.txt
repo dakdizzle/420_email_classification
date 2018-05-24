@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+years		1
+organising	1
+type		1
+cindy		1
+actuallyshe	1
+responsible	1
+person		1
+conference	1
+gal		1

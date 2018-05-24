@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+morning		1
+monday		1
+push		1
+vince		1
+briefing	1
+jose		1
+mike		1
+suggested	1

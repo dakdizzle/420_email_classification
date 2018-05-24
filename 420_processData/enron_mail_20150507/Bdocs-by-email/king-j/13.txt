@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+clean		1
+suit		1
+gotta		1

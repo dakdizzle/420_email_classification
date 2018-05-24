@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+list		1
+take		1

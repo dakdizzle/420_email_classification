@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+white		2
+pstwe		1
+munchies	1
+totally		1
+stacy		1
+stacey		1
+filename	1
+transfer	1
+planning	1
+loaded		1
+getting		1
+content		1
+encoding	1
+count		1
+origin		1
+sx		1
+bitx		1
+town		1

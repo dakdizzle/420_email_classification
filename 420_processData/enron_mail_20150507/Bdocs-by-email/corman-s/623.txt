@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+using		2
+thing		1
+talk		1
+well		1
+stan		1
+guess		1
+common		1
+perhaps		1
+title		1
+titles		1
+seriously	1
+another		1
+told		1
+though		1
+negotiated	1

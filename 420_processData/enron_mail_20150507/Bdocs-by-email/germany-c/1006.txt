@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+research	1
+far		1
+need		1
+wholesale	1
+tport		1
+east		1
+rest		1

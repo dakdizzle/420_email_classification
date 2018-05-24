@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+mtaylo		2
+cn		2
+mark		1
+evaluate	1
+credit		1
+pstrichard	1
+legal		1
+review		1
+recipients	1
+form		1
+filename	1
+na		1
+input		1
+privileged	1
+done		1
+non		1
+enron		1
+ou		1
+before		1
+need		1
+taylor		1
+aaa		1

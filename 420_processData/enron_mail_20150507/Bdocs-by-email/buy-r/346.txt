@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+rick		1
+fyi		1
+bldg		1
+trade		1
+world		1
+nymex		1

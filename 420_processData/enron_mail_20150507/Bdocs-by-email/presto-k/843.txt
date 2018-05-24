@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+pearce		1
+thanks		1

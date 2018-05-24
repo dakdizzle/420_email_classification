@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+starting	1
+struggling	1
+end		1
+until		1
+assigned	1
+trying		1
+leave		1
+definitely	1
+karen		1
+tom		1
+june		1
+help		1
+turn		1
+start		1
+need		1
+sooner		1
+august		1
+away		1
+chance		1

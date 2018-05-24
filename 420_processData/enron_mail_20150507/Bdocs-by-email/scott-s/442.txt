@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+served		1
+trips		1
+service		1
+booze		1
+application	1
+world		1
+ski		1
+foreign		1
+ve		1
+people		1
+great		1
+look		1
+during		1
+feel		1
+prepared	1
+career		1
+over		1

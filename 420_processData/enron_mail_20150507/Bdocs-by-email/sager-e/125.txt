@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+enjoyed		1
+meeting		1
+talk		1
+sorry		1
+tuesday		1
+thanks		1
+soon		1
+really		1
+hitting		1
+team		1
+husband		1
+sat		1
+night		1
+league		1
+sager		1
+though		1
+elizabeth	1
+hi		1
+play		1

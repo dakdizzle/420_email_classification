@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+personal	1
+reasons		1
+same		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+contracts	1
+run		1
+thank		1
+report		1
+future		1
+lindy		1
+tw		1
+current		1
+firm		1
+effective	1

@@ -1,0 +1,23 @@
+NumWords	40
+NumTerms	20
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+kay		2
+tweed		1
+esager		1
+stweed		1
+fine		1
+sounds		1
+sadams		1
+jeff		1
+kmann		1
+sheila		1
+mann		1
+suzanne		1
+sager		1
+adams		1
+elizabeth	1

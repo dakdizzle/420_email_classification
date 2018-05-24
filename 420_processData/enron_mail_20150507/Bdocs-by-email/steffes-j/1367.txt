@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+thought		1
+appreciate	1
+don		1
+worry		1

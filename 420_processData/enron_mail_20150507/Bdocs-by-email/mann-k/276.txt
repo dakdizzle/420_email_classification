@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+cn		2
+kmann		2
+pstand		1
+non		1
+enron		1
+mann		1
+recipients	1
+ou		1
+filename	1
+na		1
+kay		1
+privileged	1

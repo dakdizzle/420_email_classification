@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+kam		2
+cn		2
+keiser		2
+thankskk	1
+updated		1
+recipients	1
+names		1
+filename	1
+na		1
+grey		1
+users		1
+kkeiser		1
+psthere		1
+enron		1
+erv		1
+highlighted	1
+ou		1

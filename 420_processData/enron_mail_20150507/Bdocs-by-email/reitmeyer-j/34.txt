@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jennsreit	1
+home		1
+aol		1
+comjay		1
+jreitme		1
+houston		1
+mail		1
+im		1
+hotmail		1
+don		1
+rr		1

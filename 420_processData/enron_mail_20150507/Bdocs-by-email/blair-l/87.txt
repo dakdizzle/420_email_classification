@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+good		1
+rick		1
+one		1
+problem		1
+think		1
+thanks		1

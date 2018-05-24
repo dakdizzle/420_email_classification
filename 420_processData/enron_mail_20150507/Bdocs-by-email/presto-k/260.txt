@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+spread		1
+cash		1
+term		1
+guy		1
+trader		1
+se		1
+thoughts	1

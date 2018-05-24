@@ -1,0 +1,23 @@
+NumWords	45
+NumTerms	20
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+greg		1
+jimmy		1
+scott		1
+palmer		1
+giron		1
+kevin		1
+gcouch		1
+darron		1
+dgiron		1
+couch		1
+jsimien		1
+spalmer		1
+simien		1
+kbosse		1
+bosse		1

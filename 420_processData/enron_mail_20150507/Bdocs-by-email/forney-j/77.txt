@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+ees		2
+ercot		1
+em		1
+eservices	1
+electric	1
+file		1
+jmf		1
+modelgo		1

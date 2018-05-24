@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+blackberry	2
+entity		1
+sent		1
+net		1
+enron		1
+wireless	1
+handheld	1
+gp		1
+owns		1
+www		1
+eott		1

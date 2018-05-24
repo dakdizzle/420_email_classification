@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+find		2
+out		1
+try		1
+counterparty	1
+side		1
+deal		1
+ll		1

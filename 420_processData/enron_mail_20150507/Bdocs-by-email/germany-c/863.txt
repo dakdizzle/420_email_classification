@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+m		2
+goodell		1
+baaaad		1
+scott		1
+id		1
+fixed		1
+know		1
+person		1
+once		1
+call		1
+work		1
+before		1
+told		1
+using		1
+mine		1
+doesn		1

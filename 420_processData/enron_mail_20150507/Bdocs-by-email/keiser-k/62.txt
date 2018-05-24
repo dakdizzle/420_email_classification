@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+counterparties	1
+power		1
+front		1
+working		1
+gas		1
+west		1
+deals		1
+help		1
+tycholiz	1
+put		1
+originator	1
+thankskam	1
+project		1
+casey		1
+barry		1
+side		1

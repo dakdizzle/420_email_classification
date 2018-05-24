@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+open		1
+virus		1
+up		1
+attachment	1
+tom		1
+system		1
+contained	1
+tried		1

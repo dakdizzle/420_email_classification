@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+second		1
+situation	1
+dog		1
+scott		1
+message		1
+up		1
+rayfael		1
+night		1
+unrelated	1
+last		1
+broke		1

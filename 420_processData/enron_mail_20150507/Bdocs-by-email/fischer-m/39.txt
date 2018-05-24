@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+day		1
+make		1
+risk		1
+registered	1
+management	1
+basics		1

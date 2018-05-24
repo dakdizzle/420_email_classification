@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+cashflows	1
+delete		1
+please		1
+attachement	1
+mail		1
+print		1
+thanks		1

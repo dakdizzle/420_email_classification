@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+without		1
+make		1
+trco		1
+changes		1
+volumes		1
+writing		1
+now		1
+again		1
+tickets		1
+deal		1
+new		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+m		1
+credit		1
+dept		1
+please		1
+know		1
+document	1
+someone		1
+having		1
+don		1
+receive		1
+prepare		1

@@ -1,0 +1,11 @@
+NumWords	10
+NumTerms	8
+
+good		2
+day		2
+stacey		1
+obviously	1
+information	1
+friday		1
+officializing	1
+curves		1

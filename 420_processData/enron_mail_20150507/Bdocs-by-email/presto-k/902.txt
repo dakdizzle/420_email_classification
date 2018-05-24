@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+coal		2
+resid		2
+begin		1
+replacement	1
+grace		1
+handout		1
+nymex		1
+thanks		1
+everyday	1
+please		1
+curve		1
+including	1
+prb		1

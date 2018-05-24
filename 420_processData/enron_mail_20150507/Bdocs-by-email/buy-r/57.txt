@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+debriefing	1
+presume		1
+hearing		1
+friday		1
+prior		1
+fine		1
+meet		1
+thanks		1
+office		1
+rick		1
+buy		1
+scheduled	1
+still		1

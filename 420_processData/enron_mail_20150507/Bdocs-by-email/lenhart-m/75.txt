@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+drink		1
+cell		1
+eat		1
+happy		1
+work		1
+going		1
+phone		1
+hour		1
+call		1

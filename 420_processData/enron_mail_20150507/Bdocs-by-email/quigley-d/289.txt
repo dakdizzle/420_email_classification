@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+day		1
+bomb		1
+threat		1
+ilydq		1
+already		1
+bad		1
+nymex		1
+evacuated	1

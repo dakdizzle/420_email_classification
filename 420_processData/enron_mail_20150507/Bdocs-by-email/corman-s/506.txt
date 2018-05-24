@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+pm		2
+take		2
+party		1
+neiman		1
+day		1
+watch		1
+pick		1
+meet		1
+noon		1
+call		1
+marcus		1
+kim		1
+go		1
+kid		1
+yes		1
+last		1
+d		1
+afterwards	1
+b		1

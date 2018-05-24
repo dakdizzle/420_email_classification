@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+parents		1
+both		1
+look		1
+congratulations	1
+happy		1
+natalia		1
+dung		1
+proud		1
+dick		1
+very		1

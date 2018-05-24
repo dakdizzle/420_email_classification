@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+really		1
+cute		1
+tablets		1
+m		1
+mg		1
+try		1
+today		1
+gonna		1
+xl		1
+biaxin		1
+looks		1

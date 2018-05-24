@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+info		2
+much		2
+thanks		2
+greatly		1
+time		1
+stick		1
+course		1
+deals		1
+response	1
+appreciated	1
+appreciate	1
+take		1
+m		1
+units		1
+jeff		1
+best		1
+again		1
+suggestion	1
+another		1
+going		1
+backup		1
+don		1
+very		1

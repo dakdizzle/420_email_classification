@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+notice		1
+out		1
+send		1
+changing	1
+dates		1
+handled		1
+leave		1
+before		1
+reschedule	1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+co		1
+please		1
+pioneeroil	1
+tbutt		1
+com		1
+add		1

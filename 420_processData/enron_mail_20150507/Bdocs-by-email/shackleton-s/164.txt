@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+first		1
+eb		1
+fax		1
+ph		1
+letter		1
+street		1
+left		1
+susan		1
+wholesale	1
+cover		1
+merced		1
+services	1
+shackletonenron	1
+sara		1
+ahouston	1
+chair		1
+supplied	1
+tx		1
+smith		1
+amendment	1
+marked		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+revised		1
+changes		1
+attached	1
+stephanie	1
+agreement	1

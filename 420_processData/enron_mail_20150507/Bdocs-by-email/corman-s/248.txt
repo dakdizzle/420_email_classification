@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+mcfarland	1
+enron		1
+jean		1
+keep		1
+recipients	1
+ou		1
+notes		1
+na		1
+jmcfarl		1
+help		1
+getting		1

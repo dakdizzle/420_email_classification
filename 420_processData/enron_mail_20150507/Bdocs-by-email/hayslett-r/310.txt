@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+rhaysle		2
+cn		2
+value		1
+relationship	1
+recipients	1
+hayslett	1
+filename	1
+na		1
+pst		1
+privileged	1
+jim		1
+non		1
+enron		1
+values		1
+ou		1
+rod		1
+partnership	1
+think		1

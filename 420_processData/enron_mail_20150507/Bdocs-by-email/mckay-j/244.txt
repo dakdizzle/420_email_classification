@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+working		1
+silly		1
+unemployeed	1

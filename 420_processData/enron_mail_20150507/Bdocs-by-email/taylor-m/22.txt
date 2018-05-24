@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+meeting		1
+nyc		1
+number		1
+ll		1
+call		1

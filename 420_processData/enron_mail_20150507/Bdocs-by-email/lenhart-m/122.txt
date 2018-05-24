@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+moving		1
+roommate	1
+something	1
+drink		1
+good		1
+go		1
+work		1
+going		1
+week		1
+saturday	1
+sucks		1
+new		1
+waste		1
+next		1

@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+seems		1
+now		1
+keep		1
+pull		1
+straight	1
+whatever	1
+nicole		1
+downtown	1
+joey		1
+go		1
+yoga		1
+tell		1
+going		1
+told		1
+deal		1
+mind		1
+tonight		1
+here		1
+earls		1
+dorland		1

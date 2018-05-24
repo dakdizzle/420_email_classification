@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+customer	1
+trying		1
+confuse		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+ny		1
+tenn		1
+current		1

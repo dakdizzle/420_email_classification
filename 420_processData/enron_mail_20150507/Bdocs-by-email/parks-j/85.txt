@@ -1,0 +1,20 @@
+NumWords	22
+NumTerms	17
+
+parks		3
+joe		3
+cn		2
+user		1
+under		1
+name		1
+cqg		1
+recipients	1
+filename	1
+na		1
+unable		1
+morning		1
+login		1
+psti		1
+enron		1
+jparks		1
+ou		1

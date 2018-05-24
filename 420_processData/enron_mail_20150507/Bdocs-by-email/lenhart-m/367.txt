@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+going		2
+out		1
+grill		1
+dinner		1
+broker		1
+later		1
+afterwards	1
+give		1
+call		1
+head		1
+capitol		1

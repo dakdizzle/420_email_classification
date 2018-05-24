@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ve		1
+email		1
+seen		1
+check		1
+cgas		1
+interesting	1
+thought		1
+never		1
+call		1
+didn		1

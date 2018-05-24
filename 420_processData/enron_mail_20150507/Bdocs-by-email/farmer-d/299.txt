@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+around		1
+thinking	1
+m		1
+look		1
+tuesday		1
+afternoon	1

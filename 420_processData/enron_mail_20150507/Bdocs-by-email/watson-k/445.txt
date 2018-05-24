@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+many		2
+kim		1
+thanks		1

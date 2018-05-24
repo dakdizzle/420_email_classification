@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+numbers		2
+cl		1
+ho		1

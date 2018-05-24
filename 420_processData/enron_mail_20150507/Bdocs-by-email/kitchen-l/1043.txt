@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+cn		2
+enron		1
+tstaggs		1
+recipients	1
+ou		1
+tammie		1
+schoppe		1
+na		1

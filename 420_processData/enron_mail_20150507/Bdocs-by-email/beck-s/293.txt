@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+something	1
+case		1
+send		1
+sally		1
+save		1
+members		1
+management	1
+committee	1
+thanks		1

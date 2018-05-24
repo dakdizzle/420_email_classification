@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+bruce		1
+power		1
+virginia	1
+know		1
+works		1
+still		1
+mcdaniels	1

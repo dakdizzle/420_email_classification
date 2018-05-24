@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+sit		1
+down		1
+friday		1
+pat		1
+thanks		1

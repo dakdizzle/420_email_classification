@@ -1,0 +1,10 @@
+NumWords	10
+NumTerms	7
+
+sl		3
+ft		2
+summer		1
+demand		1
+winter		1
+fuel		1
+commodity	1

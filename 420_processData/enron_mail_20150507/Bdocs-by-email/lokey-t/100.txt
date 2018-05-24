@@ -1,0 +1,22 @@
+NumWords	38
+NumTerms	19
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+nacey		1
+cady		1
+jstudeb		1
+rachel		1
+looks		1
+rcady		1
+great		1
+snacey		1
+sheila		1
+gcoon		1
+james		1
+coon		1
+galen		1
+studebaker	1

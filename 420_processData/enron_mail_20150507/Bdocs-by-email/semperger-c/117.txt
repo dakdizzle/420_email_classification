@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+remaining	1
+way		1
+hey		1
+basketballs	1
+drexler		1
+one		1
+ahold		1
+earth		1
+face		1

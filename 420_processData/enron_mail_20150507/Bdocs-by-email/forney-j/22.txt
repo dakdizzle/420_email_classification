@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+members		2
+sit		1
+group		1
+copy		1
+steve		1
+etc		1
+same		1
+existing	1
+seat		1
+olinde		1
+team		1
+profiles	1
+capasso		1
+access		1
+jmf		1
+rt		1
+joe		1
+rotating	1

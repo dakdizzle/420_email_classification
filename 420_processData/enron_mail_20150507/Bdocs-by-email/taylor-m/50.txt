@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+flights		1
+international	1
+until		1
+friday		1
+candle		1
+won		1
+light		1
+looks		1
+sunday		1
+afternoon	1
+seat		1
+thanks		1
+earliest	1
+please		1
+back		1
+stranded	1
+start		1
+night		1
+again		1
+london		1
+means		1
+note		1

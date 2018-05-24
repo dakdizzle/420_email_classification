@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+frame		1
+holiday		1
+time		1
+during		1
+wait		1
+don		1
+ll		1

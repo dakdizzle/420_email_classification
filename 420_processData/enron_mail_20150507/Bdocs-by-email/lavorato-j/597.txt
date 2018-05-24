@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+print		2
+please		1
+never		1
+ll		1

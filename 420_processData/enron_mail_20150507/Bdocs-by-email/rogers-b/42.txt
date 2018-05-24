@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+good		2
+very		2
+little		1
+up		1
+operating	1
+talk		1
+keep		1
+minefield	1
+out		1
+soon		1
+article		1
+great		1
+boy		1
+ben		1
+started		1
+political	1
+work		1
+effectively	1
+old		1
+dad		1
+thought		1
+week		1
+side		1
+poistive	1

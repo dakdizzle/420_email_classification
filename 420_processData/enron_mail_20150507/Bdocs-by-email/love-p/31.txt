@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+phillip		2
+cn		2
+love		2
+plove		1
+pl		1
+attached	1
+recipients	1
+dropbox		1
+file		1
+filename	1
+na		1
+out		1
+enron		1
+positions	1
+pstthe		1
+night		1
+ou		1
+saved		1
+last		1

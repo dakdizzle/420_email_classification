@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+letter		2
+vince		2
+group		1
+day		1
+writwe		1
+today		1
+jan		1
+transfer	1
+instructing	1
+formal		1
+anything	1
+jim		1
+fallon		1
+berney		1
+disbanded	1
+told		1
+tue		1
+software	1
+last		1
+till		1
+receive		1
+kaminski	1

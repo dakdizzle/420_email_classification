@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+moving		1
+pl		1
+cheap		1
+consider	1
+seriously	1
+go		1
+saw		1
+vegas		1
+roundtrip	1
+sd		1
+fare		1

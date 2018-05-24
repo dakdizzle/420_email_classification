@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+stockcharts	1
+ene		1
+http		1
+lc		1
+iub		1
+web		1
+pb		1
+sc		1
+vc		1
+lw		1
+f		1
+servlet		1
+def		1
+dhcayimy	1
+uu		1
+com		1

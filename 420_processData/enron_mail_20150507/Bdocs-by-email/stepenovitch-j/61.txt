@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+taking		1
+morning		1
+good		1
+time		1
+adrian		1
+stepenovitch	1
+thank		1
+review		1
+joe		1
+resume		1

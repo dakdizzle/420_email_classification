@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+reformer	1
+order		1
+much		1
+john		1
+things		1
+theymust	1
+success		1
+areneeded	1
+critic		1
+fit		1
+ruskin		1
+three		1
+people		1
+sense		1
+happy		1
+author		1
+work		1
+andsocial	1
+art		1

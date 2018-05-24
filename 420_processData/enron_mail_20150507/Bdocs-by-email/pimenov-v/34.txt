@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+touch		1
+vladislav	1
+comstay		1
+lycos		1

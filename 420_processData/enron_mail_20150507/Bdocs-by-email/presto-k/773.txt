@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+use		1
+fine		1
+code		1
+charge		1
+same		1
+using		1

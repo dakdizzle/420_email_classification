@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+chocolate	2
+guys		2
+chocolates	1
+group		1
+little		1
+resigned	1
+those		1
+board		1
+key		1
+day		1
+passed		1
+discriminate	1
+gave		1
+hearts		1
+min		1
+out		1
+girls		1
+ago		1
+directors	1
+work		1
+told		1
+lay		1
+brought		1

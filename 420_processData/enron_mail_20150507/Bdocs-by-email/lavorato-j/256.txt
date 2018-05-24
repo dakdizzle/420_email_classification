@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+quarter		1
+notice		1
+glad		1
+made		1
+million		1
+help		1
+emmissions	1
+trading		1

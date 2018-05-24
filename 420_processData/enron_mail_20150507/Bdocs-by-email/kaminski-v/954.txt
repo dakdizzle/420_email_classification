@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+vince		1
+make		1
+ok		1
+time		1
+check		1
+nelson		1
+double		1
+proceed		1
+sure		1
+works		1
+june		1
+gary		1

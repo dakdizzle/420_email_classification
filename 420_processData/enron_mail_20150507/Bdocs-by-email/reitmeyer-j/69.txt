@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+thinking	1
+bid		1
+lower		1
+last		1
+months		1

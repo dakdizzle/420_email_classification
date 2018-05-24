@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+those		1
+up		1
+trv		1
+trying		1
+netco		1
+file		1
+names		1
+mckinney	1
+hal		1
+people		1
+clean		1
+list		1
+thankskam	1
+casey		1
+erv		1
+week		1
+access		1

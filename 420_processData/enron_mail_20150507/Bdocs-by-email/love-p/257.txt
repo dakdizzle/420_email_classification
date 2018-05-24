@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+pl		1
+try		1
+know		1
+daryll		1
+works		1
+instructions	1
+thanks		1

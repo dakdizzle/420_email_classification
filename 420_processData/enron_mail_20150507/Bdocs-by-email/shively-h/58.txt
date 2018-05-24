@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+andy		1
+spoken		1
+book		1
+accountant	1

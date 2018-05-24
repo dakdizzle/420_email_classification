@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+dust		1
+everything	1
+know		1
+working		1
+settles		1
+out		1
+vince		1
+great		1
+willwork	1
+hope		1
+please		1
+anne		1
+isanything	1
+pleasure	1
+thee		1

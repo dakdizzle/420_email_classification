@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+stuff		1
+email		1
+send		1
+hey		1
+ok		1
+family		1
+jhyatt		1
+favor		1
+house		1
+luvk		1
+hope		1
+msn		1
+doing		1
+com		1

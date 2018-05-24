@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+jhodge		2
+cn		2
+delegation	1
+response	1
+recipients	1
+hodge		1
+filename	1
+na		1
+pstmark		1
+thanks		1
+privileged	1
+jeffrey		1
+non		1
+forwarding	1
+enron		1
+jeff		1
+financial	1
+ou		1
+swap		1

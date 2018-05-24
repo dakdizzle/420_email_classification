@@ -1,0 +1,26 @@
+NumWords	32
+NumTerms	23
+
+com		4
+http		3
+iso		3
+www		2
+si		2
+status		1
+isolocation	1
+https		1
+epe		1
+genstat		1
+html		1
+oatiinc		1
+dotect		1
+ect		1
+nodes		1
+file		1
+tsin		1
+wscc		1
+enron		1
+caiso		1
+ets		1
+htmlhttp	1
+oasis		1

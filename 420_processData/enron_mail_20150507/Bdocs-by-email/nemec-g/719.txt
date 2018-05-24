@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+gnemec		2
+cn		2
+monday		1
+per		1
+construction	1
+letter		1
+draft		1
+review		1
+recipients	1
+filename	1
+na		1
+pstfor		1
+privileged	1
+non		1
+enron		1
+nemec		1
+discussions	1
+expedition	1
+ou		1
+gerald		1

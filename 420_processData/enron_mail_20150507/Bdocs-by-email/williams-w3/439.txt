@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+really		1
+http		1
+caiso		1
+nothing		1
+bottom		1
+oasisp		1
+works		1
+ticker		1
+com		1

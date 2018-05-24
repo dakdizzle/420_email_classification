@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+gty		1
+good		1
+today		1
+more		1
+fed		1
+same		1
+hikes		1
+news		1

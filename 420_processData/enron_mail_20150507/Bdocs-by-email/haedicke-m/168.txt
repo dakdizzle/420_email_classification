@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+mark		1
+heard		1
+plan		1
+counterproposal	1
+looking		1
+rich		1
+rejected	1
+view		1
+proposal	1

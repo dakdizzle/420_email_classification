@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+vb		1
+please		1
+gas		1
+daily		1
+deals		1
+change		1
+nymexvb		1

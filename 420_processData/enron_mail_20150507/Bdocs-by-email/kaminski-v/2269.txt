@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+vince		1
+sen		1
+interview	1
+shall		1
+ravi		1
+phone		1
+arrange		1
+thanks		1

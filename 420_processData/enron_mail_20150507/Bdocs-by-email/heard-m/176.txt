@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+reviewed	1
+marie		1
+draft		1
+ready		1
+even		1
+hadn		1
+copies		1
+plodding	1
+sent		1
+beyond		1
+obviously	1
+go		1
+sign		1
+surfaced	1
+figure		1
+execution	1
+through		1
+arthur		1

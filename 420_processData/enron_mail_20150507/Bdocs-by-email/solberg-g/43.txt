@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+home		1
+send		1
+address		1
+here		1
+through		1

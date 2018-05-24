@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+lynn		1
+vacation	1
+fletch		1
+unable		1
+m		1
+personal	1
+year		1
+maybe		1
+going		1
+attend		1
+week		1
+next		1
+ll		1

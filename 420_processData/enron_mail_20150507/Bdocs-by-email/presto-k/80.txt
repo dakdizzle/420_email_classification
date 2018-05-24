@@ -1,0 +1,24 @@
+NumWords	30
+NumTerms	21
+
+energy		3
+fpl		3
+info		2
+president	2
+mark		2
+contact		2
+home		2
+send		1
+reply		1
+kmpresto	1
+maisto		1
+fit		1
+ron		1
+great		1
+mail		1
+shop		1
+hotmail		1
+green		1
+sub		1
+com		1
+trading		1

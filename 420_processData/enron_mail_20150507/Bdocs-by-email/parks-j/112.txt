@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+http		2
+htmlfreeze	1
+energy		1
+htmlaga		1
+undergroundstoragestatistics	1
+pira		1
+net		1
+aga		1
+www		1
+steelerswww	1
+gregorygs	1
+bridgepassword	1
+secure		1
+index		1
+org		1
+policyanalysisstatistics	1
+gi		1
+statsstudies	1
+com		1

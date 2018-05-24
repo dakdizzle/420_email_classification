@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+party		1
+understand	1
+complicated	1
+more		1
+necessary	1
+pooper		1
+always		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+supervisor	1
+please		1
+ask		1
+change		1
+assistant	1
+dcould		1
+thankshunter	1
+laura		1
+prc		1

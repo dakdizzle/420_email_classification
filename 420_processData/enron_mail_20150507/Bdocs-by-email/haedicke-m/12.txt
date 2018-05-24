@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+sheet		2
+term		2
+teresa		2
+mark		1
+together	1
+bushman		1
+bare		1
+scott		1
+further		1
+flesh		1
+john		1
+far		1
+bones		1
+worked		1
+out		1
+pretty		1
+deal		1

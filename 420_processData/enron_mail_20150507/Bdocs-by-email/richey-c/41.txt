@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+vanilla		1
+delayer		1
+cruise		1
+kick		1
+tom		1
+remember	1
+ve		1
+years		1
+ride		1
+fucking		1
+satisfaction	1
+opposite	1
+enjoy		1
+back		1
+want		1
+waiting		1
+don		1
+polar		1

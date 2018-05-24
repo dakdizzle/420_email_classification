@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+availability	1
+looking		1
+ticket		1

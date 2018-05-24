@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+grappa		1
+latersky	1
+before		1
+tuttobene	1
+bar		1
+vincents	1

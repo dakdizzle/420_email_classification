@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+employee	2
+further		1
+workforce	1
+action		1
+parties		1
+options		1
+management	1
+related		1
+freezing	1
+distrust	1
+result		1
+worth		1
+demoralize	1
+out		1
+way		1
+enron		1
+during		1
+best		1
+probably	1
+increased	1
+period		1
+benefits	1

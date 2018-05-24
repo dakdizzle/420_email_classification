@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+notice		1
+thoreau		1
+further		1
+until		1
+know		1
+west		1
+allocating	1
+schoolcraft	1
+dx		1
+filename	1
+transfer	1
+privileged	1
+ds		1
+content		1
+updates		1
+psti		1
+non		1
+encoding	1
+juan		1
+dschool		1
+origin		1
+bitx		1
+san		1

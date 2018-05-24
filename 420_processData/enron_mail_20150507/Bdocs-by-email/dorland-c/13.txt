@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+returns		2
+refund		1
+return		1
+pwc		1
+privately	1
+working		1
+now		1
+contact		1
+advise		1
+paying		1
+chris		1
+both		1
+done		1
+updates		1
+tamara		1
+irs		1
+please		1
+canadian	1
+ubs		1
+probably	1
+need		1
+still		1
+dorland		1

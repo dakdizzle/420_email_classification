@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+paul		2
+brewer		1
+write		1
+owe		1
+know		1
+following	1
+bob		1
+oaklandi	1
+remind		1
+check		1
+please		1
+picks		1
+lucci		1
+oaklandjoey	1
+still		1
+note		1
+ll		1

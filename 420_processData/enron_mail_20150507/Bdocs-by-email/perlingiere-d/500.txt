@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+master		1
+sent		1
+credit		1
+gas		1
+change		1
+want		1
+draft		1
+terms		1
+preparing	1
+select		1
+november	1
+negotiate	1

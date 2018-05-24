@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+comment		1
+resent		1
+last		1

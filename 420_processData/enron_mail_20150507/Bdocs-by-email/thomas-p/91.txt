@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+chronicle	1
+anything	1
+link		1
+see		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+hear		1
+distribution	1
+scott		1
+believe		1
+michelle	1
+thought		1
+public		1
+sentiment	1
+gary		1
+meant		1

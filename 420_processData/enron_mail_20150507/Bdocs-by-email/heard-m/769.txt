@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+annex		1
+together	1
+support		1
+credit		1
+thank		1
+attached	1
+marie		1
+patiently	1
+netting		1
+form		1
+master		1
+marcus		1
+waiting		1
+agreement	1

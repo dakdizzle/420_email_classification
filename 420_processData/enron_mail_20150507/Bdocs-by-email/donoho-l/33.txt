@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+meeting		2
+changes		2
+discuss		1
+make		1
+final		1
+today		1
+danny		1
+planning	1
+m		1
+tomorrow	1
+before		1
+going		1
+having		1
+making		1
+here		1

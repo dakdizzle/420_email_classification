@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+thinking	1
+hey		1
+sweet		1
+baby		1
+love		1

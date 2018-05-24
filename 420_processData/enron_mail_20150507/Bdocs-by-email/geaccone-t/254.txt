@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+morning		1
+monday		1
+afternoons	1
+need		1
+call		1
+reschedule	1

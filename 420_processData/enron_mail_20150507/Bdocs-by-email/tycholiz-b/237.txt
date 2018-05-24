@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+pls		1
+jessica		1
+chris		1
+bt		1
+thurs		1
+schedule	1

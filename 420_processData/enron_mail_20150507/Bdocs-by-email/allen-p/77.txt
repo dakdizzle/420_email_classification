@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+risk		2
+program		2
+rotation	2
+train		1
+make		1
+track		1
+bland		1
+trying		1
+unless		1
+phillip		1
+dying		1
+ted		1
+help		1
+call		1
+experience	1
+desks		1
+unnecessary	1
+another		1
+use		1
+chad		1
+traders		1
+process		1
+analysts	1
+trading		1

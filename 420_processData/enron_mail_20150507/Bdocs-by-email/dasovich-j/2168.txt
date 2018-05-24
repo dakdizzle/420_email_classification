@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+know		2
+friday		2
+well		1
+m		1
+hope		1
+changing	1
+greetings	1
+jeff		1
+best		1
+skip		1
+tomorrow	1
+lesson		1
+going		1
+preferably	1
+week		1
+booked		1
+chance		1
+lunchtime	1

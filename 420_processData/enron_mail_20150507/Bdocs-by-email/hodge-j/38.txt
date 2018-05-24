@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jeff		1
+contract	1
+another		1
+work		1
+form		1
+suzanne		1
+better		1
+here		1

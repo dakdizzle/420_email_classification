@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+presentations	1
+map		1
+northern	1
+one		1
+center		1
+already		1
+need		1
+inserted	1
+don		1
+border		1
+actually	1

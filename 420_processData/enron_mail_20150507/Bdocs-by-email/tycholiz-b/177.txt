@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+annoucement	1
+please		1
+continues	1
+west		1
+managed		1
+mike		1
+grigsby		1
+bt		1
+include		1
+thanks		1

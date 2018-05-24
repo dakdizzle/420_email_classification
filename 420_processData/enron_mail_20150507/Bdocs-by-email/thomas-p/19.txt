@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+up		2
+mountainbike	1
+homes		1
+know		1
+trip		1
+actually	1
+pumping		1
+around		1
+philroy		1
+trails		1
+lately		1
+australia	1
+riding		1
+laterpt		1
+bally		1
+town		1
+months		1
+through		1

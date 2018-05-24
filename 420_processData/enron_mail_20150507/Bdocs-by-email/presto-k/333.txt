@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+information	1
+relevant	1

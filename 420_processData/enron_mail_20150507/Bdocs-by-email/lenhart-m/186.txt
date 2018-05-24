@@ -1,0 +1,23 @@
+NumWords	31
+NumTerms	20
+
+lenhart		5
+matthew		4
+enron		3
+com		3
+heard		1
+hull		1
+lisa		1
+cougars		1
+gillette	1
+filename	1
+folder		1
+lot		1
+sent		1
+hot		1
+psti		1
+bryan		1
+mx		1
+changs		1
+origin		1
+itemsx		1

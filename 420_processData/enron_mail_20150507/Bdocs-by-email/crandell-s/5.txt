@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+detail		1
+position	1
+closed		1
+balance		1
+total		1
+minute		1
+out		1
+pay		1
+nw		1
+february	1
+more		1
+thome		1
+ll		1

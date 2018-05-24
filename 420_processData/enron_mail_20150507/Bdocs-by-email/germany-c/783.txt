@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+info		1
+m		1
+good		1
+worksheet	1
+idea		1
+checking	1
+add		1

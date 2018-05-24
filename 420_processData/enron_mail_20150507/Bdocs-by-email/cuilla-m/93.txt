@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+accept		1
+greg		1
+up		1
+settle		1
+go		1
+now		1
+want		1
+ahead		1

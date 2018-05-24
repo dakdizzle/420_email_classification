@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+free		1
+interest	1
+lunch		1
+looks		1
+ll		1

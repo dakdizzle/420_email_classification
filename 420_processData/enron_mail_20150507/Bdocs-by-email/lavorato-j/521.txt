@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+simply		1
+greg		1
+choice		1
+know		1
+management	1
+owed		1
+markets		1
+industrial	1
+market		1
+run		1
+robyou		1
+settle		1
+lose		1
+past		1
+don		1
+fees		1
+dispute		1
+negotiate	1

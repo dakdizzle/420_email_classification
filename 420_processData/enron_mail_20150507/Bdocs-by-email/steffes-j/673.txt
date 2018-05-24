@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+enron		1
+hkingers	1
+harry		1
+recipients	1
+ou		1
+kingerski	1
+sorry		1
+left		1
+na		1

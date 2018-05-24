@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+enron		3
+perlingiere	2
+com		2
+credit		1
+wps		1
+worksheet	1
+bridgette	1
+comx		1
+hodge		1
+dx		1
+filename	1
+see		1
+thanks		1
+pst		1
+privileged	1
+dp		1
+non		1
+please		1
+origin		1
+forward		1
+anderson	1
+below		1
+dickson		1
+debra		1

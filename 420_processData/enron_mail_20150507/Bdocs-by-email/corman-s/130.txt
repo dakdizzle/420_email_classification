@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+report		3
+weekly		1
+confusion	1
+logistics	1
+gas		1
+caroline	1
+help		1
+renaming	1
+amenable	1
+thanks		1

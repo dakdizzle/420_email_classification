@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+information	2
+through		2
+october		1
+know		1
+indicates	1
+derivatives	1
+seen		1
+forwarded	1
+please		1
+executed	1
+sally		1
+additional	1
+enrononline	1
+counts		1
+beck		1
+need		1
+below		1
+deal		1
+trading		1
+drop		1

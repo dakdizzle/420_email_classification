@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+mention		1
+look		1
+india		1
+bright		1
+trying		1
+th		1
+side		1
+don		1
+paragraph	1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+soon		1
+much		1
+john		1
+talk		1
+thank		1
+very		1

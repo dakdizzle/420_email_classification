@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+meet		2
+discuss		1
+meeting		1
+pira		1
+time		1
+power		1
+know		1
+gas		1
+today		1
+fletch		1
+thanks		1
+both		1
+talking		1
+services	1
+please		1
+danielle	1
+d		1
+sometime	1

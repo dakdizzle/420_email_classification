@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+gmt		1
+pm		1
+april		1
+time		1
+austrailia	1
+wednesday	1
+canada		1
+central		1
+sydney		1

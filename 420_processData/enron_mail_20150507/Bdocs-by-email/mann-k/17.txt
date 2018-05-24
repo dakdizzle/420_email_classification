@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+mess		1
+sure		1
+kay		1
+pete		1
+thanks		1

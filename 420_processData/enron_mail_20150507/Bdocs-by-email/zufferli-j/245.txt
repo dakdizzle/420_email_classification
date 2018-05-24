@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+seats		1
+power		1
+need		1
+trading		1

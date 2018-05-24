@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lamore		1
+bp		1
+now		1
+albert		1
+corp		1
+reports		1
+running		1

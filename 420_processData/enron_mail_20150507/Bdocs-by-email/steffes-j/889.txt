@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+lynnette	1
+customers	1
+talk		1
+please		1
+nevada		1
+access		1
+pat		1
+keene		1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+access		2
+beldentom	1
+full		1
+swerzbinmatt	1
+grant		1
+time		1
+power		1
+west		1
+now		1
+bob		1
+alonsothanks	1
+badeermike	1
+please		1
+one		1
+mike		1
+traders		1
+grigsby		1
+motleytim	1

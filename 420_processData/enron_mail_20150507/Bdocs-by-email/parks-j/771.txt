@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+gun		1
+thas		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+go		1
+terms		1
+money		1
+slow		1
+closing		1
+ref		1
+door		1

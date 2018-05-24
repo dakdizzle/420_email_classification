@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+mark		1
+worried		1
+up		1
+end		1
+reviewed	1
+guys		1
+advise		1
+review		1
+variance	1
+file		1
+bt		1
+manage		1
+way		1
+down		1
+believe		1
+please		1
+level		1
+accurate	1
+anyways		1
+don		1
+think		1

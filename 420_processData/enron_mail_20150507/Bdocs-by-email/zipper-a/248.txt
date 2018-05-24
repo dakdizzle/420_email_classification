@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+andy		1
+ina		1
+garage		1
+spot		1
+unreserved	1
+chance		1
+new		1
+getting		1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+oome		2
+case		1
+under		1
+logic		1
+calc		1
+time		1
+paid		1
+flawed		1
+money		1
+appear		1
+opinion		1
+good		1
+run		1
+jmf		1
+oomc		1
+recovering	1
+think		1
+ordered		1

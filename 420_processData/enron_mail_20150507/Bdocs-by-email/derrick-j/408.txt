@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+hear		1
+intend		1
+dinners		1
+lunches		1
+up		1
+exciting	1
+tee		1
+tom		1
+times		1
+number		1
+take		1
+wish		1
+jim		1
+life		1
+best		1
+congratulations	1
+decision	1
+new		1
+very		1
+phase		1

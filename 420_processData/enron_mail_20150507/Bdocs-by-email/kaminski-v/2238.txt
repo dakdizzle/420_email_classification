@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+vkamins		2
+cn		2
+enron		2
+joseph		1
+recipients	1
+filename	1
+na		1
+pst		1
+privileged	1
+vince		1
+non		1
+koothrappally	1
+jkoothr		1
+ou		1
+com		1
+kaminski	1

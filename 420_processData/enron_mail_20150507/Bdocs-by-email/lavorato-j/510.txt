@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+update		2
+nw		2
+xls		1
+garvey		1
+jason		1
+month		1
+file		1
+pac		1
+tuesday		1
+lavorato	1
+sent		1
+message		1
+amto		1
+please		1
+year		1
+previous	1
+johnsubject	1
+original	1
+average		1
+add		1

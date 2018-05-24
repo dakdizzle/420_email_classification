@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+eb		1
+fax		1
+legal		1
+houston		1
+street		1
+lists		1
+find		1
+help		1
+unable		1
+thanks		1
+america		1
+livelink	1
+enron		1
+texas		1
+dperlin		1
+global		1
+active		1
+north		1
+smith		1
+perlingiereenron	1
+agreement	1
+debra		1

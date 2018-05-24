@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+files		2
+names		2
+thankskam	1
+erv		1
+bottom		1
+highlighted	1
+move		1
+hal		1
+add		1
+over		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+much		1
+stand		1
+against		1
+brothers	1
+logan		1
+chance		1
+weigh		1

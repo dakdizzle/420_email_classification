@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+concerns	1
+credit		1
+fyi		1
+told		1
+address		1

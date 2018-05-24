@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+agreed		1
+fully		1
+chase		1
+please		1
+know		1
+friday		1
+signed		1
+ena		1
+wendi		1
+amendment	1
+ss		1

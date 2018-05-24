@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+monday		1
+larry		1
+october		1
+until		1
+vacation	1
+available	1
+th		1
+week		1
+jmf		1
+thanks		1
+next		1

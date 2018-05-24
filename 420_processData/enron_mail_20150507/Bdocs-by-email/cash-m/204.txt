@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+matter		1
+box		1
+please		1
+mhc		1
+subject		1
+file		1
+print		1
+pull		1
+twanda		1
+thanks		1
+emails		1

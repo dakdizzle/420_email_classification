@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+gas		2
+anticipate	2
+trying		2
+little		1
+much		1
+lake		1
+inject		1
+helps		1
+ground		1
+location	1
+short		1
+buying		1
+extra		1
+tom		1
+incentive	1
+katy		1
+clear		1
+don		1
+think		1
+give		1

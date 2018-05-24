@@ -1,0 +1,11 @@
+NumWords	13
+NumTerms	8
+
+energy		2
+services	2
+trades		2
+columbia	2
+fw		2
+return		1
+ameren		1
+lc		1

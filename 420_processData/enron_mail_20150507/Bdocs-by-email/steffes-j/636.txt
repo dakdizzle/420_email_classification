@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+anything	1
+steve		1
+go		1
+needed		1
+ahead		1
+pr		1
+given		1

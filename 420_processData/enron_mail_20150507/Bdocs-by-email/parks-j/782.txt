@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+make		2
+lbs		1
+enough		1
+objections	1
+weekend		1
+beans		1
+freeze		1
+pound		1

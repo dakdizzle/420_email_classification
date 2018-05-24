@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+go		2
+sell		1
+everywhere	1
+use		1
+dancers		1
+car		1
+going		1
+field		1
+money		1

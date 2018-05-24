@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+alan		2
+cn		2
+comnes		2
+know		1
+recipients	1
+na		1
+jim		1
+lead		1
+enron		1
+please		1
+project		1
+em		1
+go		1
+acomnes		1
+ou		1
+doing		1

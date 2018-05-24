@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cn		2
+jsteffe		2
+fully		1
+pstthanks	1
+recipients	1
+filename	1
+na		1
+privileged	1
+jim		1
+steffes		1
+non		1
+agree		1
+enron		1
+sarah		1
+james		1
+ou		1
+already		1
+committed	1
+figure		1

@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+letters		1
+make		1
+stacey		1
+today		1
+sorry		1
+names		1
+such		1
+offer		1
+out		1
+morning		1
+frantically	1
+confirmed	1
+thinking	1
+message		1
+received	1
+needing		1
+go		1
+ubs		1
+want		1
+sure		1
+bother		1

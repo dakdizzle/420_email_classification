@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+come		1
+shit		1
+th		1
+green		1
+weekened	1
+die		1
+growing		1
+deer		1

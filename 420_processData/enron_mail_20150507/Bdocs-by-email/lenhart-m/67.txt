@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+anything	1
+hear		1
+ok		1
+glad		1
+need		1
+isn		1
+money		1
+date		1

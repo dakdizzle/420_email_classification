@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+group		1
+bunch		1
+jeff		1
+best		1
+california	1
+please		1
+working		1
+refresh		1
+person		1
+memory		1
+thanks		1

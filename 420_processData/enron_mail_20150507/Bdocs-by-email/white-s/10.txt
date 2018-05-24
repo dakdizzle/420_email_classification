@@ -1,0 +1,25 @@
+NumWords	41
+NumTerms	22
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+latest		1
+dvinson		1
+jlewis		1
+wayne		1
+paul		1
+stacey		1
+dahlke		1
+adahlke		1
+andrea		1
+evans		1
+lewis		1
+casey		1
+jon		1
+cevans		1
+move		1
+donald		1
+vinson		1

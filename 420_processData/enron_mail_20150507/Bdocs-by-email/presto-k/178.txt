@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+copy		1
+need		1
+thanks		1
+trading		1

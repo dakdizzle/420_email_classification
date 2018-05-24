@@ -1,0 +1,25 @@
+NumWords	41
+NumTerms	22
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+info		1
+jerrigo		1
+amcelrea	1
+know		1
+steve		1
+errigo		1
+alexander	1
+solinde		1
+olinde		1
+good		1
+mcelreath	1
+jr		1
+eric		1
+esaibi		1
+jmf		1
+joe		1
+saibi		1

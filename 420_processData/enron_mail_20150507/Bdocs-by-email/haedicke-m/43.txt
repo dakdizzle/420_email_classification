@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+mark		1
+positive	1
+sounds		1

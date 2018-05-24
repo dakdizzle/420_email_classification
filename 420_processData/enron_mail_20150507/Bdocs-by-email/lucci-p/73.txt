@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+weekend		2
+out		1
+party		1
+town		1
+tx		1
+antonio		1
+san		1
+ll		1

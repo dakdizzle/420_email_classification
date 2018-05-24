@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+morale		1
+up		1
+boost		1
+portland	1
+guys		1
+houston		1
+miss		1
+seem		1
+something	1
+great		1
+program		1
+makes		1
+need		1
+fired		1

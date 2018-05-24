@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+joe		1
+resume		1
+ll		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+look		1
+tooo		1
+make		1
+many		1
+koch		1
+changes		1
+florida		1
+take		1
+didn		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+travel		1
+few		1
+phone		1
+number		1
+keith		1
+call		1
+andrew		1
+please		1
+advice		1
+minutes		1
+need		1
+mail		1
+give		1

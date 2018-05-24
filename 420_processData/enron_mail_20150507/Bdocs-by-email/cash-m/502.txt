@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+care		1
+michelle	1
+took		1
+twanda		1
+mind		1
+never		1
+thanks		1

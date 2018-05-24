@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+wrong		1
+m		1
+power		1
+jeff		1
+sorry		1
+king		1
+east		1
+julie		1
+trading		1

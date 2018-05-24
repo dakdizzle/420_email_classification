@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+little		1
+out		1
+busyi		1
+arnold		1
+today		1
+honey		1
+love		1

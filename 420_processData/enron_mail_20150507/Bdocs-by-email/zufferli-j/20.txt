@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+open		1
+power		1
+until		1
+company		1
+won		1
+whether		1
+ontario		1
+removed		1
+trip		1
+lambie		1
+chris		1
+stephane	1
+market		1
+list		1
+brodeur		1
+trader		1
+garrett		1
+added		1
+sure		1
+joining		1

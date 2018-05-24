@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+president	1
+fax		1
+cell		1
+power		1
+test		1
+prestovice	1
+east		1
+kevin		1
+tradingphone	1

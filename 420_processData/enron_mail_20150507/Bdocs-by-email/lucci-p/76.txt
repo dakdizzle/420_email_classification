@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+monday		2
+jealous		2
+together	1
+days		1
+friday		1
+road		1
+th		1
+hit		1
+straight	1
+way		1
+great		1
+look		1
+m		1
+shouldn		1
+back		1
+night		1
+looked		1
+through		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lying		1
+nightline	1
+around		1
+hey		1
+babe		1
+frontline	1
+shows		1
+copies		1
+chance		1

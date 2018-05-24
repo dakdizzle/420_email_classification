@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+hear		1
+kitchen		1
+jonathan	1
+louise		1

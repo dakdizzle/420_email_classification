@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+sample		2
+charlie		1
+conversation	1
+representative	1
+per		1
+fax		1
+folks		1
+know		1
+taken		1
+wanted		1
+oil		1
+doug		1
+thanks		1
+exactly		1
+delivered	1
+again		1
+confident	1
+fuel		1
+florida		1
+told		1
+sure		1
+couple		1

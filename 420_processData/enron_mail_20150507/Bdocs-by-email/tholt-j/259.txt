@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+good		1
+cheated		1
+ben		1
+thatdfelicity	1
+missed		1
+found		1
+half		1
+pretty		1

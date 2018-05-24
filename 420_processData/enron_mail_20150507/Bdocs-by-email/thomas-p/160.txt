@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+good		1
+look		1
+things		1
+saw		1
+change		1
+fast		1
+amazing		1

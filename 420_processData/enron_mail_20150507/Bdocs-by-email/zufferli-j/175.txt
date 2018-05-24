@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+enron		1
+significant	1
+except		1
+direct		1
+portion		1
+correct		1
+cost		1
+reapplied	1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+jeff		1
+yes		1
+susan		1

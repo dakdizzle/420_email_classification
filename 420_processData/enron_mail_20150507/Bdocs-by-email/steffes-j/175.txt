@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+key		1
+know		1
+christi		1
+forget		1
+efforts		1
+help		1
+yesterday	1
+jim		1
+retail		1
+good		1
+opportunities	1
+synopsis	1
+effort		1
+understand	1
+use		1
+goes		1
+spoke		1
+jennifer	1
+don		1
+thome		1
+here		1
+play		1

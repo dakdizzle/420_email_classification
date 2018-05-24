@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+bradford	1
+none		1
+douglas		1
+bill		1
+stephen		1
+contact		1
+deal		1
+otherwise	1

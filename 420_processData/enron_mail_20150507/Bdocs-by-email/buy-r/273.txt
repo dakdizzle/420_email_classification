@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+detail		1
+rick		1
+more		1
+tx		1

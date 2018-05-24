@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+little		1
+talking		1
+idea		1
+guess		1
+drunk		1

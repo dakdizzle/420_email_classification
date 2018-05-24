@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+stuff		1
+distribute	1
+sensitive	1
+heizenrader	1
+talk		1
+whether		1
+need		1
+ideal		1
+pretty		1
+getting		1

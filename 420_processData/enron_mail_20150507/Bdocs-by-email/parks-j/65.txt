@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+bullets		1
+little		1
+dodging		1
+soryy		1
+make		1
+busy		1
+contact		1
+delay		1
+unable		1
+trailer		1

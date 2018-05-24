@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+highway		1
+power		1
+dickinsonflorida	1
+beach		1
+north		1
+palm		1
+florida		1
+light		1
+mike		1
+usa		1

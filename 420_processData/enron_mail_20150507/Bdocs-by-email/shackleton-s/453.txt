@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+monday		1
+drafted		1
+send		1
+check		1
+letter		1

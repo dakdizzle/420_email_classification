@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+seperate	1
+system		1

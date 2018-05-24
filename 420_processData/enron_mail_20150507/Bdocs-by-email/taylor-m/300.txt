@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+leach		1
+dyk		1
+russell		1
+mail		1
+doug		1
+here		1

@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+meeting		2
+hour		2
+office		2
+mark		1
+anticipate	1
+th		1
+suite		1
+crestone	1
+around		1
+come		1
+go		1
+last		1
+half		1
+st		1
+over		1

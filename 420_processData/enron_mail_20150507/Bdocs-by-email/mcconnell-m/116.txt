@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+mark		1
+meeting		1
+mcconnelltranswestern	1
+company		1
+came		1
+wasn		1
+pipeline	1
+straight	1
+mcconnell	1
+morning		1
+out		1
+kim		1
+cell		1
+enron		1
+office		1
+feeling		1
+faxmark		1
+vet		1
+bad		1
+still		1
+com		1

@@ -1,0 +1,20 @@
+NumWords	22
+NumTerms	17
+
+mar		2
+chicago		2
+ena		2
+ngi		2
+dec		2
+koch		1
+latter		1
+entergy		1
+reliant		1
+call		1
+basis		1
+transactions	1
+geof		1
+sells		1
+buys		1
+give		1
+here		1

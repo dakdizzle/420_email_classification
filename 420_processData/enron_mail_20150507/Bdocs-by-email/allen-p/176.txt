@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+griff		1
+please		1
+accommodate	1
+phillip		1
+request		1

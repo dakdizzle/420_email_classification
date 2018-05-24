@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+taking		1
+day		1
+scott		1
+ok		1
+vacation	1
+go		1
+tomorrow	1
+astros		1
+half		1
+game		1
+see		1
+planning	1

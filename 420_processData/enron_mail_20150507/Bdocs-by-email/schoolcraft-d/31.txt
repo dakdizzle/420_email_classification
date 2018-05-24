@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+cn		2
+dl		2
+controllers	1
+gas		1
+plant		1
+recipients	1
+na		1
+ds		1
+check		1
+enron		1
+etsgascontrollers	1
+ou		1
+ets		1

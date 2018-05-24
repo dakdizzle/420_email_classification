@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+wrong		1
+changed		1
+something	1
+know		1
+thx		1
+see		1
+think		1
+mine		1

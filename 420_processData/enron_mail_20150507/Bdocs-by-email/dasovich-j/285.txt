@@ -1,0 +1,7 @@
+NumWords	8
+NumTerms	4
+
+sto		2
+memo		2
+pdf		2
+investor	2

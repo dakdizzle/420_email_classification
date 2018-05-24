@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+physical	1
+trades		1
+index		1
+volumes		1
+financial	1
+tammycheck	1

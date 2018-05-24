@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+good		1
+yours		1
+m		1
+concerns	1
+understand	1
+definitely	1
+luck		1
+sure		1
+deal		1
+panenergy	1
+over		1

@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+taking		1
+together	1
+plan		1
+cleared		1
+time		1
+join		1
+hard		1
+know		1
+spend		1
+phone		1
+th		1
+jennie		1
+talked		1
+really		1
+pray		1
+tomorrow	1
+direct		1
+already		1
+waiting		1
+flight		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+info		1
+smithlaura	1
+logistics	1
+gas		1
+mike		1
+vuittonet	1
+olsenjay	1

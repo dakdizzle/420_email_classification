@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+eb		1
+fax		1
+ph		1
+street		1
+wholesale	1
+losing		1
+soon		1
+m		1
+services	1
+shackletonenron	1
+ahouston	1
+tx		1
+smith		1
+c		1
+infosara	1

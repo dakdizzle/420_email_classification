@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+jderric		2
+derrick		2
+cn		2
+meeting		1
+press		1
+recipients	1
+filename	1
+na		1
+privileged	1
+jim		1
+non		1
+enron		1
+best		1
+charles		1
+jr		1
+james		1
+ou		1
+silverado	1
+attend		1
+business	1
+pstsara		1

@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+rac		3
+truly		1
+place		1
+up		1
+power		1
+folks		1
+information	1
+share		1
+function	1
+corporate	1
+radar		1
+put		1
+team		1
+services	1
+firewalls	1
+blessed		1
+goes		1
+past		1
+within		1
+need		1
+read		1
+receive		1
+trading		1

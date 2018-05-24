@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+jan		1
+opener		1
+eye		1
+thanks		1

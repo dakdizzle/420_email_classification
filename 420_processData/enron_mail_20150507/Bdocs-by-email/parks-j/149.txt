@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+status		1
+hey		1
+please		1
+wire		1
+whats		1

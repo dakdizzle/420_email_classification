@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+please		2
+carthage	1
+gas		1
+attached	1
+find		1
+giron		1
+swing		1
+thanks		1
+call		1
+darron		1
+aep		1
+concerns	1
+behalf		1
+winter		1
+questions	1
+carole		1
+sell		1
+duke		1
+swepco		1
+proposal	1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+inc		1
+entity		1
+networks	1
+nda		1
+name		1
+legal		1
+another		1
+correct		1
+foundry		1

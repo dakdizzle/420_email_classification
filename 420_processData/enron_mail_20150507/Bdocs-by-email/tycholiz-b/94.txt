@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+up		1
+bt		1
+high		1
+volume		1
+way		1
+instead		1
+specific	1
+range		1
+go		1
+probably	1
+sure		1
+amount		1
+drop		1

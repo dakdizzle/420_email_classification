@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+takes		1
+dsl		1
+page		1
+connection	1
+improve		1
+load		1
+anything	1
+speed		1
+long		1
+done		1
+sometimes	1
+haysletteb	1
+rod		1
+minutes		1

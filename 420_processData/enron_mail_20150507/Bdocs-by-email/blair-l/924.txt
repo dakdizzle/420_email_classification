@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+lynn		1
+wondered	1
+info		1
+meeting		1
+detail		1
+steve		1
+fancler		1
+attachment	1
+thanks		1
+dan		1
+tracy		1
+seen		1
+issues		1
+eppi		1
+familiar	1
+weller		1
+understand	1
+harry		1
+need		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+president	1
+mark		1
+friday		1
+interest	1
+eve		1
+taylorvice	1
+wholesale	1
+general		1
+counselenron	1
+services	1
+tomorrow	1
+astros		1
+tickets		1
+game		1

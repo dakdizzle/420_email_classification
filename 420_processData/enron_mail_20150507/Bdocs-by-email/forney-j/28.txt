@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+cell		2
+ercot		1
+evacuating	1
+jerry		1
+attached	1
+today		1
+see		1
+number		1
+balancing	1
+thanks		1
+call		1
+anything	1
+down		1
+direct		1
+line		1
+need		1

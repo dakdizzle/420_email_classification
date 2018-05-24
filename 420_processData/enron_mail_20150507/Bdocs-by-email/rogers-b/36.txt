@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+whenever	2
+soon		1
+time		1
+best		1
+know		1
+ready		1
+leave		1
+car		1
+going		1
+pretty		1
+here		1

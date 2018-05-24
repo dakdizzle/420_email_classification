@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+tracy		1
+cabinets	1
+look		1
+binder		1
+bmc		1
+marie		1
+letter		1
+binders		1
+file		1
+closing		1
+side		1

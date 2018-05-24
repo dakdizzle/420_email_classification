@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+doubt		1
+now		1
+necessary	1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+knows		1
+idea		1
+question	1
+answer		1

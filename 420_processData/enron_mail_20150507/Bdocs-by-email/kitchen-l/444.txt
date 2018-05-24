@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+kitchen		2
+louise		2
+cn		2
+meeting		1
+ok		1
+carry		1
+recipients	1
+filename	1
+na		1
+pstno		1
+lkitchen	1
+enron		1
+please		1
+ubs		1
+ou		1
+went		1

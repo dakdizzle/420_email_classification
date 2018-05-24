@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+something	1
+duran		1
+yes		1
+need		1
+works		1
+think		1

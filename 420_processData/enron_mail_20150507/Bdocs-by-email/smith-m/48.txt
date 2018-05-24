@@ -1,0 +1,27 @@
+NumWords	30
+NumTerms	24
+
+outages		3
+file		2
+folder		2
+link		2
+iso		2
+table		1
+under		1
+power		1
+california	1
+plant		1
+existing	1
+thanks		1
+pge		1
+point		1
+instead		1
+please		1
+testing		1
+change		1
+amanda		1
+called		1
+website		1
+mat		1
+htm		1
+fundy		1

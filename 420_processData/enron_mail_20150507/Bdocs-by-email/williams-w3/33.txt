@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+status		1
+epe		1
+genstat		1
+enron		1
+dotect		1
+http		1
+ect		1
+com		1

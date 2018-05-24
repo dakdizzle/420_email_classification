@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+talk		2
+trader		2
+want		2
+hear		1
+cash		1
+know		1
+susan		1
+both		1
+out		1
+ideas		1
+assistant	1
+rockies		1
+mail		1
+jay		1
+eastern		1
+thoughts	1

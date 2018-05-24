@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+make		1
+affiliate	1
+net		1
+changes		1
+want		1
+works		1
+marketing	1

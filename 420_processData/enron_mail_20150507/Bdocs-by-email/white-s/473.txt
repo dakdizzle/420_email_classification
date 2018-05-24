@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+requests	1
+stacey		1
+global		1
+arnold		1
+counterparty	1
+now		1
+fyi		1
+pham		1
+thu		1

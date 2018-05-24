@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+possibly	1
+greatest	1
+make		1
+travel		1
+improvement	1
+reservations	1
+making		1
+reward		1
+allow		1
+single		1

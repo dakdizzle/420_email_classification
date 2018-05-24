@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+anything	1
+fun		1
+bring		1
+harry		1
+sure		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+booooofeeeeeet	1
+wonder		1
+go		1
+today		1
+maybe		1
+lunch		1

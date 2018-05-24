@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+monica		1
+dropped		1
+fine		1
+phillip		1
+outlines	1

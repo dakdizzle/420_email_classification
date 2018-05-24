@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+long		1
+analysis	1
+going		1
+fine		1
+someone		1
+tom		1
+lunch		1
+cover		1

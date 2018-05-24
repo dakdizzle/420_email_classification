@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+thats		1
+whatever	1
+ok		1
+believe		1
+want		1

@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+cn		3
+com		2
+aol		1
+ebadd		1
+recipients	1
+stinson		1
+yahoo		1
+meet		1
+pavel		1
+na		1
+apple		1
+head		1
+pzadoro		1
+vince		1
+enron		1
+vkaminski	1
+notesaddr	1
+drinks		1
+ou		1
+before		1
+c		1
+ce		1
+gibner		1
+big		1

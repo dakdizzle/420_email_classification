@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+wrong		1
+ve		1
+message		1
+now		1
+resend		1
+lost		1
+guess		1
+deleted		1
+file		1
+okay		1

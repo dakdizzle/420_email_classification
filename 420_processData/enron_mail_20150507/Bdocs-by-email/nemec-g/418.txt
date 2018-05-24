@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+cn		2
+nemec		2
+gerald		2
+pstattached	1
+send		1
+ok		1
+today		1
+letter		1
+review		1
+recipients	1
+filename	1
+na		1
+privileged	1
+out		1
+gnemec		1
+non		1
+enron		1
+please		1
+ou		1
+comments	1

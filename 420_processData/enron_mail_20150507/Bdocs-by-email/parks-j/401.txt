@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+aep		1
+hey		1
+paso		1
+back		1
+el		1
+cleaner		1
+responsibility	1
+money		1
+middle		1
+don		1
+give		1
+think		1

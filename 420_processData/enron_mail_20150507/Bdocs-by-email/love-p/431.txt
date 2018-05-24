@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+archive		1
+tell		1
+itpl		1

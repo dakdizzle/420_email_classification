@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+home		1
+kim		1
+regards		1
+send		1
+salto		1
+jeff		1
+best		1
+please		1
+received	1
+update		1
+hi		1

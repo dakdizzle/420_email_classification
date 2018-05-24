@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+care		1
+hey		1
+try		1
+vacation	1
+name		1
+ask		1
+sorry		1
+names		1
+headhunter	1
+take		1
+robert		1
+out		1
+todd		1
+back		1
+week		1
+think		1

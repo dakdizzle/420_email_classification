@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+gas		2
+burns		1
+keeps		1
+happens		1
+desk		1
+trade		1
+without		1
+demand		1
+charge		1
+cogen		1
+doing		1
+imbalance	1
+telling		1

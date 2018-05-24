@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+overall		1
+again		1
+request		1
+give		1

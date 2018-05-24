@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lynn		1
+sherry		1
+matter		1
+sunday		1
+thanks		1

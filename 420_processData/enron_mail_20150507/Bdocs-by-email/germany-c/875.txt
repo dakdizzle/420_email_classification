@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+guilty		2
+feel		2
+funny		1
+annoyed		1
+gas		1
+sale		1
+twinkies	1
+m		1
+being		1
+pay		1
+grrrrrrr	1
+garage		1
+night		1
+work		1
+notified	1
+going		1
+doing		1
+didn		1

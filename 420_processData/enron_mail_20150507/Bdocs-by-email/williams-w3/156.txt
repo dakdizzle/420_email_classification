@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+group		1
+stir		1
+washington	1
+up		1
+seattle		1
+interest	1
+julie		1
+yesterday	1
+message		1
+received	1
+bill		1
+go		1
+want		1
+university	1
+student		1
+still		1

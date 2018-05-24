@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+draft		1
+isda		1
+glendale	1
+listed		1
+amounts		1
+thanks		1
+call		1
+kim		1
+regarding	1
+asap		1
+threshold	1
+please		1
+give		1

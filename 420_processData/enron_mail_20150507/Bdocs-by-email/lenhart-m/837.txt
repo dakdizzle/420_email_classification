@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+definately	1
+basis		1
+gas		1
+west		1
+tell		1
+appreciate	1
+natural		1
+trade		1
+market		1

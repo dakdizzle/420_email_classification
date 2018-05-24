@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cglf		2
+monday		1
+dont		1
+m		1
+today		1
+flat		1
+need		1
+susan		1
+sold		1
+worry		1

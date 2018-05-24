@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+garcias		1
+yes		1
+muchas		1

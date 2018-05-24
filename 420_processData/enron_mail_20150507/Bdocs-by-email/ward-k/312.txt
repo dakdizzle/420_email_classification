@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+collateral	1
+know		1
+now		1
+calling		1
+keep		1
+paper		1
+thanks		1
+extend		1
+kim		1
+soon		1
+amgen		1
+right		1
+additional	1
+work		1
+blend		1
+need		1

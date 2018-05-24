@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+information	2
+tools		1
+useful		1
+good		1
+manual		1
+used		1
+heather		1
+settle		1
+process		1
+looks		1
+thanks		1

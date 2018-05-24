@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+stuff		1
+board		1
+seen		1
+cheryl		1
+jerry		1
+well		1
+need		1

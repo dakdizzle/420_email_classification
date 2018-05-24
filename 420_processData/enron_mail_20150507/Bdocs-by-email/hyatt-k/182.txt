@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+dentist		1
+pm		1
+canal		1
+know		1
+thursday	1
+root		1
+scheduled	1
+thx		1
+need		1
+schedule	1

@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+avg		3
+number		2
+stick		1
+injected	1
+injectedi	1
+bank		1
+injectedindustry	1
+market		1
+banking		1
+less		1
+enron		1
+built		1
+already		1
+think		1

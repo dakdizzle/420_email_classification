@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+underwriters	1
+check		1
+rick		1
+tx		1
+sure		1
+act		1
+dave		1
+aware		1

@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+transmission	2
+sheet		1
+available	1
+viewed		1
+extra		1
+sw		1
+b		1
+st		1

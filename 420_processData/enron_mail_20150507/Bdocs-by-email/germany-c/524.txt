@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+contracts	2
+look		1
+send		1
+feel		1
+producer	1
+kathryn		1
+dominion	1
+shemin		1
+actually	1

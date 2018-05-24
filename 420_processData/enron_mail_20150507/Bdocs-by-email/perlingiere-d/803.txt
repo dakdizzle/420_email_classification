@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+utilicorp	1
+adicapri	1
+credit		1
+dept		1
+enron		1
+waiting		1
+angela		1
+dicaprio	1
+thanks		1
+com		1

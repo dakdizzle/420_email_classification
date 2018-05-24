@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+case		1
+ft		1
+article		1
+nice		1
+vince		1
+meeting		1
+ipos		1
+francesca	1
+missed		1
+antonio		1
+san		1
+kaminski	1

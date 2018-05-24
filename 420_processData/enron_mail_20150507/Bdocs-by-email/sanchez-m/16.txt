@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+think		2
+together	1
+up		1
+know		1
+weather		1
+outside		1
+take		1
+nice		1
+something	1
+house		1
+come		1
+barbeque	1
+another		1
+advantage	1
+having		1
+saturday	1

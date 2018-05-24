@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+associate	1
+vince		1
+luigi		1
+shall		1
+glad		1
+week		1
+problem		1
+lunch		1
+next		1

@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+settlement	2
+both		1
+ve		1
+together	1
+gentleman	1
+front		1
+well		1
+signed		1
+sign		1
+now		1
+need		1
+notary		1

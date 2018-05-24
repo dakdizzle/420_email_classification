@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+meeting		2
+first		1
+attending	1
+adjust		1
+minutes		1
+reflect		1
+emission	1
+thanks		1

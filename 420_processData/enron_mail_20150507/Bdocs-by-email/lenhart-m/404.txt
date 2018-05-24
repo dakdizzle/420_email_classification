@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+thing		1
+flipping	1
+sober		1
+wouldn		1
+nuts		1
+car		1
+rude		1
+remember	1
+out		1
+down		1
+kept		1
+one		1
+going		1
+went		1
+die		1

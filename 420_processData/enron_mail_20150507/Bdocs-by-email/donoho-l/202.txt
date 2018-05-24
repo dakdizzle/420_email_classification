@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+cn		2
+ldonoho		2
+lindy		2
+meeting		1
+few		1
+spreadsheet	1
+recipients	1
+copies		1
+filename	1
+na		1
+print		1
+take		1
+pstplease	1
+thanks		1
+privileged	1
+morning		1
+tracy		1
+non		1
+enron		1
+donoho		1
+ou		1

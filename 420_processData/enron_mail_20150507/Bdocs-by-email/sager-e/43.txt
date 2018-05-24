@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+esager		2
+cn		2
+sager		2
+recipients	1
+filename	1
+na		1
+privileged	1
+psti		1
+non		1
+enron		1
+agreeelizabeth	1
+ou		1
+elizabeth	1

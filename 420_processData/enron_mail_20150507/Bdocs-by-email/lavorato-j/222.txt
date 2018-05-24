@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+seem		1
+john		1
+find		1

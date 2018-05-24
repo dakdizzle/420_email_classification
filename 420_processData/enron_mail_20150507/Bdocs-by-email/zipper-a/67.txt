@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+sleeping	1
+couch		1
+still		1
+tonight		1
+okay		1

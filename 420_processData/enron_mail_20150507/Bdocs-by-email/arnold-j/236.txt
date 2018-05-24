@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+assume		1
+months		1
+puts		1

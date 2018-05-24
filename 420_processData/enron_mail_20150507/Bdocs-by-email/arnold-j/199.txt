@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+brian		2
+nj		2
+greg		1
+end		1
+rdglen		1
+heartstone	1
+harding		1
+tracey		1
+east		1
+ct		1
+ave		1
+rock		1
+manolis		1
+lanewilton	1
+jack		1
+ny		1
+trentham	1
+kind		1
+cogen		1
+avecaldwell	1
+forest		1

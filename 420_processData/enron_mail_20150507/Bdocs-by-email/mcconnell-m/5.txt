@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+cn		2
+mmcconne	2
+mark		1
+thing		1
+pstjames	1
+recipients	1
+filename	1
+na		1
+privileged	1
+mcconnell	1
+non		1
+enron		1
+ou		1
+year		1
+think		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+further		1
+questions	1
+last		1
+tom		1
+week		1
+thoughts	1
+talked		1

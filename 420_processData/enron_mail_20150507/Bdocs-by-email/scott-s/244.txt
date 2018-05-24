@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+talk		1
+tomorrow	1
+jaunt		1
+work		1
+limeade		1
+ll		1

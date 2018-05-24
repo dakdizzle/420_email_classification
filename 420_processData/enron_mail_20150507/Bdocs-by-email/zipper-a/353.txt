@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+nothing		1
+thnk		1
+nowttfn		1

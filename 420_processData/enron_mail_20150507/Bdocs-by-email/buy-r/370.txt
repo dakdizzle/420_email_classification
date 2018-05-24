@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+recoveries	1
+down		1
+good		1
+job		1
+rick		1
+sharply		1
+due		1

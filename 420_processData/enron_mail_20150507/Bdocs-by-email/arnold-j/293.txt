@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+email		1
+customers	1
+john		1
+participating	1
+interest	1
+thanks		1
+structure	1
+enron		1
+right		1
+more		1
+reach		1
+address		1
+product		1
+allows		1

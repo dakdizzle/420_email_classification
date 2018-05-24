@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+generally	1
+position	1
+attach		1
+description	1
+go		1
+terms		1
+agreement	1
+brief		1

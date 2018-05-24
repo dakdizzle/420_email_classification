@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+objection	1
+john		1
+assuming	1
+approves	1

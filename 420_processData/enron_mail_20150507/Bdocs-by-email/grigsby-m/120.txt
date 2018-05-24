@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+one		2
+taking		1
+brewer		1
+floor		1
+stacy		1
+rep		1
+know		1
+spots		1
+desk		1
+teacher		1
+nice		1
+two		1
+classroom	1
+best		1
+logistics	1
+rockies		1
+mike		1
+added		1
+shannon		1
+thought		1
+groenewald	1
+think		1
+patti		1
+southwest	1

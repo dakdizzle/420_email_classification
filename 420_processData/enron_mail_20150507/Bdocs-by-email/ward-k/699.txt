@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+stuff		1
+kim		1
+make		1
+send		1
+invoice		1
+july		1
+change		1
+griffith	1
+need		1
+darla		1
+think		1
+thanks		1

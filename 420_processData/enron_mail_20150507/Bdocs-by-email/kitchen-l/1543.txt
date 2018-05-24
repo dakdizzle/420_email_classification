@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+cancelthanksprc	1
+something	1
+cash		1
+day		1
+anywhere	1
+inventory	1
+helps		1
+working		1
+know		1
+one		1
+peoples		1
+ll		1

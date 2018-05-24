@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+send		1
+confirmation	1
+mc		1
+later		1
+wire		1

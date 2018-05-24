@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+half		2
+monday		1
+suggesting	1
+stacey		1
+talk		1
+besides		1
+something	1
+really		1
+sign		1
+mtm		1
+don		1
+aa		1
+ll		1

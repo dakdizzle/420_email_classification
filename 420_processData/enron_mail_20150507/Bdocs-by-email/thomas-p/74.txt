@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+up		1
+sweetie		1
+here		1

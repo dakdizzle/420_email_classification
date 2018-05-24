@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+whendq		1
+talk		1
+know		1
+another		1
+noon		1
+chartlet	1

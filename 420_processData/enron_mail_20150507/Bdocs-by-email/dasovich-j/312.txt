@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+best		2
+someone		1
+responsibilities	1
+cover		1
+hope		1
+jeff		1
+replace		1
+congratulations	1
+hire		1
+luck		1
+country		1
+big		1
+new		1
+given		1
+ll		1

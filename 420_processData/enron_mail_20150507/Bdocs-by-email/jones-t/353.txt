@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+tjones		2
+cn		2
+jones		1
+ermt		1
+company		1
+delaware	1
+houston		1
+street		1
+recipients	1
+tana		1
+filename	1
+na		1
+pstname		1
+companyaddress	1
+privileged	1
+non		1
+texas		1
+enron		1
+liability	1
+ou		1
+limited		1
+smith		1
+llc		1

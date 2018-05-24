@@ -1,0 +1,23 @@
+NumWords	29
+NumTerms	20
+
+reliant		3
+energy		2
+houston		2
+entities	2
+texas		2
+louisiana	2
+services	2
+addresses	2
+inc		1
+ltd		1
+know		1
+marie		1
+canada		1
+chris		1
+anything	1
+bp		1
+need		1
+amoco		1
+below		1
+mail		1

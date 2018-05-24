@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+sscott		1
+scott		1
+enron		1
+feel		1
+makes		1
+recipients	1
+ou		1
+susan		1
+problem		1
+na		1
+important	1

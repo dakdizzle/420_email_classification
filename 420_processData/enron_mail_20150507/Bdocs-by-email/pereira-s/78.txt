@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+rudy		1
+agree		1
+pereira		1
+yes		1
+susan		1
+cancellation	1
+deal		1
+thanks		1

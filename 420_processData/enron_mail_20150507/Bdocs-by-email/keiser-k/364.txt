@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+gas		2
+daily		2
+basis		1
+index		1
+ids		1
+today		1
+kam		1
+price		1
+post		1
+here		1

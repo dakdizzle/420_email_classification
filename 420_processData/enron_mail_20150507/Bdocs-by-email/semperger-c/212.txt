@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+first		1
+understood	1
+populated	1
+path		1
+market		1

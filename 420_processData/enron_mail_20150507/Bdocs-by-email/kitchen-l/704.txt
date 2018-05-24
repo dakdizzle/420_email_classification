@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+lkitchen	2
+cn		2
+kitchen		1
+understanding	1
+now		1
+louise		1
+trying		1
+flat		1
+recipients	1
+although	1
+filename	1
+na		1
+pstno		1
+privileged	1
+specified	1
+non		1
+enron		1
+panels		1
+ou		1

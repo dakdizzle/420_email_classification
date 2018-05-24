@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+email		1
+make		1
+send		1
+travel		1
+plans		1
+thanks		1
+gone		1
+dates		1
+please		1
+book		1
+want		1
+going		1
+need		1
+don		1
+appointments	1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+whatever	1
+sure		1

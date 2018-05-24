@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+interview	1
+dinner		1
+time		1
+guy		1
+wednesday	1
+go		1
+sorry		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+phillipx	1
+send		1
+contracts	1
+power		1
+california	1
+thank		1
+copies		1
+jen		1

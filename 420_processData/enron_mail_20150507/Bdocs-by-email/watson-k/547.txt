@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+pilar		1
+kim		1
+card		1
+much		1
+thinking	1
+wonderful	1
+thank		1
+thanks		1

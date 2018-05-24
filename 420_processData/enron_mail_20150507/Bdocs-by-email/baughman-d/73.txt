@@ -1,0 +1,18 @@
+NumWords	19
+NumTerms	15
+
+baughman	2
+privileged	2
+dbaughm		2
+non		2
+dx		1
+filename	1
+folder		1
+pst		1
+sent		1
+version		1
+jr		1
+origin		1
+itemsx		1
+mime		1
+don		1

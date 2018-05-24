@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+master		1
+first		1
+fax		1
+copy		1
+marie		1
+isda		1
+karen		1
+agreement	1
+amendment	1

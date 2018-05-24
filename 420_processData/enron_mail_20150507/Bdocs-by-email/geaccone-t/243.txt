@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+geaccone	2
+tgeacco		2
+cn		2
+meeting		1
+plan		1
+recipients	1
+filename	1
+na		1
+take		1
+privileged	1
+tracy		1
+around		1
+shouldn		1
+psti		1
+non		1
+being		1
+enron		1
+thankstracy	1
+minutes		1
+more		1
+ou		1

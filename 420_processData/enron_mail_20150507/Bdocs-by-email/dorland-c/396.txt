@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+basis		2
+mar		1
+wow		1
+aeco		1
+guys		1
+today		1
+tighter		1
+nov		1
+long		1
+cents		1
+again		1
+snapping	1
+works		1
+making		1
+oct		1

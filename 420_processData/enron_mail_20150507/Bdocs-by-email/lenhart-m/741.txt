@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+party		1
+up		1
+garden		1
+guys		1
+outside		1
+heights		1
+watch		1
+meet		1
+later		1
+plus		1
+watching	1
+girls		1
+tomorrow	1
+night		1
+want		1
+woodrows	1
+game		1

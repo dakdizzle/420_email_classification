@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+andy		1
+lavoratodutch	1
+maggi		1
+zipperjohn	1
+maymike		1
+quigleylarry	1

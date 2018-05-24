@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+m		2
+soon		1
+done		1
+contracts	1
+office		1
+back		1
+won		1
+doctors		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+nomination	1
+instead		1
+requirement	1
+section		1
+contract	1
+daily		1
+change		1
+refer		1
+quantity	1
+schedule	1

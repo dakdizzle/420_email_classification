@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+gaps		1
+lower		1
+intc		1
+breaks		1
+projects	1

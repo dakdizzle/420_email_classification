@@ -1,0 +1,24 @@
+NumWords	48
+NumTerms	21
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+cowan		3
+lambie		2
+mcowan		2
+video		2
+come		2
+chad		2
+mike		2
+cclark		1
+guys		1
+clambie		1
+meet		1
+clark		1
+chris		1
+mili		1
+back		1
+dorland		1

@@ -1,0 +1,27 @@
+NumWords	43
+NumTerms	24
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+gogenyi		1
+twiggs		1
+patrick		1
+know		1
+jean		1
+thane		1
+ogenyi		1
+keene		1
+jryall		1
+jim		1
+pushing		1
+develop		1
+please		1
+gloria		1
+obstacles	1
+critical	1
+ryall		1
+ttwiggs		1
+pkeene		1

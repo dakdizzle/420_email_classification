@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+changes		2
+change		2
+those		1
+much		1
+gdy		1
+region		1
+physical	1
+gdx		1
+trouble		1
+gas		1
+daily		1
+month		1
+names		1
+gdm		1
+thanks		1
+gdl		1
+index		1
+tell		1
+made		1
+org		1
+intra		1

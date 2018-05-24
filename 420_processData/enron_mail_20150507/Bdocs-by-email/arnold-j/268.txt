@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+maybe		1
+selective	1
+memory		1

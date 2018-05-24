@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+morning		1
+monday		1
+dwr		1
+mark		1
+meeting		1
+jeff		1
+best		1
+tuesday		1
+gang		1
+chance		1
+sometime	1
+hi		1

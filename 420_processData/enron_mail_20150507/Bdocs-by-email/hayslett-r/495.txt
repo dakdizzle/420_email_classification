@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+center		2
+cost		2
+allocated	1
+charged		1
+enron		1
+direct		1
+corporate	1
+business	1
+corp		1
+question	1
+controls	1

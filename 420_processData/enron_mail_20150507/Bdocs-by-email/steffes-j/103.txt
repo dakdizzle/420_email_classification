@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+bryan		1
+update		1
+monthly		1
+pls		1
+include		1

@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+knows		1
+methodology	1
+send		1
+free		1
+time		1
+helpful		1
+modified	1
+parts		1
+peter		1
+m		1
+ellen		1
+language	1
+feel		1
+sara		1
+changes		1
+ahead		1
+discussed	1
+yes		1
+everyone	1
+need		1
+agreement	1
+sure		1
+think		1

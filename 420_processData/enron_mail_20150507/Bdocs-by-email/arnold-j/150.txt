@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+monday		1
+exactly		1
+george		1
+trades		1
+half		1
+internal	1
+saturday	1

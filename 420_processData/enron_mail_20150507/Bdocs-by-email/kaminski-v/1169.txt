@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+vince		1
+minslate	1
+afew		1
+run		1
+ninfa		1
+kaminski	1

@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+dasovich	2
+jeff		2
+pstthanks	1
+comx		1
+filename	1
+privileged	1
+jx		1
+good		1
+non		1
+enron		1
+ray		1
+best		1
+interesting	1
+origin		1
+alvarez		1
+luck		1

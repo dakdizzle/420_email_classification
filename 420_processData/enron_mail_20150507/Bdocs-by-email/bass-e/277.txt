@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+care		1
+fyi		1
+business	1
+take		1
+didn		1

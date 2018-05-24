@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+kim		1
+nice		1
+employees	1
+know		1
+glad		1
+finally		1
+gina		1
+see		1
+announced	1
+very		1
+think		1
+thanks		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+out		1
+definately	1
+working		1
+im		1
+drinking	1
+sure		1

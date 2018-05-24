@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+rate		2
+vol		2
+contract	2
+xls		1
+factor		1
+ela		1
+adjustment	1
+days		1
+ne		1
+stx		1
+bug		1
+cds		1
+unit		1
+charges		1
+east		1
+effective	1
+capacity	1
+wla		1
+demand		1
+logistics	1
+etx		1
+amount		1

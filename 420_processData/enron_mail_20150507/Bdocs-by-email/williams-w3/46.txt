@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+both		1
+al		1
+steve		1
+eric		1
+reference	1

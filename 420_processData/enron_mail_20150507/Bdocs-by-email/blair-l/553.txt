@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+up		2
+back		2
+lynn		1
+ava		1
+know		1
+fine		1
+teams		1
+sure		1
+thanks		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+much		1
+m		1
+working		1
+astros		1
+going		1
+nursery		1
+sure		1
+think		1
+tonight		1

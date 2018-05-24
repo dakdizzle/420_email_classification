@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+home		1
+hope		1
+cell		1
+stacey		1
+same		1
+still		1

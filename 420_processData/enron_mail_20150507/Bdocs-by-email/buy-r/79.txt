@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+worthwhile	1
+rick		1
+glad		1
+more		1
+ll		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+clg		1
+changed		1
+rules		1
+gas		1
+ou		1
+dec		1
+password	1
+col		1

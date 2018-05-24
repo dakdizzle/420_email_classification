@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+list		1
+name		1
+taken		1
+old		1
+think		1

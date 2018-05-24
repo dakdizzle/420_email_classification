@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+soon		1
+interconnect	1
+talk		1
+reconciling	1
+hopefully	1
+spreadsheet	1
+mojave		1
+mike		1
+help		1
+here		1

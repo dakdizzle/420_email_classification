@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+lynn		1
+outlook		1
+mindresending	1
+realizing	1
+adjusting	1
+probably	1
+sorry		1
+mike		1
+deleted		1
+thanks		1

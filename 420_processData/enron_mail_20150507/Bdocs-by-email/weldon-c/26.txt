@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+right		1
+up		1
+johnny		1
+gas		1
+now		1
+sell		1
+same		1
+jun		1
+nat		1
+ll		1

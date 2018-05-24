@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+delight		1
+vince		1
+naveen		1

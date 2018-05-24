@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+monday		1
+between		1
+end		1
+try		1
+working		1
+know		1
+gave		1
+draft		1
+finals		1
+wanted		1
+better		1
+ve		1
+jeff		1
+best		1
+cold		1
+one		1
+work		1
+week		1
+next		1
+resume		1

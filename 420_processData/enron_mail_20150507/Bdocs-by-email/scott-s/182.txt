@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+mucky		1
+duncan		1
+playing		1
+know		1
+sheik		1
+duck		1
+see		1
+thurs		1
+tomorrow	1
+night		1
+work		1
+don		1
+think		1
+ll		1

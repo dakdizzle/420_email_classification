@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+funny		1
+one		1
+need		1
+think		1
+explain		1
+didn		1

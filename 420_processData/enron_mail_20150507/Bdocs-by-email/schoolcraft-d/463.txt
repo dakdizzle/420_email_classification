@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+cn		2
+dschool		2
+pstwe		1
+darrell		1
+allocating	1
+today		1
+revise		1
+recipients	1
+schoolcraft	1
+approximately	1
+filename	1
+na		1
+call		1
+mmbtu		1
+privileged	1
+ds		1
+posting		1
+non		1
+enron		1
+juan		1
+ou		1
+conference	1
+san		1

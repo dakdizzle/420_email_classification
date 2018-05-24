@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+respond		1
+please		1
+below		1
+request		1
+thanks		1

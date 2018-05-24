@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+building	2
+new		2
+quit		1
+guys		1
+see		1
+whatever	1
+come		1
+weekend		1
+moved		1
+before		1
+need		1
+over		1
+fired		1

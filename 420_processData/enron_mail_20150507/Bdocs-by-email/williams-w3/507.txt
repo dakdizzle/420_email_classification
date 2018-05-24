@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+bill		2
+make		1
+steve		1
+iii		1
+williams	1
+want		1
+sure		1
+thanks		1

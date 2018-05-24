@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+man		1
+de		1
+thanks		1

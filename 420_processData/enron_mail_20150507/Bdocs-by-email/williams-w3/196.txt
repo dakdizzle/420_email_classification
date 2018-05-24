@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+nice		1
+bill		1
+thank		1
+work		1
+kate		1

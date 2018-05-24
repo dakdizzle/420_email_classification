@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+through		2
+holly		1
+send		1
+trying		1
+phone		1
+times		1
+tried		1
+yesterday	1
+call		1
+ve		1
+tired		1
+several		1
+reach		1
+gotten		1
+still		1
+haven		1

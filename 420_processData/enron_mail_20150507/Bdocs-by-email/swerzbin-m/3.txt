@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+report		2
+everything	1
+id		1
+receipt		1
+ones		1
+missing		1
+cefa		1
+receipts	1
+please		1
+tell		1
+last		1
+outstanding	1
+don		1
+bd		1
+think		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+dong		1
+lama		1
+shama		1
+ding		1

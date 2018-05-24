@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+info		1
+much		1
+good		1
+great		1
+job		1
+weekend		1
+luck		1
+new		1
+dutch		1
+thanks		1

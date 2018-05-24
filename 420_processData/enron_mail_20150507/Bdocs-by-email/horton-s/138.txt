@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+care		1
+outlet		1
+thanksgiving	1
+now		1
+month		1
+twins		1
+thanks		1
+mitch		1
+less		1
+distractions	1
+happy		1
+old		1
+stress		1

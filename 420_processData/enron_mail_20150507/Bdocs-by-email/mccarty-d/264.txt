@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+specifics	1
+ve		1
+fran		1
+go		1
+forward		1
+ahead		1
+already		1
+bob		1
+dan		1
+expecting	1
+talked		1

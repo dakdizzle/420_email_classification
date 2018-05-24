@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+forwarded	1
+message		1
+please		1
+thank		1
+responses	1
+rogers		1
+work		1
+rex		1
+paula		1

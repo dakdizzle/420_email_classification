@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+vince		2
+kaminski	2
+decline		1
+now		1
+filename	1
+vkamins		1
+jx		1
+many		1
+right		1
+pstphilip	1
+regrets		1
+invitation	1
+commitments	1

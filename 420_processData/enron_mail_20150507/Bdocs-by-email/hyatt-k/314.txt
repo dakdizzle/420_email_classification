@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+anything	1
+account		1
+credit		1
+union		1
+matched		1
+ek		1
+prior		1
+submitted	1
+sol		1
+donated		1

@@ -1,0 +1,17 @@
+NumWords	20
+NumTerms	14
+
+number		3
+chris		2
+cn		2
+priscilla	2
+germany		2
+cgerman		1
+recipients	1
+filename	1
+na		1
+thanks		1
+pstsuzanne	1
+enron		1
+ou		1
+give		1

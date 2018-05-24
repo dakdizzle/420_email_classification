@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+bored		1
+happening	1

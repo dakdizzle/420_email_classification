@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+enjoyed		1
+talking		1
+information	1
+know		1
+bill		1
+questions	1
+attached	1
+today		1
+discussed	1
+thanks		1

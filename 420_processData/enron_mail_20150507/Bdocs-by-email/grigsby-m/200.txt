@@ -1,0 +1,27 @@
+NumWords	49
+NumTerms	24
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+jane		1
+gay		1
+rgay		1
+randall		1
+found		1
+sullivan	1
+msmith		1
+sgroenew	1
+groenewold	1
+tholt		1
+phil		1
+supply		1
+jtholt		1
+mexicana	1
+matt		1
+psulliv		1
+smith		1
+shannon		1
+patti		1

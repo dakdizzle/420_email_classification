@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+house		1
+dinner		1
+up		1
+right		1
+lets		1
+pay		1
+now		1
+need		1
+think		1
+bet		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+presentations	1
+jeff		1
+best		1
+crazy		1
+know		1
+things		1
+bug		1
+sorry		1
+checking	1
+hi		1
+yesterday	1
+talked		1

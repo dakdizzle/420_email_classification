@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+freeman		1
+want		1
+antonio		1

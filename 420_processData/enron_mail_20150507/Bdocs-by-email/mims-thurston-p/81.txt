@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+attempt		1
+best		1
+volumes		1
+disagree	1
+strongly	1
+month		1
+holler		1
+date		1
+here		1

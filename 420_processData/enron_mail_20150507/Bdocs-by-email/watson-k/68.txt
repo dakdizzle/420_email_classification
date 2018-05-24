@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+limited		2
+passed		1
+thank		1
+glad		1
+mean		1
+ranelle		1
+previously	1
+longer		1
+help		1
+volume		1
+kim		1
+pnm		1
+m		1
+very		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+group		1
+flash		1
+digitalshowcase	1
+htmlmichelle	1
+http		1
+go		1
+directortranswestern	1
+disney		1
+commercial	1
+lokayaccount	1
+sc		1
+com		1

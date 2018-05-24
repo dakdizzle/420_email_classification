@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+retail		2
+cn		2
+jsteffe		2
+ferc		1
+hurt		1
+recipients	1
+filename	1
+na		1
+gen		1
+privileged	1
+jim		1
+steffes		1
+pstif		1
+non		1
+enron		1
+implementation	1
+james		1
+ou		1
+year		1
+business	1
+product		1
+agrees		1
+next		1

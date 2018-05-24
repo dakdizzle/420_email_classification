@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+stacey		1
+cecilia		1
+below		1
+requested	1

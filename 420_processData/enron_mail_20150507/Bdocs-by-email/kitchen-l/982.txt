@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+officerenron	1
+fax		1
+americastel	1
+operating	1
+end		1
+signed		1
+tomorrow	1
+pips		1
+louise		1
+desk		1
+kitchenchief	1
+play		1

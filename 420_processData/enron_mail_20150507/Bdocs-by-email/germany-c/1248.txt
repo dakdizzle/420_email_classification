@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+wrong		1
+contract	1
+looks		1
+thanks		1

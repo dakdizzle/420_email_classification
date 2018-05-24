@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+number		2
+think		2
+shorts		1
+front		1
+short		1
+buying		1
+guys		1
+now		1
+trade		1
+massive		1
+squeezable	1
+weak		1
+long		1
+many		1
+right		1
+best		1
+boys		1
+sell		1
+before		1
+week		1
+covering	1
+next		1
+here		1

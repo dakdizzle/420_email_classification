@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+details		2
+week		2
+next		2
+early		1
+try		1
+end		1
+vacation	1
+wanted		1
+th		1
+thanks		1
+out		1
+m		1
+fill		1
+received	1
+mhc		1
+invitation	1
+forward		1
+lunch		1
+haven		1
+misha		1

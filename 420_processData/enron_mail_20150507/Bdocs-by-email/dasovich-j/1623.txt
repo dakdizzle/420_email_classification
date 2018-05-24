@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+comx		1
+jshankm		1
+filename	1
+pstwill		1
+privileged	1
+jx		1
+non		1
+enron		1
+jeff		1
+origin		1
+shankman	1
+dick		1
+sharon		1

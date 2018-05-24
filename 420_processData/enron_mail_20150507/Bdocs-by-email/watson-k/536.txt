@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+m		1
+list		1
+looking		1
+bring		1
+now		1
+reminder	1
+over		1
+ll		1
+thanks		1

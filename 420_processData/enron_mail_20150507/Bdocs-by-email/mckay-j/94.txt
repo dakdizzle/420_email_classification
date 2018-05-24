@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+sep		1
+regards		1
+jon		1
+offered		1
+oct		1

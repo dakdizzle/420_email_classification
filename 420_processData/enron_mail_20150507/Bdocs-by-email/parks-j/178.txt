@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+position	1
+up		1
+louis		1
+seperate	1
+nymex		1
+see		1
+point		1
+good		1
+basis		1
+non		1
+positions	1
+pv		1
+brought		1
+equivalent	1

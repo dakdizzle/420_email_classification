@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+kim		1
+together	1
+case		1
+long		1
+ok		1
+used		1
+draft		1
+isda		1
+past		1
+form		1
+take		1
+thanks		1

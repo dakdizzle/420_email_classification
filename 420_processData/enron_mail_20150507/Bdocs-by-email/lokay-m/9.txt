@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+forthcoming	1
+cash		1
+executed	1
+received	1
+signed		1
+williams	1
+final		1
+document	1
+approval	1
+mccarty		1
+amount		1
+danny		1

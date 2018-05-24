@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+stacey		2
+swhite		2
+cn		2
+recipients	1
+white		1
+filename	1
+na		1
+help		1
+excel		1
+privileged	1
+non		1
+enron		1
+pstmin		1
+ou		1
+request		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+physical	1
+assigned	1
+appears		1
+gas		1
+vastar		1
+documents	1
+southern	1

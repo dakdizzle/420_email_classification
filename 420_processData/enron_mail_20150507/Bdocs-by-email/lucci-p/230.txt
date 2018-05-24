@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+everyday	1
+m		1
+free		1
+up		1
+except		1
+wednesday	1

@@ -1,0 +1,4 @@
+NumWords	1
+NumTerms	1
+
+8889069761@skytel.com	1

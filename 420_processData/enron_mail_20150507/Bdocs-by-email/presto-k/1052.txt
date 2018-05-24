@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+aga		2
+normally	1
+pm		1
+day		1
+until		1
+worst		1
+therefore	1
+days		1
+wednesday	1
+due		1
+tuesday		1
+trade		1
+suggest		1
+thursday	1

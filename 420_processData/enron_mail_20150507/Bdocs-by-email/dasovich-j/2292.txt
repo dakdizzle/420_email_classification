@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+m		1
+bozo		1
+contracts	1
+customers	1
+resist		1
+assuming	1
+going		1
+read		1
+ruling		1
+karl		1
+hi		1

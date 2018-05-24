@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+changed		1
+plove		1
+email		1
+pl		1
+grant		1
+time		1
+completely	1
+locations	1
+comx		1
+george		1
+filename	1
+privileged	1
+pstif		1
+swaps		1
+non		1
+enron		1
+changes		1
+px		1
+happy		1
+confident	1
+origin		1
+more		1
+love		1

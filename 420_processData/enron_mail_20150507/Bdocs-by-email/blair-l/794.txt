@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lynn		1
+discuss		1
+speed		1
+up		1
+need		1
+thanks		1

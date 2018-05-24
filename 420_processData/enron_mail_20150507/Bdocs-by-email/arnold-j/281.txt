@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+something	1
+prestige	1
+m		1
+job		1
+worry		1
+here		1

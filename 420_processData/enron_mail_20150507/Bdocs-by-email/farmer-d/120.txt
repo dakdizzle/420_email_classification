@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+changed		1
+sitara		1
+price		1

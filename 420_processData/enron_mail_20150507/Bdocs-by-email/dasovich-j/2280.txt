@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+very		2
+nice		1
+renee		1
+dinner		1
+fluffy		1
+friend		1
+light		1
+yummy		1
+thanks		1

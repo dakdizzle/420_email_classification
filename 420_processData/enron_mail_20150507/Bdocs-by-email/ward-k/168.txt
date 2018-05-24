@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+thanks		2
+conflict	1
+know		1
+steve		1
+today		1
+person		1
+reserved	1
+tom		1
+snyder		1
+kim		1
+room		1
+hesco		1
+goudie		1
+conference	1
+participation	1
+here		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+things		1
+work		1
+damned		1
+never		1
+thanks		1

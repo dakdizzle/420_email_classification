@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+seem		1
+motley		1
+portland	1
+missing		1
+matt		1

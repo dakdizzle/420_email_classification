@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+fun		1
+fair		1
+wouldnt		1

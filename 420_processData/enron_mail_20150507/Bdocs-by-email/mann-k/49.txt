@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+inc		1
+spotlight	1
+bylaws		1
+ebs		1
+locate		1
+kay		1
+wasn		1
+hi		1
+thanks		1
+robin		1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+derrick		2
+jderric		1
+dnix		1
+ncsc		1
+filename	1
+privileged	1
+jim		1
+jx		1
+pstthank	1
+non		1
+cbreaux		1
+origin		1
+invitation	1
+attend		1

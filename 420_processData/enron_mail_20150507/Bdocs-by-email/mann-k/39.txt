@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+notice		1
+send		1
+response	1
+default		1
+thanks		1

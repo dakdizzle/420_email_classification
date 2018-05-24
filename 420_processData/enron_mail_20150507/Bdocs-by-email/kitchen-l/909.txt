@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+mcconnell	1
+today		1
+mike		1
+speaking	1

@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+group		3
+cuts		1
+zachary		1
+gay		1
+potential	1
+time		1
+risk		1
+john		1
+mccarroll	1
+west		1
+bob		1
+transfer	1
+transferring	1
+thanks		1
+run		1
+logistics	1
+remain		1
+mike		1
+grigsby		1
+discussing	1
+randy		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+moving		2
+scott		1
+anne		1
+west		1
+palmer		1
+going		1
+central		1
+markets		1
+industrial	1

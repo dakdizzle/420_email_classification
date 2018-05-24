@@ -1,0 +1,17 @@
+NumWords	18
+NumTerms	14
+
+hayslett	2
+privileged	2
+rhaysle		2
+non		2
+filename	1
+folder		1
+sent		1
+version		1
+pstfyi		1
+origin		1
+itemsx		1
+mime		1
+rx		1
+rod		1

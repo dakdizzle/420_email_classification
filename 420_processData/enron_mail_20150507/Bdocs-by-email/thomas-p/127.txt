@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+over		2
+around		1
+great		1
+paul		1
+come		1
+go		1
+procedures	1
+work		1
+appreciate	1
+thanks		1

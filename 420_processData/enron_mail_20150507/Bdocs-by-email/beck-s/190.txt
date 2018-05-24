@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+glad		2
+up		1
+straightened	1
+know		1
+form		1
+deleted		1
+thanks		1
+feedback	1
+via		1
+out		1
+look		1
+followed	1
+mail		1
+don		1

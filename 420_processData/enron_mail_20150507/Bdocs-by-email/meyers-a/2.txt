@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+bert		1
+gap		1
+buffalo		1
+fine		1
+tom		1

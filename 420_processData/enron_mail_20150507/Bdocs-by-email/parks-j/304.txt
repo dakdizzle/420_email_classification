@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+april		1
+settle		1
+contract	1
+yesterday	1

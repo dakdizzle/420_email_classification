@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+lloyd		1
+fletch		1
+thanks		1

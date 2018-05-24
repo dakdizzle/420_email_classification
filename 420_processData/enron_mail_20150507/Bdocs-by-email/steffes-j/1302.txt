@@ -1,0 +1,27 @@
+NumWords	40
+NumTerms	24
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+lindberg	2
+susan		2
+tom		2
+status		1
+event		1
+slindber	1
+report		1
+provide		1
+jim		1
+nice		1
+snovose		1
+novosel		1
+back		1
+sarah		1
+go		1
+want		1
+hoatson		1
+thoatson	1
+overview	1

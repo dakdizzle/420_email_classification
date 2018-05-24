@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+changed		1
+jim		1
+mark		1
+perform		1
+last		1
+expect		1
+sentence	1

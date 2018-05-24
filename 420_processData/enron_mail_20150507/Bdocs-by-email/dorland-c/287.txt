@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+shout		1
+run		1
+back		1
+tommorow	1
+work		1
+sorry		1
+chris		1
+errands		1
+give		1
+tonight		1
+didn		1

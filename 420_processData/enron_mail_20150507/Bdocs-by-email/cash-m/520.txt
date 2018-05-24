@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+mcash		2
+cn		2
+vote		1
+cash		1
+littler		1
+recipients	1
+involved	1
+bob		1
+mendelson	1
+filename	1
+na		1
+help		1
+retained	1
+privileged	1
+notestine	1
+kerry		1
+psti		1
+non		1
+enron		1
+project		1
+ou		1
+michelle	1
+need		1
+don		1

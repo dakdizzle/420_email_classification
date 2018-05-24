@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+lease		1
+back		1
+buying		1
+change		1
+work		1
+luck		1
+don		1
+mind		1
+calculator	1
+worry		1
+actually	1
+getting		1

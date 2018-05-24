@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+kward		2
+kim		2
+cn		2
+pstvariable	1
+know		1
+responsible	1
+recipients	1
+houston		1
+capacitythanks	1
+filename	1
+na		1
+privileged	1
+anything	1
+regards		1
+demand		1
+non		1
+enron		1
+ward		1
+redwood		1
+ou		1
+need		1
+reimburse	1

@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+c..koehler@enron.com	2
+pinto.leite@enron.com	2
+steve.van@enron.com	1
+hschiff@carrfut.com	1
+david.chrismer@solvaypaperboard.com	1
+mark.greenberg@enron.com	1
+rgrillo@anz.com	1
+chinn@millercanfield.com	1
+cldiaz@copamex.com	1
+wendy.conwell@enron.com	1
+dbf@vitol.com	1
+cheryl.johnson@enron.com	1
+cindy.richardson@enron.com	1
+donna.hadley@austinenergy.com	1
+hibarra@agroasemex.gob.mx	1
+gross@quadraenergy.com	1
+ralph.masiello@caminus.com	1

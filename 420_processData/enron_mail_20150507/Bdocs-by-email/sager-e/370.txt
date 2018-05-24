@@ -1,0 +1,26 @@
+NumWords	32
+NumTerms	23
+
+ect		5
+hou		3
+sager		2
+agreement	2
+elizabeth	2
+first		1
+mark		1
+pm		1
+free		1
+shreds		1
+rip		1
+confirms	1
+draft		1
+hodge		1
+jeffrey		1
+forwarded	1
+please		1
+feel		1
+more		1
+subject		1
+taylor		1
+amendment	1
+here		1

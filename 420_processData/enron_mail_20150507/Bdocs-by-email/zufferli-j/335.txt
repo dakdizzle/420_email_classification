@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+make		1
+directly	1
+jd		1
+john		1
+report		1
+already		1
+canada		1
+lavorato	1

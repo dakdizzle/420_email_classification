@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+favorite	1
+thank		1
+kmelodi		1
+recipients	1
+na		1
+kim		1
+enron		1
+hr		1
+one		1
+ou		1
+melodick	1
+reps		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+cheryl		1
+respond		1
+marie		1
+spencer		1
+tom		1
+thanks		1

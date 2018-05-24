@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+morning		1
+warren		1
+first		1
+thing		1
+evening		1
+know		1
+checked		1
+sara		1
+probably	1
+corp		1
+later		1
+thanks		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+liz		1
+trap		1
+fedex		1
+especially	1
+drround		1
+mouse		1
+rock		1
+confirm		1
+please		1
+tx		1
+package		1
+address		1
+zip		1

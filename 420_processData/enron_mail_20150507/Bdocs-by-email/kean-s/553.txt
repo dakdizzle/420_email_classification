@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+case		1
+ir		1
+numbers		1
+reach		1
+need		1
+hour		1
+someone		1
+pr		1
+here		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+party		1
+those		1
+right		1
+brides		1
+hotel		1
+maids		1
+beach		1
+ready		1
+south		1

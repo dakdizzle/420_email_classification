@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+care		1
+time		1
+reviewed	1
+jordan		1
+take		1
+securities	1
+mintz		1
+one		1
+more		1
+release		1
+told		1
+lawyers		1
+needs		1

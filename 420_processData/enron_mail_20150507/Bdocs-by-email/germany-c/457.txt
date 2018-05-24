@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+good		1
+m		1
+feel		1
+working		1
+makes		1
+glad		1
+today		1

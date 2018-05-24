@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+john		1
+talk		1
+sending		1
+comx		1
+final		1
+edits		1
+epsa		1
+filename	1
+shapiro		1
+privileged	1
+jim		1
+steffes		1
+jx		1
+look		1
+non		1
+enron		1
+shelk		1
+please		1
+sarah		1
+jsteffe		1
+pstcharles	1
+origin		1
+before		1
+richard		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+boat		1
+brother		1
+wed		1
+flying		1
+work		1
+potty		1
+think		1
+pontoon		1
+next		1

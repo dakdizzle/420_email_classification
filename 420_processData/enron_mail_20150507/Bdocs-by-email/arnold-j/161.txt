@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+run		2
+emerges		1
+hurricane	1
+until		1
+cents		1
+now		1
+yea		1
+over		1
+overnight	1
+ll		1

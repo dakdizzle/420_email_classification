@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+sequent		3
+ford		2
+dthd		2
+ed		1
+peaking		1
+customers	1
+finish		1
+working		1
+trying		1
+light		1
+especially	1
+s		1
+worked		1
+second		1
+two		1
+gypsum		1
+talking		1
+suggestion	1
+release		1
+year		1
+last		1
+deal		1
+still		1

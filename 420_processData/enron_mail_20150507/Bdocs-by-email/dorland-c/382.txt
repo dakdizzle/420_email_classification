@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+early		1
+spoiler		1
+martin		1
+car		1
+left		1
+chris		1
+high		1
+yesterday	1
+during		1
+dry		1
+work		1
+allison		1
+tonight		1

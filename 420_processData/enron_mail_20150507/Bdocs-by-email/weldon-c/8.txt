@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+charlie		1
+home		1
+phone		1
+thanks		1

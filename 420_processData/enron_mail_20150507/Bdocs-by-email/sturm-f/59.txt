@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+futures		1
+copy		1
+contract	1
+find		1
+fletch		1
+appreciate	1
+cinergy		1
+rhonda		1
+nymex		1
+help		1
+thanks		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+happens		1
+paul		1
+join		1
+bpa		1
+doesn		1

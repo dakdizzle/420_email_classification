@@ -1,0 +1,19 @@
+NumWords	21
+NumTerms	16
+
+deals		3
+system		2
+see		2
+think		2
+paul		1
+hence		1
+contact		1
+price		1
+month		1
+shows		1
+incorrectly	1
+revision	1
+entered		1
+last		1
+half		1
+warrick		1

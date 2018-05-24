@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+pager		2
+day		1
+messages	1
+car		1
+phone		1
+see		1
+number		1
+remember	1
+nice		1
+cell		1
+numeric		1
+charging	1
+need		1

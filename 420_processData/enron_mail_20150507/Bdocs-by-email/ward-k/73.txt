@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+gtc		2
+master		2
+send		1
+place		1
+know		1
+paso		1
+exact		1
+attached	1
+top		1
+thanks		1
+yesterday	1
+kim		1
+put		1
+asap		1
+instead		1
+please		1
+language	1
+electric	1
+el		1
+discussed	1
+approval	1
+prefer		1
+jay		1
+took		1

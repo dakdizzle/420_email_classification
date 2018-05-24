@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+prompt		1
+rox		1
+nwpl		1
+month		1

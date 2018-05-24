@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+stock		1
+options		1
+restricted	1
+set		1

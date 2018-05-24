@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+weekend		1
+phone		1
+sorry		1
+cinergy		1
+txu		1

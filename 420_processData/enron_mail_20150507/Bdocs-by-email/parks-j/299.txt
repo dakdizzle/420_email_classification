@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+ubs		2
+tall		1
+time		1
+hard		1
+name		1
+worked		1
+real		1
+agree		1
+guy		1
+establishing	1
+work		1
+still		1
+deal		1
+big		1

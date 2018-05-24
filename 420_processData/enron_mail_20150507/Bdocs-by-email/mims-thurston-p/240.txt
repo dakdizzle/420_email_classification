@@ -1,0 +1,8 @@
+NumWords	7
+NumTerms	5
+
+bat		2
+same		2
+place		1
+time		1
+right		1

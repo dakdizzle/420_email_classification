@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lynn		1
+room		1
+ava		1
+please		1
+update		1
+changes		1
+number		1
+thanks		1
+calendar	1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+blackberry	2
+dynegy		1
+day		1
+net		1
+wireless	1
+handheld	1
+www		1
+due		1
+diligence	1
+sent		1
+thursday	1
+nng		1
+doing		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+eugene		1
+vaughan		1
+house		1
+treemont	1
+fax		1
+please		1
+print		1
+letterhead	1
+thanks		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+ricki		1
+working		1
+think		1

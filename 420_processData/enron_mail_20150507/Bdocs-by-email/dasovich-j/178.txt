@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+put		1
+further		1
+jeff		1
+wood		1
+examination	1
+contract	1
+renewal		1
+issue		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+order		1
+describe	1
+fred		1
+plug		1
+know		1
+limit		1
+want		1
+system		1
+enhanced	1
+call		1

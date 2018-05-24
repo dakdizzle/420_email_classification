@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+dynegy		3
+com		3
+email		1
+gentleman	1
+connecting	1
+information	1
+looking		1
+well		1
+stage		1
+michael		1
+robert		1
+morning		1
+northern	1
+burleson	1
+again		1
+one		1
+stephen		1
+herber		1
+called		1

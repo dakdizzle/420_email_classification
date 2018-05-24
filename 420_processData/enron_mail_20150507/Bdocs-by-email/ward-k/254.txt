@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+tomarrow	1
+kim		1
+regarding	1
+meeting		1
+alto		1
+sound		1
+janine		1
+thanks		1
+palo		1

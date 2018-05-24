@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+look		1
+great		1
+sally		1
+forward		1
+week		1
+seeing		1
+next		1

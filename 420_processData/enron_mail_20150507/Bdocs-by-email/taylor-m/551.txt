@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+up		2
+those		1
+looking		1
+keep		1
+price		1
+ercs		1
+something	1
+bullshit	1
+being		1
+touch		1
+comes		1
+another		1
+told		1
+brought		1
+deal		1
+website		1
+sold		1

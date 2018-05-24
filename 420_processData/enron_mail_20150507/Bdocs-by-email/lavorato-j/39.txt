@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+little		1
+changed		1
+joke		1
+lavo		1
+know		1
+night		1
+line		1
+top		1
+davei		1
+slightly	1
+sleep		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+greatlakes	1
+talking		1
+pipepline	1
+well		1
+thanks		1

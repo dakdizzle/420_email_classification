@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+zone		2
+five		1
+up		1
+socal		1
+assigned	1
+jason		1
+mapped		1
+pg		1
+schedulers	1
+curves		1
+exist		1
+meters		1
+two		1
+sitara		1
+una		1
+meter		1
+below		1
+need		1
+already		1
+set		1

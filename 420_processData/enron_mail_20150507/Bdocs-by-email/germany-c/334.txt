@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+m		1
+fault		1
+wed		1
+admit		1
+see		1
+worthless	1
+didn		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+orage		1
+great		1
+place		1
+lisa		1
+went		1
+chicken		1
+harvest		1
+ll		1
+yesterday	1

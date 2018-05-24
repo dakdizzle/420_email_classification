@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+enron		2
+comx		1
+filename	1
+bryson		1
+pst		1
+privileged	1
+steffes		1
+jesse		1
+jx		1
+non		1
+jsteffe		1
+mary		1
+origin		1
+schoen		1
+com		1

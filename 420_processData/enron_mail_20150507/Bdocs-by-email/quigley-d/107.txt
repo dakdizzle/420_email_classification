@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+xmas		1
+thats		1
+partyif		1
+free		1
+time		1
+funi		1
+know		1

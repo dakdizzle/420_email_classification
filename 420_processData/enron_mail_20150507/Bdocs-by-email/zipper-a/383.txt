@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+soon		1
+real		1
+talk		1
+note		1
+thanks		1

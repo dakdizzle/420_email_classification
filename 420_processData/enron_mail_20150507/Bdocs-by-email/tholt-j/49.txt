@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+full		1
+flow		1
+displacement	1
+becky		1
+gas		1
+rely		1
+t		1
+thin		1
+serve		1
+cause		1
+uneconomical	1
+requirements	1
+don		1
+needs		1

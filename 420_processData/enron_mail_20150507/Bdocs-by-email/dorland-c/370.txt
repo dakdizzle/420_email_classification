@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+up		1
+time		1
+benson		1
+hedges		1
+johnny		1
+hit		1
+see		1
+mikey		1
+out		1
+m		1
+excited		1
+menthol		1
+hang		1
+very		1

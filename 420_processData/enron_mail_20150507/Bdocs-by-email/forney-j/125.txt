@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jmforney	1
+latest		1
+travel		1
+screen		1
+applicants	1
+due		1
+below		1
+phone		1
+business	1
+participate	1
+adrianne	1

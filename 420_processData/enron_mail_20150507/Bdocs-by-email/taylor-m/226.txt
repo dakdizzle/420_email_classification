@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+situation	1
+value		1
+consideration	1
+even		1
+sounds		1
+premium		1
+actually	1
+buyer		1
+lack		1
+believe		1
+agree		1
+pay		1
+fundamental	1
+fairly		1
+kind		1
+willing		1
+small		1
+here		1

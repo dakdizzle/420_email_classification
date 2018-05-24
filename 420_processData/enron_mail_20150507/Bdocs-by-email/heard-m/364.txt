@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+rob		1
+cass		1

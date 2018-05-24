@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+really		1
+great		1
+jeff		1
+best		1
+working		1
+appreciate	1
+note		1

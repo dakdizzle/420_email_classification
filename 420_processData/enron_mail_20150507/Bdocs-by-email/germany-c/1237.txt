@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+years		2
+cash		2
+months		2
+gov		1
+three		1
+term		1
+intere		1
+go		1
+lose		1
+publicdebt	1
+www		1
+treas		1

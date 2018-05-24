@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+way		1
+vince		1
+hurricane	1
+thursday	1
+nd		1
+discussed	1
+united		1
+mike		1
+floormonitoring	1
+last		1

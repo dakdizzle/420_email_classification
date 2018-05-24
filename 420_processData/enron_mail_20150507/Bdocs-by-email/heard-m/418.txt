@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+send		1
+finally		1
+remembered	1

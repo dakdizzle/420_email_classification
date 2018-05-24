@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+properties	1
+send		1
+report		1
+publishes	1
+now		1
+even		1
+mls		1
+kidding		1
+same		1
+newpaper	1
+listings	1
+better		1
+red		1
+good		1
+look		1
+right		1
+please		1
+investment	1
+buy		1
+going		1
+think		1
+deer		1
+summary		1

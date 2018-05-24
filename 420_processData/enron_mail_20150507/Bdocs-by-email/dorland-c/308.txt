@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+care		1
+concern		1
+safely		1
+made		1
+thanx		1
+chris		1
+take		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+harrysarora	1
+yahoo		1
+com		1

@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+book		2
+probably	2
+mine		2
+linked		1
+wt		1
+position	1
+kam		1
+names		1
+confused	1
+actually	1
+keith		1
+wc		1
+appears		1
+want		1
+access		1
+having		1
+don		1
+tds		1
+mat		1
+mind		1

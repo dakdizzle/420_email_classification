@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+copy		1
+finish		1
+try		1
+today		1
+louise		1
+month		1
+someone		1
+print		1
+check		1
+update		1
+deliver		1
+format		1
+want		1
+color		1
+data		1
+week		1
+process		1
+dave		1
+next		1
+over		1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+go		2
+mark		1
+counterparty	1
+thanks		1
+each		1
+bankruptcy	1
+list		1
+want		1
+going		1
+doing		1
+prepare		1
+think		1
+through		1

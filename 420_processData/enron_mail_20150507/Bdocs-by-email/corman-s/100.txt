@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+meeting		1
+m		1
+fred		1
+traveling	1
+thursday	1
+pleased		1
+available	1
+florida		1
+d		1
+business	1
+accompany	1
+chicken		1

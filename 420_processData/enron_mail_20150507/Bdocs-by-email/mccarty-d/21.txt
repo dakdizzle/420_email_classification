@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+place		1
+talk		1
+legal		1
+miller		1
+mou		1
+dan		1
+phil		1
+k		1
+suggest		1
+mary		1
+eric		1
+sound		1
+regulatory	1
+janet		1
+technical	1
+d		1
+kay		1

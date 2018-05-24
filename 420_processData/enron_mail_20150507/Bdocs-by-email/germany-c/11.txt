@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+space		1
+enron		1
+selling		1
+gulf		1
+columbia	1
+looks		1
+still		1

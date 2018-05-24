@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+little		1
+people		1
+great		1
+time		1
+know		1
+one		1
+busy		1
+cancels		1
+lunch		1
+remember	1
+always		1

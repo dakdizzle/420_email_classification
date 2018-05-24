@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+agreed		2
+situation	1
+company		1
+blindsided	1
+left		1
+th		1
+talked		1
+fridays		1
+filled		1
+want		1
+kind		1
+idea		1
+work		1
+susie		1
+before		1
+decision	1
+c		1
+didn		1

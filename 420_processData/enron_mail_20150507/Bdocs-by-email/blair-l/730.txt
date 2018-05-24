@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lynn		1
+drew		1
+kim		1
+send		1
+good		1
+ready		1
+doing		1
+looks		1
+thanks		1

@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+cn		2
+matt		2
+smith		2
+time		1
+pstwhen		1
+recipients	1
+canada		1
+central		1
+tuesday		1
+filename	1
+na		1
+msmith		1
+gmt		1
+stp		1
+enron		1
+ou		1
+area		1

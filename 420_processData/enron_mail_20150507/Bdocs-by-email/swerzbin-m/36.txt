@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+nba		1
+mov		1
+knicks		1
+foxsports	1

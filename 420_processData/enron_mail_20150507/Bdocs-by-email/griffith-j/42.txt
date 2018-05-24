@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+john		3
+thanks		2
+info		1
+sit		1
+send		1
+maggi		1
+yahoo		1
+phone		1
+messenger	1
+whenever	1
+number		1
+way		1
+arnold		1
+griffith	1
+need		1
+johngriffith	1
+mike		1
+antonio		1
+address		1
+next		1

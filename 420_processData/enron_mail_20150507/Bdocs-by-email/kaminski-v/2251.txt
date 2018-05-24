@@ -1,0 +1,13 @@
+NumWords	13
+NumTerms	10
+
+association	3
+american	2
+finance		1
+economic	1
+vince		1
+risk		1
+global		1
+garp		1
+professionals	1
+shirley		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+different	1
+term		1
+volumes		1
+weekend		1
+need		1
+address		1
+deal		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+those		1
+brad		1
+time		1
+days		1
+nd		1
+houston		1
+th		1
+people		1
+jeff		1
+best		1
+touch		1
+preference	1
+finally		1
+work		1
+perfect		1
+november	1
+hi		1
+ll		1

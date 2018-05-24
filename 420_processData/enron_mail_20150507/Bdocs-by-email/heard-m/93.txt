@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+thanks		2
+items		1
+send		1
+gordon		1
+marie		1
+letter		1
+asking		1
+ll		1

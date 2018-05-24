@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+stacey		2
+white		2
+cn		2
+send		1
+stacy		1
+record		1
+recipients	1
+filename	1
+na		1
+forget		1
+pstplease	1
+swhite		1
+enron		1
+ou		1
+don		1

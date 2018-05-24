@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ed		1
+structure	1
+talk		1
+define		1
+need		1
+deal		1
+baughman	1

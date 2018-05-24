@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+sp		1
+commucication	1
+somehow		1
+assumption	1
+deals		1
+appreciated	1
+fubared		1
+june		1
+ees		1
+insight		1
+flatten		1
+out		1
+gone		1
+ve		1
+respectively	1
+mw		1
+idea		1
+bought		1
+np		1
+sold		1
+happen		1

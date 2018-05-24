@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+sense		1
+makes		1
+vasant		1
+cancel		1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+thursday	2
+ed		1
+brad		1
+time		1
+mg		1
+try		1
+calling		1
+canada		1
+central		1
+gmt		1
+july		1
+work		1
+mike		1

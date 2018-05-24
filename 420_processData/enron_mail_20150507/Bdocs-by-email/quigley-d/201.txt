@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+care		1
+much		1
+soooooooo	1
+being		1
+pay		1
+thank		1
+baby		1
+take		1
+offs		1

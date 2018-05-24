@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+much		1
+physical	1
+prices		1
+know		1
+probobly	1
+premium		1
+chris		1
+thanks		1
+call		1
+anything	1
+kim		1
+questions	1
+lowered		1
+pretty		1
+didn		1
+offers		1

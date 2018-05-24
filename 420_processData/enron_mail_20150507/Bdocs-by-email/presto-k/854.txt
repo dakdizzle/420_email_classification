@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+kevin		2
+presto		1
+floor		1
+keep		1
+considerable	1
+pstmake		1
+filename	1
+visitors	1
+privileged	1
+non		1
+prestox		1
+distance	1
+sure		1
+trading		1

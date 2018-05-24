@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+out		1
+little		1
+look		1
+different	1
+cant		1
+figure		1

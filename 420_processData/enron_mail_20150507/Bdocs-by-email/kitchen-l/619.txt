@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+great		1
+hope		1
+well		1
+louise		1
+background	1

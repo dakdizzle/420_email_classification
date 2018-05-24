@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+talk		1
+now		1
+meet		1
+hour		1
+later		1
+throwing	1
+actually	1
+m		1
+yeah		1
+drinks		1
+happy		1
+going		1
+lunch		1
+tonight		1
+ll		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+out		1
+put		1
+chart		1
+rick		1
+friday		1
+org		1
+going		1
+new		1

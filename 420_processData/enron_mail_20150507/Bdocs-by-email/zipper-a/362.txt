@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+andy		1
+family		1
+hope		1
+time		1
+talk		1
+oy		1
+well		1
+today		1
+later		1
+doing		1
+rgds		1

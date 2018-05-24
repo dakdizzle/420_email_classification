@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+really		1
+great		1
+approach	1
+michelle	1
+looks		1
+pat		1

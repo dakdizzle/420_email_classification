@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+problems	1
+oati		1
+having		1
+still		1
+lots		1

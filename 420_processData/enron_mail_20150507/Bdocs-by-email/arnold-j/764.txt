@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+physical	1
+mirant		1
+koch		1
+selling		1
+arent		1

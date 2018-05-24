@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+games		1
+one		1
+tickets		1

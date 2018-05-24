@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+golfer		1
+capt		1
+time		1
+neil		1
+go		1
+understand	1
+lunch		1
+big		1
+rome		1

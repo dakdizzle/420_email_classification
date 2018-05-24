@@ -1,0 +1,24 @@
+NumWords	26
+NumTerms	21
+
+meeting		2
+staff		2
+back		2
+week		2
+next		2
+make		1
+dha		1
+stacey		1
+meetings	1
+end		1
+friday		1
+month		1
+hadn		1
+out		1
+update		1
+commitment	1
+casey		1
+tomorrow	1
+noticed		1
+ll		1
+here		1

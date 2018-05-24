@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+fake		2
+done		1
+publishing	1
+real		1
+rick		1
+safe		1
+numbers		1
+names		1
+problem		1
+pretty		1
+deal		1

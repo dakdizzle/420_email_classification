@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+email		1
+sent		1
+m		1
+check		1
+know		1
+one		1
+work		1
+need		1
+don		1
+call		1

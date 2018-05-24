@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+m		2
+style		1
+know		1
+le		1
+wednesday	1
+now		1
+etc		1
+answering	1
+sorry		1
+fine		1
+late		1
+tuesday		1
+special		1
+getting		1
+jim		1
+whatever	1
+decide		1
+equipment	1
+want		1
+color		1
+mail		1
+took		1
+love		1

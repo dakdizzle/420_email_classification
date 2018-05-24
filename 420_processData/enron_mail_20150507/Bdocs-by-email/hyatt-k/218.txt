@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+www		2
+enronx		1
+try		1
+http		1
+org		1
+smith		1
+com		1

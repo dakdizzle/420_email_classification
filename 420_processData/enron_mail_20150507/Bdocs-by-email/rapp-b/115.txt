@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+cn		2
+merci		1
+waser		1
+enron		1
+iwaser		1
+recipients	1
+ou		1
+na		1
+iris		1

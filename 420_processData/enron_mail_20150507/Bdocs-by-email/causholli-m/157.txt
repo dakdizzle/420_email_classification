@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+gracie		1
+make		1
+class		1
+causholli	1
+sorry		1
+monika		1
+still		1
+thanks		1
+cancel		1

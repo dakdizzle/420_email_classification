@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+morning		1
+meeting		1
+go		1
+sandi		1
+darren		1
+need		1
+assess		1
+download	1
+thanks		1

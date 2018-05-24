@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+project		3
+enron		2
+confusion	1
+seems		1
+david		1
+comx		1
+continues	1
+filename	1
+delainey	1
+america		1
+jx		1
+jlavora		1
+north		1
+origin		1
+pstthere	1
+amps		1
+lavorado	1

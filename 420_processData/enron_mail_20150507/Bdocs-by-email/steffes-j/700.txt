@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+pm		2
+cn		2
+time		1
+friday		1
+recipients	1
+canada		1
+central		1
+na		1
+shapiro		1
+gmt		1
+enron		1
+rshapiro	1
+ou		1
+august		1
+richard		1

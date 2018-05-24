@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+jforney		2
+cn		2
+day		1
+john		1
+know		1
+exists		1
+record		1
+find		1
+recipients	1
+enpower		1
+trade		1
+filename	1
+na		1
+worked		1
+privileged	1
+non		1
+enron		1
+personal	1
+pstjoe		1
+ou		1
+forney		1
+need		1
+log		1
+deal		1

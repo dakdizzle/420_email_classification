@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+email		1
+drive		1
+hourly		1
+term		1
+short		1
+west		1
+now		1
+thanks		1
+presentation	1

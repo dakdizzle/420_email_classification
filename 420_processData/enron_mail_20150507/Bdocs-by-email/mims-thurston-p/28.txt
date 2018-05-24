@@ -1,0 +1,23 @@
+NumWords	27
+NumTerms	20
+
+chicago		2
+gas		2
+daily		2
+price		2
+reflect		2
+sitara		2
+b		2
+changed		1
+hey		1
+revised		1
+lizzienicor	1
+thank		1
+flat		1
+help		1
+thanks		1
+both		1
+plus		1
+darla		1
+correct		1
+tickets		1

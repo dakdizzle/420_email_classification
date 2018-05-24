@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lynn		1
+storage		1
+terry		1
+july		1
+numbers		1
+impact		1
+mike		1
+thanks		1

@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+verify		2
+marie		2
+number		2
+call		2
+please		2
+send		1
+credit		1
+know		1
+limit		1
+legal		1
+isda		1
+glendale	1
+thanks		1
+out		1
+kim		1
+executable	1
+hurd		1
+em		1
+change		1
+waiting		1

@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+rebecca		1
+issues		1
+enron		1
+cantrell	1
+recipients	1
+ou		1
+bcantre		1
+comments	1
+na		1

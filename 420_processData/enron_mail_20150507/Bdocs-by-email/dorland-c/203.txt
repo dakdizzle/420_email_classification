@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+group		1
+thanxtrading	1
+crime		1
+cooke		1
+severe		1
+ian		1
+person		1
+due		1
+suffered	1
+stole		1
+mental		1
+come		1
+please		1
+potatoe		1
+forward		1
+fridge		1
+salad		1
+strain		1

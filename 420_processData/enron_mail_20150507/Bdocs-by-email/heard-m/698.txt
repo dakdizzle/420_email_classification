@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+send		1
+list		1
+please		1
+agreements	1
+marie		1
+entities	1
+agreement	1
+pull		1
+thanks		1

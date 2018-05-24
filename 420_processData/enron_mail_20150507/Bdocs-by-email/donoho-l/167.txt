@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+transwestern	2
+transpecos	1
+near		1
+paso		1
+interest	1
+currently	1
+markets		1
+juarez		1
+accessing	1
+mmcf		1
+pipeline	1
+capacity	1
+venture		1
+mexican		1
+project		1
+el		1
+undivided	1
+considering	1
+joint		1
+new		1
+area		1

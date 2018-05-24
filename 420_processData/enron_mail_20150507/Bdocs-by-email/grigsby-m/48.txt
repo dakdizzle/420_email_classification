@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+find		2
+taking		1
+human		1
+know		1
+gaskill		1
+kinggrigsby	1
+thanks		1
+being		1
+capable		1
+please		1
+project		1
+update		1
+one		1

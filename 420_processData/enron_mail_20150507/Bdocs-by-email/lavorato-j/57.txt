@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+pulled		1
+phili		1
+robbeddenver	1
+yesterday	1
+tease		1

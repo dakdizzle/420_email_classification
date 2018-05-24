@@ -1,0 +1,20 @@
+NumWords	22
+NumTerms	17
+
+weather		2
+williams	2
+market		2
+before		2
+data		2
+model		1
+universities	1
+material	1
+general		1
+research	1
+several		1
+part		1
+university	1
+minutes		1
+alliance	1
+thoughts	1
+receive		1

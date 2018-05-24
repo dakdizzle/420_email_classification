@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+presto		2
+kevin		2
+cn		2
+meeting		1
+kpresto		1
+recipients	1
+tuesday		1
+filename	1
+na		1
+privileged	1
+weekly		1
+pstok		1
+non		1
+enron		1
+ou		1
+move		1

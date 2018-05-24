@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+know		1
+thankslisa	1
+th		1
+autoscheduled	1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+live		1
+fag		1
+lee		1
+near		1
+talking		1
+place		1
+clarke		1
+mom		1
+woods		1
+garrison	1
+sounds		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+cash		1
+rick		1
+cronin		1
+know		1
+more		1
+maybe		1
+need		1
+post		1
+call		1

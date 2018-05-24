@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+downtown	2
+live		1
+much		1
+know		1
+trouble		1
+gap		1
+now		1
+car		1
+currently	1
+meet		1
+tom		1
+take		1
+bert		1
+possible	1
+buffalo		1
+cab		1
+prefer		1
+deal		1
+big		1
+over		1

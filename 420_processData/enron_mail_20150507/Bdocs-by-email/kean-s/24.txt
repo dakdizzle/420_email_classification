@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+morning		1
+talking		1
+slide		1
+presentation	1
+here		1

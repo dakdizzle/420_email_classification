@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+info		1
+something	1
+look		1
+up		1
+time		1
+today		1
+need		1
+tom		1
+computer	1
+call		1
+thanks		1

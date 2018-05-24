@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+copy		1
+office		1
+need		1
+file		1
+kay		1
+haywood		1
+thanks		1
+carlos		1

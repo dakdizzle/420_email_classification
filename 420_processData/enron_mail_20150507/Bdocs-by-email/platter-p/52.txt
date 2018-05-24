@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+buffaloplatter	1
+pick		1
+week		1

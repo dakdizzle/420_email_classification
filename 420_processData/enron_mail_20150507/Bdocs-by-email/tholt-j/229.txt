@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+person		1
+entertainment	1
+desperate	1

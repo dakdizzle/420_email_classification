@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+kim		1
+day		1
+great		1
+problem		1

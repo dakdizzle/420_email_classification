@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+time		1
+instantaneous	1
+ideas		1
+difference	1
+now		1
+nearly		1
+before		1
+seconds		1

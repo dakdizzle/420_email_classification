@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+gnemec		2
+cn		2
+pstattached	1
+repricing	1
+talk		1
+review		1
+recipients	1
+kennedy		1
+filename	1
+na		1
+privileged	1
+morning		1
+non		1
+enron		1
+please		1
+reflected	1
+nemec		1
+ou		1
+agreement	1
+gerald		1
+amendment	1

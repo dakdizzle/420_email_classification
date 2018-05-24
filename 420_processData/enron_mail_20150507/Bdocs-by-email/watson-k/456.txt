@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+glad		2
+thanks		2
+m		2
+big		2
+truly		1
+paul		1
+diet		1
+doc		1
+docs		1
+trip		1
+special		1
+pediatric	1
+both		1
+kim		1
+breed		1
+update		1
+one		1
+pleasant	1
+allowed		1
+city		1
+activity	1
+wheels		1
+small		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+minute		1
+plz		1
+jeff		1
+thx		1
+call		1

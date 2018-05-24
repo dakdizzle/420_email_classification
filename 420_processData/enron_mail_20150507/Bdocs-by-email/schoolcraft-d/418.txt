@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+need		2
+limits		1
+updated		1
+close		1
+pressures	1
+alarm		1
+keep		1
+exceed		1
+watch		1
+ds		1
+manage		1
+horsepower	1
+set		1
+very		1

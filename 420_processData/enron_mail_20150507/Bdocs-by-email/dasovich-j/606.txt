@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+case		1
+knitting	1
+m		1
+bail		1
+decide		1
+bring		1
+golf		1
+still		1
+ll		1

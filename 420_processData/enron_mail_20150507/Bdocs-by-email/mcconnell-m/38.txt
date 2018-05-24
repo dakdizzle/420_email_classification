@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cn		2
+mmcconne	2
+mark		1
+time		1
+october		1
+pstwhen		1
+tbd		1
+recipients	1
+canada		1
+central		1
+filename	1
+na		1
+privileged	1
+gmt		1
+mcconnell	1
+non		1
+enron		1
+thursday	1
+ou		1

@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+please		2
+discuss		1
+jimbo		1
+smu		1
+final		1
+edulove		1
+form		1
+attachment	1
+see		1
+call		1
+sent		1
+dad		1
+mail		1
+crogers		1
+needs		1

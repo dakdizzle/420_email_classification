@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+circulate	1
+respond		1
+draft		1
+internally	1
+thanks		1

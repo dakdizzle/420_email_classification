@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+jim		2
+derrick		1
+attend		1

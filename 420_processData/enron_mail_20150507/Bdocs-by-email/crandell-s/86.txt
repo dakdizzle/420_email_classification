@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+sent		2
+pba		1
+per		1
+amy		1
+justification	1
+houston		1
+along		1
+request		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+dunn		1
+alright		1
+want		1
+warrick		1

@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+make		1
+seems		1
+up		1
+success		1
+likelihood	1
+sacramento	1
+jim		1
+crew		1
+out		1
+put		1
+come		1
+best		1
+whole		1
+sense		1
+jeff		1
+business	1

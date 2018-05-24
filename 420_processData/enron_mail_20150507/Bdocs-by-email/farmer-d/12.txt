@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+pipe		1
+contract	1
+line		1
+oasis		1

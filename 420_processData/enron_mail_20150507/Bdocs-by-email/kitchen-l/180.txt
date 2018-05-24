@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+power		2
+need		2
+officerenron	1
+ercotlouise	1
+fax		1
+contracts	1
+americastel	1
+operating	1
+start		1
+kitchenchief	1
+licence		1
+marketing	1

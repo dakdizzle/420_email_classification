@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+calpineds	1
+revised		1

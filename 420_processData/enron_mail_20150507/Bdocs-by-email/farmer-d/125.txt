@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+gas		3
+busby		2
+swap		2
+castle		2
+energy		1
+those		1
+under		1
+pan		1
+usually		1
+operating	1
+carthage	1
+highland	1
+days		1
+apparently	1
+megan		1
+markets		1
+april		1
+received	1
+comes		1
+nothing		1
+duke		1
+sold		1

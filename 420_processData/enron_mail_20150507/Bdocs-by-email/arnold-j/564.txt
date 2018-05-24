@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+around		1
+time		1
+today		1

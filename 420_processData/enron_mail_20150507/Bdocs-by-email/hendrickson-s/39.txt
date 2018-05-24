@@ -1,0 +1,25 @@
+NumWords	32
+NumTerms	22
+
+nx		7
+transco		3
+st		3
+sp		1
+scott		1
+sl		1
+gas		1
+columbia	1
+nymex		1
+suject		1
+moment		1
+ricky		1
+l		1
+indicative	1
+texas		1
+index		1
+change		1
+dominion	1
+onsh		1
+coumbia		1
+offers		1
+here		1

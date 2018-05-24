@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+meeting		2
+morning		1
+kim		1
+john		1
+tomorrow	1
+dra		1
+thanks		1

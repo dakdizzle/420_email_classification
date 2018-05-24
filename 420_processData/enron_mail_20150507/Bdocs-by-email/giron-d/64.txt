@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+ene		1
+working		1
+weather		1
+attached	1
+deals		1
+valued		1
+million		1
+file		1
+books		1
+looks		1
+m		1
+lagrasta	1
+dg		1
+deal		1
+still		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+send		1
+maria		1
+now		1
+adding		1
+looks		1
+kim		1
+m		1
+good		1
+right		1
+back		1
+minutes		1
+couple		1
+don		1

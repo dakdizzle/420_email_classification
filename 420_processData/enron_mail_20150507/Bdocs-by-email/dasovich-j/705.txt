@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+decking		3
+addition	1
+mix		1
+everything	1
+ready		1
+install		1
+once		1
+hold		1
+jeff		1
+best		1
+want		1
+deck		1
+redwood		1
+salvaged	1
+d		1
+add		1

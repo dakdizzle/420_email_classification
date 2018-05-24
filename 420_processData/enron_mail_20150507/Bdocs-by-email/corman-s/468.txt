@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+sister		1
+dates		1
+go		1
+along		1
+feb		1
+lunch		1

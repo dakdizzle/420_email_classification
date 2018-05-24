@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+point		1
+language	1
+purist		1
+know		1
+purpose		1
+accurate	1
+view		1
+don		1
+think		1
+help		1
+here		1

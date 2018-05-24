@@ -1,0 +1,13 @@
+NumWords	14
+NumTerms	10
+
+up		3
+go		2
+weekend		2
+email		1
+good		1
+chad		1
+need		1
+excuse		1
+think		1
+next		1

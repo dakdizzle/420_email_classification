@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+send		1
+copy		1
+please		1
+memo		1
+teb		1
+thanks		1

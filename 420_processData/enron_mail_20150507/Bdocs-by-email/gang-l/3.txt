@@ -1,0 +1,18 @@
+NumWords	21
+NumTerms	15
+
+mw		5
+deal		3
+under		1
+physical	1
+helps		1
+tag		1
+sheet		1
+lisa		1
+scheduling	1
+total		1
+pwx		1
+out		1
+hope		1
+according	1
+booked		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+numberdutch	1
+close		1
+adjustment	1
+know		1
+wash		1
+want		1
+curve		1
+size		1
+trade		1

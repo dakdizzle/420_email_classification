@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+morning		1
+hear		1
+eyes		1
+close		1
+hope		1
+up		1
+try		1
+couch		1
+lay		1
+sorry		1
+wake		1
+love		1

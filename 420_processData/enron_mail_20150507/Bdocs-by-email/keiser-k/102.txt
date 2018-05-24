@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+taking		1
+value		1
+physical	1
+ashely		1
+tab		1
+currently	1
+multiplying	1
+thanks		1
+volume		1
+dollar		1
+cell		1
+ua		1
+l		1
+used		1
+being		1
+wacog		1
+noticed		1
+isn		1
+needs		1

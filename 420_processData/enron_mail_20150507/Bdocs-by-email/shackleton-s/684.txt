@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+enron		1
+treasury	1
+conference	1
+ted		1
+sybil		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+master		1
+version		1
+dp		1
+stacey		1
+sending		1
+draft		1
+discussed	1
+comments	1
+here		1

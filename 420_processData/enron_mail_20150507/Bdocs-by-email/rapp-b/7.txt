@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+houston		1
+password	1
+poo		1

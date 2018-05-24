@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+harpoon		1
+pl		1
+start		1
+calling		1
+guess		1
+pants		1
+fancy		1
+call		1

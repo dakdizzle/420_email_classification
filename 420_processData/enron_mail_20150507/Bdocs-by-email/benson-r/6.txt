@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+copy		2
+stuff		1
+order		1
+much		1
+send		1
+benson		1
+thank		1
+visa		1
+ginger		1
+robert		1
+stubs		1
+please		1
+started		1
+pay		1
+work		1
+need		1
+last		1
+very		1
+hi		1

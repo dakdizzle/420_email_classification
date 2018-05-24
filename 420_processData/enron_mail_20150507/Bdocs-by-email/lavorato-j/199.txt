@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+m		1
+prices		1
+working		1
+gas		1
+additional	1
+var		1
+exploded	1
+million		1
+request		1

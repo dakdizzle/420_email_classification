@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+smud		1
+fixed		1
+selling		1
+gas		1
+buying		1
+daily		1
+price		1
+call		1

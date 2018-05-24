@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+thank		2
+meeting		1
+assume		1
+report		1
+jim		1
+o		1
+dilg		1
+update		1
+e		1
+coordinate	1
+give		1
+joe		1
+paula		1

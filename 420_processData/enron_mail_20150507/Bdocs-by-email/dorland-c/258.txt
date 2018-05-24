@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+chris		1
+poa		1
+receive		1

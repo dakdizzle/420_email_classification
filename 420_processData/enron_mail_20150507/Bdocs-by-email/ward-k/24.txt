@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+vs		1
+sheet		1
+term		1
+questions	1
+e		1
+chance		1
+chris		1
+couple		1

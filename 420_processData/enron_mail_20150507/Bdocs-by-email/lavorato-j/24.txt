@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+america		1
+blow		1
+up		1
+south		1
+deal		1

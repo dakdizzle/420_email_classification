@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+worse		1
+hope		1
+well		1
+back		1
+days		1
+stranded	1
+glad		1
+tomorrow	1
+london		1
+places		1
+sunday		1

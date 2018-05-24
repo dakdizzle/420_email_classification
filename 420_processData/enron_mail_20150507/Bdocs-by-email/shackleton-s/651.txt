@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+mcook		1
+enron		1
+mary		1
+recipients	1
+ou		1
+cook		1
+question	1
+answer		1
+jay		1
+na		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+stock		1
+up		1
+html		1
+http		1
+well		1
+oh		1
+yahoo		1
+price		1
+rf		1
+biz		1
+going		1
+still		1
+com		1

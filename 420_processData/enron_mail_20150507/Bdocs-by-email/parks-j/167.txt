@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+greatest	1
+latest		1
+ok		1
+centana		1
+review		1

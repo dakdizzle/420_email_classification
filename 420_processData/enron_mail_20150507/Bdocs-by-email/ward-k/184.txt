@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+kim		1
+long		1
+john		1
+know		1
+janey		1
+sorry		1
+schedulers	1
+looks		1
+wait		1
+help		1
+took		1
+thanks		1

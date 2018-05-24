@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+enron		1
+wonderful	1
+guys		1
+moved		1
+canada		1
+world		1
+boxes		1
+over		1

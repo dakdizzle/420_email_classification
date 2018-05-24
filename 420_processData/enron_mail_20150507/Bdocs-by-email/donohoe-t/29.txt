@@ -1,0 +1,17 @@
+NumWords	19
+NumTerms	14
+
+knowledge	2
+requires	2
+understanding	2
+options		2
+strong		2
+minimum		1
+gas		1
+wholesale	1
+evaluation	1
+greeks		1
+electricity	1
+traded		1
+business	1
+solid		1

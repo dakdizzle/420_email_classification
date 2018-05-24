@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+thanks		2
+lynn		1
+president	1
+info		1
+meeting		1
+brad		1
+end		1
+john		1
+thevice		1
+load		1
+services	1
+invited		1
+north		1
+dushinske	1
+thought		1
+new		1
+generation	1
+over		1

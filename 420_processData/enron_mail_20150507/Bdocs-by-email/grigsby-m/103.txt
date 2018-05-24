@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+scott		1
+available	1
+neal		1
+reschedule	1

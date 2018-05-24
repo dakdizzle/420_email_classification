@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+jeff		2
+eb		1
+meeting		1
+fax		1
+know		1
+legal		1
+today		1
+houston		1
+street		1
+hodge		1
+america		1
+enron		1
+texas		1
+office		1
+dperlin		1
+please		1
+thanksdebra	1
+north		1
+myself		1
+smith		1
+attend		1
+reminder	1
+perlingiereenron	1

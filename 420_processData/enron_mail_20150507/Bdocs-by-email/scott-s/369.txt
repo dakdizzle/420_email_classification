@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+day		2
+miss		1
+life		1
+good		1
+grand		1
+useless		1
+work		1
+scheme		1
+d		1
+sounds		1
+over		1

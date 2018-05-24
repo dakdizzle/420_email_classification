@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+cn		2
+nemec		2
+gerald		2
+few		1
+recipients	1
+pstdave		1
+filename	1
+na		1
+privileged	1
+gnemec		1
+non		1
+enron		1
+tweaks		1
+made		1
+ou		1
+slight		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+physical	1
+financial	1

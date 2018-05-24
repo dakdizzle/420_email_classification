@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+ercot		2
+near		1
+working		1
+austin		1
+thanks		1
+brett		1
+specific	1
+texas		1
+bhunsucker	1
+more		1
+below		1
+mail		1
+iso		1
+address		1
+jmf		1
+dave		1
+com		1

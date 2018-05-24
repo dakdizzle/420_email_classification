@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+pilar		1
+kim		1
+return		1
+evening		1
+until		1
+wed		1
+sorry		1
+town		1
+attend		1
+martha		1
+unable		1
+thanks		1

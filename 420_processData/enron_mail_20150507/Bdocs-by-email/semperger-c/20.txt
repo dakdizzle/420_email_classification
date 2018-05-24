@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+freeland	1
+please		1
+create		1
+name		1
+cara		1
+new		1

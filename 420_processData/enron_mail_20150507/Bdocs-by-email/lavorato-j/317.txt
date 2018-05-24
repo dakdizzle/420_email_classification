@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+papier		1
+yours		1
+lavo		1
+choice		1
+million		1
+filename	1
+markets		1
+lavorato	1
+sais		1
+jlavora		1
+work		1
+pstwho		1
+johnx		1
+massion		1
+don		1

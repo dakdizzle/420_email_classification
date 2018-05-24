@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+ed		1
+mmbtus		1
+quot		1
+prices		1
+power		1
+four		1
+corrections	1
+provide		1
+places		1
+general		1
+kim		1
+shouldn		1
+published	1
+commodities	1
+rounding	1
+templates	1
+financial	1
+question	1
+contain		1
+very		1
+template	1

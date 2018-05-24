@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+somewhere	1
+around		1
+ok		1
+office		1
+now		1
+leave		1
+meet		1
+call		1

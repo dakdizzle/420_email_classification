@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+brad		2
+jay		2
+webb		1
+things		1
+responsible	1
+now		1
+operations	1
+richter		1
+enrononline	1
+charge		1
+side		1
+commercial	1
+handles		1

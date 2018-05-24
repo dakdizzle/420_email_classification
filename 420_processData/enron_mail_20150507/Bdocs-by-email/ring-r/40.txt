@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+fox		1
+interested	1
+time		1
+know		1
+made		1
+january		1
+tee		1
+creek		1
+th		1
+saturday	1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+applications	1
+soon		1
+look		1
+follow		1
+up		1
+taken		1
+bt		1
+quick		1
+think		1
+thanks		1

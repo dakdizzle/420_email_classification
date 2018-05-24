@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+open		1
+go		1
+spot		1
+cara		1
+here		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+look		1
+cell		1
+phone		1
+take		1
+call		1

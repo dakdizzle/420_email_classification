@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+cn		2
+enron		2
+jsteffe		2
+affairs		1
+pstonce		1
+universe	1
+recipients	1
+reg		1
+world		1
+shows		1
+filename	1
+na		1
+thanks		1
+damn		1
+privileged	1
+jim		1
+steffes		1
+non		1
+team		1
+best		1
+again		1
+james		1
+ou		1
+maybe		1

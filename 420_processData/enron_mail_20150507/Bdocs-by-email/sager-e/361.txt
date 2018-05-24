@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+discuss		1
+pstattached	1
+meeting		1
+esager		1
+wed		1
+anticipation	1
+sagerx		1
+filename	1
+rd		1
+call		1
+privileged	1
+setoff		1
+issues		1
+non		1
+please		1
+memo		1
+questions	1
+scheduled	1
+prepared	1
+comments	1
+thankselizabeth	1
+elizabeth	1
+brief		1

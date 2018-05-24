@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+fascinating	1
+work		1
+piece		1
+d		1
+getting		1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+registered	2
+notice		1
+non		1
+deductions	1
+further		1
+accounts	1
+payroll		1
+please		1
+name		1
+untill		1
+stop		1

@@ -1,0 +1,16 @@
+NumWords	17
+NumTerms	13
+
+cn		2
+mgrigsb		2
+mike		2
+grigsby		2
+recipients	1
+filename	1
+na		1
+privileged	1
+pstthank	1
+non		1
+enron		1
+update		1
+ou		1

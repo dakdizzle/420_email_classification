@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+congrats	1
+express		1
+legal		1
+words		1
+assistant	1
+eed		1
+happiness	1
+inadequate	1

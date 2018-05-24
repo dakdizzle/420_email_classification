@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+option		1
+order		1
+out		1
+conversation	1
+structure	1
+value		1
+pipe		1
+decide		1
+focus		1
+values		1
+leave		1
+see		1

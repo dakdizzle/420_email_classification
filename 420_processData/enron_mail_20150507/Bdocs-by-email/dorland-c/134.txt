@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+applications	1
+master		1
+list		1
+cappaletto	1
+canadian	1
+nella		1
+software	1
+chris		1

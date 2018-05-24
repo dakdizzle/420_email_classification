@@ -1,0 +1,23 @@
+NumWords	30
+NumTerms	20
+
+ect		4
+hou		3
+delta		3
+scott		2
+hendrickson	2
+wav		2
+pm		1
+angie		1
+airlines	1
+attached	1
+file		1
+see		1
+forwarded	1
+mulholland	1
+pmto		1
+enron		1
+sarah		1
+zeman		1
+ectcc		1
+subject		1

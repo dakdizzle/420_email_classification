@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+end		1
+july		1
+update		1
+slides		1

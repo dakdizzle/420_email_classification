@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+going		2
+discuss		1
+status		1
+sempra		1
+jason		1
+martin		1
+tom		1
+audrey		1
+kevin		1
+call		1
+donohoe		1
+asking		1
+sure		1
+deal		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+back		1
+review		1
+curious		1
+give		1

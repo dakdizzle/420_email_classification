@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+heard		1
+ol		1
+floor		1
+powers		1
+days		1
+austin		1
+reminded	1
+hell		1
+good		1
+bites		1
+reverberate	1
+sound		1
+doing		1
+bcwd		1
+through		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+days		1
+impact		1
+again		1
+involved	1
+discussing	1

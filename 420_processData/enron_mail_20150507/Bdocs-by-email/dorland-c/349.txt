@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+much		1
+kim		1
+thank		1
+chris		1
+envelope	1
+very		1
+yesterday	1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ok		1
+well		1
+guess		1
+sorry		1
+read		1
+very		1
+didn		1

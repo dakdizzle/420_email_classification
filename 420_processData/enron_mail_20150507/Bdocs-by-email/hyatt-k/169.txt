@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+morning		1
+ferc		1
+target		1
+meeting		1
+aquila		1
+storage		1
+attend		1
+september	1
+file		1
+still		1
+planning	1
+app		1

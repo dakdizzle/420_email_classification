@@ -1,0 +1,22 @@
+NumWords	24
+NumTerms	19
+
+physical	2
+customers	2
+month		2
+malin		2
+rest		2
+aeco		1
+orders		1
+know		1
+working		1
+wanted		1
+chris		1
+premium		1
+spread		1
+molecules	1
+buy		1
+financial	1
+mike		1
+thanx		1
+product		1

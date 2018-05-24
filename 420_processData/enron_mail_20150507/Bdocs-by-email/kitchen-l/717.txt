@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+taking		1
+power		1
+anyone		1
+town		1
+seeing		1

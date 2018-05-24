@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+guy		1
+talk		1
+want		1
+michelle	1
+alan		1
+town		1

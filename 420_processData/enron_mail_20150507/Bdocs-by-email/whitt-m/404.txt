@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+anything	1
+regarding	1
+heard		1
+near		1
+ability		1
+hr		1
+fire		1
+poor		1
+future		1
+performance	1
+lawyers		1

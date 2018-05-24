@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+sithe		1
+seems		1
+john		1
+folks		1
+know		1
+ask		1
+contact		1
+currently	1
+involved	1
+detmering	1
+call		1
+senior		1
+lot		1
+donahue		1
+negotiating	1
+people		1
+enron		1
+start		1
+need		1
+side		1

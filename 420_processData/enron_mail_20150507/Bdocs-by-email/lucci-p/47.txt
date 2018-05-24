@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+house		2
+m		1
+reception	1
+time		1
+shoot		1
+back		1
+going		1
+directions	1
+meet		1
+saturday	1
+tonight		1

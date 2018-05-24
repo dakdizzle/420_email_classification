@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+give		2
+call		2
+ll		2
+ve		1
+swain		1
+way		1
+look		1
+fax		1
+steve		1
+chance		1
+include		1
+thanks		1

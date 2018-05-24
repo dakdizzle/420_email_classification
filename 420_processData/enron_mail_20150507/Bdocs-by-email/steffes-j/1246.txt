@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+story		1
+monthly		1
+tx		1

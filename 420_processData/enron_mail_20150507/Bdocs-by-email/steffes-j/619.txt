@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+sorry		2
+very		2
+highly		1
+day		1
+friday		1
+regarded	1
+wanted		1
+highlights	1
+wasn		1
+doug		1
+see		1
+jim		1
+nice		1
+m		1
+another		1
+below		1
+bad		1

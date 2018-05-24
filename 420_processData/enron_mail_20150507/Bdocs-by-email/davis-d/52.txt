@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+being		1
+positions	1
+admin		1
+administrative	1
+yes		1
+level		1
+thought		1
+see		1
+don		1
+entry		1

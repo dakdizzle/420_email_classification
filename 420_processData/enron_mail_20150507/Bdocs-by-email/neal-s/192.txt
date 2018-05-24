@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+people		1
+asterisks	1
+curious		1
+receiving	1
+offers		1

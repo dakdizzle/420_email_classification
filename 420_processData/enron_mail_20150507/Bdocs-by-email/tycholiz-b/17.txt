@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+advise		2
+group		1
+meeting		1
+up		1
+video		1
+staff		1
+today		1
+pls		1
+ensure		1
+bt		1
+running		1

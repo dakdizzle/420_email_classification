@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+cash		1
+loads		1
+stable		1
+leave		1
+left		1
+voicemail	1
+strong		1
+unstable	1
+didn		1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+blackberry	2
+net		1
+wireless	1
+wood		1
+handheld	1
+www		1
+forget		1
+sent		1
+good		1
+pressure	1
+mike		1
+putting		1
+luck		1
+don		1

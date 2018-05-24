@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+anything	1
+fyi		1
+need		1
+call		1

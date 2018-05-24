@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hard		1
+keep		1
+going		1
+times		1
+behind		1

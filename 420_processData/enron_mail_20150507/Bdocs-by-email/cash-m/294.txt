@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+way		1
+plan		1
+incorporate	1
+best		1
+works		1
+think		1

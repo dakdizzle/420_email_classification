@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+dismal		2
+usa		2
+asp		1
+credit		1
+definition	1
+affiliates	1
+http		1
+today		1
+www		1
+gen		1
+com		1

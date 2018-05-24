@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+flashcards	1
+creates		1
+worksheets	1
+aplusmath	1
+com		1

@@ -1,0 +1,14 @@
+NumWords	14
+NumTerms	11
+
+jay.reitmeyer@enron.com	2
+fermis@hotmail.com	2
+frank.ermis@enron.com	2
+stephanie.sever@enron.com	1
+p..south@enron.com	1
+claudia.clark@enron.com	1
+melba.lozano@enron.com	1
+kristann.shireman@enron.com	1
+danny.clark@enron.com	1
+john@pgsenergy.com	1
+carole.frank@enron.com	1

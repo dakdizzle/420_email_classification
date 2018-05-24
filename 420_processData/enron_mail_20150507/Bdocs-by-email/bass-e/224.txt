@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+greatest	1
+forms		1
+recent		1
+find		1
+fine		1
+performance	1
+kansas		1
+history		1
+team		1
+football	1
+enron		1
+tourney		1
+alternative	1
+undsertand	1
+another		1
+ditch		1
+e		1
+plays		1
+saturday	1
+college		1
+income		1

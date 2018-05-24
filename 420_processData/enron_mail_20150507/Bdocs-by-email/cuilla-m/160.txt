@@ -1,0 +1,18 @@
+NumWords	28
+NumTerms	15
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+jason		1
+williams	1
+simpson		1
+ruscitti	1
+jsimpso		1
+kevin		1
+jwillia		1
+james		1
+kruscit		1
+trading		1

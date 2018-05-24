@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+message		2
+make		1
+plant		1
+left		1
+wanted		1
+call		1
+cleburne	1
+yesterday	1
+agents		1
+iv		1
+tenaska		1
+please		1
+jeff		1
+d		1
+mail		1
+chance		1
+sure		1
+role		1
+give		1
+voice		1

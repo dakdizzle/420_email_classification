@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+account		1
+paycheck	1
+directly	1
+payroll		1
+jeanie		1
+know		1
+contact		1
+person		1
+thanks		1
+jon		1
+deposited	1
+need		1
+d		1

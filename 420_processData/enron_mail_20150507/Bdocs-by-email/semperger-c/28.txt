@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+semperger	2
+cn		2
+attend		2
+cara		2
+appt		1
+diana		1
+david		1
+scholtes	1
+recipients	1
+phone		1
+schedulers	1
+filename	1
+na		1
+pstplease	1
+call		1
+dr		1
+csemper		1
+enron		1
+sean		1
+steiner		1
+ou		1
+crandall	1
+conference	1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+coach		2
+early		1
+asst		1
+up		1
+until		1
+sorry		1
+nov		1
+schedule	1
+daniel		1
+ben		1
+workweek	1
+booked		1
+weekends	1
+soccer		1

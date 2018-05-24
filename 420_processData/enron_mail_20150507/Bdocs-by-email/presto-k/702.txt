@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+substations	1
+units		1
+oppd		1
+installed	1
+diesel		1
+news		1

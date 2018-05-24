@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+jtholt		2
+cn		2
+think		2
+jane		1
+send		1
+ok		1
+thank		1
+know		1
+advise		1
+review		1
+recipients	1
+nov		1
+filename	1
+na		1
+privileged	1
+tholt		1
+plsease		1
+non		1
+enron		1
+please		1
+back		1
+pstjeff		1
+ou		1
+initial		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+home		1
+party		1
+thinking	1
+stacey		1
+knew		1
+james		1
+going		1
+before		1
+saturday	1
+birthday	1

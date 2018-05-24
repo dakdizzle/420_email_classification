@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+jderric		2
+cn		2
+email		1
+fax		1
+recipients	1
+fine		1
+derrick		1
+filename	1
+na		1
+number		1
+privileged	1
+jim		1
+non		1
+enron		1
+jr		1
+pstjez		1
+james		1
+use		1
+ou		1
+prefer		1

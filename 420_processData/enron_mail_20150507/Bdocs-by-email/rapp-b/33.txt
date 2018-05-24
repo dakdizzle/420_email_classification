@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ve		1
+heard		1
+glen		1
+follow		1
+up		1
+gregg		1
+know		1
+nothing		1
+help		1
+dan		1

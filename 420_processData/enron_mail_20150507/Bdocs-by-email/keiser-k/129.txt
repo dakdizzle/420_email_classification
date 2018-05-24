@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+group		1
+morning		1
+meeting		1
+meetings	1
+jeff		1
+seperate	1
+tomorrow	1
+one		1
+split		1
+houstonian	1
+kk		1

@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+peggy		1
+thanks		1

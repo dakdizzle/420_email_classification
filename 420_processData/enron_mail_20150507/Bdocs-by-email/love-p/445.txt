@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+pl		1
+check		1
+won		1
+already		1
+schedule	1

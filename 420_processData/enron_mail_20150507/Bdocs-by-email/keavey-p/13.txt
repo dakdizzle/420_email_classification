@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+morning		1
+monday		1
+out		1
+office		1
+fine		1
+stop		1
+give		1
+call		1

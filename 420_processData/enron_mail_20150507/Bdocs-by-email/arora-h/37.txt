@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+option		1
+name		1
+fitch		1
+pls		1
+trade		1
+followup	1
+lingard		1
+unable		1
+teresacms	1
+right		1
+trader		1
+numbers		1
+harry		1
+one		1
+spelling	1
+sure		1
+trading		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+plan		1
+hard		1
+work		1
+needs		1

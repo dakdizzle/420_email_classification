@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+wondering	1
+coming		1
+up		1
+program		1
+information	1
+guys		1
+response	1
+spill		1
+public		1
+thanks		1

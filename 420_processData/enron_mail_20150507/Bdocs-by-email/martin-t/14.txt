@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+anything	1
+stuff		1
+mailed		1
+know		1
+ubs		1
+busy		1
+e		1
+tom		1
+see		1
+help		1
+very		1
+thanks		1

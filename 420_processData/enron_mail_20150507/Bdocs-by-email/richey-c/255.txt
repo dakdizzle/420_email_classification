@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+party		1
+colonel		1
+house		1
+meeting		1
+talking		1
+th		1
+backalley	1
+perhaps		1
+head		1
+lucky		1

@@ -1,0 +1,9 @@
+NumWords	8
+NumTerms	6
+
+name		2
+change		2
+presto		1
+enron		1
+won		1
+trying		1

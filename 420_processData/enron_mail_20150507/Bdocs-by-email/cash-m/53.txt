@@ -1,0 +1,26 @@
+NumWords	30
+NumTerms	23
+
+hms		3
+enron		3
+although	2
+against		2
+rome		2
+fashion		1
+lawyer		1
+suit		1
+drag		1
+therefore	1
+defraud		1
+claims		1
+involved	1
+claiming	1
+point		1
+really		1
+used		1
+believe		1
+sense		1
+makes		1
+filed		1
+probably	1
+lawsuit		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+until		1
+come		1
+won		1
+susan		1
+probably	1
+though		1
+sure		1
+lunch		1

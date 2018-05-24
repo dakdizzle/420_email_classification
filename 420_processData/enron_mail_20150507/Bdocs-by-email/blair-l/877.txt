@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+meeting		1
+team		1
+yes		1
+leader		1
+thanks		1
+reschedule	1

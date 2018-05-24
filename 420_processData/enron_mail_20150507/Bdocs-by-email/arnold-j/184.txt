@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+know		1
+guys		1
+didnt		1
+going		1
+even		1

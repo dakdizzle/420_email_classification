@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+info		1
+push		1
+good		1
+programs	1
+nd		1
+need		1
+load		1
+pjm		1
+england		1
+new		1
+thanks		1

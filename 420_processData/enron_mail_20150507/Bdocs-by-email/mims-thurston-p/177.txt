@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hey		1
+language	1
+know		1
+lady		1
+work		1
+referenced	1
+below		1
+thanks		1

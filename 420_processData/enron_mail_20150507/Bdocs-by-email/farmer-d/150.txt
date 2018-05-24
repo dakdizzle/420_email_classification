@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+believe		1
+pipe		1
+rodriguez	1
+handles		1
+carlos		1

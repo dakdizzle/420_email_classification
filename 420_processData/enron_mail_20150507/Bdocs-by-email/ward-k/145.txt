@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+nogales		1
+deliveries	1
+capacity	1
+kim		1
+regarding	1
+john		1
+questions	1
+answer		1
+stephanie	1
+help		1
+thanks		1

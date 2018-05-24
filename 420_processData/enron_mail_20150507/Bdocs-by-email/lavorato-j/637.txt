@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+final		1
+louise		1
+material	1
+later		1
+gregthis	1
+call		1
+list		1
+changes		1
+level		1
+virtually	1
+think		1
+ll		1
+add		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+regarding	1
+fletch		1
+left		1
+mail		1
+voice		1

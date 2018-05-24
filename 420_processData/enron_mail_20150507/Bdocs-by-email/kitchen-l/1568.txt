@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+aol		1
+moment		1
+live		1
+netteltons	1
+com		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+make		1
+event		1
+joywe		1
+year		1
+going		1
+sager		1
+elizabeth	1
+hi		1
+thanks		1

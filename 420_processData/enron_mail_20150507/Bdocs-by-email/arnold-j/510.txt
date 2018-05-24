@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+mormon		1
+brian		1
+bad		1

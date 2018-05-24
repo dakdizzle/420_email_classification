@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+early		1
+wireless	1
+john		1
+handheld	1
+blackberry	1
+allocate	1
+sent		1
+done		1
+seats		1
+offices		1
+need		1
+individual	1
+week		1
+don		1
+worry		1
+next		1

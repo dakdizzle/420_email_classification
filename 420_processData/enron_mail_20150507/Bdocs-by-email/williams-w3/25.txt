@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+priced		1
+bmw		1
+course		1
+buy		1

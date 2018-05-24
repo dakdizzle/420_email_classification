@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+days		1
+management	1
+conference	1
+new		1

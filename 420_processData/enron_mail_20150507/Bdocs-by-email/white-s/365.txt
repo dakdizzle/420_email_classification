@@ -1,0 +1,24 @@
+NumWords	26
+NumTerms	21
+
+group		2
+paul		2
+complex		2
+derivatives	2
+darcy		2
+thing		1
+directly	1
+stacey		1
+structured	1
+contact		1
+fine		1
+same		1
+planning	1
+thanks		1
+run		1
+reviewing	1
+book		1
+yes		1
+week		1
+area		1
+next		1

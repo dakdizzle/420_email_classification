@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kim		1
+handle		1
+please		1
+tk		1
+thanks		1

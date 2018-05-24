@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+much		1
+close		1
+day		1
+end		1
+december	1
+short		1
+thanksgiving	1
+turning		1
+month		1
+holidays	1
+late		1
+getting		1
+way		1
+good		1
+bit		1
+available	1
+weekend		1
+need		1
+pretty		1
+think		1

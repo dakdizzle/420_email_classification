@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+spinnaker	2
+hear		1
+talk		1
+ferris		1
+selling		1
+know		1
+gas		1
+invoicing	1
+deals		1
+daily		1
+purchased	1
+supply		1
+dow		1
+nelson		1
+pay		1
+index		1
+bill		1
+tess		1
+probably	1
+proceed		1

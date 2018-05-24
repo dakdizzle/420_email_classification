@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+witnesses	1
+specifically	1
+john		1
+try		1
+peter		1
+prior		1
+lobby		1
+jim		1
+thinking	1
+sarah		1
+cramton		1
+week		1
+meyer		1
+next		1

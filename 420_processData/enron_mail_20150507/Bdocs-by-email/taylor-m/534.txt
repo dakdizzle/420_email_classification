@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+win		1
+maybe		1

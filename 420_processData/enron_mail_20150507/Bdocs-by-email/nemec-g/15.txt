@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+being		1
+fyi		1
+negotiated	1
+deal		1
+huber		1
+new		1

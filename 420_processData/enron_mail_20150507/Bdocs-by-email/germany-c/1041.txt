@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+sister		1
+pm		1
+around		1
+brother		1
+questions	1
+tomorrow	1
+dining		1
+comments	1
+law		1

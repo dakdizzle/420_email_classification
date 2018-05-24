@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+sit		1
+people		1
+floor		1
+agree		1
+screen		1
+see		1
+lot		1

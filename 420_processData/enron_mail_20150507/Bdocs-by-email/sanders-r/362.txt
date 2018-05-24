@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+gone		1
+boy		1
+blow		1
+david		1
+invite		1
+come		1
+runnels		1

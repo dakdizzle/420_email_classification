@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+drink		1
+day		1
+good		1
+water		1
+hope		1
+oj		1
+affecting	1
+loveme		1
+having		1
+bunda		1
+still		1

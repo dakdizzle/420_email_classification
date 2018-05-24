@@ -1,0 +1,26 @@
+NumWords	29
+NumTerms	23
+
+decrease	4
+plant		3
+production	2
+pds		1
+mwbasically	1
+further		1
+know		1
+gas		1
+percentage	1
+due		1
+mwcerrito	1
+same		1
+see		1
+offline		1
+thanks		1
+kim		1
+mwbagdad	1
+demand		1
+producion	1
+down		1
+investigate	1
+mw		1
+chino		1

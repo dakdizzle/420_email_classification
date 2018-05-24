@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+dq		1
+cell		1
+phone		1
+new		1
+love		1

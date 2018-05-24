@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+lkitchen	2
+cn		2
+pstwe		1
+kitchen		1
+louise		1
+recipients	1
+filename	1
+na		1
+privileged	1
+tonks		1
+list		1
+non		1
+enron		1
+jeff		1
+groups		1
+ou		1
+need		1
+colin		1
+add		1

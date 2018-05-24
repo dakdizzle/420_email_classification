@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+policy		2
+energy		1
+pimpin		1
+dark		1
+complex		1
+anyone		1
+economics	1
+foreign		1
+years		1
+issues		1
+areas		1
+political	1
+saw		1
+finally		1
+republican	1
+more		1
+need		1
+social		1
+qualifiedin	1
+rev		1
+leader		1
+new		1
+ll		1
+over		1

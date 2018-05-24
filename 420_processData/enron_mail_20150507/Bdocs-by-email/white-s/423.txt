@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+book		2
+kathy		1
+egsc		1
+stacey		1
+information	1
+cand		1
+know		1
+attached	1
+name		1
+reeves		1
+white		1
+file		1
+see		1
+candidate	1
+thanks		1
+shifali		1
+something	1
+needed		1
+below		1
+named		1
+instructions	1
+given		1

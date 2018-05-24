@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+per		2
+dth		2
+cgerman		2
+cn		2
+mar		1
+day		1
+mdq		1
+gas		1
+recipients	1
+nov		1
+filename	1
+na		1
+chris		1
+pstour		1
+privileged	1
+demand		1
+non		1
+texas		1
+enron		1
+contract	1
+germany		1
+ou		1
+charge		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+faculty		1
+classmaterial	1
+http		1
+edu		1
+stanford	1
+gsb		1
+wilson		1
+htm		1

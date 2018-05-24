@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+long		1
+put		1
+down		1
+real		1
+being		1
+term		1
+looking		1
+carefull	1
+work		1
+money		1
+here		1
+actually	1

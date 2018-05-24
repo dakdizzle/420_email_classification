@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+forgot		1
+attach		1
+resume		1
+here		1

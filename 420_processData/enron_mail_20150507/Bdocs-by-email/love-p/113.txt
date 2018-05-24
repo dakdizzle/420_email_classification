@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+changed		1
+pl		1
+today		1
+now		1
+phillip		1
+see		1
+way		1
+enron		1
+traveling	1
+changes		1
+ubs		1
+finally		1
+work		1
+addresses	1
+think		1
+com		1
+love		1

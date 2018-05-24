@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+look		1
+gets		1
+evening		1
+hope		1
+forward		1
+seeing		1

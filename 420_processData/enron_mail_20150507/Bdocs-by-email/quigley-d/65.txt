@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+ie		1
+yes		1
+coversion	1

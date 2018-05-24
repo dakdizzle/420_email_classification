@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+job		1
+totally		1
+seattle		1
+up		1
+comment		1
+depressed	1
+even		1
+identified	1
+declined	1
+article		1
+being		1
+agree		1
+whole		1
+start		1
+heartedly	1
+cascade		1
+before		1
+read		1

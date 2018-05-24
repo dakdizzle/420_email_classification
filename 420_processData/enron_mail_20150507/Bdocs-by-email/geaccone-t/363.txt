@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+really		1
+plan		1
+speak		1
+estimate	1
+work		1
+current		1
+don		1

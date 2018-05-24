@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+status		1
+larry		1
+permit		1

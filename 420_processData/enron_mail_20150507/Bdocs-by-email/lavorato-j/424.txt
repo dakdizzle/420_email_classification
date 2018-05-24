@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lavo		1
+employees	1
+canterra	1
+leave		1
+upset		1

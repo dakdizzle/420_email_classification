@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+heard		1
+first		1

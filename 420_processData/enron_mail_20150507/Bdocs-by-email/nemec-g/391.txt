@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+cn		2
+nemec		2
+gerald		2
+review		1
+recipients	1
+provide		1
+filename	1
+na		1
+input		1
+pstplease	1
+talked		1
+privileged	1
+stone		1
+soon		1
+gnemec		1
+non		1
+possible	1
+enron		1
+jeff		1
+bill		1
+ou		1
+still		1

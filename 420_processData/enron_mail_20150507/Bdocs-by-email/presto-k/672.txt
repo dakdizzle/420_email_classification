@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+retail		1
+good		1
+specific	1
+fixed		1
+obligations	1
+shift		1
+need		1
+load		1
+question	1
+books		1
+ews		1
+date		1

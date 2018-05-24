@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+being		1
+consistenly	1
+kind		1
+yes		1
+question	1
+ongoing		1
+jmf		1
+oomc		1
+thanks		1

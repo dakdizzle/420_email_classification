@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+tues		2
+st		2
+aa		2
+page		1
+louis		1
+drury		1
+arrive		1
+th		1
+thurs		1
+adepart		1
+market		1
+plaza		1
+long		1
+dinner		1
+cell		1
+shouldn		1
+commitment	1
+photel		1
+night		1
+one		1
+last		1
+mo		1

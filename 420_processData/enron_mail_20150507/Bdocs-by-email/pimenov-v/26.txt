@@ -1,0 +1,23 @@
+NumWords	24
+NumTerms	20
+
+year		3
+new		3
+care		1
+upcoming	1
+early		1
+employer	1
+although	1
+take		1
+wish		1
+vlad		1
+texas		1
+enron		1
+best		1
+privet		1
+happy		1
+need		1
+luck		1
+pasha		1
+still		1
+next		1

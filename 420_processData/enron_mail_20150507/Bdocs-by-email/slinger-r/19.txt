@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+ets		3
+script		1
+login		1
+oatiinc		1
+http		1
+wml		1
+webplus		1
+bin		1
+www		1
+cgi		1
+exe		1
+com		1

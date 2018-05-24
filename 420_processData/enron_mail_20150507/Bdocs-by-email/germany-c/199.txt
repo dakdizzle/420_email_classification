@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+germany		2
+theresa		1
+sending		1
+comx		1
+cx		1
+garrick		1
+chris		1
+filename	1
+hill		1
+psti		1
+enron		1
+received	1
+statements	1
+origin		1
+mail		1
+imbalance	1

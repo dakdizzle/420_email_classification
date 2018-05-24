@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+moving		1
+issues		1
+know		1
+document	1
+review		1
+definitely	1
+sure		1
+deal		1
+here		1

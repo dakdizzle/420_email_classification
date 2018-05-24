@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+amy		1
+time		1
+minutes		1
+meet		1
+jmf		1
+thanks		1

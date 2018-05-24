@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+steffe		1
+those		1
+per		1
+talk		1
+rick		1
+came		1
+more		1
+use		1
+sure		1
+se		1
+never		1
+didn		1

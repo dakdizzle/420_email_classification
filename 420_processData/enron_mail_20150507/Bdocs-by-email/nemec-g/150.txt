@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+master		1
+mark		1
+enfolio		1
+know		1
+questions	1
+spot		1
+resend		1
+debra		1

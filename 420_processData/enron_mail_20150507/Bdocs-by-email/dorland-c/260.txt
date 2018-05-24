@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+tower		1
+alberta		1
+canadat		1
+canterra	1
+rd		1
+swcalgary	1
+ave		1

@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+parents		1
+taking		1
+coming		1
+up		1
+now		1
+phone		1
+call		1
+talked		1
+stay		1
+house		1
+m		1
+cell		1
+right		1
+em		1
+weekend		1
+work		1
+turned		1
+tonight		1
+ll		1

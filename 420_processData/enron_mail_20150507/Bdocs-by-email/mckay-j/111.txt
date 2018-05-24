@@ -1,0 +1,6 @@
+NumWords	9
+NumTerms	3
+
+year		4
+nov		4
+cheers		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+good		1
+luck		1
+note		1
+thanks		1

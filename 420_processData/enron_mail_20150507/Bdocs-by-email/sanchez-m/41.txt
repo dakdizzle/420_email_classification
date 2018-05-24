@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+article		2
+care		1
+magazine	1
+topic		1
+calling		1
+www		1
+deciding	1
+take		1
+careers		1
+themes		1
+forwarded	1
+finding		1
+go		1
+purpose		1
+before		1
+need		1
+select		1
+read		1
+mo		1
+archives	1
+comselect	1
+fastcompany	1
+haven		1

@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+house		2
+little		1
+party		1
+fun		1
+much		1
+up		1
+looking		1
+things		1
+trying		1
+throw		1
+found		1
+out		1
+start		1
+again		1
+cool		1
+sell		1
+recently	1
+year		1
+going		1
+beginning	1
+move		1
+big		1
+new		1

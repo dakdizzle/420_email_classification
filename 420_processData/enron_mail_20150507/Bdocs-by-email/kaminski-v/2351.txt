@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+reception	1
+attend		1
+tuesday		1
+kaminski	1

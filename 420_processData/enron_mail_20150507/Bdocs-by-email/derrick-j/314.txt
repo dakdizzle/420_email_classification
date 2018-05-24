@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+jim		2
+choice		1
+please		1
+derrick		1
+bob		1
+proceed		1

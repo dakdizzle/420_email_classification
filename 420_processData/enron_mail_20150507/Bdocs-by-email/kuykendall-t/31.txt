@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+updated		1
+id		1
+see		1
+remember	1
+wrong		1
+products	1
+forwarded	1
+done		1
+adm		1
+cant		1
+one		1
+maybe		1
+eol		1
+still		1
+request		1

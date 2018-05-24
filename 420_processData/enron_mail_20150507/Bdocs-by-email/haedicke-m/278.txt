@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+haedicke	1
+dadmark		1
+nyc		1
+justin		1
+going		1
+think		1
+love		1

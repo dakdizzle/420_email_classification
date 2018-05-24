@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+court		1
+ya		1
+unless		1
+see		1
+otherwise	1
+here		1

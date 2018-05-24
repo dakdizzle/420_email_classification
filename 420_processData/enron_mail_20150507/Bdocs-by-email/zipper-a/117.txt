@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+done		1
+up		1
+az		1
+well		1
+signed		1
+focus		1
+congratulations	1
+now		1
+someone		1
+closing		1
+deal		1
+getting		1

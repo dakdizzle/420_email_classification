@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+cn		2
+jsteffe		2
+info		1
+updated		1
+keep		1
+recipients	1
+filename	1
+na		1
+pstdavid	1
+privileged	1
+jim		1
+steffes		1
+non		1
+enron		1
+james		1
+ou		1
+jennifer	1
+windfall	1
+profits		1
+here		1

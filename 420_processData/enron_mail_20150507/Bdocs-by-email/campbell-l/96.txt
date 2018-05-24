@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+cn		2
+lcampbe		2
+state		1
+larry		1
+model		1
+progress	1
+recipients	1
+filename	1
+na		1
+pipeline	1
+privileged	1
+pcb		1
+remove		1
+campbell	1
+pstfyi		1
+non		1
+enron		1
+ou		1
+transwetern	1
+penn		1

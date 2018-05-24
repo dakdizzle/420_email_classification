@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+stacey		2
+white		2
+cn		2
+stacy		1
+until		1
+recipients	1
+later		1
+filename	1
+na		1
+pstplease	1
+afternoon	1
+building	1
+swhite		1
+enron		1
+ou		1
+move		1
+new		1

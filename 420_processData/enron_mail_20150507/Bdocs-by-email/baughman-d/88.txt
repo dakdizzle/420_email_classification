@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+close		1
+hunting		1
+talk		1
+until		1
+things		1
+trying		1
+dove		1
+mexico		1
+out		1
+soon		1
+good		1
+talking		1
+back		1
+apt		1
+shannon		1
+don		1
+figure		1
+still		1
+deal		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+counseldraft	1
+request		1
+confidentialprepared	1
+privileged	1

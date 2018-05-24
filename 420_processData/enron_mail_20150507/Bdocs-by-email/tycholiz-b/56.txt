@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+cn		2
+btychol		2
+assume		1
+particulars	1
+pstkay		1
+advise		1
+pls		1
+recipients	1
+sorry		1
+filename	1
+na		1
+bt		1
+sunday		1
+call		1
+privileged	1
+tycholiz	1
+around		1
+non		1
+enron		1
+barry		1
+tell		1
+missed		1
+ou		1
+dave		1

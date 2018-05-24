@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+schweiger	1
+wednesday	1
+lay		1
+whalley		1
+preparing	1
+think		1
+mtg		1

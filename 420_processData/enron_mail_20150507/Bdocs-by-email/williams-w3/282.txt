@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+good		2
+discussion	1
+looking		1
+bill		1
+guys		1
+night		1
+work		1
+appreciate	1
+last		1
+note		1
+thanks		1

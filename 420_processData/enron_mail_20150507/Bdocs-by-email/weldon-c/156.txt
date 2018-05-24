@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+pm		1
+interview	1
+track		1
+informal	1
+vp		1
+supposed	1
+desk		1
+sounds		1
+see		1
+good		1
+texas		1
+trader		1
+go		1
+deal		1
+ll		1
+trading		1

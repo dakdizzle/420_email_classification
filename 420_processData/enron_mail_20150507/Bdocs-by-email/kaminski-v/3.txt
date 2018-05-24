@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+vince		2
+shall		2
+case		1
+first		1
+close		1
+company		1
+know		1
+relatively	1
+find		1
+out		1
+negotiations	1
+touch		1
+bill		1
+one		1
+advanced	1
+deal		1
+kaminski	1

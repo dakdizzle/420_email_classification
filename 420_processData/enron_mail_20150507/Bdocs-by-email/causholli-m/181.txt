@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+wrap		1
+revised		1
+thank		1
+karen		1
+monika		1
+market		1
+here		1

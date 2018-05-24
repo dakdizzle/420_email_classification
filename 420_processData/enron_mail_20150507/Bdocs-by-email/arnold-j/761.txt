@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+dynegy		1
+picture		1
+headline	1
+look		1
+up		1
+www		1
+pull		1
+com		1

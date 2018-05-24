@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+president	1
+discuss		1
+situation	1
+day		1
+kitchen		1
+per		1
+david		1
+john		1
+ena		1
+louise		1
+management	1
+listed		1
+lavorato	1
+call		1
+senior		1
+kim		1
+good		1
+people		1
+two		1
+ceo		1
+team		1
+below		1
+coo		1
+request		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+info		1
+kim		1
+everything	1
+find		1
+more		1
+forward		1
+think		1
+thanks		1

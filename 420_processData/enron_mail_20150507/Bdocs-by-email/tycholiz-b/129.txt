@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+fun		1
+customers	1
+invited		1
+go		1
+wanted		1
+race		1
+bt		1
+couple		1
+think		1
+always		1

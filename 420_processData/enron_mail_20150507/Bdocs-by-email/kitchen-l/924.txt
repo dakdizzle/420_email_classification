@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+sems		1
+lavo		1
+quiet		1
+working		1
+keep		1
+trying		1
+even		1
+see		1
+didn		1

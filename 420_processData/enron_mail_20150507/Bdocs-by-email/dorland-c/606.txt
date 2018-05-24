@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+machine		2
+applications	1
+under		1
+programs	1
+selection	1
+chris		1
+upgraded	1
+windows		1
+ice		1
+start		1
+use		1
+business	1
+don		1
+think		1

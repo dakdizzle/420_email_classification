@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+oct		2
+day		1
+leaving		1
+up		1
+know		1
+hotel		1
+returning	1
+paris		1
+fly		1
+soon		1
+golfing		1
+show		1
+staying		1
+spa		1
+need		1
+mike		1
+vegas		1
+town		1
+catching	1

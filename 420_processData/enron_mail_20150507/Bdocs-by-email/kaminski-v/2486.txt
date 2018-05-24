@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+vkamins		2
+vince		2
+cn		2
+class		1
+pstshirley	1
+review		1
+recipients	1
+involved	1
+filename	1
+na		1
+see		1
+privileged	1
+non		1
+enron		1
+please		1
+ou		1
+kaminski	1

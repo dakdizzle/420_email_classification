@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+right		2
+hate		1
+besides		1
+now		1
+leads		1
+houston		1
+environment	1
+anyway		1
+really		1
+best		1
+want		1
+gotten		1
+don		1
+think		1
+here		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+dailynews	1
+sections	1
+wnt		1
+enron		1
+abcnews		1
+html		1
+shred		1
+http		1
+go		1
+com		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+wrong		1
+killed		1
+contract	1
+t		1
+deal		1
+number		1
+tgt		1

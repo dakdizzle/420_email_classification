@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+santa		1
+first		1
+chance		1
+clara		1
+think		1

@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+jforney		2
+privileged	2
+non		2
+forney		2
+text		1
+john		1
+plain		1
+filename	1
+folder		1
+pstplease	1
+thanks		1
+trid		1
+jx		1
+asciix		1
+content		1
+sent		1
+type		1
+check		1
+turret		1
+origin		1
+itemsx		1
+jmf		1
+new		1
+charset		1

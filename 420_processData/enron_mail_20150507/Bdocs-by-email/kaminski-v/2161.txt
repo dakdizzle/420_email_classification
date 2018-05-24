@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+vince		1
+job		1
+hard		1
+enron		1
+interested	1
+capable		1
+working		1
+friend		1
+person		1
+molly		1
+very		1
+resume		1

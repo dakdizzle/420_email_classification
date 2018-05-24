@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+email		1
+up		1
+foster		1
+chris		1
+thanks		1
+call		1
+follow		1
+bill		1
+questions	1
+keoni		1
+original	1
+give		1
+here		1

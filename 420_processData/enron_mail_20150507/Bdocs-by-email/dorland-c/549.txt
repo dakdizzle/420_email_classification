@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+girl		1
+dreams		1

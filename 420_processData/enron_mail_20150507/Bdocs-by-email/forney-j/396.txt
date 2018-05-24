@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+asp		1
+wwizmstr	1
+co		1
+webwiz		1
+http		1
+statement	1
+montgomery	1
+wwiz		1
+www		1
+web		1
+crt		1
+tx		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ubid		1
+www		1
+web		1
+site		1
+com		1

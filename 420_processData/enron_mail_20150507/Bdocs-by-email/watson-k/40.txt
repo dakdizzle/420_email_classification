@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+thursday	1
+scoot		1
+opps		1

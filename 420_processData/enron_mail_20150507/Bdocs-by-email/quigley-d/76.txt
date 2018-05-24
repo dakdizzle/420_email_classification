@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+out		2
+expense		2
+expenses	1
+isalso		1
+cash		1
+ina		1
+ie		1
+receipt		1
+john		1
+crowbar		1
+paying		1
+snag		1
+trip		1
+approved	1
+see		1
+dutch		1
+people		1
+two		1
+last		1
+gotten		1
+still		1

@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+ll		2
+hope		1
+right		1
+ya		1
+dad		1
+yes		1
+lindy		1
+tonight		1
+love		1
+papaflo		1
+call		1
+okay		1

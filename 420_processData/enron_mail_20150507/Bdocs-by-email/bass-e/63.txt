@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+really		1
+response	1
+e		1
+guess		1
+thought		1
+wait		1
+haven		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+toshow		1
+revised		1
+attached	1
+draft		1
+letter		1
+prior		1
+lined		1
+red		1
+capacity	1
+kim		1
+version		1
+changes		1
+release		1
+michelle	1
+agreement	1

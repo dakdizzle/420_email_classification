@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+point		1
+send		1
+stacey		1
+go		1
+performing	1
+review		1
+ahead		1
+sure		1
+thanks		1

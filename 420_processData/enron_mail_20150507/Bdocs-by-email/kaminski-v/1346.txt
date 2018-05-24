@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+vince		1
+confirmed	1
+al		1

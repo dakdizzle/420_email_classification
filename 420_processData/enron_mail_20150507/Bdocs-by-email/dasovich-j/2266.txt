@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+call		2
+anything	1
+pm		1
+jeff		1
+best		1
+one		1
+cst		1

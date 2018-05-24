@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ca		1
+hedge		1
+funds		1
+knew		1
+tx		1
+asked		1

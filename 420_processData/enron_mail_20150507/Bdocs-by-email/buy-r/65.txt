@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+board		1
+details		1
+meetings	1
+deals		1
+review		1
+call		1
+anymore		1
+rick		1
+please		1
+more		1
+yes		1
+need		1
+tx		1
+attend		1
+don		1

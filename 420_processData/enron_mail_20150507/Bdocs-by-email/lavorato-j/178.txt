@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+seems		1
+fair		1
+tradelavo	1

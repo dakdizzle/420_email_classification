@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+flops		1
+power		1
+rick		1
+dot		1
+due		1
+city		1
+downgraded	1
+buys		1
+pa		1
+com		1

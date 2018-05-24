@@ -1,0 +1,22 @@
+NumWords	45
+NumTerms	19
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+eric		2
+little		1
+kelli		1
+santiago	1
+moon		1
+eboyt		1
+jin		1
+garcia		1
+sgarcia		1
+jguo		1
+boyt		1
+klittle		1
+emoon		1
+guo		1

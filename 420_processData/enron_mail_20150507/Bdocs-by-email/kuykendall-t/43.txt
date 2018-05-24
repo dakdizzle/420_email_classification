@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+center		2
+beginnings	1
+knowledge	1
+nomination	1
+kids		1
+put		1
+lorraine	1
+complete	1
+director	1
+form		1
+address		1
+give		1

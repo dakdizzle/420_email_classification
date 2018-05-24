@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+worth		2
+jwillia		2
+cn		2
+thats		1
+job		1
+jason		1
+williams	1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+pstthat		1
+ou		1
+aint		1
+trading		1

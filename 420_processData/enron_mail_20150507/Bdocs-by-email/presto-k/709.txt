@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+looking		1
+tommorow	1
+pass		1
+tonight		1
+thanks		1
+ll		1

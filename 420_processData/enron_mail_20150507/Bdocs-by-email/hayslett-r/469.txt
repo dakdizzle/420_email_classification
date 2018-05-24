@@ -1,0 +1,26 @@
+NumWords	42
+NumTerms	23
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+lowry		1
+phone		1
+corman		1
+kevin		1
+plowry		1
+phil		1
+drew		1
+dfossum		1
+scorman		1
+mary		1
+khoward		1
+howard		1
+need		1
+probably	1
+rob		1
+kay		1
+shelley		1
+fossum		1

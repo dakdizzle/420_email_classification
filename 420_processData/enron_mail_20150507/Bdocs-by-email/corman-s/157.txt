@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+base		1
+modifications	1
+make		1
+customers	1
+talk		1
+th		1
+cas		1
+although	1
+sounds		1
+wi		1
+point		1
+team		1
+dollars		1
+back		1
+touch		1
+concept		1
+interesting	1
+capital		1
+don		1
+accessible	1
+ll		1

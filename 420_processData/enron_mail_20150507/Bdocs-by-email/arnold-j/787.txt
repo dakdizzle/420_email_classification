@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ene		1
+per		1
+anymore		1
+go		1
+allowed		1

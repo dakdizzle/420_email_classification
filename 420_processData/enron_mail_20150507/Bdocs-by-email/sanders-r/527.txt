@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+lack		1
+seen		1
+press		1
+greed		1
+morality	1
+more		1
+arrogance	1
+accurate	1
+bad		1
+never		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+know		1
+anyone		1
+excuse		1
+teaches		1
+feedback	1
+good		1
+done		1
+rick		1
+sheila		1
+tx		1
+week		1
+don		1
+haven		1

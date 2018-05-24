@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+coordination	1
+mark		1
+talk		1
+know		1
+congratulations	1
+additional	1
+need		1
+rob		1
+convenient	1

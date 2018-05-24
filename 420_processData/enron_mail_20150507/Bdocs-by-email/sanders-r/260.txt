@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+energy		1
+bankrupt	1
+terminate	1
+suggestions	1
+know		1
+williams	1
+letter		1
+entities	1
+bob		1
+ees		1
+two		1
+futures		1
+contracts	1
+comments	1
+cintracts	1

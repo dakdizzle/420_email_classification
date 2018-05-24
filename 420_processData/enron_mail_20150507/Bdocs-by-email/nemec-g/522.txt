@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+file		3
+word		1
+msword		1
+keegan		1
+convert		1
+try		1
+attached	1
+perfect		1
+think		1
+thanks		1

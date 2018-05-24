@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+cheryl		1
+up		1
+catch		1
+changes		1

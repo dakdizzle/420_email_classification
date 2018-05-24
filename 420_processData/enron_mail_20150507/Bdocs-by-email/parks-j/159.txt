@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+until		2
+monday		1
+out		1
+office		1
+tomorrow	1
+gut		1
+going		1
+happen		1

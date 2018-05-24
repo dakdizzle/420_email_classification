@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+discuss		1
+together	1
+cash		1
+handle		1
+tomorrow	1
+transfers	1
+mike		1
+month		1
+books		1
+lunch		1
+next		1

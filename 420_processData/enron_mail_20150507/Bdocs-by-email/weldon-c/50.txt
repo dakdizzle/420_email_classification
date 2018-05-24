@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+views		1
+power		1
+http		1
+jan		1
+www		1
+feldman		1
+specials	1
+cnn		1
+com		1

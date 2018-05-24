@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+jay		1
+thanks		1

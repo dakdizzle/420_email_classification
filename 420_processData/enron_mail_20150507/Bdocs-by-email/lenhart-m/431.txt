@@ -1,0 +1,11 @@
+NumWords	11
+NumTerms	8
+
+out		2
+understand	2
+money		2
+dinner		1
+owe		1
+cant		1
+want		1
+c		1

@@ -1,0 +1,27 @@
+NumWords	32
+NumTerms	24
+
+sell		4
+feb		4
+march		3
+pm		1
+ok		1
+leaving		1
+catch		1
+aga		1
+selling		1
+report		1
+today		1
+tk		1
+jan		1
+upside		1
+sid		1
+remaining	1
+look		1
+rich		1
+before		1
+need		1
+year		1
+downside	1
+dec		1
+rest		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+everything	1
+hope		1
+stacey		1
+well		1
+going		1

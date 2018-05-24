@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+together	1
+put		1
+abbreviated	1
+model		1
+eric		1
+james		1
+rate		1
+here		1

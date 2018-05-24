@@ -1,0 +1,25 @@
+NumWords	47
+NumTerms	22
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+pervert		1
+plove		1
+disgusting	1
+winfree		1
+phillip		1
+owinfre		1
+giron		1
+kevin		1
+neal		1
+jeffrey		1
+darron		1
+gossett		1
+dgiron		1
+jgosset		1
+kbosse		1
+bosse		1
+love		1

@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+problems	2
+stacey		2
+swhite		2
+cn		2
+counterparties	1
+therefore	1
+gas		1
+following	1
+recipients	1
+white		1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+solved		1
+pstthe		1
+ou		1
+curve		1

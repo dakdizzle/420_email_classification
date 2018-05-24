@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+make		2
+try		2
+kim		1
+way		1
+suppose		1
+paul		1
+office		1
+change		1
+pdx		1
+stewart		1
+choi		1
+here		1

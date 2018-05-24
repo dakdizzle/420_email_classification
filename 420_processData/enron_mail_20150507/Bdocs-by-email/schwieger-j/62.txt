@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+make		1
+time		1
+report		1
+covered		1
+daily		1
+swig		1
+sounds		1
+lots		1
+great		1
+sun		1
+good		1
+hope		1
+please		1
+volumes		1
+sure		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ve		1
+outlook		1
+migrated	1
+lotus		1
+forward		1
+notes		1
+kay		1
+emails		1

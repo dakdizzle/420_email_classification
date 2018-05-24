@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lynn		1
+forwarded	1
+message		1
+john		1
+shirley		1
+thanks		1

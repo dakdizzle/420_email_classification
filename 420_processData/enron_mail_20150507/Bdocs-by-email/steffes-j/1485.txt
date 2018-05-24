@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+non		2
+cn		2
+jsteffe		2
+ie		1
+customers	1
+mean		1
+recipients	1
+filename	1
+na		1
+market		1
+privileged	1
+jim		1
+home		1
+steffes		1
+enron		1
+pstby		1
+mass		1
+james		1
+ou		1
+depot		1

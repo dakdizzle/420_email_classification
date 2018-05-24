@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+under		1
+processing	1
+langauge	1
+insert		1
+lisa		1
+changes		1
+heading		1
+fine		1
+confirm		1

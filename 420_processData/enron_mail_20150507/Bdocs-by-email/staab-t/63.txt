@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+point		1
+interested	1
+team		1
+thank		1
+mate		1
+offer		1

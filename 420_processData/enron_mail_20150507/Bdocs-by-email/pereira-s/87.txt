@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+relation	1
+poor		1
+susan		1
+nope		1
+related		1
+pereiras	1

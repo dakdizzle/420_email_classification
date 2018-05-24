@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+grisman		2
+out		1
+worth		1
+daughter	1
+jerry		1
+wednesday	1
+opens		1
+bluegrass	1
+embarcadero	1
+movie		1
+checking	1

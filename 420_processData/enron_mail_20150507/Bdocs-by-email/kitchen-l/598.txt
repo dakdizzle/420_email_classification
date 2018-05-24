@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+assume		1
+time		1
+understand	1
+week		1
+haven		1

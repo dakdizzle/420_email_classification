@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+stay		1
+pm		1
+evening		1
+until		1
+wed		1

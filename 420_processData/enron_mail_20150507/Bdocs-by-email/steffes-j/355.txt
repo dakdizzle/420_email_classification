@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+jim		1
+report		1
+here		1

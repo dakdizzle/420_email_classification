@@ -1,0 +1,21 @@
+NumWords	37
+NumTerms	18
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+sneal		1
+scott		1
+hunter		1
+thomas		1
+john		1
+martin		1
+shively		1
+neal		1
+tmartin		1
+arnold		1
+grigsby		1
+hshivel		1
+jarnold		1

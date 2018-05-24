@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+picture		1
+nice		1

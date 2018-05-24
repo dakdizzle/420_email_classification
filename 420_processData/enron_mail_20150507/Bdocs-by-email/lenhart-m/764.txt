@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+live		1
+hate		1
+numbers		1
+fuck		1
+music		1

@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+mark		2
+cn		2
+mmcconne	2
+know		1
+days		1
+few		1
+pstin		1
+recipients	1
+filename	1
+na		1
+imput		1
+call		1
+privileged	1
+mcconnell	1
+non		1
+enron		1
+start		1
+ou		1
+process		1
+ll		1
+next		1

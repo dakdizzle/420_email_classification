@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+initial		1
+answered	1
+question	1

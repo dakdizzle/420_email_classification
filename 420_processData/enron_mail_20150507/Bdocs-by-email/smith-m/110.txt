@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+taking		1
+sorry		1

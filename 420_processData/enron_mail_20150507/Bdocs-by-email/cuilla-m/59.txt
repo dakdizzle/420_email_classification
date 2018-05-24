@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+month		2
+bonus		2
+option		1
+cash		1
+stock		1
+hunter		1
+end		1
+raise		1
+today		1
+th		1
+home		1
+look		1
+non		1
+check		1
+sign		1
+bring		1
+agreement	1
+next		1
+over		1
+ll		1
+compete		1

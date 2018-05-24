@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+flow		1
+up		1
+want		1
+gotcha		1
+thought		1
+adrenaline	1
+bob		1
+wake		1
+kidding		1
+s		1
+help		1

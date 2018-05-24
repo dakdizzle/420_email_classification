@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+pick		1
+england		1
+new		1
+platter		1

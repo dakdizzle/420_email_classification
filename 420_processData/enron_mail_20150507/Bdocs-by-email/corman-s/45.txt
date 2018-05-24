@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+board		2
+segment		2
+pipeline	2
+results		1
+letting		1
+know		1
+stan		1
+rae		1
+tells		1
+mcquade		1
+elections	1
+privilege	1
+representing	1
+joan		1
+gisb		1

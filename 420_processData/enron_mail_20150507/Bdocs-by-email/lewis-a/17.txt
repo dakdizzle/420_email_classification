@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+andy		1
+content		1
+word		1
+free		1
+monica		1
+feel		1
+questions	1
+attached	1
+contact		1
+document	1

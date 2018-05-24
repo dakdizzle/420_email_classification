@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+type		1
+answering	1
+question	1

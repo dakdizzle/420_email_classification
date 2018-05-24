@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+dth		1
+gas		1
+scheduled	1
+th		1
+nov		1
+still		1
+looks		1
+gerald		1
+checking	1
+sold		1
+volume		1

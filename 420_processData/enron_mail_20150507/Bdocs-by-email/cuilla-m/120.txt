@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+looking		1
+bhouston	1
+cool		1
+bellefontaine	1
+forward		1
+tx		1

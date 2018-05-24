@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+darron		1
+further		1
+h		1
+refinancing	1
+wanted		1
+giron		1
+submitted	1
+communicate	1
+loan		1
+thanks		1

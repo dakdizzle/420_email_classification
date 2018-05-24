@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+one		1
+kennedy		1
+wic		1

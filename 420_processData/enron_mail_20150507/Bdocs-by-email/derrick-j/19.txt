@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+derrick		2
+cn		2
+jr		2
+james		2
+discuss		1
+pstis		1
+thank		1
+jderric		1
+outside		1
+recipients	1
+invoices	1
+walls		1
+filename	1
+na		1
+cover		1
+jim		1
+enron		1
+please		1
+ou		1
+rob		1
+counsel		1
+proposal	1
+meant		1

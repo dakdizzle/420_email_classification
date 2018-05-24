@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cn		2
+btychol		2
+status		1
+credit		1
+worksheet	1
+pstjay		1
+advise		1
+pls		1
+recipients	1
+filename	1
+na		1
+bt		1
+privileged	1
+tycholiz	1
+mgi		1
+non		1
+enron		1
+barry		1
+ou		1

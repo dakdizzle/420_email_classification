@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+stuffy		2
+m		2
+place		1
+know		1
+restaurants	1
+far		1
+flexible	1
+late		1
+lot		1
+better		1
+ve		1
+seriously	1
+back		1
+go		1
+more		1
+concerned	1
+laid		1

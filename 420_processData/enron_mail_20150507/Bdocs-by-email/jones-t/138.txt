@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+drafted		1
+email		1
+europe		1
+meeting		1
+redraft		1
+apb		1
+thanks		1
+morning		1
+out		1
+already		1
+agreement	1
+directed	1
+ll		1

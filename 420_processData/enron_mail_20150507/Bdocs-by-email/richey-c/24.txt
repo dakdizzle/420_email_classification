@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+m		1
+short		1
+comes		1
+houston		1
+blaming		1
+don		1
+fuse		1
+certainly	1
+worry		1

@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+hope		2
+becomes		1
+quit		1
+one		1
+before		1
+issue		1

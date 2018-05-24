@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+terrible	1
+strikes		1
+didnt		1
+werent		1
+ball		1
+actually	1
+granted		1
+out		1
+exactly		1
+air		1
+pitching	1
+bonds		1
+infield		1
+game		1

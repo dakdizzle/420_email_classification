@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+puc		1
+jointly		1
+saying		1
+jeff		1
+filed		1
+ious		1
+assignments	1
+call		1

@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+thanks		2
+lynn		1
+discuss		1
+please		1
+jean		1
+give		1
+note		1
+call		1

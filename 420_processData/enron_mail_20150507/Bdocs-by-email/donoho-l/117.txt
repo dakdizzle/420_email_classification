@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+included	1
+expansions	1
+projection	1
+received	1
+james		1
+year		1
+currently	1
+summary		1
+here		1

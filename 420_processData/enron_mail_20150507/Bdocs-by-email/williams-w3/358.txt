@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+time		1
+difference	1
+checked		1
+tell		1
+one		1
+last		1

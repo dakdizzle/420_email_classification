@@ -1,0 +1,21 @@
+NumWords	24
+NumTerms	18
+
+com		5
+hhw		2
+law		2
+aol		1
+alfred		1
+fenner		1
+chet		1
+bmc		1
+akoenig		1
+number		1
+brianc		1
+erwollam	1
+shudgins	1
+knipe		1
+combtwnew	1
+koenig		1
+saltgrass	1
+hotmail		1

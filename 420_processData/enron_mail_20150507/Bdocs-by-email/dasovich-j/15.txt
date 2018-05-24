@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+associated	1
+recipients	1
+susan		1
+ours		1
+na		1
+smara		1
+mara		1
+issues		1
+enron		1
+bigger		1
+ou		1
+think		1

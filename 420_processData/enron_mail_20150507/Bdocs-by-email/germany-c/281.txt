@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+kingdomality	1
+cmi		1
+html		1
+lmi		1
+http		1
+www		1
+com		1

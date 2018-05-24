@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+calgary		1
+looking		1
+working		1
+price		1
+th		1
+chris		1
+same		1
+take		1
+afternoon	1
+out		1
+nice		1
+ride		1
+office		1
+downtown	1
+bring		1
+one		1
+truck		1
+sept		1

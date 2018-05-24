@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+written		1
+directions	1
+here		1

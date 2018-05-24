@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+those		1
+up		1
+looking		1
+oh		1
+spots		1
+now		1
+found		1
+rash		1
+spread		1
+good		1
+m		1
+yeah		1
+photo		1
+brushed		1
+caused		1
+old		1
+year		1
+couple		1
+small		1
+over		1
+tan		1

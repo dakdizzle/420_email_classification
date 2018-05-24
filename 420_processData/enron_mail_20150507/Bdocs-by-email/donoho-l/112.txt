@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+group		1
+status		1
+sending		1
+draft		1
+review		1
+gina		1
+taylor		1

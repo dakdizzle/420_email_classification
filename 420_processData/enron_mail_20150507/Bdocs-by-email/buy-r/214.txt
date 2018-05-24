@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+worth		1
+time		1
+rick		1
+kind		1
+probably	1
+rehearsal	1
+think		1

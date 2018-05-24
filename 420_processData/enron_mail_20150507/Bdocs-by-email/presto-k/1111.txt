@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+presto		2
+kevin		2
+energy		1
+ubswenergy	1
+fax		1
+update		1
+ubs		1
+phone		1
+giffels		1
+com		1
+warburg		1

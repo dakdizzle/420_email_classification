@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+party		2
+garden		1
+following	1
+heights		1
+sucked		1
+definately	1
+go		1
+sat		1
+weekend		1
+test		1
+went		1
+game		1
+big		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+highly		1
+novel		1
+age		1
+coming		1
+try		1
+course		1
+witch		1
+true		1
+wake		1
+red		1
+great		1
+girl		1
+rent		1
+recommend	1
+stagecoach	1
+cool		1
+grit		1
+very		1

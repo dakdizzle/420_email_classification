@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+coming		1
+gave		1
+find		1
+mail		1
+bad		1
+tom		1
+address		1
+think		1

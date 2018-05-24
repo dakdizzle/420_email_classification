@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+tape		2
+up		1
+time		1
+know		1
+pull		1
+thanks		1
+bill		1
+july		1
+go		1
+pulled		1
+slinger		1
+need		1
+chip		1
+ryan		1

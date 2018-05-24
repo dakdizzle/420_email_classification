@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hear		1
+relieved	1
+force		1
+come		1
+glad		1
+goo		1
+alan		1
+side		1

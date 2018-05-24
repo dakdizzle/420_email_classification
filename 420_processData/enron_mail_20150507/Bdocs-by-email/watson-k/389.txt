@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+handy		1
+online		1
+msn		1
+ily		1
+logged		1
+vet		1
+shows		1
+number		1

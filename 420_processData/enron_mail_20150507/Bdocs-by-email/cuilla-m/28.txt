@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+day		1
+done		1
+up		1
+end		1
+before		1
+sportsline	1
+set		1
+ll		1
+com		1

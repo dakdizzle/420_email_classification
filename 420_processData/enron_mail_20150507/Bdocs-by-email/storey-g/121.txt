@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+power		1
+idea		1
+looks		1

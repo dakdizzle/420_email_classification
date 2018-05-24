@@ -1,0 +1,22 @@
+NumWords	24
+NumTerms	19
+
+much		3
+thanks		2
+cn		2
+iris		2
+showing		1
+time		1
+trouble		1
+report		1
+recipients	1
+left		1
+appreciate	1
+na		1
+printed		1
+message		1
+waser		1
+enron		1
+iwaser		1
+ou		1
+very		1

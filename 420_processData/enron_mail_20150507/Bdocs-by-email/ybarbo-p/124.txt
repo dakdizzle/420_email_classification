@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+document	2
+discuss		1
+return		1
+make		1
+perry		1
+paul		1
+revisions	1
+please		1
+attached	1
+review		1
+thanks		1

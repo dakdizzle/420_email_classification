@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+steffes		1
+jim		1
+approve		1

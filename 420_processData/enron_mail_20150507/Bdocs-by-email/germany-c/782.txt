@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+m		1
+started		1
+know		1
+working		1
+touch		1
+ask		1
+trying		1
+gerald		1
+think		1
+gilbert		1
+thanks		1
+call		1

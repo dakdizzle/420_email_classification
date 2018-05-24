@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+matter		2
+light		1
+litigation	1
+bob		1
+cats		1
+jim		1
+best		1
+congratulations	1
+admirable	1
+need		1
+baltimore	1
+batting		1
+average		1
+reinsert	1

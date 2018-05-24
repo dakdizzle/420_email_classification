@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+soon		1
+great		1
+up		1
+hopefully	1
+sign		1
+marie		1
+thanks		1

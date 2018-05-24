@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+stay		1
+mac		1
+vince		1
+turbulence	1
+completely	1
+know		1
+glad		1
+now		1
+inhouston	1
+hit		1
+fail		1

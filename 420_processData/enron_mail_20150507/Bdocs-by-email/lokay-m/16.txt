@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+group		1
+payroll		1
+jan		1
+contributions	1
+effective	1
+discontinue	1
+lokayaccount	1
+thanks		1
+way		1
+deducted	1
+deductions	1
+being		1
+directortranswestern	1
+michelle	1
+united		1
+commercial	1
+through		1

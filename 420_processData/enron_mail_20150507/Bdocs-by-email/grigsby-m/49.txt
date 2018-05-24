@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+cn		2
+mgrigsb		2
+mike		2
+others		1
+grigsbyx	1
+working		1
+know		1
+recipients	1
+pstfranky	1
+someone		1
+filename	1
+na		1
+thanks		1
+delegate	1
+privileged	1
+non		1
+enron		1
+please		1
+project		1
+ou		1
+away		1
+projects	1
+grigsby		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+photos		1
+hangover	1
+check		1
+worst		1
+cancelled	1
+concert		1
+glad		1
+im		1
+sure		1
+jmf		1

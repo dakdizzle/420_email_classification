@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+liked		1
+make		1
+seems		1
+alot		1
+rick		1
+willing		1
+ready		1
+move		1
+thoughts	1

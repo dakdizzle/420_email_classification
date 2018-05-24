@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+kim		1
+thing		1
+forgot		1
+sasha		1
+know		1
+one		1
+session		1
+morgan		1
+thanks		1
+declines	1

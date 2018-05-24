@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+bored		1
+m		1
+painful		1

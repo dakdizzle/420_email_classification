@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+language	2
+monday		1
+little		1
+day		1
+time		1
+up		1
+comment		1
+until		1
+effect		1
+won		1
+today		1
+left		1
+reviews		1
+pa		1
+pop		1
+something	1
+m		1
+agree		1
+tweaking	1
+probably	1
+doing		1
+new		1

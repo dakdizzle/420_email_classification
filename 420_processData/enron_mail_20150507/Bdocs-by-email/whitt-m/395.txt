@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+believing	1
+up		1
+real		1
+time		1
+hard		1
+crazy		1
+isn		1

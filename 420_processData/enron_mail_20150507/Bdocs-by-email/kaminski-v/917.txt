@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+vince		1
+few		1
+projects	1
+tonight		1
+paula		1
+hi		1
+finishing	1

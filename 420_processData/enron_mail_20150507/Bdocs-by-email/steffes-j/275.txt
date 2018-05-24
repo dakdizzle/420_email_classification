@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+take		2
+care		1
+budget		1
+family		1
+reply		1
+nyc		1
+keep		1
+now		1
+moves		1
+attacks		1
+fine		1
+sorry		1
+post		1
+jim		1
+staffing	1
+long		1
+ban		1
+right		1
+forward		1
+sure		1
+mind		1
+ll		1
+needs		1

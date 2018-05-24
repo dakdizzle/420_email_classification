@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ve		1
+day		1
+lone		1
+gas		1
+sell		1
+trying		1
+star		1
+approves	1
+imbalance	1
+aware		1

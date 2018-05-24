@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+flow		2
+cash		2
+swing		2
+changed		1
+tallahassee	1
+increasing	1
+reliant		1
+tab		1
+file		1
+cover		1
+prepays		1
+est		1
+trunkline	1
+activity	1
+week		1
+deal		1
+mcv		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+rick		1
+fyi		1
+thoughts	1

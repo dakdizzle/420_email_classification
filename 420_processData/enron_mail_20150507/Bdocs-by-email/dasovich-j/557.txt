@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+highly		1
+fried		1
+two		1
+boy		1
+fire		1
+glad		1
+today		1
+weeks		1
+deep		1
+goldfish	1
+give		1
+think		1

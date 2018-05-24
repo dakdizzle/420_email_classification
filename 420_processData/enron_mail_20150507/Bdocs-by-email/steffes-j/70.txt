@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+bill		1
+amendments	1
+pass		1
+appropriations	1
+comm		1
+printed		1
+new		1

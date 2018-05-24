@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+yours		1
+wild		1
+hello		1
+time		1
+talk		1
+well		1
+wanted		1
+times		1
+long		1
+hope		1
+check		1
+greetings	1
+jeff		1
+best		1
+given		1

@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+up		2
+csn		1
+coming		1
+wrap		1
+tomorrow	1
+lunch		1

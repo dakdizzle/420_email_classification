@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+print		2
+recent		1
+please		1
+color		1
+attachment	1
+mechelle	1
+mails		1
+thanks		1

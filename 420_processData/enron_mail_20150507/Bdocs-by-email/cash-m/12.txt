@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+thanks		2
+work		2
+successful	1
+transactional	1
+financing	1
+won		1
+background	1
+person		1
+etc		1
+major		1
+experience	1
+real		1
+estate		1
+michelle	1
+more		1
+need		1
+particularly	1
+here		1
+resume		1

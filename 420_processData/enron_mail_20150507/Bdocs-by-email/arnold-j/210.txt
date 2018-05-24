@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+toasted		1
+wanna		1
+tonight		1

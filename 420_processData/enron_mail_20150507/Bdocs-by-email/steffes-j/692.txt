@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+case		1
+know		1
+sending		1
+keep		1
+pls		1
+didn		1

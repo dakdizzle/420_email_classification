@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+shoulder	1
+time		1
+entertained	1
+active		1
+want		1
+need		1
+whenever	1
+don		1
+mo		1
+plane		1
+ski		1

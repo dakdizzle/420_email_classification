@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+look		1
+alot		1
+working		1
+forward		1
+thanks		1

@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+mims		2
+prices		1
+model		1
+patience	1
+inadvertently	1
+sorry		1
+filename	1
+transfer	1
+thanks		1
+content		1
+sent		1
+pstso		1
+encoding	1
+px		1
+origin		1
+everyone	1
+bitx		1
+patrice		1

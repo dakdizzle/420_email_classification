@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+boudreaux	1
+up		1
+tenn		1
+going		1
+game		1

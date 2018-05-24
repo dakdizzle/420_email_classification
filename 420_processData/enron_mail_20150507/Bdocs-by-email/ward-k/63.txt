@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+through		2
+heard		1
+vine		1
+peak		1
+during		1
+mw		1
+periods		1
+short		1
+aps		1
+june		1
+fyikim		1

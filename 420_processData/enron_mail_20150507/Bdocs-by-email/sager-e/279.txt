@@ -1,0 +1,18 @@
+NumWords	23
+NumTerms	15
+
+enron		4
+arsystem	3
+review		2
+mailman		2
+com		2
+eenron		1
+liz		1
+authorized	1
+won		1
+system		1
+ecom		1
+imceanotes	1
+content		1
+requests	1
+carsystem	1

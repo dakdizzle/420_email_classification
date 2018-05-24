@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+burn		2
+way		1
+cpu		1
+xp		1
+download	1
+think		1

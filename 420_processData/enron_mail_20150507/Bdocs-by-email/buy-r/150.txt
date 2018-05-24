@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+rick		1
+solo		1
+york		1
+fly		1
+new		1
+ll		1

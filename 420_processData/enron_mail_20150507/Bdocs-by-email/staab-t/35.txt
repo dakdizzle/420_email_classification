@@ -1,0 +1,22 @@
+NumWords	23
+NumTerms	19
+
+megan		2
+sale		2
+crestone	2
+fuel		2
+theresa		1
+finalize	1
+today		1
+service		1
+freeze		1
+september	1
+call		1
+remember	1
+m		1
+gathering	1
+brain		1
+gloria		1
+questions	1
+having		1
+here		1

@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+doin		1
+day		1
+page		1
+know		1
+fine		1
+late		1
+same		1
+tuesday		1
+thanks		1
+market		1
+afternoon	1
+good		1
+whcih		1
+best		1
+thursday	1
+mike		1
+next		1

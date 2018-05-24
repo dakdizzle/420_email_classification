@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+anything	1
+know		1
+relaint		1
+want		1
+sager		1
+comments	1
+thankselizabeth	1
+hi		1
+here		1

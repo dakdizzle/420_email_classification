@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+holst		1
+starring	1
+pg		1
+rated		1
+keith		1
+trust		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+rick		1
+buying		1
+fyi		1
+considering	1
+server		1

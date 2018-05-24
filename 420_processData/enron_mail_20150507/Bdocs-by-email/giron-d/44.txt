@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+value		1
+included	1
+chicago		1
+list		1
+office		1
+transport	1
+includes	1
+positions	1
+deals		1
+dg		1
+deal		1
+include		1

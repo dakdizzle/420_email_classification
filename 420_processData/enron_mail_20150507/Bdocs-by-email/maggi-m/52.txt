@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+nasty		1
+dont		1

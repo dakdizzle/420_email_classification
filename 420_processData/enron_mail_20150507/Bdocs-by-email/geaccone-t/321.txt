@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+anything	1
+holiday		1
+good		1
+back		1
+looked		1
+phone		1
+address		1
+thanks		1

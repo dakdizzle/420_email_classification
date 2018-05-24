@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+call		2
+steffesenron	1
+jim		1

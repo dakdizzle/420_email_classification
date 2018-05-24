@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+never		2
+those		1
+first		1
+wild		1
+hey		1
+vacation	1
+know		1
+well		1
+now		1
+see		1
+worked		1
+people		1
+started		1
+reading		1
+again		1
+line		1
+woman		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+mark		1
+report		1
+attached	1
+marie		1
+work		1

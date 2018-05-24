@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+look		1
+ben		1
+forward		1
+away		1
+see		1
+trading		1
+here		1

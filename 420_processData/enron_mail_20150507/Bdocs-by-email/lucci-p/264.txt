@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+dinner		1
+meeting		1
+hey		1
+paul		1
+up		1
+today		1
+still		1
+planning	1

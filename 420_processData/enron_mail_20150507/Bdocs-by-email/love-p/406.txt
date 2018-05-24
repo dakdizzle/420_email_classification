@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+book		2
+case		1
+cemetery	1
+pl		1
+information	1
+know		1
+un		1
+deals		1
+central		1
+books		1
+see		1
+thanks		1
+none		1
+active		1
+several		1
+more		1
+need		1
+similar		1

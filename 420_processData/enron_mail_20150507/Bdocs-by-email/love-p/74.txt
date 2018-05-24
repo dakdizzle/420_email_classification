@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+cn		2
+care		1
+pl		1
+flanagan	1
+know		1
+balfour		1
+taken		1
+assure		1
+recipients	1
+miller		1
+na		1
+thanks		1
+cbalfou		1
+cp		1
+done		1
+list		1
+gossett		1
+enron		1
+jeff		1
+ou		1
+going		1
+last		1
+cyndie		1
+don		1

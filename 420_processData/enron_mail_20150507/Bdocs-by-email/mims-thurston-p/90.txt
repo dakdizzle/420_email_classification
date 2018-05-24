@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+hope		2
+chile		1
+party		1
+make		1
+up		1
+catch		1
+today		1
+leave		1
+call		1
+better		1
+fizzled		1
+anyway		1
+out		1
+feeling		1
+roll		1
+kind		1
+before		1
+ll		1
+didn		1

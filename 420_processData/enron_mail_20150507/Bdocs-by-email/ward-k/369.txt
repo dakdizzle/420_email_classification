@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+coming		1
+somewhere	1
+friend		1
+going		1
+shannon		1
+doing		1
+over		1

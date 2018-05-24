@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+enron		1
+hernandez	1
+juan		1
+com		1

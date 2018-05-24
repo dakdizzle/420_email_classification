@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+skean		2
+cn		2
+interests	1
+job		1
+travel		1
+revised		1
+attached	1
+recipients	1
+kean		1
+steven		1
+filename	1
+na		1
+see		1
+balancing	1
+pstplease	1
+better		1
+privileged	1
+non		1
+enron		1
+ou		1
+advisory	1
+think		1
+competing	1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+hilgert		1
+back		1
+desk		1
+sorry		1
+bug		1
+delay		1
+chris		1
+still		1

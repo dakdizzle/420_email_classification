@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+settlement	1
+l		1
+contracts	1
+december	1
+month		1
+currently	1
+nymex		1
+current		1
+sold		1
+date		1
+trading		1

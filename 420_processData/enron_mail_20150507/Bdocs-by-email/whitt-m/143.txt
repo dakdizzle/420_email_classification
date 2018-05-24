@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+th		2
+those		1
+sending		1
+course		1
+contact		1
+easiest		1
+fine		1
+suite		1
+call		1
+anything	1
+morning		1
+being		1
+office		1
+come		1
+dates		1
+show		1
+subdivided	1
+need		1
+already		1
+maybe		1
+doing		1
+process		1
+st		1
+here		1

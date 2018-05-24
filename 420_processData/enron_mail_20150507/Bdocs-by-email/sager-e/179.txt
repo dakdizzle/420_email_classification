@@ -1,0 +1,26 @@
+NumWords	28
+NumTerms	23
+
+esager		2
+cn		2
+enron		2
+sager		2
+elizabeth	2
+group		1
+time		1
+try		1
+recipients	1
+filename	1
+na		1
+confirm		1
+privileged	1
+pstsounds	1
+wright		1
+great		1
+assemble	1
+non		1
+alice		1
+assistant	1
+ou		1
+works		1
+fro		1

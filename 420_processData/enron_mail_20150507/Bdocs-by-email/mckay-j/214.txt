@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+time		1
+go		1
+want		1
+today		1
+busy		1

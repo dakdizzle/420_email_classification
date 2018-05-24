@@ -1,0 +1,22 @@
+NumWords	26
+NumTerms	19
+
+ect		4
+hou		2
+vince		2
+ben		2
+kaminski	2
+parsons		1
+papersthanks	1
+credit		1
+fw		1
+mack		1
+forwarded	1
+enron		1
+lon		1
+amto		1
+ectcc		1
+more		1
+subject		1
+iris		1
+enronxgate	1

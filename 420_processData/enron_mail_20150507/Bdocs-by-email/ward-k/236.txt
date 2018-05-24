@@ -1,0 +1,26 @@
+NumWords	33
+NumTerms	23
+
+july		4
+deals		3
+day		2
+price		2
+june		2
+priced		2
+nsp		2
+quesitonsthanks	1
+missing		1
+resending	1
+highlights	1
+call		1
+kim		1
+two		1
+agree		1
+run		1
+fior		1
+show		1
+yellow		1
+darla		1
+don		1
+couple		1
+mismatches	1

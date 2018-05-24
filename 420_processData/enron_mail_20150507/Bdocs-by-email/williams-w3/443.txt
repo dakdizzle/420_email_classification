@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+williams	2
+text		1
+price		1
+plain		1
+cap		1
+filename	1
+folder		1
+exmerge		1
+asciix		1
+content		1
+sent		1
+type		1
+unrevised	1
+confirmation	1
+bill		1
+iii		1
+origin		1
+itemsx		1
+keoni		1
+charset		1

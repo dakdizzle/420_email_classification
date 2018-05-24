@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+discuss		1
+bp		1
+few		1
+discussions	1
+minutes		1
+call		1

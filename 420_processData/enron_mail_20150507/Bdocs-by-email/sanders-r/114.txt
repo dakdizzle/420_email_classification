@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+back		1
+know		1
+name		1
+willing		1
+call		1
+allow		1

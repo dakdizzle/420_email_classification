@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+regards		1
+jon		1
+prior		1
+due		1
+attend		1
+glass		1
+commitments	1
+unable		1
+love		1

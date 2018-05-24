@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+cheers		1
+ears		1
+big		1

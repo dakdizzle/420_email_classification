@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+option		1
+m		1
+choose		1
+made		1
+below		1

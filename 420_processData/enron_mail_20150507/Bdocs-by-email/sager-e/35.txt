@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+good		1
+right		1
+steve		1
+person		1
+sager		1
+luck		1
+elizabeth	1
+hi		1

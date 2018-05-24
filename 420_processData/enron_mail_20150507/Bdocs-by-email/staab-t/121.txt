@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+nominated	1
+cut		1
+deal		1
+zero		1

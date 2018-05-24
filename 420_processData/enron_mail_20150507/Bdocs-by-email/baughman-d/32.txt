@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+email		1
+remove		1
+list		1
+enron		1
+please		1
+don		1
+com		1
+baughman	1

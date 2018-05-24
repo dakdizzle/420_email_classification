@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+dquigle		2
+cn		2
+tailgating	1
+recipients	1
+filename	1
+na		1
+privileged	1
+dutch		1
+pstso		1
+non		1
+enron		1
+ou		1
+quigley		1

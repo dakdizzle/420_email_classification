@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+free		1
+tuesday		1
+next		1

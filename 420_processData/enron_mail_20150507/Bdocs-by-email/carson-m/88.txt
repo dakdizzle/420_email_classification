@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+amike		1
+pm		1
+desk		1
+stop		1
+afternoon	1

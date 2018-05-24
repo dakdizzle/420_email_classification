@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+notice		1
+coming		1
+short		1
+sorry		1
+someone		1
+dan		1
+good		1
+people		1
+contracts	1
+nng		1
+usual		1
+hands		1
+tw		1
+shelley		1

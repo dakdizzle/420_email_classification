@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+lynn		2
+lblair		2
+cn		2
+up		1
+blair		1
+recipients	1
+referenced	1
+filename	1
+na		1
+thanks		1
+pst		1
+privileged	1
+non		1
+enron		1
+training	1
+please		1
+sign		1
+miranda		1
+session		1
+ou		1
+below		1
+august		1

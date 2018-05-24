@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+hesco		1
+socal		1
+index		1
+sell		1
+june		1
+oct		1
+through		1

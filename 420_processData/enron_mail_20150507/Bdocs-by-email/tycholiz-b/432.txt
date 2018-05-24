@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+pls		2
+first		1
+thing		1
+day		1
+model		1
+deals		1
+file		1
+bt		1
+number		1
+reference	1
+payables	1
+error		1
+believe		1
+check		1
+update		1
+july		1
+ty		1
+issue		1
+new		1
+include		1

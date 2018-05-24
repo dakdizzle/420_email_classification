@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+word		1
+make		1
+everything	1
+up		1
+season		1
+recruiting	1
+following	1
+see		1
+anything	1
+started		1
+need		1
+going		1
+sure		1
+okay		1

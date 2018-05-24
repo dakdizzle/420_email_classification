@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+mike		1
+meet		1
+lobby		1
+lunch		1

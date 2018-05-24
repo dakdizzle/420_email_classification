@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+exactly		1
+exposed		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+room		1
+hey		1
+feel		1
+themselves	1
+one		1
+sorry		1
+theres		1

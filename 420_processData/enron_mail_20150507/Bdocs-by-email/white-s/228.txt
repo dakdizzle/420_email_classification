@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+bankruptcy	1
+stacey		1
+know		1
+ids		1
+west		1
+follows		1
+post		1
+east		1

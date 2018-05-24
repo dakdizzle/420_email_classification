@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+deals		2
+rate		2
+forward		2
+knowledge	1
+further		1
+currency	1
+details		1
+tanya		1
+attached	1
+contact		1
+review		1
+see		1
+freeland	1
+equity		1
+list		1
+enron		1
+tracked		1
+please		1
+best		1
+sara		1
+swap		1
+corp		1
+clint		1
+include		1

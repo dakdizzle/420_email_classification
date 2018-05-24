@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+together	1
+day		1
+speak		1
+nyc		1
+moody		1
+vlady		1
+develop		1
+rick		1
+delayed		1
+want		1
+before		1
+tx		1
+chance		1

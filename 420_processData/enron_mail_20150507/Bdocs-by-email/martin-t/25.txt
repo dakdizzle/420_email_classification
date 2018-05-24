@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+schwieger	1
+company		1
+farmer		1
+guys		1
+web		1
+left		1
+call		1
+daren		1
+jim		1
+questions	1
+changes		1
+manager		1
+stephanie	1
+access		1
+stack		1
+settings	1

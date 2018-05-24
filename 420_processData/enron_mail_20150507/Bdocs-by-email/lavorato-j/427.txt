@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+happened	1
+lavo		1
+trader		1
+graphs		1
+dave		1
+new		1
+thanks		1

@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+dq		1
+best		1
+night		1
+again		1
+todayily	1
+last		1
+wish		1
+listening	1
+thanks		1

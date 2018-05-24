@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+regardless	1
+broker		1
+correct		1
+same		1
+nymex		1
+fees		1

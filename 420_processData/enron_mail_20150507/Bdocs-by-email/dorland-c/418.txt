@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+area		2
+park		1
+altadore	1
+grab		1
+up		1
+catch		1
+place		1
+river		1
+talk		1
+sushi		1
+chris		1
+brownstone	1
+soon		1
+really		1
+great		1
+back		1
+cool		1
+bought		1
+sw		1
+st		1

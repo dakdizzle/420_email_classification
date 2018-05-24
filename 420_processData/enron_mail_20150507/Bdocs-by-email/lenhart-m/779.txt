@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+down		1
+stock		1
+denny		1
+another		1
+work		1
+going		1
+looks		1

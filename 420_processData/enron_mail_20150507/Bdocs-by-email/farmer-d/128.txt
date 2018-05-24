@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+williams	2
+fee		2
+need		2
+changed		1
+day		1
+recoup		1
+until		1
+nominated	1
+keep		1
+additionally	1
+money		1
+volume		1
+dollar		1
+tenaska		1
+demand		1
+believe		1
+originally	1
+admin		1
+pay		1
+want		1
+adjusted	1
+don		1
+amount		1

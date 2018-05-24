@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+soon		1
+good		1
+cource		1
+visiting	1
+see		1
+always		1

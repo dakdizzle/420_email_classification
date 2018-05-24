@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+liked		1
+worker		1
+hard		1
+ranked		1
+very		1
+alton		1

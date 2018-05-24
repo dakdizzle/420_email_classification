@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+time		1
+enron		1
+pinto		1
+work		1
+recipients	1
+ou		1
+fleite		1
+na		1
+francisco	1
+leite		1

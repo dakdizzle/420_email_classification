@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+call		2
+cell		2
+email		1
+dont		1
+coming		1
+hear		1
+know		1
+houston		1
+future		1
+plans		1
+forget		1
+wrk		1
+reference	1
+home		1
+message		1
+numbers		1
+jparks		1
+hm		1
+below		1
+town		1
+address		1
+com		1
+rr		1
+always		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+resist		1
+sorry		1
+couldnt		1

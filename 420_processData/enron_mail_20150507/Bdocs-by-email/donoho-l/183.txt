@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+cn		2
+ldonoho		2
+changed		1
+know		1
+recipients	1
+lindyx		1
+filename	1
+na		1
+thanks		1
+privileged	1
+anything	1
+non		1
+enron		1
+questions	1
+donoho		1
+ou		1
+need		1
+lindy		1
+pstlet		1

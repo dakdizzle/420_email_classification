@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+mcash		2
+cn		2
+michelle	2
+discuss		1
+cash		1
+generous	1
+psthow		1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+change		1
+want		1
+more		1
+ou		1
+think		1

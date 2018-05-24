@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+group		1
+shouldn		1
+worried		1
+guess		1
+confirm		1

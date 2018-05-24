@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+ut		2
+tx		2
+ts		1
+asp		1
+ca		1
+ptc		1
+selts		1
+pfs		1
+earningfromcity	1
+http		1
+houston		1
+selfc		1
+pts		1
+seltc		1
+homeadvisor	1
+pfc		1
+msn		1
+comparecities	1
+selfs		1
+pickaplace	1
+san		1
+francisco	1
+com		1

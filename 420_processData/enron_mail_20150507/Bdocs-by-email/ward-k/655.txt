@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+kim		2
+day		1
+good		1
+sending		1
+night		1
+stray		1
+emails		1
+always		1
+thanks		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+swbell		1
+net		1
+sshackl		1

@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+cn		2
+dperlin		2
+revised		1
+further		1
+know		1
+review		1
+recipients	1
+filename	1
+na		1
+thanks		1
+pst		1
+privileged	1
+version		1
+non		1
+enron		1
+please		1
+amend		1
+ou		1
+need		1
+perlingiere	1
+here		1
+debra		1

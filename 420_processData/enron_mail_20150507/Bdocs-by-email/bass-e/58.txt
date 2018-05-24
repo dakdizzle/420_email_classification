@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+out		1
+forgot		1
+take		1
+actually	1

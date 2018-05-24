@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+look		1
+greg		1
+details		1
+kam		1
+chance		1
+new		1
+talked		1
+forwards	1

@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+take		2
+need		2
+ina		1
+action		1
+keep		1
+susan		1
+receiving	1
+thanks		1
+uncertain	1
+look		1
+fill		1
+exactly		1
+message		1

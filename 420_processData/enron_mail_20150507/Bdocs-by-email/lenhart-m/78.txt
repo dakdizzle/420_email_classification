@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+seem		1
+look		1
+confident	1
+lazy		1
+over		1
+always		1

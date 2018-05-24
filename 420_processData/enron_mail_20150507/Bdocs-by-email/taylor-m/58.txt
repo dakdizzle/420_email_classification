@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+sit		1
+heard		1
+under		1
+know		1
+tana		1
+hour		1
+print		1
+out		1
+down		1
+shove		1
+back		1
+show		1
+go		1
+already		1
+don		1
+noses		1
+haven		1

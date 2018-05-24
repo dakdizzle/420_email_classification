@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+required	1
+right		1
+please		1
+sally		1
+know		1
+now		1
+want		1
+approval	1
+see		1
+still		1
+thanks		1

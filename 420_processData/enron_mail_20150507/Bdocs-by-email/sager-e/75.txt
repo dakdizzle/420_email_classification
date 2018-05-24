@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+soonelizabeth	1
+meeting		1
+wspp		1
+talk		1
+stuart		1
+go		1
+before		1
+sager		1
+over		1

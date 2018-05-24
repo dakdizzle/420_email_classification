@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+info		1
+ltaylor		1
+lyndon		1
+holidays	1
+s		1
+sue		1
+comhappy	1

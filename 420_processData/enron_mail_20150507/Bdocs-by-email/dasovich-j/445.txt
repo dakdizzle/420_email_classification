@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+settlement	1
+losing		1
+seems		1
+non		1
+kw		1
+above		1
+guys		1
+edison		1
+better		1

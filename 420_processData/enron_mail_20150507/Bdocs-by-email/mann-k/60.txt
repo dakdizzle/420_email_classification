@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+word		1
+well		1
+referenced	1
+wasn		1
+call		1
+talked		1
+puts		1
+leg		1
+anything	1
+good		1
+hope		1
+being		1
+pulled		1
+sure		1
+didn		1
+carlos		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kerri		1
+convenience	1
+kay		1
+thanks		1
+call		1

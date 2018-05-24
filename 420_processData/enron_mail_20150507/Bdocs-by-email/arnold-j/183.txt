@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+kim		1
+friday		1
+name		1
+games		1
+start		1
+year		1
+see		1
+tix		1
+requested	1
+checking	1
+sunday		1

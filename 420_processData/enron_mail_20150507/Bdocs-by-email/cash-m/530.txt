@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+mcash		2
+cn		2
+michelle	2
+certain		1
+cash		1
+pstvaleria	1
+recipients	1
+filename	1
+na		1
+privileged	1
+gone		1
+long		1
+execute		1
+non		1
+agree		1
+enron		1
+ou		1
+need		1
+note		1
+date		1

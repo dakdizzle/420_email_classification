@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+morning		1
+first		1
+thing		1
+bryan		1
+well		1
+edmund		1
+call		1
+ll		1

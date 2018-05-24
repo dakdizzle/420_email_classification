@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+copy		1
+up		1
+pick		1
+provide		1
+copies		1
+licenses	1
+referring	1
+thanks		1
+call		1
+clean		1
+come		1
+please		1
+need		1
+angela		1
+give		1

@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+portal		3
+up		1
+well		1
+focussed	1
+attached	1
+palmer		1
+late		1
+system		1
+pull		1
+opinion		1
+m		1
+leaders		1
+applicable	1
+book		1
+comemrcial	1
+night		1
+forward		1
+address		1
+reason		1
+thoughts	1
+doesn		1

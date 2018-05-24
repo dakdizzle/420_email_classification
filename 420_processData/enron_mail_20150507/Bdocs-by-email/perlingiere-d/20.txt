@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+cn		2
+dperlin		2
+amendment	2
+email		1
+avista		1
+contact		1
+response	1
+pstin		1
+recipients	1
+filename	1
+na		1
+privileged	1
+regarding	1
+mitchell	1
+non		1
+enron		1
+received	1
+please		1
+forward		1
+ou		1
+perlingiere	1
+date		1
+here		1
+debra		1

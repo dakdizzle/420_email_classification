@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+scott		1
+body		1
+membership	1
+need		1
+shop		1
+neal		1
+help		1
+thanks		1
+cancel		1

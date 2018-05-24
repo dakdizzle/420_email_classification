@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+hope		1
+go		1
+fall		1
+give		1

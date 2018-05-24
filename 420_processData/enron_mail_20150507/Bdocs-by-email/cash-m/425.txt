@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+make		1
+hope		1
+michelle	1
+perfect		1

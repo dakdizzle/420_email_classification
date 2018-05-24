@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+lead		1
+issues		1
+please		1
+working		1
+jean		1
+mike		1
+smith		1
+don		1
+clarify		1
+take		1
+thanks		1

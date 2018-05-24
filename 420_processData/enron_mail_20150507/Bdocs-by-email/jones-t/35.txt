@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+griff		1
+done		1
+enron		1
+mary		1
+recipients	1
+ou		1
+na		1
+gray		1
+mgray		1

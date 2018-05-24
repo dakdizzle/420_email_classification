@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+chris		1
+needs		1

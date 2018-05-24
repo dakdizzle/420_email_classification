@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+leaving		1
+up		1
+catch		1
+thanksgiving	1
+sorry		1
+kate		1
+great		1
+hope		1
+numbers		1
+coop		1
+wait		1
+hi		1
+love		1

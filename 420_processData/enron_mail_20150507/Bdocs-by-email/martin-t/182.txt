@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+resolved	1
+discuss		1
+funny		1
+thank		1
+know		1
+wednesday	1
+friday		1
+closed		1
+phone		1
+answer		1
+tom		1
+getting		1
+talked		1
+market		1
+aware		1
+matter		1
+back		1
+quickly		1
+impact		1
+bigger		1
+issue		1
+rest		1
+needs		1

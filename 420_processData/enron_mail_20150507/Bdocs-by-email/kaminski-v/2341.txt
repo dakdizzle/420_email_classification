@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+cn		2
+eric		2
+vince		1
+scott		1
+enron		1
+escott		1
+recipients	1
+ou		1
+na		1
+thanks		1

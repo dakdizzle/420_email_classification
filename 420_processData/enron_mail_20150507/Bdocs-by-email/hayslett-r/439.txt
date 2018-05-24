@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+rhaysle		2
+cn		2
+those		1
+begin		1
+perspective	1
+stan		1
+recipients	1
+hayslett	1
+filename	1
+na		1
+decided		1
+privileged	1
+something	1
+forwarded	1
+people		1
+psti		1
+non		1
+agree		1
+enron		1
+ou		1
+rod		1
+think		1

@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+points		3
+delivery	2
+potential	1
+california	1
+eoc		1
+aslo		1
+rate		1
+receipts	1
+interruptible	1
+back		1
+want		1
+haul		1
+add		1

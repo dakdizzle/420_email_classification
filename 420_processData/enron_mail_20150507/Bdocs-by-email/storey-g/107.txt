@@ -1,0 +1,27 @@
+NumWords	62
+NumTerms	24
+
+nx		6
+paribas		4
+bank		4
+enron		4
+one		4
+sells		4
+bnp		4
+jan		3
+month		3
+contracts	3
+dec		3
+apr		3
+oct		3
+brooke		2
+dora		2
+buys		2
+confirm		1
+call		1
+storey		1
+trades		1
+geof		1
+give		1
+proposing	1
+here		1

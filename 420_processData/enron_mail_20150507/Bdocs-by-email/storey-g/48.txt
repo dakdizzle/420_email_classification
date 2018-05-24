@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+meeting		2
+dont		1
+regarding	1
+version		1
+time		1
+know		1
+myself		1
+want		1
+person		1
+geof		1
+need		1

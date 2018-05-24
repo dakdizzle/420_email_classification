@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+paul		1
+specific	1
+format		1
+use		1
+audrey		1

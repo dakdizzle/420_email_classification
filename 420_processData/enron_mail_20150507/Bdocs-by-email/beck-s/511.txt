@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+fully		1
+family		1
+hello		1
+time		1
+vacation	1
+thanks		1
+great		1
+enjoy		1
+sally		1
+relax		1
+prepared	1
+yes		1
+jo		1

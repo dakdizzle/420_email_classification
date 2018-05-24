@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+deal		2
+party		1
+done		1
+paul		1
+counter		1
+services	1
+change		1
+ticket		1
+field		1
+reflect		1
+thanks		1

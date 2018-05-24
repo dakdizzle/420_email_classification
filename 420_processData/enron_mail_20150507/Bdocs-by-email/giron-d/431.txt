@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+taking		1
+up		1
+trouble		1
+baby		1
+offer		1
+talked		1
+abour		1
+way		1
+kristi		1
+staying		1
+thought		1
+pissed		1
+dg		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+those		1
+many		1
+feeling		1
+sensitive	1
+ahhh		1
+know		1
+although	1
+woman		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+changed		1
+pricing		1
+lee		1
+mentioned	1
+ask		1
+ow		1
+below		1
+deal		1
+looks		1
+gary		1

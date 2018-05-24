@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+much		1
+lead		1
+nice		1
+girl		1
+know		1
+don		1
+paige		1
+think		1

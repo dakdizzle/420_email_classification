@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+cn		2
+clint		2
+hear		1
+cfreelan	1
+page		1
+know		1
+parties		1
+now		1
+russ		1
+recipients	1
+terms		1
+same		1
+na		1
+both		1
+point		1
+freeland	1
+enron		1
+sara		1
+ou		1
+agreement	1
+art		1
+commercial	1
+needs		1

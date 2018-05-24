@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+concern		1
+fallon		1
+rick		1
+understand	1
+going		1
+someone		1
+ted		1
+talked		1

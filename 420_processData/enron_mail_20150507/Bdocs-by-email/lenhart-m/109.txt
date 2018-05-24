@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+thought		2
+both		1
+morning		1
+comeback	1
+up		1
+witty		1
+woke		1
+going		1
+next		1

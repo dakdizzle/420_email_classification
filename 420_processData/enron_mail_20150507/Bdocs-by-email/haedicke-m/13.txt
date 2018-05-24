@@ -1,0 +1,13 @@
+NumWords	12
+NumTerms	10
+
+jim		2
+talked		2
+mark		1
+strategy	1
+revised		1
+louise		1
+worked		1
+call		1
+yesterday	1
+through		1

@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+hardwoods	2
+consumption	2
+know		1
+risi		1
+karen		1
+number		1
+down		1
+bek		1
+european	1
+need		1
+break		1
+monika		1
+hardwood	1

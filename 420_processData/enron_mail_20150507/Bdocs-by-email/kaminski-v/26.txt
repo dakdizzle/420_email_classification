@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+aol		1
+vince		1
+comgood		1
+isvkaminski	1
+personal	1
+jason		1
+mail		1
+luck		1
+address		1

@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+starting	1
+hanks		1
+somewhat	1
+end		1
+know		1
+price		1
+guess		1
+luca		1
+tom		1
+kaufman		1
+ve		1
+meg		1
+m		1
+feel		1
+makes		1
+goes		1
+mail		1
+fact		1
+ryan		1
+encouraging	1

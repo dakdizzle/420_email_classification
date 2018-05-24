@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+version		1
+make		1
+team		1
+david		1
+leaders		1
+please		1
+sure		1
+smaller		1

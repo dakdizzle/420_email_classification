@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+capacity	1
+utilized	1
+value		1
+please		1
+change		1
+chris		1
+mat		1
+effective	1
+drn		1
+thanks		1
+date		1
+pipeline	1

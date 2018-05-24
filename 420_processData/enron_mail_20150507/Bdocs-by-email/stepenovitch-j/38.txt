@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ft		1
+time		1
+up		1
+try		1
+advice		1
+lauderdale	1
+going		1
+meet		1
+set		1
+week		1

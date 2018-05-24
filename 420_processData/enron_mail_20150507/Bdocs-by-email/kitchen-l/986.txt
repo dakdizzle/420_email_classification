@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+lkitchen	2
+cn		2
+budget		1
+free		1
+kitchen		1
+meetings	1
+stuck		1
+louise		1
+psthow		1
+recipients	1
+filename	1
+na		1
+responding	1
+privileged	1
+gone		1
+good		1
+entire		1
+non		1
+enron		1
+suffice		1
+ou		1
+week		1
+lunch		1

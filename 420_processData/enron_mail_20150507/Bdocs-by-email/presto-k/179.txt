@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+stacey		2
+taking		1
+lavo		1
+please		1
+louise		1
+approval	1
+comfortable	1
+proceed		1
+prudency	1
+thanks		1

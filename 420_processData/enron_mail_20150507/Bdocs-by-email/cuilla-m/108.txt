@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+energy		1
+between		1
+rebooked	1
+make		1
+directly	1
+ena		1
+trade		1
+confirmed	1
+gets		1
+please		1
+direct		1
+stephanie	1
+sure		1

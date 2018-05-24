@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+nice		1
+rick		1
+update		1
+taxes		1
+bonds		1
+taxpayer	1
+raise		1
+unless		1
+tx		1
+costs		1
+cover		1
+muni		1

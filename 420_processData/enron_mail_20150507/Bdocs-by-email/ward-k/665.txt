@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+fun		1
+hey		1
+invite		1
+jeanie		1
+treaters	1
+keep		1
+left		1
+piece		1
+thanks		1
+posted		1
+each		1
+kimmie		1
+trick		1
+right		1
+please		1
+one		1
+night		1
+candy		1
+last		1
+amount		1
+over		1

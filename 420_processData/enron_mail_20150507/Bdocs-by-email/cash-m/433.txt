@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+employees	1
+solicit		1
+team		1
+talk		1
+wouldn		1
+want		1
+meet		1

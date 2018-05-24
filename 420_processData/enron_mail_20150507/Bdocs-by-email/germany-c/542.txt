@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+info		1
+m		1
+id		1
+escript		1
+please		1
+looking		1
+dominion	1
+password	1
+next		1
+thanks		1

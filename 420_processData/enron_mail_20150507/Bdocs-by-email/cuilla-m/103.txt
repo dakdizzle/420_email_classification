@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ene		1
+short		1
+hurts		1
+mad		1
+didn		1

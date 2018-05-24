@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+look		2
+producers	1
+weekly		1
+strategy	1
+customers	1
+one		1
+see		1
+product		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+long		1
+great		1
+done		1
+waited		1
+hurry		1
+big		1

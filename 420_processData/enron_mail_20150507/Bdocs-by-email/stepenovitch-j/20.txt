@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+nothing		1
+wack		1
+im		1

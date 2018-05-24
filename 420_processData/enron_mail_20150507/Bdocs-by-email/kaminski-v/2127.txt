@@ -1,0 +1,18 @@
+NumWords	18
+NumTerms	15
+
+vkamins		2
+vince		2
+cn		2
+california	1
+pstzimin	1
+recipients	1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+shall		1
+ou		1
+thu		1
+kaminski	1

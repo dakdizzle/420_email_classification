@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+john		1
+wes		1
+notes		1
+thanks		1
+add		1

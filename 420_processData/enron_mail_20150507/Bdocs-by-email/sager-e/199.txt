@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+please		1
+eas		1
+process		1
+okay		1

@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+watch		2
+defined		1
+everything	1
+term		1
+mean		1
+system		1
+noted		1
+long		1
+investments	1
+rick		1
+performing	1
+remain		1
+don		1
+doesn		1

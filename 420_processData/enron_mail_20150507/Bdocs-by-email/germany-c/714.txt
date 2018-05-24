@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+soon		1
+m		1
+fyi		1
+system		1
+sure		1

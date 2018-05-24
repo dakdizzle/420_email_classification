@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+ken		2
+works		2
+place		1
+guy		1
+telephone	1
+logsdon		1
+bottom		1
+listed		1
+sandra		1
+number		1
+here		1

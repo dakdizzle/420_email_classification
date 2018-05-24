@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+see		2
+monday		1
+group		1
+send		1
+marketers	1
+customers	1
+sorry		1
+looks		1
+getting		1
+out		1
+morning		1
+anyway		1
+point		1
+click		1
+being		1
+sort		1
+masters		1
+approval	1
+eol		1
+read		1
+doing		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+anything	1
+kim		1
+monica		1
+know		1
+questions	1
+attached	1
+want		1
+price		1
+asked		1
+indications	1
+thanks		1

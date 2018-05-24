@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+oops		1
+ksward		1

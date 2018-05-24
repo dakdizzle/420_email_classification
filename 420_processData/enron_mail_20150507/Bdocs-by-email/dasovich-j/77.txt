@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+apologies	1
+appear		1
+actually	1

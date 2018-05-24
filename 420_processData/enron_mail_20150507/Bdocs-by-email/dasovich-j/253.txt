@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+dasovich	2
+jx		1
+content		1
+non		1
+encoding	1
+jeff		1
+origin		1
+bitx		1
+filename	1
+transfer	1
+pst		1
+privileged	1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+stuff		1
+kim		1
+make		1
+priority	1
+today		1
+high		1
+print		1

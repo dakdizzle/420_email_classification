@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+rebecca		1
+present		1
+orlando		1
+thursday	1
+meet		1
+see		1
+mcdonald	1
+joe		1

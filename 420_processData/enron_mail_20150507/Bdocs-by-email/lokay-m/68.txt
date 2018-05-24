@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+mlokay		2
+cn		2
+pstthis		1
+looking		1
+recipients	1
+transfer	1
+filename	1
+na		1
+wire		1
+privileged	1
+non		1
+enron		1
+ou		1
+michelle	1
+lokay		1
+last		1
+week		1

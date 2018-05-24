@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+m		1
+under		1
+recommend	1
+sitara		1
+know		1
+volumes		1
+expected	1
+zeroing		1
+deal		1
+gong		1

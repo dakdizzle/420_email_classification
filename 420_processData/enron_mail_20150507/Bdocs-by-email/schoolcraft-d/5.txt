@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+know		2
+those		1
+send		1
+thing		1
+assumed		1
+power		1
+schedules	1
+daily		1
+plant		1
+lamar		1
+same		1
+ds		1
+calpine		1
+griffith	1
+fact		1
+don		1
+samefor		1

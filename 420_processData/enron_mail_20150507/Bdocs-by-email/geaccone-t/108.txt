@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+reserve		1
+million		1
+books		1

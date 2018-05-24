@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+lynn		1
+realize		1
+time		1
+visit		1
+formaggio	1
+left		1
+thanks		1
+cover		1
+teb		1
+minute		1
+agenda		1
+message		1
+work		1
+mr		1
+last		1
+rob		1
+think		1

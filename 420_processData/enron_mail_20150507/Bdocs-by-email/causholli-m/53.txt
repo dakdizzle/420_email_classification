@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+enron		1
+one		1
+flemming	1
+rhonda		1
+monika		1
+lawyers		1
+think		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+reminds		1
+tlc		1
+days		1
+old		1

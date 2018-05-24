@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+futures		1
+enron		1
+regard		1
+lobbying	1
+enrononline	1
+year		1
+last		1
+act		1
+commodity	1
+modernization	1

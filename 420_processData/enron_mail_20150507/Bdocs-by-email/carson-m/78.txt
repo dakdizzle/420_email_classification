@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+dinner		1
+attire		1
+rehearsal	1

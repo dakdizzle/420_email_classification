@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+reuters		2
+bloomberg	2
+heard		1
+up		1
+came		1
+lady		1
+asked		1
+getting		1
+giving		1
+sensitive	1
+monitor		1
+nothing		1
+one		1
+before		1
+question	1
+away		1
+took		1

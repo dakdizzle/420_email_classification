@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+option		1
+physical	1
+kelli		1
+indication	1
+know		1
+attached	1
+price		1
+money		1
+thanks		1
+kim		1
+put		1
+pnm		1
+please		1
+questions	1
+year		1
+request		1
+next		1

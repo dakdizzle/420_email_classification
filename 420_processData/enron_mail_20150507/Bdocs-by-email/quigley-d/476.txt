@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+themfrom	1
+info		1
+per		1
+ng		1
+gave		1
+statement	1
+see		1
+number		1
+dutch		1
+gerri		1
+possible	1
+edf		1
+margin		1
+frank		1

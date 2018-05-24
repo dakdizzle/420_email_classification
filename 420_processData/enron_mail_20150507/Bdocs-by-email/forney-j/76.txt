@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+ken		2
+staffing	1
+parker		1
+up		1
+jerry		1
+steve		1
+frontera	1
+below		1
+indicated	1
+jmf		1
+new		1
+talked		1

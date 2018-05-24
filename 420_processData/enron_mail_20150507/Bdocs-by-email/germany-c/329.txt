@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+highly		1
+pediatrician	1
+recommends	1
+pediatricsdr	1
+guy		1
+uses		1
+stephen		1
+bolline		1
+himhouston	1
+robin		1

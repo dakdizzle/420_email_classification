@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+pro		1
+weather		1
+fyi		1
+outside		1
+gorgeous	1
+scoop		1
+golf		1
+tonight		1

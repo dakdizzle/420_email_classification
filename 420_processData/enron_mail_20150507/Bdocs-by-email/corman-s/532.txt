@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+badge		2
+full		1
+day		1
+activate	1
+mean		1
+security	1
+rita		1
+enron		1
+go		1
+preference	1
+old		1
+need		1
+week		1
+temporary	1
+give		1
+through		1

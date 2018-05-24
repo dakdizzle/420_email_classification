@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+remove		1
+people		1
+bit		1
+owe		1
+feeling		1
+know		1
+sometimes	1
+think		1
+big		1
+here		1

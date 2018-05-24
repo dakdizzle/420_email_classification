@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+sbrawne		2
+cn		2
+enron		2
+one		2
+status		1
+pstyes		1
+revised		1
+returned	1
+recipients	1
+sandra		1
+filename	1
+na		1
+privileged	1
+non		1
+brawner		1
+received	1
+signed		1
+verified	1
+assistant	1
+ou		1
+last		1
+curious		1
+week		1
+original	1

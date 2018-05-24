@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+millino		1
+help		1
+thanks		1

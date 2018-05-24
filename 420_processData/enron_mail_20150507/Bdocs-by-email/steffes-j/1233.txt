@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+end		1
+until		1
+won		1
+ready		1
+filename	1
+transfer	1
+privileged	1
+jim		1
+steffes		1
+jx		1
+content		1
+non		1
+encoding	1
+pstnot		1
+jsteffe		1
+origin		1
+year		1
+probably	1
+bitx		1
+sure		1

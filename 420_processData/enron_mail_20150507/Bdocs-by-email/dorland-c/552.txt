@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+little		1
+hammock		1
+those		1
+place		1
+suggestions	1
+hopefully	1
+keep		1
+chris		1
+file		1
+help		1
+type		1
+thanxi		1
+cool		1
+relax		1
+sharper		1
+pretty		1
+image		1
+ll		1

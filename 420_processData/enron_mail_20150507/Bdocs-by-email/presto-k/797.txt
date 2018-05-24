@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+kevin		2
+kim		2
+approx		1
+presto		1
+make		1
+lavo		1
+analyst		1
+louise		1
+submitted	1
+filename	1
+candidates	1
+wish		1
+privileged	1
+associate	1
+list		1
+psti		1
+non		1
+please		1
+prestox		1
+ago		1
+melodick	1
+sure		1
+week		1
+request		1

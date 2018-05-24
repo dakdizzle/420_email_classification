@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+somebody	1
+hope		1
+draws		1
+name		1

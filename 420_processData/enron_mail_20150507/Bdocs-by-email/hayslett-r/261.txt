@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+rhaysle		2
+cn		2
+budget		1
+ok		1
+recipients	1
+hayslett	1
+filename	1
+na		1
+privileged	1
+long		1
+psti		1
+non		1
+enron		1
+dollars		1
+available	1
+ou		1
+rod		1

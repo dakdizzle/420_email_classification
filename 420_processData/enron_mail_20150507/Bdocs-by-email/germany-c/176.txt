@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+selling		1
+friday		1
+gas		1
+things		1
+th		1
+see		1
+thanks		1
+possible	1
+back		1
+start		1
+sat		1
+again		1
+going		1
+imbalance	1
+normal		1
+checking	1

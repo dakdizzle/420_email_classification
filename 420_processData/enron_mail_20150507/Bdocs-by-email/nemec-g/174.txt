@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+commission	2
+early		1
+issued		1
+staff		1
+recommendation	1
+hearing		1
+makes		1
+nov		1
+late		1
+decision	1
+oct		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+info		1
+stuff		1
+listen		1
+make		1
+needed		1
+probably	1
+sure		1
+don		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+dinner		1
+hey		1
+everything	1
+man		1
+jeff		1
+best		1
+squared		1
+go		1
+legislator	1
+away		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+couldn		1
+look		1
+find		1

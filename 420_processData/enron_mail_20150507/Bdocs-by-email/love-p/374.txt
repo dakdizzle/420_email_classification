@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+lynn		1
+admins		1
+chicago		1
+pl		1
+company		1
+sending		1
+name		1
+fyi		1
+radous		1
+continue	1
+longer		1
+kevin		1
+thanks		1
+robin		1
+rodrigue	1
+emw		1
+pikofsky	1
+office		1
+please		1
+book		1
+change		1

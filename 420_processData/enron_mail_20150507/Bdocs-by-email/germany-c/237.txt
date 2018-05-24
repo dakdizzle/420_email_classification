@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+home		1
+email		1
+two		1
+hey		1
+mobile		1
+changes		1
+pretty		1
+number		1
+thanks		1

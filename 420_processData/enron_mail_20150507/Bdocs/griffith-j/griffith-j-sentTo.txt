@@ -1,0 +1,27 @@
+NumWords	39
+NumTerms	24
+
+ampaez@earthlink.net	7
+frank.coles@enron.com	3
+paige.cox@enron.com	2
+eric.boyt@enron.com	2
+john.arnold@enron.com	2
+michelle.nelson@enron.com	2
+avillarreal73@yahoo.com	2
+andy.zipper@enron.com	2
+greg.couch@enron.com	2
+robyn.zivic@enron.com	1
+reggie.wilson@enron.com	1
+7133540022@skytel.com	1
+amanda.rybarski@enron.com	1
+sanjeev.khanna@enron.com	1
+errol.mclaughlin@enron.com	1
+peter.pearson@enron.com	1
+robert.fuller@enron.com	1
+security.ubsw@enron.com	1
+jared.kaiser@enron.com	1
+mattias.palm@paconsulting.com	1
+steven.l.allen@jpmorgan.com	1
+jim.meyn@enron.com	1
+antonio.vergara@enron.com	1
+dust20@lycos.com	1

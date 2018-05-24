@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+vince		1
+expense		1
+report		1
+late		1
+shalesh		1
+file		1

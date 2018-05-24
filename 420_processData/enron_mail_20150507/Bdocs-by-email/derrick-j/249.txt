@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+type		1
+assume		1
+attach		1
+agree		1
+language	1
+rogers		1
+transmit	1
+attachment	1
+dean		1
+transmittal	1

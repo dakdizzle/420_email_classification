@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+meeting		1
+make		1
+jeff		1
+please		1
+duran		1
+keenan		1
+calender	1
+ensure		1
+sure		1
+dave		1
+thanks		1
+aware		1

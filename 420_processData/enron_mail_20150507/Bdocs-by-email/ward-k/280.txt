@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+kim		1
+please		1
+few		1
+spreadsheet	1
+changes		1
+one		1
+made		1
+darla		1
+discard		1
+thanks		1

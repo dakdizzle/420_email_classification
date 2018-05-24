@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+changed		2
+flash		1
+errors		1
+pricing		1
+around		1
+during		1
+agree		1
+sitara		1
+contract	1
+tess		1

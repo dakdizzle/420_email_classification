@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+blackberry	2
+little		1
+pipes		1
+sent		1
+value		1
+morris		1
+net		1
+agree		1
+wireless	1
+handheld	1
+www		1

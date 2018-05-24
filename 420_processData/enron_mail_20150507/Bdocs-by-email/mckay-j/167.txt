@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+numbers		2
+th		2
+good		1
+days		1
+jon		1
+report		1
+far		1
+watch		1
+looked		1
+closely		1
+couple		1
+thanks		1

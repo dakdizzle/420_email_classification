@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lane		1
+rick		1
+please		1
+find		1
+phone		1
+bob		1
+number		1

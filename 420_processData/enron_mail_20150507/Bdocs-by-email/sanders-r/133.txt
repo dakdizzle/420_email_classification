@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+talk		2
+well		1
+shelia		1
+dave		1
+reports		1
+think		1

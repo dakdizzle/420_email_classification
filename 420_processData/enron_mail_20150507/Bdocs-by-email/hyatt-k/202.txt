@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+ppl		2
+question	2
+strategy	1
+someone		1
+filename	1
+transfer	1
+thankskh	1
+red		1
+privileged	1
+forwarded	1
+content		1
+khyatt		1
+kx		1
+aquila		1
+non		1
+encoding	1
+back		1
+pstthe		1
+origin		1
+below		1
+bitx		1
+tw		1
+hyatt		1

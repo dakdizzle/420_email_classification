@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+duties		1
+goals		1
+looking		1
+bill		1
+accomplishments	1
+work		1
+more		1
+though		1
+appreciate	1
+outline		1
+quick		1
+thanks		1

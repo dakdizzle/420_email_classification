@@ -1,0 +1,27 @@
+NumWords	43
+NumTerms	24
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+jacoby		1
+time		1
+tweed		1
+zisman		1
+tapscott	1
+december	1
+stweed		1
+stuart		1
+determined	1
+bjacoby		1
+canada		1
+central		1
+szisman		1
+ron		1
+gmt		1
+rtapsco		1
+ben		1
+thursday	1
+sheila		1

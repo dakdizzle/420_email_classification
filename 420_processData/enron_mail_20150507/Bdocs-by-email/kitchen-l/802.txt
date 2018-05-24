@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+mean		1
+see		1

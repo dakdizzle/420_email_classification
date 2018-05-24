@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+up		1
+go		1
+ahead		1
+fine		1
+set		1

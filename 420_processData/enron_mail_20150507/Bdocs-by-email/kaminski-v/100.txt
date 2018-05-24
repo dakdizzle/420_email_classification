@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+ask		2
+vince		2
+fully		1
+letter		1
+leave		1
+thanks		1
+out		1
+jim		1
+fallon		1
+specific	1
+enron		1
+agree		1
+please		1
+want		1
+more		1
+complications	1
+don		1
+kaminski	1
+thu		1
+berneyi		1

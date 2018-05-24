@@ -1,0 +1,27 @@
+NumWords	29
+NumTerms	24
+
+hornbeck	3
+haas		2
+berkeley	2
+chris		2
+those		1
+tamborni	1
+sp		1
+joseph		1
+edui		1
+time		1
+stick		1
+edu		1
+gap		1
+salvaging	1
+three		1
+jeff		1
+best		1
+effort		1
+recommend	1
+originally	1
+one		1
+chance		1
+select		1
+com		1

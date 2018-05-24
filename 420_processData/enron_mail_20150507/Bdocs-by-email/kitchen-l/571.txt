@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+really		1
+sent		1
+good		1
+wireless	1
+handheld	1
+paid		1
+finally		1
+blackberry	1
+year		1
+hoping		1

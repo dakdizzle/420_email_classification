@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jerry		1
+please		1
+mw		1
+attached	1
+eric		1
+trader		1
+sell		1
+jmf		1
+see		1

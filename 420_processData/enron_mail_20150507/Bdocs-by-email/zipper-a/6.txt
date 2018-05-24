@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+picture		1
+device		1
+embedded	1
+bitmap		1
+independent	1

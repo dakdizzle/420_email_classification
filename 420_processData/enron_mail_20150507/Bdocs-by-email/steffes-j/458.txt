@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+room		1
+linda		1
+visit		1
+malloy		1
+pls		1
+ken		1
+arrange		1
+nov		1
+thanks		1

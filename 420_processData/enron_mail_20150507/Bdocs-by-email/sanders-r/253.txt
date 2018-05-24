@@ -1,0 +1,12 @@
+NumWords	15
+NumTerms	9
+
+enron		3
+quinnemanuel	2
+quinn		2
+john		2
+com		2
+cjbq		1
+jbq		1
+ecom		1
+imceanotes	1

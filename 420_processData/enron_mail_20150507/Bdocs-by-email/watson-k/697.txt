@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+make		1
+choice		1
+time		1
+keep		1
+wed		1
+marketing	1
+thanks		1
+kim		1
+mansoor		1
+preference	1
+michelle	1
+work		1
+probably	1
+prefer		1
+given		1
+small		1

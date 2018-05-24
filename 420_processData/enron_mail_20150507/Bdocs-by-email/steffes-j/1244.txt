@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+cn		2
+howard		2
+fromer		1
+nyiso		1
+prices		1
+tariff		1
+desk		1
+recipients	1
+restatement	1
+na		1
+jim		1
+hfromer		1
+shouldn		1
+enron		1
+ou		1
+maybe		1
+cost		1
+doing		1
+happen		1
+allow		1
+mistake		1

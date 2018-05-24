@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+marie		2
+heard		1
+fax		1
+vickers		1
+legal		1
+phone		1
+netting		1
+form		1
+america		1
+master		1
+attaching	1
+specialistenron	1
+enron		1
+pursuant	1
+north		1
+corp		1
+heardsenior	1
+agreement	1
+request		1
+com		1
+frank		1

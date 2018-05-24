@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+president	1
+care		1
+mark		1
+counselenron	1
+title		1
+services	1
+taylorvice	1
+wholesale	1
+general		1
+provisions	1

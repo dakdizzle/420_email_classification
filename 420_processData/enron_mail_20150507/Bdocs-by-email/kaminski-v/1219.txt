@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+always		2
+something	1
+vince		1
+articles	1
+everything	1
+learning	1
+john		1
+enjoy		1
+quite		1
+busy		1
+fine		1
+readingyour	1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+taking		1
+great		1
+thank		1
+muck		1
+see		1
+wait		1
+looks		1
+rest		1

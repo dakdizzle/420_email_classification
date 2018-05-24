@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+role		2
+new		2
+board		1
+coming		1
+recent		1
+job		1
+relations	1
+up		1
+communicating	1
+know		1
+now		1
+budgets		1
+investor	1
+head		1
+great		1
+experience	1
+enron		1
+air		1
+best		1
+sally		1
+congratulations	1
+buried		1
+luck		1

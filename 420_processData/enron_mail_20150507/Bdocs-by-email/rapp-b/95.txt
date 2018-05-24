@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+pstattached	1
+rapp		1
+final		1
+bx		1
+cpuc		1
+submitted	1
+filename	1
+transfer	1
+privileged	1
+content		1
+version		1
+non		1
+encoding	1
+brapp		1
+transwestern	1
+origin		1
+advice		1
+bitx		1
+comments	1

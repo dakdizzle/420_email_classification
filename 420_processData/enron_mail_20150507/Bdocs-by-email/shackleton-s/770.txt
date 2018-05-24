@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+eb		1
+fax		1
+free		1
+time		1
+ph		1
+safe		1
+contact		1
+street		1
+wholesale	1
+holiday		1
+cell		1
+services	1
+shackletonenron	1
+feel		1
+sara		1
+ahouston	1
+tx		1
+smith		1

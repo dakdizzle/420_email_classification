@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+others		1
+feel		1
+course		1
+more		1
+though		1
+bad		1
+times		1
+don		1
+confused	1

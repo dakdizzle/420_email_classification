@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ve		1
+tracy		1
+initialled	1
+received	1
+allegheny	1
+isda		1
+signature	1
+pages		1
+never		1
+hi		1

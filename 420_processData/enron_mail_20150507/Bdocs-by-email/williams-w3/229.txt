@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+internet	1
+everything	1
+up		1
+course		1
+relatively	1
+exist		1
+actually	1
+forwarded	1
+people		1
+none		1
+irrelavent	1
+enjoy		1
+made		1
+thought		1

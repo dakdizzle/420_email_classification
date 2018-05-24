@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+discuss		1
+put		1
+agenda		1
+meeting		1
+pm		1
+please		1
+today		1
+thanks		1

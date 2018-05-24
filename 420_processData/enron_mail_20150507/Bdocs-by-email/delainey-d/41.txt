@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+right		1
+regardsdave	1
+things		1
+doing		1
+judy		1
+important	1
+thanks		1

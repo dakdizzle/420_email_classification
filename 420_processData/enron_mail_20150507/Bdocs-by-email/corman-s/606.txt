@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+frame		1
+latest		1
+moving		1
+everything	1
+travel		1
+time		1
+bev		1
+hope		1
+quickly		1
+ahead		1
+shelley		1
+checking	1
+hi		1

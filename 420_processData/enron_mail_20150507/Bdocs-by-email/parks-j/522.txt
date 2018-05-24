@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+rule		1
+one		1
+weekend		1
+nonths		1
+wife		1
+months		1
+see		1

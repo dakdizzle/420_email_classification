@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+employees	1
+buy		1
+guess		1
+paying		1
+pc		1
+still		1
+ees		1
+spouses		1

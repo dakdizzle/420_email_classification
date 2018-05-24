@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+coming		1
+package		1
+ops		1

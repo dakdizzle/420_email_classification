@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+aosire		1
+sent		1
+enron		1
+osire		1
+amendments	1
+pg		1
+recipients	1
+ou		1
+already		1
+na		1
+ann		1

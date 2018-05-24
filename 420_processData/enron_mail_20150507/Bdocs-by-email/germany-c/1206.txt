@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+make		1
+believe		1
+janice		1
+felton		1
+sure		1
+thanks		1

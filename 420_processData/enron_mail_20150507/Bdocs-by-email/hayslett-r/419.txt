@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+rhaysle		2
+cn		2
+enron		2
+make		1
+dividend	1
+know		1
+pstcan		1
+recipients	1
+money		1
+hayslett	1
+filename	1
+na		1
+help		1
+special		1
+privileged	1
+out		1
+non		1
+believe		1
+filed		1
+ou		1
+rod		1
+loan		1
+here		1

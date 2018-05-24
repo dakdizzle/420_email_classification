@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+shtml		1
+enron		1
+satirewire	1
+http		1
+www		1
+news		1
+com		1

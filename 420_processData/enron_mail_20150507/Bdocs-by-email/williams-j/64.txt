@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+enough		1
+guys		1
+game		1
+tonight		1

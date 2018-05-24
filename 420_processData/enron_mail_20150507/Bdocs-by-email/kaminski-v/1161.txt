@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+vince		1
+send		1
+remi		1
+action		1
+shall		1
+today		1
+fyi		1
+itemslater	1
+summary		1

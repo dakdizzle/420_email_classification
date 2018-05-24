@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+group		1
+room		1
+know		1
+find		1
+trying		1
+yes		1
+tammie		1
+still		1
+laura		1
+frank		1

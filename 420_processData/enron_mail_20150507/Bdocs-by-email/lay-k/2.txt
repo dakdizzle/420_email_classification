@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+fully		1
+travel		1
+ken		1
+secruity	1
+see		1
+better		1
+out		1
+sent		1
+agree		1
+update		1
+unfortunately	1
+understand	1
+before		1
+mail		1
+comments	1
+hasan		1

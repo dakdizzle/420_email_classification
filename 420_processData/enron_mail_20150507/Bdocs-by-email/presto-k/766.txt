@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+kevin		2
+presto		1
+lavo		1
+risk		1
+pstkim		1
+management	1
+same		1
+filename	1
+take		1
+privileged	1
+retail		1
+list		1
+non		1
+prestox		1
+provided	1
+another		1
+already		1
+add		1

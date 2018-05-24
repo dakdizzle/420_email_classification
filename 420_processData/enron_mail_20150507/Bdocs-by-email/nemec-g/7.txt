@@ -1,0 +1,23 @@
+NumWords	28
+NumTerms	20
+
+enron		3
+com		3
+privileged	2
+gnemec		2
+non		2
+dickson		2
+taking		1
+julia		1
+filename	1
+folder		1
+gx		1
+carol		1
+sent		1
+nemec		1
+pststacy	1
+one		1
+origin		1
+itemsx		1
+murray		1
+st		1

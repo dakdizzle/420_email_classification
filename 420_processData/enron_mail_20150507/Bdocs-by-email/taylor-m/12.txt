@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+mtaylo		2
+cn		2
+mark		1
+cheryl		1
+sayre		1
+vacation	1
+working		1
+legal		1
+recipients	1
+pstfrank	1
+filename	1
+na		1
+privileged	1
+matter		1
+non		1
+enron		1
+ou		1
+taylor		1

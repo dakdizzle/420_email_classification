@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+meeting		1
+planned		1
+shoot		1
+wed		1
+due		1
+tuesday		1
+lunch		1

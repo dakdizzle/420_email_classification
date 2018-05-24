@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+pm		1
+plan		1
+know		1
+anytime		1
+fine		1
+tentatively	1
+chance		1
+mat		1
+ll		1

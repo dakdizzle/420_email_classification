@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jon		1
+jan		1
+offered		1
+mmbturegards	1
+feb		1

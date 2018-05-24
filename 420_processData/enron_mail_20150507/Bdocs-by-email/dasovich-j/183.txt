@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+mark		1
+much		1
+jeff		1
+best		1
+please		1
+thank		1
+very		1
+thanks		1

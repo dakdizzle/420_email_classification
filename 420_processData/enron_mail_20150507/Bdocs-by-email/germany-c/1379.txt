@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+tp		1
+grant		1
+please		1
+following	1
+origination	1
+robin		1

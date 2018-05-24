@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+night		1
+sat		1
+hit		1
+sucks		1

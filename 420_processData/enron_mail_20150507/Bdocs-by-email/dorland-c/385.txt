@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+interior	1
+silver		1
+black		1

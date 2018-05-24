@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+monitor		2
+sets		2
+order		1
+kim		1
+arms		1
+guy		1
+dalton		1
+according	1
+need		1
+judy		1
+needs		1

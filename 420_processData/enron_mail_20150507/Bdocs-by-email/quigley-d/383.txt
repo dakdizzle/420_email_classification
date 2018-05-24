@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+time		2
+day		1
+up		1
+talk		1
+know		1
+vacation	1
+later		1
+dutch		1
+call		1
+thanks		1
+good		1
+best		1
+lets		1
+set		1

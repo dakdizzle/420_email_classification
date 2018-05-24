@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+po		1
+receipt		1
+louis		1
+keithps		1
+confirm		1
+mac		1
+message		1
+irs		1
+please		1
+box		1
+estimated	1
+payments	1
+address		1
+mo		1
+st		1

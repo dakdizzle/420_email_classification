@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+plus		1
+make		1
+minutes		1
+minus		1

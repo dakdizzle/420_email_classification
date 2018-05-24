@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+david		1
+few		1
+faxing		1
+minutes		1

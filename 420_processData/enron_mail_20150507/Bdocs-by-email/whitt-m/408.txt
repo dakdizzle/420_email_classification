@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+right		1
+williams	1
+cig		1
+wic		1

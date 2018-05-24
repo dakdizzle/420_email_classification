@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+merger		1
+happened	1
+rebounded	1
+rumors		1
+dropped		1
+today		1
+see		1

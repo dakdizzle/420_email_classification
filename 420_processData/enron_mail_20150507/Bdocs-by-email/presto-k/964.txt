@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+fixed		1
+mercedes	1
+means		1
+needs		1
+broken		1

@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+sanders		2
+cn		2
+richard		2
+guinn		1
+pstlinda	1
+recipients	1
+filename	1
+na		1
+privileged	1
+rsander		1
+non		1
+enron		1
+ou		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+make		1
+goes		1
+web		1
+sure		1
+site		1

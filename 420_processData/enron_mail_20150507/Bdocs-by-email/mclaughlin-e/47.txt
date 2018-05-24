@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+talk		1
+end		1
+know		1
+absolutely	1
+mean		1
+offline		1
+morning		1
+towards		1
+more		1
+e		1
+read		1
+brutal		1
+ll		1

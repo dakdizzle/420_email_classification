@@ -1,0 +1,23 @@
+NumWords	32
+NumTerms	20
+
+mail		5
+com		5
+fenner		2
+chet		2
+knipe		2
+msn		2
+email		1
+feder		1
+brian		1
+wollam		1
+bmc		1
+brianc		1
+todd		1
+erwollam	1
+constantine	1
+lawfeder	1
+chad		1
+saltgrass	1
+hotmail		1
+erik		1

@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+order		2
+cn		2
+dschool		2
+nngplease	1
+know		1
+darrell		1
+pstcan		1
+recipients	1
+schoolcraft	1
+filename	1
+na		1
+total		1
+thanks		1
+privileged	1
+ds		1
+non		1
+nngflow		1
+enron		1
+delivered	1
+nng		1
+ou		1
+over		1
+explain		1

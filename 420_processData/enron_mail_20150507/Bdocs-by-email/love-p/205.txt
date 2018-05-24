@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+pl		1
+transport	1
+clt		1
+model		1
+alt		1
+values		1
+hit		1
+ref		1

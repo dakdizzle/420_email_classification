@@ -1,0 +1,10 @@
+NumWords	9
+NumTerms	7
+
+year		3
+long		1
+telus		1
+soccerdome	1
+jon		1
+sorry		1
+took		1

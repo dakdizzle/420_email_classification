@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+cn		2
+jsteffe		2
+pstyes		1
+name		1
+recipients	1
+filename	1
+na		1
+privileged	1
+steffes		1
+noske		1
+linda		1
+non		1
+enron		1
+james		1
+ou		1

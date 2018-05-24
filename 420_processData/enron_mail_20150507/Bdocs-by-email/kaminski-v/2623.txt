@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+vkamins		2
+vince		2
+cn		2
+kaminski	2
+up		1
+crenshaw	1
+ask		1
+recipients	1
+pstthallam	1
+filename	1
+na		1
+call		1
+thanks		1
+privileged	1
+message		1
+non		1
+enron		1
+shall		1
+assistant	1
+ou		1
+set		1
+shirley		1

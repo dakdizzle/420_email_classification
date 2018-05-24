@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+sell		2
+space		1
+resubscription	1
+keep		1
+fyi		1
+dcf		1
+incr		1
+total		1
+thru		1

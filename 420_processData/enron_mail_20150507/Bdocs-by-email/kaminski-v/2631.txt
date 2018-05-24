@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+version		1
+sent		1
+files		1
+public		1

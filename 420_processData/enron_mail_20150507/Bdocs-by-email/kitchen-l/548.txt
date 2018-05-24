@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+copy		2
+mark		1
+try		1
+please		1
+apparently	1
+ll		1

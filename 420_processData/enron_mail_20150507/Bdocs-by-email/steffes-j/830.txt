@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+denied		1
+understand	1
+file		1
+access		1
+don		1
+improperly	1
+call		1

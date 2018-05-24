@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+jim		1
+good		1
+list		1
+jeff		1
+need		1
+going		1
+someone		1
+pretty		1
+looks		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+around		1
+meeting		1
+m		1
+ok		1
+sound		1
+meet		1
+suarez		1

@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+mwhitt		2
+th		2
+cn		2
+mark		1
+meeting		1
+recipients	1
+management	1
+meet		1
+filename	1
+na		1
+denver		1
+afternoon	1
+privileged	1
+morning		1
+psti		1
+non		1
+possible	1
+enron		1
+go		1
+ou		1
+whitt		1
+antonio		1
+san		1

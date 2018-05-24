@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+scott		2
+neal		2
+cn		2
+pm		1
+sneal		1
+bid		1
+time		1
+know		1
+recipients	1
+due		1
+june		1
+filename	1
+na		1
+unable		1
+pstcarrie	1
+enron		1
+work		1
+ou		1
+works		1
+week		1
+participate	1

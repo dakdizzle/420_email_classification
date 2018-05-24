@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+out		2
+possibly	1
+time		1
+know		1
+quesitons	1
+confirms	1
+monthly		1
+standing	1
+help		1
+thanks		1
+call		1
+ve		1
+kim		1
+sales		1
+something	1
+ellen		1
+check		1
+back		1
+smurfit		1
+gotten		1
+still		1
+richard		1

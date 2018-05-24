@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+steve		2
+bigalow		1
+candlesticks	1
+compliment	1
+ect		1
+beneficial	1
+parting		1
+hou		1
+article		1
+vince		1
+great		1
+vincesteve	1
+enron		1
+amto		1
+fundamental	1
+ectcc		1
+againhi		1
+subject		1
+trading		1
+kaminski	1

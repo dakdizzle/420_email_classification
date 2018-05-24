@@ -1,0 +1,22 @@
+NumWords	38
+NumTerms	19
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+baumbach	1
+molsen		1
+david		1
+ebass		1
+weldon		1
+tom		1
+bass		1
+michael		1
+olsen		1
+dbaumba		1
+vweldon		1
+charles		1
+eric		1
+thoughts	1

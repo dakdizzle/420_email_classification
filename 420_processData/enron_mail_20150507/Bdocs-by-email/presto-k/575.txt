@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+card		2
+new		2
+category	1
+under		1
+anthony		1
+risk		1
+tim		1
+belden		1
+management	1
+phone		1
+later		1
+richter		1
+herndon		1
+thanks		1
+retail		1
+dayou		1
+jeff		1
+please		1
+rogers		1
+include		1
+date		1

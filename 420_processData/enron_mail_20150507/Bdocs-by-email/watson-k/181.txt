@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+together	1
+invites		1
+ily		1
+weekend		1
+probably	1
+prefer		1
+rest		1

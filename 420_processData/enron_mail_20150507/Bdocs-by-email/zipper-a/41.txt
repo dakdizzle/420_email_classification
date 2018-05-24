@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+new		2
+friend		1
+york		1
+attorney	1
+asked		1
+thanks		1
+preparation	1
+recommendations	1
+recommend	1
+estate		1
+happy		1
+year		1
+andyp		1
+works		1

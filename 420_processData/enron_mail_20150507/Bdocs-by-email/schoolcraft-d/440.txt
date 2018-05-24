@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+cn		2
+dschool		2
+primary		1
+plan		1
+pstis		1
+darrell		1
+recipients	1
+schoolcraft	1
+filename	1
+na		1
+firm		1
+offer		1
+privileged	1
+ds		1
+point		1
+marketings	1
+non		1
+enron		1
+alternate	1
+ou		1

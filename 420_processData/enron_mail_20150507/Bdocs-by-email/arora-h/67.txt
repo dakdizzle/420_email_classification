@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+deals		2
+long		2
+day		1
+quot		1
+term		1
+dated		1
+flying		1
+put		1
+around		1
+gregthere	1
+many		1
+real		1
+rumors		1
+numbers		1
+harry		1
+give		1
+here		1

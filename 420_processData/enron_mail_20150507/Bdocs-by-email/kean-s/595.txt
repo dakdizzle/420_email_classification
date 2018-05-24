@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+care		1
+taking		1
+coming		1
+francis		1
+things		1
+fine		1
+sorry		1
+karen		1
+see		1
+phil		1
+christmas	1
+around		1
+done		1
+gets		1
+two		1
+m		1
+died		1
+mom		1
+ago		1
+norma		1
+told		1
+weeks		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+steffesenron	1
+jim		1
+sent		1
+fax		1
+ltr		1
+cpuc		1
+ll		1
+switching	1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+discuss		1
+pm		1
+power		1
+location	1
+plant		1
+today		1
+meet		1
+out		1
+building	1
+somewhere	1
+issues		1
+lets		1
+south		1
+figure		1

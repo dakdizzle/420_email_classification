@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+denied		1
+right		1
+stacey		1
+know		1
+working		1
+tomorrow	1
+sign		1
+before		1
+later		1
+approved	1
+getting		1

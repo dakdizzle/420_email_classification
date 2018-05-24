@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+others		1
+fax		1
+check		1
+well		1
+oh		1
+pay		1
+hindsight	1

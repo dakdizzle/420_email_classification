@@ -1,0 +1,24 @@
+NumWords	26
+NumTerms	21
+
+pool		3
+party		2
+physical	2
+rd		2
+participants	1
+customer	1
+between		1
+consumers	1
+agnostic	1
+hedges		1
+paid		1
+generators	1
+settlement	1
+hedge		1
+occurs		1
+enron		1
+electricity	1
+pay		1
+financial	1
+e		1
+still		1

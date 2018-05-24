@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+plan		1
+track		1
+under		1
+place		1
+mccarroll	1
+west		1
+desk		1
+zack		1
+review		1
+removed		1
+performance	1
+thanks		1
+two		1
+list		1
+started		1
+please		1
+ago		1
+mike		1
+need		1
+below		1
+weeks		1
+add		1
+trading		1

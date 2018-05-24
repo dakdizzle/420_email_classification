@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+much		1
+stacey		1
+georgeanne	1
+involved	1
+money		1
+schedule	1
+explanation	1
+discussion	1
+talking		1
+typically	1
+need		1
+amount		1
+aa		1

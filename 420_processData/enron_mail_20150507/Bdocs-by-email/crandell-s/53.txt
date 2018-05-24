@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+anything	1
+done		1
+down		1
+know		1
+fran		1
+bogs		1
+d		1
+thanks		1

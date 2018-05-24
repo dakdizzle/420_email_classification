@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+believe		2
+up		1
+person		1
+install		1
+messenger	1
+earlier		1
+irena		1
+tried		1
+thanks		1
+kim		1
+msn		1
+needed		1
+set		1

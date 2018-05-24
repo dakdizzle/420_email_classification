@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+slide		3
+each		1
+value		1
+three		1
+different	1
+unfortunately	1
+comes		1
+proposition	1
+one		1
+here		1
+presentation	1

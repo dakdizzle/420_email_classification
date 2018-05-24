@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+dc		1
+story		1
+ea		1
+fa		1
+html		1
+archive		1
+http		1
+www		1
+c		1
+khou		1
+news		1
+com		1

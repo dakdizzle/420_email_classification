@@ -1,0 +1,21 @@
+NumWords	24
+NumTerms	18
+
+com		3
+enron		2
+howard		2
+sager		2
+elizabeth	2
+pm		1
+cont		1
+doc		1
+jhartso		1
+ect		1
+fyi		1
+hou		1
+forwarded	1
+wspp		1
+wrightlaw	1
+subject		1
+winnie		1
+summary		1

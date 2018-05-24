@@ -1,0 +1,22 @@
+NumWords	30
+NumTerms	19
+
+day		4
+dart		3
+delivery	3
+mean		2
+corresponding	2
+onpeak		2
+hours		2
+ahe		1
+regular		1
+offpeak		1
+scheduling	1
+unlike		1
+peak		1
+right		1
+obligations	1
+yes		1
+ahead		1
+ad		1
+product		1

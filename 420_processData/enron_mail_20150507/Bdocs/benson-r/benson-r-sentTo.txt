@@ -1,0 +1,14 @@
+NumWords	14
+NumTerms	11
+
+vladimir.gorny@enron.com	2
+ginger.sinclair@enron.com	2
+daniel.diamond@enron.com	2
+harrysarora@yahoo.com	1
+lisa.shoemake@enron.com	1
+cory.willis@enron.com	1
+caroline.abramo@enron.com	1
+karen.buckley@enron.com	1
+holly.fuller@elpaso.com	1
+holly.fuller@coastalcorp.com	1
+kim.melodick@enron.com	1

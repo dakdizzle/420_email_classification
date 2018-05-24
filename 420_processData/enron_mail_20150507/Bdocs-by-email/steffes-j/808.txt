@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+remeber		1
+don		1
+happen		1
+calendar	1
+didn		1

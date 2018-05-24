@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+dynegy		1
+group		1
+texaco		1
+chevron		1
+karlovic	1
+contact		1
+eds		1
+believe		1
+mario		1
+unregulated	1
+con		1
+don		1
+side		1
+think		1
+trading		1

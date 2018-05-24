@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+lkitchen	2
+cn		2
+calger		1
+kitchen		1
+helpful		1
+thankslouise	1
+louise		1
+recipients	1
+chris		1
+filename	1
+na		1
+pleae		1
+pstmikei	1
+emails		1
+privileged	1
+non		1
+enron		1
+questions	1
+direct		1
+ou		1
+think		1

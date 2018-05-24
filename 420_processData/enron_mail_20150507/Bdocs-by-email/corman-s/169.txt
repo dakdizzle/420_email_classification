@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+agree		1
+changes		1
+making		1
+elizabeth	1

@@ -1,0 +1,19 @@
+NumWords	19
+NumTerms	16
+
+mark		2
+mhaedic		2
+cn		2
+pstthanks	1
+send		1
+copy		1
+recipients	1
+alan		1
+filename	1
+na		1
+privileged	1
+haedicke	1
+non		1
+enron		1
+egm		1
+ou		1

@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+eb		1
+fax		1
+ph		1
+parties		1
+carolan		1
+street		1
+reviews		1
+wholesale	1
+two		1
+services	1
+shackletonenron	1
+dominic		1
+sara		1
+ahouston	1
+contract	1
+already		1
+tx		1
+smith		1
+request		1

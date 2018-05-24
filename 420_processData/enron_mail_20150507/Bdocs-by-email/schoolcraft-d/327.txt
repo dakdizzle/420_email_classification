@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ds		1
+plan		1
+being		1
+right		1
+now		1

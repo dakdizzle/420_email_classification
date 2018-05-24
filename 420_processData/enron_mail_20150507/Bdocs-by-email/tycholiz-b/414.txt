@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+screen		2
+put		1
+good		1
+try		1
+one		1
+beach		1
+saver		1
+savers		1
+pc		1
+bt		1
+here		1

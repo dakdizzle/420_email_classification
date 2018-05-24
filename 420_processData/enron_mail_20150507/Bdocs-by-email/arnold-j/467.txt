@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+much		1
+row		1
+extra		1
+nights		1
+hour		1
+late		1
+sleep		1
+better		1
+doesnt		1
+tell		1
+beauty		1
+week		1
+rest		1

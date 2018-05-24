@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+farmer		2
+daren		2
+cn		2
+gas		1
+price		1
+recipients	1
+purchased	1
+filename	1
+na		1
+wish		1
+corrected	1
+dfarmer		1
+psti		1
+enron		1
+ou		1
+ticket		1
+correct		1
+deal		1

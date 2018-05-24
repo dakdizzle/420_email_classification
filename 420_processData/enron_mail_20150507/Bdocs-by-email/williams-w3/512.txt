@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+long		2
+caps		1
+wbom		1
+under		1
+bill		1
+questions	1
+mws		1
+line		1
+np		1
+st		1
+thanks		1
+call		1

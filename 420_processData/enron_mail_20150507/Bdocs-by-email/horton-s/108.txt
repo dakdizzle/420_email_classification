@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+those		1
+ok		1
+everything	1
+believe		1
+turn		1
+rick		1
+thank		1
+words		1
+kind		1
+very		1

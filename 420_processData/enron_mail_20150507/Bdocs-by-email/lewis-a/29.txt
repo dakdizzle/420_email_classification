@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+chicago		1
+bid		1
+compare		1

@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+vkamins		2
+vince		2
+cn		2
+urszulo		1
+france		1
+recipients	1
+pstpani		1
+filename	1
+na		1
+privileged	1
+jest		1
+non		1
+air		1
+enron		1
+ou		1
+czy		1
+kaminski	1

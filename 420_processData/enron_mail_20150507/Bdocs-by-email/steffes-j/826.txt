@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+jim		1
+today		1
+want		1

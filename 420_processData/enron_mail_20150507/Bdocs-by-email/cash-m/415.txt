@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+labor		1
+johnson		1
+list		1
+information	1
+require		1
+rick		1
+know		1
+agreements	1
+michelle	1
+more		1
+ews		1
+here		1

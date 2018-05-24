@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+human		1
+r		1

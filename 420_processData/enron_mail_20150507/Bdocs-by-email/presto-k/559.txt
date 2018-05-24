@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+lloyd		2
+soon		1
+discussion	1
+team		1
+assembling	1
+go		1
+through		1

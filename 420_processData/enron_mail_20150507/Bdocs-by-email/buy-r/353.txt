@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+full		1
+tnpc		1
+rick		1
+fine		1
+hands		1
+input		1

@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+going		2
+coming		1
+hey		1
+planting	1
+series		1
+world		1
+seeing		1
+binge		1
+put		1
+boy		1
+dome		1
+believe		1
+best		1
+feel		1
+one		1
+night		1
+weekend		1
+another		1
+last		1
+game		1

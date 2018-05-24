@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+article		1
+email		1
+tough		1
+complain	1
+cant		1
+need		1
+shit		1
+watch		1
+paper		1
+stop		1

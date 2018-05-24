@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+situation	1
+tough		1
+sort		1
+rick		1
+official	1
+hopefully	1
+statement	1
+confidence	1
+today		1
+restore		1
+thanks		1

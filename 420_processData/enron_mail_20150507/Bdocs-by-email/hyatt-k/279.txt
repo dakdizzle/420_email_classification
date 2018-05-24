@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+revised		2
+little		1
+softer		1
+kh		1
+version		1
+bear		1
+more		1
+d		1
+looks		1
+cuddly		1
+better		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+cookin		1
+smell		1
+wcw		1
+whoopin		1
+wwf		1
+whats		1
+ass		1
+rock		1

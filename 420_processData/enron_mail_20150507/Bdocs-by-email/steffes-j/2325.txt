@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+thin		1
+best		1
+works		1
+lunch		1

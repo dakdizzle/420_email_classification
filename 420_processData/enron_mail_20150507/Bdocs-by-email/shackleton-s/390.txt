@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+research	1
+now		1
+need		1

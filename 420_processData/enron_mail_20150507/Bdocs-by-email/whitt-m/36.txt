@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+seen		1
+situation	1
+up		1
+fucked		1
+sports		1
+college		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+pricing		1
+up		1
+fixed		1
+now		1
+deals		1
+reitmeyer	1
+done		1
+sitara		1
+index		1
+waiting		1
+jay		1
+set		1
+new		1

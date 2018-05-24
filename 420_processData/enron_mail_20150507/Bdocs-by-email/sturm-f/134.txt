@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+customer	1
+ene		1
+fletchp		1
+trade		1
+market		1
+rsvp		1
+m		1
+clicked		1
+maker		1
+link		1
+work		1
+below		1
+ing		1
+ll		1
+didn		1

@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+kitchen		3
+louise		2
+enron		2
+com		2
+pstwe		1
+cash		1
+rahaim		1
+adjust		1
+christian	1
+filename	1
+folder		1
+exmerge		1
+sent		1
+lx		1
+origin		1
+itemsx		1
+michelle	1
+need		1
+donnelly	1
+ll		1

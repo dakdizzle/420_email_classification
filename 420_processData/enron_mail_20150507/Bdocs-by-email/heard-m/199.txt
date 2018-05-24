@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+down		1
+send		1
+looked		1
+having		1
+afternoon	1

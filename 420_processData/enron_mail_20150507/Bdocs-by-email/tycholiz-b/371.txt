@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+inorder		1
+few		1
+know		1
+words		1
+encouragement	1
+speech		1
+kick		1
+bt		1
+don		1
+ass		1

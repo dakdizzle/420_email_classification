@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+rjgtoons	1
+borg		1
+html		1
+bizco		1
+http		1
+www		1
+com		1

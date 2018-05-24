@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+sense		1
+makes		1
+going		1
+inquiry		1
+sec		1

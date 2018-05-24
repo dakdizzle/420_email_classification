@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sally		1
+one		1
+call		1

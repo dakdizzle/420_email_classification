@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+heard		1
+enron		1
+back		1

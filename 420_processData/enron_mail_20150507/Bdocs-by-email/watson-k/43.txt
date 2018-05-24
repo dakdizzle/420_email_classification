@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+monday		1
+kim		1
+meeting		1
+staff		1
+ends		1
+meet		1
+tw		1
+perhaps		1

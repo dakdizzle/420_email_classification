@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+debra		2
+eb		1
+fax		1
+legal		1
+houston		1
+street		1
+doctors		1
+arrive		1
+due		1
+late		1
+america		1
+enron		1
+texas		1
+appointment	1
+tomorrow	1
+north		1
+smith		1
+perlingiereenron	1
+perlingiere	1
+com		1

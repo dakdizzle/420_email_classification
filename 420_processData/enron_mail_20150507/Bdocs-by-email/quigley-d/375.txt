@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+user		1
+name		1
+yahoo		1
+quigley		1
+dutch		1

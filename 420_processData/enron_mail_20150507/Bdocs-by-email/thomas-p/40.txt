@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+paul		1
+quot		1
+collection	1
+flair		1
+know		1
+help		1
+thanks		1

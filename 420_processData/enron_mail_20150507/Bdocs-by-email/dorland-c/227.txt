@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+option		2
+market		2
+little		1
+free		1
+orders		1
+sorry		1
+stressed	1
+never		1
+freak		1
+m		1
+right		1
+maker		1
+fuck		1
+use		1
+think		1

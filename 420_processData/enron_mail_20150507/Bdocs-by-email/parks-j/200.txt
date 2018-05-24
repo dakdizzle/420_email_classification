@@ -1,0 +1,27 @@
+NumWords	57
+NumTerms	24
+
+index		7
+trunkline	6
+indication	5
+dec		5
+jun		5
+la		3
+nymex		3
+mar		2
+nov		2
+basis		2
+tx		2
+apr		2
+oct		2
+hey		1
+time		1
+checked		1
+flat		1
+see		1
+thanks		1
+texas		1
+refresh		1
+moved		1
+last		1
+joe		1

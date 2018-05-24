@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+scott		2
+neal		2
+cn		2
+sneal		1
+recipients	1
+filename	1
+na		1
+fitzpatrick	1
+amy		1
+psti		1
+enron		1
+ou		1
+meant		1

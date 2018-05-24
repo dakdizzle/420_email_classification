@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+dog		1
+kept		1
+up		1
+tired		1
+night		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+value		1
+gave		1
+business	1
+think		1
+add		1
+feedback	1
+afternoon	1
+talked		1

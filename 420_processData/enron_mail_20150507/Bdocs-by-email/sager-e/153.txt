@@ -1,0 +1,17 @@
+NumWords	18
+NumTerms	14
+
+sat		3
+week		2
+play		2
+coming		1
+interested	1
+friend		1
+hitting		1
+anytime		1
+work		1
+cindyi		1
+sager		1
+thankselizabeth	1
+hi		1
+next		1

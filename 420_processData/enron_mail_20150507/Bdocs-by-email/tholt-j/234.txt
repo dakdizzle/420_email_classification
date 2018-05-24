@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+night		2
+conflict	1
+tough		1
+thursday	1
+grace		1
+advertisement	1
+saw		1
+island		1
+temptation	1
+last		1
+tv		1
+think		1

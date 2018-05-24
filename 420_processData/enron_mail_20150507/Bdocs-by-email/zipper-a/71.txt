@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+early		1
+slot		1
+gm		1
+need		1
+meet		1
+works		1
+offsite		1
+thanks		1

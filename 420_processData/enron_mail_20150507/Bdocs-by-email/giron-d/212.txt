@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+under		1
+html		1
+mighty		1
+http		1
+yahoo		1
+once		1
+bs		1
+dailynews	1
+scrutiny	1
+strains		1
+enron		1
+nyt		1
+com		1

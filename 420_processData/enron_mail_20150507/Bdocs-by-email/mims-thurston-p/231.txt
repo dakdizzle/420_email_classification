@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+happening	2
+scary		1
+know		1
+crying		1
+down		1
+enron		1
+going		1
+thought		1
+don		1
+shame		1
+happen		1
+very		1
+area		1

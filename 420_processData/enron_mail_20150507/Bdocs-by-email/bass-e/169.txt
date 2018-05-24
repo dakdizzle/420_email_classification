@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+good		2
+job		1
+wedding		1
+well		1
+glad		1
+orleans		1
+taken		1
+austin		1
+vacations	1
+sounds		1
+enjoying	1
+talking		1
+girls		1
+lately		1
+go		1
+tell		1
+sound		1
+nothing		1
+recently	1
+mostly		1
+hi		1
+new		1
+big		1
+haven		1

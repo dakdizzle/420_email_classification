@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+out		1
+vince		1
+day		1
+meeting		1
+up		1
+please		1
+tuesday		1
+set		1
+shirley		1
+prc		1

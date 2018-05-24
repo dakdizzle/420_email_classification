@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+acct		1
+strictly	1
+dash		1
+ignore		1
+standpoint	1
+million		1
+irrelevant	1
+internal	1
+trading		1

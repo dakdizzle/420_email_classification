@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ds		1
+march		1
+until		1
+need		1
+wait		1
+planning	1
+timeframe	1
+better		1

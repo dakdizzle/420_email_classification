@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+check		1
+language	1
+sara		1
+price		1
+floating	1
+help		1
+diane		1
+thanks		1

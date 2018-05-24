@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+inventory	2
+stated		1
+collateral	1
+petition	1
+keep		1
+post		1
+demand		1
+centana		1
+want		1
+sell		1
+willing		1
+told		1
+spoke		1
+fees		1
+pre		1

@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+number		2
+ext		2
+ed		1
+mcmichael	1
+name		1
+phillip		1
+along		1
+andy		1
+matter		1
+berney		1
+spelled		1
+lewis		1
+myself		1
+subject		1
+kirk		1
+last		1
+expert		1
+aucoin		1

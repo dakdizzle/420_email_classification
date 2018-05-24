@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+out		2
+m		2
+probably	2
+kathy		1
+day		1
+friday		1
+guys		1
+fyi		1
+meet		1
+anyway		1
+without		1
+chief		1
+going		1
+backup		1

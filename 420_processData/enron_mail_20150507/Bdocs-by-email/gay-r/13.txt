@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+price		2
+anything	1
+changed		1
+know		1
+charles		1
+need		1
+correct		1
+reflect		1
+thanks		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+unknown		1
+days		1
+min		1
+still		1

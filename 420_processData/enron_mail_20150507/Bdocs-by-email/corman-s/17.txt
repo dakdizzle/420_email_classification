@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+blackberry	2
+heard		1
+net		1
+wireless	1
+handheld	1
+pulling		1
+www		1
+call		1
+minute		1
+sent		1
+m		1
+intop		1
+back		1
+garage		1

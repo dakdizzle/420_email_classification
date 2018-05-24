@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+vince		1
+sullivan	1
+code		1
+works		1
+dress		1
+paula		1
+thanks		1

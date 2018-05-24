@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+interested	1
+thought		1

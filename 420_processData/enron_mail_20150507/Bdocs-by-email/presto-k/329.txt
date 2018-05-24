@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+story		1
+put		1
+real		1
+please		1
+want		1
+mail		1
+don		1
+give		1
+call		1

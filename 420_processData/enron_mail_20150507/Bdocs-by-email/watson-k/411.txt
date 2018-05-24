@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+kim		1
+jerry		1
+ordinary	1
+hing		1
+please		1
+know		1
+today		1
+anyt		1
+attend		1
+thanks		1

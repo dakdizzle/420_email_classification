@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+lavo		1
+var		1
+management	1

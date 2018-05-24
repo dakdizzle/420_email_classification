@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+time		1
+looking		1
+friday		1
+lisa		1
+online		1
+know		1
+today		1
+contact		1
+plans		1
+lees		1
+people		1
+experience	1
+team		1
+thursday	1
+paralegal	1
+tomorrow	1
+already		1
+lunch		1

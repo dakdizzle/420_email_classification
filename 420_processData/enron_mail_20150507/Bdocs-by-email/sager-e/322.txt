@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+soon		1
+talk		1
+wed		1
+fine		1
+hican		1
+lunch		1
+hit		1
+afternoon	1

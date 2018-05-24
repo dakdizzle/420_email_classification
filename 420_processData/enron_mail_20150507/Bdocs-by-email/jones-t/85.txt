@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+tjones		2
+cn		2
+customer	1
+jones		1
+attached	1
+recipients	1
+tana		1
+form		1
+filename	1
+na		1
+requested	1
+privileged	1
+non		1
+enron		1
+nda		1
+ou		1
+pstas		1
+transmittal	1

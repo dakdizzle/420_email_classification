@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+duran		1
+okay		1

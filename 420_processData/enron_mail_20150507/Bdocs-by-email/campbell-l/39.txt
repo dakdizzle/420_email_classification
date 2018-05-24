@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+people		1
+good		1
+directly	1
+enough		1
+gave		1
+hiring		1
+c		1
+resume		1

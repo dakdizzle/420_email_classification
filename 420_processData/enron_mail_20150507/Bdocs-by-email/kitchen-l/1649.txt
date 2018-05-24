@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+lkitchen	2
+cn		2
+officerenron	1
+fax		1
+kitchen		1
+operating	1
+pstdon		1
+louise		1
+recipients	1
+kitchenchief	1
+nomslouise	1
+filename	1
+na		1
+forget		1
+pipeline	1
+privileged	1
+non		1
+americastel	1
+edi		1
+enron		1
+use		1
+ou		1

@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+customers	2
+much		1
+lately		1
+stabilize	1
+before		1
+waiting		1
+doing		1
+hedging		1
+market		1

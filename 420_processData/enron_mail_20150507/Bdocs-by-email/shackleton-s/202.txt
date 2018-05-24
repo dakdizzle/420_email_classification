@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+exelon		1
+sara		1
+fine		1
+stephanie	1
+thanks		1

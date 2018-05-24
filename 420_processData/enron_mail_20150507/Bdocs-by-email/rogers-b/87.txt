@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+store		2
+several		2
+book		2
+information	1
+located		1
+find		1
+books		1
+call		1
+out		1
+good		1
+brown		1
+ben		1
+industry	1
+eric		1
+want		1
+blocks		1
+need		1
+within		1
+called		1
+luck		1
+read		1
+trading		1
+here		1

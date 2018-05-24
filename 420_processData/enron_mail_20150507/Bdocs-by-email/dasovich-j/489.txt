@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+know		2
+those		1
+time		1
+up		1
+keep		1
+pick		1
+perhaps		1
+sunday		1
+way		1
+allegedly	1
+dome		1
+back		1
+ers		1
+another		1
+weekend		1
+happy		1
+going		1
+though		1
+bother		1
+don		1
+still		1
+worry		1
+love		1

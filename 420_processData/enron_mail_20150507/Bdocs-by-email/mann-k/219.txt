@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+everything	1
+days		1
+resend		1
+docs		1
+deleted		1
+system		1
+computer	1
+thanks		1
+carolyn		1
+old		1
+more		1
+kay		1
+hi		1

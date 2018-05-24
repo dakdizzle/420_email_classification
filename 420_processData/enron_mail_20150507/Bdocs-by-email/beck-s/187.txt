@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+lunch		2
+kids		1
+enjoyed		1
+included	1
+try		1
+know		1
+gangs		1
+glad		1
+leave		1
+sally		1
+kristin		1
+before		1
+jo		1
+england		1

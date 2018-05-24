@@ -1,0 +1,21 @@
+NumWords	27
+NumTerms	18
+
+mail		4
+com		4
+fenner		2
+chet		2
+knipe		2
+conversation	1
+brian		1
+wollam		1
+bmc		1
+piece		1
+brianc		1
+erwollam	1
+msn		1
+constantine	1
+chad		1
+hotmail		1
+saltgrass	1
+erik		1

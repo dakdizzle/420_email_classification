@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+contrarian	1
+send		1
+investing	1
+stage		1
+late		1
+take		1
+getting		1
+out		1
+look		1
+vc		1
+sure		1
+everybody	1
+ll		1
+over		1

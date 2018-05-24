@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+point		1
+going		1
+answer		1
+economics	1
+shut		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+day		1
+enron		1
+sick		1
+easily		1
+happy		1
+bad		1
+extremely	1
+see		1
+very		1
+marianna	1
+thanks		1

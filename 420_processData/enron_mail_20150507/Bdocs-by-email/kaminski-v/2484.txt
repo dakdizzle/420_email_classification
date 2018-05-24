@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+lacimagroup	1
+lacima		1
+directly	1
+http		1
+www		1
+web		1
+site		1
+ryszard		1
+wicek		1
+go		1
+book		1
+buy		1
+com		1

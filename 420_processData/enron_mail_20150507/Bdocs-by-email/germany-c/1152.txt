@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+early		1
+leave		1

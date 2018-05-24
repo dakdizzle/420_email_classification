@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+moolah		1
+split		1
+bout		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+worth		1
+ene		1
+gs		1
+saying		1
+share		1
+report		1
+apparently	1
+going		1
+issue		1
+chris		1

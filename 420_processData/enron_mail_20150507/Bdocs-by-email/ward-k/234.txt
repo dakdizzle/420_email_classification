@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+kim		1
+two		1
+tlapek		1
+bugging		1
+tricia		1
+now		1
+use		1
+maybe		1
+weeks		1
+here		1

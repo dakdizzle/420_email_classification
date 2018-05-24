@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ds		1
+meeting		1
+m		1
+scheduled	1
+sorry		1
+previous	1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+day		1
+suggestions	1
+know		1
+buying		1
+chris		1
+better		1
+christina	1
+thinking	1
+hope		1
+feeling		1
+father		1
+dad		1
+rod		1
+sure		1
+cd		1

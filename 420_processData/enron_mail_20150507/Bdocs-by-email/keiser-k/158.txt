@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+caps		1
+region		1
+difference	1
+makes		1
+fyi		1
+org		1
+codes		1

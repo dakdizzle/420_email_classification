@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+make		2
+soon		1
+great		1
+until		1
+start		1
+go		1
+ahead		1
+sooner		1
+september	1
+offer		1

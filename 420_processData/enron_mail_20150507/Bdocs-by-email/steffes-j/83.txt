@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+cantrell	1
+becky		1
+calls		1
+include		1

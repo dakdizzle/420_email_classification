@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+opportunities	2
+heard		1
+ok		1
+department	1
+job		1
+interested	1
+talk		1
+know		1
+future		1
+leave		1
+kevin		1
+marketing	1
+pipeline	1
+ve		1
+employee	1
+transwestern	1
+recently	1
+hyatt		1

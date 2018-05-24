@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+put		1
+binder		1
+gas		1
+desk		1
+central		1

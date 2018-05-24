@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+group		1
+xavier		1

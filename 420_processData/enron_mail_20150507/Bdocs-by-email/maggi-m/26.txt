@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+shopping	1
+yep		1
+went		1
+yesterday	1

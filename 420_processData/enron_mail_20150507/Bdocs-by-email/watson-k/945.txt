@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+know		2
+power		1
+few		1
+steve		1
+calls		1
+left		1
+answer		1
+anything	1
+kim		1
+lorraine	1
+absence		1
+need		1
+before		1
+nevada		1

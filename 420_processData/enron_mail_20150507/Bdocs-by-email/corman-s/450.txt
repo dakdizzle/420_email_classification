@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+cn		2
+scorman		2
+suggestions	1
+checked		1
+recipients	1
+corman		1
+filename	1
+na		1
+afternoon	1
+call		1
+privileged	1
+ve		1
+non		1
+pstjayshree	1
+enron		1
+language	1
+convenience	1
+questions	1
+ou		1
+im		1
+fact		1
+couple		1
+shelley		1
+give		1

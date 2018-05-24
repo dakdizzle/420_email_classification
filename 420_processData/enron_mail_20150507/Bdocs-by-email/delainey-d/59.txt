@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+tough		1
+puppies		1
+regardless	1
+bid		1
+technology	1
+price		1
+going		1
+barges		1
+regardsdelainey	1
+move		1
+market		1
+better		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+comptboy	1
+pkeavey		1
+yahoo		1
+hotmail		1
+com		1

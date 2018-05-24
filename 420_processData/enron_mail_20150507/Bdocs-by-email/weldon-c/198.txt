@@ -1,0 +1,17 @@
+NumWords	19
+NumTerms	14
+
+enron		3
+weldon		2
+stayton		2
+dewittec	2
+cstaytonweldon	1
+intersting	1
+net		1
+basically	1
+enet		1
+imceanotes	1
+points		1
+agree		1
+staytonweldon	1
+com		1

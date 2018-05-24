@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+monday		1
+tire		1
+early		1
+much		1
+up		1
+huh		1
+oh		1
+albuquerque	1
+willis		1
+flat		1
+meet		1
+remember	1
+afternoon	1
+morning		1
+look		1
+emily		1
+brew		1
+yeah		1
+maybe		1
+chance		1
+hours		1
+didn		1
+doesn		1

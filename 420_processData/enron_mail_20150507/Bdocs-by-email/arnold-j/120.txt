@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+normally	1
+dont		1
+breakfast	1
+time		1
+fine		1
+ate		1
+bar		1
+out		1
+something	1
+wanna		1
+wont		1
+felt		1
+again		1
+before		1
+went		1
+doing		1
+tonight		1
+here		1

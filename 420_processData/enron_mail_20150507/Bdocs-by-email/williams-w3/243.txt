@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+security	2
+cn		2
+bill		2
+clearance	1
+portland	1
+cindy		1
+name		1
+williams	1
+recipients	1
+involved	1
+filename	1
+na		1
+thanks		1
+whatever	1
+remove		1
+list		1
+enron		1
+please		1
+iii		1
+work		1
+ou		1
+access		1
+bwillia		1

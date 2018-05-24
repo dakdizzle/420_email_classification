@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+knew		1
+yep		1

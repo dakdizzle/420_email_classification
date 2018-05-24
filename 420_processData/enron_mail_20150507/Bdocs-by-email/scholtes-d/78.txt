@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+deal		2
+ndds		1
+need		1
+fix		1
+thi		1
+still		1

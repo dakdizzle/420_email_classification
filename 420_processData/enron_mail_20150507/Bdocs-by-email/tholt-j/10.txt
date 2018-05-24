@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+gas		2
+call		2
+mark		1
+hawkins		1
+invoice		1
+please		1
+know		1
+pay		1
+mercado		1
+someone		1
+called		1

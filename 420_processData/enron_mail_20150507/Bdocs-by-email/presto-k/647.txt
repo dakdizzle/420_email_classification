@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+value		1
+please		1
+proposition	1
+review		1

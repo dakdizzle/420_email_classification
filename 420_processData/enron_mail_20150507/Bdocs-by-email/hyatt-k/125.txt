@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+case		1
+yes		1
+left		1
+sorry		1

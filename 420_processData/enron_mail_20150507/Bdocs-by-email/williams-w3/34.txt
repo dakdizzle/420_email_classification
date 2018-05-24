@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+heard		1
+email		1
+scotty		1
+word		1
+forever		1
+up		1
+see		1
+good		1
+hope		1
+bill		1
+line		1
+year		1
+give		1
+new		1
+haven		1
+checking	1
+drop		1

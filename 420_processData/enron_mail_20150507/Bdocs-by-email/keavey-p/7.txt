@@ -1,0 +1,16 @@
+NumWords	27
+NumTerms	13
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+john		2
+brad		1
+arnold		1
+griffith	1
+mckay		1
+bmckay		1
+jgriffit	1
+jarnold		1

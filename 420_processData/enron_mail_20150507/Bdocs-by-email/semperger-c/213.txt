@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+today		2
+times		2
+several		2
+make		1
+physical	1
+tag		1
+attempted	1
+lists		1
+logged		1
+system		1
+see		1
+help		1
+path		1
+afternoon	1
+onto		1
+down		1
+good		1
+populated	1
+test		1
+c		1
+pse		1
+didn		1
+area		1
+drop		1

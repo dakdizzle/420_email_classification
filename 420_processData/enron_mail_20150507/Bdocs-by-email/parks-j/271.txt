@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+during		1
+boys		1
+club		1
+book		1
+doing		1

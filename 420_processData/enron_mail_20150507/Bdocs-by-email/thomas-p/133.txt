@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+resolved	1
+talk		1
+marci		1
+pt		1
+peterman	1

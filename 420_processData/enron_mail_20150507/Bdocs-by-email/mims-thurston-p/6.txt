@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+home		1
+much		1
+ground		1
+trouble		1
+now		1
+snow		1
+yes		1
+going		1
+getting		1

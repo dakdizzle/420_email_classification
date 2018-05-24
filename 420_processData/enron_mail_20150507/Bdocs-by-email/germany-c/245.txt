@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+little		1
+goodell		1
+thing		1
+lake		1
+scott		1
+bugger		1
+cathey		1
+know		1
+forget		1
+paving		1
+michael		1
+way		1
+cute		1
+city		1
+suzanne		1
+salt		1
+don		1

@@ -1,0 +1,8 @@
+NumWords	6
+NumTerms	5
+
+march		2
+day		1
+sick		1
+days		1
+vacation	1

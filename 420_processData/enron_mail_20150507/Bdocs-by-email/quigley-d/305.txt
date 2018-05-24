@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+building	1
+floor		1
+enron		1
+move		1

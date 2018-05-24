@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+much		1
+dennis		1
+year		1
+last		1
+give		1

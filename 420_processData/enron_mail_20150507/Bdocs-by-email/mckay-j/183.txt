@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+send		2
+cheque		2
+amount		2
+agreed		1
+scott		1
+rate		1
+wanted		1
+laura		1
+back		1
+usd		1
+swap		1
+mail		1
+appropriate	1
+ll		1

@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+video		2
+service		1
+provides	1
+www		1
+application	1
+enron		1
+source		1
+ip		1
+bloomberg	1
+called		1
+grigsby		1
+sure		1
+tv		1
+viewer		1
+through		1
+com		1

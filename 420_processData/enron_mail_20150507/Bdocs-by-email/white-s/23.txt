@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+calendar	2
+much		1
+stacey		1
+meetings	1
+sending		1
+invitations	1
+someone		1
+thanks		1
+getting		1
+tool		1
+objects		1
+more		1
+efficient	1
+method		1
+attend		1
+through		1

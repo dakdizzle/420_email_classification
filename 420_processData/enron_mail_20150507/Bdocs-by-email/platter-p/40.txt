@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+talk		2
+open		1
+scotty		1
+position	1
+please		1
+know		1
+available	1
+want		1
+thanks		1

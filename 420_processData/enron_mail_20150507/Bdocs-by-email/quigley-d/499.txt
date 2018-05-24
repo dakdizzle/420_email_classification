@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+morning		1
+thinking	1
+day		1
+great		1
+good		1
+youilydq	1
+babyhope	1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+hold		1
+title		1
+know		1
+cheyenne	1
+ms		1
+didn		1

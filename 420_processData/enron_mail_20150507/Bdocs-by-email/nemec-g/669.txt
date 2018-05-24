@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+gnemec		2
+cn		2
+included	1
+redlined	1
+exhibit		1
+attached	1
+letter		1
+review		1
+recipients	1
+filename	1
+na		1
+privileged	1
+version		1
+clean		1
+non		1
+enron		1
+please		1
+pstbrian	1
+nemec		1
+changes		1
+ou		1
+gerald		1

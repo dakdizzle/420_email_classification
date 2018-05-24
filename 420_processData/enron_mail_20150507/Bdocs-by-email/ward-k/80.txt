@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+attached	3
+credit		2
+mark		1
+information	1
+sheet		1
+term		1
+know		1
+gas		1
+west		1
+origination	1
+once		1
+terms		1
+detailing	1
+thanks		1
+kim		1
+sample		1
+wardmanager	1
+please		1
+proper		1
+questions	1
+contract	1
+obtain		1
+proposal	1

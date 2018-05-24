@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+vince		2
+jx		1
+larry		1
+pstalex		1
+data		1
+filename	1
+vkamins		1
+thorne		1
+kaminski	1

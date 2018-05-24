@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+try		1
+probably	1
+someone		1
+call		1

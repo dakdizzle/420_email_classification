@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+fleming		1
+person		1
+recipients	1
+rflemin		1
+na		1
+rosalee		1
+enron		1
+rick		1
+ou		1
+tx		1
+attend		1
+ll		1

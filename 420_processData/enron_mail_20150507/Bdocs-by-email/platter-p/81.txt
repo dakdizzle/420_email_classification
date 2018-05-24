@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+wow		1
+instead		1
+national	1
+feel		1
+championship	1
+winning		1
+chances		1
+bad		1
+pounded		1
+girlfriend	1
+better		1
+news		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+omicronspl	1
+updated		1
+list		1
+here		1

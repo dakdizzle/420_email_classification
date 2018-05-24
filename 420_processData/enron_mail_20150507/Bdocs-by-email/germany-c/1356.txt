@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+sales		1
+tell		1
+going		1
+deal		1

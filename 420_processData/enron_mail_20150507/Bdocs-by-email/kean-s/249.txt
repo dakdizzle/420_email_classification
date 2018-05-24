@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+skean		2
+cn		2
+invite		1
+recipients	1
+kean		1
+steven		1
+filename	1
+na		1
+privileged	1
+dinner		1
+good		1
+non		1
+pstlooks	1
+enron		1
+glynn		1
+night		1
+ou		1
+before		1
+though		1

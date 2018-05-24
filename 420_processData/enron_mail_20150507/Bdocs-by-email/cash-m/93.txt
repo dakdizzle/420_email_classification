@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+michelle	1
+sorry		1
+don		1

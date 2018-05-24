@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+cn		2
+jlavora		2
+met		1
+john		1
+working		1
+paso		1
+financing	1
+recipients	1
+billion		1
+filename	1
+na		1
+electrobolt	1
+privileged	1
+lavorato	1
+really		1
+psti		1
+non		1
+enron		1
+buy		1
+want		1
+el		1
+ou		1
+brazil		1
+think		1

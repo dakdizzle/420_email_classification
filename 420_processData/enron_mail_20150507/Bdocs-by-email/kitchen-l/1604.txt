@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+really		1
+included	1
+greg		1
+ask		1
+want		1
+going		1
+wanted		1
+asked		1
+never		1
+newco		1

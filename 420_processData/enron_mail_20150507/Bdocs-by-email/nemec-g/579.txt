@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+inc		1
+lrci		1
+map		1
+recording	1
+fine		1

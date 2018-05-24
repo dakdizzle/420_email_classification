@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+tk		2
+cn		2
+visit		1
+mean		1
+recipients	1
+na		1
+thanks		1
+kim		1
+opportunities	1
+lohman		1
+enron		1
+ou		1
+business	1
+dec		1
+tw		1
+tlohman		1

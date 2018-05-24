@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+want		2
+don		2
+coordinated	1
+much		1
+make		1
+until		1
+docs		1
+form		1
+required	1
+pay		1
+sure		1
+agreement	1
+kay		1
+think		1

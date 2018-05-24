@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+hear		1
+hard		1
+please		1
+know		1
+rk		1
+mary		1
+lose		1
+dad		1
+sorry		1
+thoughts	1
+parent		1
+remember	1

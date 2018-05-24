@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+look		1
+man		1
+freeservers	1
+http		1
+www		1
+danm		1
+site		1
+doesn		1
+com		1
+bonniebernstein	1

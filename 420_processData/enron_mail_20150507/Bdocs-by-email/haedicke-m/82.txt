@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+mark		1
+wonder		1
+looking		1
+la		1
+traders		1
+operate		1
+don		1

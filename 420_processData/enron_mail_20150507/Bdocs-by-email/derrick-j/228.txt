@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+mark		1
+vicki		1
+tomorrow	1
+discusss	1
+today		1
+thoughts	1

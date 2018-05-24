@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+think		2
+first		1
+jerry		1
+talk		1
+sending		1
+gave		1
+daily		1
+etc		1
+ken		1
+asked		1
+tab		1
+file		1
+tom		1
+brown		1
+best		1
+costing		1
+frontera	1
+more		1
+probably	1
+jmf		1
+calculation	1

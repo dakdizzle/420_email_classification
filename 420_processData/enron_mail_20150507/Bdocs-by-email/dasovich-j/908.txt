@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+thanks		2
+story		1
+first		1
+make		1
+directly	1
+know		1
+anyone		1
+help		1
+square		1
+call		1
+talked		1
+wires		1
+dorothy		1
+jeff		1
+best		1
+whichever	1
+please		1
+changes		1
+prefer		1
+tries		1
+hi		1

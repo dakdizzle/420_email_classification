@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+meeting		1
+fri		1
+time		1
+rika		1
+again		1
+fletch		1

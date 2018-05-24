@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+open		1
+flow		1
+plan		1
+morale		1
+working		1
+deal		1

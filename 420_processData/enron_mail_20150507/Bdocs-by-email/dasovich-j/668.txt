@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+great		1
+jeff		1
+best		1
+know		1
+back		1
+works		1
+tom		1
+ll		1
+confirm		1

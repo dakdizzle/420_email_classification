@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+furry		1
+brother		1
+affraid		1
+im		1
+dorland		1
+dan		1

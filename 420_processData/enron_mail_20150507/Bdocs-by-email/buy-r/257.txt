@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+good		1
+job		1
+rick		1
+historically	1
+reserve		1
+low		1
+speaking	1

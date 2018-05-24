@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+ferc		1
+hear		1
+directly	1
+state		1
+risk		1
+friday		1
+wednesday	1
+today		1
+provide		1
+unable		1
+market		1
+call		1
+out		1
+jim		1
+please		1
+update		1
+ubs		1
+participate	1
+quick		1
+mind		1
+mtg		1
+through		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+stuff		1
+right		1
+endo		1
+sending		1
+steve		1
+now		1

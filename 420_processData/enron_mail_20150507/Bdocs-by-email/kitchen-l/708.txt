@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+good		1
+choice		1
+see		1
+wait		1
+think		1

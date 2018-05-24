@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+check		2
+full		1
+gamelatersdq	1
+crawford	1
+make		1
+paid		1
+pls		1
+see		1
+out		1
+tojust		1
+needed		1
+amount		1
+give		1
+woddy		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+under		1
+bay		1
+green		1
+chic		1

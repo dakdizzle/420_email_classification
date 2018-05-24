@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+trans		1
+together	1
+day		1
+value		1
+different	1
+talk		1
+end		1
+know		1
+lost		1
+kevin		1
+kim		1
+soon		1
+list		1
+pecos		1
+please		1
+project		1
+timing		1
+putting		1
+including	1
+tw		1

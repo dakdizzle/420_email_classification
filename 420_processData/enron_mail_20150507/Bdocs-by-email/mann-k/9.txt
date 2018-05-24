@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+cn		2
+kmann		2
+recipients	1
+filename	1
+na		1
+privileged	1
+good		1
+non		1
+pstlooks	1
+enron		1
+mann		1
+ou		1
+kay		1

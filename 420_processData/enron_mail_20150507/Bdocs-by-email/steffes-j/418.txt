@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+jim		1
+calculate	1
+jeff		1
+sce		1
+contribution	1
+ees		1
+undercollection	1

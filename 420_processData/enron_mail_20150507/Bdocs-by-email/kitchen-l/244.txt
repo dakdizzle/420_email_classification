@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+home		1
+rang		1
+cell		1
+changes		1
+ago		1
+ring		1
+port		1
+thought		1
+hours		1

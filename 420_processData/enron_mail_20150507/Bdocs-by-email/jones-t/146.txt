@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+exchange	1
+mercantile	1
+nda		1
+york		1
+one		1
+another		1
+new		1

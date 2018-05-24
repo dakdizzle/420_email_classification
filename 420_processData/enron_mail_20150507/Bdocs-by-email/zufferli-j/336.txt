@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+guaranteemy	1
+phone		1
+original	1
+comments	1
+here		1

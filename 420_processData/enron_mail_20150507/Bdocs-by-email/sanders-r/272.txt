@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sending		1
+thanks		1
+belated		1

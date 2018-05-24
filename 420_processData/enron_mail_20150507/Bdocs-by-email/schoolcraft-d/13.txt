@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+gas		2
+control		2
+energy		1
+comx		1
+schoolcraft	1
+dx		1
+filename	1
+privileged	1
+ds		1
+forwarded	1
+list		1
+distribution	1
+non		1
+kggruhl		1
+please		1
+pstken		1
+dschool		1
+origin		1
+mail		1
+duke		1
+add		1

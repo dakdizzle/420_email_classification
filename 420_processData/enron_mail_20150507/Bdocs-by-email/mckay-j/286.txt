@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+day		1
+good		1
+hey		1
+worked		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+scott		1
+arrange		1
+th		1
+appreciate	1
+karen		1
+thanks		1
+really		1
+two		1
+being		1
+difficult	1
+mike		1
+interviewers	1
+grigsby		1

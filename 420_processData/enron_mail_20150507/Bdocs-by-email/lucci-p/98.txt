@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+little		1
+rally		1
+mark		1
+friday		1
+portland	1
+phone		1
+left		1
+karen		1
+number		1
+laura		1
+hot		1
+right		1
+picks		1
+assistant	1
+again		1
+need		1
+going		1
+taylor		1

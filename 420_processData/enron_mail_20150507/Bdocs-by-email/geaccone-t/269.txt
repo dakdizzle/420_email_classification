@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+check		1
+idea		1
+nng		1
+question	1
+see		1

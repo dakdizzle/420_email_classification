@@ -1,0 +1,14 @@
+NumWords	13
+NumTerms	11
+
+year		3
+fumble		1
+sierras		1
+managers	1
+regards		1
+enterprises	1
+hillsboro	1
+jon		1
+west		1
+don		1
+area		1

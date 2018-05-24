@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+storey		1
+girl		1
+geoff		1
+work		1
+deal		1
+thanks		1
+trading		1
+ll		1

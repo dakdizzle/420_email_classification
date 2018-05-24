@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+jim		1
+status		1
+bruce		1
+matter		1
+steve		1
+contact		1
+lundstrom	1
+rob		1
+asked		1
+walls		1

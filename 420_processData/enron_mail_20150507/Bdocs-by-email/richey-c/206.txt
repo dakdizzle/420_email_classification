@@ -1,0 +1,23 @@
+NumWords	25
+NumTerms	20
+
+days		2
+few		2
+run		2
+need		2
+last		2
+db		1
+send		1
+greg		1
+up		1
+connection	1
+booted		1
+setup		1
+wanted		1
+looks		1
+steps		1
+thx		1
+curve		1
+coop		1
+fetcher		1
+app		1

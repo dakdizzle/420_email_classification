@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+dont		1
+industry	1
+know		1
+prettiest	1

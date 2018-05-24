@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+customer	1
+nap		1
+suitable	1
+ready		1
+though		1
+take		1

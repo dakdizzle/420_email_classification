@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+yes		1
+before		1
+ma		1
+same		1
+thanks		1

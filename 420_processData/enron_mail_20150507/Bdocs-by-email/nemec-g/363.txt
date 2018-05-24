@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+cn		2
+nemec		2
+gerald		2
+info		1
+ge		1
+lease		1
+hanover		1
+recipients	1
+oakhill		1
+form		1
+filename	1
+na		1
+privileged	1
+gnemec		1
+non		1
+pstmore		1
+enron		1
+use		1
+ou		1
+deal		1

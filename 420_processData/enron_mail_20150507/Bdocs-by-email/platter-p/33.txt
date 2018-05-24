@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+enron		1
+sign		1
+jjarnagi	1
+recipients	1
+ou		1
+upphil		1
+na		1
+josie		1
+jarnagin	1
+platter		1

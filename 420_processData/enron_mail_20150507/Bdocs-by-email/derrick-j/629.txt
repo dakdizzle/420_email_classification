@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+great		1
+support		1
+hope		1
+les		1
+best		1
+thank		1
+thanksgiving	1
+one		1
+friendship	1
+always		1

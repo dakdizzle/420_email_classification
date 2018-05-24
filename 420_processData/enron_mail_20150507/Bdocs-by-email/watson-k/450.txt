@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+sorry		2
+make		1
+mend		1
+grab		1
+crazy		1
+know		1
+faxed		1
+even		1
+slow		1
+ways		1
+better		1
+kim		1
+lee		1
+being		1
+talking		1
+believe		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+monika		1
+dave		1
+thanks		1

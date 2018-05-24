@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+assume		1
+talk		1
+kathleen	1
+found		1
+dutch		1
+talked		1
+numberhope	1
+alreadyi	1
+happy		1
+night		1
+year		1
+last		1
+having		1
+new		1

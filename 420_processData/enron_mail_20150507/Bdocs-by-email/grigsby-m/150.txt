@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+send		1
+look		1
+free		1
+please		1
+back		1
+feel		1
+review		1
+mike		1
+modify		1
+take		1

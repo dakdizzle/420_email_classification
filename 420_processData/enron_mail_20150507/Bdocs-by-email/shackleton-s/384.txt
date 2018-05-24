@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+much		1
+sara		1
+mails		1
+help		1
+very		1
+khymberly	1
+voice		1
+trading		1
+thanks		1

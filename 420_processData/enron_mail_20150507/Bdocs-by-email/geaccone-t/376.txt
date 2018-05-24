@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+blackberry	2
+net		1
+wireless	1
+onsolidate	1
+handheld	1
+www		1
+schedule	1
+sent		1
+format		1
+mary		1
+one		1
+need		1
+tw		1

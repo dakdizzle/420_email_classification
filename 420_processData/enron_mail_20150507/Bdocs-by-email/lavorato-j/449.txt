@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+stuff		1
+kim		1
+print		1

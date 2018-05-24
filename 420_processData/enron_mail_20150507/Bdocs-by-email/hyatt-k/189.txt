@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+khyatt		2
+cn		2
+bi		2
+ca		1
+directional	1
+recipients	1
+filename	1
+na		1
+kevin		1
+privileged	1
+lateral		1
+thinking	1
+non		1
+enron		1
+unilateral	1
+wrote		1
+pstsorry	1
+ou		1
+panda		1
+hyatt		1

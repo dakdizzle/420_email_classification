@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+ask		2
+mentioned	1
+stan		1
+myself		1
+anyone		1
+rod		1
+before		1
+thanks		1

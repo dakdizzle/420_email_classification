@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+heard		1
+starting	1
+joking		1
+before		1
+tori		1
+contest		1
+don		1
+tonight		1

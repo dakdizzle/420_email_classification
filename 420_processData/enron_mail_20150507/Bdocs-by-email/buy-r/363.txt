@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ye		1
+promoted	1
+agree		1
+rick		1
+issue		1
+getting		1
+whatsoever	1

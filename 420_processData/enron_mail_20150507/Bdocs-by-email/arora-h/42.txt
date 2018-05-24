@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+chat		1
+number		1
+warreni		1
+lots		1
+eurodollars	1
+bonds		1
+trades		1
+shahi		1
+harry		1
+happy		1
+spoke		1
+pushkar		1
+notes		1

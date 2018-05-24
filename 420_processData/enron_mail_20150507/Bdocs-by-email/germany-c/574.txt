@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+babie		1
+hwy		1
+know		1
+spent		1
+yes		1
+going		1
+hour		1
+survive		1
+half		1
+sunday		1
+think		1
+didn		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+hold		1
+quality		1
+mark		1
+es		1
+point		1
+issues		1
+quot		1
+collateral	1
+contracts	1
+particular	1
+lisa		1
+legal		1

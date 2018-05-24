@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+gas		2
+master		2
+duke		2
+energy		1
+under		1
+debbie		1
+information	1
+payment		1
+days		1
+default		1
+marketing	1
+states		1
+follow		1
+non		1
+cure		1
+jeff		1
+trades		1
+more		1
+business	1
+llc		1
+side		1
+new		1
+trading		1

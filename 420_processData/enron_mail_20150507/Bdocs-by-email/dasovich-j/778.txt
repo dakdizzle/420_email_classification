@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+alot		1
+fill		1
+time		1
+come		1
+back		1
+bumpy		1
+work		1
+gonna		1
+times		1
+take		1
+ll		1

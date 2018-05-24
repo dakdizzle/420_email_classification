@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+isn		1
+cost		1
+eol		1

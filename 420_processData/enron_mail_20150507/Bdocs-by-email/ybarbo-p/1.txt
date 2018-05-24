@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+report		2
+paul		1
+above		1
+resend		1
+difficulties	1
+size		1
+th		1
+gary		1
+thanks		1
+april		1
+giving		1
+replicating	1
+please		1
+mail		1
+travelling	1

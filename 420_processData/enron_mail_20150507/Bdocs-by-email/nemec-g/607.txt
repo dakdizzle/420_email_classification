@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+agreement	3
+storage		2
+info		1
+email		1
+power		1
+company		1
+dated		1
+montana		1
+following	1
+sorry		1
+susan		1
+thanks		1
+pipeline	1
+around		1
+interruptible	1
+look		1
+trailblazer	1
+wbitransport	1
+sketchy		1
+think		1

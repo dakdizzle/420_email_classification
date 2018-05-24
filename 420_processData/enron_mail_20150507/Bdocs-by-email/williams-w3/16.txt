@@ -1,0 +1,26 @@
+NumWords	25
+NumTerms	23
+
+meeting		2
+next		2
+group		1
+pm		1
+information	1
+until		1
+williams	1
+pizza		1
+filename	1
+transfer	1
+thanks		1
+afternoon	1
+content		1
+encoding	1
+delayed		1
+bill		1
+thursday	1
+ubs		1
+origin		1
+more		1
+bitx		1
+waiting		1
+week		1

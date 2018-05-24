@@ -1,0 +1,20 @@
+NumWords	37
+NumTerms	17
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+susan		2
+paul		1
+perrino		1
+fyi		1
+slandweh	1
+dperrino	1
+pkaufma		1
+kaufman		1
+smara		1
+mara		1
+landwehr	1
+dave		1

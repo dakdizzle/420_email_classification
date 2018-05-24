@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+meeting		1
+gets		1
+steps		1
+api		1
+lets		1
+back		1
+mid		1
+know		1
+contract	1
+next		1

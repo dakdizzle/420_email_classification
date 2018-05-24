@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+tjones		2
+cn		2
+jones		1
+copy		1
+emailing	1
+recipients	1
+tana		1
+filename	1
+na		1
+requested	1
+pstanne		1
+privileged	1
+non		1
+enron		1
+anne		1
+prepared	1
+ou		1
+young		1
+kay		1

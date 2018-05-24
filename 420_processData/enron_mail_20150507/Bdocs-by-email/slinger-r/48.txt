@@ -1,0 +1,8 @@
+NumWords	7
+NumTerms	5
+
+mw		2
+cut		2
+zerofor		1
+slinger		1
+zeroryan	1

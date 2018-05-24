@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+products	1
+melba		1
+risk		1
+dates		1
+pereira		1
+few		1
+changes		1
+assignment	1
+made		1
+susan		1
+thanks		1

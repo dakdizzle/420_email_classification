@@ -1,0 +1,20 @@
+NumWords	24
+NumTerms	17
+
+october		3
+sbeck		2
+cn		2
+sally		2
+work		2
+beck		2
+make		1
+day		1
+recipients	1
+filename	1
+na		1
+pstbest		1
+privileged	1
+non		1
+enron		1
+ou		1
+november	1

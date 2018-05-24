@@ -1,0 +1,17 @@
+NumWords	21
+NumTerms	14
+
+kitchen		4
+louise		3
+enron		2
+com		2
+filename	1
+folder		1
+pst		1
+nettelton	1
+exmerge		1
+marcus		1
+sent		1
+lx		1
+origin		1
+itemsx		1

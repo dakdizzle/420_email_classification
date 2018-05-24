@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+discuss		1
+senators	1
+modifications	1
+make		1
+members		1
+reasonableness	1
+emphasoze	1
+redefined	1
+offer		1
+want		1
+more		1
+made		1
+need		1
+committee	1
+audience	1
+think		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+mcconnell	1
+ve		1
+reck		1
+ok		1
+gave		1
+shankman	1
+talked		1

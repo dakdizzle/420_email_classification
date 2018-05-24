@@ -1,0 +1,27 @@
+NumWords	29
+NumTerms	24
+
+meeting		2
+up		2
+call		2
+conference	2
+set		2
+discuss		1
+heard		1
+collateral	1
+stacy		1
+travis		1
+know		1
+guys		1
+thanks		1
+master		1
+kim		1
+hesco		1
+please		1
+available	1
+questions	1
+preference	1
+assignment	1
+documents	1
+comments	1
+think		1

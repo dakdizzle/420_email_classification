@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+up		1
+pissed		1
+tom		1
+jmf		1
+whats		1

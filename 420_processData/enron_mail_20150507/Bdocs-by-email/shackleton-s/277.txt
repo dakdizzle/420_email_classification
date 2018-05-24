@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+sara		2
+customer	1
+eb		1
+fax		1
+jean		1
+ph		1
+attached	1
+street		1
+wholesale	1
+thanks		1
+call		1
+pierre		1
+services	1
+shackletonenron	1
+please		1
+ahouston	1
+tx		1
+smith		1
+agreement	1
+comments	1

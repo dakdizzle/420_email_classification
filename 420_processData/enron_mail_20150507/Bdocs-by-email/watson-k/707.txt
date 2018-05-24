@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+landed		1
+much		1
+grab		1
+thank		1
+glad		1
+left		1
+phone		1
+see		1
+schedule	1
+kim		1
+rudy		1
+message		1
+congratulations	1
+mail		1
+martha		1
+weeks		1
+doing		1
+couple		1
+lunch		1
+ll		1
+next		1
+love		1

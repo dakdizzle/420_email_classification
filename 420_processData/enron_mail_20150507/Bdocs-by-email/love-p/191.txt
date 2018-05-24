@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+talking		2
+info		1
+pl		1
+job		1
+hunter		1
+interested	1
+know		1
+fyi		1
+head		1
+forwarded	1
+salary		1
+description	1
+told		1
+give		1

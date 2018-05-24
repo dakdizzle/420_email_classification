@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+home		1
+m		1
+today		1
+anyone		1
+fletch		1
+kevin		1
+talked		1

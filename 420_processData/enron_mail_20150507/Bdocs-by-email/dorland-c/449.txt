@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+aga		2
+short		2
+presto		1
+tough		1
+batman		1
+keving		1
+now		1
+swap		1
+bcf		1
+holy		1
+unbelievable	1
+number		1

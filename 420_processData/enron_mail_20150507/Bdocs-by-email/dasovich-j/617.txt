@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+jerry		2
+qfs		1
+little		1
+lawyer		1
+days		1
+well		1
+friend		1
+contact		1
+busy		1
+loop		1
+guess		1
+represents	1
+m		1
+good		1
+jeff		1
+best		1
+back		1
+another		1
+going		1
+big		1

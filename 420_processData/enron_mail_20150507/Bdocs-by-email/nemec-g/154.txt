@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+per		1
+attached	1
+form		1
+nick		1
+america		1
+professional	1
+enron		1
+used		1
+services	1
+rusty		1
+north		1
+agreement	1
+request		1

@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+customer	1
+peaking		1
+glen		1
+charged		1
+customers	1
+looking		1
+california	1
+interpret	1
+rate		1
+system		1
+help		1
+thanks		1
+kim		1
+really		1
+good		1
+many		1
+exactly		1
+trails		1
+again		1
+impact		1
+decision	1
+southern	1

@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+lkitchen	2
+cn		2
+kitchen		1
+louise		1
+recipients	1
+filename	1
+na		1
+mexico		1
+running		1
+privileged	1
+really		1
+down		1
+non		1
+replacing	1
+enron		1
+comes		1
+pstmaybe	1
+ou		1
+max		1
+cost		1
+yzaguirre	1

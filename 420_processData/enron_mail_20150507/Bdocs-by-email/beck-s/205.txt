@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+print		2
+info		1
+page		1
+information	1
+friday		1
+today		1
+times		1
+tried		1
+see		1
+thanks		1
+please		1
+one		1
+need		1
+include		1

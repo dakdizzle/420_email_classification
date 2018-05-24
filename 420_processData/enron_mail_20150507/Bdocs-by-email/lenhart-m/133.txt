@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+time		1
+course		1
+know		1
+today		1
+sat		1
+sienna		1
+plantation	1
+tee		1
+think		1
+play		1

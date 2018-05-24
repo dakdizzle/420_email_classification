@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+kim		1
+make		1
+hr		1
+work		1
+melodick	1
+happen		1
+door		1

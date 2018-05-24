@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+problems	1
+stacey		1
+name		1
+central		1
+database	1
+call		1
+contracts	1
+follow		1
+global		1
+richardson	1
+instructions	1
+request		1
+com		1

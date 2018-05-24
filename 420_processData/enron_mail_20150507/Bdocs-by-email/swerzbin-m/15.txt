@@ -1,0 +1,25 @@
+NumWords	41
+NumTerms	22
+
+cn		8
+recipients	4
+na		4
+enron		4
+ou		4
+kathy		1
+tim		1
+belden		1
+tbelden		1
+kaxford		1
+phone		1
+jchatter	1
+curves		1
+driz		1
+michael		1
+jill		1
+cell		1
+mdrisc		1
+driscoll	1
+chatterton	1
+axford		1
+doing		1

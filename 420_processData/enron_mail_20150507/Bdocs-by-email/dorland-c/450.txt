@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+fills		1
+nice		1
+chart		1
+gap		1
+low		1
+before		1
+untill		1
+hang		1
+think		1
+yesterday	1

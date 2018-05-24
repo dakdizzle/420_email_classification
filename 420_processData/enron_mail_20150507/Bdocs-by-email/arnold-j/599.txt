@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+m		1
+try		1
+gonna		1

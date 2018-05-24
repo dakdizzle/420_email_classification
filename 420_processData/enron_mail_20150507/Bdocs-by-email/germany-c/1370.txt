@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+demand		1
+tp		1
+calculations	1
+according	1
+change		1
+nov		1
+charges		1
+thanks		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+sent		1
+up		1
+check		1
+cecilia		1
+john		1
+back		1
+today		1
+book		1
+valdes		1
+set		1
+codes		1
+kk		1

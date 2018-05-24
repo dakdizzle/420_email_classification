@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+back		1
+show		1
+ends		1
+bazarre		1
+tried		1

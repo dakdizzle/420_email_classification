@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+time		1
+agree		1
+john		1
+playing		1
+hopefully	1
+course		1
+killing		1
+see		1
+jimof		1
+hockey		1
+next		1
+ll		1

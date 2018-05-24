@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+list		1
+please		1
+update		1
+williams	1
+attached	1
+marie		1
+forward		1
+jay		1
+joe		1
+thanks		1

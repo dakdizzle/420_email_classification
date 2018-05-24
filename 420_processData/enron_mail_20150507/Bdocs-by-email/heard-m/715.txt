@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+signed		3
+ena		2
+sign		2
+upstream	2
+redmond		1
+barbara		1
+brian		1
+receivables	1
+taken		1
+peter		1
+reliant		1
+canada		1
+yesterday	1
+morning		1
+signatures	1
+back		1
+document	1
+everyone	1
+ecc		1
+keohane		1
+having		1
+brought		1

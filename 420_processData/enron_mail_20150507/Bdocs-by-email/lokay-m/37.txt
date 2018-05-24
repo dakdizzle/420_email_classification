@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+bid		1
+hope		1
+guys		1
+today		1
+due		1

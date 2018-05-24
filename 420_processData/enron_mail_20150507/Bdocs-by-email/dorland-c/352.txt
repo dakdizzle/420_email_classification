@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+thanxchris	1
+send		1
+paste		1
+copy		1
+try		1
+values		1
+again		1
+work		1
+reason		1
+didn		1

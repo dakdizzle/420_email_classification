@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+lynn		2
+lblair		2
+cn		2
+heating		1
+season		1
+steve		1
+procedures	1
+memor		1
+blair		1
+trying		1
+recipients	1
+filename	1
+na		1
+current		1
+thanks		1
+pst		1
+privileged	1
+non		1
+enron		1
+refresh		1
+changes		1
+ou		1
+everyone	1
+last		1

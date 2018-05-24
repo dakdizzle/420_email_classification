@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+one		3
+stuff		1
+governance	1
+moving		1
+per		1
+today		1
+now		1
+route		1
+schedule	1
+thanks		1
+yesterday	1
+steffes		1
+weekly		1
+suggest		1
+en		1
+succesful	1
+ring		1
+eber		1
+give		1
+date		1

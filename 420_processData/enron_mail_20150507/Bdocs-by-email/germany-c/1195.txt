@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+troy		1
+day		1
+today		1
+probably	1
+guess		1
+sorry		1
+bad		1
+st		1

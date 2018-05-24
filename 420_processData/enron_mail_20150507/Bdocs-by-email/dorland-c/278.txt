@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+everyday	1
+out		1
+leave		1
+bang		1
+trying		1
+living		1
+here		1
+market		1

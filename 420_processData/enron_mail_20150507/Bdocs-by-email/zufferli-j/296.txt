@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+time		2
+appointment	1
+individually	1
+prior		1
+due		1
+meet		1
+attend		1
+later		1
+unable		1

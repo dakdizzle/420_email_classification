@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+miss		1
+many		1
+ago		1
+permanent	1
+bobby		1
+thought		1
+months		1
+martha		1

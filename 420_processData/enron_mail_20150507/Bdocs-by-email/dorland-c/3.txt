@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+asap		1
+photocopy	1
+please		1
+receipt		1
+need		1

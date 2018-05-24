@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+stacy		1
+mesa		1
+act		1
+extremely	1
+thanks		1
+anything	1
+kim		1
+signed		1
+go		1
+document	1
+congress	1
+concerned	1
+through		1

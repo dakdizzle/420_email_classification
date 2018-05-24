@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+near		1
+jenny		1
+peole		1
+ask		1
+plans		1
+bob		1
+issue		1
+security	1
+think		1
+better		1

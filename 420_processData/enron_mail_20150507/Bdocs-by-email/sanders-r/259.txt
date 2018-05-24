@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+look		1
+sp		1
+labanowski	1
+grand		1
+enron		1
+being		1
+talk		1
+political	1
+convened	1
+contribution	1
+jury		1
+elizabeth	1

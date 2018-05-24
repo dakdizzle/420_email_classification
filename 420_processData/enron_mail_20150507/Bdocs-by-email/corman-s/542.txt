@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+together	1
+event		1
+join		1
+alina		1
+aeros		1
+decided		1
+soon		1
+kim		1
+boys		1
+tomorrow	1
+another		1
+night		1
+chad		1
+mike		1
+shelley		1
+game		1
+ll		1

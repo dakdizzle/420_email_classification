@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+anything	1
+heard		1
+know		1
+yes		1
+haven		1

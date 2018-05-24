@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ut		1
+asp		1
+http		1
+ticketbuy	1
+teamreq		1
+unique		1
+www		1
+tlong		1
+ticketcity	1
+com		1

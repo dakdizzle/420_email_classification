@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+products	1
+manage		1
+day		1
+authorize	1
+bal		1
+fin		1
+please		1
+oh		1
+seung		1
+taek		1
+doug		1
+thanks		1

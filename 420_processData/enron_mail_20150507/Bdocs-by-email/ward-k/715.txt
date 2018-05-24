@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+possibly	1
+invite		1
+details		1
+well		1
+suz		1
+now		1
+thanks		1
+miles		1
+look		1
+rosie		1
+el		1
+gotta		1
+sure		1
+using		1
+think		1

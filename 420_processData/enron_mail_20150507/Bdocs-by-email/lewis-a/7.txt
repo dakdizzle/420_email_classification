@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+andy		1
+please		1
+garage		1
+move		1
+new		1

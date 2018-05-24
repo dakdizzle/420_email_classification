@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+playboy		2
+know		1
+men		1
+superficial	1
+ve		1
+really		1
+m		1
+sense		1
+feel		1
+labeled		1
+silly		1
+depends		1
+already		1
+sure		1
+don		1
+theyaren	1

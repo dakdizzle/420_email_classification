@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+es		1
+leash		1
+annie		1
+keep		1
+collars		1
+hi		1

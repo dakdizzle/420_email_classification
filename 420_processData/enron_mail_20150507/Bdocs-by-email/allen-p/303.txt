@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+soon		1
+email		1
+sent		1
+message		1
+spoken		1
+know		1
+left		1

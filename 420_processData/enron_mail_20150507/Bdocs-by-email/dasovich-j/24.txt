@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+m		1
+jeff		1
+best		1
+thanks		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+dont		1
+infatuation	1
+pass		1
+probably	1
+worry		1

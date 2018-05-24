@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+kim		1
+meeting		1
+plan		1
+steve		1
+change		1
+audrey		1
+looks		1

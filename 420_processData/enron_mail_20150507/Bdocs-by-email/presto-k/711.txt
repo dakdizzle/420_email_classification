@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+deadline	1
+timeline	1
+sign		1

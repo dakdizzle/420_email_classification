@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+test		2
+replacement	1
+understood	1
+non		1
+bid		1
+time		1
+well		1
+spin		1
+frontera	1
+continue	1
+going		1
+jmf		1

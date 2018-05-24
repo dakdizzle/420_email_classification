@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+look		1
+great		1
+scott		1
+forward		1
+seeing		1

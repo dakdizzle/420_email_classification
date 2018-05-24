@@ -1,0 +1,16 @@
+NumWords	18
+NumTerms	13
+
+burlington	3
+inc		2
+name		2
+resources	2
+changed		1
+agreed		1
+oba		1
+gathering	1
+execute		1
+update		1
+contract	1
+outstanding	1
+trading		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+much		1
+assistance	1
+message		1
+best		1
+well		1
+thank		1
+need		1
+rob		1
+very		1
+call		1

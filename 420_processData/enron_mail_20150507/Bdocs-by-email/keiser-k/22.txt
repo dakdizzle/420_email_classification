@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+need		2
+bridge		1
+risk		1
+management	1
+tom		1
+granted		1
+soon		1
+monitor		1
+thankskam	1
+thursday	1
+testing		1
+prepared	1
+everyone	1
+eol		1
+access		1
+reports		1
+needs		1

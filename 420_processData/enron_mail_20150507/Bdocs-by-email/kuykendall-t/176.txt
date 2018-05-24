@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+spreads		2
+addition	1
+others		1
+aeco		1
+few		1
+index		1
+gas		1
+daily		1
+along		1
+including	1
+rebuild		1

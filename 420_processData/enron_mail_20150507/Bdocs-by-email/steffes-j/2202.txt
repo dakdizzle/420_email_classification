@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+nice		1
+dinner		1
+thanks		1

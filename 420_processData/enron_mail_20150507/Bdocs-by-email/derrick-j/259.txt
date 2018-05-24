@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+right		1
+believe		1
+name		1
+work		1
+select		1
+committee	1
+earned		1

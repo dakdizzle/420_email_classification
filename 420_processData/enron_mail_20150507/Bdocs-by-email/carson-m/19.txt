@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+ken		2
+merideth	2
+further		1
+well		1
+comthankyou	1
+entergykoch	1
+doug		1
+wire		1
+confirmations	1
+please		1
+myself		1
+forward		1
+mike		1
+sewell		1
+carson		1

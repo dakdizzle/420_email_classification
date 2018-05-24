@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+amiga		1
+hey		1
+deal		1

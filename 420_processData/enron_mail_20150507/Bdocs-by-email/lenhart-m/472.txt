@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+around		1
+hull		1
+lets		1
+go		1
+think		1

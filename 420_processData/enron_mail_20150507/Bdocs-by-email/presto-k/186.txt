@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+fastow		1
+collateral	1
+serious		1
+see		1
+gone		1
+both		1
+easy		1
+equity		1
+issues		1
+downgrade	1
+liquidity	1
+more		1
+lay		1
+issue		1
+crisis		1
+called		1
+pretty		1
+think		1

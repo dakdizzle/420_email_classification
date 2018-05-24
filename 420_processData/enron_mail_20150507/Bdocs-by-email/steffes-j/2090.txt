@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+epsa		2
+alan		2
+cn		2
+enron		2
+meeting		1
+assume		1
+friday		1
+pls		1
+response	1
+recipients	1
+na		1
+filing		1
+call		1
+jim		1
+lead		1
+discussion	1
+acomnes		1
+ou		1
+before		1
+comnes		1
+comments	1
+give		1

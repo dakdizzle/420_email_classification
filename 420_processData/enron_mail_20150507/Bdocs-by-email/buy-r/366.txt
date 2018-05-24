@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+years		1
+beyond		1
+thing		1
+incident	1
+bomb		1
+ability		1
+rick		1
+whole		1
+including	1
+worked		1
+imaginations	1
+comprehend	1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+yeah		1
+baby		1
+spot		1
+hits		1

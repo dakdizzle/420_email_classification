@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+care		1
+hey		1
+yourself	1
+positions	1
+anytime		1
+attached	1
+deals		1
+curves		1
+curveshift	1
+take		1
+new		1
+call		1

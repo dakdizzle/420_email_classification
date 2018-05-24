@@ -1,0 +1,15 @@
+NumWords	19
+NumTerms	12
+
+cn		4
+enron		2
+recipients	2
+ou		2
+na		2
+joyce		1
+mary		1
+legal		1
+lance		1
+mjoyce		1
+lschule		1
+schuler		1

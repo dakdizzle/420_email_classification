@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+rental		1
+out		1
+one		1
+find		1
+average		1
+wha		1
+income		1

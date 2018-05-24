@@ -1,0 +1,18 @@
+NumWords	17
+NumTerms	15
+
+cn		2
+scorman		2
+recipients	1
+corman		1
+certificates	1
+filename	1
+na		1
+pstplease	1
+privileged	1
+non		1
+enron		1
+come		1
+sign		1
+ou		1
+shelley		1

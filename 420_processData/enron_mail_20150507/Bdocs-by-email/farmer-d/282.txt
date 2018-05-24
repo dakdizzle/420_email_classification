@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+morning		1
+entity		1
+distribution	1
+verified	1
+gas		1
+contact		1
+correct		1
+trade		1
+deal		1
+txu		1

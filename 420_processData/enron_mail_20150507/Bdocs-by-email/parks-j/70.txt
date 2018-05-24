@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+much		1
+day		1
+time		1
+details		1
+fishing		1
+trip		1
+give		1
+joe		1

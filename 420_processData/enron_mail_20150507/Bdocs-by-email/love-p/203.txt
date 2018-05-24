@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+phillip		2
+cn		2
+love		2
+plove		1
+letters		1
+pl		1
+friday		1
+recipients	1
+netco		1
+filename	1
+na		1
+out		1
+people		1
+enron		1
+sign		1
+ou		1
+news		1
+expecting	1
+pstwhile	1

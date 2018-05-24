@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+mucky		1
+interested	1
+playing		1
+trish		1
+fyi		1
+duck		1
+murphy		1
+tomorrow	1
+night		1
+line		1
+thought		1
+sue		1
+drop		1

@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+andy		1
+reporting	1
+loop		1

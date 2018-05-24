@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+settlement	1
+per		1
+change		1
+request		1

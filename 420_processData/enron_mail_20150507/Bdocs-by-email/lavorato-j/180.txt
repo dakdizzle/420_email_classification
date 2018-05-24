@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+included	1
+seems		1
+john		1
+future		1
+looks		1
+call		1
+arnolds		1
+odd		1
+contract	1
+old		1
+data		1
+still		1
+dave		1
+reports		1
+give		1

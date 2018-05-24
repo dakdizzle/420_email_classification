@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+email		1
+chicks		1
+idea		1
+bottom		1
+read		1
+gift		1

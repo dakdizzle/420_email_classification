@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+care		1
+taking		1
+much		1
+day		1
+thank		1
+jean		1
+aug		1
+thanks		1
+kim		1
+during		1
+available	1
+august		1
+lunch		1

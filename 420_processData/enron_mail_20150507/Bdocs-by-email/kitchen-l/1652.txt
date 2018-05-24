@@ -1,0 +1,22 @@
+NumWords	24
+NumTerms	19
+
+kitchen		2
+mrs		2
+kingdom		2
+united		2
+mr		2
+walk		1
+ro		1
+hadleigh	1
+road		1
+wilson		1
+east		1
+dr		1
+suffolk		1
+hu		1
+beverley	1
+ip		1
+yorkshire	1
+granary		1
+new		1

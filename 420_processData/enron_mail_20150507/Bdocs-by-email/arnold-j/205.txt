@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+wear		1
+english		1
+screw		1
+jersey		1
+red		1

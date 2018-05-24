@@ -1,0 +1,15 @@
+NumWords	15
+NumTerms	12
+
+scott		2
+cn		2
+neal		2
+plan		1
+sneal		1
+floor		1
+enron		1
+recipients	1
+ou		1
+pstfinal	1
+filename	1
+na		1

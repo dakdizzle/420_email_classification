@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+anyway		1
+way		1
+good		1
+pl		1
+ebay		1
+feel		1
+go		1
+sell		1
+confident	1
+sleeve		1
+luck		1
+thanks		1

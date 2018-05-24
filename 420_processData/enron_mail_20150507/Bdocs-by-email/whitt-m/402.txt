@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+party		1
+signal		1
+time		1
+morale		1
+combined	1
+share		1
+know		1
+approximately	1
+denver		1
+planning	1
+fyiwe		1
+important	1
+crestone	1
+way		1
+long		1
+booster		1
+christmas	1
+cheap		1
+go		1
+critical	1
+cost		1
+deal		1
+think		1
+joining		1

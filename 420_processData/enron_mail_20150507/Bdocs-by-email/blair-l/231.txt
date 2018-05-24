@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+lynn		1
+todd		1
+blair		1
+attending	1
+planning	1
+thanks		1

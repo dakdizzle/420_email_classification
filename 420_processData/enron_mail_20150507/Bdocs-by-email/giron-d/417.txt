@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+face		2
+respond		1
+thanksdg	1
+know		1
+available	1
+questions	1
+meet		1
+birgit		1

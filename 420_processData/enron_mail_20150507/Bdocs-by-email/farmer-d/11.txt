@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+info		1
+managers	1
+much		1
+situation	1
+updated		1
+credit		1
+attached	1
+along		1
+wanted		1
+names		1
+file		1
+pipeline	1
+numbers		1
+contract	1
+pass		1
+gotten		1
+suzanne		1
+haven		1

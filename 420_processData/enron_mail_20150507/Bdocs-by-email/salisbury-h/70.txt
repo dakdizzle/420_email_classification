@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+holden		2
+cn		2
+salisbury	2
+wisely		1
+avoid		1
+enpowered	1
+warned		1
+deals		1
+future		1
+recipients	1
+enpower		1
+filename	1
+na		1
+strips		1
+pstso		1
+enron		1
+multiple	1
+double		1
+ou		1
+cara		1
+hsalisbu	1
+counting	1

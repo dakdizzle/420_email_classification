@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+send		1
+paul		1
+attention	1
+efrain		1
+longer		1
+great		1
+cedeno		1
+ecoelectrica	1
+weekend		1
+below		1
+lopez		1
+address		1
+oscar		1
+victoria	1

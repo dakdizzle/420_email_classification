@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+first		1
+pitch		1
+seasoner	1
+friday		1
+throw		1
+field		1
+opener		1
+never		1
+nice		1
+hitting		1
+enron		1
+sally		1
+dirt		1
+saw		1
+one		1
+night		1
+last		1
+chance		1
+pre		1

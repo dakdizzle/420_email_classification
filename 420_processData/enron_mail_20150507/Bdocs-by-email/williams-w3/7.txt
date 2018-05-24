@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+theresa		1
+time		1
+information	1
+portland	1
+guys		1
+see		1
+thanks		1
+distribution	1
+real		1
+come		1
+bill		1
+dl		1
+shift		1
+add		1

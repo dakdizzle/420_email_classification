@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+beer		1
+drink		1
+opus		1
+bottle		1
+sneaking	1
+want		1
+work		1
+otherwise	1
+ll		1

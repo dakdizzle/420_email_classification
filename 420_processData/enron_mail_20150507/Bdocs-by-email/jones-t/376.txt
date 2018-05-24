@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+back		2
+week		2
+mark		1
+track		1
+vacation	1
+thanksgiving	1
+definitely	1
+yesterday	1
+out		1
+project		1
+want		1
+discussing	1
+next		1

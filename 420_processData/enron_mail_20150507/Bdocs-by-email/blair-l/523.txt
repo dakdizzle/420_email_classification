@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+lynn		1
+groups		1
+want		1
+anyone		1
+replied		1
+tickets		1
+give		1
+thanks		1

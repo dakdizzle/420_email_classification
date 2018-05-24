@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+peterhey	1
+whatever	1
+house		1
+hell		1
+lavo		1
+mungo		1
+buy		1
+mongo		1
+thanks		1

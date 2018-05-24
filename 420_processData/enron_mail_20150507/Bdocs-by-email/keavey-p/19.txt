@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+l		1
+main		1
+alejandra	1
+book		1
+tell		1
+pete		1
+still		1
+thanks		1

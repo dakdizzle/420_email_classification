@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+send		1
+jean		1
+entergy		1
+delay		1
+markets		1
+spp		1
+jim		1
+out		1
+something	1
+people		1
+voted		1
+business	1
+sure		1
+puct		1
+news		1

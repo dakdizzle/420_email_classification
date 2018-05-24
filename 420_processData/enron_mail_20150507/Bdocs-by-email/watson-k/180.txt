@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+board		1
+perry		1
+meeting		1
+spires		1
+tentative	1
+know		1
+ily		1
+week		1
+firm		1
+love		1
+date		1
+next		1

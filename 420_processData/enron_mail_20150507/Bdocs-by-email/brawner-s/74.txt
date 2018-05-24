@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+many		2
+one		2
+others		1
+cigs		1
+time		1
+culture		1
+enrons		1
+light		1
+print		1
+out		1
+years		1
+long		1
+life		1
+pack		1
+right		1
+enjoy		1
+reading		1
+coke		1
+author		1
+here		1

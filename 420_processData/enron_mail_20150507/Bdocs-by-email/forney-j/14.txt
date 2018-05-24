@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+inbox		2
+create		1
+leave		1
+tj		1
+folder		1
+thanks		1
+doesnt		1
+something	1
+promised	1
+need		1
+jmf		1
+tonight		1
+joe		1

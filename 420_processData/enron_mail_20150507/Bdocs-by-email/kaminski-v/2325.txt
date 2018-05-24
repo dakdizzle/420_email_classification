@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+accept		1
+vince		1
+meeting		1
+please		1
+ask		1
+following	1
+invitationto	1
+sandeep		1
+lunch		1

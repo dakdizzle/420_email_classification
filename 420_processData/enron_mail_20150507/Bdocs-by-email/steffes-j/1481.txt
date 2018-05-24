@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+cn		2
+jsteffe		2
+monday		1
+puc		1
+pstthanks	1
+contact		1
+recipients	1
+marianne	1
+filename	1
+na		1
+help		1
+privileged	1
+jim		1
+ve		1
+steffes		1
+non		1
+enron		1
+james		1
+ou		1
+need		1
+week		1
+next		1

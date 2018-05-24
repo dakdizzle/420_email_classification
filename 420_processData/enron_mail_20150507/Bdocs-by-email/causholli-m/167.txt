@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+version		1
+look		1
+revised		1
+please		1
+know		1
+karen		1
+monika		1
+take		1
+thanks		1

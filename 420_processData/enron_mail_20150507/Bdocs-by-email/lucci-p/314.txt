@@ -1,0 +1,8 @@
+NumWords	8
+NumTerms	5
+
+very		4
+acting		1
+good		1
+m		1
+bad		1

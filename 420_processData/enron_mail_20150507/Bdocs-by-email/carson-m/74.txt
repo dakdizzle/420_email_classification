@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+out		1
+send		1
+message		1
+mc		1
+detailed	1
+town		1
+note		1
+manana		1

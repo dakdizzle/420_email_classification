@@ -1,0 +1,21 @@
+NumWords	26
+NumTerms	18
+
+ect		3
+enron		3
+com		3
+williams	2
+jason		2
+xls		1
+day		1
+pm		1
+gc		1
+gsmith		1
+hou		1
+forwarded	1
+campbell	1
+amto		1
+subject		1
+comcc		1
+rsupert		1
+pecorp		1

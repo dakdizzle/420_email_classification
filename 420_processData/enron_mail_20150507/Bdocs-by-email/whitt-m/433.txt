@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+probably	1
+depending	1
+works		1
+huber		1

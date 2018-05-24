@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+wondering	1
+kim		1
+tracy		1
+working		1
+legal		1
+money		1
+thought		1
+kevin		1
+receive		1
+thanks		1

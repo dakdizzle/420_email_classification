@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+room		2
+kim		1
+confirmations	1
+location	1
+wednesday	1
+reserve		1
+forward		1
+once		1
+jessica		1
+having		1
+thanks		1

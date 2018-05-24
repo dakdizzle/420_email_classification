@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+status		1
+wondering	1
+hey		1
+product		1
+kevin		1
+dart		1

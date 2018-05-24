@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+interest	1
+tonight		1
+diamonds	1

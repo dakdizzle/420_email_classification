@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+stuff		1
+physical	1
+location	1
+until		1
+talk		1
+find		1
+see		1
+closer		1
+out		1
+really		1
+idea		1
+ngpl		1
+perm		1
+wes		1

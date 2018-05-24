@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+sell		1
+more		1
+chance		1

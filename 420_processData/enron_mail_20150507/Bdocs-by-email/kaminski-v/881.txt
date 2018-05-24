@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+kids		2
+diva		1
+ok		1
+christie	1
+crazy		1
+johnny		1
+letter		1
+la		1
+classic		1
+chevre		1
+movies		1
+enjoyvince	1
+three		1
+wives		1
+stecchino	1
+picks		1
+gods		1
+weekend		1
+more		1
+mature		1
+movie		1
+audience	1
+love		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+room		1
+grab		1
+free		1
+feel		1
+stop		1
+conference	1
+sure		1

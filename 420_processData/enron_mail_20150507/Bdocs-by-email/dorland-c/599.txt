@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+cell		1
+dorlandhome	1
+chris		1

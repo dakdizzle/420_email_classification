@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+paul		2
+pybarbo		2
+cn		2
+pstthis		1
+meeting		1
+future		1
+price		1
+recipients	1
+provide		1
+filename	1
+na		1
+barbo		1
+privileged	1
+capacity	1
+regarding	1
+non		1
+enron		1
+update		1
+available	1
+work		1
+ou		1
+doing		1
+spreads		1

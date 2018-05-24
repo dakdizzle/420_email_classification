@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+knowledge	1
+media		1
+far		1

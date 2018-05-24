@@ -1,0 +1,20 @@
+NumWords	20
+NumTerms	17
+
+call		2
+back		2
+ll		2
+case		1
+purse		1
+up		1
+carry		1
+try		1
+phone		1
+cell		1
+right		1
+again		1
+minutes		1
+need		1
+called		1
+hang		1
+van		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ds		1
+building	1
+team		1
+wednesday	1
+attending	1
+session		1
+august		1

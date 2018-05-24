@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+ferc		1
+really		1
+wanthttp	1
+www		1
+public		1
+fed		1
+pipecomp	1
+htm		1

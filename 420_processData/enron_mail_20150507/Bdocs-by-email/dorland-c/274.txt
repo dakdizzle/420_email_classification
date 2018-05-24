@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+cn		2
+little		1
+enron		1
+thank		1
+ddorland	1
+recipients	1
+ou		1
+na		1
+very		1
+dan		1
+dorland		1

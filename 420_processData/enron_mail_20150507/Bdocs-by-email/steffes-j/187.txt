@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+taking		1
+paul		1
+friday		1
+vacation	1
+today		1
+call		1
+jim		1
+possible	1
+please		1
+tomorrow	1
+week		1
+give		1
+next		1
+through		1

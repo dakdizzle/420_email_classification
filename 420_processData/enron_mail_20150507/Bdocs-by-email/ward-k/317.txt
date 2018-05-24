@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+fax		2
+city		2
+steve		1
+marie		1
+attorney	1
+isda		1
+glendale	1
+thanks		1
+lins		1
+kim		1
+ward		1
+please		1
+documents	1

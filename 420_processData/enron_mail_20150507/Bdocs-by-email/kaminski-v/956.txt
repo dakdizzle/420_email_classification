@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jx		1
+vince		1
+filename	1
+vkamins		1
+pst		1
+kaminski	1

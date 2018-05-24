@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+plove		2
+cn		2
+pstthis		1
+stevens		1
+pl		1
+recipients	1
+orig		1
+phillip		1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+change		1
+ou		1
+incorporates	1
+love		1

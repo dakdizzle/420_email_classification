@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+kwatson		2
+cn		2
+group		1
+invite		1
+thank		1
+friday		1
+attending	1
+recipients	1
+watson		1
+filename	1
+na		1
+privileged	1
+out		1
+kim		1
+lorraine	1
+kimberly	1
+psti		1
+non		1
+enron		1
+ou		1
+town		1
+next		1

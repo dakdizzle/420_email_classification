@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+las		1
+lisa		1
+days		1
+trip		1
+m		1
+sisters		1
+mom		1
+pleasure	1
+going		1
+last		1
+august		1
+vegas		1
+couple		1
+think		1

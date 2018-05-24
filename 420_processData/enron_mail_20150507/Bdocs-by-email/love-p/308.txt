@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+open		1
+look		1
+lavo		1
+file		1
+tabpl		1

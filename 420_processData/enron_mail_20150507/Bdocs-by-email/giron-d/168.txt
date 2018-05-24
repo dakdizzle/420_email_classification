@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+come		2
+tough		1
+down		1
+know		1
+count		1
+sometimes	1
+need		1
+dg		1
+tickets		1
+still		1
+planning	1
+head		1

@@ -1,0 +1,7 @@
+NumWords	5
+NumTerms	4
+
+pm		2
+jim		1
+est		1
+cst		1

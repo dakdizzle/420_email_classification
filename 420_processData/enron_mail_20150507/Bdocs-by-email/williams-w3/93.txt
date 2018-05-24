@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+hear		1
+great		1
+hey		1
+hope		1
+amy		1
+talking		1
+bill		1
+well		1
+recall		1
+trying		1
+side		1
+doing		1

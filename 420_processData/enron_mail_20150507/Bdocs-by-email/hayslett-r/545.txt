@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+blackberry	2
+stuff		1
+make		1
+net		1
+wireless	1
+handheld	1
+keep		1
+www		1
+loop		1
+drew		1
+sent		1
+dot		1
+sure		1

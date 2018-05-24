@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+info		1
+make		1
+legal		1
+regulatory	1
+want		1
+comfortable	1
+protected	1
+sure		1

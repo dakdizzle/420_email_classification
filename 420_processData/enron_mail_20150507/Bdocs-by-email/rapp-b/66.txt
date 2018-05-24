@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+ena		1
+attached	1
+letter		1
+draft		1
+review		1
+proposed	1
+agreement	1

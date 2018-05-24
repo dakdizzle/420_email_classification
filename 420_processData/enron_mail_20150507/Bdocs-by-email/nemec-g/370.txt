@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+oneok		3
+guaranty	2
+form		2
+email		1
+per		1
+holdings	1
+bridgeline	1
+know		1
+attached	1
+review		1
+incorporated	1
+redline		1
+yesterday	1
+executable	1
+please		1
+rudwell		1
+questions	1
+forward		1
+lp		1
+comments	1
+prepare		1

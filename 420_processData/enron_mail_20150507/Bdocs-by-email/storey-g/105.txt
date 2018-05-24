@@ -1,0 +1,23 @@
+NumWords	39
+NumTerms	20
+
+mar		4
+ena		4
+dec		4
+basis		3
+chicago		2
+koch		2
+jaron		2
+entergy		2
+ngi		2
+dominion	2
+sells		2
+buys		2
+confirmgeof	1
+proposed	1
+rita		1
+call		1
+trades		1
+dave		1
+give		1
+here		1

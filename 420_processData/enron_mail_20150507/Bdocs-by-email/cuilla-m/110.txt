@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+inch		1
+shoot		1
+sporting	1
+eagle		1
+black		1
+buying		1
+price		1
+benelli		1
+shells		1
+same		1
+gun		1
+super		1

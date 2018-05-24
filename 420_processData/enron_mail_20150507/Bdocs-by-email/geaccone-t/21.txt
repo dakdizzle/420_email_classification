@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+depreciation	1
+plan		1
+function	1
+going		1
+still		1

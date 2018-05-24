@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+want		2
+group		1
+together	1
+up		1
+create		1
+generated	1
+phillip		1
+exercises	1
+common		1
+aware		1
+hold		1
+many		1
+list		1
+scenarios	1
+ideas		1
+mistakes	1
+document	1
+additional	1
+simulation	1
+everyone	1
+works		1
+don		1
+inclusive	1

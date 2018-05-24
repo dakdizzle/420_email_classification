@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+year		2
+anniversary	1
+thing		1
+choices		1
+know		1
+inlight		1
+today		1
+advise		1
+pls		1
+bt		1
+out		1
+buckle		1
+co		1
+belt		1
+fact		1

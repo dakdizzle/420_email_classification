@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+long		1
+m		1
+shoes		1
+range		1
+discount	1
+cool		1
+d		1
+see		1
+fit		1

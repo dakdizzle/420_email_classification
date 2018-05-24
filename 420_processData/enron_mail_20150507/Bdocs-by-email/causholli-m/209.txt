@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+chile		1
+pulp		1
+spreadsheet	1
+karen		1
+markets		1
+industrial	1
+chilean		1
+capacity	1
+american	1
+south		1
+data		1
+monika		1
+placed		1
+hi		1
+fundamentals	1
+here		1

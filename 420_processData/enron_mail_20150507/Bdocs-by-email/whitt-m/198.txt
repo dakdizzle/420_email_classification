@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+huge		1
+know		1
+weather		1
+jackson		1
+great		1
+bow		1
+yds		1
+go		1
+fishing		1
+missed		1
+within		1
+called		1
+don		1
+took		1

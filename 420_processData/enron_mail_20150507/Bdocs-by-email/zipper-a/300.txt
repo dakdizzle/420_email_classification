@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+cn		2
+monday		1
+gmtsubject	1
+david		1
+azipper		1
+december	1
+recipients	1
+attachment	1
+inline		1
+na		1
+oconnor		1
+enron		1
+follows		1
+ubsw		1
+ou		1
+date		1
+com		1

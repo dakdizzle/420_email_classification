@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+minute		1
+jeff		1
+already		1
+give		1
+thanks		1
+call		1

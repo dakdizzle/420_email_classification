@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+conversation	2
+john		2
+portland	2
+talking		2
+email		1
+scott		1
+further		1
+talk		1
+chap		1
+lap		1
+know		1
+won		1
+today		1
+pursue		1
+hole		1
+decide		1
+tomorrow	1
+worht		1
+ms		1
+lousie		1
+move		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+http		1
+annistonstar	1
+www		1
+sports		1
+htm		1
+college		1
+com		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+fri		1
+celeste		1
+sat		1
+going		1
+br		1

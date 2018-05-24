@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+group		1
+situation	1
+contact		1
+anticipate	1
+sorry		1
+alexander	1
+delay		1
+responding	1
+point		1
+vince		1
+message		1
+enron		1
+shall		1
+changes		1
+formy		1
+hiring		1
+months		1
+don		1
+youif		1
+kaminski	1
+next		1
+over		1

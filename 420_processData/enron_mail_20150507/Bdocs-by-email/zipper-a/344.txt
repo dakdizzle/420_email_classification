@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+know		2
+dont		1
+don		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+both		1
+interruptible	1
+firm		1
+thanks		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+uc		1
+up		1
+time		1
+careful		1
+against		1
+going		1
+though		1
+csu		1
+d		1
+hardball	1

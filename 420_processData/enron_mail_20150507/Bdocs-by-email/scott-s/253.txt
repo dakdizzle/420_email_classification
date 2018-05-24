@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+put		1
+stick		1
+sign		1
+night		1
+going		1
+called		1
+tonight		1
+door		1
+drop		1

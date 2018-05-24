@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+meeting		1
+talk		1
+lokey		1
+comx		1
+stan		1
+today		1
+blair		1
+meet		1
+filename	1
+lichtenwalter	1
+privileged	1
+tlokey		1
+non		1
+enron		1
+origin		1
+going		1
+tx		1
+pstwere		1

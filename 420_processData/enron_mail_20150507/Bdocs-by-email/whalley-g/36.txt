@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+grant		1
+access		1

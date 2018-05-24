@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+allocated	1
+sales		1
+dow		1
+instead		1
+ok		1
+hsc		1
+index		1
+volumes		1
+price		1
+paying		1
+deal		1
+based		1

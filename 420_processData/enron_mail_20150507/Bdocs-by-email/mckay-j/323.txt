@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+home		1
+policy		1
+email		1
+stamps		1
+send		1
+instead		1
+list		1
+company		1
+keep		1
+thought		1

@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+mark		1
+value		1
+present		1
+up		1
+details		1
+model		1
+know		1
+came		1
+origination	1
+thanks		1
+kim		1
+used		1
+more		1
+need		1
+swap		1
+determine	1

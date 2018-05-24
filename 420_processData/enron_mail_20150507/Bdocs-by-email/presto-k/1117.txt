@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+none		1
+meetings	1

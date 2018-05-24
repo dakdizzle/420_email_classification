@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+crude		1
+heating		1
+futures		1
+unleaded	1
+talking		1
+know		1
+options		1
+seperate	1
+book		1
+oil		1
+kk		1

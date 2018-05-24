@@ -1,0 +1,10 @@
+NumWords	8
+NumTerms	7
+
+ok		2
+hope		1
+up		1
+greetings	1
+jeff		1
+best		1
+checking	1

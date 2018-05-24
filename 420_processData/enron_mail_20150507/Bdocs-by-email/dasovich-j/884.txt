@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+something	1
+dorothy		1
+sent		1
+jeff		1
+best		1
+received	1
+howdy		1
+haven		1

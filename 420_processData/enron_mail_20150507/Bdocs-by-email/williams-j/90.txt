@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+williams	2
+psttwizzlers	1
+jx		1
+content		1
+encoding	1
+please		1
+jason		1
+origin		1
+bitx		1
+filename	1
+transfer	1
+trading		1

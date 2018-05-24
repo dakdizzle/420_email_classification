@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+cn		2
+insurance	2
+discuss		1
+directly	1
+david		1
+patrick		1
+name		1
+fyi		1
+recipients	1
+na		1
+pjohns		1
+johnson		1
+enron		1
+one		1
+more		1
+ou		1
+marshall	1
+issue		1
+comments	1
+outstanding	1
+expert		1
+given		1

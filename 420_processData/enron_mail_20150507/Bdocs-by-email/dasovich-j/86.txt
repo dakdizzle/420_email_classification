@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+steffes		1
+fielder		1
+jeff		1
+debrief		1
+sending		1
+minutes		1
+kean		1
+shapiro		1
+talked		1

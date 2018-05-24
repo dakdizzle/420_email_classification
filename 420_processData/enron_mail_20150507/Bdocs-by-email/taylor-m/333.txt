@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+point		1
+good		1
+go		1
+bring		1
+idea		1
+print		1
+think		1
+over		1

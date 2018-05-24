@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+ed		1
+coming		1
+vince		1
+send		1
+starting	1
+scratch		1
+attachments	1
+new		1
+msg		1
+through		1

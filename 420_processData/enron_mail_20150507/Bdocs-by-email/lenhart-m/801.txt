@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+now		2
+dynegy		1
+happens		1
+risk		1
+aren		1
+takers		1
+assets		1
+see		1
+looks		1
+done		1
+around		1
+enron		1
+trades		1
+need		1
+wait		1
+deal		1
+big		1

@@ -1,0 +1,25 @@
+NumWords	31
+NumTerms	22
+
+pm		4
+mia		4
+rio		2
+iah		2
+morning		2
+hey		1
+babyhow		1
+know		1
+trouble		1
+glad		1
+amreturning	1
+loveme		1
+found		1
+informationgoing	1
+glasses		1
+questions	1
+amlet		1
+having		1
+bunda		1
+anyways		1
+flight		1
+here		1

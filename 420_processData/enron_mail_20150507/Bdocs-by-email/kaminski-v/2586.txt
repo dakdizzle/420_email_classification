@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+done		1
+check		1
+please		1
+therese		1

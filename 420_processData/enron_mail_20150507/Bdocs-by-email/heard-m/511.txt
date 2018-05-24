@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+guaranty	2
+form		2
+collateralize	1
+above		1
+attached	1
+marie		1
+ect		1
+provide		1
+proposed	1
+schedule	1
+receiving	1
+look		1
+investments	1
+enron		1
+threshold	1
+lissa		1
+forward		1
+corp		1
+rest		1

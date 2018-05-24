@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+first		1
+good		1
+goofed		1
+message		1
+short		1
+sager		1
+luck		1
+see		1
+elizabeth	1
+tonight		1
+think		1

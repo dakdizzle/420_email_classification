@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+m		1
+well		1
+buying		1
+still		1
+here		1

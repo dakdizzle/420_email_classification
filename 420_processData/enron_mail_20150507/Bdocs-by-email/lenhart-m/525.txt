@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+out		1
+go		1
+ready		1
+going		1
+tonight		1

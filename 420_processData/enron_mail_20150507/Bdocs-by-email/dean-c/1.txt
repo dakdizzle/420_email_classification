@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+thcraig		1
+monday		1
+amy		1
+feb		1
+thanks		1

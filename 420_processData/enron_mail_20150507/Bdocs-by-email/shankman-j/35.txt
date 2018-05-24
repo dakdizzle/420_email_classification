@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+know		1
+yes		1
+forget		1
+lot		1
+didn		1

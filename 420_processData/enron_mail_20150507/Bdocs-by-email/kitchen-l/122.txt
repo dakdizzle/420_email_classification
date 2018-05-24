@@ -1,0 +1,25 @@
+NumWords	25
+NumTerms	22
+
+kitchen		2
+louise		2
+cn		2
+mentioned	1
+david		1
+friday		1
+contact		1
+recipients	1
+problem		1
+filename	1
+na		1
+difficulty	1
+pstoxley	1
+out		1
+lkitchen	1
+shouldn		1
+sort		1
+enron		1
+please		1
+ou		1
+pat		1
+think		1

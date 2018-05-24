@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+soon		2
+message		2
+discuss		1
+knows		1
+between		1
+talk		1
+well		1
+interaction	1
+same		1
+enymex		1
+mention		1
+jim		1
+bo		1
+dinner		1
+sent		1
+relay		1
+happy		1
+told		1
+hughes		1
+eol		1
+having		1

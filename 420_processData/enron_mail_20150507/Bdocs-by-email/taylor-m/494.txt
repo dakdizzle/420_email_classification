@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+wondered	1
+ve		1
+much		1
+letters		1
+congrats	1
+published	1
+letter		1
+edit		1
+having		1
+always		1

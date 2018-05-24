@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+cn		2
+enron		1
+migden		1
+recipients	1
+ou		1
+janine		1
+na		1
+thanks		1
+jmigden		1

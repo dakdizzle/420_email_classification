@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+calendered	1
+yes		1

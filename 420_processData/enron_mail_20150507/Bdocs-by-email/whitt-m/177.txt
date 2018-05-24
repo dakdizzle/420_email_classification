@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+transaction	1
+timeline	1
+know		1
+definite	1
+week		1
+closing		1
+next		1

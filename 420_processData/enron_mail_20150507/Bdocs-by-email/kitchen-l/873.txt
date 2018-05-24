@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+good		1
+coul		1
+wek		1
+end		1
+thankshope	1
+please		1
+know		1
+overtime	1
+dyou		1
+issue		1
+pursue		1

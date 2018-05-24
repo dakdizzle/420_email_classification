@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+chilly		1
+willy		1
+bundalicious	1
+outside		1
+going		1
+loveme		1
+bad		1
+actually	1

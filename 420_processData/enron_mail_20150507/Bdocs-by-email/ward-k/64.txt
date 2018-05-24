@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+saw		1
+tucson		1
+acc		1
+presentation	1

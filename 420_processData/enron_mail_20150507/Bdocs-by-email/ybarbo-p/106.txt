@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+monday		1
+paul		1
+bid		1
+evaluating	1
+thank		1
+susan		1
+noon		1
+call		1
+capacity	1
+transportation	1
+great		1
+hope		1
+transwestern	1
+weekend		1
+before		1
+process		1
+proposal	1

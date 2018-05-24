@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+new		2
+building	1
+particular	1
+screens		1
+purchased	1
+verificationyou	1
+computer	1
+reason		1
+expenditure	1

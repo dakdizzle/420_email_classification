@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+know		1
+guys		1
+machine		1
+trying		1
+ads		1
+getting		1
+problembert	1
+onto		1
+error		1
+kept		1
+bill		1
+one		1
+want		1
+night		1
+probably	1
+log		1
+last		1
+server		1

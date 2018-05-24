@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+aol		1
+mawhitt		1
+home		1
+mark		1
+combt		1
+address		1

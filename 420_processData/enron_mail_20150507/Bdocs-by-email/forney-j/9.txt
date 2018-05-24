@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+jforney		2
+cn		2
+john		1
+attached	1
+schedules	1
+recipients	1
+filename	1
+na		1
+see		1
+privileged	1
+non		1
+enron		1
+please		1
+pstjerry	1
+tomorrow	1
+ou		1
+forney		1

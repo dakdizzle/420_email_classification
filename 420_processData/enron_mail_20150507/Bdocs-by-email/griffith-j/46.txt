@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+john		1
+questions	1
+call		1
+thanks		1

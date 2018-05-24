@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+online		1
+leave		1
+later		1
+see		1
+call		1
+tennis		1
+good		1
+ben		1
+back		1
+before		1
+need		1
+billy		1
+give		1
+ll		1
+play		1

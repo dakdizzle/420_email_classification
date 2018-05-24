@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+want		3
+make		1
+unbelievably	1
+meeting		1
+time		1
+try		1
+know		1
+y		1
+assure		1
+th		1
+julie		1
+presentation	1
+tight		1
+sent		1
+april		1
+m		1
+message		1
+many		1
+come		1
+unfortunately	1
+toronto		1
+attend		1

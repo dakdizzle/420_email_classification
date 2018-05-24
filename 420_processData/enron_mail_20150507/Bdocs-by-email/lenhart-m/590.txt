@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+um		1
+don		1
+remember	1

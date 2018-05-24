@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+anything	1
+look		1
+thankslouise	1
+notifying	1
+though		1
+answer		1
+asked		1
+doesn		1

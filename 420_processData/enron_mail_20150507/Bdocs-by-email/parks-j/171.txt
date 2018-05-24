@@ -1,0 +1,21 @@
+NumWords	22
+NumTerms	18
+
+joe		3
+parks		2
+cn		2
+know		1
+well		1
+recipients	1
+daivd		1
+filename	1
+na		1
+thanks		1
+look		1
+sent		1
+pstscott	1
+enron		1
+questions	1
+jparks		1
+ou		1
+chance		1

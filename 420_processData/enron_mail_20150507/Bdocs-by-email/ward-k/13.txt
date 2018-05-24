@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+transaction	1
+ect		1
+hyvl		1
+kimdan		1
+dan		1
+thanks		1
+hou		1
+kim		1
+ward		1
+amto		1
+smurfit		1
+ectcc		1
+subject		1
+agreement	1

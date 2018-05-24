@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+john		1
+personal	1
+ask		1
+contact		1
+favor		1
+delano		1
+number		1

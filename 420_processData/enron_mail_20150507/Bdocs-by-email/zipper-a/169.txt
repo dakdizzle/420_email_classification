@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+queue		1
+suspension	1
+ask		1
+volumetric	1
+valid		1
+put		1
+point		1
+launch		1
+harry		1
+issue		1
+comments	1
+development	1
+product		1
+think		1

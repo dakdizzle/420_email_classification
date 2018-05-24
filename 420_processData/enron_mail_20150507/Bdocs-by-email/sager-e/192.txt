@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+group		1
+present		1
+sharihope	1
+well		1
+ya		1
+count		1
+earlierelizabeth	1
+sager		1
+week		1
+see		1
+hi		1
+next		1

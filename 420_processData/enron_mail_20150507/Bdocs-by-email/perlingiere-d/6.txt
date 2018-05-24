@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+busy		2
+day		1
+ok		1
+well		1
+especially	1
+call		1
+better		1
+home		1
+each		1
+around		1
+dp		1
+hope		1
+feeling		1
+lets		1
+goings		1
+paralegal	1
+work		1
+yes		1
+called		1
+cowboy		1
+lunch		1
+give		1
+here		1

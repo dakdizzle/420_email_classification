@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+make		1
+paul		1
+everything	1
+lisa		1
+working		1
+ask		1
+autoscheduled	1
+system		1
+sure		1
+autoscheduling	1
+julie		1

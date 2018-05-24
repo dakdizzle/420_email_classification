@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+transcanada	2
+deals		2
+region		1
+passing		1
+term		1
+counterparty	1
+gas		1
+lady		1
+lizzie		1
+thanks		1
+call		1
+tracy		1
+around		1
+accounting	1
+handle		1
+best		1
+please		1
+thought		1
+incorrect	1
+opposed		1
+couple		1
+hi		1

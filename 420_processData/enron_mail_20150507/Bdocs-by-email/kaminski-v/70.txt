@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+help		2
+letters		1
+day		1
+write		1
+job		1
+few		1
+quite		1
+attached	1
+letter		1
+stinson		1
+shalesh		1
+vince		1
+easy		1
+description	1
+recommendation	1
+todayand	1
+going		1
+request		1

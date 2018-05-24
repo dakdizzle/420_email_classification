@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+group		1
+space		1
+jay		1

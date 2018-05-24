@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+forwarded	1
+sheet		1
+please		1
+attached	1
+review		1
+marathon	1
+earlier		1
+data		1
+chance		1
+oil		1
+see		1
+kay		1

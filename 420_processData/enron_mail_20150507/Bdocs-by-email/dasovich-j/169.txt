@@ -1,0 +1,27 @@
+NumWords	32
+NumTerms	24
+
+dasovich	4
+jeff		4
+privileged	2
+non		2
+begin		1
+stir		1
+text		1
+california	1
+create		1
+games		1
+plain		1
+considerable	1
+filename	1
+folder		1
+jx		1
+ansi		1
+content		1
+sent		1
+pstfyi		1
+type		1
+best		1
+origin		1
+itemsx		1
+charset		1

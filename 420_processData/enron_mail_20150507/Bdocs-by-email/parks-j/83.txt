@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+info		1
+anything	1
+dont		1
+galveston	1
+ok		1
+freds		1
+days		1
+know		1
+more		1
+need		1
+playa		1

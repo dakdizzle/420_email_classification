@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+sent		1
+plan		1
+wireless	1
+managing	1
+handheld	1
+rates		1
+find		1
+blackberry	1
+need		1
+someone		1
+software	1
+ll		1

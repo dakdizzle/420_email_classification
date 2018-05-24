@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+kitchen		2
+louise		2
+cn		2
+monday		1
+group		1
+pm		1
+wording		1
+credit		1
+urgent		1
+know		1
+teh		1
+recipients	1
+filename	1
+na		1
+mopnday		1
+help		1
+planning	1
+pston		1
+lkitchen	1
+people		1
+enron		1
+start		1
+ou		1

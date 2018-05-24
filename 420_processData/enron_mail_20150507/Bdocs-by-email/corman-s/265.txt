@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+paa		2
+forgot		1
+supplemental	1
+ask		1
+gas		1
+adjust		1
+holidays	1
+asked		1
+checks		1
+same		1
+logistic	1
+call		1
+pipeline	1
+please		1
+control		1
+paperwork	1
+happy		1
+need		1
+eott		1
+separate	1
+give		1
+gift		1

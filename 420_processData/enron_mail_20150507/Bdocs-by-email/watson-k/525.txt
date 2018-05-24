@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+posted		1
+kim		1
+looking		1
+logo		1
+keep		1
+tw		1
+kevin		1
+ll		1

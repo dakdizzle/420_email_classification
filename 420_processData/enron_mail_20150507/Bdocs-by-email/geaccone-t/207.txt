@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+tgeacco		2
+cn		2
+throughput	1
+recipients	1
+geaccone	1
+september	1
+filename	1
+na		1
+privileged	1
+capacity	1
+pstqestion	1
+tracy		1
+non		1
+enron		1
+utilization	1
+ytd		1
+against		1
+ou		1
+contracted	1

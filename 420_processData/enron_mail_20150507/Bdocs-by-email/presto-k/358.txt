@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+cycle		1
+combined	1
+started		1
+construction	1
+peaker		1
+plant		1

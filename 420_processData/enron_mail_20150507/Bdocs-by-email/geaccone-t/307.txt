@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+soap		1
+enjoyed		1
+ladies		1
+worked		1
+miss		1
+out		1
+tracy		1
+really		1
+watching	1
+good		1
+vietnamese	1
+work		1
+hands		1
+operas		1
+feet		1
+love		1

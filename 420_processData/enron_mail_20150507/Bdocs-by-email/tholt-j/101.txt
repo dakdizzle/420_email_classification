@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+number		2
+cn		2
+llawner		1
+leslie		1
+connencting	1
+try		1
+trouble		1
+recipients	1
+phone		1
+na		1
+call		1
+enron		1
+ou		1
+lawner		1

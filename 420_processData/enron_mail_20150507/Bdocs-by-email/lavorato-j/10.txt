@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+make		1
+place		1
+power		1
+john		1
+company		1
+know		1
+gas		1
+permanent	1
+filename	1
+lavorato	1
+please		1
+best		1
+feel		1
+jlavora		1
+var		1
+temperary	1
+johnx		1
+pstricki	1
+give		1

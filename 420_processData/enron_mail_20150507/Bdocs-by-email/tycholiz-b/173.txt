@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+those		1
+know		1
+lawyers		1
+bt		1
+trust		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+working		1
+louise		1
+appreciate	1
+thanks		1

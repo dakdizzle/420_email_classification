@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+kansas		1
+gs		1
+louis		1
+go		1
+far		1
+etc		1
+city		1
+looks		1
+st		1
+miami		1

@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+close		1
+respond		1
+power		1
+wood		1
+spreadsheet	1
+attached	1
+plants		1
+take		1
+thanks		1
+pipeline	1
+kim		1
+look		1
+lorraine	1
+please		1
+mid		1
+bill		1
+determine	1
+november	1

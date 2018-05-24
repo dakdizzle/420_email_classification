@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+trades		1
+test		1
+view		1

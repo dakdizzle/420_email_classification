@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+forwarded	1
+john		1
+need		1

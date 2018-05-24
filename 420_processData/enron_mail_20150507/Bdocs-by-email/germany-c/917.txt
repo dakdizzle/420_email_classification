@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+net		1
+photo		1
+woman		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lynn		1
+john		1
+attached	1
+review		1
+chris		1
+help		1
+thanks		1

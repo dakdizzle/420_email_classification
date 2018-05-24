@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+m		1
+good		1
+dad		1
+old		1
+far		1
+damn		1
+thanks		1

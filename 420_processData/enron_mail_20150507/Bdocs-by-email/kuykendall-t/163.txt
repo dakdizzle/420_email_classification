@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+tkuyken		2
+cn		2
+dana		1
+hurry		1
+owe		1
+kuykendall	1
+recipients	1
+filename	1
+na		1
+biggie		1
+privileged	1
+somebody	1
+m		1
+pstok		1
+non		1
+enron		1
+pay		1
+ou		1
+everyone	1
+tori		1
+give		1

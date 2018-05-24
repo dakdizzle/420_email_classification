@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+logical		1
+seems		1
+serious		1
+days		1
+tell		1
+request		1

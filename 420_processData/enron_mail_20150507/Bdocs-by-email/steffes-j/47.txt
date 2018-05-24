@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+linda		1
+pls		1
+attachment	1
+print		1

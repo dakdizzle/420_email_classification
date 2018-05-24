@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+enron		2
+agreements	2
+eb		1
+fax		1
+company		1
+legal		1
+gas		1
+houston		1
+street		1
+response	1
+inquiry		1
+currently	1
+tosco		1
+america		1
+refining	1
+regarding	1
+regards		1
+texas		1
+dperlin		1
+show		1
+north		1
+smith		1
+perlingiereenron	1
+debra		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+agreeed		1
+today		1
+response	1
+yes		1
+mike		1
+replied		1
+waiting		1
+money		1
+asked		1
+wire		1

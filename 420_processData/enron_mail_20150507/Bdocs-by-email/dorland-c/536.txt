@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+easy		1
+ene		1
+look		1
+money		1
+chris		1

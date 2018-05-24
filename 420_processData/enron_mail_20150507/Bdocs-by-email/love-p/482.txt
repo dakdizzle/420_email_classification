@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+validation	1
+pl		1
+scott		1
+handling	1
+now		1
+fyi		1
+longer		1
+tackett		1
+forwarded	1
+sean		1
+works		1
+deal		1
+here		1

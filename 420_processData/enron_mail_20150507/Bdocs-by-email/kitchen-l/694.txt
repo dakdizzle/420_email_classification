@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+child		1
+little		1
+awful		1
+another		1
+kid		1
+poor		1
+think		1

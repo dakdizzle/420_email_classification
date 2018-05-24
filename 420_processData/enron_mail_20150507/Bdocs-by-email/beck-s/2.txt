@@ -1,0 +1,22 @@
+NumWords	22
+NumTerms	19
+
+best		2
+determine	2
+needs		2
+floor		1
+placement	1
+machines	1
+plans		1
+someone		1
+copies		1
+morning		1
+confirmations	1
+team		1
+sally		1
+specify		1
+method		1
+coordinate	1
+sometime	1
+obtain		1
+settlements	1

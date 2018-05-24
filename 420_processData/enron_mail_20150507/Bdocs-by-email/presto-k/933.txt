@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+make		1
+invite		1
+won		1
+thanks		1

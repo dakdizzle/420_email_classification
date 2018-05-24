@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+info		1
+send		1
+cooper		1
+john		1
+contact		1
+again		1
+thx		1
+sorry		1
+mike		1
+bother		1

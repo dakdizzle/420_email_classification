@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+please		2
+order		1
+thankslouise	1
+discount	1
+black		1
+go		1
+repeat		1
+ordering	1
+fedex		1
+mail		1
+mat		1
+ll		1

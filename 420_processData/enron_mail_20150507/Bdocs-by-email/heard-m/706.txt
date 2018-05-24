@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+marie		2
+cn		2
+mheard		2
+heard		1
+attached	1
+review		1
+recipients	1
+filename	1
+na		1
+schedule	1
+pstplease	1
+thanks		1
+privileged	1
+asap		1
+non		1
+enron		1
+ou		1
+comments	1
+paragraph	1
+frank		1

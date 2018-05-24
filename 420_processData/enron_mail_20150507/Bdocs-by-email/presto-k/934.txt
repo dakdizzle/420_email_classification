@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+list		2
+courdelane	1
+sp		1
+names		1
+trip		1
+special		1
+people		1
+asap		1
+aviation	1
+vegaswe		1
+need		1
+cabo		1
+think		1

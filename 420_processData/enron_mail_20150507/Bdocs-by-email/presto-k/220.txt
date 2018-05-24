@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+energy		1
+rounds		1
+relationship	1
+power		1
+near		1
+doen		1
+risk		1
+course		1
+impression	1
+reck		1
+anywhere	1
+talking		1
+believe		1
+want		1
+corp		1
+making		1
+commodity	1

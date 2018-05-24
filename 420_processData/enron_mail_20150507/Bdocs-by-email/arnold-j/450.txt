@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+heard		1
+buddy		1
+hey		1
+interest	1
+field		1
+seats		1
+homerun		1
+right		1
+going		1
+town		1
+game		1
+catching	1
+tonight		1
+bb		1

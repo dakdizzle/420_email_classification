@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+copy		1
+files		1
+made		1
+before		1
+holidays	1

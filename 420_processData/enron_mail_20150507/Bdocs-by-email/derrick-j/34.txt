@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+revisions	1
+derrick		1
+proposed	1

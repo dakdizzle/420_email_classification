@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+sheet		1
+need		1
+corp		1
+data		1
+still		1
+think		1
+thanks		1

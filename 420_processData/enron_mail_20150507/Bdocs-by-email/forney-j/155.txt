@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+earliest	1
+please		1
+convenience	1
+speak		1
+need		1
+jmf		1
+thanks		1
+call		1

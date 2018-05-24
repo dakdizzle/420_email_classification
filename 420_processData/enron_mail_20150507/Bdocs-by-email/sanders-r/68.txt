@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+handle		1
+huh		1
+wish		1

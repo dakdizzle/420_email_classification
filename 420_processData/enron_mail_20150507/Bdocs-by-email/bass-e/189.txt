@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hear		1
+nice		1
+look		1
+forward		1
+speaking	1

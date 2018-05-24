@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+president	1
+mark		1
+counselenron	1
+services	1
+taylorvice	1
+wholesale	1
+general		1

@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+jeff		2
+energy		1
+fyi		1
+trying		1
+na		1
+dasovich	1
+truth		1
+bev		1
+fw		1
+out		1
+forwarded	1
+enron		1
+quiver		1
+come		1
+best		1
+please		1
+arrows		1
+subject		1
+more		1
+forward		1

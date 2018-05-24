@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+email		1
+maggi		1
+address		1
+lavorato	1

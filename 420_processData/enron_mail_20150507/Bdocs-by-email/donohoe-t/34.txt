@@ -1,0 +1,21 @@
+NumWords	18
+NumTerms	18
+
+severence	1
+monday		1
+coming		1
+looking		1
+jeanie		1
+light		1
+tom		1
+volunteer	1
+layoff		1
+call		1
+people		1
+layoffs		1
+possible	1
+please		1
+hr		1
+donohoe		1
+questions	1
+package		1

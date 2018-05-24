@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+labbe		1
+vince		1
+good		1
+please		1
+anne		1
+shirley		1
+looks		1

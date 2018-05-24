@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+little		1
+long		1
+make		1
+yes		1
+money		1
+side		1
+market		1

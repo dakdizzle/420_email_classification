@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+brother		1
+attached	1
+letter		1
+resume		1
+cover		1

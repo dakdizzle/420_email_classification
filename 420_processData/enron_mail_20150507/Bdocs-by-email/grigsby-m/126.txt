@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+open		1
+scroll		1
+mike		1
+left		1
+data		1
+file		1
+include		1
+thanks		1
+actually	1

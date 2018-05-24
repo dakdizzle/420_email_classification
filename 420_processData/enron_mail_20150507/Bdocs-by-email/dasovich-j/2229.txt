@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hold		1
+sorts		1
+m		1
+things		1
+assuming	1

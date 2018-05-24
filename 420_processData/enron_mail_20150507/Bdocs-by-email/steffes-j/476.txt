@@ -1,0 +1,27 @@
+NumWords	50
+NumTerms	24
+
+cn		10
+recipients	5
+na		5
+enron		5
+ou		5
+steve		2
+swalto		1
+paul		1
+perrino		1
+fyi		1
+slandweh	1
+pkaufma		1
+susan		1
+dperrino	1
+alan		1
+kaufman		1
+call		1
+jim		1
+walton		1
+landwehr	1
+want		1
+acomnes		1
+comnes		1
+dave		1

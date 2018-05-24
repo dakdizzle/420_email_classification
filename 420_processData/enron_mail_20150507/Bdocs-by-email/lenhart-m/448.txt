@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+out		1
+friends		1
+jill		1
+party		1
+everything	1
+start		1
+going		1
+halloween	1
+help		1
+think		1
+telling		1

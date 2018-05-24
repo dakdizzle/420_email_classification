@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+picture		1
+atta		1
+asem		1
+see		1

@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+cn		2
+seen		1
+da		1
+enron		1
+statements	1
+recipients	1
+ou		1
+susan		1
+na		1
+haven		1
+smara		1
+mara		1

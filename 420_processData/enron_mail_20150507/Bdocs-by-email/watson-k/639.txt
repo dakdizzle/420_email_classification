@@ -1,0 +1,21 @@
+NumWords	21
+NumTerms	18
+
+cn		2
+thursday	2
+going		2
+between		1
+up		1
+wed		1
+recipients	1
+steven		1
+na		1
+kevin		1
+kim		1
+enron		1
+several		1
+sharris		1
+harris		1
+ou		1
+shop		1
+splitting	1

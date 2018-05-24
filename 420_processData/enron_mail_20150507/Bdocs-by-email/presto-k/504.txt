@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+research	1
+lloyd		1
+support		1
+good		1
+fundies		1
+interface	1
+received	1
+very		1
+general		1

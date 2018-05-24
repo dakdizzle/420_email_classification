@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+tools		1
+make		1
+consistent	1
+applied		1
+responsibility	1
+need		1
+markets		1

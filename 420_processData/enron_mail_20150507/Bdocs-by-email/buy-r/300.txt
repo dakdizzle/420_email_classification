@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+rick		1
+yes		1
+before		1
+attend		1
+prc		1

@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+stock		1
+up		1
+guys		1
+spreadsheet	1
+meet		1
+weren		1
+call		1
+out		1
+really		1
+suppose		1
+colorado	1
+analysis	1
+ben		1
+come		1
+available	1
+go		1
+questions	1
+harry		1
+use		1
+dad		1
+chance		1
+quick		1
+through		1
+here		1

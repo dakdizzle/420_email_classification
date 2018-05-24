@@ -1,0 +1,13 @@
+NumWords	13
+NumTerms	10
+
+cn		2
+john		2
+zufferli	2
+enron		1
+jzuffer		1
+recipients	1
+ou		1
+filename	1
+na		1
+pst		1

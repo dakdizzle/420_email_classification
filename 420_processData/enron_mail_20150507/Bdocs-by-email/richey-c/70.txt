@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+out		1
+really		1
+go		1
+want		1
+stop		1
+don		1
+think		1

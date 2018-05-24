@@ -1,0 +1,24 @@
+NumWords	22
+NumTerms	21
+
+call		2
+email		1
+scott		1
+time		1
+until		1
+know		1
+returning	1
+susan		1
+appreciate	1
+thanks		1
+yesterday	1
+actually	1
+patty		1
+out		1
+really		1
+apologize	1
+best		1
+sooner		1
+town		1
+hi		1
+drop		1

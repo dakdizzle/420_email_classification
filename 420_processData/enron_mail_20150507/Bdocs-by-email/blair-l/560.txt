@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+lynn		1
+pack		1
+helps		1
+cold		1
+update		1
+jan		1
+think		1
+thansk		1
+thanks		1

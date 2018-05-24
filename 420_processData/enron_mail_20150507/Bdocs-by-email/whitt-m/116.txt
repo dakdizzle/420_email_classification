@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+lie		1
+reviewing	1
+today		1
+tape		1
+security	1
+tapes		1
+doesn		1

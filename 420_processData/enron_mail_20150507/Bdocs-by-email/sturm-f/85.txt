@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+joseph		1
+comfletch	1
+publisher	1
+online		1
+direct		1
+book		1
+interest	1
+pennwell	1
+com		1
+amazon		1
+thanks		1

@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+know		1
+gas		1
+west		1
+attached	1
+origination	1
+price		1
+requested	1
+anything	1
+kim		1
+wardmanager	1
+brenda		1
+need		1
+indications	1

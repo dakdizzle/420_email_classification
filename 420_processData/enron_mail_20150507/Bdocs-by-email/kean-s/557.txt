@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+skean		2
+cn		2
+communication	1
+attached	1
+final		1
+recipients	1
+materials	1
+kean		1
+steven		1
+filename	1
+na		1
+privileged	1
+non		1
+enron		1
+pstthe		1
+use		1
+ou		1
+deal		1

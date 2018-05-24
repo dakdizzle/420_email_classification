@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+out		1
+ve		1
+around		1
+look		1
+good		1
+sent		1
+desk		1
+book		1
+feelers		1
+etc		1
+ll		1

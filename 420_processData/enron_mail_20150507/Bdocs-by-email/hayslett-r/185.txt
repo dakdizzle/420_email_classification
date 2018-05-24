@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+blackberry	2
+net		1
+wireless	1
+handheld	1
+steve		1
+dowd		1
+www		1
+stans		1
+nee		1
+sent		1
+apologize	1
+office		1
+go		1

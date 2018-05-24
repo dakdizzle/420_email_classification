@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+email		1
+married		1
+talk		1
+guy		1
+know		1
+occationally	1
+canada		1
+getting		1
+didn		1

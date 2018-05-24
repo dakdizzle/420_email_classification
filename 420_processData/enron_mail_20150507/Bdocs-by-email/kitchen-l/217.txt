@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+steffes		1
+officerenron	1
+fax		1
+nicolay		1
+americastel	1
+operating	1
+louise		1
+kitchenchief	1

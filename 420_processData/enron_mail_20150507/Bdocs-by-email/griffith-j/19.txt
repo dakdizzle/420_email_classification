@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+youthe		1
+sugar		1
+hey		1
+up		1
+deposit		1
+pick		1
+pigs		1
+call		1
+check		1
+want		1
+chance		1
+don		1
+love		1
+okay		1

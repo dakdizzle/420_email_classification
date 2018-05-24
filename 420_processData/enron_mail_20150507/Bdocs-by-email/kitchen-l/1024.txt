@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+chicago		1
+trip		1

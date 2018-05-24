@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+texas		1
+steve		1
+won		1
+ou		1
+sooner		1
+boomer		1
+participate	1
+game		1
+thanks		1

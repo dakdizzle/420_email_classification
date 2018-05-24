@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+credit		1
+counterparty	1
+meredith	1
+lists		1
+review		1
+kevin		1
+receive		1

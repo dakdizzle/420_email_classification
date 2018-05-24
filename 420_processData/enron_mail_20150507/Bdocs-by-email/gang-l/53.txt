@@ -1,0 +1,21 @@
+NumWords	19
+NumTerms	18
+
+thank		2
+much		1
+included	1
+lisa		1
+know		1
+steve		1
+rate		1
+major		1
+home		1
+go		1
+documentation	1
+work		1
+need		1
+going		1
+original	1
+don		1
+very		1
+think		1

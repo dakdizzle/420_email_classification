@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ed		1
+good		1
+piece		1
+op		1

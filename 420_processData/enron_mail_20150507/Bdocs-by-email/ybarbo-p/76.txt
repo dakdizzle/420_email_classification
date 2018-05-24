@@ -1,0 +1,23 @@
+NumWords	21
+NumTerms	20
+
+received	2
+dynegy		1
+paul		1
+cargo		1
+few		1
+attached	1
+trying		1
+file		1
+thanks		1
+confirm		1
+cargoes		1
+each		1
+list		1
+bill		1
+ecoelectrica	1
+last		1
+months		1
+lading		1
+lpg		1
+maricely	1

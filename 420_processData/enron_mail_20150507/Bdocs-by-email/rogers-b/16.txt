@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+jrogers		1
+cinergy		1
+com		1

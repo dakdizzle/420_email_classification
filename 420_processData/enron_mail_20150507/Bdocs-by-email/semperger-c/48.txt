@@ -1,0 +1,26 @@
+NumWords	27
+NumTerms	23
+
+cara		3
+semperger	2
+cn		2
+power		1
+pstdonald	1
+scheduling	1
+now		1
+taken		1
+recipients	1
+sempergerwest	1
+filename	1
+na		1
+thanks		1
+america		1
+csemper		1
+enron		1
+nw		1
+north		1
+helping		1
+ou		1
+feb		1
+supervisorenron	1
+over		1

@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+know		2
+ll		2
+mark		1
+make		1
+look		1
+planned		1
+ny		1
+changes		1
+weekend		1
+previously	1
+wanted		1
+doesn		1

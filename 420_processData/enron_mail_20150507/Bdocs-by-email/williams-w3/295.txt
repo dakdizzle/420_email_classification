@@ -1,0 +1,26 @@
+NumWords	41
+NumTerms	23
+
+monday		5
+peak		5
+check		4
+mws		4
+sunday		2
+kysa		2
+nw		2
+st		2
+word		1
+diana		1
+sp		1
+day		1
+epe		1
+know		1
+short		1
+price		1
+kate		1
+holden		1
+questions	1
+midc		1
+sell		1
+pv		1
+b		1

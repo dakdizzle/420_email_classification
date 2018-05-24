@@ -1,0 +1,25 @@
+NumWords	29
+NumTerms	22
+
+com		3
+kwi		2
+david		2
+vince		2
+enron		2
+kaminski	2
+user		1
+contact		1
+person		1
+djw		1
+talked		1
+pmto		1
+warwick		1
+please		1
+vincedavid	1
+js		1
+go		1
+groupvinceyes	1
+ahead		1
+subject		1
+london		1
+pr		1

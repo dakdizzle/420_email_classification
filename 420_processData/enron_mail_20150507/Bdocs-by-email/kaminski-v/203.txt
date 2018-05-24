@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+aol		1
+gordonmy	1
+vince		1
+comgood		1
+vkaminski	1
+mail		1
+luck		1
+address		1

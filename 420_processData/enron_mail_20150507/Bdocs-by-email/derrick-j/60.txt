@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+retention	1
+kelly		1
+best		1
+graykowski	1
+mr		1
+fine		1
+proposed	1

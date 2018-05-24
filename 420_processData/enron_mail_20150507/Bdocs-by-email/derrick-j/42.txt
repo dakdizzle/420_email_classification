@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+jim		1
+support		1
+message		1
+kriste		1
+best		1
+thank		1

@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+out		2
+m		1
+jeff		1
+please		1
+know		1
+find		1
+committee	1
+don		1
+mgmt		1
+mtg		1
+thanks		1

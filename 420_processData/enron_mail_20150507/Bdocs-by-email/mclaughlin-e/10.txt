@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+look		1
+asap		1
+know		1
+errol		1
+take		1

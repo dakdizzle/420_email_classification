@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+master		1
+sample		1
+send		1
+bryan		1
+please		1
+firm		1
+gary		1
+thanks		1
+debra		1

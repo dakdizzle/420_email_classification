@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+guys		2
+partying	1
+around		1
+until		1
+huh		1
+saw		1
+called		1
+doing		1

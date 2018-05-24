@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+miles		1
+knows		1
+god		1
+come		1
+weekend		1
+harry		1
+last		1
+slow		1
+attend		1
+see		1
+ll		1

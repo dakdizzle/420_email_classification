@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+notes		2
+scheduling	1
+tj		1
+alex		1
+thanks		1
+doesnt		1
+groups		1
+lotus		1
+use		1
+within		1
+communicate	1
+access		1
+jmf		1
+rt		1
+request		1

@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+arkansas	3
+guy		2
+invented	1
+id		1
+asks		1
+road		1
+replies		1
+teethbrush	1
+driving		1
+pulls		1
+joke		1
+down		1
+toothbrush	1
+one		1
+rural		1
+nother		1
+cop		1
+called		1
+bout		1
+otherwise	1
+over		1

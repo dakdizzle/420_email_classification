@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+quot		1
+working		1
+gas		1
+function	1
+web		1
+nymex		1
+site		1
+seem		1
+es		1
+enron		1
+discontinued	1
+used		1
+carsonmike	1
+more		1
+mike		1
+natural		1
+access		1
+carson		1
+product		1
+com		1

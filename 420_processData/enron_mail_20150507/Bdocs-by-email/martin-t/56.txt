@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+martin		2
+tom		2
+cn		2
+send		1
+forgot		1
+thomas		1
+recipients	1
+attachment	1
+filename	1
+na		1
+pstdetails	1
+tmartin		1
+enron		1
+ou		1

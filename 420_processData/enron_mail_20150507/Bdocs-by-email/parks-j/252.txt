@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+know		1
+questions	1
+joe		1

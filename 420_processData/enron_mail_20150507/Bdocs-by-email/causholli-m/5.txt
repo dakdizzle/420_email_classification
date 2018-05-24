@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+hey		1
+stacey		1
+sending		1
+monika		1
+template	1
+presentation	1
+thanks		1

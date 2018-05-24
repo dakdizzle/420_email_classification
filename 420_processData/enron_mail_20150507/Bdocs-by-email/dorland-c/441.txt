@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+close		1
+hey		1
+drive		1
+place		1
+chris		1
+out		1
+house		1
+neighbor	1
+check		1
+weekend		1
+bought		1
+isn		1
+pretty		1
+st		1
+ll		1

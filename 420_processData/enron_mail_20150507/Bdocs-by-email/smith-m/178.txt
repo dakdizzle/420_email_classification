@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+hey		1
+list		1
+index		1
+know		1
+anne		1
+west		1
+curve		1
+oracle		1
+curves		1
+database	1
+mat		1
+codes		1

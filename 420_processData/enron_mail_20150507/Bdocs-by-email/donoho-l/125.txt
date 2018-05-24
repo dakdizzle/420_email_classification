@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+demand		1
+revenues	1
+bullet		1
+ballpark	1
+percentage	1
+jan		1
+gina		1
+charges		1
+over		1
+here		1

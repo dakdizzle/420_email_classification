@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+bill		1
+count		1

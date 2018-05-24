@@ -1,0 +1,21 @@
+NumWords	20
+NumTerms	18
+
+party		2
+going		2
+fight		1
+beer		1
+day		1
+greg		1
+drive		1
+time		1
+talk		1
+exciting	1
+men		1
+russ		1
+fine		1
+around		1
+wife		1
+perfect		1
+fondness	1
+saturday	1

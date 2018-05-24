@@ -1,0 +1,7 @@
+NumWords	6
+NumTerms	4
+
+canada		2
+post		2
+power		1
+gas		1

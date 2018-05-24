@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+thanks		2
+chance		2
+bruce		1
+hey		1
+now		1
+meet		1
+call		1
+wondering	1
+people		1
+sean		1
+again		1
+work		1
+mail		1
+give		1

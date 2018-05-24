@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+mark		1
+ina		1
+please		1
+july		1
+vacation	1
+phillip		1
+august		1
+calendar	1

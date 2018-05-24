@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+morgan		2
+whatever	1
+stanley		1
+working		1
+steve		1
+confused	1

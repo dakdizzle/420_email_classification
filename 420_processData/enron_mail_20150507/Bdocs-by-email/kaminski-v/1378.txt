@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+mac		1
+vince		1
+dinner		1
+directly	1
+respond		1
+interested	1
+zimin		1
+please		1

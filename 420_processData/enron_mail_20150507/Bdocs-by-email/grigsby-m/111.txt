@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+rice		1
+grigs		1
+happy		1
+birthday	1

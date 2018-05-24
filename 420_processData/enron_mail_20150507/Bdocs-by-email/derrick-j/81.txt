@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+thank		1
+pleased		1
+schedules	1
+partners	1
+appreciate	1
+meet		1
+kersten		1
+coordinating	1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ferc		1
+updates		1
+want		1
+continue	1
+receive		1

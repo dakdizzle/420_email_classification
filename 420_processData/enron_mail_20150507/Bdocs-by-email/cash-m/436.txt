@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+tommy		1
+want		1
+expedite	1

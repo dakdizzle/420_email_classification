@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+reserve		2
+way		1
+agreed		1
+wonder		1
+rick		1
+find		1
+amounts		1
+tx		1
+general		1
+ledger		1

@@ -1,0 +1,12 @@
+NumWords	11
+NumTerms	9
+
+sent		2
+know		2
+out		1
+nelson		1
+documents	1
+earlier		1
+don		1
+thorne		1
+judy		1

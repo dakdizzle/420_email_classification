@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+ve		1
+table		1
+many		1
+interested	1
+folks		1
+michelle	1
+already		1
+misha		1
+thanks		1

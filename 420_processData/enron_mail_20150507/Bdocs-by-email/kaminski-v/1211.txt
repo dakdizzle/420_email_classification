@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+vkamins		2
+vince		2
+cn		2
+account		1
+visitor		1
+company		1
+prediction	1
+pstjay		1
+recipients	1
+filename	1
+na		1
+privileged	1
+inquired	1
+jim		1
+non		1
+abouta		1
+enron		1
+ou		1
+give		1
+kaminski	1

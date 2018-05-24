@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+care		1
+mark		1
+potential	1
+today		1
+take		1
+call		1
+getting		1
+offer		1
+thanks		1
+one		1
+lawyers		1
+deal		1
+love		1

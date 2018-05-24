@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+jim		1
+stokes		1
+bartholomew	1
+barbara		1
+team		1
+up		1
+tn		1
+solve		1
+issue		1
+commercial	1
+funding		1

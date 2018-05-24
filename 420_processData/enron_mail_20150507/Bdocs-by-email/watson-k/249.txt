@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+day		1
+office		1
+msn		1
+saw		1
+log		1
+still		1
+see		1
+don		1

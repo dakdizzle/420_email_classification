@@ -1,0 +1,19 @@
+NumWords	18
+NumTerms	16
+
+price		2
+call		2
+open		1
+louis		1
+know		1
+find		1
+later		1
+see		1
+out		1
+morning		1
+soon		1
+shanks		1
+match		1
+bunda		1
+somethingloveme	1
+give		1

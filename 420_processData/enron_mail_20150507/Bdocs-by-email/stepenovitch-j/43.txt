@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+phone		2
+cell		2
+day		1
+thank		1
+see		1
+home		1
+nice		1
+way		1
+best		1
+touch		1
+tomorrow	1
+joe		1
+ll		1

@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+tulsathomas	1
+goodell		1
+atlanta		1
+people		1
+jon		1
+williams	1
+numbers		1
+following	1
+want		1
+phone		1
+warzel		1
+coleman		1

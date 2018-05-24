@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+good		1
+one		1
+old		1
+still		1

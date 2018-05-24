@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+discuss		1
+issues		1
+counterparties	1
+credit		1

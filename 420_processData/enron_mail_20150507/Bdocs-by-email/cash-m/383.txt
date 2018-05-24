@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+disclaimer	1
+kalen		1
+make		1
+appears		1
+michelle	1
+d		1
+set		1
+sure		1
+still		1
+thanks		1

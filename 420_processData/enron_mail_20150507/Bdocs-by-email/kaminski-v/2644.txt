@@ -1,0 +1,7 @@
+NumWords	6
+NumTerms	4
+
+aol		2
+com		2
+vkaminski	1
+ludkam		1

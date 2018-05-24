@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+well		1
+comx		1
+schoolcraft	1
+january		1
+dx		1
+steven		1
+system		1
+filename	1
+swing		1
+mode		1
+privileged	1
+ds		1
+pstsounds	1
+non		1
+enron		1
+dschool		1
+origin		1
+work		1
+need		1
+test		1
+tw		1
+still		1
+allow		1

@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+arbitrarily	1
+mark		1
+everything	1
+payment		1
+ng		1
+working		1
+keep		1
+vendor		1
+sorry		1
+approved	1
+cl		1
+pay		1
+unfortunately	1
+nothing		1
+looked		1
+lawyers		1
+think		1
+here		1
+ll		1

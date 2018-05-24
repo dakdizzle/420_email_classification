@@ -1,0 +1,24 @@
+NumWords	25
+NumTerms	21
+
+searchconsultants	2
+jessiica	2
+com		2
+resume		2
+snap		1
+internet	1
+job		1
+mailto		1
+contact		1
+outfit		1
+yesterday	1
+out		1
+easy		1
+right		1
+dwell		1
+boards		1
+past		1
+called		1
+putting		1
+wanting		1
+don		1

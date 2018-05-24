@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+book		3
+enpower		2
+ercot		1
+make		1
+asset		1
+keep		1
+flat		1
+mngmnt		1
+appeared	1
+sale		1
+put		1
+peak		1
+mw		1
+stec		1
+eric		1
+changes		1
+lenth		1
+length		1
+everyone	1
+thought		1
+sold		1

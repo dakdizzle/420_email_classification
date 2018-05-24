@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+technology	1
+fyi		1
+derrick		1
+committee	1

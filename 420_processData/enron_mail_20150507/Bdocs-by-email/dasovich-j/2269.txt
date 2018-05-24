@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+wow		1
+great		1
+god		1
+jeff		1
+best		1
+weekend		1
+thanks		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+hear		1
+company		1
+glad		1
+congratulations	1
+made		1
+elite		1

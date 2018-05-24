@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+thanks		2
+everything	1
+few		1
+know		1
+appreciate	1
+jim		1
+ve		1
+diann		1
+done		1
+tough		1
+year		1
+last		1
+months		1

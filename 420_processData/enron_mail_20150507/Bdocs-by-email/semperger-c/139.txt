@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+message		1
+undeliverable	1
+tell		1
+mail		1
+bob		1
+address		1

@@ -1,0 +1,24 @@
+NumWords	24
+NumTerms	21
+
+dasovich	2
+cn		2
+jeff		2
+puc		1
+much		1
+pstthanks	1
+faxed		1
+jdasovic	1
+recipients	1
+filename	1
+na		1
+privileged	1
+colton		1
+non		1
+enron		1
+contract	1
+one		1
+against		1
+filed		1
+ou		1
+very		1

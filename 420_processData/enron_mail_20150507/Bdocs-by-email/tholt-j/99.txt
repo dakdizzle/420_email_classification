@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+beer		1
+right		1
+milk		1
+feed		1

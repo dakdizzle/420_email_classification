@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+need		2
+story		1
+others		1
+ctpies		1
+talk		1
+keep		1
+louise		1
+today		1
+various		1
+million		1
+ways		1
+restricting	1
+aes		1
+slowly		1
+rick		1
+happy		1
+called		1

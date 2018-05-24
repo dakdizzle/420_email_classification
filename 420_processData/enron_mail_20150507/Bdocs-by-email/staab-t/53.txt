@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+card		2
+theresa		1
+staab		1
+received	1
+calling		1
+stop		1
+using		1
+thanks		1

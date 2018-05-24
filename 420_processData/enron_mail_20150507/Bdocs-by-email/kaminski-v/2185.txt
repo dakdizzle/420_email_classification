@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+vince		1
+meeting		1
+shall		1
+anne		1
+brief		1

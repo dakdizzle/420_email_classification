@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+favorite	1
+credit		1
+forever		1
+friend		1
+want		1
+person		1
+russell		1
+ex		1

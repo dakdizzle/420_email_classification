@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+m		1
+time		1
+available	1
+things		1
+work		1
+before		1
+need		1
+don		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+latest		1
+updates		1
+list		1
+stacey		1
+received	1
+forward		1

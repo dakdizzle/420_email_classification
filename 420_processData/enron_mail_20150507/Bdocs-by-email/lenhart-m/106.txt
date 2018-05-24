@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+need		2
+good		1
+chicks		1
+totally		1
+know		1
+today		1
+weekend		1
+read		1
+books		1
+sucks		1
+new		1

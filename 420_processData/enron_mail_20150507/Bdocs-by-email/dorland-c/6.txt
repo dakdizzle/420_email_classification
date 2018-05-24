@@ -1,0 +1,14 @@
+NumWords	12
+NumTerms	11
+
+chris		2
+losing		1
+again		1
+keep		1
+change		1
+year		1
+abt		1
+swcalgary	1
+st		1
+meant		1
+dorland		1

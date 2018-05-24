@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+program		2
+quality		1
+goodcomments	1
+energy		1
+heard		1
+vince		1
+mba		1
+alberta		1
+message		1
+another		1
+university	1
+billy		1

@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+group		1
+mark		1
+dupuy		1
+cooper		1
+caldata		1
+responsibilities	1
+karim		1
+take		1
+pwrfund		1
+nt		1
+thx		1
+over		1
+needs		1
+add		1

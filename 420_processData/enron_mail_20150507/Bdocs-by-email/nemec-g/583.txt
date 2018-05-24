@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+gnemec		2
+cn		2
+everything	1
+tasty		1
+stripper	1
+time		1
+pstis		1
+coronas		1
+downing		1
+recipients	1
+ex		1
+filename	1
+na		1
+privileged	1
+cozumel		1
+hitting		1
+non		1
+enron		1
+simple		1
+nemec		1
+go		1
+ou		1
+couple		1
+gerald		1

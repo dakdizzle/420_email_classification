@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+terminated	1
+under		1
+ones		1
+talks		1
+negotiation	1
+something	1
+way		1
+good		1
+being		1
+signed		1
+contract	1
+read		1
+renegotiated	1

@@ -1,0 +1,18 @@
+NumWords	16
+NumTerms	15
+
+mar		2
+little		1
+sanjeev		1
+weather		1
+honest		1
+jan		1
+nov		1
+looks		1
+peiod		1
+andy		1
+versus		1
+basis		1
+convoluted	1
+pass		1
+feb		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+brian		1
+power		1
+hourly		1
+thomaseast	1
+northeast	1
+terp		1
+book		1
+access		1
+thankspaul	1
+trading		1
+needs		1

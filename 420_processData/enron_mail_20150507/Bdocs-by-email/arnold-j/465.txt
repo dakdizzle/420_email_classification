@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+india		2
+realize		1
+story		1
+ene		1
+lok		1
+gas		1
+assets		1
+sold		1

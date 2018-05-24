@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+required	1
+roeline		1
+guaranty	1
+respond		1
+rudwell		1
+amount		1
+thanks		1

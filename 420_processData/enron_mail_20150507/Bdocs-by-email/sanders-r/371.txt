@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+cn		2
+dont		1
+respond		1
+fyi		1
+brownfeld	1
+assuming	1
+recipients	1
+na		1
+gail		1
+enron		1
+back		1
+ou		1
+gbrownf		1

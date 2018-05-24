@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+nice		1
+ok		1
+meet		1
+emma		1
+see		1

@@ -1,0 +1,25 @@
+NumWords	27
+NumTerms	22
+
+lynn		2
+blair		2
+lblair		2
+privileged	2
+non		2
+post		1
+file		1
+filename	1
+folder		1
+transfer	1
+thanks		1
+pst		1
+content		1
+sent		1
+lx		1
+encoding	1
+origin		1
+itemsx		1
+bitx		1
+toby		1
+next		1
+here		1

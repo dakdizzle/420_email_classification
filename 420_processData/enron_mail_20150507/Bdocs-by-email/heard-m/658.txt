@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+leslie		1
+updated		1
+credit		1
+counterparties	1
+barbara		1
+know		1
+working		1
+williams	1
+attached	1
+morgan		1
+netting		1
+mariex		1
+p		1
+anything	1
+master		1
+chase		1
+list		1
+need		1
+jay		1

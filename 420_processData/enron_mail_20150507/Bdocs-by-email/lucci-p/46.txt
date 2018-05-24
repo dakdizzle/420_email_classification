@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+showing		1
+kennedy		1
+oil		1
+here		1

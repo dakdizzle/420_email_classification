@@ -1,0 +1,25 @@
+NumWords	22
+NumTerms	22
+
+morningfrom	1
+views		1
+john		1
+wagerthats	1
+ng		1
+ect		1
+pleasantjen	1
+fraserenron	1
+markets		1
+take		1
+hou		1
+enron		1
+global		1
+arnold		1
+amto		1
+fraser		1
+ectcc		1
+subject		1
+jennifer	1
+fundamentals	1
+enronxgate	1
+ll		1

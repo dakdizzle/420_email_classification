@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+good		1
+great		1
+wyoming		1
+odds		1
+mean		1
+game		1
+see		1

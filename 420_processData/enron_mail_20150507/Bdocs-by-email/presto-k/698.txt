@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+approval	2
+specifics	1
+lavo		1
+verbal		1
+go		1
+whether		1
+signature	1
+deal		1
+through		1

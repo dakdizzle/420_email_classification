@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+friday		1
+back		1
+today		1
+busy		1
+tommorow	1
+yes		1
+very		1

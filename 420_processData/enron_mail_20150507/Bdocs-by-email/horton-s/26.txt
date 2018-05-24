@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+lunch		2
+board		1
+meeting		1
+know		1
+car		1
+ride		1
+good		1
+downtown	1
+come		1
+back		1
+thursday	1
+tomorrow	1
+dad		1
+work		1
+need		1
+going		1
+business	1
+week		1
+afterwards	1
+give		1
+gisb		1
+ll		1

@@ -1,0 +1,16 @@
+NumWords	18
+NumTerms	13
+
+pool		3
+leach		2
+index		2
+tco		2
+know		1
+guys		1
+interest	1
+sale		1
+take		1
+remember	1
+winter		1
+swap		1
+ll		1

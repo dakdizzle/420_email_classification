@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+stacey		1
+run		1
+difference	1
+tomorrow	1
+caused		1
+idea		1
+call		1

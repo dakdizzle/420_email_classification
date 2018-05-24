@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+bedroom		1
+two		1
+need		1

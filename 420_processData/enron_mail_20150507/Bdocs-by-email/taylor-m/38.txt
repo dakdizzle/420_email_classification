@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+m		1
+check		1
+messages	1
+supposed	1
+remember	1
+thanks		1

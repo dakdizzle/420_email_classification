@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+up		1
+few		1
+well		1
+spots		1
+assuming	1
+home		1
+closes		1
+good		1
+feeling		1
+office		1
+yes		1
+before		1
+week		1
+move		1

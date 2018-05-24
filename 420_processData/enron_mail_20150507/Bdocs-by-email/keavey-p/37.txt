@@ -1,0 +1,21 @@
+NumWords	31
+NumTerms	18
+
+mail		5
+com		5
+dowjones	4
+gas		2
+daily		2
+intelligencepress	1
+prices		1
+john		1
+edmiston	1
+dina		1
+kelley		1
+mcgraw		1
+ngi		1
+hill		1
+platts		1
+omeara		1
+iferc		1
+doolan		1

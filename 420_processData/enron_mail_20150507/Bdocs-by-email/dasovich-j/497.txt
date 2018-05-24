@@ -1,0 +1,22 @@
+NumWords	19
+NumTerms	19
+
+conflict	1
+dwr		1
+time		1
+hired		1
+oh		1
+now		1
+deals		1
+trying		1
+consultant	1
+ve		1
+alright		1
+shouldn		1
+fill		1
+right		1
+another		1
+though		1
+radioactive	1
+doing		1
+ll		1

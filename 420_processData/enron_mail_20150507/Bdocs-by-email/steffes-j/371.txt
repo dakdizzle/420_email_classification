@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+cn		2
+jim		1
+enron		1
+acomnes		1
+recipients	1
+ou		1
+alan		1
+comnes		1
+na		1
+thoughts	1

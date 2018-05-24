@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+allegrodevelopment	1
+nxb		1
+com		1

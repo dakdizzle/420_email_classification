@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+something	1
+fingers		1
+check		1
+cross		1
+background	1
+find		1
+yes		1
+unless		1

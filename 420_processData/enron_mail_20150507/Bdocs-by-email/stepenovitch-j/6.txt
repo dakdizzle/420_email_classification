@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+hold		1
+morning		1
+good		1
+night		1
+last		1

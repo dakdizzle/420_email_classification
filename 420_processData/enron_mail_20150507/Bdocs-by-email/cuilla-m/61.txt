@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+class		1
+typing		1
+today		1
+spelling	1
+need		1
+drunk		1
+take		1

@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+brad		1
+hope		1
+well		1
+nov		1
+rex		1
+see		1
+love		1

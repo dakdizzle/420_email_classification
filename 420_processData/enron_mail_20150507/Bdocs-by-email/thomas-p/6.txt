@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+know		1
+htmlhow		1
+http		1
+www		1
+brazilian	1
+zompist		1
+brazil		1
+com		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+time		1
+talk		1
+going		1
+lots		1

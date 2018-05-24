@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+problems	1
+credit		1
+airlines	1
+gave		1
+mary		1
+review		1
+light		1
+deciding	1
+comparison	1

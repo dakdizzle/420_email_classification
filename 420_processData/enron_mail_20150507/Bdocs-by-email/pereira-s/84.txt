@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+issues		1
+gathering	1
+valerie		1
+vintage		1
+susan		1
+corrections	1
+outstanding	1
+charge		1

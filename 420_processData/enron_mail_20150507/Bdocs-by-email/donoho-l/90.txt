@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+kids		1
+babysitters	1
+weekend		1
+see		1
+ll		1

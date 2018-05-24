@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+still		2
+ok		1
+jobs		1
+banks		1
+business	1
+doing		1

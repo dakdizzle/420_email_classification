@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+between		1
+day		1
+prices		1
+position	1
+calc		1
+difference	1
+attached	1
+smoking		1
+tab		1
+although	1
+sale		1
+crack		1
+see		1
+mikey		1
+thanks		1
+eating		1
+please		1
+go		1
+purchase	1
+show		1
+tell		1
+jmf		1
+marked		1

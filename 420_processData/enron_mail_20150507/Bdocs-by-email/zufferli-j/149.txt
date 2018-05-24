@@ -1,0 +1,22 @@
+NumWords	20
+NumTerms	19
+
+give		2
+limits		1
+reporting	1
+brian		1
+metrics		1
+position	1
+install		1
+canada		1
+measures	1
+gillis		1
+call		1
+questions	1
+want		1
+var		1
+necessary	1
+access		1
+reports		1
+prepare		1
+here		1

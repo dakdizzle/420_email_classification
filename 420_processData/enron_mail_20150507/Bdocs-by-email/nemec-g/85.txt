@@ -1,0 +1,24 @@
+NumWords	23
+NumTerms	21
+
+gnemec		2
+cn		2
+pstattached	1
+hear		1
+nbp		1
+revised		1
+ena		1
+statement	1
+review		1
+recipients	1
+filename	1
+na		1
+privileged	1
+soon		1
+execute		1
+non		1
+enron		1
+please		1
+nemec		1
+ou		1
+gerald		1

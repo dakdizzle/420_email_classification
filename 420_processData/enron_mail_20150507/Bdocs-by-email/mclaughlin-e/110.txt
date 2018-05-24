@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+hr		1
+john		1
+friday		1
+thanksgiving	1
+gas		1
+errol		1
+stacks		1
+asking		1
+going		1
+eol		1
+thanks		1
+running		1

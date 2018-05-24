@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+revisions	1
+jeff		1
+attached	1
+redline		1
+earlier		1

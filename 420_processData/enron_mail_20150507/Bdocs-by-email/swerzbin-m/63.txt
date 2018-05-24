@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+calgary		1
+jill		1
+try		1
+mike		1
+trip		1

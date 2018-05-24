@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+lynn		1
+canattend	1
+meeting		1
+place		1
+john		1
+well		1
+wednesday	1
+th		1
+tuesday		1
+buchanan	1
+thanks		1
+out		1
+asmonday	1
+office		1
+mary		1
+need		1
+going		1
+week		1
+november	1
+next		1

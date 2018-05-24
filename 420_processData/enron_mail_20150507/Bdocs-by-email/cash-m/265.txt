@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+thanks		2
+info		1
+meliza		1
+event		1
+further		1
+keep		1
+karen		1
+file		1
+regarding	1
+go		1
+michelle	1
+ahead		1
+need		1

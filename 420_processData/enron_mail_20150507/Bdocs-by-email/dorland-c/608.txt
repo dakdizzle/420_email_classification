@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+playing		1
+dad		1
+interest	1
+chris		1
+golf		1
+ryan		1
+sunday		1

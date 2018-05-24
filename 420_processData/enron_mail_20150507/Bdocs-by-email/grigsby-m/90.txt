@@ -1,0 +1,17 @@
+NumWords	15
+NumTerms	14
+
+interviews	2
+track		1
+thank		1
+know		1
+wondering	1
+ermis		1
+list		1
+please		1
+scheduled	1
+mike		1
+correct		1
+grigsby		1
+trading		1
+frank		1

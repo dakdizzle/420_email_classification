@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+delete		1
+please		1
+errol		1
+th		1
+thanks		1

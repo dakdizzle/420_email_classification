@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+cn		3
+dc		1
+fd		1
+theresa		1
+enron		1
+staab		1
+notesaddr	1
+recipients	1
+ou		1
+d		1
+na		1
+thanks		1

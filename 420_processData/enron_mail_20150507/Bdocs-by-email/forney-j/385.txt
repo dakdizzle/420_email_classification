@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+plan		1
+cash		1
+everything	1
+well		1
+safe		1
+balance		1
+awhile		1
+biz		1
+talked		1
+hope		1
+havent		1
+going		1
+question	1
+jmf		1

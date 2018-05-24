@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+chris		2
+cn		2
+germany		2
+ed		1
+cgerman		1
+desk		1
+recipients	1
+fine		1
+filename	1
+na		1
+thanks		1
+pst		1
+enron		1
+ou		1

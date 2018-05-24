@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+latest		1
+between		1
+mark		1
+copy		1
+andersen	1
+master		1
+good		1
+agree		1
+enron		1
+understand	1
+michelle	1
+idea		1
+consulting	1
+agreement	1
+new		1

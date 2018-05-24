@@ -1,0 +1,17 @@
+NumWords	27
+NumTerms	14
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+stacy		1
+srunswic	1
+cutsforth	1
+drobins		1
+dcutsfor	1
+robinson	1
+runswick	1
+donald		1
+diane		1

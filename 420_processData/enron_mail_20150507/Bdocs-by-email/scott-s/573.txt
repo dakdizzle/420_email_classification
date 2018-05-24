@@ -1,0 +1,27 @@
+NumWords	27
+NumTerms	24
+
+friday		2
+better		2
+morning		2
+option		1
+day		1
+hey		1
+chuck		1
+evening		1
+know		1
+whether		1
+susan		1
+sounds		1
+chris		1
+wasn		1
+fly		1
+sleep		1
+wondering	1
+thursday	1
+one		1
+want		1
+work		1
+honestly	1
+thought		1
+sure		1

@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+email		1
+progress	1
+thank		1
+apprised	1
+patience	1
+keep		1
+left		1
+sorry		1
+morning		1
+regarding	1
+gty		1
+message		1
+another		1
+yes		1
+debra		1

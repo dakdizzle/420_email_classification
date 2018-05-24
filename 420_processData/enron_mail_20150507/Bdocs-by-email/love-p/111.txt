@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+pl		1
+hull		1
+john		1
+publisher	1
+options		1
+million		1
+books		1
+derivatives	1
+thanks		1
+futures		1
+title		1
+hall		1
+isbn		1
+prentice	1

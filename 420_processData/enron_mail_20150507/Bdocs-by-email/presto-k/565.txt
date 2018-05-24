@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+fun		1
+coming		1
+back		1
+weekend		1
+work		1
+yes		1
+going		1
+isn		1
+sorry		1
+correct		1
+same		1
+matthew		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+liked		1
+line		1
+pavel		1
+bad		1
+everybody	1
+next		1

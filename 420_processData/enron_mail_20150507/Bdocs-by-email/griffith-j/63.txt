@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+come		1
+prunies		1
+thank		1
+bring		1
+pigs		1
+love		1

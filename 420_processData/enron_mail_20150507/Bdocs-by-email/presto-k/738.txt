@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+discuss		1
+back		1
+ll		1

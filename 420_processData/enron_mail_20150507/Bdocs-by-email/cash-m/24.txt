@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+those		1
+employees	1
+hired		1
+take		1
+out		1
+plus		1
+agree		1
+document	1
+part		1
+michelle	1
+need		1
+figure		1
+deal		1

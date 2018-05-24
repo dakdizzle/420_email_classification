@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+net		1
+check		1
+payout		1
+want		1

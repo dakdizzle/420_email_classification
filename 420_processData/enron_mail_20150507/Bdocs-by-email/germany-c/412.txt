@@ -1,0 +1,5 @@
+NumWords	2
+NumTerms	2
+
+ship		1
+plant		1

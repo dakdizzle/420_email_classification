@@ -1,0 +1,23 @@
+NumWords	20
+NumTerms	20
+
+expenses	1
+situation	1
+those		1
+officerenron	1
+fax		1
+flights		1
+operating	1
+louise		1
+today		1
+kitchenchief	1
+docs		1
+reimbursed	1
+printing	1
+christmas	1
+americastel	1
+being		1
+check		1
+please		1
+need		1
+continental	1

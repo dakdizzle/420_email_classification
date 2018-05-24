@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+changed		1
+guide		1
+time		1
+looking		1
+know		1
+week		1
+see		1
+tv		1
+date		1

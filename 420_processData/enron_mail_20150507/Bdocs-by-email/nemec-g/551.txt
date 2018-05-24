@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+ena		2
+confidential	1
+make		1
+ok		1
+reply		1
+information	1
+jean		1
+purposes	1
+proposed	1
+wanted		1
+transactions	1
+areas		1
+clear		1
+want		1
+strike		1
+use		1
+executables	1
+marathon	1
+prepare		1
+certainly	1
+based		1
+compete		1
+richard		1

@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+add		2
+others		1
+spreadsheet	1
+sorry		1
+audrey		1
+thanks		1
+kim		1
+rows		1
+list		1
+bring		1
+changes		1
+color		1
+over		1

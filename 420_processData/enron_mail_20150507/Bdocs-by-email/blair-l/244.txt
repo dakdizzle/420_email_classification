@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+lynn		1
+discuss		1
+terry		1
+thanks		1
+richard		1

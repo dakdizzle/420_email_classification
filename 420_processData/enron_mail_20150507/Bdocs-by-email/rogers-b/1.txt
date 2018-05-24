@@ -1,0 +1,10 @@
+NumWords	10
+NumTerms	7
+
+up		3
+set		2
+aol		1
+soon		1
+pc		1
+whats		1
+ll		1

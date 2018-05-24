@@ -1,0 +1,19 @@
+NumWords	16
+NumTerms	16
+
+early		1
+email		1
+up		1
+mailto		1
+pick		1
+home		1
+great		1
+enron		1
+work		1
+going		1
+before		1
+sager		1
+read		1
+elizabeth	1
+thansk		1
+com		1

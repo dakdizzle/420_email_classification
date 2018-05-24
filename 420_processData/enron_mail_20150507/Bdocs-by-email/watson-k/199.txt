@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+wed		2
+close		1
+belief		1
+up		1
+larry		1
+aga		1
+short		1
+watch		1
+morgan		1
+see		1
+pop		1
+kim		1
+people		1
+contracts	1
+talking		1
+positions	1
+shall		1
+back		1
+tomorrow	1
+before		1
+sept		1
+covering	1
+next		1

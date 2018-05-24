@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+sam		1
+make		1
+stacey		1
+want		1
+documents	1
+preparing	1
+tom		1
+sure		1

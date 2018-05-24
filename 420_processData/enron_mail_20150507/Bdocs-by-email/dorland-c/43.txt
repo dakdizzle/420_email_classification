@@ -1,0 +1,24 @@
+NumWords	21
+NumTerms	21
+
+cid		1
+asp		1
+da		1
+http		1
+www		1
+web		1
+cdetails	1
+vancouver	1
+out		1
+efbb		1
+check		1
+ecf		1
+below		1
+going		1
+ad		1
+theurbangarage	1
+address		1
+feb		1
+saturday	1
+dfb		1
+com		1

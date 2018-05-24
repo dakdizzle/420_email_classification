@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+couldn		1
+opp		1
+yeah		1
+talk		1
+know		1

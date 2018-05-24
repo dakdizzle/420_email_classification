@@ -1,0 +1,27 @@
+NumWords	30
+NumTerms	24
+
+care		2
+sorry		2
+wanted		2
+take		2
+really		2
+back		2
+hurt		1
+day		1
+working		1
+guys		1
+herniated	1
+anyone		1
+guess		1
+see		1
+sweetie		1
+out		1
+happened	1
+ride		1
+jeff		1
+best		1
+another		1
+isn		1
+bad		1
+disks		1

@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+users		1
+ramesh		1
+calculated	1
+instead		1
+list		1
+stacey		1
+end		1
+september	1
+books		1
+still		1

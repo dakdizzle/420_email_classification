@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+party		1
+ask		1
+byoc		1
+need		1
+dave		1
+don		1

@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+today		2
+arm		1
+up		1
+until		1
+friday		1
+sorry		1
+son		1
+thanks		1
+out		1
+around		1
+come		1
+thursday	1
+weekend		1
+mood		1
+sure		1
+broke		1
+over		1

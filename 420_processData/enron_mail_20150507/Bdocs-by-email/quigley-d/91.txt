@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+up		1
+outwould	1
+weekend		1
+want		1
+brush		1
+play		1
+offer		1
+thanks		1

@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+power		2
+sep		1
+southeastern	1
+place		1
+enron		1
+know		1
+admin		1
+contract	1
+buy		1
+tell		1
+rhonda		1
+thanks		1

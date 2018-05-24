@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+nite		1
+owe		1
+jeff		1
+best		1
+tomorrow	1
+ya		1
+million		1
+see		1
+thanks		1

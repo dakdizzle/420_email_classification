@@ -1,0 +1,22 @@
+NumWords	26
+NumTerms	19
+
+cn		4
+recipients	2
+na		2
+enron		2
+ou		2
+model		1
+jean		1
+jdasovic	1
+susan		1
+involved	1
+someone		1
+dasovich	1
+smara		1
+mara		1
+jim		1
+jeff		1
+tell		1
+proceed		1
+needs		1

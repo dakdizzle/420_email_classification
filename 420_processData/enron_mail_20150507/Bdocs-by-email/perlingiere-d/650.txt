@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+regarding	1
+hess		1
+please		1
+following	1
+see		1
+gisb		1

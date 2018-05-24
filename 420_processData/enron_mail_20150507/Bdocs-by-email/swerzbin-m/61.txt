@@ -1,0 +1,26 @@
+NumWords	24
+NumTerms	23
+
+cn		2
+swerzbin	1
+term		1
+laird		1
+origination	1
+recipients	1
+transfer	1
+filename	1
+na		1
+santa		1
+long		1
+done		1
+enron		1
+please		1
+mswerzb		1
+work		1
+ou		1
+city		1
+mike		1
+ltnw		1
+deal		1
+np		1
+clara		1

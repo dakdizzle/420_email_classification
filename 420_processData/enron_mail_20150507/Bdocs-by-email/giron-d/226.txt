@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+stated		1
+sent		1
+confirmation	1
+enron		1
+thanksdg	1
+honor		1
+terms		1
+phone		1
+deal		1
+valid		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+jim		1
+support		1
+decision	1
+chris		1

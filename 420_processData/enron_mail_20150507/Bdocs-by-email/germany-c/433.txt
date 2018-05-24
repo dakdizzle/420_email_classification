@@ -1,0 +1,27 @@
+NumWords	28
+NumTerms	24
+
+enron		3
+germany		2
+com		2
+ed		1
+mcmichael	1
+cash		1
+comx		1
+polsky		1
+desk		1
+left		1
+reliant		1
+cx		1
+th		1
+chris		1
+filename	1
+doug		1
+prepay		1
+phil		1
+april		1
+kelly		1
+pstthe		1
+thur		1
+origin		1
+request		1

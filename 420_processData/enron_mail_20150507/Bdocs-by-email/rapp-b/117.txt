@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+office		1
+bill		1
+week		1
+maxine		1
+next		1
+ll		1

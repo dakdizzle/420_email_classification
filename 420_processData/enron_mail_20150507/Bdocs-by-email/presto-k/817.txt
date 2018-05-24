@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+copy		2
+tva		1
+quot		1
+enron		1
+hard		1
+evelyn		1
+electronic	1
+saved		1
+activity	1
+related		1

@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+down		1
+information	1
+run		1
+trying		1

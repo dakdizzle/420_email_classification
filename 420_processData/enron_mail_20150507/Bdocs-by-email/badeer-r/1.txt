@@ -1,0 +1,20 @@
+NumWords	17
+NumTerms	17
+
+care		1
+talk		1
+houston		1
+knicks		1
+stink		1
+soon		1
+really		1
+monaco		1
+badeer		1
+pure		1
+team		1
+simple		1
+speculate	1
+texans		1
+traders		1
+don		1
+new		1

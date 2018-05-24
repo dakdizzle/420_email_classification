@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+delayed		1
+know		1
+willis		1
+unless		1
+pt		1

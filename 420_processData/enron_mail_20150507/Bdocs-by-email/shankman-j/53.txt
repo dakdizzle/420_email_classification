@@ -1,0 +1,16 @@
+NumWords	16
+NumTerms	13
+
+number		3
+check		2
+send		1
+guys		1
+tried		1
+appear		1
+thanks		1
+valid		1
+tracking	1
+jeff		1
+checking	1
+hi		1
+doesn		1

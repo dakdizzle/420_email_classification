@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+gear		1
+together	1
+plan		1
+dude		1
+boots		1
+buying		1
+skis		1
+getting		1
+ski		1
+two		1
+possible	1
+jeff		1
+best		1
+started		1
+discount	1
+searching	1
+work		1
+poles		1
+maybe		1
+cameron		1
+sets		1
+still		1
+ll		1
+love		1

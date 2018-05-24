@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+bf		2
+home		1
+http		1
+bluefish	1
+www		1
+cgi		1
+htm		1
+offer		1
+com		1

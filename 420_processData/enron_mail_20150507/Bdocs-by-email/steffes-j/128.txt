@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+simply		1
+calculations	1
+tariff		1
+driven		1
+sce		1
+thanks		1
+jim		1
+diann		1
+please		1
+work		1
+determine	1
+process		1
+internal	1
+sue		1

@@ -1,0 +1,22 @@
+NumWords	21
+NumTerms	19
+
+together	2
+sure		2
+monday		1
+stuff		1
+make		1
+working		1
+ees		1
+thanks		1
+jim		1
+out		1
+want		1
+minutes		1
+more		1
+teams		1
+comm		1
+don		1
+figure		1
+op		1
+worry		1

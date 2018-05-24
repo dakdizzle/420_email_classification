@@ -1,0 +1,21 @@
+NumWords	24
+NumTerms	18
+
+pm		6
+geir		2
+solberg		1
+greg		1
+interview	1
+motley		1
+tom		1
+wolfe		1
+schedule	1
+room		1
+alonso		1
+tomorrow	1
+matt		1
+mt		1
+rainier		1
+august		1
+conference	1
+here		1

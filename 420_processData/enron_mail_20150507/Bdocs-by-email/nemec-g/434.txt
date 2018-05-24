@@ -1,0 +1,9 @@
+NumWords	7
+NumTerms	6
+
+deal		2
+spot		1
+yes		1
+separate	1
+looks		1
+mine		1

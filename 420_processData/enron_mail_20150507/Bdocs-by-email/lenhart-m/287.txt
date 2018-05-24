@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+out		1
+those		1
+fun		1
+nice		1
+well		1
+deals		1
+one		1
+hasnt		1
+work		1
+picky		1
+took		1
+didn		1

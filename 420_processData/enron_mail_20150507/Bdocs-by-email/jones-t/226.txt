@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+ndas		1
+momenttrue	1
+following	1
+exchangebizbots	1
+copies		1

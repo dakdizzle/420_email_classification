@@ -1,0 +1,23 @@
+NumWords	32
+NumTerms	20
+
+com		3
+kholst		2
+gmtsubject	2
+december	2
+wednesday	2
+attachment	2
+inline		2
+cn		2
+enron		2
+follows		2
+date		2
+jdeleo		1
+recipients	1
+tfsbrokers	1
+na		1
+apbenergy	1
+keith		1
+holst		1
+davidn		1
+ou		1

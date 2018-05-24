@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+kim		1
+email		1
+people		1
+look		1
+jean		1
+report		1
+cool		1
+address		1
+thanks		1

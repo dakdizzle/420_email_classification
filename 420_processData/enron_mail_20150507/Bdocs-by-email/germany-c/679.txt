@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+night		1
+sounds		1
+pizza		1

@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+bedroom		1
+looks		1
+kk		1
+better		1

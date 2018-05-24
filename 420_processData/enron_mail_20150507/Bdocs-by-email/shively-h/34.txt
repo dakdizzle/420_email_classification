@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+hunter		1
+cuilla		1
+lewismartin	1
+shivelykevin	1
+ruscittigeof	1
+storeyandy	1

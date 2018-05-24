@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+selected	1
+office		1
+please		1
+confirm		1

@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+send		1
+meeting		1
+m		1
+buddy		1
+hey		1
+worksheet	1
+another		1
+going		1
+forget		1
+don		1
+thanks		1

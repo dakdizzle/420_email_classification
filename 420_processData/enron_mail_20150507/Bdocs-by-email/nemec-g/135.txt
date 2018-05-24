@@ -1,0 +1,23 @@
+NumWords	23
+NumTerms	20
+
+cn		2
+nemec		2
+gerald		2
+attached	1
+review		1
+recipients	1
+form		1
+filename	1
+na		1
+gary		1
+privileged	1
+gnemec		1
+bryan		1
+non		1
+enron		1
+confidentiality	1
+ou		1
+pstper		1
+agreement	1
+request		1

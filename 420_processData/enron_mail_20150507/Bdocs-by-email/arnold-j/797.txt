@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+out		2
+ll		2
+taking		1
+wine		1
+ready		1
+unless		1
+picked		1
+call		1
+friends		1
+locker		1
+m		1
+bottles		1
+weekend		1
+went		1
+figure		1
+think		1
+okay		1

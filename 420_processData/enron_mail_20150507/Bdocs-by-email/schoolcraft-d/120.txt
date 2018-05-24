@@ -1,0 +1,25 @@
+NumWords	26
+NumTerms	22
+
+gas		3
+williams	2
+northwest	2
+po		1
+controlchange	1
+fliam		1
+ok		1
+steve		1
+field		1
+thanks		1
+andersonchange	1
+pipeline	1
+ds		1
+delete		1
+liquids		1
+midstream	1
+services	1
+box		1
+sheree		1
+address		1
+pipelinechange	1
+tulsa		1

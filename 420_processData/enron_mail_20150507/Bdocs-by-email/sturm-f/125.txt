@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+up		1
+fletch		1
+don		1

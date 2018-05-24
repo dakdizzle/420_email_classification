@@ -1,0 +1,16 @@
+NumWords	14
+NumTerms	13
+
+time		2
+little		1
+seems		1
+term		1
+short		1
+relationships	1
+hold		1
+out		1
+seen		1
+fundamental	1
+again		1
+whack		1
+don		1

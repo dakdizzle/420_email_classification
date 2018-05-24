@@ -1,0 +1,26 @@
+NumWords	36
+NumTerms	23
+
+cn		6
+recipients	3
+na		3
+enron		3
+ou		3
+lynn		1
+info		1
+rbennin		1
+tkowalk		1
+john		1
+terry		1
+guys		1
+keep		1
+fyi		1
+benningfield	1
+loop		1
+buchanan	1
+thanks		1
+robert		1
+additional	1
+kowalke		1
+pass		1
+jbuchan		1

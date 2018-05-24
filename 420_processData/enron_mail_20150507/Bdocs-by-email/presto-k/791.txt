@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+kevin		2
+presto		1
+ne		1
+related		1
+filename	1
+privileged	1
+assumptions	1
+non		1
+ny		1
+sites		1
+prestox		1
+focus		1
+city		1
+pstplant	1
+correct		1
+development	1

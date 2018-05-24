@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+stay		1
+house		1
+find		1
+need		1
+going		1

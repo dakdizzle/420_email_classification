@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+forward		2
+revised		1
+language	1
+please		1
+letter		1
+draft		1
+review		1
+item		1
+thanks		1
+keith		1

@@ -1,0 +1,26 @@
+NumWords	28
+NumTerms	23
+
+rules		3
+thursday	3
+night		2
+hey		1
+quot		1
+state		1
+playing		1
+friday		1
+therefore	1
+games		1
+sorry		1
+hour		1
+late		1
+later		1
+noon		1
+see		1
+thanks		1
+during		1
+picks		1
+happy		1
+need		1
+weeks		1
+game		1

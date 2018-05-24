@@ -1,0 +1,11 @@
+NumWords	9
+NumTerms	8
+
+see		2
+pl		1
+please		1
+attached	1
+below		1
+comments	1
+file		1
+thanks		1

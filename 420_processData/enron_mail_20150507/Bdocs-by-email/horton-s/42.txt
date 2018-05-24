@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+debbie		1
+cindy		1
+know		1

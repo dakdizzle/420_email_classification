@@ -1,0 +1,18 @@
+NumWords	15
+NumTerms	15
+
+pm		1
+up		1
+catch		1
+time		1
+houston		1
+moves		1
+phone		1
+matters		1
+call		1
+jim		1
+right		1
+proceeding	1
+forward		1
+dst		1
+means		1

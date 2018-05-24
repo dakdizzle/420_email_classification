@@ -1,0 +1,17 @@
+NumWords	14
+NumTerms	14
+
+budget		1
+day		1
+meeting		1
+worried		1
+scheduling	1
+now		1
+difficulties	1
+appear		1
+miss		1
+bit		1
+real		1
+appears		1
+week		1
+next		1

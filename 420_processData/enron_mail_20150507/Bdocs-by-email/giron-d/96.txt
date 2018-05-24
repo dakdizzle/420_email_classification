@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+ft		2
+keystone	1
+make		1
+consistent	1
+ena		1
+west		1
+etc		1
+dg		1
+books		1

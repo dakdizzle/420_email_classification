@@ -1,0 +1,10 @@
+NumWords	7
+NumTerms	7
+
+questar		1
+kim		1
+trails		1
+believe		1
+southern	1
+confirm		1
+ll		1

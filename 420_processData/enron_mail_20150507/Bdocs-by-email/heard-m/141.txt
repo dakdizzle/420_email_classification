@@ -1,0 +1,6 @@
+NumWords	4
+NumTerms	3
+
+received	2
+fax		1
+now		1

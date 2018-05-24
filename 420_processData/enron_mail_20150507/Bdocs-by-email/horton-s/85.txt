@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+ok		1
+now		1
+work		1
+unless		1

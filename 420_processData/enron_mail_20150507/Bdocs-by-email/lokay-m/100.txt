@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+witcity		1
+enron		1
+mail		1
+system		1
+htm		1
+voice		1

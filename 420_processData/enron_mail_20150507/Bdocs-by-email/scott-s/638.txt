@@ -1,0 +1,27 @@
+NumWords	24
+NumTerms	24
+
+primary		1
+discuss		1
+pwc		1
+wei		1
+try		1
+information	1
+talk		1
+susanx		1
+guys		1
+meet		1
+contacting	1
+tables		1
+hoping		1
+thanks		1
+secondary	1
+afternoon	1
+actually	1
+hu		1
+believe		1
+curve		1
+going		1
+locate		1
+mapping		1
+think		1

@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+ve		1
+great		1
+press		1
+read		1
+crack		1
+news		1

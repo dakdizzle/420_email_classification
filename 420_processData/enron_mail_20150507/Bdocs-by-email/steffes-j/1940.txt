@@ -1,0 +1,8 @@
+NumWords	5
+NumTerms	5
+
+jim		1
+ride		1
+m		1
+happy		1
+anyone		1

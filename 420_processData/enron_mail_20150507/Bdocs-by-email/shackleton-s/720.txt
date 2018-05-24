@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+cp		1
+issues		1
+message		1
+debbie		1
+david		1
+sara		1
+etc		1
+left		1
+netting		1
+scoop		1

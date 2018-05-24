@@ -1,0 +1,20 @@
+NumWords	19
+NumTerms	17
+
+david		2
+vacancies	2
+potential	1
+time		1
+substantially	1
+keep		1
+lucklouise	1
+helen		1
+remember	1
+good		1
+believe		1
+please		1
+reduced		1
+numbers		1
+helenwe		1
+buyers		1
+mind		1

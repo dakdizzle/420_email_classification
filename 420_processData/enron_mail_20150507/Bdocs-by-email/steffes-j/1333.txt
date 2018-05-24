@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+jim		1
+fun		1
+yes		1

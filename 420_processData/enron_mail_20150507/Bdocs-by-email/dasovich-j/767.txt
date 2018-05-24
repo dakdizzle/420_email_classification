@@ -1,0 +1,15 @@
+NumWords	13
+NumTerms	12
+
+ll		2
+little		1
+bit		1
+assume		1
+front		1
+jeff		1
+best		1
+desk		1
+laurie		1
+meet		1
+coordinate	1
+thanks		1

@@ -1,0 +1,27 @@
+NumWords	26
+NumTerms	24
+
+cn		2
+jsteffe		2
+knows		1
+rebecca		1
+pstwe		1
+reporting	1
+make		1
+fite		1
+jan		1
+recipients	1
+post		1
+filename	1
+na		1
+privileged	1
+jim		1
+steffes		1
+non		1
+check		1
+enron		1
+gloria		1
+james		1
+ou		1
+need		1
+sure		1

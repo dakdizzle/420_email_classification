@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+letters		1
+make		1
+send		1
+region		1
+steve		1
+loop		1
+jim		1
+montovano	1
+please		1
+manages		1
+guillermo	1
+before		1
+sure		1

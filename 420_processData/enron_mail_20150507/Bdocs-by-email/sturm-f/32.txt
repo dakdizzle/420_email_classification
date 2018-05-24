@@ -1,0 +1,26 @@
+NumWords	23
+NumTerms	23
+
+place		1
+try		1
+today		1
+contact		1
+fletch		1
+phone		1
+sorry		1
+provide		1
+see		1
+list		1
+enron		1
+services	1
+structures	1
+fee		1
+forward		1
+going		1
+need		1
+before		1
+d		1
+compare		1
+haven		1
+ll		1
+victoria	1

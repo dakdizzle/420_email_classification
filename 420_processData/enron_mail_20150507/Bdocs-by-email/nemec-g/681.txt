@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+site		2
+territory	1
+troy		1
+per		1
+power		1
+verify		1
+attached	1
+whether		1
+nicor		1
+directions	1
+grove		1
+chris		1
+driving		1
+please		1
+illinois	1
+discussions	1

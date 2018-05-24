@@ -1,0 +1,12 @@
+NumWords	10
+NumTerms	9
+
+mail		2
+inbox		1
+everything	1
+derek		1
+forward		1
+management	1
+puked		1
+deleted		1
+conference	1

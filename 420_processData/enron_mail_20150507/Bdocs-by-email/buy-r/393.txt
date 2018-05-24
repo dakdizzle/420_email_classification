@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+taking		1
+unaware		1
+mcmahon		1
+phone		1
+bali		1
+ted		1
+cell		1
+klockner	1
+rick		1
+needed		1
+issue		1
+informed	1
+ll		1

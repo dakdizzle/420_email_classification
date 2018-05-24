@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+paul		1
+mariella	1
+ermes		1
+please		1
+wednesday	1
+fine		1
+inform		1
+elio		1
+thanks		1

@@ -1,0 +1,20 @@
+NumWords	18
+NumTerms	17
+
+ua		2
+theresa		1
+unaccounted	1
+scott		1
+statement	1
+system		1
+crestone	1
+soon		1
+charging	1
+contract	1
+forward		1
+fuel		1
+walt		1
+correct		1
+fixing		1
+means		1
+inclusive	1

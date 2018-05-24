@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+please		1
+reset		1
+sap		1
+password	1

@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+alicia		2
+cn		2
+lynn		1
+fun		1
+much		1
+time		1
+invite		1
+ke		1
+know		1
+thank		1
+alender		1
+recipients	1
+ma		1
+na		1
+lenderman	1
+thanks		1
+enron		1
+ou		1
+everyone	1
+very		1

@@ -1,0 +1,26 @@
+NumWords	26
+NumTerms	23
+
+until		2
+call		2
+didn		2
+everything	1
+sorry		1
+late		1
+later		1
+books		1
+looks		1
+yesterday	1
+home		1
+beyond		1
+back		1
+cooked		1
+night		1
+usual		1
+business	1
+bad		1
+last		1
+repair		1
+think		1
+here		1
+over		1

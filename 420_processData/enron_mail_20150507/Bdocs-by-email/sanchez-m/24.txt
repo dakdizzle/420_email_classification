@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+smile		1
+laugh		1
+great		1
+store		1
+time		1
+hard		1
+mind		1
+ll		1

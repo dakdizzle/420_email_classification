@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+kim		1
+book		1
+tuesday		1
+shirley		1
+aug		1
+thanks		1

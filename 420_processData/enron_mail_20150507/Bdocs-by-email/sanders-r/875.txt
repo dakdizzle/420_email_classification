@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+room		1
+brother		1
+beds		1
+picton		1
+traveling	1
+night		1
+nd		1
+feb		1

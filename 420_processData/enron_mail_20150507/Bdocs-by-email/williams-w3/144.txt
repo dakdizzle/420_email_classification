@@ -1,0 +1,16 @@
+NumWords	13
+NumTerms	13
+
+vering		1
+shorts		1
+stock		1
+funds		1
+know		1
+kochel		1
+talked		1
+co		1
+agree		1
+bill		1
+bounce		1
+don		1
+expecting	1

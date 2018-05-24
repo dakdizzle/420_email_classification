@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+kim		1
+look		1
+respond		1
+forgot		1
+john		1
+fine		1
+sorry		1
+thanks		1

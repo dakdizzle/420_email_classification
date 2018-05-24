@@ -1,0 +1,7 @@
+NumWords	4
+NumTerms	4
+
+colorado	1
+water		1
+rafting		1
+white		1

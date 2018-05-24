@@ -1,0 +1,27 @@
+NumWords	25
+NumTerms	24
+
+tomorrow	2
+breaking	1
+open		1
+together	1
+time		1
+front		1
+up		1
+share		1
+organization	1
+bleak		1
+input		1
+assurance	1
+sally		1
+understand	1
+kind		1
+yes		1
+forward		1
+going		1
+pretty		1
+very		1
+request		1
+love		1
+news		1
+calendar	1

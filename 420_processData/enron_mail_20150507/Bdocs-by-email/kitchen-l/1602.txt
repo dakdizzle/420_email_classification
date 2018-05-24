@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+master		1
+coming		1
+people		1
+worried		1
+managment	1
+volume		1

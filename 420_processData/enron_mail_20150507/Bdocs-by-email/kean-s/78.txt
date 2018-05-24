@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+word		1
+texas		1
+tomorrow	1
+fyi		1
+barton		1
+austin		1
+speaking	1
+seeing		1
+conservative	1
+forum		1

@@ -1,0 +1,16 @@
+NumWords	15
+NumTerms	13
+
+first		2
+tourney		2
+those		1
+pm		1
+guys		1
+club		1
+noon		1
+basis		1
+serve		1
+come		1
+tomorrow	1
+game		1
+play		1

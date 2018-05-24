@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+meeting		1
+entire		1
+time		1
+tomorrow	1
+stan		1
+preparing	1
+sure		1
+afternoon	1

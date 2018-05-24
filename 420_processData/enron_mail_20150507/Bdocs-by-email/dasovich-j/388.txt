@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+jim		1
+good		1
+fielder		1
+jeff		1
+debrief		1
+rick		1
+know		1
+steve		1
+minutes		1
+thx		1
+take		1
+talked		1

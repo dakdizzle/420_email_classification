@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+jim		1
+pm		1
+marks		1
+daily		1
+review		1
+everyone	1
+d		1
+think		1

@@ -1,0 +1,24 @@
+NumWords	29
+NumTerms	21
+
+com		4
+djunek		2
+chris		2
+enron		2
+germany		2
+hotmail		2
+aol		1
+digs		1
+apartment	1
+sq		1
+aeglobalmarkets	1
+thanks		1
+daniel		1
+caveman		1
+ft		1
+pmto		1
+feel		1
+trogg		1
+subject		1
+junek		1
+new		1

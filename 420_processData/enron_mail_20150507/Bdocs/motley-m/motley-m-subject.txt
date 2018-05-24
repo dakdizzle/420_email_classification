@@ -1,0 +1,22 @@
+NumWords	26
+NumTerms	19
+
+fw		5
+hi		3
+hello		2
+bunny		1
+job		1
+now		1
+elafandi	1
+attorney	1
+house		1
+wanna		1
+football	1
+ssarr		1
+update		1
+devil		1
+available	1
+buy		1
+requisition	1
+resume		1
+ii		1

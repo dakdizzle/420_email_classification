@@ -1,0 +1,23 @@
+NumWords	22
+NumTerms	20
+
+good		2
+thought		2
+saying		1
+well		1
+safe		1
+guess		1
+left		1
+sorry		1
+late		1
+trip		1
+never		1
+better		1
+wish		1
+bye		1
+regards		1
+thursday	1
+jon		1
+night		1
+work		1
+last		1

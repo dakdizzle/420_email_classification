@@ -1,0 +1,9 @@
+NumWords	6
+NumTerms	6
+
+care		1
+much		1
+really		1
+know		1
+c		1
+mad		1

@@ -1,0 +1,11 @@
+NumWords	8
+NumTerms	8
+
+calgary		1
+office		1
+please		1
+forward		1
+chris		1
+transferred	1
+dorland		1
+here		1

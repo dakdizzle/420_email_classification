@@ -1,0 +1,15 @@
+NumWords	14
+NumTerms	12
+
+ft		2
+per		2
+gri		1
+aca		1
+leach		1
+rates		1
+mainline	1
+demandonshore	1
+fuel		1
+daymainline	1
+include		1
+dayall		1

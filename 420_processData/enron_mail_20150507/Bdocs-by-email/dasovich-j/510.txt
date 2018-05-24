@@ -1,0 +1,17 @@
+NumWords	16
+NumTerms	14
+
+things		2
+going		2
+hey		1
+well		1
+wanted		1
+see		1
+seen		1
+thinking	1
+hope		1
+check		1
+jeff		1
+best		1
+swimmingly	1
+haven		1

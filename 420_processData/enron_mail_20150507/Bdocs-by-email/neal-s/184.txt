@@ -1,0 +1,13 @@
+NumWords	10
+NumTerms	10
+
+look		1
+great		1
+scott		1
+saludos		1
+well		1
+again		1
+future		1
+forward		1
+seeing		1
+see		1

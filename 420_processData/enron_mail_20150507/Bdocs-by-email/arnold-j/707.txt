@@ -1,0 +1,12 @@
+NumWords	12
+NumTerms	9
+
+long		2
+time		2
+ago		2
+seems		1
+good		1
+tennessee	1
+although	1
+sure		1
+very		1

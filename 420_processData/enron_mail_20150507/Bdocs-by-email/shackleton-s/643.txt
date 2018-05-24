@@ -1,0 +1,19 @@
+NumWords	17
+NumTerms	16
+
+brokerage	2
+care		1
+coming		1
+ena		1
+agreementsdo	1
+fyi		1
+such		1
+second		1
+gil		1
+sara		1
+idea		1
+accordance	1
+agreement	1
+process		1
+don		1
+routed		1

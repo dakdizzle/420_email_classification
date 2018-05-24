@@ -1,0 +1,17 @@
+NumWords	17
+NumTerms	14
+
+up		3
+going		2
+fun		1
+time		1
+wedding		1
+hit		1
+out		1
+o		1
+good		1
+sat		1
+weekend		1
+think		1
+tonight		1
+milagro		1

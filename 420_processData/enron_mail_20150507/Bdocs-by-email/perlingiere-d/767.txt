@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+go		1
+peach		1
+want		1

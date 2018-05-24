@@ -1,0 +1,14 @@
+NumWords	11
+NumTerms	11
+
+both		1
+lateral		1
+directly	1
+lavo		1
+working		1
+eric		1
+louise		1
+yes		1
+fletch		1
+transfer	1
+aware		1

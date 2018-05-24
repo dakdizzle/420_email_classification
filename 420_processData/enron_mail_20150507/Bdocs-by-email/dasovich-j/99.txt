@@ -1,0 +1,23 @@
+NumWords	27
+NumTerms	20
+
+cn		4
+recipients	2
+na		2
+enron		2
+ou		2
+case		1
+lisa		1
+mellencamp	1
+tribolet	1
+assuming	1
+mtribole	1
+michael		1
+ve		1
+seen		1
+lmellen		1
+jeff		1
+best		1
+interesting	1
+fairly		1
+here		1

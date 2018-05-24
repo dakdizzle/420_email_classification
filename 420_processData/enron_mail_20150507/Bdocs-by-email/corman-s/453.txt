@@ -1,0 +1,6 @@
+NumWords	3
+NumTerms	3
+
+time		1
+name		1
+yes		1

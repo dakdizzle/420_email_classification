@@ -1,0 +1,15 @@
+NumWords	12
+NumTerms	12
+
+removedlouise	1
+officerenron	1
+fax		1
+international	1
+americastel	1
+operating	1
+one		1
+kitchenchief	1
+need		1
+critical	1
+bar		1
+pretty		1

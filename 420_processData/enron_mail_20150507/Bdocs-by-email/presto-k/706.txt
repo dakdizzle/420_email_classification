@@ -1,0 +1,25 @@
+NumWords	23
+NumTerms	22
+
+kevin		2
+presto		1
+friday		1
+deals		1
+cinergy		1
+filename	1
+privileged	1
+summer		1
+done		1
+revenues	1
+non		1
+prestox		1
+rogers		1
+pstthe		1
+sign		1
+mtm		1
+gross		1
+deal		1
+margin		1
+amount		1
+beco		1
+needs		1

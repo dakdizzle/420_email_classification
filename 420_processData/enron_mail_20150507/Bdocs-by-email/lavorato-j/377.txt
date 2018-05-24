@@ -1,0 +1,12 @@
+NumWords	9
+NumTerms	9
+
+out		1
+check		1
+office		1
+up		1
+john		1
+come		1
+keys		1
+give		1
+ll		1

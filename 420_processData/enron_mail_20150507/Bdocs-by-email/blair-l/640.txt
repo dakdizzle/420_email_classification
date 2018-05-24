@@ -1,0 +1,26 @@
+NumWords	28
+NumTerms	23
+
+enron		3
+lynn		2
+blair		2
+com		2
+status		1
+terry		1
+john		1
+comx		1
+dale		1
+lblair		1
+zone		1
+filename	1
+buchanan	1
+thanks		1
+pst		1
+privileged	1
+research	1
+non		1
+lx		1
+project		1
+origin		1
+kowalke		1
+level		1

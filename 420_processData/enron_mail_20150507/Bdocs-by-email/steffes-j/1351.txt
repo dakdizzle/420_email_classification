@@ -1,0 +1,25 @@
+NumWords	24
+NumTerms	22
+
+alan		2
+cn		2
+collect		1
+credit		1
+overpayment	1
+recipients	1
+thereby		1
+ctc		1
+na		1
+jim		1
+way		1
+artificially	1
+enron		1
+px		1
+acomnes		1
+more		1
+forward		1
+ou		1
+going		1
+comnes		1
+allow		1
+reduce		1

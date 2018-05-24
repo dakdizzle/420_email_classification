@@ -1,0 +1,13 @@
+NumWords	11
+NumTerms	10
+
+current		2
+policy		1
+those		1
+backdating	1
+signing		1
+close		1
+make		1
+time		1
+mean		1
+think		1
